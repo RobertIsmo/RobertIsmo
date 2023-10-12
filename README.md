@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-There is a lot of turmoil in the world right now. In Israel, there has been an increase in violence between Hamas and Israeli forces, leading to civilian loss of life and injuries. Meanwhile in the US, the Republican Party recently chose Steve Scalise as their new speaker nominee, although he faces stiff resistance from some members. There is also a case involving 18 defendants who are facing legal bills in Georgia related to Trump&#39;s actions. Additionally, Russia is dealing with the effects of Vladimir Putin&#39;s war and there are various laws being passed in red states in America regarding social media use. Finally, if your friend is looking for something more positive, they can check out Montreal for an awesome 36 hour trip.</p>
+There is a lot going on in the world right now. In Israel, there has been conflict between Hamas and the Israeli military. There has been a massacre in which many people had to take refuge in their homes for 5 hours before help arrived. In Gaza, hospitals are running short of fuel and beds due to the number of wounded people from airstrikes. 
+
+Also, Republicans have chosen Steve Scalise as their new speaker nominee for the House of Representatives, but the election has been postponed due to internal divisions in the party. Additionally, Social Security benefits will increase by 3.2% in 2024 and it looks like the Federal Reserve may be done raising interest rates, which could cool economic growth. 
+
+Finally, former president Trump faces a slew of legal troubles with his lawyers arguing over the timing of his federal trials. There are also fundraisers underway to cover the legal expenses for some individuals who were involved with prosecuting him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Retired Israeli General Who Grabbed His Pistol and Took On Hamas</h3>
@@ -75,16 +79,28 @@ There is a lot of turmoil in the world right now. In Israel, there has been an i
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rescuers in Gaza Struggle With Dwindling Fuel and Lack of Equipment</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Paramedics said they would need bulldozers, which they don’t have, to pull more people from buildings destroyed by Israeli airstrikes amid power cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<h3>This Hospital in Gaza Is Running Short on Fuel and Beds</h3>
+<sub>By Samar Abu Elouf and Hiba Yazbek</sub>
+<p>Staff members are scrambling to treat the wounded, who are crammed into corridors that are also filled with people who fled their homes amid Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Tensions Rise on Israel-Lebanon Border, and More</h3>
 <sub>By New York Times Audio</sub>
 <p>Plus, Republicans undercut a new selection for House speaker, and the aftermath of a devastating earthquake in Afghanistan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Social Security Benefits Will Rise 3.2% in 2024</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Millions of Social Security beneficiaries, from retirees to disabled workers, will receive the cost-of-living adjustment, which is far less than last year’s but still higher than average.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investors Are Calling It: The Federal Reserve May Be Done Raising Rates</h3>
+<sub>By Joe Rennison and Jeanna Smialek</sub>
+<p>Investors doubt that central bankers will lift borrowing costs again following big market moves that are widely expected to cool growth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Choose a New Speaker Nominee, Then Quickly Undercut Him</h3>
@@ -97,6 +113,12 @@ There is a lot of turmoil in the world right now. In Israel, there has been an i
 <sub>By Luke Broadwater and Annie Karni</sub>
 <p>The No. 2 House Republican won a slim majority, but the chamber adjourned after bitter divisions in the party delayed an election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The New Republican Establishment</h3>
+<sub>By Nate Cohn</sub>
+<p>An alternative Trumpist governing elite gets closer to ruling the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Facing Big Legal Bills, Defendants in Georgia Trump Case Seek Donations</h3>
@@ -115,24 +137,6 @@ There is a lot of turmoil in the world right now. In Israel, there has been an i
 <sub>By Alan Feuer</sub>
 <p>In a court filing, the former president’s legal team accused prosecutors in the classified documents case of trying at any cost to win a verdict against him by Election Day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>36 Hours in Montreal</h3>
-<sub>By Danial Adkison</sub>
-<p>Climb a mountain, wander the waterfront and enjoy a smoked-meat sandwich in a city with a surprise around every corner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Russian Military Town, Patriotism and Pathos Live Side by Side</h3>
-<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
-<p>The contradictions of Vladimir Putin’s war are changing the face of towns with military bases in Russia. Patriotism and pride are abundant, but so are sadness and death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>As Red States Curb Social Media, Did Montana’s TikTok Ban Go Too Far?</h3>
-<sub>By Natasha Singer, Sapna Maheshwari and David McCabe</sub>
-<p>Montana is at the forefront of a wave of new tech laws passed by Republican-led states. Some give parents control over their children’s social media accounts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
