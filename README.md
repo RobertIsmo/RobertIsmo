@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-In the world, there are several major news stories. Hamas recently attacked Israel and caused a lot of disruption in the country and some false information is being shared on social media. The US Republican party has been grappling with divisions and delayed an election in Congress. The Supreme Court is looking into racial gerrymandering of voting maps. There have also been serious safety lapses noted in air traffic control in Texas that almost resulted in an aviation disaster. In other news, singer Usher is making a comeback with new music, and the Biden administration is planning to build new walls at the US-Mexico border. NASA also released its first glimpse of a collected scientific treasure from asteroid Bennu. Finally, there&#39;s an interesting article about a woman who is relieved she can&#39;t have children.</p>
+Currently, there is tension in the Middle East between Israel and Hamas, with former Israeli generals taking action. In terms of U.S. politics, Republican legislators are fighting over choosing a new speaker, and there is a court case involving the drawing of voting maps based on race and partisanship. In business news, air traffic control lapses have put many passengers at risk, while in music Usher is releasing new music that could redefine the genre. In New York City, people are debating whether free preschool should be offered to everyone or just those in need. NASA has also recently released its first glimpse of &quot;scientific treasure&quot; from a mission to an asteroid. Finally, there is a personal piece of writing about not being able to have children but feeling relieved.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Hamas, Shattering Israel’s Sense of Security Is a Major Goal</h3>
-<sub>By Ben Hubbard</sub>
-<p>Rising domestic pressures and a desire to boost its anti-Israel credentials pushed Hamas to attack and most likely drove its decision to inflict terror.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<h3>The Retired Israeli General Who Grabbed His Pistol and Took On Hamas</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>By rushing to confront the attackers himself, Israel Ziv has become a public symbol of Israel’s former military successes — and its failure this time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Long Wait for Help as Massacres Unfolded in Israel</h3>
@@ -75,9 +75,9 @@ In the world, there are several major news stories. Hamas recently attacked Isra
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>False Claims Around Israel Attacks Include Recycled Videos and a Game Clip</h3>
-<sub>By Angelo Fichera and Roni Rabin</sub>
-<p>Graphic imagery and footage have flooded social media since Hamas terrorists attacked Israelis. Bogus claims are also circulating and risk obscuring real evidence of atrocities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Hamas, Shattering Israel’s Sense of Security Is a Major Goal</h3>
+<sub>By Ben Hubbard</sub>
+<p>Rising domestic pressures and a desire to boost its anti-Israel credentials pushed Hamas to attack and most likely drove its decision to inflict terror.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
