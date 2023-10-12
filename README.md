@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, October 11, Central Standard Time</p>
+<p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-There has been a lot of news around the world recently. In Israel, Hamas has attacked people, and there has been a lot of confusion about the military&#39;s response. In the US, there has been a chaotic situation resulting from an internal decision to elect Steve Scalise as speaker for the House of Representatives. Supreme Court justices are looking at rules that draw voting maps that contain a racial gerrymander. There was also a near-collision of two planes in the US due to air traffic control lapses. Meanwhile, Usher is bringing R&amp;B music back, and there is controversy around who should have access to free preschool in New York City. NASA released its first glimpse of material collected from an asteroid through its Osiris-Rex mission, and Birkenstock went public in New York.</p>
+In the world, there are several major news stories. Hamas recently attacked Israel and caused a lot of disruption in the country and some false information is being shared on social media. The US Republican party has been grappling with divisions and delayed an election in Congress. The Supreme Court is looking into racial gerrymandering of voting maps. There have also been serious safety lapses noted in air traffic control in Texas that almost resulted in an aviation disaster. In other news, singer Usher is making a comeback with new music, and the Biden administration is planning to build new walls at the US-Mexico border. NASA also released its first glimpse of a collected scientific treasure from asteroid Bennu. Finally, there&#39;s an interesting article about a woman who is relieved she can&#39;t have children.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Hamas, Shattering Israel’s Sense of Security Is a Major Goal</h3>
@@ -75,9 +75,9 @@ There has been a lot of news around the world recently. In Israel, Hamas has att
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>False Claims Around the Israel Attacks Include Recycled Videos and a Game Clip</h3>
+<h3>False Claims Around Israel Attacks Include Recycled Videos and a Game Clip</h3>
 <sub>By Angelo Fichera and Roni Rabin</sub>
-<p>Graphic imagery and footage has flooded social media since Hamas terrorists attacked Israelis. Bogus claims are also circulating, and risk obscuring real evidence of atrocities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Graphic imagery and footage have flooded social media since Hamas terrorists attacked Israelis. Bogus claims are also circulating and risk obscuring real evidence of atrocities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,10 +129,10 @@ There has been a lot of news around the world recently. In Israel, Hamas has att
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>From LSD to I.P.O.</h3>
-<sub>By Elizabeth Paton</sub>
-<p>Once the symbol of the counterculture, lately the darlings of the fashion world, Birkenstock went public in New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<h3>My (Liberating) Secret Shame</h3>
+<sub>By Teresa Pham-Carsillo</sub>
+<p>I may be unable to have children, and I am relieved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
