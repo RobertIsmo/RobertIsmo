@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-There is some serious tension in the Middle East right now. U.S. and Qatar have blocked Iran from accessing $6 billion from a prisoner exchange deal, and hospitals in Gaza that are running desperately low on fuel and beds as people flee their homes amid Israeli airstrikes. Meanwhile, Senator Robert Menendez of New Jersey has been indicted with charges of plotting to make him a foreign agent for Egypt while he was head of the Senate Foreign Relations Committee. There&#39;s also controversy in the U.S. with Republican House Representative Steve Scalise trying to become speaker but facing resistance from different factions within the party, and a new &quot;Trumpist governing elite&quot; rising as a power struggle takes place in the party. There are even attempts to impeach the newly seated liberal justice on the Wisconsin Supreme Court before she can undo any proposed legislative gerrymander by Republicans, though they ultimately backed down. Additionally, millions of Social Security beneficiaries will received a 3.2% rise in benefits next year, and housing costs represented more than 70% of total price increases for all items less food and energy last month. Finally, some defendants involved in a legal case involving Georgia Trump are trying to raise money to pay their bills through campaigns such as selling “MAGA honey”!</p>
+There is a lot going on around the world right now. In Israel, there is debate over how and how long to carry out a war in Gaza against Hamas. Meanwhile, Egypt has been providing aid to Gazans who are unable to flee due to the closed border with Egypt. The US and Qatar have denied Iran access to $6 billion from a prisoner deal after critics argued that money was going to fund Hamas. In New York, Senator Robert Menendez from New Jersey has been indicted for plotting to be an agent for Egypt while also leading the Senate Foreign Relations Committee. In Washington DC, there is disarray among House Republicans which is preventing work from getting done as they struggle to elect a Speaker. In Wisconsin, plans to impeach a liberal justice on their Supreme Court were reversed by Republicans. Former President Donald Trump is headed back to a NY court for the trial accusing him of inflating his assets value, and inflation rate in September has slowed down from 2022, but there are still signs of stalling progress. Finally, Montreal is an exciting city with plenty of things to do like climbing mountains and enjoying food along the waterfront.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. and Qatar Deny Iran’s Access to $6 Billion From Prisoner Deal</h3>
-<sub>By Michael Crowley and Alan Rappeport</sub>
-<p>The money had  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>When Everyone Becomes a War Photographer</h3>
-<sub>By Jason Farago</sub>
-<p>The images streaming onto our phones from Israel and Gaza, many coming from those fighting or caught up in the war, don’t just document the story — they shape it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Israel Prepares for War in Gaza, Debate Is Over How and How Long</h3>
+<sub>By Steven Erlanger and Ronen Bergman</sub>
+<p>The country’s new unity government agrees that Hamas must be destroyed so it can never attack Israel again, but there is little appetite for a reoccupation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>This Hospital in Gaza Is Running Short on Fuel and Beds</h3>
-<sub>By Samar Abu Elouf and Hiba Yazbek</sub>
-<p>Staff members are scrambling to treat the wounded, who are crammed into corridors that are also filled with people who fled their homes amid Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Deaths Soar in Gaza From Israeli Strikes, Egypt Offers Aid, but No Exit</h3>
+<sub>By Declan Walsh</sub>
+<p>Gazans are blocked from fleeing through Egypt, which has kept tight control of its border. An Israeli invasion of Gaza could test President Abdel Fattah el-Sisi’s approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. and Qatar Deny Iran Access to $6 Billion From Prisoner Deal</h3>
+<sub>By Michael Crowley and Alan Rappeport</sub>
+<p>The move comes after harsh criticism that the Biden administration had given Iran a vast sum that freed up other funds for Tehran to provide support to Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -95,7 +95,7 @@ There is some serious tension in the Middle East right now. U.S. and Qatar have 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scalise Scrounges for Votes as G.O.P. Speaker Fight Drags On</h3>
 <sub>By Luke Broadwater</sub>
-<p>The No. 2 Republican was working intensively to win over holdouts, but there was no sign of a breakthrough that would allow the House to move forward with an election for speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The No. 2 Republican was working to win over holdouts, but there was no sign of a breakthrough that would allow the House to move forward with an election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +104,10 @@ There is some serious tension in the Middle East right now. U.S. and Qatar have 
 <p>The holdouts who refuse to back the No. 2 Republican, the party’s nominee, reflect the many competing groups inside the divided G.O.P. conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The New Republican Establishment</h3>
-<sub>By Nate Cohn</sub>
-<p>An alternative Trumpist governing elite gets closer to ruling the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here’s What Can’t Get Done While Republicans Fight Over a Speaker</h3>
+<sub>By Robert Jimison</sub>
+<p>The disarray among House Republicans has left a chamber of Congress hobbled at a time of international and domestic crises.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +116,22 @@ There is some serious tension in the Middle East right now. U.S. and Qatar have 
 <p>Republicans had floated the idea of impeaching Janet Protasiewicz, newly seated on the Wisconsin Supreme Court, before she could undo the party’s legislative gerrymander. But on Thursday, they backed off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Social Security Benefits Will Rise 3.2% in 2024</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Millions of Social Security beneficiaries, from retirees to disabled workers, will receive the cost-of-living adjustment, which is far less than last year’s but still higher than average.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Plans Return to N.Y. Court for a Showdown With Michael Cohen</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>The former president’s former fixer is expected to testify next week in the trial accusing Mr. Trump of inflating the value of his assets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Housing was the biggest contributor to inflation last month.</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>Housing costs represented more than 70 percent of the total year-over-year price increase for all items less food and energy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inflation Slowdown Remains Bumpy, September Consumer Price Data Shows</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Prices are rising at a pace that is much less rapid than in 2022, but signs of stalling progress are likely to keep Federal Reserve officials wary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Facing Big Legal Bills, Defendants in Georgia Trump Case Seek Donations</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Fund-raising campaigns — including one selling “MAGA honey” — are underway for many of the 18 defendants in a case that could take years to resolve.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>36 Hours in Montreal</h3>
+<sub>By Danial Adkison</sub>
+<p>Climb a mountain, wander the waterfront and enjoy a smoked-meat sandwich in a city with a surprise around every corner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
