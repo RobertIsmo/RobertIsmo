@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there has been conflict between Hamas and the Israeli military. There has been a massacre in which many people had to take refuge in their homes for 5 hours before help arrived. In Gaza, hospitals are running short of fuel and beds due to the number of wounded people from airstrikes. 
-
-Also, Republicans have chosen Steve Scalise as their new speaker nominee for the House of Representatives, but the election has been postponed due to internal divisions in the party. Additionally, Social Security benefits will increase by 3.2% in 2024 and it looks like the Federal Reserve may be done raising interest rates, which could cool economic growth. 
-
-Finally, former president Trump faces a slew of legal troubles with his lawyers arguing over the timing of his federal trials. There are also fundraisers underway to cover the legal expenses for some individuals who were involved with prosecuting him.</p>
+There is some serious tension in the Middle East right now. U.S. and Qatar have blocked Iran from accessing $6 billion from a prisoner exchange deal, and hospitals in Gaza that are running desperately low on fuel and beds as people flee their homes amid Israeli airstrikes. Meanwhile, Senator Robert Menendez of New Jersey has been indicted with charges of plotting to make him a foreign agent for Egypt while he was head of the Senate Foreign Relations Committee. There&#39;s also controversy in the U.S. with Republican House Representative Steve Scalise trying to become speaker but facing resistance from different factions within the party, and a new &quot;Trumpist governing elite&quot; rising as a power struggle takes place in the party. There are even attempts to impeach the newly seated liberal justice on the Wisconsin Supreme Court before she can undo any proposed legislative gerrymander by Republicans, though they ultimately backed down. Additionally, millions of Social Security beneficiaries will received a 3.2% rise in benefits next year, and housing costs represented more than 70% of total price increases for all items less food and energy last month. Finally, some defendants involved in a legal case involving Georgia Trump are trying to raise money to pay their bills through campaigns such as selling “MAGA honey”!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Retired Israeli General Who Grabbed His Pistol and Took On Hamas</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>By rushing to confront the attackers himself, Israel Ziv has become a public symbol of Israel’s former military successes — and its failure this time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. and Qatar Deny Iran’s Access to $6 Billion From Prisoner Deal</h3>
+<sub>By Michael Crowley and Alan Rappeport</sub>
+<p>The money had  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Long Wait for Help as Massacres Unfolded in Israel</h3>
-<sub>By Lauren Leatherby, Emma Bubola, Arijeta Lajka, Amy Schoenfeld Walker, Molly Cook Escobar and Pablo Robles</sub>
-<p>“Where is the army,” a woman texted her family after hiding from Hamas attackers for five hours. Here’s the evidence showing how long it took Israel to respond to the attacks on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>When Everyone Becomes a War Photographer</h3>
+<sub>By Jason Farago</sub>
+<p>The images streaming onto our phones from Israel and Gaza, many coming from those fighting or caught up in the war, don’t just document the story — they shape it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>This Hospital in Gaza Is Running Short on Fuel and Beds</h3>
@@ -84,10 +80,40 @@ Finally, former president Trump faces a slew of legal troubles with his lawyers 
 <p>Staff members are scrambling to treat the wounded, who are crammed into corridors that are also filled with people who fled their homes amid Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Tensions Rise on Israel-Lebanon Border, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Republicans undercut a new selection for House speaker, and the aftermath of a devastating earthquake in Afghanistan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez and Wife Face Charges of Plotting to Make Him a Foreign Agent</h3>
+<sub>By Benjamin Weiser, Nicholas Fandos and William K. Rashbaum</sub>
+<p>Prosecutors said he acted on behalf of Egypt even as he served as head of the Senate Foreign Relations Committee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Read the New Menendez Indictment</h3>
+<sub></sub>
+<p>Senator Robert Menendez of New Jersey was indicted on Thursday by federal prosecutors with an additional charge: that he conspired to act as an foreign agent of Egypt while he was also the chairman of the Senate Foreign Relations Committee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scalise Scrounges for Votes as G.O.P. Speaker Fight Drags On</h3>
+<sub>By Luke Broadwater</sub>
+<p>The No. 2 Republican was working intensively to win over holdouts, but there was no sign of a breakthrough that would allow the House to move forward with an election for speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Scalise Bid for Speaker Meets Resistance From Web of G.O.P. Factions</h3>
+<sub>By Catie Edmondson</sub>
+<p>The holdouts who refuse to back the No. 2 Republican, the party’s nominee, reflect the many competing groups inside the divided G.O.P. conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The New Republican Establishment</h3>
+<sub>By Nate Cohn</sub>
+<p>An alternative Trumpist governing elite gets closer to ruling the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Wisconsin Republicans Retreat From Threats to Impeach Liberal Justice</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Republicans had floated the idea of impeaching Janet Protasiewicz, newly seated on the Wisconsin Supreme Court, before she could undo the party’s legislative gerrymander. But on Thursday, they backed off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
@@ -97,27 +123,9 @@ Finally, former president Trump faces a slew of legal troubles with his lawyers 
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Are Calling It: The Federal Reserve May Be Done Raising Rates</h3>
-<sub>By Joe Rennison and Jeanna Smialek</sub>
-<p>Investors doubt that central bankers will lift borrowing costs again following big market moves that are widely expected to cool growth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Choose a New Speaker Nominee, Then Quickly Undercut Him</h3>
-<sub>By Carl Hulse</sub>
-<p>Multiple lawmakers refused to honor their party’s internal selection of Steve Scalise, continuing the chaos over the speakership with no end in sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Nominates Steve Scalise for Speaker but Postpones Full Vote</h3>
-<sub>By Luke Broadwater and Annie Karni</sub>
-<p>The No. 2 House Republican won a slim majority, but the chamber adjourned after bitter divisions in the party delayed an election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The New Republican Establishment</h3>
-<sub>By Nate Cohn</sub>
-<p>An alternative Trumpist governing elite gets closer to ruling the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Housing was the biggest contributor to inflation last month.</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>Housing costs represented more than 70 percent of the total year-over-year price increase for all items less food and energy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -125,18 +133,6 @@ Finally, former president Trump faces a slew of legal troubles with his lawyers 
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>Fund-raising campaigns — including one selling “MAGA honey” — are underway for many of the 18 defendants in a case that could take years to resolve.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Claim That He Can’t Be Prosecuted Collides With Precedents</h3>
-<sub>By Adam Liptak</sub>
-<p>The former president says he has “absolute immunity.” But an array of Supreme Court decisions tells a different story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Lawyers Lash Out Over Timing of His Federal Trials</h3>
-<sub>By Alan Feuer</sub>
-<p>In a court filing, the former president’s legal team accused prosecutors in the classified documents case of trying at any cost to win a verdict against him by Election Day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
