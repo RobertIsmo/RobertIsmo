@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Israel, there is debate over how and how long to carry out a war in Gaza against Hamas. Meanwhile, Egypt has been providing aid to Gazans who are unable to flee due to the closed border with Egypt. The US and Qatar have denied Iran access to $6 billion from a prisoner deal after critics argued that money was going to fund Hamas. In New York, Senator Robert Menendez from New Jersey has been indicted for plotting to be an agent for Egypt while also leading the Senate Foreign Relations Committee. In Washington DC, there is disarray among House Republicans which is preventing work from getting done as they struggle to elect a Speaker. In Wisconsin, plans to impeach a liberal justice on their Supreme Court were reversed by Republicans. Former President Donald Trump is headed back to a NY court for the trial accusing him of inflating his assets value, and inflation rate in September has slowed down from 2022, but there are still signs of stalling progress. Finally, Montreal is an exciting city with plenty of things to do like climbing mountains and enjoying food along the waterfront.</p>
+There is a lot going on in the world right now. In Israel, they are preparing for war in Gaza with a debate over how and how long they should fight. Meanwhile, the Palestinians are struggling to find room for the dead as warnings of a crisis in Gaza mount. In Iran, they have been denied access to $6 billion from a prisoner deal by the US and Qatar. Here in the US, House Republicans are in chaos after Scalise withdrew his candidacy as speaker, and they are unable to unite due to internal divisions. This has left Congress hobbled at a time when there are international and domestic crises. A trial over the death of Elijah McClain resulted in a surprising split decision; one officer was convicted while another was acquitted. There are also billboards in Israel thanking President Biden for his warm embrace after Trump was so closely tied with the Israeli right. But Biden is keeping one eye on the home front too; he&#39;s done events related to economic issues while managing this conflict between Israel and Hamas. In October, we will get to see a ring of fire solar eclipse sweeping across much of the Western Hemisphere! On top of that, Senator Bob Menendez and his wife have been charged with plotting to make him a foreign agent. Lastly, prosecutors issued an error-riddled report regarding Menendez&#39;s car crash where his wife killed a pedestrian with her Mercedes-Benz but she was not charged.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Israel Prepares for War in Gaza, Debate Is Over How and How Long</h3>
@@ -69,9 +69,9 @@ There is a lot going on around the world right now. In Israel, there is debate o
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Deaths Soar in Gaza From Israeli Strikes, Egypt Offers Aid, but No Exit</h3>
-<sub>By Declan Walsh</sub>
-<p>Gazans are blocked from fleeing through Egypt, which has kept tight control of its border. An Israeli invasion of Gaza could test President Abdel Fattah el-Sisi’s approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Warnings of Crisis in Gaza Mount, Palestinians Struggle to Find Room for the Dead</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Israel’s latest strikes on Gaza have drawn warnings from aid workers and residents of a humanitarian catastrophe. “We are facing a huge disaster,” said one U.N. official.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,28 +80,16 @@ There is a lot going on around the world right now. In Israel, there is debate o
 <p>The move comes after harsh criticism that the Biden administration had given Iran a vast sum that freed up other funds for Tehran to provide support to Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez and Wife Face Charges of Plotting to Make Him a Foreign Agent</h3>
-<sub>By Benjamin Weiser, Nicholas Fandos and William K. Rashbaum</sub>
-<p>Prosecutors said he acted on behalf of Egypt even as he served as head of the Senate Foreign Relations Committee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Read the New Menendez Indictment</h3>
-<sub></sub>
-<p>Senator Robert Menendez of New Jersey was indicted on Thursday by federal prosecutors with an additional charge: that he conspired to act as an foreign agent of Egypt while he was also the chairman of the Senate Foreign Relations Committee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise Scrounges for Votes as G.O.P. Speaker Fight Drags On</h3>
+<h3>Scalise Withdraws as Speaker Candidate, Leaving G.O.P. in Chaos</h3>
 <sub>By Luke Broadwater</sub>
-<p>The No. 2 Republican was working to win over holdouts, but there was no sign of a breakthrough that would allow the House to move forward with an election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The No. 2 Republican had worked to win over holdouts, but could not find a path to uniting his fractious party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise Bid for Speaker Meets Resistance From Web of G.O.P. Factions</h3>
-<sub>By Catie Edmondson</sub>
-<p>The holdouts who refuse to back the No. 2 Republican, the party’s nominee, reflect the many competing groups inside the divided G.O.P. conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With the World in Crisis, House Republicans Bicker Among Themselves</h3>
+<sub>By Carl Hulse</sub>
+<p>Despite conflicts overseas and an approaching deadline to avert a government shutdown, Republicans are unable to rise above their internal divisions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,27 +99,39 @@ There is a lot going on around the world right now. In Israel, there is debate o
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Wisconsin Republicans Retreat From Threats to Impeach Liberal Justice</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Republicans had floated the idea of impeaching Janet Protasiewicz, newly seated on the Wisconsin Supreme Court, before she could undo the party’s legislative gerrymander. But on Thursday, they backed off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>One Officer Convicted and Another Acquitted in Elijah McClain Death</h3>
+<sub>By Audra D. S. Burch and Kelley Manley</sub>
+<p>The jury came back with a surprising split decision on two men tried jointly, holding the more experienced officer accountable in the first of three trials in the death of the young Black man.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israeli Billboards Thanking the U.S. Have a New Face on Them: Biden’s</h3>
+<sub>By Jonathan Weisman and Lisa Lerer</sub>
+<p>After Donald J. Trump bound himself tightly to the Israeli right, and President Biden approached the divided nation gingerly, a warm presidential embrace has eased years of tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Even With Flames Abroad, Biden Keeps One Eye on the Home Front</h3>
+<sub>By Peter Baker</sub>
+<p>The president continued to hold events on economic issues while managing the conflict between Israel and Hamas, hoping to appeal to Americans focused on pocketbook concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Maps of the 2023 ‘Ring of Fire’ Solar Eclipse</h3>
+<sub>By Jonathan Corum</sub>
+<p>On Saturday, Oct. 14, an annular or “ring of fire” solar eclipse will sweep across much of the Western Hemisphere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez and Wife Face Charges of Plotting to Make Him a Foreign Agent</h3>
+<sub>By Benjamin Weiser, Nicholas Fandos and William K. Rashbaum</sub>
+<p>Prosecutors said he acted on behalf of Egypt even as he served as head of the Senate Foreign Relations Committee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Plans Return to N.Y. Court for a Showdown With Michael Cohen</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>The former president’s former fixer is expected to testify next week in the trial accusing Mr. Trump of inflating the value of his assets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Slowdown Remains Bumpy, September Consumer Price Data Shows</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Prices are rising at a pace that is much less rapid than in 2022, but signs of stalling progress are likely to keep Federal Reserve officials wary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>36 Hours in Montreal</h3>
-<sub>By Danial Adkison</sub>
-<p>Climb a mountain, wander the waterfront and enjoy a smoked-meat sandwich in a city with a surprise around every corner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Issued Error-Riddled Report in Menendez Car Crash</h3>
+<sub>By Tracey Tully and Nicholas Fandos</sub>
+<p>New Jersey prosecutors concluded that Nadine Menendez, Senator Bob Menendez’s wife, should not be charged after she killed a pedestrian with her Mercedes-Benz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
