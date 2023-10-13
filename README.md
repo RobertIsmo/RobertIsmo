@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 13, Central Standard Time</p>
 <p>
-There is a lot of recent international news related to Israel and Gaza. Hamas launched an attack on Israel, which has now brought new scrutiny on the group&#39;s ties to Iran. Meanwhile, Palestinian Americans trapped in Gaza are feeling abandoned and wondering if the US government will step in to help them evacuate. There is the potential for military invasion in Gaza, which has caused divisions among the Jewish community in New York to be put on hold while they grieve together. Supporters have gathered near the El Al counter at Kennedy Airport to send supplies and encouragement to those heading to Israel. At the same time, there have also been airstrikes intensifying in Gaza and across the US, with revelations of Chinese bitcoin mines in Wyoming and their proximity to military data centers. Microsoft recently closed a $69 billion deal with Activision despite facing objections from regulators around the world.</p>
+There has been an eruption of violence in the Gaza conflict between Hamas and Israel, leaving many Palestinian Americans feeling abandoned and resulting in increased security around religious institutions and public spaces across the U.S. In addition, Jordan and Scott are dueling it out for house speaker amidst a Republican fight, and Senator Robert Menendez has been indicted on charges that highlight how Egypt’s powerful intelligence agency wields influence. Microsoft is also closing a 69 billion dollar Activision deal despite objections from regulators, and Chinese bitcoin mines are now drawing attention from U.S. national security scrutiny.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas Attack on Israel Brings New Scrutiny of Group’s Ties to Iran</h3>
-<sub>By Farnaz Fassihi and Ronen Bergman</sub>
-<p>Officials from Iran and Hezbollah helped plan the attack, people familiar with the operation said, but the U.S. and its allies have not found evidence directly linking Tehran.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>C.I.A. Reports Contained General Warnings of Potential Gaza Flare-up</h3>
+<sub>By Julian E. Barnes, Adam Entous, Edward Wong and Adam Goldman</sub>
+<p>Reports issued days before the Hamas attack did not foresee such a deadly strike, but did say rocket attacks were possible.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -74,10 +74,10 @@ There is a lot of recent international news related to Israel and Gaza. Hamas la
 <p>As bombs fall and phone batteries run low, Palestinian American families caught in the Israel-Hamas war wonder whether the U.S. government will help them escape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>A Looming Invasion in Gaza</h3>
-<sub>By David Leonhardt and Lauren Jackson</sub>
-<p>The war has the potential to become another case study in the strategic difficulties of urban warfare.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. is trying to broker a way out of Gaza for foreigners and ‘safe zones’ for Palestinians, an official says.</h3>
+<sub>By Edward Wong</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -86,35 +86,35 @@ There is a lot of recent international news related to Israel and Gaza. Hamas la
 <p>Usually lively and often fractious, political conversations are set aside among the large community of Jews in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Terminal 4 at J.F.K.: Center of a Wave of Support for Israel</h3>
-<sub>By Christopher Maag</sub>
-<p>As soldiers, reservists and volunteers head to Israel, supporters gathered near the El Al counter at Kennedy Airport to give them supplies and cheers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel-Hamas War Threatens Wider Unrest and Crushes Hopes for Calmer Mideast</h3>
+<sub>By Vivian Nereim</sub>
+<p>The conflict is inflaming tensions across the region, where many of the problems that fueled uprisings and conflicts a decade ago remain unresolved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fact or Fiction? In This War, It Is Hard to Tell.</h3>
+<sub>By Steven Lee Myers</sub>
+<p>Social media is full of false and misleading posts. The rise in A.I. is making it worse. And the trust in traditional news sources has declined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel, Gaza and the Laws of War</h3>
-<sub>By Amanda Taub</sub>
-<p>International law offers a framework for how to analyze what is happening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Airstrikes Intensify in Gaza, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Scalise withdraws as House speaker candidate and a look at Montana’s TikTok ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Cities Bolster Security After Hamas Calls for Day of Protest</h3>
+<sub>By Colbi Edmonds and Corey Kilgannon</sub>
+<p>Officials increased patrols around religious institutions and public spaces across the country, as tensions in Jewish and Muslim communities mounted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan to Seek Speakership as Republican Infighting Rages</h3>
+<h3>Jordan to Face Off Against Scott for Speakership Amid Republican Fight</h3>
 <sub>By Luke Broadwater</sub>
-<p>The hard-right Republican from Ohio was pressing to win the nomination as his party remained in chaos after the ousting of the speaker and the abrupt withdrawal of his chosen successor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Representative Austin Scott of Georgia, a lesser-known mainstream conservative, announced his candidacy as Representative Jim Jordan was set to make his case to Republicans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Scalise Withdraws as Speaker Candidate, Leaving G.O.P. in Chaos</h3>
-<sub>By Luke Broadwater, Catie Edmondson and Karoun Demirjian</sub>
-<p>The No. 2 Republican had worked to win over holdouts but could not find a path to uniting his fractious party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<h3>Behind a Senator’s Indictments, a Foreign Spy Service Works Washington</h3>
+<sub>By Mark Mazzetti and Vivian Yee</sub>
+<p>The charges against Senator Robert Menendez and his wife highlight how Egypt’s powerful intelligence agency wields influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Across U.S., Chinese Bitcoin Mines Draw National Security Scrutiny</h3>
@@ -123,15 +123,15 @@ There is a lot of recent international news related to Israel and Gaza. Hamas la
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Closes $69 Billion Activision Deal, Overcoming Regulators’ Objections</h3>
-<sub>By Kellen Browning and David McCabe</sub>
-<p>The megadeal could strengthen Microsoft’s standing in the video game industry, after a year and a half of negotiations with regulators around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Upshot of Microsoft’s Activision Deal: Big Tech Can Get Even Bigger</h3>
+<sub>By Cecilia Kang and David McCabe</sub>
+<p>With the completion of the blockbuster acquisition, the notion that tech giants can grow through “vertical transactions” remains intact.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Microsoft Turned the Tide in Its Regulatory Fight Over Activision</h3>
-<sub>By Karen Weise, Kellen Browning and David McCabe</sub>
-<p>The company found a way to placate three of the most powerful regulatory bodies in the world, along with a federal judge in San Francisco.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Microsoft Closes $69 Billion Activision Deal, Overcoming Regulators’ Objections</h3>
+<sub>By Kellen Browning and David McCabe</sub>
+<p>The megadeal could strengthen Microsoft’s standing in the video game industry, after a year and a half of negotiations with regulators around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
