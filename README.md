@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 13, Central Standard Time</p>
 <p>
-There has been an eruption of violence in the Gaza conflict between Hamas and Israel, leaving many Palestinian Americans feeling abandoned and resulting in increased security around religious institutions and public spaces across the U.S. In addition, Jordan and Scott are dueling it out for house speaker amidst a Republican fight, and Senator Robert Menendez has been indicted on charges that highlight how Egypt’s powerful intelligence agency wields influence. Microsoft is also closing a 69 billion dollar Activision deal despite objections from regulators, and Chinese bitcoin mines are now drawing attention from U.S. national security scrutiny.</p>
+There is a lot of conflict happening in the world right now between Israelis and Palestinians due to a deadly Hamas attack. Major cities around the United States are bolstering security in response to this and many Jewish and Muslim communities are feeling the tension. In addition, the US is investigating Chinese Bitcoin Mines that are tied to the Chinese state and there was also political turmoil among Republicans in Congress looking for an internal leader. Despite all this, there is some hope as two American women had a joyous homecoming in Israel this week. On a lighter note, some people who love Disney so much they want to live it and turning 50 can be something special too.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>C.I.A. Reports Contained General Warnings of Potential Gaza Flare-up</h3>
@@ -68,17 +68,11 @@ There has been an eruption of violence in the Gaza conflict between Hamas and Is
 <p>Reports issued days before the Hamas attack did not foresee such a deadly strike, but did say rocket attacks were possible.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trapped in Gaza, Palestinian Americans Say They Feel Abandoned</h3>
-<sub>By Sharon Otterman, Anna Betts, Anushka Patil and Karen Zraick</sub>
-<p>As bombs fall and phone batteries run low, Palestinian American families caught in the Israel-Hamas war wonder whether the U.S. government will help them escape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. is trying to broker a way out of Gaza for foreigners and ‘safe zones’ for Palestinians, an official says.</h3>
-<sub>By Edward Wong</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>For Jewish New Yorkers, Shared Grief Puts Divisions on Hold</h3>
@@ -86,10 +80,10 @@ There has been an eruption of violence in the Gaza conflict between Hamas and Is
 <p>Usually lively and often fractious, political conversations are set aside among the large community of Jews in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel-Hamas War Threatens Wider Unrest and Crushes Hopes for Calmer Mideast</h3>
-<sub>By Vivian Nereim</sub>
-<p>The conflict is inflaming tensions across the region, where many of the problems that fueled uprisings and conflicts a decade ago remain unresolved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Two Women, a Joyous Homecoming in Israel Gone Horribly Awry</h3>
+<sub>By Julie Bosman, Robert Chiarito and Nicholas Bogel-Burroughs</sub>
+<p>Judith and Natalie Raanan, mother and daughter, are among the Americans caught up in the chaos and horror of the Hamas assault and its aftermath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -105,9 +99,9 @@ There has been an eruption of violence in the Gaza conflict between Hamas and Is
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan to Face Off Against Scott for Speakership Amid Republican Fight</h3>
+<h3>Divided G.O.P. Nominates Jordan for Speaker, Elevating a Hard-Right Figure</h3>
 <sub>By Luke Broadwater</sub>
-<p>Representative Austin Scott of Georgia, a lesser-known mainstream conservative, announced his candidacy as Representative Jim Jordan was set to make his case to Republicans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Ohio congressman was his party’s second nominee this week to emerge from a raucous internal fight. It was not clear he could draw a majority to be elected on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +116,22 @@ There has been an eruption of violence in the Gaza conflict between Hamas and Is
 <p>Microsoft reported one site in Wyoming because of its proximity to a data center and nuclear missile base. Records show other cryptocurrency facilities have ties to the Chinese state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Upshot of Microsoft’s Activision Deal: Big Tech Can Get Even Bigger</h3>
-<sub>By Cecilia Kang and David McCabe</sub>
-<p>With the completion of the blockbuster acquisition, the notion that tech giants can grow through “vertical transactions” remains intact.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80</h3>
+<sub>By Clay Risen</sub>
+<p>Acclaimed as one of America’s greatest living writers, she blended deeply personal material with themes of mythology and nature.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Closes $69 Billion Activision Deal, Overcoming Regulators’ Objections</h3>
-<sub>By Kellen Browning and David McCabe</sub>
-<p>The megadeal could strengthen Microsoft’s standing in the video game industry, after a year and a half of negotiations with regulators around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>It’s Not Enough to Love Disney. They Want to Live Disney.</h3>
+<sub>By Lia Picard</sub>
+<p>For some, a dream is a wish your heart makes at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Reflections on a Porch, and a Life</h3>
+<sub>By Elisabeth Egan</sub>
+<p>Turning 50 isn’t the end of youth or the start of old age. It’s a perch with a stable foundation and a great view.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
