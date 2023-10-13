@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, they are preparing for war in Gaza with a debate over how and how long they should fight. Meanwhile, the Palestinians are struggling to find room for the dead as warnings of a crisis in Gaza mount. In Iran, they have been denied access to $6 billion from a prisoner deal by the US and Qatar. Here in the US, House Republicans are in chaos after Scalise withdrew his candidacy as speaker, and they are unable to unite due to internal divisions. This has left Congress hobbled at a time when there are international and domestic crises. A trial over the death of Elijah McClain resulted in a surprising split decision; one officer was convicted while another was acquitted. There are also billboards in Israel thanking President Biden for his warm embrace after Trump was so closely tied with the Israeli right. But Biden is keeping one eye on the home front too; he&#39;s done events related to economic issues while managing this conflict between Israel and Hamas. In October, we will get to see a ring of fire solar eclipse sweeping across much of the Western Hemisphere! On top of that, Senator Bob Menendez and his wife have been charged with plotting to make him a foreign agent. Lastly, prosecutors issued an error-riddled report regarding Menendez&#39;s car crash where his wife killed a pedestrian with her Mercedes-Benz but she was not charged.</p>
+Right now there is a lot going on around the world. Israel is preparing for war in Gaza and there are warnings of a humanitarian crisis. In addition, the US and Qatar are denying Iran access to $6 billion from a prisoner deal. In the US there is a lot of internal problem and disarray as Republicans struggle to elect a Speaker in the House of Representatives. Meanwhile, one officer has been convicted and another acquitted in Elijah McClain&#39;s death. Israel has put up billboards thanking the US and President Biden for his warm embrace of the nation. Trump&#39;s remarks about Hezbollah and Netanyahu have resulted in bipartisan outcry. Finally, an annular solar eclipse will be sweeping across much of the Western Hemisphere later this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Israel Prepares for War in Gaza, Debate Is Over How and How Long</h3>
@@ -82,8 +82,8 @@ There is a lot going on in the world right now. In Israel, they are preparing fo
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scalise Withdraws as Speaker Candidate, Leaving G.O.P. in Chaos</h3>
-<sub>By Luke Broadwater</sub>
-<p>The No. 2 Republican had worked to win over holdouts, but could not find a path to uniting his fractious party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Luke Broadwater, Catie Edmondson and Karoun Demirjian</sub>
+<p>The No. 2 Republican had worked to win over holdouts but could not find a path to uniting his fractious party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -101,7 +101,7 @@ There is a lot going on in the world right now. In Israel, they are preparing fo
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Officer Convicted and Another Acquitted in Elijah McClain Death</h3>
 <sub>By Audra D. S. Burch and Kelley Manley</sub>
-<p>The jury came back with a surprising split decision on two men tried jointly, holding the more experienced officer accountable in the first of three trials in the death of the young Black man.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The jury came back with a surprising split decision on two men who were tried together, holding the more experienced officer accountable in the first of three trials in the young Black man’s death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +116,23 @@ There is a lot going on in the world right now. In Israel, they are preparing fo
 <p>The president continued to hold events on economic issues while managing the conflict between Israel and Hamas, hoping to appeal to Americans focused on pocketbook concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Remarks on Hezbollah and Netanyahu Prompt Bipartisan Outcry</h3>
+<sub>By Neil Vigdor, Alyce McFadden and Nicholas Nehamas</sub>
+<p>Republican rivals and the White House were among those to roundly condemn the former president for his characterization of the Lebanese militant group.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis, Voicing Support for Israel, Is Asked: What About Palestine?</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>On the campaign trail in New Hampshire, a prospective voter asked the Florida governor, who has issued statements of staunch support for Israel, about civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Maps of the 2023 ‘Ring of Fire’ Solar Eclipse</h3>
 <sub>By Jonathan Corum</sub>
 <p>On Saturday, Oct. 14, an annular or “ring of fire” solar eclipse will sweep across much of the Western Hemisphere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez and Wife Face Charges of Plotting to Make Him a Foreign Agent</h3>
-<sub>By Benjamin Weiser, Nicholas Fandos and William K. Rashbaum</sub>
-<p>Prosecutors said he acted on behalf of Egypt even as he served as head of the Senate Foreign Relations Committee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Prosecutors Issued Error-Riddled Report in Menendez Car Crash</h3>
-<sub>By Tracey Tully and Nicholas Fandos</sub>
-<p>New Jersey prosecutors concluded that Nadine Menendez, Senator Bob Menendez’s wife, should not be charged after she killed a pedestrian with her Mercedes-Benz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
