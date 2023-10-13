@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 13, Central Standard Time</p>
 <p>
-Right now there are a lot of tensions in the Middle East between Israel and Hamas. Iran and Hezbollah have been accused of playing a role in organizing an attack on Israel. In response, people in Israel have come together to volunteer and donate supplies for those affected. Meanwhile in the US, there is a lot going on as well. There are airstrikes in Gaza, political turmoil over a Republican House Speaker candidate, and scrutiny of Chinese Bitcoin mines near US data centers and nuclear bases. President Biden has recently shown support for Israel, which has caused some controversy due to it being divided from Palestine. Florida Governor DeSantis has also been facing questions about his stance on Palestine while out on the campaign trail. Lastly, there is an extreme shortage of food cart permits in New York City with 10,000 vendors yet to receive one despite recent reforms made by the city.</p>
+There is a lot of recent international news related to Israel and Gaza. Hamas launched an attack on Israel, which has now brought new scrutiny on the group&#39;s ties to Iran. Meanwhile, Palestinian Americans trapped in Gaza are feeling abandoned and wondering if the US government will step in to help them evacuate. There is the potential for military invasion in Gaza, which has caused divisions among the Jewish community in New York to be put on hold while they grieve together. Supporters have gathered near the El Al counter at Kennedy Airport to send supplies and encouragement to those heading to Israel. At the same time, there have also been airstrikes intensifying in Gaza and across the US, with revelations of Chinese bitcoin mines in Wyoming and their proximity to military data centers. Microsoft recently closed a $69 billion deal with Activision despite facing objections from regulators around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hamas Attack on Israel Brings New Scrutiny of Group’s Ties to Iran</h3>
@@ -68,16 +68,46 @@ Right now there are a lot of tensions in the Middle East between Israel and Hama
 <p>Officials from Iran and Hezbollah helped plan the attack, people familiar with the operation said, but the U.S. and its allies have not found evidence directly linking Tehran.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘United Because of This Disaster’: Israelis Rush to Volunteer After Hamas Attacks</h3>
-<sub>By Isabel Kershner and Avishag Shaar-Yashuv</sub>
-<p>A long-divided country is pulling together in a show of solidarity, donating everything from breast milk to high-tech help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trapped in Gaza, Palestinian Americans Say They Feel Abandoned</h3>
+<sub>By Sharon Otterman, Anna Betts, Anushka Patil and Karen Zraick</sub>
+<p>As bombs fall and phone batteries run low, Palestinian American families caught in the Israel-Hamas war wonder whether the U.S. government will help them escape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>A Looming Invasion in Gaza</h3>
+<sub>By David Leonhardt and Lauren Jackson</sub>
+<p>The war has the potential to become another case study in the strategic difficulties of urban warfare.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>For Jewish New Yorkers, Shared Grief Puts Divisions on Hold</h3>
+<sub>By John Leland</sub>
+<p>Usually lively and often fractious, political conversations are set aside among the large community of Jews in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Terminal 4 at J.F.K.: Center of a Wave of Support for Israel</h3>
+<sub>By Christopher Maag</sub>
+<p>As soldiers, reservists and volunteers head to Israel, supporters gathered near the El Al counter at Kennedy Airport to give them supplies and cheers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel, Gaza and the Laws of War</h3>
+<sub>By Amanda Taub</sub>
+<p>International law offers a framework for how to analyze what is happening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Airstrikes Intensify in Gaza, and More</h3>
 <sub>By New York Times Audio</sub>
 <p>Plus, Scalise withdraws as House speaker candidate and a look at Montana’s TikTok ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan to Seek Speakership as Republican Infighting Rages</h3>
+<sub>By Luke Broadwater</sub>
+<p>The hard-right Republican from Ohio was pressing to win the nomination as his party remained in chaos after the ousting of the speaker and the abrupt withdrawal of his chosen successor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,51 +117,21 @@ Right now there are a lot of tensions in the Middle East between Israel and Hama
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With the World in Crisis, House Republicans Bicker Among Themselves</h3>
-<sub>By Carl Hulse</sub>
-<p>Despite conflicts overseas and an approaching deadline to avert a government shutdown, Republicans are unable to rise above their internal divisions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Across U.S., Chinese Bitcoin Mines Draw National Security Scrutiny</h3>
 <sub>By Gabriel J.X. Dance and Michael Forsythe</sub>
 <p>Microsoft reported one site in Wyoming because of its proximity to a data center and nuclear missile base. Records show other cryptocurrency facilities have ties to the Chinese state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>One Officer Convicted and Another Acquitted in Elijah McClain Death</h3>
-<sub>By Audra D. S. Burch and Kelley Manley</sub>
-<p>The jury came back with a surprising split decision on two men who were tried together, holding the more experienced officer accountable in the first of three trials in the young Black man’s death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Jesmyn Ward Is Reimagining Southern Literature</h3>
-<sub>By Imani Perry</sub>
-<p>The novelist is competing with giants like William Faulkner, while mapping territory all her own.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Microsoft Closes $69 Billion Activision Deal, Overcoming Regulators’ Objections</h3>
+<sub>By Kellen Browning and David McCabe</sub>
+<p>The megadeal could strengthen Microsoft’s standing in the video game industry, after a year and a half of negotiations with regulators around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israeli Billboards Thanking the U.S. Have a New Face on Them: Biden’s</h3>
-<sub>By Jonathan Weisman and Lisa Lerer</sub>
-<p>After Donald J. Trump bound himself tightly to the Israeli right, and President Biden approached the divided nation gingerly, a warm presidential embrace has eased years of tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Remarks on Hezbollah and Netanyahu Prompt Bipartisan Outcry</h3>
-<sub>By Neil Vigdor, Alyce McFadden and Nicholas Nehamas</sub>
-<p>Republican rivals and the White House were among those to roundly condemn the former president for his characterization of the Lebanese militant group.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis, Voicing Support for Israel, Is Asked: What About Palestine?</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>On the campaign trail in New Hampshire, a prospective voter asked the Florida governor, who has issued statements of staunch support for Israel, about civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York Has Issued 14 New Food Cart Permits. 10,000 Vendors Want Them.</h3>
-<sub>By Stefanos Chen</sub>
-<p>More than a year after the city implemented reforms to the food vendor licensing process, few have received permits, even as enforcement picks up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Microsoft Turned the Tide in Its Regulatory Fight Over Activision</h3>
+<sub>By Karen Weise, Kellen Browning and David McCabe</sub>
+<p>The company found a way to placate three of the most powerful regulatory bodies in the world, along with a federal judge in San Francisco.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
