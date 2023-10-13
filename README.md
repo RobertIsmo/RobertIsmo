@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 13, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Israel, there is escalating conflict with Hamas as the Israeli government prepares for war. Warnings of a humanitarian crisis in Gaza have been mounting, and Palestinians are struggling to find room for the dead. Then in the US, Republicans are in chaos as they fight over who will become their party&#39;s next Speaker. At the same time, US and Qatar have just denied Iran access to $6 billion from a prisoner deal and former President Trump has recently made remarks about Hezbollah and Netanyahu that has drawn bipartisan outrage. On the other hand, President Biden is feeling the pressure of international and domestic crises, but even so is keeping an eye on American pocketbook concerns and realizing warm presidential embraces with Israel. Finally, in science news - this October, a &#39;ring of fire&#39; solar eclipse is set to sweep across much of the Western Hemisphere.</p>
+Right now there are a lot of tensions in the Middle East between Israel and Hamas. Iran and Hezbollah have been accused of playing a role in organizing an attack on Israel. In response, people in Israel have come together to volunteer and donate supplies for those affected. Meanwhile in the US, there is a lot going on as well. There are airstrikes in Gaza, political turmoil over a Republican House Speaker candidate, and scrutiny of Chinese Bitcoin mines near US data centers and nuclear bases. President Biden has recently shown support for Israel, which has caused some controversy due to it being divided from Palestine. Florida Governor DeSantis has also been facing questions about his stance on Palestine while out on the campaign trail. Lastly, there is an extreme shortage of food cart permits in New York City with 10,000 vendors yet to receive one despite recent reforms made by the city.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Israel Prepares for War in Gaza, Debate Is Over How and How Long</h3>
-<sub>By Steven Erlanger and Ronen Bergman</sub>
-<p>The country’s new unity government agrees that Hamas must be destroyed so it can never attack Israel again, but there is little appetite for a reoccupation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<h3>Hamas Attack on Israel Brings New Scrutiny of Group’s Ties to Iran</h3>
+<sub>By Farnaz Fassihi and Ronen Bergman</sub>
+<p>Officials from Iran and Hezbollah helped plan the attack, people familiar with the operation said, but the U.S. and its allies have not found evidence directly linking Tehran.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Warnings of Crisis in Gaza Mount, Palestinians Struggle to Find Room for the Dead</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Israel’s latest strikes on Gaza have drawn warnings from aid workers and residents of a humanitarian catastrophe. “We are facing a huge disaster,” said one U.N. official.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<h3>‘United Because of This Disaster’: Israelis Rush to Volunteer After Hamas Attacks</h3>
+<sub>By Isabel Kershner and Avishag Shaar-Yashuv</sub>
+<p>A long-divided country is pulling together in a show of solidarity, donating everything from breast milk to high-tech help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. and Qatar Deny Iran Access to $6 Billion From Prisoner Deal</h3>
-<sub>By Michael Crowley and Alan Rappeport</sub>
-<p>The move comes after harsh criticism that the Biden administration had given Iran a vast sum that freed up other funds for Tehran to provide support to Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Airstrikes Intensify in Gaza, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Scalise withdraws as House speaker candidate and a look at Montana’s TikTok ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Scalise Withdraws as Speaker Candidate, Leaving G.O.P. in Chaos</h3>
@@ -93,10 +93,10 @@ There is a lot going on around the world right now. In Israel, there is escalati
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s What Can’t Get Done While Republicans Fight Over a Speaker</h3>
-<sub>By Robert Jimison</sub>
-<p>The disarray among House Republicans has left a chamber of Congress hobbled at a time of international and domestic crises.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<h3>Across U.S., Chinese Bitcoin Mines Draw National Security Scrutiny</h3>
+<sub>By Gabriel J.X. Dance and Michael Forsythe</sub>
+<p>Microsoft reported one site in Wyoming because of its proximity to a data center and nuclear missile base. Records show other cryptocurrency facilities have ties to the Chinese state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>One Officer Convicted and Another Acquitted in Elijah McClain Death</h3>
@@ -104,16 +104,16 @@ There is a lot going on around the world right now. In Israel, there is escalati
 <p>The jury came back with a surprising split decision on two men who were tried together, holding the more experienced officer accountable in the first of three trials in the young Black man’s death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How Jesmyn Ward Is Reimagining Southern Literature</h3>
+<sub>By Imani Perry</sub>
+<p>The novelist is competing with giants like William Faulkner, while mapping territory all her own.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Israeli Billboards Thanking the U.S. Have a New Face on Them: Biden’s</h3>
 <sub>By Jonathan Weisman and Lisa Lerer</sub>
 <p>After Donald J. Trump bound himself tightly to the Israeli right, and President Biden approached the divided nation gingerly, a warm presidential embrace has eased years of tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Even With Flames Abroad, Biden Keeps One Eye on the Home Front</h3>
-<sub>By Peter Baker</sub>
-<p>The president continued to hold events on economic issues while managing the conflict between Israel and Hamas, hoping to appeal to Americans focused on pocketbook concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +128,11 @@ There is a lot going on around the world right now. In Israel, there is escalati
 <p>On the campaign trail in New Hampshire, a prospective voter asked the Florida governor, who has issued statements of staunch support for Israel, about civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Maps of the 2023 ‘Ring of Fire’ Solar Eclipse</h3>
-<sub>By Jonathan Corum</sub>
-<p>On Saturday, Oct. 14, an annular or “ring of fire” solar eclipse will sweep across much of the Western Hemisphere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York Has Issued 14 New Food Cart Permits. 10,000 Vendors Want Them.</h3>
+<sub>By Stefanos Chen</sub>
+<p>More than a year after the city implemented reforms to the food vendor licensing process, few have received permits, even as enforcement picks up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
