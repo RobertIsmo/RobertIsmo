@@ -60,48 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 13, Central Standard Time</p>
 <p>
-There is a lot of conflict happening in the world right now between Israelis and Palestinians due to a deadly Hamas attack. Major cities around the United States are bolstering security in response to this and many Jewish and Muslim communities are feeling the tension. In addition, the US is investigating Chinese Bitcoin Mines that are tied to the Chinese state and there was also political turmoil among Republicans in Congress looking for an internal leader. Despite all this, there is some hope as two American women had a joyous homecoming in Israel this week. On a lighter note, some people who love Disney so much they want to live it and turning 50 can be something special too.</p>
+Right now we&#39;re seeing a lot of violence between Israel and Hamas. The U.S. is urging the world to back Israel&#39;s actions in Gaza, while the civilian toll of dead and wounded keeps increasing. Meanwhile in Congress, Republicans are voting for new House Speaker, though many of them are reluctant due to internal disagreement about the nominee. Other news around the world includes a British singer becoming a &quot;sewage czar&quot; for his country, France raising its terrorist threat level after another terrifying stabbing attack, and doctors at one health care system joining forces in a union. On the culture front, Nobel-winning poet Louise Glück has died and Taylor Swift&#39;s concert movie has been released a day early!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>C.I.A. Reports Contained General Warnings of Potential Gaza Flare-up</h3>
-<sub>By Julian E. Barnes, Adam Entous, Edward Wong and Adam Goldman</sub>
-<p>Reports issued days before the Hamas attack did not foresee such a deadly strike, but did say rocket attacks were possible.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>For Jewish New Yorkers, Shared Grief Puts Divisions on Hold</h3>
-<sub>By John Leland</sub>
-<p>Usually lively and often fractious, political conversations are set aside among the large community of Jews in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Hamas Overran Southern Israel and Killed 1,300</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>Hamas gunmen surged into Israel in a highly organized and meticulously planned operation that suggested a deep understanding of Israel’s military secrets and weaknesses. Here is how the attacks unfolded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Two Women, a Joyous Homecoming in Israel Gone Horribly Awry</h3>
-<sub>By Julie Bosman, Robert Chiarito and Nicholas Bogel-Burroughs</sub>
-<p>Judith and Natalie Raanan, mother and daughter, are among the Americans caught up in the chaos and horror of the Hamas assault and its aftermath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fact or Fiction? In This War, It Is Hard to Tell.</h3>
-<sub>By Steven Lee Myers</sub>
-<p>Social media is full of false and misleading posts. The rise in A.I. is making it worse. And the trust in traditional news sources has declined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Cities Bolster Security After Hamas Calls for Day of Protest</h3>
-<sub>By Colbi Edmonds and Corey Kilgannon</sub>
-<p>Officials increased patrols around religious institutions and public spaces across the country, as tensions in Jewish and Muslim communities mounted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Tells World to Back Israel’s Gaza Strikes as Civilian Toll Rises</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>Secretary of State Antony J. Blinken is visiting the Middle East as the Israel-Palestinian conflict reaches a degree of violence not seen in many years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Divided G.O.P. Nominates Jordan for Speaker, Elevating a Hard-Right Figure</h3>
+<h3>Republicans Tap Jordan for Speaker, but Delay Vote as Holdouts Balk</h3>
 <sub>By Luke Broadwater</sub>
-<p>The Ohio congressman was his party’s second nominee this week to emerge from a raucous internal fight. It was not clear he could draw a majority to be elected on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Ohio congressman was his party’s second nominee this week to emerge from an internal fight. But with scores of Republicans refusing to back him, the party put off a House floor vote until next week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Past Is Prologue in the Republican Speaker Fight</h3>
+<sub>By Carl Hulse</sub>
+<p>The current chaos is not the first time Republicans have found themselves rocked by a vacancy at the top.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +92,46 @@ There is a lot of conflict happening in the world right now between Israelis and
 <p>The charges against Senator Robert Menendez and his wife highlight how Egypt’s powerful intelligence agency wields influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Across U.S., Chinese Bitcoin Mines Draw National Security Scrutiny</h3>
-<sub>By Gabriel J.X. Dance and Michael Forsythe</sub>
-<p>Microsoft reported one site in Wyoming because of its proximity to a data center and nuclear missile base. Records show other cryptocurrency facilities have ties to the Chinese state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80</h3>
 <sub>By Clay Risen</sub>
 <p>Acclaimed as one of America’s greatest living writers, she blended deeply personal material with themes of mythology and nature.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>It’s Not Enough to Love Disney. They Want to Live Disney.</h3>
-<sub>By Lia Picard</sub>
-<p>For some, a dream is a wish your heart makes at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Post-Punk Legend Leads Fight for Clean Water as Britain’s ‘Sewage Czar’</h3>
+<sub>By Stephen Castle</sub>
+<p>Feargal Sharkey, best known as the lead singer of the Undertones, has become one of the loudest voices demanding that Britain’s private water companies clean up their act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Reflections on a Porch, and a Life</h3>
 <sub>By Elisabeth Egan</sub>
 <p>Turning 50 isn’t the end of youth or the start of old age. It’s a perch with a stable foundation and a great view.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>France Raises Terrorist Threat Level After Teacher Killed in Stabbing</h3>
+<sub>By Aurelien Breeden</sub>
+<p>President Emmanuel Macron said France had been “hit by the barbarity of Islamist terrorism” in an attack that recalled the brutal murder of another teacher by an Islamic extremist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Taylor Swift: The Eras Tour’ Movie Review: Look What We Made Her Do</h3>
+<sub>By Wesley Morris</sub>
+<p>Swift’s cultural phenomenon arrives on the big screen with lots of little revelations, along with some what-could-have-beens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>‘Eras’ Comes to the Big Screen, a Day Ahead of Schedule</h3>
+<sub>By Frank Rojas</sub>
+<p>Many Swifties had bought their weekend tickets when the pop star made her announcement the movie would come out a day early, but fans still showed up for souvenirs, selfies and a chance to be first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Doctors Unionize at Big Health Care System</h3>
+<sub>By Noam Scheiber</sub>
+<p>The physicians, at Allina Health in Minnesota and Wisconsin, appear to be the largest group of unionized doctors in the private sector.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
