@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, October 13, Central Standard Time</p>
+<p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-Right now there&#39;s a lot of tension and violence in the Middle East due to the conflict between Israel and Hamas. The United States is pushing for a ceasefire and has sent Secretary of State Antony J. Blinken to try to negotiate peace. In the US, Republicans are in the midst of chaos after this week&#39;s efforts to decide on a new speaker for the House failed, and now they&#39;ve delayed voting on it until next week. There&#39;s also been an interesting development with a senator from Egypt being charged with conspiracy involving foreign influence by Egyptian intelligence agents. 
-
-On a more positive note, beloved American poet Louise Glück has passed away at 80, leaving behind many works of literature that will forever be remembered. Also, former post-punk singer Feargal Sharkey is working for clean water in Britain and a new Taylor Swift documentary movie has just been released giving us insight into her tour days as well as life reflections from turning 50.</p>
+There are a lot of interesting developments going on around the world. In the Middle East, Hamas militants launched a massive surprise attack against Israel which exposed shortcomings in Israeli defenses. In the US, American Muslims are united in their anger and mourning over the Gaza crisis, while the Republican party is having its own crisis in selecting a speaker for the House. In politics outside of the US, Egypt&#39;s intelligence agency is causing a stir with its involvement in corruption charges against a senator. On the cultural side, Nobel-winning poet Louise Glück passed away recently and Feargal Sharkey of &#39;80s post-punk band the Undertones is now leading a fight to clean up Britain’s water system. Finally, Taylor Swift recently released her documentary &quot;Taylor Swift: The Eras Tour&quot; which was met with positive reviews. Doctors at America&#39;s Allina Health also organized and unionized recently.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Secrets Hamas Knew About Israel’s Military</h3>
@@ -71,9 +69,9 @@ On a more positive note, beloved American poet Louise Glück has passed away at 
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Tells World to Back Israel’s Gaza Strikes as Civilian Toll Rises</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>Secretary of State Antony J. Blinken is visiting the Middle East as the Israel-Palestinian conflict reaches a degree of violence not seen in many years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gaza Crisis Unites American Muslims in Anger and Mourning</h3>
+<sub>By Jack Healy, Ernesto Londoño and Eileen Sullivan</sub>
+<p>Friday sermons across the country, from a wide range of Muslim communities, focused on a similar message of solidarity with Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,12 +110,6 @@ On a more positive note, beloved American poet Louise Glück has passed away at 
 <p>Feargal Sharkey, best known as the lead singer of the Undertones, has become one of the loudest voices demanding that Britain’s private water companies clean up their act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Reflections on a Porch, and a Life</h3>
-<sub>By Elisabeth Egan</sub>
-<p>Turning 50 isn’t the end of youth or the start of old age. It’s a perch with a stable foundation and a great view.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>France Raises Terrorist Threat Level After Teacher Killed in Stabbing</h3>
 <sub>By Aurelien Breeden</sub>
@@ -134,6 +126,12 @@ On a more positive note, beloved American poet Louise Glück has passed away at 
 <h3>‘Eras’ Comes to the Big Screen, a Day Ahead of Schedule</h3>
 <sub>By Frank Rojas</sub>
 <p>Many Swifties had bought their weekend tickets when the pop star made her announcement the movie would come out a day early, but fans still showed up for souvenirs, selfies and a chance to be first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Doctors Unionize at Big Health Care System</h3>
+<sub>By Noam Scheiber</sub>
+<p>The physicians, at Allina Health in Minnesota and Wisconsin, appear to be the largest group of unionized doctors in the private sector.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
