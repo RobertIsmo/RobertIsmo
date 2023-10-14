@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Gaza, there are tens of thousands of displaced people who are struggling to get food, water, and shelter. In order to aid those affected by the conflict, Israel and Egypt recently agreed on safe passage for Americans from Gaza. In the US, Republicans have been in chaos due to a vacancy at the top and ended up tapping Jordan for Speaker and delaying the House floor vote until next week. Meanwhile, Donald Trump has been actively trying to lock up the nomination without having to go through a primary process. On the tech front, there&#39;s been concern over how to stop A.I. from being able to detect a child&#39;s face online. In science news, scientists have mapped out the upcoming annular solar eclipse that will occur in October and provided information on when and where it can be seen. Furthermore, a ban of red food dye in California has put FDA&#39;s food policies under scrutiny and in New York, an unlikely group of conservationists is winning small victories in their attempt to save butterfly habitats.</p>
+There has been a lot of news happening around the world recently. In the Middle East, Hamas gunmen have launched a carefully planned military attack on Israel which reveals a deep understanding of its weaknesses. Tens of thousands of people in Gaza are displaced and struggling to find food, water, and shelter. However, Israel and Egypt have agreed to allow safe passage for Americans from Gaza. 
+
+In the US, there is chaos surrounding the battle for Speaker of the House. Two Republican nominees have been announced this week but there are many Republicans refusing to back them so the House floor vote has been postponed until next week. Meanwhile, former President Trump is avoiding public debates and quietly working to twist delegate rules in his favor. 
+
+Scientists have produced maps for an annular solar eclipse that will occur in October across much of the Western Hemisphere. Those interested in catching a glimpse should be sure to know when, where and how to watch it. 
+
+California recently banned a red food dye over concerns that it might be a carcinogen which has put US Food and Drug Administration&#39;s policies in the spotlight. In New York City, an unlikely group of environmentalists are fighting to protect butterfly habitats by silencing lawn mowers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Secrets Hamas Knew About Israel’s Military</h3>
@@ -98,12 +104,6 @@ There&#39;s a lot going on in the world right now. In Gaza, there are tens of th
 <p>As the former president dodges debates, it can seem as if he’s bypassing the primary. But he and his team have been working quietly to twist the delegate rules in their favor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Can You Hide a Child’s Face From A.I.?</h3>
-<sub>By Kashmir Hill</sub>
-<p>Parents have been stressing out for at least two decades about what to share about their children online. Powerful new technologies present a more urgent risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Maps of the 2023 ‘Ring of Fire’ Solar Eclipse</h3>
 <sub>By Jonathan Corum</sub>
@@ -115,6 +115,12 @@ There&#39;s a lot going on in the world right now. In Gaza, there are tens of th
 <sub>By Katrina Miller</sub>
 <p>The so-called “ring of fire” will grace the skies of the Western Hemisphere on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Can You Hide a Child’s Face From A.I.?</h3>
+<sub>By Kashmir Hill</sub>
+<p>Parents have been stressing out for at least two decades about what to share about their children online. Powerful new technologies present a more urgent risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Has Support for Ukraine Peaked? Some Fear So.</h3>
