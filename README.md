@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There has been a lot of news happening around the world recently. In the Middle East, Hamas gunmen have launched a carefully planned military attack on Israel which reveals a deep understanding of its weaknesses. Tens of thousands of people in Gaza are displaced and struggling to find food, water, and shelter. However, Israel and Egypt have agreed to allow safe passage for Americans from Gaza. 
-
-In the US, there is chaos surrounding the battle for Speaker of the House. Two Republican nominees have been announced this week but there are many Republicans refusing to back them so the House floor vote has been postponed until next week. Meanwhile, former President Trump is avoiding public debates and quietly working to twist delegate rules in his favor. 
-
-Scientists have produced maps for an annular solar eclipse that will occur in October across much of the Western Hemisphere. Those interested in catching a glimpse should be sure to know when, where and how to watch it. 
-
-California recently banned a red food dye over concerns that it might be a carcinogen which has put US Food and Drug Administration&#39;s policies in the spotlight. In New York City, an unlikely group of environmentalists are fighting to protect butterfly habitats by silencing lawn mowers.</p>
+There&#39;s a lot going on around the world. In Israel, Hamas gunmen carried out a meticulous and highly organized operation that seemed to exploit Israel’s weaknesses. Tens of thousands of Palestinians are struggling to find food, water, and shelter. Meanwhile, citizens of the U.S. were only recently allowed to leave Gaza after an agreement made with Egypt. In politics, the chaos of a Republican Speaker vacancy is unfolding as former President Donald Trump continues to work to gain the nomination. Other politicians are asking major donors for their support in order to build up viable alternatives to Trump. There is also debate over abortion laws and whether a national ban should be implemented, while Kari Lake and other Republicans from battleground states are trying to attract general election voters. On the scientific front, a &#39;ring of fire&#39; solar eclipse will be visible across much of the Western Hemisphere in October 2023, giving everyone an opportunity for some great photos! Additionally, parents are trying to figure out how best to protect their children from powerful artificial intelligence that&#39;s becoming more and more accessible. And finally, Jada Pinkett Smith released her memoir talking about her marriage with Will Smith; some New England fairgoers have also found joy in llamas that can do a lot more than just put on a show.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Secrets Hamas Knew About Israel’s Military</h3>
@@ -81,9 +75,9 @@ California recently banned a red food dye over concerns that it might be a carci
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel and Egypt agree on safe passage for Americans from Gaza, a U.S. official says.</h3>
-<sub>By Edward Wong</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>American Citizens Fleeing Gaza Say Border Crossing Still Closed</h3>
+<sub>By Anna Betts</sub>
+<p>A U.S. official had said that an agreement had been reached to allow Americans safe passage from the blockaded enclave to Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,15 +87,21 @@ California recently banned a red food dye over concerns that it might be a carci
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Tap Jordan for Speaker, but Delay Vote as Holdouts Balk</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Ohio congressman was his party’s second nominee this week to emerge from an internal fight. But with scores of Republicans refusing to back him, the party put off a House floor vote until next week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Backroom Effort to Lock Up the Nomination</h3>
 <sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
 <p>As the former president dodges debates, it can seem as if he’s bypassing the primary. But he and his team have been working quietly to twist the delegate rules in their favor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Get in the Game’: G.O.P. Candidates Plead Their Case to Major Donors</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>Rivals to Donald J. Trump and their strategists told financiers that time is running out to build up a viable alternative to the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Kari Lake’s Tactical Retreat on Abortion Could Point the Way for the G.O.P.</h3>
+<sub>By Michael C. Bender</sub>
+<p>Kari Lake, along with other Republicans in battleground states, has come out against a national ban as candidates try to attract general election voters. Anti-abortion activists aren’t pleased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -122,22 +122,16 @@ California recently banned a red food dye over concerns that it might be a carci
 <p>Parents have been stressing out for at least two decades about what to share about their children online. Powerful new technologies present a more urgent risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Has Support for Ukraine Peaked? Some Fear So.</h3>
-<sub>By Steven Erlanger</sub>
-<p>The war in the Middle East, anxiety about the commitment of the U.S., and divisions in Europe are worrying Kyiv that aid from the West may wane.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Jada Pinkett Smith Is Releasing Her Demons. She Hopes You Will, Too.</h3>
+<sub>By Maya Salam</sub>
+<p>In her new memoir, “Worthy,” she answers big questions, poses others to readers and sets the record straight on her marriage to Will Smith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>California’s Ban on Red Food Dye Puts F.D.A.’s Food Policies on the Spot</h3>
-<sub>By Christina Jewett and Julie Creswell</sub>
-<p>The dye was banned in cosmetics after a study suggested it might be a carcinogen. Yet federal regulations still permit its use in foods, stoking concerns that helped build support for the new state law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>To Save Monarch Butterflies, They Had to Silence the Lawn Mowers</h3>
-<sub>By Hilary Howard</sub>
-<p>An unlikely group of New Yorkers is winning small victories in the battle to protect butterfly habitats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Not a Beast but a Buddy: Love for the Llama at a New England Fair</h3>
+<sub>By Jennifer A. Kingson and Peter Fisher</sub>
+<p>To owners in the Northeast, the animals can put on quite a show — and do a lot more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
