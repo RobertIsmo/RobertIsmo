@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world. In Israel, Hamas gunmen carried out a meticulous and highly organized operation that seemed to exploit Israel’s weaknesses. Tens of thousands of Palestinians are struggling to find food, water, and shelter. Meanwhile, citizens of the U.S. were only recently allowed to leave Gaza after an agreement made with Egypt. In politics, the chaos of a Republican Speaker vacancy is unfolding as former President Donald Trump continues to work to gain the nomination. Other politicians are asking major donors for their support in order to build up viable alternatives to Trump. There is also debate over abortion laws and whether a national ban should be implemented, while Kari Lake and other Republicans from battleground states are trying to attract general election voters. On the scientific front, a &#39;ring of fire&#39; solar eclipse will be visible across much of the Western Hemisphere in October 2023, giving everyone an opportunity for some great photos! Additionally, parents are trying to figure out how best to protect their children from powerful artificial intelligence that&#39;s becoming more and more accessible. And finally, Jada Pinkett Smith released her memoir talking about her marriage with Will Smith; some New England fairgoers have also found joy in llamas that can do a lot more than just put on a show.</p>
+There is a lot going on in the world right now. In Israel, Hamas has launched an organized attack on the country, creating a humanitarian crisis in Gaza with nearly half of the population displaced. Some Americans trying to flee Gaza have been unable to cross into Egypt. Jordan is trying to get their own elected Speaker in their government. In the US, Republicans are fighting over who will be their next Speaker and there&#39;s a backroom effort by Donald Trump to win the nomination. While some GOP candidates are reached out to major donors for financial support, others are trying to establish positions of acceptability on abortion matters. On top of all this, there are three big earthquakes that have hit Afghanistan so far that have killed nearly 1300 people, and some people are too scared to sleep anywhere but outside.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Secrets Hamas Knew About Israel’s Military</h3>
@@ -69,15 +69,21 @@ There&#39;s a lot going on around the world. In Israel, Hamas gunmen carried out
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tens of thousands of displaced Gazans struggle to find food, water and shelter.</h3>
+<h3>Nearly Half of Gaza’s Population Displaced in Humanitarian Crisis</h3>
 <sub>By Raja Abdulrahim</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hundreds of thousands of Palestinians from northern Gaza have left their homes in the past day alone. The U.N. warned the territory was in danger of running out of water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>American Citizens Fleeing Gaza Say Border Crossing Still Closed</h3>
 <sub>By Anna Betts</sub>
 <p>A U.S. official had said that an agreement had been reached to allow Americans safe passage from the blockaded enclave to Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Activates Right-Wing Pressure Campaign in Push to Win Speakership</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Allies of the Ohio Republican, who must persuade scores of his colleagues to support his bid for speaker, are threatening right-wing retribution to any G.O.P. lawmakers who dare oppose him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +116,6 @@ There&#39;s a lot going on around the world. In Israel, Hamas gunmen carried out
 <p>On Saturday, Oct. 14, an annular or “ring of fire” solar eclipse will sweep across much of the Western Hemisphere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>When, Where and How to Watch the Annular Solar Eclipse</h3>
-<sub>By Katrina Miller</sub>
-<p>The so-called “ring of fire” will grace the skies of the Western Hemisphere on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Can You Hide a Child’s Face From A.I.?</h3>
 <sub>By Kashmir Hill</sub>
@@ -128,11 +128,11 @@ There&#39;s a lot going on around the world. In Israel, Hamas gunmen carried out
 <p>In her new memoir, “Worthy,” she answers big questions, poses others to readers and sets the record straight on her marriage to Will Smith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Not a Beast but a Buddy: Love for the Llama at a New England Fair</h3>
-<sub>By Jennifer A. Kingson and Peter Fisher</sub>
-<p>To owners in the Northeast, the animals can put on quite a show — and do a lot more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Three Big Quakes, Too Scared to Sleep Anywhere but Outside</h3>
+<sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
+<p>Seemingly unending earthquakes in Afghanistan have killed nearly 1,300 people and amplified already troubling times since the Taliban seized power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
