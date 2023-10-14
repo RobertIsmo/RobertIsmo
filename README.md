@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the Middle East, there was an extremely organized attack by Hamas gunmen against Israel that revealed a deep understanding of the country&#39;s weaknesses. Meanwhile, American Muslims are uniting in anger and mourning over the Gaza crisis. On the political side, a Republican congressman has been tapped for Speaker of the House, but his nomination is being held up by many members of his own party refusing to back him. In Britain, a post-punk legend is leading the fight for better water quality as their government&#39;s &#39;sewage czar&#39;. Meanwhile, India and Pakistan are facing off in a hugely popular match at the cricket World Cup. On a smaller scale, Taylor Swift released her movie about her &#39;Eras Tour&#39;, which was met with positive reviews from people who saw it early. Finally, doctors have unionized within one of the biggest healthcare systems in the US.</p>
+There&#39;s a lot going on in the world right now. In Gaza, there are tens of thousands of displaced people who are struggling to get food, water, and shelter. In order to aid those affected by the conflict, Israel and Egypt recently agreed on safe passage for Americans from Gaza. In the US, Republicans have been in chaos due to a vacancy at the top and ended up tapping Jordan for Speaker and delaying the House floor vote until next week. Meanwhile, Donald Trump has been actively trying to lock up the nomination without having to go through a primary process. On the tech front, there&#39;s been concern over how to stop A.I. from being able to detect a child&#39;s face online. In science news, scientists have mapped out the upcoming annular solar eclipse that will occur in October and provided information on when and where it can be seen. Furthermore, a ban of red food dye in California has put FDA&#39;s food policies under scrutiny and in New York, an unlikely group of conservationists is winning small victories in their attempt to save butterfly habitats.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Secrets Hamas Knew About Israel’s Military</h3>
@@ -68,10 +68,22 @@ There is a lot happening in the world right now. In the Middle East, there was a
 <p>Hamas gunmen surged into Israel in a highly organized and meticulously planned operation that suggested a deep understanding of Israel’s weaknesses. Here is how the attacks unfolded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tens of thousands of displaced Gazans struggle to find food, water and shelter.</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel and Egypt agree on safe passage for Americans from Gaza, a U.S. official says.</h3>
+<sub>By Edward Wong</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gaza Crisis Unites American Muslims in Anger and Mourning</h3>
-<sub>By Jack Healy, Ernesto Londoño and Eileen Sullivan</sub>
-<p>Friday sermons across the country, from a wide range of Muslim communities, focused on a similar message of solidarity with Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Past Is Prologue in the Republican Speaker Fight</h3>
+<sub>By Carl Hulse</sub>
+<p>The current chaos is not the first time Republicans have found themselves rocked by a vacancy at the top.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,58 +93,46 @@ There is a lot happening in the world right now. In the Middle East, there was a
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Past Is Prologue in the Republican Speaker Fight</h3>
-<sub>By Carl Hulse</sub>
-<p>The current chaos is not the first time Republicans have found themselves rocked by a vacancy at the top.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<h3>Inside Trump’s Backroom Effort to Lock Up the Nomination</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>As the former president dodges debates, it can seem as if he’s bypassing the primary. But he and his team have been working quietly to twist the delegate rules in their favor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind a Senator’s Indictments, a Foreign Spy Service Works Washington</h3>
-<sub>By Mark Mazzetti and Vivian Yee</sub>
-<p>The charges against Senator Robert Menendez and his wife highlight how Egypt’s powerful intelligence agency wields influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Can You Hide a Child’s Face From A.I.?</h3>
+<sub>By Kashmir Hill</sub>
+<p>Parents have been stressing out for at least two decades about what to share about their children online. Powerful new technologies present a more urgent risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Louise Glück, Nobel-Winning Poet Who Explored Trauma and Loss, Dies at 80</h3>
-<sub>By Clay Risen</sub>
-<p>Acclaimed as one of America’s greatest living writers, she blended deeply personal material with themes of mythology and nature.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Maps of the 2023 ‘Ring of Fire’ Solar Eclipse</h3>
+<sub>By Jonathan Corum</sub>
+<p>On Saturday, Oct. 14, an annular or “ring of fire” solar eclipse will sweep across much of the Western Hemisphere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Five Louise Glück Poems to Get You Started</h3>
-<sub>By Gregory Cowles</sub>
-<p>The American writer, who won a Nobel Prize in 2020, wrote with cool clarity and often puckish wit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Post-Punk Legend Leads Fight for Clean Water as Britain’s ‘Sewage Czar’</h3>
-<sub>By Stephen Castle</sub>
-<p>Feargal Sharkey, best known as the lead singer of the Undertones, has become one of the loudest voices demanding that Britain’s private water companies clean up their act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>When, Where and How to Watch the Annular Solar Eclipse</h3>
+<sub>By Katrina Miller</sub>
+<p>The so-called “ring of fire” will grace the skies of the Western Hemisphere on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Billion Eyes on One of Sports’ Fieriest Rivalries: India vs. Pakistan</h3>
-<sub>By Mujib Mashal and Zia ur-Rehman</sub>
-<p>The teams’ face-off in the men’s cricket World Cup is shadowed, as always, by the stormy history between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<h3>Has Support for Ukraine Peaked? Some Fear So.</h3>
+<sub>By Steven Erlanger</sub>
+<p>The war in the Middle East, anxiety about the commitment of the U.S., and divisions in Europe are worrying Kyiv that aid from the West may wane.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Taylor Swift: The Eras Tour’ Movie Review: Look What We Made Her Do</h3>
-<sub>By Wesley Morris</sub>
-<p>Swift’s cultural phenomenon arrives on the big screen with lots of little revelations, along with some what-could-have-beens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>California’s Ban on Red Food Dye Puts F.D.A.’s Food Policies on the Spot</h3>
+<sub>By Christina Jewett and Julie Creswell</sub>
+<p>The dye was banned in cosmetics after a study suggested it might be a carcinogen. Yet federal regulations still permit its use in foods, stoking concerns that helped build support for the new state law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>‘Eras’ Comes to the Big Screen, a Day Ahead of Schedule</h3>
-<sub>By Frank Rojas</sub>
-<p>Many Swifties had bought their weekend tickets when the pop star made her announcement the movie would come out a day early, but fans still showed up for souvenirs, selfies and a chance to be first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Doctors Unionize at Big Health Care System</h3>
-<sub>By Noam Scheiber</sub>
-<p>The physicians, at Allina Health in Minnesota and Wisconsin, appear to be the largest group of unionized doctors in the private sector.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>To Save Monarch Butterflies, They Had to Silence the Lawn Mowers</h3>
+<sub>By Hilary Howard</sub>
+<p>An unlikely group of New Yorkers is winning small victories in the battle to protect butterfly habitats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
