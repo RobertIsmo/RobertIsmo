@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There are a lot of interesting developments going on around the world. In the Middle East, Hamas militants launched a massive surprise attack against Israel which exposed shortcomings in Israeli defenses. In the US, American Muslims are united in their anger and mourning over the Gaza crisis, while the Republican party is having its own crisis in selecting a speaker for the House. In politics outside of the US, Egypt&#39;s intelligence agency is causing a stir with its involvement in corruption charges against a senator. On the cultural side, Nobel-winning poet Louise Glück passed away recently and Feargal Sharkey of &#39;80s post-punk band the Undertones is now leading a fight to clean up Britain’s water system. Finally, Taylor Swift recently released her documentary &quot;Taylor Swift: The Eras Tour&quot; which was met with positive reviews. Doctors at America&#39;s Allina Health also organized and unionized recently.</p>
+There is a lot happening in the world right now. In the Middle East, there was an extremely organized attack by Hamas gunmen against Israel that revealed a deep understanding of the country&#39;s weaknesses. Meanwhile, American Muslims are uniting in anger and mourning over the Gaza crisis. On the political side, a Republican congressman has been tapped for Speaker of the House, but his nomination is being held up by many members of his own party refusing to back him. In Britain, a post-punk legend is leading the fight for better water quality as their government&#39;s &#39;sewage czar&#39;. Meanwhile, India and Pakistan are facing off in a hugely popular match at the cricket World Cup. On a smaller scale, Taylor Swift released her movie about her &#39;Eras Tour&#39;, which was met with positive reviews from people who saw it early. Finally, doctors have unionized within one of the biggest healthcare systems in the US.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Secrets Hamas Knew About Israel’s Military</h3>
@@ -111,9 +111,9 @@ There are a lot of interesting developments going on around the world. In the Mi
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>France Raises Terrorist Threat Level After Teacher Killed in Stabbing</h3>
-<sub>By Aurelien Breeden</sub>
-<p>President Emmanuel Macron said France had been “hit by the barbarity of Islamist terrorism” in an attack that recalled the brutal murder of another teacher by an Islamic extremist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Billion Eyes on One of Sports’ Fieriest Rivalries: India vs. Pakistan</h3>
+<sub>By Mujib Mashal and Zia ur-Rehman</sub>
+<p>The teams’ face-off in the men’s cricket World Cup is shadowed, as always, by the stormy history between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
