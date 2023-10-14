@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 13, Central Standard Time</p>
 <p>
-Right now we&#39;re seeing a lot of violence between Israel and Hamas. The U.S. is urging the world to back Israel&#39;s actions in Gaza, while the civilian toll of dead and wounded keeps increasing. Meanwhile in Congress, Republicans are voting for new House Speaker, though many of them are reluctant due to internal disagreement about the nominee. Other news around the world includes a British singer becoming a &quot;sewage czar&quot; for his country, France raising its terrorist threat level after another terrifying stabbing attack, and doctors at one health care system joining forces in a union. On the culture front, Nobel-winning poet Louise Glück has died and Taylor Swift&#39;s concert movie has been released a day early!</p>
+Right now there&#39;s a lot of tension and violence in the Middle East due to the conflict between Israel and Hamas. The United States is pushing for a ceasefire and has sent Secretary of State Antony J. Blinken to try to negotiate peace. In the US, Republicans are in the midst of chaos after this week&#39;s efforts to decide on a new speaker for the House failed, and now they&#39;ve delayed voting on it until next week. There&#39;s also been an interesting development with a senator from Egypt being charged with conspiracy involving foreign influence by Egyptian intelligence agents. 
+
+On a more positive note, beloved American poet Louise Glück has passed away at 80, leaving behind many works of literature that will forever be remembered. Also, former post-punk singer Feargal Sharkey is working for clean water in Britain and a new Taylor Swift documentary movie has just been released giving us insight into her tour days as well as life reflections from turning 50.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Hamas Overran Southern Israel and Killed 1,300</h3>
+<h3>The Secrets Hamas Knew About Israel’s Military</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>Hamas gunmen surged into Israel in a highly organized and meticulously planned operation that suggested a deep understanding of Israel’s military secrets and weaknesses. Here is how the attacks unfolded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hamas gunmen surged into Israel in a highly organized and meticulously planned operation that suggested a deep understanding of Israel’s weaknesses. Here is how the attacks unfolded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,6 +100,12 @@ Right now we&#39;re seeing a lot of violence between Israel and Hamas. The U.S. 
 <p>Acclaimed as one of America’s greatest living writers, she blended deeply personal material with themes of mythology and nature.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Five Louise Glück Poems to Get You Started</h3>
+<sub>By Gregory Cowles</sub>
+<p>The American writer, who won a Nobel Prize in 2020, wrote with cool clarity and often puckish wit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Post-Punk Legend Leads Fight for Clean Water as Britain’s ‘Sewage Czar’</h3>
 <sub>By Stephen Castle</sub>
@@ -126,12 +134,6 @@ Right now we&#39;re seeing a lot of violence between Israel and Hamas. The U.S. 
 <h3>‘Eras’ Comes to the Big Screen, a Day Ahead of Schedule</h3>
 <sub>By Frank Rojas</sub>
 <p>Many Swifties had bought their weekend tickets when the pop star made her announcement the movie would come out a day early, but fans still showed up for souvenirs, selfies and a chance to be first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Doctors Unionize at Big Health Care System</h3>
-<sub>By Noam Scheiber</sub>
-<p>The physicians, at Allina Health in Minnesota and Wisconsin, appear to be the largest group of unionized doctors in the private sector.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
