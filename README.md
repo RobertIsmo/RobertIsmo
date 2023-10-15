@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, October 14, Central Standard Time</p>
+<p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-Right now, there are tensions in the Middle East as plans are made by Israeli forces to target Gaza City and Hamas leadership. The New York Times is tracking airstrikes between Israelis and Palestinians, and the U.N. has warned Gaza of a potential humanitarian crisis due to hundreds of thousands of people leaving their homes from northern Gaza and a lack of water. In the US, Jordan is activating a right-wing pressure campaign to win the speakership, and Donald Trump is reportedly working behind the scenes to lock up the nomination for the 2024 election. Additionally, a solar eclipse recently swept across several American states, Mexico, and Central American countries in awe.</p>
+There has been a lot of conflict between Israelis and Palestinians in the Gaza region, with Israeli forces planning to target Hamas leadership and hundreds of thousands of Palestinians forced to leave their homes. In other news, Jordan has activated a right-wing pressure campaign to support a Republican’s bid for speaker in the United States. Inside the U.S., Trump is trying to lock up the nomination while a 15-year-old journalist was ejected from a G.O.P. event, but later allowed back in. A solar eclipse recently took place across multiple countries in the Western Hemisphere too. Apart from world news, Jada Pinkett Smith has written a memoir about her life experiences and Piper Laurie, a respected actress, has died at 91 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Invasion Plans Target Gaza City and Hamas Leadership</h3>
