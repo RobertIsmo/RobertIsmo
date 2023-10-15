@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, Hamas has launched an organized attack on the country, creating a humanitarian crisis in Gaza with nearly half of the population displaced. Some Americans trying to flee Gaza have been unable to cross into Egypt. Jordan is trying to get their own elected Speaker in their government. In the US, Republicans are fighting over who will be their next Speaker and there&#39;s a backroom effort by Donald Trump to win the nomination. While some GOP candidates are reached out to major donors for financial support, others are trying to establish positions of acceptability on abortion matters. On top of all this, there are three big earthquakes that have hit Afghanistan so far that have killed nearly 1300 people, and some people are too scared to sleep anywhere but outside.</p>
+There&#39;s a lot going on in the world right now. In Gaza, Israeli forces are planning an invasion to target Hamas leadership, and the U.N. is warning of a humanitarian crisis with nearly half of Gaza&#39;s population displaced. In Israel and Gaza, there has been airstrikes and ground fighting between Israelis and Palestinians that are being tracked by The New York Times. In the U.S., Jordan is activating a right-wing pressure campaign to push for the speakership, Donald Trump&#39;s team is working quietly to twist delegate rules in their favor for locking up the nomination, GOP candidates are pleading their case to major donors, and Kari Lake is pointing the way for abortion law changes from a Republican standpoint. A solar eclipse was seen all across Mexico, Central American countries, a number of American states, Colombia and Brazil. Technology poses a risk to keeping children&#39;s faces hidden from AI. Jada Pinkett Smith released her memoir about demons she hopes readers will face as well. Lastly, Afghanistan experienced three big quakes recently, leaving people too scared to sleep anywhere else expect outside.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Secrets Hamas Knew About Israel’s Military</h3>
+<h3>Israeli Invasion Plans Target Gaza City and Hamas Leadership</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>Hamas gunmen surged into Israel in a highly organized and meticulously planned operation that suggested a deep understanding of Israel’s weaknesses. Here is how the attacks unfolded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<p>The goal, according to three senior officers,  is to wipe out the top political and military hierarchy of Hamas, the Palestinian group that controls Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Nearly Half of Gaza’s Population Displaced in Humanitarian Crisis</h3>
@@ -74,23 +80,11 @@ There is a lot going on in the world right now. In Israel, Hamas has launched an
 <p>Hundreds of thousands of Palestinians from northern Gaza have left their homes in the past day alone. The U.N. warned the territory was in danger of running out of water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>American Citizens Fleeing Gaza Say Border Crossing Still Closed</h3>
-<sub>By Anna Betts</sub>
-<p>A U.S. official had said that an agreement had been reached to allow Americans safe passage from the blockaded enclave to Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jordan Activates Right-Wing Pressure Campaign in Push to Win Speakership</h3>
 <sub>By Karoun Demirjian</sub>
 <p>Allies of the Ohio Republican, who must persuade scores of his colleagues to support his bid for speaker, are threatening right-wing retribution to any G.O.P. lawmakers who dare oppose him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Past Is Prologue in the Republican Speaker Fight</h3>
-<sub>By Carl Hulse</sub>
-<p>The current chaos is not the first time Republicans have found themselves rocked by a vacancy at the top.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside Trump’s Backroom Effort to Lock Up the Nomination</h3>
@@ -110,11 +104,11 @@ There is a lot going on in the world right now. In Israel, Hamas has launched an
 <p>Kari Lake, along with other Republicans in battleground states, has come out against a national ban as candidates try to attract general election voters. Anti-abortion activists aren’t pleased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Maps of the 2023 ‘Ring of Fire’ Solar Eclipse</h3>
-<sub>By Jonathan Corum</sub>
-<p>On Saturday, Oct. 14, an annular or “ring of fire” solar eclipse will sweep across much of the Western Hemisphere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-homepage-blue" alt="">
+<h3>A Solar Eclipse Leaves Its Mark Across a Hemisphere</h3>
+<sub>By The New York Times</sub>
+<p>The “ring of fire” bathed eight American states, Mexico and a number of Central American countries in astronomical awe before its final act in Colombia and Brazil.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Can You Hide a Child’s Face From A.I.?</h3>
@@ -133,6 +127,12 @@ There is a lot going on in the world right now. In Israel, Hamas has launched an
 <sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
 <p>Seemingly unending earthquakes in Afghanistan have killed nearly 1,300 people and amplified already troubling times since the Taliban seized power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Not a Beast but a Buddy: Love for the Llama at a New England Fair</h3>
+<sub>By Jennifer A. Kingson and Peter Fisher</sub>
+<p>To owners in the Northeast, the animals can put on quite a show — and do a lot more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
