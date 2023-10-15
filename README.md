@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-In the world, there are reports of Israeli invasion plans to target Gaza City and Hamas leadership. Maps are also being released tracking airstrikes and ground fighting between Israelis and Palestinians in the region, which has resulted in a humanitarian crisis with nearly half of Gaza&#39;s population displaced. In the US, there is an effort to lock up the nomination for former President Trump while Jordan involves itself in a right-wing pressure campaign for the Speakership candidacy. Additionally, a 15-year-old aspiring journalist was ejected from a G.O.P. event for his pointed questions before being allowed to return. The entertainment industry is mourning Piper Laurie&#39;s death at 91 while Madonna celebrates four decades of hits with a career-spanning spectacle and Jada Pinkett Smith releases her memoir. Finally, a solar eclipse left its mark across North America and Brazil while The New York Times publishes its weekly news quiz.</p>
+Things have been a bit tumultuous around the world lately. In Israel, there was a massacre of its youth, which has transformed the country’s 75-year quest for normalcy. Israeli forces also plan to target Gaza City and Hamas leadership in an invasion, which has caused tension in the region. Meanwhile, Nikki Haley’s combative defense of Israel at the United Nations has influenced the politics of diplomacy. Over in Africa, a fertilizer shortage is spreading desperate hunger, and here in the U.S., President Biden’s re-election campaign raised far more money than any of his Republican rivals. Also, a 15-year-old reporter was ejected from a GOP event and later allowed back in. Madonna celebrated four decades of hits with a career-spanning spectacle, and megafires are transforming ecosystems around the world. There is also a story about a young father who was rebuilding his life when flames came, as well as some other New York related articles including Usher&#39;s return and a profile of Kamala Harris.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Slaughter at a Festival of Peace and Love Leaves Israel Transformed</h3>
+<sub>By Roger Cohen, Sergey Ponomarev and Avishag Shaar-Yashuv</sub>
+<p>In this massacre of its youth, Israel’s 75-year-old quest for some carefree normalcy met the murderous fury of those long-oppressed Palestinians who deny the state’s right to exist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Invasion Plans Target Gaza City and Hamas Leadership</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
@@ -69,28 +75,22 @@ In the world, there are reports of Israeli invasion plans to target Gaza City an
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nearly Half of Gaza’s Population Displaced in Humanitarian Crisis</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Hundreds of thousands of Palestinians from northern Gaza have left their homes in the past day alone. The U.N. warned the territory was in danger of running out of water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<h3>The Schoolyard</h3>
+<sub>By Samar Abu Elouf and Eric Nagourney</sub>
+<p>A small image reveals a larger story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Activates Right-Wing Pressure Campaign in Push to Win Speakership</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Allies of the Ohio Republican, who must persuade scores of his colleagues to support his bid for speaker, are threatening right-wing retribution to any G.O.P. lawmakers who dare oppose him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<h3>Nikki Haley, Israel and the Politics of Diplomacy</h3>
+<sub>By Charles Homans</sub>
+<p>The G.O.P. contender’s combative defense of Israel defined her tenure at the United Nations. Will it also define her presidential campaign?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Trump’s Backroom Effort to Lock Up the Nomination</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>As the former president dodges debates, it can seem as if he’s bypassing the primary. But he and his team have been working quietly to twist the delegate rules in their favor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<h3>Biden Campaign Raises $71.3 Million, Far Outpacing His Republican Rivals</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The president’s re-election campaign announced a substantial quarterly fund-raising haul, but it’s far short of what Donald J. Trump raised in the same quarter of his 2020 re-election campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Known for His Pointed Questions, a 15-Year-Old Is Ejected From a G.O.P. Event</h3>
@@ -98,41 +98,41 @@ In the world, there are reports of Israeli invasion plans to target Gaza City an
 <p>Quinn Mitchell, an aspiring journalist from New Hampshire, was escorted out of a G.O.P. candidate summit on Friday, though he was later allowed to return.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Fertilizer Shortage Is Spreading Desperate Hunger</h3>
+<sub>By Peter S. Goodman and Finbarr O’Reilly For The New York Times</sub>
+<p>Across Africa and in parts of Asia, disruption to the supply chain for fertilizer is raising food prices and increasing malnutrition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tanya Chutkan, an Unflinching Judge in the Trump Jan. 6 Trial</h3>
+<sub>By Robert Draper</sub>
+<p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Madonna Celebrates Four Decades of Hits With Career-Spanning Spectacle</h3>
 <sub>By Derrick Bryson Taylor and Ben Sisario</sub>
 <p>After a health-related delay, the pop superstar launched her Celebration Tour in London with a performance devoted to her full catalog of hits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-homepage-blue" alt="">
-<h3>A Solar Eclipse Leaves Its Mark Across a Hemisphere</h3>
-<sub>By The New York Times</sub>
-<p>The “ring of fire” bathed eight American states, Mexico and a number of Central American countries in astronomical awe before its final act in Colombia and Brazil.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>How Megafires Are Remaking the World</h3>
+<sub>By Emily Anthes</sub>
+<p>In our Pyrocene age, enormous wildfires aren’t merely damaging ecosystems but transforming them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Jada Pinkett Smith Is Releasing Her Demons. She Hopes You Will, Too.</h3>
-<sub>By Maya Salam</sub>
-<p>In her new memoir, “Worthy,” she answers big questions, poses others to readers and sets the record straight on her marriage to Will Smith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Piper Laurie, Reluctant Starlet Turned Respected Actress, Dies at 91</h3>
-<sub>By Anita Gates</sub>
-<p>She began as just another product of the studio system, but she went on to receive three Oscar nominations, win an Emmy and appear on Broadway.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘I Have to Do Better.’ A Young Father Was Rebuilding His Life When the Flames Came.</h3>
+<sub>By Corina Knoll</sub>
+<p>A 28-year-old was working to get his life back on track. But an early death from the Maui wildfires meant he could never fully atone for a rocky past.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>The return of Usher. Also: A profile of Kamala Harris and a mother navigating CrimeCon after her son’s murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Oct. 13, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
