@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-The news right now is pretty varied. In Israel, there was a massacre at a festival of peace and love that has changed the country dramatically. Meanwhile, Israeli military leaders are planning an invasion of Gaza City and targeting Hamas leadership. Further, US Republican presidential candidate Nikki Haley is in the news for her diplomatic approach to Israel, while Joe Biden&#39;s campaign has raised millions of dollars more than Donald Trump&#39;s. There&#39;s also been a lot of discussion about a 15-year-old aspiring journalist being ejected from a Republican event, as well as a fertilizer shortage in Africa and parts of Asia causing desperate hunger. In the US, there is also news about Judge Tanya Chutkan trying the case related to the Capitol riot on January 6th, Madonna launching a career-spanning tour in London, megafires altering ecosystems around the globe, and a young father rebuilding his life before he was impacted by fires in Maui. Closer to home, there are some exciting activities going on in New York this weekend like Usher performing and a CrimeCon after someone&#39;s son was murdered.</p>
+There is a lot happening in the world right now. In Israel, a massacre of its young people recently occurred amid tension between Palestinians and those seeking the state&#39;s right to exist. To help deter hostile actions, the US is expanding its military presence in the region. In Africa and parts of Asia, a shortage of fertilizer is affecting food prices and leading to malnutrition. In the US, Biden&#39;s presidential campaign has raised more money than Trump&#39;s in the same quarter of his 2020 re-election campaign. Meanwhile, a 15-year-old was ejected from a GOP event only to later be allowed back in. And at the American Museum of Natural History, scrutiny of its practices involving human remains has sparked change.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Slaughter at a Festival of Peace and Love Leaves Israel Transformed</h3>
@@ -68,11 +68,11 @@ The news right now is pretty varied. In Israel, there was a massacre at a festiv
 <p>In this massacre of its youth, Israel’s 75-year-old quest for some carefree normalcy met the murderous fury of those long-oppressed Palestinians who deny the state’s right to exist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Invasion Plans Target Gaza City and Hamas Leadership</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>The goal, according to three senior officers, is to wipe out the top political and military hierarchy of Hamas, the Palestinian group that controls Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Expanding Military Presence Near Israel</h3>
+<sub>By Eric Schmitt</sub>
+<p>Defense Secretary Lloyd J. Austin III has ordered a second aircraft carrier, the Dwight D. Eisenhower, to the region to deter hostile actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Schoolyard</h3>
@@ -84,6 +84,12 @@ The news right now is pretty varied. In Israel, there was a massacre at a festiv
 <h3>Nikki Haley, Israel and the Politics of Diplomacy</h3>
 <sub>By Charles Homans</sub>
 <p>The G.O.P. contender’s combative defense of Israel defined her tenure at the United Nations. Will it also define her presidential campaign?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Big Jim’ and Babydog Go to Washington?</h3>
+<sub>By Campbell Robertson</sub>
+<p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,22 +116,16 @@ The news right now is pretty varied. In Israel, there was a massacre at a festiv
 <p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Madonna Celebrates Four Decades of Hits With Career-Spanning Spectacle</h3>
-<sub>By Derrick Bryson Taylor and Ben Sisario</sub>
-<p>After a health-related delay, the pop superstar launched her Celebration Tour in London with a performance devoted to her full catalog of hits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>How Megafires Are Remaking the World</h3>
 <sub>By Emily Anthes</sub>
 <p>In our Pyrocene age, enormous wildfires aren’t merely damaging ecosystems but transforming them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I Have to Do Better.’ A Young Father Was Rebuilding His Life When the Flames Came.</h3>
-<sub>By Corina Knoll</sub>
-<p>A 28-year-old was working to get his life back on track. But an early death from the Maui wildfires meant he could never fully atone for a rocky past.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Facing Scrutiny, a Museum That Holds 12,000 Human Remains Changes Course</h3>
+<sub>By Zachary Small</sub>
+<p>The American Museum of Natural History said it would address its collecting of remains, which stretched into the 1940s and included practices now viewed as abusive and racist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
