@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-There has been a lot of conflict between Israelis and Palestinians in the Gaza region, with Israeli forces planning to target Hamas leadership and hundreds of thousands of Palestinians forced to leave their homes. In other news, Jordan has activated a right-wing pressure campaign to support a Republican’s bid for speaker in the United States. Inside the U.S., Trump is trying to lock up the nomination while a 15-year-old journalist was ejected from a G.O.P. event, but later allowed back in. A solar eclipse recently took place across multiple countries in the Western Hemisphere too. Apart from world news, Jada Pinkett Smith has written a memoir about her life experiences and Piper Laurie, a respected actress, has died at 91 years old.</p>
+In the world, there are reports of Israeli invasion plans to target Gaza City and Hamas leadership. Maps are also being released tracking airstrikes and ground fighting between Israelis and Palestinians in the region, which has resulted in a humanitarian crisis with nearly half of Gaza&#39;s population displaced. In the US, there is an effort to lock up the nomination for former President Trump while Jordan involves itself in a right-wing pressure campaign for the Speakership candidacy. Additionally, a 15-year-old aspiring journalist was ejected from a G.O.P. event for his pointed questions before being allowed to return. The entertainment industry is mourning Piper Laurie&#39;s death at 91 while Madonna celebrates four decades of hits with a career-spanning spectacle and Jada Pinkett Smith releases her memoir. Finally, a solar eclipse left its mark across North America and Brazil while The New York Times publishes its weekly news quiz.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Invasion Plans Target Gaza City and Hamas Leadership</h3>
@@ -98,16 +98,16 @@ There has been a lot of conflict between Israelis and Palestinians in the Gaza r
 <p>Quinn Mitchell, an aspiring journalist from New Hampshire, was escorted out of a G.O.P. candidate summit on Friday, though he was later allowed to return.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Madonna Celebrates Four Decades of Hits With Career-Spanning Spectacle</h3>
+<sub>By Derrick Bryson Taylor and Ben Sisario</sub>
+<p>After a health-related delay, the pop superstar launched her Celebration Tour in London with a performance devoted to her full catalog of hits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-homepage-blue" alt="">
 <h3>A Solar Eclipse Leaves Its Mark Across a Hemisphere</h3>
 <sub>By The New York Times</sub>
 <p>The “ring of fire” bathed eight American states, Mexico and a number of Central American countries in astronomical awe before its final act in Colombia and Brazil.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Can You Hide a Child’s Face From A.I.?</h3>
-<sub>By Kashmir Hill</sub>
-<p>Parents have been stressing out for at least two decades about what to share about their children online. Powerful new technologies present a more urgent risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
