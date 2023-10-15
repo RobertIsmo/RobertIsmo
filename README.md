@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Israel, a massacre of its young people recently occurred amid tension between Palestinians and those seeking the state&#39;s right to exist. To help deter hostile actions, the US is expanding its military presence in the region. In Africa and parts of Asia, a shortage of fertilizer is affecting food prices and leading to malnutrition. In the US, Biden&#39;s presidential campaign has raised more money than Trump&#39;s in the same quarter of his 2020 re-election campaign. Meanwhile, a 15-year-old was ejected from a GOP event only to later be allowed back in. And at the American Museum of Natural History, scrutiny of its practices involving human remains has sparked change.</p>
+There is a lot going on right now in the world. In Israel, there was a massacre at a festival of peace and love, and the US is expanding its military presence near Israel. On the political side, we are seeing Nikki Haley defend Israel at the UN, Florida governor DeSantis participate in Nevada caucuses despite criticizing them, and West Virginia&#39;s &quot;Big Jim&quot; Justice running for Senate. Donors gave Biden $71.3 million for his presidential campaign in comparison to Trump&#39;s $105 million in 2020, and there is a desperate hunger spreading as a result of a fertilizer shortage in Africa and Asia. Obituaries recently announced the passing of Suzanne Somers, and science reports that megafires are rewriting ecosystems. Lastly, the American Museum of Natural History is taking action after scrutiny of their collecting techniques from the 1940s which were previously seen as abusive and racist.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Slaughter at a Festival of Peace and Love Leaves Israel Transformed</h3>
@@ -81,15 +81,21 @@ There is a lot happening in the world right now. In Israel, a massacre of its yo
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Big Jim’ and Babydog Go to Washington?</h3>
+<sub>By Campbell Robertson</sub>
+<p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nikki Haley, Israel and the Politics of Diplomacy</h3>
 <sub>By Charles Homans</sub>
 <p>The G.O.P. contender’s combative defense of Israel defined her tenure at the United Nations. Will it also define her presidential campaign?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Big Jim’ and Babydog Go to Washington?</h3>
-<sub>By Campbell Robertson</sub>
-<p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Will Participate in Nevada Caucuses Despite Criticizing Them</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>The state party enacted new rules that the Florida governor and his rivals say are designed to help former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,12 +103,6 @@ There is a lot happening in the world right now. In Israel, a massacre of its yo
 <sub>By Reid J. Epstein</sub>
 <p>The president’s re-election campaign announced a substantial quarterly fund-raising haul, but it’s far short of what Donald J. Trump raised in the same quarter of his 2020 re-election campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Known for His Pointed Questions, a 15-Year-Old Is Ejected From a G.O.P. Event</h3>
-<sub>By Neil Vigdor</sub>
-<p>Quinn Mitchell, an aspiring journalist from New Hampshire, was escorted out of a G.O.P. candidate summit on Friday, though he was later allowed to return.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Fertilizer Shortage Is Spreading Desperate Hunger</h3>
@@ -116,6 +116,12 @@ There is a lot happening in the world right now. In Israel, a massacre of its yo
 <p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Suzanne Somers, Star of ‘Three’s Company,’ Is Dead at 76</h3>
+<sub>By Alex Traub</sub>
+<p>She became famous for playing, as she put it, “one of the best dumb blondes that’s ever been done,” then became a sex-positive health and diet mogul.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>How Megafires Are Remaking the World</h3>
 <sub>By Emily Anthes</sub>
@@ -127,12 +133,6 @@ There is a lot happening in the world right now. In Israel, a massacre of its yo
 <sub>By Zachary Small</sub>
 <p>The American Museum of Natural History said it would address its collecting of remains, which stretched into the 1940s and included practices now viewed as abusive and racist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>The return of Usher. Also: A profile of Kamala Harris and a mother navigating CrimeCon after her son’s murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
