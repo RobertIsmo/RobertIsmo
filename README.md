@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-Things have been a bit tumultuous around the world lately. In Israel, there was a massacre of its youth, which has transformed the country’s 75-year quest for normalcy. Israeli forces also plan to target Gaza City and Hamas leadership in an invasion, which has caused tension in the region. Meanwhile, Nikki Haley’s combative defense of Israel at the United Nations has influenced the politics of diplomacy. Over in Africa, a fertilizer shortage is spreading desperate hunger, and here in the U.S., President Biden’s re-election campaign raised far more money than any of his Republican rivals. Also, a 15-year-old reporter was ejected from a GOP event and later allowed back in. Madonna celebrated four decades of hits with a career-spanning spectacle, and megafires are transforming ecosystems around the world. There is also a story about a young father who was rebuilding his life when flames came, as well as some other New York related articles including Usher&#39;s return and a profile of Kamala Harris.</p>
+The news right now is pretty varied. In Israel, there was a massacre at a festival of peace and love that has changed the country dramatically. Meanwhile, Israeli military leaders are planning an invasion of Gaza City and targeting Hamas leadership. Further, US Republican presidential candidate Nikki Haley is in the news for her diplomatic approach to Israel, while Joe Biden&#39;s campaign has raised millions of dollars more than Donald Trump&#39;s. There&#39;s also been a lot of discussion about a 15-year-old aspiring journalist being ejected from a Republican event, as well as a fertilizer shortage in Africa and parts of Asia causing desperate hunger. In the US, there is also news about Judge Tanya Chutkan trying the case related to the Capitol riot on January 6th, Madonna launching a career-spanning tour in London, megafires altering ecosystems around the globe, and a young father rebuilding his life before he was impacted by fires in Maui. Closer to home, there are some exciting activities going on in New York this weekend like Usher performing and a CrimeCon after someone&#39;s son was murdered.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Slaughter at a Festival of Peace and Love Leaves Israel Transformed</h3>
@@ -87,7 +87,7 @@ Things have been a bit tumultuous around the world lately. In Israel, there was 
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Campaign Raises $71.3 Million, Far Outpacing His Republican Rivals</h3>
+<h3>Biden Campaign Raises $71.3 Million, Far Outpacing Trump and Republican Field</h3>
 <sub>By Reid J. Epstein</sub>
 <p>The president’s re-election campaign announced a substantial quarterly fund-raising haul, but it’s far short of what Donald J. Trump raised in the same quarter of his 2020 re-election campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
