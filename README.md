@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Gaza, Israeli forces are planning an invasion to target Hamas leadership, and the U.N. is warning of a humanitarian crisis with nearly half of Gaza&#39;s population displaced. In Israel and Gaza, there has been airstrikes and ground fighting between Israelis and Palestinians that are being tracked by The New York Times. In the U.S., Jordan is activating a right-wing pressure campaign to push for the speakership, Donald Trump&#39;s team is working quietly to twist delegate rules in their favor for locking up the nomination, GOP candidates are pleading their case to major donors, and Kari Lake is pointing the way for abortion law changes from a Republican standpoint. A solar eclipse was seen all across Mexico, Central American countries, a number of American states, Colombia and Brazil. Technology poses a risk to keeping children&#39;s faces hidden from AI. Jada Pinkett Smith released her memoir about demons she hopes readers will face as well. Lastly, Afghanistan experienced three big quakes recently, leaving people too scared to sleep anywhere else expect outside.</p>
+Right now, there are tensions in the Middle East as plans are made by Israeli forces to target Gaza City and Hamas leadership. The New York Times is tracking airstrikes between Israelis and Palestinians, and the U.N. has warned Gaza of a potential humanitarian crisis due to hundreds of thousands of people leaving their homes from northern Gaza and a lack of water. In the US, Jordan is activating a right-wing pressure campaign to win the speakership, and Donald Trump is reportedly working behind the scenes to lock up the nomination for the 2024 election. Additionally, a solar eclipse recently swept across several American states, Mexico, and Central American countries in awe.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Invasion Plans Target Gaza City and Hamas Leadership</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>The goal, according to three senior officers,  is to wipe out the top political and military hierarchy of Hamas, the Palestinian group that controls Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The goal, according to three senior officers, is to wipe out the top political and military hierarchy of Hamas, the Palestinian group that controls Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,15 +93,9 @@ There&#39;s a lot going on in the world right now. In Gaza, Israeli forces are p
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Get in the Game’: G.O.P. Candidates Plead Their Case to Major Donors</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>Rivals to Donald J. Trump and their strategists told financiers that time is running out to build up a viable alternative to the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Kari Lake’s Tactical Retreat on Abortion Could Point the Way for the G.O.P.</h3>
-<sub>By Michael C. Bender</sub>
-<p>Kari Lake, along with other Republicans in battleground states, has come out against a national ban as candidates try to attract general election voters. Anti-abortion activists aren’t pleased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Known for His Pointed Questions, a 15-Year-Old Is Ejected From a G.O.P. Event</h3>
+<sub>By Neil Vigdor</sub>
+<p>Quinn Mitchell, an aspiring journalist from New Hampshire, was escorted out of a G.O.P. candidate summit on Friday, though he was later allowed to return.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-homepage-blue" alt="">
@@ -122,17 +116,23 @@ There&#39;s a lot going on in the world right now. In Gaza, Israeli forces are p
 <p>In her new memoir, “Worthy,” she answers big questions, poses others to readers and sets the record straight on her marriage to Will Smith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Three Big Quakes, Too Scared to Sleep Anywhere but Outside</h3>
-<sub>By Christina Goldbaum, Yaqoob Akbary and Victor J. Blue</sub>
-<p>Seemingly unending earthquakes in Afghanistan have killed nearly 1,300 people and amplified already troubling times since the Taliban seized power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Not a Beast but a Buddy: Love for the Llama at a New England Fair</h3>
-<sub>By Jennifer A. Kingson and Peter Fisher</sub>
-<p>To owners in the Northeast, the animals can put on quite a show — and do a lot more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Piper Laurie, Reluctant Starlet Turned Respected Actress, Dies at 91</h3>
+<sub>By Anita Gates</sub>
+<p>She began as just another product of the studio system, but she went on to receive three Oscar nominations, win an Emmy and appear on Broadway.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>The return of Usher. Also: A profile of Kamala Harris and a mother navigating CrimeCon after her son’s murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Oct. 13, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
