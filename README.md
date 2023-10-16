@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-There is a lot recently happening in the world that&#39;s of concern. In Gaza City, hospitals are facing impossible choices and war looms as trust in the Israeli government breaks down. In Nepal, China has made a big contract but locals are paying the price due to debt and pricey infrastructure projects. In West Virginia, &#39;Big Jim&#39; Justice is running for Senate. On the international side, Africa and Asia are facing a desperate hunger due to a fertilizer shortage and 131 people in Texas almost died because of lapses in air traffic control. Closer to home, Republican candidates DeSantis and Haley have different viewpoints when it comes to helping Gaza refugees and President Biden&#39;s 2024 filings show his overall financial strength. Lastly, people are examining the American Museum of Natural History&#39;s practices from the 1940s in collecting human remains and often being viewed as abusive and racist.</p>
+There&#39;s a lot of strife and unrest around the world right now. In Gaza, hospitals are facing tough decisions about how to evacuate their patients before a ground invasion. In Israel, airstrikes and ground fighting have been occurring and people are grappling with a complete breakdown of trust. In China, Nepal received a big contract but unpaid debt and a pricey airport in exchange. Meanwhile in West Virginia, Governor Jim Justice is running for the Senate. And Republicans DeSantis and Haley are facing criticism over aid for refugees in the Gaza Strip. On top of all that, there&#39;s a fertilizer shortage impacting parts of Africa and Asia creating food price inflation along with malnutrition. Lastly, Rite Aid filed for bankruptcy due to slumping sales and opioid lawsuits and we lost Suzanne Somers, star of Three&#39;s Company, at age 76. Whew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza’s Hospitals Face ‘Impossible’ Choices With Israel Evacuation Order</h3>
 <sub>By Raja Abdulrahim</sub>
 <p>As a widely anticipated ground invasion looms, hospitals in Gaza City said they had no way to evacuate thousands of sick and injured patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israelis Gird for a Deeper War Amid a Crisis of Trust in the Government</h3>
@@ -127,12 +133,6 @@ There is a lot recently happening in the world that&#39;s of concern. In Gaza Ci
 <sub>By Sydney Ember and Emily Steel</sub>
 <p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Facing Scrutiny, a Museum That Holds 12,000 Human Remains Changes Course</h3>
-<sub>By Zachary Small</sub>
-<p>The American Museum of Natural History said it would address its collecting of remains, which stretched into the 1940s and included practices now viewed as abusive and racist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
