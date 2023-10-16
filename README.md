@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-There is a lot of unrest in parts of the world right now. In Gaza, Israel has ordered the evacuation of hospitals and thousands of sick and injured patients, leaving Doctors with impossible choices. This comes as Israelis are bracing for a ground invasion into the Gaza Strip, leading to a crisis of trust in the government. Here in the US, two Republican candidates have diverged in their attitudes towards civilians in Gaza who are bracing for the invasion. One, Governor Jim Justice of West Virginia is running for Senate, while another candidate, Florida Governor Ron DeSantis has agreed to participate in Nevada&#39;s Caucuses despite his previously criticizing them. Asides from political issues, there is also an ongoing fertilizer shortage across Africa and Asia which is creating higher food prices and malnutrition. On a lighter note, veteran actress Suzanne Somers recently passed away at age 76 after becoming famous playing &quot;the best dumb blondes that ever was done&quot; in her show Three&#39;s Company. There has also been discourse on the American Museum of Natural History facing scrutiny for holding 12000 human remains over several decades, amid accusations of abuse and racism. Lastly, people have been campaigning against policing co-workers&#39; chosen pronouns. </p>
+There is a lot going on in the world right now. In Palestine, hospitals in Gaza City are facing &#39;impossible&#39; choices due to orders from Israel to evacuate thousands of sick and injured patients as an invasion looms. Meanwhile, Israelis are preparing for war amid a crisis of trust in the government. In Africa and parts of Asia, disruption to fertilizer supply chains is leading to higher food prices and increased malnutrition. Here in the US, West Virginia&#39;s governor Jim Justice is running for Senate and Republican candidates for governor appear to be divided over how to help refugees from Gaza. There have also been acts of bravery and leadership–Judge Tanya Chutkan has spoken out against President Trump’s conduct during the January 6th trial without being intimidated by it, and Suzanne Somers, star of ‘Three’s Company’ has passed away at 76 but left behind her positive legacy in terms of health and dieting. Finally, megafires around the world are transforming ecosystems while at the same time we experience progressive changes with the American Museum of Natural History addressing its practices in terms of collecting human remains. It’s a lot!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza’s Hospitals Face ‘Impossible’ Choices With Israel Evacuation Order</h3>
@@ -86,12 +86,6 @@ There is a lot of unrest in parts of the world right now. In Gaza, Israel has or
 <p>The two Republican candidates appeared to diverge on attitudes toward civilians in the Gaza Strip who are bracing for an invasion by Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Will Participate in Nevada Caucuses Despite Criticizing Them</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>The state party enacted new rules that the Florida governor and his rivals say are designed to help former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Fertilizer Shortage Is Spreading Desperate Hunger</h3>
 <sub>By Peter S. Goodman and Finbarr O’Reilly For The New York Times</sub>
@@ -102,6 +96,12 @@ There is a lot of unrest in parts of the world right now. In Gaza, Israel has or
 <h3>Tanya Chutkan, an Unflinching Judge in the Trump Jan. 6 Trial</h3>
 <sub>By Robert Draper</sub>
 <p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Rite Aid, Facing Slumping Sales and Opioid Suits, Files for Bankruptcy</h3>
+<sub>By Jordyn Holman and Lauren Hirsch</sub>
+<p>The pharmacy chain, one of the country’s largest, faces more than a thousand lawsuits that say it filled illegal prescriptions for painkillers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
