@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 15, Central Standard Time</p>
 <p>
-There is a lot going on right now in the world. In Israel, there was a massacre at a festival of peace and love, and the US is expanding its military presence near Israel. On the political side, we are seeing Nikki Haley defend Israel at the UN, Florida governor DeSantis participate in Nevada caucuses despite criticizing them, and West Virginia&#39;s &quot;Big Jim&quot; Justice running for Senate. Donors gave Biden $71.3 million for his presidential campaign in comparison to Trump&#39;s $105 million in 2020, and there is a desperate hunger spreading as a result of a fertilizer shortage in Africa and Asia. Obituaries recently announced the passing of Suzanne Somers, and science reports that megafires are rewriting ecosystems. Lastly, the American Museum of Natural History is taking action after scrutiny of their collecting techniques from the 1940s which were previously seen as abusive and racist.</p>
+There is a lot of unrest in parts of the world right now. In Gaza, Israel has ordered the evacuation of hospitals and thousands of sick and injured patients, leaving Doctors with impossible choices. This comes as Israelis are bracing for a ground invasion into the Gaza Strip, leading to a crisis of trust in the government. Here in the US, two Republican candidates have diverged in their attitudes towards civilians in Gaza who are bracing for the invasion. One, Governor Jim Justice of West Virginia is running for Senate, while another candidate, Florida Governor Ron DeSantis has agreed to participate in Nevada&#39;s Caucuses despite his previously criticizing them. Asides from political issues, there is also an ongoing fertilizer shortage across Africa and Asia which is creating higher food prices and malnutrition. On a lighter note, veteran actress Suzanne Somers recently passed away at age 76 after becoming famous playing &quot;the best dumb blondes that ever was done&quot; in her show Three&#39;s Company. There has also been discourse on the American Museum of Natural History facing scrutiny for holding 12000 human remains over several decades, amid accusations of abuse and racism. Lastly, people have been campaigning against policing co-workers&#39; chosen pronouns. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Slaughter at a Festival of Peace and Love Leaves Israel Transformed</h3>
-<sub>By Roger Cohen, Sergey Ponomarev and Avishag Shaar-Yashuv</sub>
-<p>In this massacre of its youth, Israel’s 75-year-old quest for some carefree normalcy met the murderous fury of those long-oppressed Palestinians who deny the state’s right to exist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Expanding Military Presence Near Israel</h3>
-<sub>By Eric Schmitt</sub>
-<p>Defense Secretary Lloyd J. Austin III has ordered a second aircraft carrier, the Dwight D. Eisenhower, to the region to deter hostile actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gaza’s Hospitals Face ‘Impossible’ Choices With Israel Evacuation Order</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>As a widely anticipated ground invasion looms, hospitals in Gaza City said they had no way to evacuate thousands of sick and injured patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Schoolyard</h3>
-<sub>By Samar Abu Elouf and Eric Nagourney</sub>
-<p>A small image reveals a larger story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israelis Gird for a Deeper War Amid a Crisis of Trust in the Government</h3>
+<sub>By Isabel Kershner</sub>
+<p>With a ground invasion into Gaza imminent, Israelis are grappling with a total breakdown of trust and a collapse of everything they believed in and relied on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,21 +81,15 @@ There is a lot going on right now in the world. In Israel, there was a massacre 
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley, Israel and the Politics of Diplomacy</h3>
-<sub>By Charles Homans</sub>
-<p>The G.O.P. contender’s combative defense of Israel defined her tenure at the United Nations. Will it also define her presidential campaign?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Help for Gaza Refugees Creates a Flashpoint for DeSantis and Haley</h3>
+<sub>By Neil Vigdor</sub>
+<p>The two Republican candidates appeared to diverge on attitudes toward civilians in the Gaza Strip who are bracing for an invasion by Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Will Participate in Nevada Caucuses Despite Criticizing Them</h3>
 <sub>By Maggie Haberman and Shane Goldmacher</sub>
 <p>The state party enacted new rules that the Florida governor and his rivals say are designed to help former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Campaign Raises $71.3 Million, Far Outpacing Trump and Republican Field</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The president’s re-election campaign announced a substantial quarterly fund-raising haul, but it’s far short of what Donald J. Trump raised in the same quarter of his 2020 re-election campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -133,6 +121,18 @@ There is a lot going on right now in the world. In Israel, there was a massacre 
 <sub>By Zachary Small</sub>
 <p>The American Museum of Natural History said it would address its collecting of remains, which stretched into the 1940s and included practices now viewed as abusive and racist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>It’s Not OK to Police Co-Workers’ Pronouns</h3>
+<sub>By Roxane Gay</sub>
+<p>Even if you think they’re using their identities for personal branding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Israel Can Defend Itself and Uphold Its Values</h3>
+<sub>By The Editorial Board</sub>
+<p>It can succeed only by upholding the rules and norms of behavior that Hamas wantonly ignores.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
