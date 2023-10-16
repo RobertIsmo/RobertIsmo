@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, October 15, Central Standard Time</p>
+<p>It is Monday, October 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Palestine, hospitals in Gaza City are facing &#39;impossible&#39; choices due to orders from Israel to evacuate thousands of sick and injured patients as an invasion looms. Meanwhile, Israelis are preparing for war amid a crisis of trust in the government. In Africa and parts of Asia, disruption to fertilizer supply chains is leading to higher food prices and increased malnutrition. Here in the US, West Virginia&#39;s governor Jim Justice is running for Senate and Republican candidates for governor appear to be divided over how to help refugees from Gaza. There have also been acts of bravery and leadership–Judge Tanya Chutkan has spoken out against President Trump’s conduct during the January 6th trial without being intimidated by it, and Suzanne Somers, star of ‘Three’s Company’ has passed away at 76 but left behind her positive legacy in terms of health and dieting. Finally, megafires around the world are transforming ecosystems while at the same time we experience progressive changes with the American Museum of Natural History addressing its practices in terms of collecting human remains. It’s a lot!</p>
+There is a lot recently happening in the world that&#39;s of concern. In Gaza City, hospitals are facing impossible choices and war looms as trust in the Israeli government breaks down. In Nepal, China has made a big contract but locals are paying the price due to debt and pricey infrastructure projects. In West Virginia, &#39;Big Jim&#39; Justice is running for Senate. On the international side, Africa and Asia are facing a desperate hunger due to a fertilizer shortage and 131 people in Texas almost died because of lapses in air traffic control. Closer to home, Republican candidates DeSantis and Haley have different viewpoints when it comes to helping Gaza refugees and President Biden&#39;s 2024 filings show his overall financial strength. Lastly, people are examining the American Museum of Natural History&#39;s practices from the 1940s in collecting human remains and often being viewed as abusive and racist.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza’s Hospitals Face ‘Impossible’ Choices With Israel Evacuation Order</h3>
@@ -72,6 +72,12 @@ There is a lot going on in the world right now. In Palestine, hospitals in Gaza 
 <h3>Israelis Gird for a Deeper War Amid a Crisis of Trust in the Government</h3>
 <sub>By Isabel Kershner</sub>
 <p>With a ground invasion into Gaza imminent, Israelis are grappling with a total breakdown of trust and a collapse of everything they believed in and relied on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Got a Big Contract. Nepal Got Debt and a Pricey Airport.</h3>
+<sub>By Daisuke Wakabayashi, Bhadra Sharma and Claire Fu</sub>
+<p>China called the project a “signature” of its cooperation with Nepal. Insiders and documents reveal the pitfalls of China’s infrastructure-at-any-cost model.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +92,16 @@ There is a lot going on in the world right now. In Palestine, hospitals in Gaza 
 <p>The two Republican candidates appeared to diverge on attitudes toward civilians in the Gaza Strip who are bracing for an invasion by Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Giant Lead Is Financial, Too: 6 Takeaways From 2024 Filings</h3>
+<sub>By Rebecca Davis O’Brien, Reid J. Epstein and Michael C. Bender</sub>
+<p>Ron DeSantis has spent heavily and Nikki Haley has padded her war chest. On the Democratic side, President Biden continues to show overall strength, and the party’s incumbent senators fared well.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Fertilizer Shortage Is Spreading Desperate Hunger</h3>
 <sub>By Peter S. Goodman and Finbarr O’Reilly For The New York Times</sub>
 <p>Across Africa and in parts of Asia, disruption to the supply chain for fertilizer is raising food prices and increasing malnutrition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tanya Chutkan, an Unflinching Judge in the Trump Jan. 6 Trial</h3>
-<sub>By Robert Draper</sub>
-<p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,35 +110,29 @@ There is a lot going on in the world right now. In Palestine, hospitals in Gaza 
 <p>The pharmacy chain, one of the country’s largest, faces more than a thousand lawsuits that say it filled illegal prescriptions for painkillers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tanya Chutkan, an Unflinching Judge in the Trump Jan. 6 Trial</h3>
+<sub>By Robert Draper</sub>
+<p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
 <h3>Suzanne Somers, Star of ‘Three’s Company,’ Is Dead at 76</h3>
 <sub>By Alex Traub</sub>
 <p>She became famous for playing, as she put it, “one of the best dumb blondes that’s ever been done,” then became a sex-positive health and diet mogul.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>How Megafires Are Remaking the World</h3>
-<sub>By Emily Anthes</sub>
-<p>In our Pyrocene age, enormous wildfires aren’t merely damaging ecosystems but transforming them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
+<sub>By Sydney Ember and Emily Steel</sub>
+<p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Facing Scrutiny, a Museum That Holds 12,000 Human Remains Changes Course</h3>
 <sub>By Zachary Small</sub>
 <p>The American Museum of Natural History said it would address its collecting of remains, which stretched into the 1940s and included practices now viewed as abusive and racist.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>It’s Not OK to Police Co-Workers’ Pronouns</h3>
-<sub>By Roxane Gay</sub>
-<p>Even if you think they’re using their identities for personal branding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Israel Can Defend Itself and Uphold Its Values</h3>
-<sub>By The Editorial Board</sub>
-<p>It can succeed only by upholding the rules and norms of behavior that Hamas wantonly ignores.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
