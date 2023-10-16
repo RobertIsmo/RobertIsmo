@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the U.S., President Biden is seeking to deter Iran and Hezbollah, and former President Trump is dealing with a federal election case after making some threatening statements. Around the world, Israel is bracing for a deeper war amid a crisis of trust in the government, and major earthquakes have struck Afghanistan multiple times in recent weeks claiming over 1,000 lives. In Nepal, China has invested in expensive infrastructure, which has left Nepal with lots of debt. Meanwhile, a climate advocacy group is spending 80 million dollars on ads to help boost Biden&#39;s environmental record. Finally, in New Orleans, there are amazing restaurants to try out!</p>
+There is a lot going on in the world right now. In Israel, families of hostages are deeply worried about what the feared Israeli invasion of Gaza may mean for their loved ones. For those living in Gaza, it is already chaotic as hundreds of thousands flee their homes in northern Gaza. In the US, President Biden is trying to prevent escalation from Israel&#39;s enemies, Iran and Hezbollah. Meanwhile, China has had its economy suffer from a reliance on a borrow-to-build model for decades, and many projects they have used this model for have become debt ridden. Beyond the Middle East and China, there has been a powerful earthquake in Afghanistan that has killed more than 1,000 people in the last week or so. Lastly, while it may not seem relevant at first given all other world events, New Orleans has some of the best dining experiences if you ever get a chance to visit.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fearing Escalation, Biden Seeks to Deter Iran and Hezbollah</h3>
-<sub>By Peter Baker and Farnaz Fassihi</sub>
-<p>The administration has grown increasingly anxious that Israel’s enemies may seek to widen the war with Hamas and has both sent diplomatic messages and deployed military assets to prevent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Hostages’ Families, an ‘Endless Loop of Hope and Despair’</h3>
+<sub>By Jeffrey Gettleman and Tamir Kalifa</sub>
+<p>Relatives of those captured or missing express despair at the lack of information, and they are terrified of what an expected Israeli invasion of Gaza may mean for their loved ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Voices From Gaza</h3>
@@ -74,10 +74,10 @@ There is a lot happening in the world right now. In the U.S., President Biden is
 <p>As hundreds of thousands flee south from northern Gaza, we hear from two people caught in the chaos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Gird for a Deeper War Amid a Crisis of Trust in the Government</h3>
-<sub>By Isabel Kershner</sub>
-<p>With a ground invasion into Gaza imminent, Israelis are grappling with a total breakdown of trust and a collapse of everything they believed in and relied on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fearing Escalation, Biden Seeks to Deter Iran and Hezbollah</h3>
+<sub>By Peter Baker and Farnaz Fassihi</sub>
+<p>The administration has grown increasingly anxious that Israel’s enemies may seek to widen the war with Hamas and has both sent diplomatic messages and deployed military assets to prevent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,16 +87,16 @@ There is a lot happening in the world right now. In the U.S., President Biden is
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Bet It All on Real Estate. Now Its Economy Is Paying the Price.</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>After relying on a borrow-to-build model for decades, Beijing must make difficult choices about the country’s housing market and economic future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Got a Big Contract. Nepal Got Debt and a Pricey Airport.</h3>
 <sub>By Daisuke Wakabayashi, Bhadra Sharma and Claire Fu</sub>
 <p>China called the project a “signature” of its cooperation with Nepal. Insiders and documents reveal the pitfalls of China’s infrastructure-at-any-cost model.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge to Consider Gag Order on Trump in Federal Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Defense lawyers and prosecutors will square off over whether the former president should be restricted in what he can say about the proceedings after a string of threatening statements.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Father, an Earthquake and the Desperate Search for a Missing Son</h3>
@@ -122,16 +122,16 @@ There is a lot happening in the world right now. In the U.S., President Biden is
 <p>Scientists doing “gain-of-function” research said that heightened fears of lab leaks are stalling studies that could thwart the next pandemic virus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Scientists Offer a New Explanation for Long Covid</h3>
+<sub>By Pam Belluck</sub>
+<p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Real Estate Tycoon Whose Fingerprints Are on the Menendez Indictment</h3>
 <sub>By Elise Young and Tracey Tully</sub>
 <p>Fred Daibes, a New Jersey builder, was accused of defrauding a bank that he had founded. Prosecutors say he turned to Senator Robert Menendez for help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Climate Advocacy Group Plans to Spend $80 Million on Ads to Aid Biden</h3>
-<sub>By Reid J. Epstein</sub>
-<p>Climate Power says the lack of awareness and understanding of the president’s record on environmental issues is hurting him in the polls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
