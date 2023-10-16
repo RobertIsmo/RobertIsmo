@@ -60,25 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-There&#39;s a lot of strife and unrest around the world right now. In Gaza, hospitals are facing tough decisions about how to evacuate their patients before a ground invasion. In Israel, airstrikes and ground fighting have been occurring and people are grappling with a complete breakdown of trust. In China, Nepal received a big contract but unpaid debt and a pricey airport in exchange. Meanwhile in West Virginia, Governor Jim Justice is running for the Senate. And Republicans DeSantis and Haley are facing criticism over aid for refugees in the Gaza Strip. On top of all that, there&#39;s a fertilizer shortage impacting parts of Africa and Asia creating food price inflation along with malnutrition. Lastly, Rite Aid filed for bankruptcy due to slumping sales and opioid lawsuits and we lost Suzanne Somers, star of Three&#39;s Company, at age 76. Whew!</p>
+There is a lot happening in the world right now. In the U.S., President Biden is seeking to deter Iran and Hezbollah, and former President Trump is dealing with a federal election case after making some threatening statements. Around the world, Israel is bracing for a deeper war amid a crisis of trust in the government, and major earthquakes have struck Afghanistan multiple times in recent weeks claiming over 1,000 lives. In Nepal, China has invested in expensive infrastructure, which has left Nepal with lots of debt. Meanwhile, a climate advocacy group is spending 80 million dollars on ads to help boost Biden&#39;s environmental record. Finally, in New Orleans, there are amazing restaurants to try out!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza’s Hospitals Face ‘Impossible’ Choices With Israel Evacuation Order</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>As a widely anticipated ground invasion looms, hospitals in Gaza City said they had no way to evacuate thousands of sick and injured patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fearing Escalation, Biden Seeks to Deter Iran and Hezbollah</h3>
+<sub>By Peter Baker and Farnaz Fassihi</sub>
+<p>The administration has grown increasingly anxious that Israel’s enemies may seek to widen the war with Hamas and has both sent diplomatic messages and deployed military assets to prevent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Voices From Gaza</h3>
+<sub>By Sabrina Tavernise, Lynsea Garrison, Jessica Cheung, Rachelle Bonja, Asthaa Chaturvedi, Sydney Harper, Paige Cowett, Lexie Diao, Lisa Chow, Dan Powell, Elisheba Ittoop, Marion Lozano and Chris Wood</sub>
+<p>As hundreds of thousands flee south from northern Gaza, we hear from two people caught in the chaos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israelis Gird for a Deeper War Amid a Crisis of Trust in the Government</h3>
 <sub>By Isabel Kershner</sub>
 <p>With a ground invasion into Gaza imminent, Israelis are grappling with a total breakdown of trust and a collapse of everything they believed in and relied on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hundreds of Thousands Flee Northern Gaza, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, diplomats try to ease the growing humanitarian crisis in the enclave, and a look at Donald Trump’s back-room campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Got a Big Contract. Nepal Got Debt and a Pricey Airport.</h3>
@@ -87,52 +93,46 @@ There&#39;s a lot of strife and unrest around the world right now. In Gaza, hosp
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Big Jim’ and Babydog Go to Washington?</h3>
-<sub>By Campbell Robertson</sub>
-<p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge to Consider Gag Order on Trump in Federal Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Defense lawyers and prosecutors will square off over whether the former president should be restricted in what he can say about the proceedings after a string of threatening statements.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Father, an Earthquake and the Desperate Search for a Missing Son</h3>
+<sub>By Christina Goldbaum and Yaqoob Akbary</sub>
+<p>Over a week since a major earthquake decimated his village in northwest Afghanistan, Noor Ahmad is on a harrowing hunt to find his 5-year-old.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Powerful Earthquakes Hit Afghanistan for the Fourth Time in Just Over a Week</h3>
+<sub>By Christina Goldbaum and Yaqoob Akbary</sub>
+<p>Herat Province, near the site of three earlier quakes that killed more than 1,000 people in recent days, was shaken violently again early Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The 25 Best Restaurants in New Orleans Right Now</h3>
+<sub>By Brett Anderson</sub>
+<p>There’s plenty of great Creole and Cajun food, of course, but also outstanding Vietnamese, Indian and Trinbagonian cuisine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Lab Leak Fight Casts Chill Over Virology Research</h3>
+<sub>By Benjamin Mueller and Sheryl Gay Stolberg</sub>
+<p>Scientists doing “gain-of-function” research said that heightened fears of lab leaks are stalling studies that could thwart the next pandemic virus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Real Estate Tycoon Whose Fingerprints Are on the Menendez Indictment</h3>
+<sub>By Elise Young and Tracey Tully</sub>
+<p>Fred Daibes, a New Jersey builder, was accused of defrauding a bank that he had founded. Prosecutors say he turned to Senator Robert Menendez for help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Help for Gaza Refugees Creates a Flashpoint for DeSantis and Haley</h3>
-<sub>By Neil Vigdor</sub>
-<p>The two Republican candidates appeared to diverge on attitudes toward civilians in the Gaza Strip who are bracing for an invasion by Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Giant Lead Is Financial, Too: 6 Takeaways From 2024 Filings</h3>
-<sub>By Rebecca Davis O’Brien, Reid J. Epstein and Michael C. Bender</sub>
-<p>Ron DeSantis has spent heavily and Nikki Haley has padded her war chest. On the Democratic side, President Biden continues to show overall strength, and the party’s incumbent senators fared well.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Fertilizer Shortage Is Spreading Desperate Hunger</h3>
-<sub>By Peter S. Goodman and Finbarr O’Reilly For The New York Times</sub>
-<p>Across Africa and in parts of Asia, disruption to the supply chain for fertilizer is raising food prices and increasing malnutrition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Rite Aid, Facing Slumping Sales and Opioid Suits, Files for Bankruptcy</h3>
-<sub>By Jordyn Holman and Lauren Hirsch</sub>
-<p>The pharmacy chain, one of the country’s largest, faces more than a thousand lawsuits that say it filled illegal prescriptions for painkillers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tanya Chutkan, an Unflinching Judge in the Trump Jan. 6 Trial</h3>
-<sub>By Robert Draper</sub>
-<p>Judge Chutkan, who grew up in a prominent Jamaican family and has extensive trial experience, has been thrust into the limelight. She shows no sign of being intimidated by it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Suzanne Somers, Star of ‘Three’s Company,’ Is Dead at 76</h3>
-<sub>By Alex Traub</sub>
-<p>She became famous for playing, as she put it, “one of the best dumb blondes that’s ever been done,” then became a sex-positive health and diet mogul.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Series of Air Traffic Control Lapses Nearly Killed 131 People</h3>
-<sub>By Sydney Ember and Emily Steel</sub>
-<p>Two planes were moments from colliding in Texas, a harrowing example of the country’s fraying air safety system, a New York Times investigation found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 11, Central Standard Time</sub></sub>
+<h3>Climate Advocacy Group Plans to Spend $80 Million on Ads to Aid Biden</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Climate Power says the lack of awareness and understanding of the president’s record on environmental issues is hurting him in the polls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
