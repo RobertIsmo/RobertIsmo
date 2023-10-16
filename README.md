@@ -60,18 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-There have been a number of important news stories lately. In the US there are plans for a funeral honoring a 6-year-old boy who was killed in an alleged hate crime. In the world, families of hostages are dealing with deep feelings of hope and despair as tensions build in Gaza. Businesswise, the Chinese economy is hurting due to a long reliance on real estate and China is facing criticism for a big infrastructure project in Nepal which caused excessive debt. On the health front, scientists believe they may have found an explanation for the lingering symptoms of long Covid. In science news, fear about lab leaks has cast a chill over virology research. For dining, some great restaurants in New Orleans are being recognized as well as sustainable salmon farming initiatives. As for US politics, there&#39;s news around a settlement for families separated at the border by Trump. There&#39;s also Harvard University cozying up to mental health platforms like TikTok. And finally, about climate change, we&#39;re hearing about how building adaptations could reduce bird fatalities in NYC.</p>
+Currently, in the United States, President Biden is facing the challenge of potentially visiting Israel during a time of war. In relation to this, The New York Times is mapping the attacks in Israel and Gaza. The news is also covering a sad story in Illinois where a six year old Muslim boy was attacked and since then his family has been mourning his loss. Judge have imposed a limited gag order on Trump related to an election case. Jordan is edging closer to victory with his bid for speakership but there are still some Republican holdouts. Additionally, Senator Robert Menendez&#39;s attempt to host a fund-raiser at an island resort was not successful due to numerous cancellations following his indictment. 
+
+In China, over the last few decades they have placed much of their investments in the real estate market with unfortunate long-term consequences affecting their economy now. They have also recently funded a project in Nepal, which has created plenty of debt for Nepal and an expensive airport.
+
+Regarding health news, scientists may have found an explanation for long Covid cases due to remnants from the coronavirus that would stifle serotonin production. This understanding has led to fear of lab leaks that are stalling studies that could prevent future pandemic viruses. 
+
+For something more positive, The New York Times compiled 25 of the best restaurants in New Orleans to explore different types of cuisine like Creole, Cajun and Trinbagonian. Lastly, thousands of migrants that were separated from their families at the US border by Trump have reached a settlement that will allow them to live and work temporarily and possibly become citizens if they win asylum.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Funeral Planned for Illinois Boy Killed in Suspected Anti-Muslim Hate Crime</h3>
-<sub>By Mitch Smith</sub>
-<p>The family of Wadea Al-Fayoume, 6, was set to mourn him at a funeral in suburban Chicago. The man accused in the boy’s death was scheduled to appear in court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Weighs the Risks of a Wartime Visit to Israel</h3>
+<sub>By Peter Baker</sub>
+<p>A presidential trip to Israel at such a critical moment would pose enormous challenges for the White House, in terms of both politics and security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Hostages’ Families, an ‘Endless Loop of Hope and Despair’</h3>
-<sub>By Jeffrey Gettleman and Tamir Kalifa</sub>
-<p>Relatives of those captured or missing express despair at the lack of information, and they are terrified of what an expected Israeli invasion of Gaza may mean for their loved ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Muslim Boy, 6, Is Mourned After Illinois Attack Linked to Mideast War</h3>
+<sub>By Julie Bosman, Mitch Smith and Robert Chiarito</sub>
+<p>The family of Wadea Al-Fayoume remembered him at a funeral in suburban Chicago. The man accused in the boy’s death appeared in court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Imposes Limited Gag Order on Trump in Election Case</h3>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>The order bars him from attacking witnesses, court staff members and specific prosecutors or their families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Inches Closer to Speakership, but Republican Holdouts Remain</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Ohio Republican won over several mainstream members of his party who had initially withheld their support, but was still short of the votes needed to win the gavel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Menendez’s Island Resort Fund-Raiser, Donors Were Scarce. So Was He.</h3>
+<sub>By Luis Ferré-Sadurní</sub>
+<p>An event in Puerto Rico to benefit Senator Robert Menendez’s political action committee suffered numerous cancellations after the senator’s indictment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -108,30 +138,6 @@ There have been a number of important news stories lately. In the US there are p
 <h3>Families Separated at Border by Trump Reach Settlement</h3>
 <sub>By Miriam Jordan</sub>
 <p>Thousands of migrants subjected to the policy will be allowed to live and work in the U.S., at least temporarily. If they win asylum, they could become citizens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Harvard Cozies Up to #MentalHealth TikTok</h3>
-<sub>By Ellen Barry</sub>
-<p>As young Americans turn to TikTok for information on mental health, the T.H. Chan School of Public Health at Harvard is building its own team of influencers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>This N.Y.C. Building Is in the Bird-Killing Hall of Shame. It Wants Out.</h3>
-<sub>By Catrin Einhorn and Andres Kudacki</sub>
-<p>A shiny glass condo property in the city has become notorious for deadly crashes, so some residents are pushing for change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope.</h3>
-<sub>By Melissa Clark</sub>
-<p>Land-based aquaculture is still coming into its own, but it stands to upend an industry plagued by environmental concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How ‘A.I. Agents’ That Roam the Internet Could One Day Replace Workers</h3>
-<sub>By Cade Metz and Karen Weise</sub>
-<p>Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
