@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, families of hostages are deeply worried about what the feared Israeli invasion of Gaza may mean for their loved ones. For those living in Gaza, it is already chaotic as hundreds of thousands flee their homes in northern Gaza. In the US, President Biden is trying to prevent escalation from Israel&#39;s enemies, Iran and Hezbollah. Meanwhile, China has had its economy suffer from a reliance on a borrow-to-build model for decades, and many projects they have used this model for have become debt ridden. Beyond the Middle East and China, there has been a powerful earthquake in Afghanistan that has killed more than 1,000 people in the last week or so. Lastly, while it may not seem relevant at first given all other world events, New Orleans has some of the best dining experiences if you ever get a chance to visit.</p>
+There have been a number of important news stories lately. In the US there are plans for a funeral honoring a 6-year-old boy who was killed in an alleged hate crime. In the world, families of hostages are dealing with deep feelings of hope and despair as tensions build in Gaza. Businesswise, the Chinese economy is hurting due to a long reliance on real estate and China is facing criticism for a big infrastructure project in Nepal which caused excessive debt. On the health front, scientists believe they may have found an explanation for the lingering symptoms of long Covid. In science news, fear about lab leaks has cast a chill over virology research. For dining, some great restaurants in New Orleans are being recognized as well as sustainable salmon farming initiatives. As for US politics, there&#39;s news around a settlement for families separated at the border by Trump. There&#39;s also Harvard University cozying up to mental health platforms like TikTok. And finally, about climate change, we&#39;re hearing about how building adaptations could reduce bird fatalities in NYC.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Funeral Planned for Illinois Boy Killed in Suspected Anti-Muslim Hate Crime</h3>
+<sub>By Mitch Smith</sub>
+<p>The family of Wadea Al-Fayoume, 6, was set to mourn him at a funeral in suburban Chicago. The man accused in the boy’s death was scheduled to appear in court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Hostages’ Families, an ‘Endless Loop of Hope and Despair’</h3>
 <sub>By Jeffrey Gettleman and Tamir Kalifa</sub>
 <p>Relatives of those captured or missing express despair at the lack of information, and they are terrified of what an expected Israeli invasion of Gaza may mean for their loved ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Voices From Gaza</h3>
-<sub>By Sabrina Tavernise, Lynsea Garrison, Jessica Cheung, Rachelle Bonja, Asthaa Chaturvedi, Sydney Harper, Paige Cowett, Lexie Diao, Lisa Chow, Dan Powell, Elisheba Ittoop, Marion Lozano and Chris Wood</sub>
-<p>As hundreds of thousands flee south from northern Gaza, we hear from two people caught in the chaos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fearing Escalation, Biden Seeks to Deter Iran and Hezbollah</h3>
-<sub>By Peter Baker and Farnaz Fassihi</sub>
-<p>The administration has grown increasingly anxious that Israel’s enemies may seek to widen the war with Hamas and has both sent diplomatic messages and deployed military assets to prevent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hundreds of Thousands Flee Northern Gaza, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, diplomats try to ease the growing humanitarian crisis in the enclave, and a look at Donald Trump’s back-room campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,22 +86,10 @@ There is a lot going on in the world right now. In Israel, families of hostages 
 <p>China called the project a “signature” of its cooperation with Nepal. Insiders and documents reveal the pitfalls of China’s infrastructure-at-any-cost model.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Father, an Earthquake and the Desperate Search for a Missing Son</h3>
-<sub>By Christina Goldbaum and Yaqoob Akbary</sub>
-<p>Over a week since a major earthquake decimated his village in northwest Afghanistan, Noor Ahmad is on a harrowing hunt to find his 5-year-old.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Powerful Earthquakes Hit Afghanistan for the Fourth Time in Just Over a Week</h3>
-<sub>By Christina Goldbaum and Yaqoob Akbary</sub>
-<p>Herat Province, near the site of three earlier quakes that killed more than 1,000 people in recent days, was shaken violently again early Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The 25 Best Restaurants in New Orleans Right Now</h3>
-<sub>By Brett Anderson</sub>
-<p>There’s plenty of great Creole and Cajun food, of course, but also outstanding Vietnamese, Indian and Trinbagonian cuisine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Scientists Offer a New Explanation for Long Covid</h3>
+<sub>By Pam Belluck</sub>
+<p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -122,16 +98,40 @@ There is a lot going on in the world right now. In Israel, families of hostages 
 <p>Scientists doing “gain-of-function” research said that heightened fears of lab leaks are stalling studies that could thwart the next pandemic virus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Scientists Offer a New Explanation for Long Covid</h3>
-<sub>By Pam Belluck</sub>
-<p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The 25 Best Restaurants in New Orleans Right Now</h3>
+<sub>By Brett Anderson</sub>
+<p>There’s plenty of great Creole and Cajun food, of course, but also outstanding Vietnamese, Indian and Trinbagonian cuisine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Real Estate Tycoon Whose Fingerprints Are on the Menendez Indictment</h3>
-<sub>By Elise Young and Tracey Tully</sub>
-<p>Fred Daibes, a New Jersey builder, was accused of defrauding a bank that he had founded. Prosecutors say he turned to Senator Robert Menendez for help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Families Separated at Border by Trump Reach Settlement</h3>
+<sub>By Miriam Jordan</sub>
+<p>Thousands of migrants subjected to the policy will be allowed to live and work in the U.S., at least temporarily. If they win asylum, they could become citizens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Harvard Cozies Up to #MentalHealth TikTok</h3>
+<sub>By Ellen Barry</sub>
+<p>As young Americans turn to TikTok for information on mental health, the T.H. Chan School of Public Health at Harvard is building its own team of influencers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>This N.Y.C. Building Is in the Bird-Killing Hall of Shame. It Wants Out.</h3>
+<sub>By Catrin Einhorn and Andres Kudacki</sub>
+<p>A shiny glass condo property in the city has become notorious for deadly crashes, so some residents are pushing for change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope.</h3>
+<sub>By Melissa Clark</sub>
+<p>Land-based aquaculture is still coming into its own, but it stands to upend an industry plagued by environmental concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How ‘A.I. Agents’ That Roam the Internet Could One Day Replace Workers</h3>
+<sub>By Cade Metz and Karen Weise</sub>
+<p>Researchers are transforming chatbots into online agents that play games, query websites, schedule meetings, build bar charts and do more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
