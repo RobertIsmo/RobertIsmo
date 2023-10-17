@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-There is a lot of tension in the world right now. In Israel, Prime Minister Benjamin Netanyahu has gone from pursuing limited strikes to launching an all-out war. President Biden faces risks with his trip to Israel at such a critical time. Russian President Putin is in China for an economic-focused visit. China has been investing in its Belt and Road Initiative but could struggle to continue this due to debt collection. In US politics, there is still no House Speaker as members can&#39;t decide who to elect. Justice Barrett recently called for the Supreme Court to adopt an ethics code, which would be a first for the court. Lastly, France has been jittery after a teacher was killed and another attack against a school occurred; terrorism may be on the rise again.</p>
+Right now, there are a lot of political developments happening around the world. Benjamin Netanyahu is carrying out an all-out war in Israel, while Joe Biden is facing risks with a wartime visit to the country. Hamas has been hijacking victims&#39; social media accounts to spread terror, and in the US, the House is still without a Speaker. On the international front, Vladimir Putin has visited China to bolster ties with Xi Jinping, China has been investing $1 trillion for global influence, and Ukraine has been using powerful new missiles. Lastly, Poland could soon be led by a different governing party, which could lead to significant shifts in laws and policies.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Chose Limited Strikes Until Now. This Is His First All-Out War.</h3>
@@ -74,10 +74,34 @@ There is a lot of tension in the world right now. In Israel, Prime Minister Benj
 <p>A presidential trip to Israel at such a critical moment poses enormous challenges for the White House, in terms of both politics and security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Hamas Hijacked Victims’ Social Media Accounts to Spread Terror</h3>
+<sub>By Sheera Frenkel and Talya Minsberg</sub>
+<p>The use of hostages’ Facebook, Instagram and WhatsApp accounts to livestream attacks and issue death threats is a new tactic, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Biden to Visit Israel, and More</h3>
+<h3>Biden Will Visit Israel, and More</h3>
 <sub>By New York Times Audio</sub>
 <p>Plus, a Muslim boy is killed in Illinois and China’s Belt and Road Initiative is changing shape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>There’s Still No House Speaker. What Happens Now?</h3>
+<sub>By Annie Karni</sub>
+<p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Arm-Twisting, Back-Stabbing Battle for House Speaker</h3>
+<sub>By Michael Barbaro, Alex Stern, Mary Wilson, Will Reid, Rachel Quester, Marion Lozano, Dan Powell and Chris Wood</sub>
+<p>Representative Jim Jordan, known for trying to obstruct the government, has emerged as the Republican most likely to win the job.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence</h3>
+<sub>By Ana Swanson</sub>
+<p>The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,46 +117,22 @@ There is a lot of tension in the world right now. In Israel, Prime Minister Benj
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Inches Closer to Speakership, but Republican Holdouts Remain</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Ohio Republican won over several mainstream members of his party who had initially withheld their support, but was still short of the votes needed to win the gavel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>There’s Still No House Speaker. What Happens Now?</h3>
-<sub>By Annie Karni</sub>
-<p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Arm-Twisting, Back-Stabbing Battle for House Speaker</h3>
-<sub>By Michael Barbaro, Alex Stern, Mary Wilson, Will Reid, Rachel Quester, Marion Lozano, Dan Powell and Chris Wood</sub>
-<p>Representative Jim Jordan, known for trying to obstruct the government, has emerged as the Republican most likely to win the job.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>An American Puzzle: Fitting Race in a Box</h3>
 <sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
 <p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Opposition Gains, Poland Looks to Unwind an ‘Illiberal Democracy’</h3>
+<h3>Momentous Shift Looms for Poland as Governing Party Looks Set to Be Ousted</h3>
 <sub>By Andrew Higgins</sub>
-<p>With all of the votes counted, liberal parties have probably won by enough to assemble a new coalition. The governing party can still form its own, but the prospects look dim.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Barrett Calls for Supreme Court to Adopt an Ethics Code</h3>
-<sub>By Abbie VanSickle</sub>
-<p>In a wide-ranging interview at the University of Minnesota that was disrupted temporarily by demonstrators, the justice said that ethics rules would help with greater public transparency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<p>An expected liberal coalition would probably reverse deeply conservative policies at home and diminish Poland’s role abroad as a beacon for right-wing groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Killing of Teacher and Hamas Assault Set a Jittery France on Edge</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Another attack at a school, three years after the beheading of a teacher, has heightened anxiety about a new wave of terrorism in an already scarred country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<h3>Ukraine Said to Use Powerful New Missiles for First Time</h3>
+<sub>By David E. Sanger, Lara Jakes and Constant Méheut</sub>
+<p>Ukrainian forces attacked two key Russian air bases behind enemy lines on Tuesday, with Western officials saying that long-range missiles known as ATACMS were used in the strikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
