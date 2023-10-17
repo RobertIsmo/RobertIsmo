@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now. In Gaza, US mediators are trying to find a peaceful resolution to a situation where Hamas has taken hostages. Biden has recently faced risks in his visit to Israel while Middle East War has spurred international arms sales. In terms of technology, Hamas has been using victims’ social media accounts to spread terror. Meanwhile, US restrictions on Chips for artificial intelligence threaten to dampen revenues for US chip makers. In China, Xi Jinping’s $1 trillion investment world-wide influence faces a rethinking. Putin is visiting Beijing to strengthen ties with President Xi while there&#39;s a momentous shift taking place in Poland with its current governing party set to be ousted. Ukraine has gotten involved in intense military action by launching missiles and Washington is facing puzzles with regard to race and ethnicity in the Census category. Finally, encased by the influx of unemployment caused by the pandemic, Black voters in Mississippi have seen new power that may lead to a Democratic election candidate winning office. All this and more is happening in the world right now!</p>
+Right now, the world is in a state of flux. In Gaza, there&#39;s an intensifying conflict between Israel and Hamas that&#39;s left many Palestinians facing airstrikes in the north and south.  Meanwhile, Hezbollah and Israel have higher stakes as this conflict continues, with fears of a wider war. In Ukraine, there has been a surge in international arms sales due to Russia’s invasion of Ukraine and the rise of China. There’s also a momentous shift looming in Poland where the governing party is set to be ousted, while Ukraine is using powerful American-made missiles for the first time. In the US, there is an election case involving former president Trump that’s led to a gag order; Black voters have new power in Mississippi and are looking to elect a Democrat; and some people are living in their cars due to not being able to afford rent. Finally, it has been revealed that more than a third of women under 50 are iron-deficient and Alec Baldwin is facing another manslaughter case for an incident on a film set.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘No More Safe Places in Gaza’: Evacuees Face Airstrikes in North and South</h3>
+<sub>By Nicholas Casey, Monika Pronczuk and Aaron Boxerman</sub>
+<p>Some Palestinians said they were considering returning to their homes in the northern Gaza Strip as strikes intensified in the south.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Hezbollah and Israel, the Stakes in Any Broader War Are High</h3>
+<sub>By Ben Hubbard and Aaron Boxerman</sub>
+<p>The fighting between Israel and Hamas has raised fears the violence will spill into Lebanon as a wider conflict with Hezbollah. Given the strength of Hezbollah forces, that would pose a real danger for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Facing Risky Options for Gaza Hostages, U.S. Turns to Longtime Mediator</h3>
 <sub>By Adam Goldman and Ronen Bergman</sub>
 <p>Hamas is believed to hold at least 199 people in Gaza, a dense territory descending into a chaotic crisis, where many officials believe a military rescue would be dangerous for soldiers and hostages alike.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Faces Risks in Wartime Visit to Israel</h3>
-<sub>By David E. Sanger and Peter Baker</sub>
-<p>A presidential trip to Israel at such a critical moment poses enormous challenges for the White House, in terms of both politics and security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Hamas Hijacked Victims’ Social Media Accounts to Spread Terror</h3>
-<sub>By Sheera Frenkel and Talya Minsberg</sub>
-<p>The use of hostages’ Facebook, Instagram and WhatsApp accounts to livestream attacks and issue death threats is a new tactic, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,24 +86,6 @@ There’s a lot going on in the world right now. In Gaza, US mediators are tryin
 <p>Israel’s conflict with Hamas, Russia’s invasion of Ukraine and the rise of China have brought a boom for weapons makers and a chance for Washington to build closer military ties to other countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence</h3>
-<sub>By Ana Swanson</sub>
-<p>The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Invested $1 Trillion to Gain Global Influence. Can That Go On?</h3>
-<sub>By Keith Bradsher</sub>
-<p>Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Visits China to Bolster Ties With ‘My Friend,’ Xi</h3>
-<sub>By David Pierson, Anatoly Kurmanaev and Keith Bradsher</sub>
-<p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart in Beijing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Momentous Shift Looms for Poland as Governing Party Looks Set to Be Ousted</h3>
 <sub>By Andrew Higgins</sub>
@@ -111,16 +93,22 @@ There’s a lot going on in the world right now. In Gaza, US mediators are tryin
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Said to Use Powerful New Missiles for First Time</h3>
-<sub>By David E. Sanger, Lara Jakes and Constant Méheut</sub>
-<p>Ukrainian forces attacked two key Russian air bases behind enemy lines on Tuesday, with Western officials saying that long-range missiles known as ATACMS were used in the strikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Uses Powerful American-Supplied Missiles for First Time</h3>
+<sub>By David E. Sanger, Lara Jakes, Marc Santora, Constant Méheut and John Ismay</sub>
+<p>Ukrainian forces attacked two key Russian air bases behind enemy lines on Tuesday, using American-made long-range missiles known as ATACMS, a U.S. official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Presses Ahead With Offensive Push in Eastern Ukraine</h3>
+<sub>By Marc Santora and Constant Méheut</sub>
+<p>As winter approaches, Russian and Ukrainian forces are both trying to seize the initiative along different parts of the front.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An American Puzzle: Fitting Race in a Box</h3>
-<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
-<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<h3>Gag Order on Trump in Election Case Leaves More Hard Questions</h3>
+<sub>By Charlie Savage and Alan Feuer</sub>
+<p>The judge will still have to decide if and when the former president is violating her rules against attacking prosecutors and witnesses, and how to punish him if he does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Black Voters Have New Power in Mississippi. Can They Elect a Democrat?</h3>
@@ -132,6 +120,18 @@ There’s a lot going on in the world right now. In Gaza, US mediators are tryin
 <h3>I Live in My Car</h3>
 <sub>By Rukmini Callimachi and Ruth Fremson</sub>
 <p>Dozens of parking lots have opened across the country for working people who can afford a car but not rent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Grand Jury Will Consider New Manslaughter Case Against Alec Baldwin</h3>
+<sub>By Julia Jacobs</sub>
+<p>Prosecutors had submitted the gun used in the fatal shooting on the “Rust” film set for further analysis after dismissing a criminal case against Mr. Baldwin in April.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>More Than a Third of Women Under 50 Are Iron-Deficient</h3>
+<sub>By Alisha Haridasani Gupta</sub>
+<p>The condition can cause fatigue and other symptoms but is rarely tested for. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
