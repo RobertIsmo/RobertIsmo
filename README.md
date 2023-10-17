@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-Right now, a lot of chaotic and tense events are happening around the world. In Israel, Prime Minister Benjamin Netanyahu has decided to go to war with Hamas in Gaza, and the United States is sending over Secretary of State Blinken to help with diplomacy there. Meanwhile, President Biden is also visiting Israel despite the risks of wartime traveling. In Russia, Vladimir Putin is visiting China to strengthen economic ties between the two countries. There are also troubling events in Europe; a Brussels shooting was declared a terrorist act and two people were killed in France after an attack at a school. In the United States, the House of Representatives is still trying to elect its speaker, and Justice Barrett proposed that the Supreme Court adopt an ethics code while she was doing a virtual interview at the University of Minnesota.</p>
+Right now, there&#39;s a lot going on in the world. In Israel, Prime Minister Benjamin Netanyahu has initiated an all-out war after avoiding open-ended military engagements and peace initiatives for 15 years. Meanwhile, US President Joe Biden is facing challenges in terms of politics and security as he plans to visit Israel. On the global stage, Vladimir Putin of Russia is visiting China to strengthen economic ties while Chinese Prime Minister Xu Jinping is rethinking his signature aid initiative. Poland has officially voted for a significant change and Jordan is attempting to become the Speaker of the US House of Representatives, though remains without one due to holdouts from the Republican Party. In terms of health, scientists are offering a new explanation for why some people get long Covid and in France a teacher was recently killed which has heightened anxiety about terrorism. Finally, Supreme Court Justice Amy Coney Barrett is calling for Supreme Court ethics rules to promote more public transparency.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Chose Limited Strikes Until Now. This Is His First All-Out War.</h3>
@@ -82,7 +82,7 @@ Right now, a lot of chaotic and tense events are happening around the world. In 
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Visits China as Moscow and Beijing Reaffirm Ties</h3>
-<sub>By David Pierson and Anatoly Kurmanaev</sub>
+<sub>By David Pierson, Anatoly Kurmanaev and Keith Bradsher</sub>
 <p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart, Xi Jinping, on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
@@ -123,9 +123,9 @@ Right now, a lot of chaotic and tense events are happening around the world. In 
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two Killed in Brussels Shooting Described as Act of Terrorism</h3>
+<h3>Police Wound Suspect in Brussels Terror Shooting, Official Says</h3>
 <sub>By Matina Stevis-Gridneff</sub>
-<p>The suspect was at large on Monday night as the threat level was raised. Prime Minister Alexander de Croo said the victims were Swedes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The man, whose name was not released, is suspected of killing two Swedish nationals in the Belgian capital on Monday, in what the prime minister called a terrorist act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
