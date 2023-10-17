@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In Israel, Prime Minister Benjamin Netanyahu has initiated an all-out war after avoiding open-ended military engagements and peace initiatives for 15 years. Meanwhile, US President Joe Biden is facing challenges in terms of politics and security as he plans to visit Israel. On the global stage, Vladimir Putin of Russia is visiting China to strengthen economic ties while Chinese Prime Minister Xu Jinping is rethinking his signature aid initiative. Poland has officially voted for a significant change and Jordan is attempting to become the Speaker of the US House of Representatives, though remains without one due to holdouts from the Republican Party. In terms of health, scientists are offering a new explanation for why some people get long Covid and in France a teacher was recently killed which has heightened anxiety about terrorism. Finally, Supreme Court Justice Amy Coney Barrett is calling for Supreme Court ethics rules to promote more public transparency.</p>
+There is a lot of tension in the world right now. In Israel, Prime Minister Benjamin Netanyahu has gone from pursuing limited strikes to launching an all-out war. President Biden faces risks with his trip to Israel at such a critical time. Russian President Putin is in China for an economic-focused visit. China has been investing in its Belt and Road Initiative but could struggle to continue this due to debt collection. In US politics, there is still no House Speaker as members can&#39;t decide who to elect. Justice Barrett recently called for the Supreme Court to adopt an ethics code, which would be a first for the court. Lastly, France has been jittery after a teacher was killed and another attack against a school occurred; terrorism may be on the rise again.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Chose Limited Strikes Until Now. This Is His First All-Out War.</h3>
@@ -74,28 +74,22 @@ Right now, there&#39;s a lot going on in the world. In Israel, Prime Minister Be
 <p>A presidential trip to Israel at such a critical moment poses enormous challenges for the White House, in terms of both politics and security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>10 Stops in 5 Days, Plus an Air Raid Shelter, for Blinken</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>The secretary of state’s chaotic trip in the Middle East has underscored the scale and complexity of the diplomatic crisis he faces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Biden to Visit Israel, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a Muslim boy is killed in Illinois and China’s Belt and Road Initiative is changing shape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Visits China as Moscow and Beijing Reaffirm Ties</h3>
+<h3>Putin Visits China to Bolster Ties With ‘My Friend,’ Xi</h3>
 <sub>By David Pierson, Anatoly Kurmanaev and Keith Bradsher</sub>
-<p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart, Xi Jinping, on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart in Beijing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Invested $1 Trillion to Gain Global Influence. Can That Go On?</h3>
 <sub>By Keith Bradsher</sub>
 <p>Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Poland Begins to Look Beyond the Vote, to Unwinding an ‘Illiberal Democracy’</h3>
-<sub>By Andrew Higgins</sub>
-<p>With most votes counted, the country is on the cusp of a significant change, but there will be much to do and undo.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +104,34 @@ Right now, there&#39;s a lot going on in the world. In Israel, Prime Minister Be
 <p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Scientists Offer a New Explanation for Long Covid</h3>
-<sub>By Pam Belluck</sub>
-<p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Arm-Twisting, Back-Stabbing Battle for House Speaker</h3>
+<sub>By Michael Barbaro, Alex Stern, Mary Wilson, Will Reid, Rachel Quester, Marion Lozano, Dan Powell and Chris Wood</sub>
+<p>Representative Jim Jordan, known for trying to obstruct the government, has emerged as the Republican most likely to win the job.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An American Puzzle: Fitting Race in a Box</h3>
+<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
+<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Killing of Teacher and Hamas Assault Set a Jittery France on Edge</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Another attack at a school, three years after the beheading of a teacher, has heightened anxiety about a new wave of terrorism in an already scarred country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Police Wound Suspect in Brussels Terror Shooting, Official Says</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>The man, whose name was not released, is suspected of killing two Swedish nationals in the Belgian capital on Monday, in what the prime minister called a terrorist act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Opposition Gains, Poland Looks to Unwind an ‘Illiberal Democracy’</h3>
+<sub>By Andrew Higgins</sub>
+<p>With all of the votes counted, liberal parties have probably won by enough to assemble a new coalition. The governing party can still form its own, but the prospects look dim.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Barrett Calls for Supreme Court to Adopt an Ethics Code</h3>
 <sub>By Abbie VanSickle</sub>
 <p>In a wide-ranging interview at the University of Minnesota that was disrupted temporarily by demonstrators, the justice said that ethics rules would help with greater public transparency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Killing of Teacher and Hamas Assault Set a Jittery France on Edge</h3>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
+<p>Another attack at a school, three years after the beheading of a teacher, has heightened anxiety about a new wave of terrorism in an already scarred country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
