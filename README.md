@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-Right now, there are a lot of political developments happening around the world. Benjamin Netanyahu is carrying out an all-out war in Israel, while Joe Biden is facing risks with a wartime visit to the country. Hamas has been hijacking victims&#39; social media accounts to spread terror, and in the US, the House is still without a Speaker. On the international front, Vladimir Putin has visited China to bolster ties with Xi Jinping, China has been investing $1 trillion for global influence, and Ukraine has been using powerful new missiles. Lastly, Poland could soon be led by a different governing party, which could lead to significant shifts in laws and policies.</p>
+There’s a lot going on in the world right now. In Gaza, US mediators are trying to find a peaceful resolution to a situation where Hamas has taken hostages. Biden has recently faced risks in his visit to Israel while Middle East War has spurred international arms sales. In terms of technology, Hamas has been using victims’ social media accounts to spread terror. Meanwhile, US restrictions on Chips for artificial intelligence threaten to dampen revenues for US chip makers. In China, Xi Jinping’s $1 trillion investment world-wide influence faces a rethinking. Putin is visiting Beijing to strengthen ties with President Xi while there&#39;s a momentous shift taking place in Poland with its current governing party set to be ousted. Ukraine has gotten involved in intense military action by launching missiles and Washington is facing puzzles with regard to race and ethnicity in the Census category. Finally, encased by the influx of unemployment caused by the pandemic, Black voters in Mississippi have seen new power that may lead to a Democratic election candidate winning office. All this and more is happening in the world right now!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Chose Limited Strikes Until Now. This Is His First All-Out War.</h3>
-<sub>By Mark Landler</sub>
-<p>In his 15 years as Israel’s prime minister, Benjamin Netanyahu has been seen as risk-averse, avoiding open-ended military engagements and peace initiatives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<h3>Facing Risky Options for Gaza Hostages, U.S. Turns to Longtime Mediator</h3>
+<sub>By Adam Goldman and Ronen Bergman</sub>
+<p>Hamas is believed to hold at least 199 people in Gaza, a dense territory descending into a chaotic crisis, where many officials believe a military rescue would be dangerous for soldiers and hostages alike.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Risks in Wartime Visit to Israel</h3>
@@ -80,22 +80,10 @@ Right now, there are a lot of political developments happening around the world.
 <p>The use of hostages’ Facebook, Instagram and WhatsApp accounts to livestream attacks and issue death threats is a new tactic, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Biden Will Visit Israel, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, a Muslim boy is killed in Illinois and China’s Belt and Road Initiative is changing shape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>There’s Still No House Speaker. What Happens Now?</h3>
-<sub>By Annie Karni</sub>
-<p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Arm-Twisting, Back-Stabbing Battle for House Speaker</h3>
-<sub>By Michael Barbaro, Alex Stern, Mary Wilson, Will Reid, Rachel Quester, Marion Lozano, Dan Powell and Chris Wood</sub>
-<p>Representative Jim Jordan, known for trying to obstruct the government, has emerged as the Republican most likely to win the job.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Middle East War Adds to Surge in International Arms Sales</h3>
+<sub>By Eric Lipton</sub>
+<p>Israel’s conflict with Hamas, Russia’s invasion of Ukraine and the rise of China have brought a boom for weapons makers and a chance for Washington to build closer military ties to other countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,22 +92,16 @@ Right now, there are a lot of political developments happening around the world.
 <p>The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Visits China to Bolster Ties With ‘My Friend,’ Xi</h3>
-<sub>By David Pierson, Anatoly Kurmanaev and Keith Bradsher</sub>
-<p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart in Beijing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Invested $1 Trillion to Gain Global Influence. Can That Go On?</h3>
 <sub>By Keith Bradsher</sub>
 <p>Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An American Puzzle: Fitting Race in a Box</h3>
-<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
-<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Visits China to Bolster Ties With ‘My Friend,’ Xi</h3>
+<sub>By David Pierson, Anatoly Kurmanaev and Keith Bradsher</sub>
+<p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart in Beijing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +114,24 @@ Right now, there are a lot of political developments happening around the world.
 <h3>Ukraine Said to Use Powerful New Missiles for First Time</h3>
 <sub>By David E. Sanger, Lara Jakes and Constant Méheut</sub>
 <p>Ukrainian forces attacked two key Russian air bases behind enemy lines on Tuesday, with Western officials saying that long-range missiles known as ATACMS were used in the strikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An American Puzzle: Fitting Race in a Box</h3>
+<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
+<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Black Voters Have New Power in Mississippi. Can They Elect a Democrat?</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The fall of a Jim Crow-era election law and a restoration of felons’ voting rights have given Black voters new sway in the state. Democrats’ underdog nominee for governor is looking to capitalize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>I Live in My Car</h3>
+<sub>By Rukmini Callimachi and Ruth Fremson</sub>
+<p>Dozens of parking lots have opened across the country for working people who can afford a car but not rent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
