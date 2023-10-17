@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-Currently, in the United States, President Biden is facing the challenge of potentially visiting Israel during a time of war. In relation to this, The New York Times is mapping the attacks in Israel and Gaza. The news is also covering a sad story in Illinois where a six year old Muslim boy was attacked and since then his family has been mourning his loss. Judge have imposed a limited gag order on Trump related to an election case. Jordan is edging closer to victory with his bid for speakership but there are still some Republican holdouts. Additionally, Senator Robert Menendez&#39;s attempt to host a fund-raiser at an island resort was not successful due to numerous cancellations following his indictment. 
-
-In China, over the last few decades they have placed much of their investments in the real estate market with unfortunate long-term consequences affecting their economy now. They have also recently funded a project in Nepal, which has created plenty of debt for Nepal and an expensive airport.
-
-Regarding health news, scientists may have found an explanation for long Covid cases due to remnants from the coronavirus that would stifle serotonin production. This understanding has led to fear of lab leaks that are stalling studies that could prevent future pandemic viruses. 
-
-For something more positive, The New York Times compiled 25 of the best restaurants in New Orleans to explore different types of cuisine like Creole, Cajun and Trinbagonian. Lastly, thousands of migrants that were separated from their families at the US border by Trump have reached a settlement that will allow them to live and work temporarily and possibly become citizens if they win asylum.</p>
+Things are getting really tense between Israel and Palestine. Several airstrikes and ground fighting have been reported. In Illinois, a 6-year-old Muslim boy was tragically attacked and murdered, which has been linked to the Mideast conflict. In the US politics, a republican lawmaker named Jim Jordan from Ohio is gradually becoming closer to taking the speaker office in the US House of Representatives, although some of his party members are still opposing him. A few weeks ago, former President Trump was ordered by a judge to observe a limited gag order in an election case. Lastly, thousands of migrant families who were separated at the border by the Trump administration have just reached a major settlement and may be allowed to live and work in the US with temporary permission - if they win asylum, they even could become citizens.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Weighs the Risks of a Wartime Visit to Israel</h3>
-<sub>By Peter Baker</sub>
-<p>A presidential trip to Israel at such a critical moment would pose enormous challenges for the White House, in terms of both politics and security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
 <sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
@@ -82,14 +70,8 @@ For something more positive, The New York Times compiled 25 of the best restaura
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Muslim Boy, 6, Is Mourned After Illinois Attack Linked to Mideast War</h3>
-<sub>By Julie Bosman, Mitch Smith and Robert Chiarito</sub>
+<sub>By Julie Bosman, Mitch Smith, Robert Chiarito and Jamie Kelter Davis</sub>
 <p>The family of Wadea Al-Fayoume remembered him at a funeral in suburban Chicago. The man accused in the boy’s death appeared in court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Imposes Limited Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>The order bars him from attacking witnesses, court staff members and specific prosecutors or their families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,23 +80,35 @@ For something more positive, The New York Times compiled 25 of the best restaura
 <p>The Ohio Republican won over several mainstream members of his party who had initially withheld their support, but was still short of the votes needed to win the gavel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>There’s Still No House Speaker. What Happens Now?</h3>
+<sub>By Annie Karni</sub>
+<p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Jim Jordan, a Fighter Aligned With Trump, Fought His Way to Power</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Ohio Republican defines himself by his penchant for punching back, whether against allegations that he was derelict in a sex abuse scandal or attempts to prosecute the former president.  <a href="https://nyti.ms/407rvty"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>At Menendez’s Island Resort Fund-Raiser, Donors Were Scarce. So Was He.</h3>
 <sub>By Luis Ferré-Sadurní</sub>
 <p>An event in Puerto Rico to benefit Senator Robert Menendez’s political action committee suffered numerous cancellations after the senator’s indictment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Bet It All on Real Estate. Now Its Economy Is Paying the Price.</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>After relying on a borrow-to-build model for decades, Beijing must make difficult choices about the country’s housing market and economic future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Imposes Limited Gag Order on Trump in Election Case</h3>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>The order bars him from attacking witnesses, court staff members and specific prosecutors or their families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Got a Big Contract. Nepal Got Debt and a Pricey Airport.</h3>
-<sub>By Daisuke Wakabayashi, Bhadra Sharma and Claire Fu</sub>
-<p>China called the project a “signature” of its cooperation with Nepal. Insiders and documents reveal the pitfalls of China’s infrastructure-at-any-cost model.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Legal Peril at Home, Trump Turns to a U.K. Court for Vindication</h3>
+<sub>By Mark Landler</sub>
+<p>On a day when he lashed out at a federal judge in Washington, the former president asked a judge in London to let his lawsuit over the notorious Steele dossier go forward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Scientists Offer a New Explanation for Long Covid</h3>
@@ -122,10 +116,10 @@ For something more positive, The New York Times compiled 25 of the best restaura
 <p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Lab Leak Fight Casts Chill Over Virology Research</h3>
-<sub>By Benjamin Mueller and Sheryl Gay Stolberg</sub>
-<p>Scientists doing “gain-of-function” research said that heightened fears of lab leaks are stalling studies that could thwart the next pandemic virus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Poland Begins to Look Beyond the Vote, to Unwinding an ‘Illiberal Democracy’</h3>
+<sub>By Andrew Higgins</sub>
+<p>With most votes counted, the country is on the cusp of a significant change, but there will be much to do and undo.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
