@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, October 16, Central Standard Time</p>
+<p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! For starters, President Biden is currently facing risks during his visit to the Middle East, while Secretary of State Blinken is running from one country to another trying to negotiate the complex diplomatic crisis. In China, President Xi Jinping is rethinking his $1 trillion signature aid initiative which was meant to increase their global influence. In the US, Ohio Republican Jordan inches closer to becoming House Speaker even if some Republican holdouts remain. Here in America, we&#39;re all still trying to understand how long-term Covid will affect us and Harvard is even getting involved by using TikTok influencers to spread awareness. Finally, environmental concerns about fish farming are driving some New York condo residents to make changes for the better and Justice Barrett wants the Supreme Court to adopt an ethics code for greater public transparency.</p>
+Right now, a lot of chaotic and tense events are happening around the world. In Israel, Prime Minister Benjamin Netanyahu has decided to go to war with Hamas in Gaza, and the United States is sending over Secretary of State Blinken to help with diplomacy there. Meanwhile, President Biden is also visiting Israel despite the risks of wartime traveling. In Russia, Vladimir Putin is visiting China to strengthen economic ties between the two countries. There are also troubling events in Europe; a Brussels shooting was declared a terrorist act and two people were killed in France after an attack at a school. In the United States, the House of Representatives is still trying to elect its speaker, and Justice Barrett proposed that the Supreme Court adopt an ethics code while she was doing a virtual interview at the University of Minnesota.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Chose Limited Strikes Until Now. This Is His First All-Out War.</h3>
+<sub>By Mark Landler</sub>
+<p>In his 15 years as Israel’s prime minister, Benjamin Netanyahu has been seen as risk-averse, avoiding open-ended military engagements and peace initiatives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Risks in Wartime Visit to Israel</h3>
 <sub>By David E. Sanger and Peter Baker</sub>
@@ -69,15 +75,27 @@ There&#39;s a lot happening in the world right now! For starters, President Bide
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ten Stops in Five Days, Plus an Air Raid Shelter, for Blinken</h3>
+<h3>10 Stops in 5 Days, Plus an Air Raid Shelter, for Blinken</h3>
 <sub>By Edward Wong and Michael Crowley</sub>
 <p>The secretary of state’s chaotic trip in the Middle East has underscored the scale and complexity of the diplomatic crisis he faces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Visits China as Moscow and Beijing Reaffirm Ties</h3>
+<sub>By David Pierson and Anatoly Kurmanaev</sub>
+<p>The Russian leader is likely to push for more economic support when he meets with his Chinese counterpart, Xi Jinping, on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Invested $1 Trillion to Gain Global Influence. Can That Go On?</h3>
 <sub>By Keith Bradsher</sub>
 <p>Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Poland Begins to Look Beyond the Vote, to Unwinding an ‘Illiberal Democracy’</h3>
+<sub>By Andrew Higgins</sub>
+<p>With most votes counted, the country is on the cusp of a significant change, but there will be much to do and undo.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,46 +110,28 @@ There&#39;s a lot happening in the world right now! For starters, President Bide
 <p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Poland Begins to Look Beyond the Vote, to Unwinding an ‘Illiberal Democracy’</h3>
-<sub>By Andrew Higgins</sub>
-<p>With most votes counted, the country is on the cusp of a significant change, but there will be much to do and undo.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Scientists Offer a New Explanation for Long Covid</h3>
 <sub>By Pam Belluck</sub>
 <p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The 25 Best Restaurants in New Orleans Right Now</h3>
-<sub>By Brett Anderson</sub>
-<p>There’s plenty of great Creole and Cajun food, of course, but also outstanding Vietnamese, Indian and Trinbagonian cuisine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Killing of Teacher and Hamas Assault Set a Jittery France on Edge</h3>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
+<p>Another attack at a school, three years after the beheading of a teacher, has heightened anxiety about a new wave of terrorism in an already scarred country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Harvard Cozies Up to #MentalHealth TikTok</h3>
-<sub>By Ellen Barry</sub>
-<p>As young Americans turn to TikTok for information on mental health, the T.H. Chan School of Public Health at Harvard is building its own team of influencers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Two Killed in Brussels Shooting Described as Act of Terrorism</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>The suspect was at large on Monday night as the threat level was raised. Prime Minister Alexander de Croo said the victims were Swedes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Barrett Calls for Supreme Court to Adopt an Ethics Code</h3>
 <sub>By Abbie VanSickle</sub>
 <p>In a wide-ranging interview at the University of Minnesota that was disrupted temporarily by demonstrators, the justice said that ethics rules would help with greater public transparency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>This N.Y.C. Building Is in the Bird-Killing Hall of Shame. It Wants Out.</h3>
-<sub>By Catrin Einhorn and Andres Kudacki</sub>
-<p>A shiny glass condo property in the city has become notorious for deadly crashes, so some residents are pushing for change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope.</h3>
-<sub>By Melissa Clark</sub>
-<p>Land-based aquaculture is still coming into its own, but it stands to upend an industry plagued by environmental concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
