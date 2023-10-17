@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 16, Central Standard Time</p>
 <p>
-Things are getting really tense between Israel and Palestine. Several airstrikes and ground fighting have been reported. In Illinois, a 6-year-old Muslim boy was tragically attacked and murdered, which has been linked to the Mideast conflict. In the US politics, a republican lawmaker named Jim Jordan from Ohio is gradually becoming closer to taking the speaker office in the US House of Representatives, although some of his party members are still opposing him. A few weeks ago, former President Trump was ordered by a judge to observe a limited gag order in an election case. Lastly, thousands of migrant families who were separated at the border by the Trump administration have just reached a major settlement and may be allowed to live and work in the US with temporary permission - if they win asylum, they even could become citizens.</p>
+There&#39;s a lot happening in the world right now! For starters, President Biden is currently facing risks during his visit to the Middle East, while Secretary of State Blinken is running from one country to another trying to negotiate the complex diplomatic crisis. In China, President Xi Jinping is rethinking his $1 trillion signature aid initiative which was meant to increase their global influence. In the US, Ohio Republican Jordan inches closer to becoming House Speaker even if some Republican holdouts remain. Here in America, we&#39;re all still trying to understand how long-term Covid will affect us and Harvard is even getting involved by using TikTok influencers to spread awareness. Finally, environmental concerns about fish farming are driving some New York condo residents to make changes for the better and Justice Barrett wants the Supreme Court to adopt an ethics code for greater public transparency.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray and Scott Reinhard</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces Risks in Wartime Visit to Israel</h3>
+<sub>By David E. Sanger and Peter Baker</sub>
+<p>A presidential trip to Israel at such a critical moment poses enormous challenges for the White House, in terms of both politics and security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Muslim Boy, 6, Is Mourned After Illinois Attack Linked to Mideast War</h3>
-<sub>By Julie Bosman, Mitch Smith, Robert Chiarito and Jamie Kelter Davis</sub>
-<p>The family of Wadea Al-Fayoume remembered him at a funeral in suburban Chicago. The man accused in the boy’s death appeared in court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ten Stops in Five Days, Plus an Air Raid Shelter, for Blinken</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>The secretary of state’s chaotic trip in the Middle East has underscored the scale and complexity of the diplomatic crisis he faces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Invested $1 Trillion to Gain Global Influence. Can That Go On?</h3>
+<sub>By Keith Bradsher</sub>
+<p>Xi Jinping enhanced China’s sway in the world by lending money for infrastructure. Now he’s collecting debts and rethinking his signature aid initiative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,28 +92,10 @@ Things are getting really tense between Israel and Palestine. Several airstrikes
 <p>The House has entered its second week without a speaker. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Jim Jordan, a Fighter Aligned With Trump, Fought His Way to Power</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Ohio Republican defines himself by his penchant for punching back, whether against allegations that he was derelict in a sex abuse scandal or attempts to prosecute the former president.  <a href="https://nyti.ms/407rvty"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, April 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Menendez’s Island Resort Fund-Raiser, Donors Were Scarce. So Was He.</h3>
-<sub>By Luis Ferré-Sadurní</sub>
-<p>An event in Puerto Rico to benefit Senator Robert Menendez’s political action committee suffered numerous cancellations after the senator’s indictment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Imposes Limited Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>The order bars him from attacking witnesses, court staff members and specific prosecutors or their families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Legal Peril at Home, Trump Turns to a U.K. Court for Vindication</h3>
-<sub>By Mark Landler</sub>
-<p>On a day when he lashed out at a federal judge in Washington, the former president asked a judge in London to let his lawsuit over the notorious Steele dossier go forward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Poland Begins to Look Beyond the Vote, to Unwinding an ‘Illiberal Democracy’</h3>
+<sub>By Andrew Higgins</sub>
+<p>With most votes counted, the country is on the cusp of a significant change, but there will be much to do and undo.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -116,22 +104,34 @@ Things are getting really tense between Israel and Palestine. Several airstrikes
 <p>In some patients, remnants of the coronavirus in the gut may stifle production of serotonin, an important neurotransmitter, researchers suggest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Poland Begins to Look Beyond the Vote, to Unwinding an ‘Illiberal Democracy’</h3>
-<sub>By Andrew Higgins</sub>
-<p>With most votes counted, the country is on the cusp of a significant change, but there will be much to do and undo.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>The 25 Best Restaurants in New Orleans Right Now</h3>
 <sub>By Brett Anderson</sub>
 <p>There’s plenty of great Creole and Cajun food, of course, but also outstanding Vietnamese, Indian and Trinbagonian cuisine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Harvard Cozies Up to #MentalHealth TikTok</h3>
+<sub>By Ellen Barry</sub>
+<p>As young Americans turn to TikTok for information on mental health, the T.H. Chan School of Public Health at Harvard is building its own team of influencers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Families Separated at Border by Trump Reach Settlement</h3>
-<sub>By Miriam Jordan</sub>
-<p>Thousands of migrants subjected to the policy will be allowed to live and work in the U.S., at least temporarily. If they win asylum, they could become citizens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Barrett Calls for Supreme Court to Adopt an Ethics Code</h3>
+<sub>By Abbie VanSickle</sub>
+<p>In a wide-ranging interview at the University of Minnesota that was disrupted temporarily by demonstrators, the justice said that ethics rules would help with greater public transparency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>This N.Y.C. Building Is in the Bird-Killing Hall of Shame. It Wants Out.</h3>
+<sub>By Catrin Einhorn and Andres Kudacki</sub>
+<p>A shiny glass condo property in the city has become notorious for deadly crashes, so some residents are pushing for change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope.</h3>
+<sub>By Melissa Clark</sub>
+<p>Land-based aquaculture is still coming into its own, but it stands to upend an industry plagued by environmental concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
