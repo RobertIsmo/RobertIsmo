@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, October 17, Central Standard Time</p>
+<p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-There&#39;s a lot of tension and uncertainty in the world right now. There are ongoing conflicts between Israel and Hamas, Russia and Ukraine, as well as increased international arms sales. On top of that, there&#39;s an internal Republican party division in the US over Jim Jordan&#39;s failed bid for House Speaker. Also in the US, people who can&#39;t afford housing are being forced to live out of their cars. In other news, China is working on strengthening its economy but is facing continued issues with real estate.</p>
+Right now, there is a lot going on in the world. The Biden administration is making a wartime visit to Israel following an explosion at a hospital there. Tensions between Israel and Hamas have led to criticism and accusations of American hypocrisy in the Middle East, with the possibility of a wider conflict with Hezbollah looming. In the US, Republicans are divided over who should be their speaker with 20 refusing to vote for Representative Jim Jordan. There has also been a surge in international arms sales due to conflicts between Israel and Hamas, Russia&#39;s invasion of Ukraine and the rise of China. Ukraine used powerful American-supplied missiles for the first time against Russia, and the US is trying to make India into an ally by helping them repair ships. Finally, China&#39;s economy has been getting a boost from Beijing but real estate is suffering.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden ‘Outraged’ Over Gaza Blast as He Makes a Wartime Visit to Israel</h3>
@@ -77,7 +77,7 @@ There&#39;s a lot of tension and uncertainty in the world right now. There are o
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Hezbollah and Israel, the Stakes in Any Broader War Are High</h3>
 <sub>By Ben Hubbard and Aaron Boxerman</sub>
-<p>The fighting between Israel and Hamas has raised fears the violence will spill into Lebanon as a wider conflict with Hezbollah. Given the strength of Hezbollah forces, that would pose a real danger for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The fighting between Israel and Hamas has raised fears that the violence will spill into Lebanon as a wider conflict with Hezbollah. Such a war would be dangerous for all involved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,12 +116,6 @@ There&#39;s a lot of tension and uncertainty in the world right now. There are o
 <p>The story is more complex than a caricature in Washington that President Biden is cautious to a fault, and says no until the pressure is insurmountable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>I Live in My Car</h3>
-<sub>By Rukmini Callimachi and Ruth Fremson</sub>
-<p>Dozens of parking lots have opened across the country for working people who can afford a car but not rent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gag Order on Trump in Election Case Leaves More Hard Questions</h3>
 <sub>By Charlie Savage and Alan Feuer</sub>
@@ -132,6 +126,12 @@ There&#39;s a lot of tension and uncertainty in the world right now. There are o
 <h3>China’s Economy Gets a Boost From Beijing, but Housing Woes Persist</h3>
 <sub>By Keith Bradsher</sub>
 <p>The government invested heavily in infrastructure, state banks financed factory construction and consumers spent more, but real estate suffered.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Pursues a Coveted Prize: India as a Defense Partner</h3>
+<sub>By Damien Cave</sub>
+<p>Repairing American ships in Indian ports is a first step, as the U.S. military seeks to bring India into a network to deter Chinese aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
