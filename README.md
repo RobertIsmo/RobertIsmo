@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. The Biden administration is making a wartime visit to Israel following an explosion at a hospital there. Tensions between Israel and Hamas have led to criticism and accusations of American hypocrisy in the Middle East, with the possibility of a wider conflict with Hezbollah looming. In the US, Republicans are divided over who should be their speaker with 20 refusing to vote for Representative Jim Jordan. There has also been a surge in international arms sales due to conflicts between Israel and Hamas, Russia&#39;s invasion of Ukraine and the rise of China. Ukraine used powerful American-supplied missiles for the first time against Russia, and the US is trying to make India into an ally by helping them repair ships. Finally, China&#39;s economy has been getting a boost from Beijing but real estate is suffering.</p>
+In the world right now, there is quite a lot going on. In the Middle East, a war continues between Israel and Hamas. It has caused a surge in arms sales, and also led to Ukraine using powerful American-supplied missiles for the first time. Meanwhile in the U.S., Joe Biden has been making a wartime visit to Israel, although was &quot;outraged&quot; after an explosion at a hospital. There&#39;s also some political disputes in the U.S., with a fight between Republicans continuing and twenty of them refusing to support Jim Jordan&#39;s bid to become speaker. In terms of business, China&#39;s economy got a boost from Beijing but housing woes persist, while the UK inflation rate stood at 6.7% in September.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden ‘Outraged’ Over Gaza Blast as He Makes a Wartime Visit to Israel</h3>
@@ -128,11 +128,11 @@ Right now, there is a lot going on in the world. The Biden administration is mak
 <p>The government invested heavily in infrastructure, state banks financed factory construction and consumers spent more, but real estate suffered.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Pursues a Coveted Prize: India as a Defense Partner</h3>
-<sub>By Damien Cave</sub>
-<p>Repairing American ships in Indian ports is a first step, as the U.S. military seeks to bring India into a network to deter Chinese aggression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.K. Inflation, Unchanged at 6.7 Percent, Ends String of Declines</h3>
+<sub>By Eshe Nelson</sub>
+<p>A small drop in food prices in September was offset by rising costs for gasoline and diesel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
