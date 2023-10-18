@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-Right now, the world is witnessing a lot of conflict over several issues. In the Middle East, there&#39;s a war going on between Israel and Hamas, and President Biden is heading to Israel to try and de-escalate the situation. Meanwhile, Russia and China are taking sides with the Palestinians. The US has been criticized for its strong support of Israel, even though Arab critics fear an imminent massacre of Palestinians. Closer to home, there are Republicans fighting against each other over the US Speaker position. And as tensions escalate in Ukraine, it&#39;s seen a deadly Russian missile attack on an apartment block that has killed two people. Lastly, Xi Jinping recently outlined his vision of a new world order with Vladimir Putin by his side.</p>
+There is a lot going on right now around the world. In the Middle East, there is an intense war between Israel and Hamas in Gaza. In response, President Biden has traveled to Israel to express support and Washington has strongly backed Jerusalem. Meanwhile, Russia and China are taking different positions on the struggle, trying to align themselves with the Palestinian side. There have been devastating consequences in Gaza for civilians, including the tragedy of a blast at a hospital that left “bloody blankets” and “lots of bodies” in its wake. Here in the US, there is division among Republicans as Jim Jordan has lost a bid to become speaker of the House. He had once been derogatory nicknamed a &quot;legislative terrorist&quot; while campaigning back home in Ohio. There is also tension among Democrats as Biden tries to walk a tightrope between Israel and Gaza. On top of this, Republican presidential candidates have weighed in on their stances on issues related to Israel-Gaza. At least they are not alone – China and Russia are also attempting to contain this conflict by postulating a new world order in which American influence is diminished.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>New Global Divisions on View as Biden Goes to Israel and Putin to China</h3>
@@ -69,15 +69,27 @@ Right now, the world is witnessing a lot of conflict over several issues. In the
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Response to Israel-Hamas War Draws Fury in Middle East</h3>
-<sub>By Vivian Nereim, Alissa J. Rubin and Euan Ward</sub>
-<p>The staunch support for Israel has stoked accusations of American hypocrisy, with Arab critics fearing a wholesale massacre of Palestinians in response to the deadly Hamas attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Bloody Blankets and ‘Lots of Bodies’ at a Devastated Gaza Hospital</h3>
+<sub>By Raja Abdulrahim and Yousur Al-Hlou</sub>
+<p>“We’ve never lived through a war this intense,” said one Palestinian journalist who captured the aftermath of the blast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Israeli military puts forward its version of what happened at the hospital in Gaza.</h3>
+<sub>By Patrick Kingsley</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Struggles as Republicans Sink Deeper Into Division</h3>
+<sub>By Carl Hulse</sub>
+<p>Representative Jim Jordan’s initial defeat left the man once branded a “legislative terrorist” pressing to cut the kind of deals he has long railed against.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Deadly Blast at a Gaza Hospital, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Jim Jordan loses a bid to be speaker and scientists propose a new explanation for long Covid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Same Jim Jordan Is Seen in Congress and Back Home in Ohio</h3>
+<sub>By Kevin Williams and Michael Wines</sub>
+<p>The hard-right Republican has had a long career as an uncompromising figure in Ohio politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,19 +111,13 @@ Right now, the world is witnessing a lot of conflict over several issues. In the
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Struggles as Republicans Sink Deeper Into Division</h3>
-<sub>By Carl Hulse</sub>
-<p>Representative Jim Jordan’s initial defeat left the man once branded a “legislative terrorist” pressing to cut the kind of deals he has long railed against.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<h3>A Deadly Blast at a Gaza Hospital, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Jim Jordan loses a bid to be speaker and scientists propose a new explanation for long Covid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Falls Short as Republican Speaker Fight Continues</h3>
-<sub>By Luke Broadwater</sub>
-<p>Twenty Republicans refused to support the hard-right Ohio Republican, leaving him without a majority as the party infighting stretched into a third week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Writing an Anti-Israel Letter, Harvard Students Feel the Repercussions</h3>
+<h3>How Harvard Students Became the Center of a Free Speech Fight</h3>
 <sub>By Anemona Hartocollis</sub>
 <p>A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
@@ -126,12 +132,6 @@ Right now, the world is witnessing a lot of conflict over several issues. In the
 <h3>With Putin by His Side, Xi Outlines His Vision of a New World Order</h3>
 <sub>By David Pierson, Anatoly Kurmanaev and Tiffany May</sub>
 <p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Missile Attack on Apartment Block Kills 2, Ukrainian Officials Say</h3>
-<sub>By Constant Méheut</sub>
-<p>The strike was part of an overnight assault on the city of Zaporizhzhia that damaged homes and transportation infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
