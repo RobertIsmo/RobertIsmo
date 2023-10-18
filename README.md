@@ -60,28 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world, ranging from global politics to the everyday lives of Americans. On the global level, tensions between Israel and Hamas have been rising after an explosion at a Palestinian hospital was suspected to be caused by a Palestinian group, according to US officials. Meanwhile, China and Russia are beginning to form close ties in order to challenge American dominance. In the US, there has been a resurgence of partisanship which has caused some Harvard students to be doxxed for writing an anti-Israel letter. Americans are also seeing their net worth soar due to the pandemic’s economic boost. On a smaller scale, Quavo, member of hip hop group Migos, released a solo album while mourning his nephew&#39;s death last November and Texas is trying to change how migrants are treated by considering arresting them instead of busing them. New York City has also implemented new restrictions on housing migrant families as they attempt to deal with an overwhelming surge of immigrants.</p>
+There&#39;s a lot of turmoil in the world right now. In the Middle East, both the US and Israeli intelligence sources say a Palestinian group is responsible for a hospital blast that resulted in hundreds of casualties. Another conflict is escalating in Tel Aviv, where President Biden visited and warned Israel not to go too far in responding to overwhelming grief and anger. In the US, Republican lawmakers are debating whether to give power to an acting House Speaker while they choose a new Speaker—and fear the move could cost them their majority in upcoming elections. Meanwhile, American households have seen a huge jump in wealth amid the pandemic due to stimulus packages, strong job markets, and stock&#x2F;home price increases. Lastly, there&#39;s some news in the Arts: Quavo of hip-hop trio Migos is releasing a solo album as he continues to mourn the death of his nephew and other victims of gun violence.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Early Intelligence Suggests Hospital Blast Caused by Palestinian Group, U.S. Says</h3>
-<sub>By Julian E. Barnes, Adam Entous and Helene Cooper</sub>
-<p>Officials cautioned that analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Early U.S. and Israeli Intelligence Says Palestinian Group Caused Hospital Blast</h3>
+<sub>By Julian E. Barnes, Patrick Kingsley, Helene Cooper and Adam Entous</sub>
+<p>U.S. officials cautioned that analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bloody Blankets and ‘Lots of Bodies’ at a Devastated Gaza Hospital</h3>
-<sub>By Raja Abdulrahim and Yousur Al-Hlou</sub>
-<p>“We’ve never lived through a war this intense,” said one Palestinian journalist who captured the aftermath of the blast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Sudden Blast, Then Carnage in a Hospital Courtyard</h3>
+<sub>By Raja Abdulrahim, Hiba Yazbek and Yousur Al-Hlou</sub>
+<p>“We’ve never lived through a war this intense,” said a Palestinian journalist who captured the aftermath of the blast in Gaza that killed hundreds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden shows solidarity with Israel in a bold wartime visit.</h3>
-<sub>By Peter Baker and Michael D. Shear</sub>
-<p>President Biden told Israel’s prime minister that a deadly explosion at a Gaza hospital “appears as though it was done by the other team, not you.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
+<sub>By Peter Baker</sub>
+<p>In a rare wartime visit, President Biden paired his support for Israel with a plea for caution not to let overwhelming grief or anger drive the country to go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Jim Jordan people see in Congress is the one constituents know back home.</h3>
+<h3>As Speaker Chaos Grows, so Does Talk of Empowering McHenry</h3>
+<sub>By Robert Jimison and Kayla Guo</sub>
+<p>Several lawmakers were discussing granting Patrick McHenry, a North Carolina Republican acting as temporary speaker, the power to run the House until a permanent speaker is chosen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Fear Jordan Speaker Bid Could Cost Them House Majority</h3>
+<sub>By Annie Karni</sub>
+<p>Nearly 200 G.O.P. lawmakers have supported Representative Jim Jordan, the hard-right Ohio lawmaker, in the speaker fight. Some Republicans say that may doom the party in coming elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Jim Jordan Seen in Congress Is the One Constituents Know in Ohio</h3>
 <sub>By Kevin Williams and Michael Wines</sub>
 <p>The hard-right Republican has had a long career as an uncompromising figure in Ohio politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
@@ -120,18 +132,6 @@ Right now there is a lot going on in the world, ranging from global politics to 
 <h3>Still Mourning Takeoff’s Death, Quavo Steps Out Alone</h3>
 <sub>By Elena Bergeron</sub>
 <p>The rapper, whose Migos group mate and nephew was killed last November, has released a solo album as he struggles to process the loss and prevent further gun violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Has Bused 50,000 Migrants. Now It Wants to Arrest Them Instead.</h3>
-<sub>By J. David Goodman</sub>
-<p>The migrant busing program altered the debate over immigration. Gov. Greg Abbott wants to give Texas police expanded powers over border enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York, Overwhelmed, Toughens Stance on Housing Migrant Families</h3>
-<sub>By Andy Newman and Raúl Vilchis</sub>
-<p>The city will impose a 60-day limit on how long families with children can stay at any one shelter before having to leave and reapply to enter the system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
