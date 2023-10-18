@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. First, there is a war between Israel and the militant group Hamas. President Biden has been heavily involved in attempting to diffuse the situation. In Ukraine, they have started stockpiling American-made missiles in response to Russia&#39;s invasion. On the political side, Jim Jordan was recently unable to secure enough Republicans votes to become Speaker of the House. There is also an election case involving former President Trump with a gag order preventing him from attacking prosecutors or witnesses. Lastly, in Poland there is a possible shift looming away from conservative rule.</p>
+There&#39;s a lot of tension and uncertainty in the world right now. There are ongoing conflicts between Israel and Hamas, Russia and Ukraine, as well as increased international arms sales. On top of that, there&#39;s an internal Republican party division in the US over Jim Jordan&#39;s failed bid for House Speaker. Also in the US, people who can&#39;t afford housing are being forced to live out of their cars. In other news, China is working on strengthening its economy but is facing continued issues with real estate.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden ‘Outraged’ Over Gaza Blast as He Makes a Wartime Visit to Israel</h3>
@@ -78,6 +78,12 @@ There is a lot going on in the world right now. First, there is a war between Is
 <h3>For Hezbollah and Israel, the Stakes in Any Broader War Are High</h3>
 <sub>By Ben Hubbard and Aaron Boxerman</sub>
 <p>The fighting between Israel and Hamas has raised fears the violence will spill into Lebanon as a wider conflict with Hezbollah. Given the strength of Hezbollah forces, that would pose a real danger for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Struggles as Republicans Sink Deeper Into Division</h3>
+<sub>By Carl Hulse</sub>
+<p>Representative Jim Jordan’s initial defeat left the man once branded a “legislative terrorist” pressing to cut the kind of deals he has long railed against.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +128,10 @@ There is a lot going on in the world right now. First, there is a war between Is
 <p>The judge will still have to decide if and when the former president is violating her rules against attacking prosecutors and witnesses, and how to punish him if he does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Momentous Shift Looms for Poland as Governing Party Looks Set to Be Ousted</h3>
-<sub>By Andrew Higgins</sub>
-<p>An expected liberal coalition would probably reverse deeply conservative policies at home and diminish Poland’s role abroad as a beacon for right-wing groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Grand Jury Will Consider New Manslaughter Case Against Alec Baldwin</h3>
-<sub>By Julia Jacobs</sub>
-<p>Prosecutors had submitted the gun used in the fatal shooting on the “Rust” film set for further analysis after dismissing a criminal case against Mr. Baldwin in April.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Economy Gets a Boost From Beijing, but Housing Woes Persist</h3>
+<sub>By Keith Bradsher</sub>
+<p>The government invested heavily in infrastructure, state banks financed factory construction and consumers spent more, but real estate suffered.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
