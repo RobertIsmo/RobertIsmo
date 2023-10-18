@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 17, Central Standard Time</p>
 <p>
-Right now, the world is in a state of flux. In Gaza, there&#39;s an intensifying conflict between Israel and Hamas that&#39;s left many Palestinians facing airstrikes in the north and south.  Meanwhile, Hezbollah and Israel have higher stakes as this conflict continues, with fears of a wider war. In Ukraine, there has been a surge in international arms sales due to Russia’s invasion of Ukraine and the rise of China. There’s also a momentous shift looming in Poland where the governing party is set to be ousted, while Ukraine is using powerful American-made missiles for the first time. In the US, there is an election case involving former president Trump that’s led to a gag order; Black voters have new power in Mississippi and are looking to elect a Democrat; and some people are living in their cars due to not being able to afford rent. Finally, it has been revealed that more than a third of women under 50 are iron-deficient and Alec Baldwin is facing another manslaughter case for an incident on a film set.</p>
+There is a lot going on in the world right now. First, there is a war between Israel and the militant group Hamas. President Biden has been heavily involved in attempting to diffuse the situation. In Ukraine, they have started stockpiling American-made missiles in response to Russia&#39;s invasion. On the political side, Jim Jordan was recently unable to secure enough Republicans votes to become Speaker of the House. There is also an election case involving former President Trump with a gag order preventing him from attacking prosecutors or witnesses. Lastly, in Poland there is a possible shift looming away from conservative rule.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden ‘Outraged’ Over Gaza Blast as He Makes a Wartime Visit to Israel</h3>
+<sub>By Katie Rogers and Peter Baker</sub>
+<p>The explosion at a hospital highlights the dangers of a trip at a volatile moment in the war between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘No More Safe Places in Gaza’: Evacuees Face Airstrikes in North and South</h3>
-<sub>By Nicholas Casey, Monika Pronczuk and Aaron Boxerman</sub>
-<p>Some Palestinians said they were considering returning to their homes in the northern Gaza Strip as strikes intensified in the south.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Response to Israel-Hamas War Draws Fury in Middle East</h3>
+<sub>By Vivian Nereim, Alissa J. Rubin and Euan Ward</sub>
+<p>The staunch support for Israel has stoked accusations of American hypocrisy, with Arab critics fearing a wholesale massacre of Palestinians in response to the deadly Hamas attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,10 +80,16 @@ Right now, the world is in a state of flux. In Gaza, there&#39;s an intensifying
 <p>The fighting between Israel and Hamas has raised fears the violence will spill into Lebanon as a wider conflict with Hezbollah. Given the strength of Hezbollah forces, that would pose a real danger for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Facing Risky Options for Gaza Hostages, U.S. Turns to Longtime Mediator</h3>
-<sub>By Adam Goldman and Ronen Bergman</sub>
-<p>Hamas is believed to hold at least 199 people in Gaza, a dense territory descending into a chaotic crisis, where many officials believe a military rescue would be dangerous for soldiers and hostages alike.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Falls Short as Republican Speaker Fight Continues</h3>
+<sub>By Luke Broadwater</sub>
+<p>Twenty Republicans refused to support the hard-right Ohio Republican, leaving him without a majority as the party infighting stretched into a third week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the 20 Republicans Who Opposed Jordan</h3>
+<sub>By Annie Karni</sub>
+<p>The group included vulnerable Republicans from districts that President Biden won in 2020 and congressional institutionalists worried that Representative Jim Jordan would demand extreme spending cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,33 +99,15 @@ Right now, the world is in a state of flux. In Gaza, there&#39;s an intensifying
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Momentous Shift Looms for Poland as Governing Party Looks Set to Be Ousted</h3>
-<sub>By Andrew Higgins</sub>
-<p>An expected liberal coalition would probably reverse deeply conservative policies at home and diminish Poland’s role abroad as a beacon for right-wing groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Uses Powerful American-Supplied Missiles for First Time</h3>
 <sub>By David E. Sanger, Lara Jakes, Marc Santora, Constant Méheut and John Ismay</sub>
 <p>Ukrainian forces attacked two key Russian air bases behind enemy lines on Tuesday, using American-made long-range missiles known as ATACMS, a U.S. official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Presses Ahead With Offensive Push in Eastern Ukraine</h3>
-<sub>By Marc Santora and Constant Méheut</sub>
-<p>As winter approaches, Russian and Ukrainian forces are both trying to seize the initiative along different parts of the front.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gag Order on Trump in Election Case Leaves More Hard Questions</h3>
-<sub>By Charlie Savage and Alan Feuer</sub>
-<p>The judge will still have to decide if and when the former president is violating her rules against attacking prosecutors and witnesses, and how to punish him if he does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Black Voters Have New Power in Mississippi. Can They Elect a Democrat?</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The fall of a Jim Crow-era election law and a restoration of felons’ voting rights have given Black voters new sway in the state. Democrats’ underdog nominee for governor is looking to capitalize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inside Biden’s Reversal on Sending Long-Range Missiles to Ukraine</h3>
+<sub>By David E. Sanger</sub>
+<p>The story is more complex than a caricature in Washington that President Biden is cautious to a fault, and says no until the pressure is insurmountable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -122,16 +116,22 @@ Right now, the world is in a state of flux. In Gaza, there&#39;s an intensifying
 <p>Dozens of parking lots have opened across the country for working people who can afford a car but not rent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gag Order on Trump in Election Case Leaves More Hard Questions</h3>
+<sub>By Charlie Savage and Alan Feuer</sub>
+<p>The judge will still have to decide if and when the former president is violating her rules against attacking prosecutors and witnesses, and how to punish him if he does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Momentous Shift Looms for Poland as Governing Party Looks Set to Be Ousted</h3>
+<sub>By Andrew Higgins</sub>
+<p>An expected liberal coalition would probably reverse deeply conservative policies at home and diminish Poland’s role abroad as a beacon for right-wing groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Grand Jury Will Consider New Manslaughter Case Against Alec Baldwin</h3>
 <sub>By Julia Jacobs</sub>
 <p>Prosecutors had submitted the gun used in the fatal shooting on the “Rust” film set for further analysis after dismissing a criminal case against Mr. Baldwin in April.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>More Than a Third of Women Under 50 Are Iron-Deficient</h3>
-<sub>By Alisha Haridasani Gupta</sub>
-<p>The condition can cause fatigue and other symptoms but is rarely tested for. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
