@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-There is a lot going on right now around the world. In the Middle East, there is an intense war between Israel and Hamas in Gaza. In response, President Biden has traveled to Israel to express support and Washington has strongly backed Jerusalem. Meanwhile, Russia and China are taking different positions on the struggle, trying to align themselves with the Palestinian side. There have been devastating consequences in Gaza for civilians, including the tragedy of a blast at a hospital that left “bloody blankets” and “lots of bodies” in its wake. Here in the US, there is division among Republicans as Jim Jordan has lost a bid to become speaker of the House. He had once been derogatory nicknamed a &quot;legislative terrorist&quot; while campaigning back home in Ohio. There is also tension among Democrats as Biden tries to walk a tightrope between Israel and Gaza. On top of this, Republican presidential candidates have weighed in on their stances on issues related to Israel-Gaza. At least they are not alone – China and Russia are also attempting to contain this conflict by postulating a new world order in which American influence is diminished.</p>
+Right now there is a lot going on in the world, ranging from global politics to the everyday lives of Americans. On the global level, tensions between Israel and Hamas have been rising after an explosion at a Palestinian hospital was suspected to be caused by a Palestinian group, according to US officials. Meanwhile, China and Russia are beginning to form close ties in order to challenge American dominance. In the US, there has been a resurgence of partisanship which has caused some Harvard students to be doxxed for writing an anti-Israel letter. Americans are also seeing their net worth soar due to the pandemic’s economic boost. On a smaller scale, Quavo, member of hip hop group Migos, released a solo album while mourning his nephew&#39;s death last November and Texas is trying to change how migrants are treated by considering arresting them instead of busing them. New York City has also implemented new restrictions on housing migrant families as they attempt to deal with an overwhelming surge of immigrants.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Global Divisions on View as Biden Goes to Israel and Putin to China</h3>
-<sub>By Steven Erlanger</sub>
-<p>Washington’s strong support for Israel against Hamas is contrasted with Russian and Chinese efforts to align with the Palestinian struggle.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Early Intelligence Suggests Hospital Blast Caused by Palestinian Group, U.S. Says</h3>
+<sub>By Julian E. Barnes, Adam Entous and Helene Cooper</sub>
+<p>Officials cautioned that analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,49 +75,19 @@ There is a lot going on right now around the world. In the Middle East, there is
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Israeli military puts forward its version of what happened at the hospital in Gaza.</h3>
-<sub>By Patrick Kingsley</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden shows solidarity with Israel in a bold wartime visit.</h3>
+<sub>By Peter Baker and Michael D. Shear</sub>
+<p>President Biden told Israel’s prime minister that a deadly explosion at a Gaza hospital “appears as though it was done by the other team, not you.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Struggles as Republicans Sink Deeper Into Division</h3>
-<sub>By Carl Hulse</sub>
-<p>Representative Jim Jordan’s initial defeat left the man once branded a “legislative terrorist” pressing to cut the kind of deals he has long railed against.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Same Jim Jordan Is Seen in Congress and Back Home in Ohio</h3>
+<h3>The Jim Jordan people see in Congress is the one constituents know back home.</h3>
 <sub>By Kevin Williams and Michael Wines</sub>
 <p>The hard-right Republican has had a long career as an uncompromising figure in Ohio politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Walks a Tightrope on Israel-Gaza as Democratic Tensions Smolder</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The president has won bipartisan plaudits for his response to the war, and his trip to Israel offers a chance to appear statesmanlike. But anger on the left is growing as Israeli strikes pound Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Presidential Candidates on Israel</h3>
-<sub></sub>
-<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on 13 key issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Diplomatic Scramble to Contain the Israel-Hamas War</h3>
-<sub>By Sabrina Tavernise, Rikki Novetsky, Olivia Natt, Shannon Lin, Carlos Prieto, Patricia Willens, Lisa Chow, Diane Wong, Dan Powell, Pat McCusker and Chris Wood</sub>
-<p>President Biden arrives in Israel facing a difficult mission of de-escalation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Deadly Blast at a Gaza Hospital, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Jim Jordan loses a bid to be speaker and scientists propose a new explanation for long Covid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Harvard Students Became the Center of a Free Speech Fight</h3>
+<h3>After Writing an Anti-Israel Letter, Harvard Students Are Doxxed</h3>
 <sub>By Anemona Hartocollis</sub>
 <p>A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
@@ -132,6 +102,36 @@ There is a lot going on right now around the world. In the Middle East, there is
 <h3>With Putin by His Side, Xi Outlines His Vision of a New World Order</h3>
 <sub>By David Pierson, Anatoly Kurmanaev and Tiffany May</sub>
 <p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Plays Down Threat Posed by Powerful U.S.-Supplied Missiles</h3>
+<sub>By Marc Santora, Constant Méheut and Ivan Nechepurenko</sub>
+<p>Analysts say the long-range weapons could force Russia to move military assets further away from the front lines, undermining their operations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>American Household Wealth Jumped in the Pandemic</h3>
+<sub>By Jeanna Smialek and Ben Casselman</sub>
+<p>Pandemic stimulus, a strong job market and climbing stock and home prices boosted net worth at a record pace, Federal Reserve data showed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Still Mourning Takeoff’s Death, Quavo Steps Out Alone</h3>
+<sub>By Elena Bergeron</sub>
+<p>The rapper, whose Migos group mate and nephew was killed last November, has released a solo album as he struggles to process the loss and prevent further gun violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Has Bused 50,000 Migrants. Now It Wants to Arrest Them Instead.</h3>
+<sub>By J. David Goodman</sub>
+<p>The migrant busing program altered the debate over immigration. Gov. Greg Abbott wants to give Texas police expanded powers over border enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York, Overwhelmed, Toughens Stance on Housing Migrant Families</h3>
+<sub>By Andy Newman and Raúl Vilchis</sub>
+<p>The city will impose a 60-day limit on how long families with children can stay at any one shelter before having to leave and reapply to enter the system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
