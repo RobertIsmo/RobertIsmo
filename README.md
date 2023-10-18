@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-In the world right now, there is quite a lot going on. In the Middle East, a war continues between Israel and Hamas. It has caused a surge in arms sales, and also led to Ukraine using powerful American-supplied missiles for the first time. Meanwhile in the U.S., Joe Biden has been making a wartime visit to Israel, although was &quot;outraged&quot; after an explosion at a hospital. There&#39;s also some political disputes in the U.S., with a fight between Republicans continuing and twenty of them refusing to support Jim Jordan&#39;s bid to become speaker. In terms of business, China&#39;s economy got a boost from Beijing but housing woes persist, while the UK inflation rate stood at 6.7% in September.</p>
+Right now, the world is witnessing a lot of conflict over several issues. In the Middle East, there&#39;s a war going on between Israel and Hamas, and President Biden is heading to Israel to try and de-escalate the situation. Meanwhile, Russia and China are taking sides with the Palestinians. The US has been criticized for its strong support of Israel, even though Arab critics fear an imminent massacre of Palestinians. Closer to home, there are Republicans fighting against each other over the US Speaker position. And as tensions escalate in Ukraine, it&#39;s seen a deadly Russian missile attack on an apartment block that has killed two people. Lastly, Xi Jinping recently outlined his vision of a new world order with Vladimir Putin by his side.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden ‘Outraged’ Over Gaza Blast as He Makes a Wartime Visit to Israel</h3>
-<sub>By Katie Rogers and Peter Baker</sub>
-<p>The explosion at a hospital highlights the dangers of a trip at a volatile moment in the war between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Global Divisions on View as Biden Goes to Israel and Putin to China</h3>
+<sub>By Steven Erlanger</sub>
+<p>Washington’s strong support for Israel against Hamas is contrasted with Russian and Chinese efforts to align with the Palestinian struggle.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Response to Israel-Hamas War Draws Fury in Middle East</h3>
@@ -74,11 +74,29 @@ In the world right now, there is quite a lot going on. In the Middle East, a war
 <p>The staunch support for Israel has stoked accusations of American hypocrisy, with Arab critics fearing a wholesale massacre of Palestinians in response to the deadly Hamas attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Hezbollah and Israel, the Stakes in Any Broader War Are High</h3>
-<sub>By Ben Hubbard and Aaron Boxerman</sub>
-<p>The fighting between Israel and Hamas has raised fears that the violence will spill into Lebanon as a wider conflict with Hezbollah. Such a war would be dangerous for all involved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Deadly Blast at a Gaza Hospital, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Jim Jordan loses a bid to be speaker and scientists propose a new explanation for long Covid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Walks a Tightrope on Israel-Gaza as Democratic Tensions Smolder</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The president has won bipartisan plaudits for his response to the war, and his trip to Israel offers a chance to appear statesmanlike. But anger on the left is growing as Israeli strikes pound Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Presidential Candidates on Israel</h3>
+<sub></sub>
+<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on 13 key issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Diplomatic Scramble to Contain the Israel-Hamas War</h3>
+<sub>By Sabrina Tavernise, Rikki Novetsky, Olivia Natt, Shannon Lin, Carlos Prieto, Patricia Willens, Lisa Chow, Diane Wong, Dan Powell, Pat McCusker and Chris Wood</sub>
+<p>President Biden arrives in Israel facing a difficult mission of de-escalation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jordan Struggles as Republicans Sink Deeper Into Division</h3>
@@ -93,45 +111,27 @@ In the world right now, there is quite a lot going on. In the Middle East, a war
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the 20 Republicans Who Opposed Jordan</h3>
-<sub>By Annie Karni</sub>
-<p>The group included vulnerable Republicans from districts that President Biden won in 2020 and congressional institutionalists worried that Representative Jim Jordan would demand extreme spending cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<h3>After Writing an Anti-Israel Letter, Harvard Students Feel the Repercussions</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Middle East War Adds to Surge in International Arms Sales</h3>
-<sub>By Eric Lipton</sub>
-<p>Israel’s conflict with Hamas, Russia’s invasion of Ukraine and the rise of China have brought a boom for weapons makers and a chance for Washington to build closer military ties to other countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Barnes &amp; Noble Sets Itself Free</h3>
+<sub>By Maureen O’Connor</sub>
+<p>As the bookstore chain mounts a comeback, it’s breaking a cardinal rule of corporate branding and store design: consistency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Uses Powerful American-Supplied Missiles for First Time</h3>
-<sub>By David E. Sanger, Lara Jakes, Marc Santora, Constant Méheut and John Ismay</sub>
-<p>Ukrainian forces attacked two key Russian air bases behind enemy lines on Tuesday, using American-made long-range missiles known as ATACMS, a U.S. official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<h3>With Putin by His Side, Xi Outlines His Vision of a New World Order</h3>
+<sub>By David Pierson, Anatoly Kurmanaev and Tiffany May</sub>
+<p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside Biden’s Reversal on Sending Long-Range Missiles to Ukraine</h3>
-<sub>By David E. Sanger</sub>
-<p>The story is more complex than a caricature in Washington that President Biden is cautious to a fault, and says no until the pressure is insurmountable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gag Order on Trump in Election Case Leaves More Hard Questions</h3>
-<sub>By Charlie Savage and Alan Feuer</sub>
-<p>The judge will still have to decide if and when the former president is violating her rules against attacking prosecutors and witnesses, and how to punish him if he does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Economy Gets a Boost From Beijing, but Housing Woes Persist</h3>
-<sub>By Keith Bradsher</sub>
-<p>The government invested heavily in infrastructure, state banks financed factory construction and consumers spent more, but real estate suffered.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.K. Inflation, Unchanged at 6.7 Percent, Ends String of Declines</h3>
-<sub>By Eshe Nelson</sub>
-<p>A small drop in food prices in September was offset by rising costs for gasoline and diesel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Missile Attack on Apartment Block Kills 2, Ukrainian Officials Say</h3>
+<sub>By Constant Méheut</sub>
+<p>The strike was part of an overnight assault on the city of Zaporizhzhia that damaged homes and transportation infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
