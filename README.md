@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-There&#39;s a lot of turmoil in the world right now. In the Middle East, both the US and Israeli intelligence sources say a Palestinian group is responsible for a hospital blast that resulted in hundreds of casualties. Another conflict is escalating in Tel Aviv, where President Biden visited and warned Israel not to go too far in responding to overwhelming grief and anger. In the US, Republican lawmakers are debating whether to give power to an acting House Speaker while they choose a new Speaker—and fear the move could cost them their majority in upcoming elections. Meanwhile, American households have seen a huge jump in wealth amid the pandemic due to stimulus packages, strong job markets, and stock&#x2F;home price increases. Lastly, there&#39;s some news in the Arts: Quavo of hip-hop trio Migos is releasing a solo album as he continues to mourn the death of his nephew and other victims of gun violence.</p>
+Right now, it is a very tense and chaotic time in the world, especially in the Middle East. Israeli&#x2F;Palestinian violence is largely in the spotlight right now. President Biden traveled to Tel Aviv to warn against vengeance and ask for country not to go too far. There has also been a hospital attack in Gaza that killed hundreds of people. Along with this, there have been protests erupting all over the Middle East over these &#39;horrific scenes&#39;. In the US, Republicans are worrying their fight over House Speaker could cost them majority. Also, Harvard students who wrote an anti-Israel letter have been doxxed and put on do-not-hire lists. On a positive note, American household wealth is up thanks to pandemic stimulus, job market and climbing stock and home prices as per Federal Reserve data. Lastly, recently there have been some tragic deaths: Quavo&#39;s Migos group mate, Natalee Holloway, and also a woman pushed onto a train by a random man in New York City.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Early U.S. and Israeli Intelligence Says Palestinian Group Caused Hospital Blast</h3>
-<sub>By Julian E. Barnes, Patrick Kingsley, Helene Cooper and Adam Entous</sub>
-<p>U.S. officials cautioned that analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
+<sub>By Peter Baker</sub>
+<p>In a rare wartime visit, President Biden paired his support for Israel with a plea not to let overwhelming grief or anger drive the country to go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,27 +75,15 @@ There&#39;s a lot of turmoil in the world right now. In the Middle East, both th
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
-<sub>By Peter Baker</sub>
-<p>In a rare wartime visit, President Biden paired his support for Israel with a plea for caution not to let overwhelming grief or anger drive the country to go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Across Mideast, Protests Erupt Over ‘Horrific Scenes’ in Gaza</h3>
+<sub>By Vivian Yee</sub>
+<p>Not only Arabs in the street but, strikingly, also their rulers nearly uniformly condemned Israel for the Gaza hospital attack and other violence affecting Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Speaker Chaos Grows, so Does Talk of Empowering McHenry</h3>
-<sub>By Robert Jimison and Kayla Guo</sub>
-<p>Several lawmakers were discussing granting Patrick McHenry, a North Carolina Republican acting as temporary speaker, the power to run the House until a permanent speaker is chosen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Fear Jordan Speaker Bid Could Cost Them House Majority</h3>
+<h3>Republicans Fear Speaker Fight Could Cost Them House Majority</h3>
 <sub>By Annie Karni</sub>
-<p>Nearly 200 G.O.P. lawmakers have supported Representative Jim Jordan, the hard-right Ohio lawmaker, in the speaker fight. Some Republicans say that may doom the party in coming elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Jim Jordan Seen in Congress Is the One Constituents Know in Ohio</h3>
-<sub>By Kevin Williams and Michael Wines</sub>
-<p>The hard-right Republican has had a long career as an uncompromising figure in Ohio politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The chaos and infighting inside the G.O.P. has damaged the party brand, and many worry the candidacy of the hard-line Representative Jim Jordan has sealed the fate of some Republicans who backed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +120,18 @@ There&#39;s a lot of turmoil in the world right now. In the Middle East, both th
 <h3>Still Mourning Takeoff’s Death, Quavo Steps Out Alone</h3>
 <sub>By Elena Bergeron</sub>
 <p>The rapper, whose Migos group mate and nephew was killed last November, has released a solo album as he struggles to process the loss and prevent further gun violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Woman in Critical Condition After Man Pushes Her Into Subway Train</h3>
+<sub>By Claire Fahy, Maria Cramer and Ana Ley</sub>
+<p>The 30-year-old woman was attacked at random, the police said. Officers were seeking a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Confession Brings Natalee Holloway Case to an End After 18 Years</h3>
+<sub>By Claire Moses and Christine Hauser</sub>
+<p>Joran van der Sloot admitted that he brutally attacked the American teenager on a beach in Aruba, bringing a close to a case that had fascinated the American public since she vanished in 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
