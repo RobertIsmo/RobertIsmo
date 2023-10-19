@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 19, Central Standard Time</p>
 <p>
-Right now, the world is dealing with a lot of different things. In Tel Aviv, President Biden is visiting to support Israel but has warned against continuing any acts that may lead them too far. U.S. and Israeli intelligence have confirmed that a Palestinian group caused a blast in a hospital recently. Protests have happened all around the Middle East in response to the violence against Palestinians in Gaza. There&#39;s also controversy in the U.S. over who will become speaker of the House of Representatives, as well as fear that it could affect their majority seat in the House. Harvard students have been doxxed for writing an anti-Israel letter, too. Ukraine&#39;s economy is starting to rebound from war, China and Russia are discussing counteracting American dominance, and Barnes &amp; Noble is setting itself free from corporate branding consistency. In New York, there was a random attack on a 30-year-old woman at a subway station, and South Korea is having many protests right now regarding their leader. Finally, there was a major development in the Natalee Holloway case - after 18 years, her assailant admitted to brutally attacking her on an Aruba beach which ultimately led to her disappearance in 2005.</p>
+There&#39;s a lot going on in the world right now! In Tel Aviv, President Biden visited Israel to show his support for the country while also warning not to let anything like grief and anger cause them to go too far. U.S. and Israeli Intelligence involving a hospital blast caused by a Palestinian group is being looked at closer. Due to disagreements in Congress, Republicans are facing a speaker stalemate which may lead to further issues in their opinion. Some Harvard students wrote an anti-Israel letter which has resulted in them being &quot;doxxed&quot;; attacked online with their photos on billboards and &quot;do not hire&quot; lists. Ukraine&#39;s economy is seeing some recovery from war, but still struggles with rebuilding its war-torn cities and labor shortages. On a more international level, Russia and China have strengthened their ties against U.S. domination while things like South Korea are protesting more than ever for their leader, Yoon Suk Yeol. To top it off, a woman was hospitalized when she was randomly pushed into a subway train by a stranger who is still being sought after by police officers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
@@ -74,11 +74,11 @@ Right now, the world is dealing with a lot of different things. In Tel Aviv, Pre
 <p>U.S. officials cautioned that the analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Across Mideast, Protests Erupt Over ‘Horrific Scenes’ in Gaza</h3>
-<sub>By Vivian Yee</sub>
-<p>Not only Arabs in the street but, strikingly, also their rulers nearly uniformly condemned Israel for the Gaza hospital explosion and other violence affecting Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>State Department Official Resigns Over Arms Transfers to Israel</h3>
+<sub>By John Ismay</sub>
+<p>Josh Paul spent more than 11 years as the director of congressional and public affairs at the bureau that oversees arms transfers to foreign nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jordan Defeated Again for Speaker as Republican Stalemate Deepens</h3>
@@ -110,6 +110,12 @@ Right now, the world is dealing with a lot of different things. In Tel Aviv, Pre
 <p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Detains a U.S. Journalist</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Alsu Kurmasheva, who holds dual U.S.-Russian citizenship and works in Prague, was charged with failing to register as a foreign agent after going to Russia for family reasons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Barnes &amp; Noble Sets Itself Free</h3>
 <sub>By Maureen O’Connor</sub>
@@ -126,12 +132,6 @@ Right now, the world is dealing with a lot of different things. In Tel Aviv, Pre
 <h3>Why South Korea Has So Many Protests, and What That Means</h3>
 <sub>By Choe Sang-Hun and Chang W. Lee</sub>
 <p>Part rock concert, part revival meeting, the rallies reveal a country increasingly polarized over its leader, Yoon Suk Yeol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Confession Brings Natalee Holloway Case to an End After 18 Years</h3>
-<sub>By Claire Moses and Christine Hauser</sub>
-<p>Joran van der Sloot admitted that he brutally attacked the American teenager on a beach in Aruba, bringing a close to a case that had fascinated the American public since she vanished in 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
