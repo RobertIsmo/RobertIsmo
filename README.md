@@ -60,18 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 19, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, President Biden has been facing criticism from both centrists and liberals regarding his response to the conflict in Israel. On the international level, the Gaza-Egypt border has re-opened slightly and there is some progress being made with aid, but still much is unknown about a recent explosion at a hospital in Gaza. In Texas, communities are beginning to regret their decision to call for tougher border security measures. Meanwhile, in Russia, a dual American&#x2F;Russian citizen was detained and charged with failing to register as a foreign agent after returning there for family reasons. And finally, T magazine is releasing an issue celebrating four talents across multiple industries who have shown resilience and bravery.</p>
+It looks like we have some interesting political news in the US. Jordan is endorsing a plan to use a temporary speaker for the House of Representatives, and a North Carolina Republican called Patrick McHenry is the front-runner for the job. Meanwhile, President Biden&#39;s visit to Israel has caused some tensions within the US as people on both sides of the political spectrum have reacted differently to his announcements. On top of that, former President Donald Trump&#39;s legal team member Sidney Powell has pleaded guilty in a Georgia case related to his efforts to overturn an election loss. 
+
+The world of technology and business have seen some changes too. The FCC wants to restore Net Neutrality rules that were rolled back during the Trump administration, and Silicon Valley is re-evaluating its relationship with news organizations. The Federal Reserve Chair also said strong economic data could lead to higher interest rates soon. 
+
+Finally, we have our own Greats issue coming out in October – complete with four talented individuals across music, film, art and fashion! </p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Endorses Temporary Speaker Plan, Holding Off on Third Vote</h3>
+<sub>By Luke Broadwater and Annie Karni</sub>
+<p>The hard-line Republican backed empowering Representative Patrick McHenry on a temporary basis after running into opposition from a bloc of mainstream G.O.P. holdouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Speaker Chaos Grows, So Does Talk of Empowering McHenry</h3>
+<sub>By Robert Jimison and Kayla Guo</sub>
+<p>Several lawmakers were discussing granting Patrick McHenry, a North Carolina Republican acting as temporary speaker, the power to run the House until a permanent speaker is chosen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israelis Praise Biden Visit but Fear U.S. Constraints on Action</h3>
+<sub>By Steven Erlanger</sub>
+<p>President Biden promised undying American backing for Israel in its war against Hamas. But that won’t mean U.S. support for everything Israel does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Response to Israeli War Meets Centrist Praise and Liberal Anger</h3>
 <sub>By Reid J. Epstein</sub>
 <p>A prime-time address to the nation on Thursday will be the president’s third major speech on the Mideast conflict as his Democratic coalition strains over his handling of the violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Rafah crossing between Gaza and Egypt is still closed, but there are small signs of progress on aid.</h3>
-<sub>By Vivian Yee, Matina Stevis-Gridneff, Emma Bubola and Monika Pronczuk</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,58 +96,46 @@ There is a lot going on in the world right now. In the US, President Biden has b
 <p>Much is unclear about the strike that Palestinian authorities say killed hundreds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Biden’s Visit to Israel, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, protests across the Middle East and an arraignment in Tupac Shakur’s murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sidney Powell Pleads Guilty in Georgia Trump Case</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>Ms. Powell, a lawyer who pushed baseless theories about ballot fraud in 2020, is the second defendant to accept a plea deal in the election interference case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Powell, a member of the Trump legal team in 2020, will cooperate with prosecutors seeking to convict the former president on charges related to his efforts to overturn his election loss in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Republicans, All Roads Lead to the U.S.-Mexico Border</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>G.O.P. lawmakers and candidates regularly invoke record-high border crossings to address a range of issues, including crime and jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>F.C.C. Moves Toward Restoring Net Neutrality Rules, Igniting Regulatory Fight</h3>
+<sub>By Cecilia Kang</sub>
+<p>The regulations, which would bar broadband providers from blocking or slowing down services like Google and Netflix, were repealed during the Trump administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>A Texas Town Wanted Tougher Border Security. Now It’s Having Regrets.</h3>
-<sub>By Michael Barbaro, Nina Feldman, Diana Nguyen, Luke Vander Ploeg, Devon Taylor, Marion Lozano, Chelsea Daniel, Rowan Niemisto and Chris Wood</sub>
-<p>Residents of Eagle Pass explain why they are having second thoughts about Gov. Greg Abbott’s immigration crackdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Botched Hunt for the Gilgo Beach Killer</h3>
+<sub>By Robert Kolker</sub>
+<p>For 13 years, police failed to scrutinize the man now accused of the infamous murders. Why did it take so long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How the G.O.P. Speaker Mess Has Divided N.Y. House Republicans</h3>
-<sub>By Nicholas Fandos</sub>
-<p>In the fight over Representative Jim Jordan’s bid for speaker, moderate Republicans are racing to outrun the chaos their party unleashed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Defeated Again for Speaker as Republican Stalemate Deepens</h3>
-<sub>By Catie Edmondson</sub>
-<p>The number of Republicans opposing him grew as a bipartisan group discussed taking action to empower the temporary speaker to conduct legislative business on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ukraine’s Economy Starts to Rebound as It Adapts to War</h3>
-<sub>By Constant Méheut</sub>
-<p>Economists predict a return to growth, but many challenges lie ahead, including the rebuilding of war-torn cities and labor shortages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Detains a U.S. Journalist</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Alsu Kurmasheva, who holds dual U.S.-Russian citizenship and works in Prague, was charged with failing to register as a foreign agent after going to Russia for family reasons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘I Had Been Exploited:’ Takeaways From Britney Spears’s Memoir</h3>
+<sub>By Julia Jacobs and Joe Coscarelli</sub>
+<p>The pop star’s new book, “The Woman in Me,” recounts her rise to fame, struggles that became tabloid fodder and her efforts to escape a conservatorship that long governed her life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
 <h3>The Greats</h3>
 <sub></sub>
 <p>In our 2023 Greats issue, out Oct. 22, T celebrates four talents across music, film, art and fashion whose careers are a master class in curiosity, composure and defiance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley Ditches News, Shaking an Unstable Industry</h3>
+<sub>By Mike Isaac, Katie Robertson and Nico Grant</sub>
+<p>News organizations are scrambling to adjust to the latest rift in the long-fractious relationship between publishers and tech platforms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strong Economic Data ‘Could Warrant’ Higher Rates, Fed Chair Says</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve may need to do more if growth remains hot or if the labor market stops cooling, Jerome H. Powell said in a speech.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
