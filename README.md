@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 18, Central Standard Time</p>
 <p>
-Right now, it is a very tense and chaotic time in the world, especially in the Middle East. Israeli&#x2F;Palestinian violence is largely in the spotlight right now. President Biden traveled to Tel Aviv to warn against vengeance and ask for country not to go too far. There has also been a hospital attack in Gaza that killed hundreds of people. Along with this, there have been protests erupting all over the Middle East over these &#39;horrific scenes&#39;. In the US, Republicans are worrying their fight over House Speaker could cost them majority. Also, Harvard students who wrote an anti-Israel letter have been doxxed and put on do-not-hire lists. On a positive note, American household wealth is up thanks to pandemic stimulus, job market and climbing stock and home prices as per Federal Reserve data. Lastly, recently there have been some tragic deaths: Quavo&#39;s Migos group mate, Natalee Holloway, and also a woman pushed onto a train by a random man in New York City.</p>
+Right now, there is a lot going on in the world. President Biden visited Tel Aviv and warned not to let grief or anger over the conflict between Israel and Hamas drive the country too far. US officials are still doing analysis to understand why a Palestinian group caused an explosion in a hospital. Across the Middle East people are protesting the violence affecting Palestinians while Jordan was once again defeated for Speaker in a Republican stalemate that could cost them their House Majority. In the US, some Harvard students were doxxed for writing an anti-Israel letter and students are mourning the death of Migos group mate Takeoff who was killed last November. On a more positive note, Barnes &amp; Noble has mounting a comeback by breaking its branding rules and American household wealth jumped due to pandemic stimulus, strong job market and stock and home prices which boosted net worth at a record pace. There was also some closure in the Natalee Holloway case as Joran van der Sloot admitted to attacking her 18 years ago.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
@@ -68,16 +68,22 @@ Right now, it is a very tense and chaotic time in the world, especially in the M
 <p>In a rare wartime visit, President Biden paired his support for Israel with a plea not to let overwhelming grief or anger drive the country to go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Sudden Blast, Then Carnage in a Hospital Courtyard</h3>
-<sub>By Raja Abdulrahim, Hiba Yazbek and Yousur Al-Hlou</sub>
-<p>“We’ve never lived through a war this intense,” said a Palestinian journalist who captured the aftermath of the blast in Gaza that killed hundreds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Early U.S. and Israeli Intelligence Says Palestinian Group Caused Hospital Blast</h3>
+<sub>By Julian E. Barnes, Patrick Kingsley, Helene Cooper and Adam Entous</sub>
+<p>U.S. officials cautioned that the analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Across Mideast, Protests Erupt Over ‘Horrific Scenes’ in Gaza</h3>
 <sub>By Vivian Yee</sub>
-<p>Not only Arabs in the street but, strikingly, also their rulers nearly uniformly condemned Israel for the Gaza hospital attack and other violence affecting Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Not only Arabs in the street but, strikingly, also their rulers nearly uniformly condemned Israel for the Gaza hospital explosion and other violence affecting Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jordan Defeated Again for Speaker as Republican Stalemate Deepens</h3>
+<sub>By Catie Edmondson</sub>
+<p>The number of Republicans opposing him grew as a bipartisan group discussed taking action to empower the temporary speaker to conduct legislative business on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +110,10 @@ Right now, it is a very tense and chaotic time in the world, especially in the M
 <p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Plays Down Threat Posed by Powerful U.S.-Supplied Missiles</h3>
-<sub>By Marc Santora, Constant Méheut and Ivan Nechepurenko</sub>
-<p>Analysts say the long-range weapons could force Russia to move military assets further away from the front lines, undermining their operations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Woman in Critical Condition After Man Pushes Her Into Subway Train</h3>
+<sub>By Claire Fahy, Maria Cramer and Ana Ley</sub>
+<p>The 30-year-old woman was attacked at random, the police said. Officers were seeking a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +122,16 @@ Right now, it is a very tense and chaotic time in the world, especially in the M
 <p>Pandemic stimulus, a strong job market and climbing stock and home prices boosted net worth at a record pace, Federal Reserve data showed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Still Mourning Takeoff’s Death, Quavo Steps Out Alone</h3>
-<sub>By Elena Bergeron</sub>
-<p>The rapper, whose Migos group mate and nephew was killed last November, has released a solo album as he struggles to process the loss and prevent further gun violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Woman in Critical Condition After Man Pushes Her Into Subway Train</h3>
-<sub>By Claire Fahy, Maria Cramer and Ana Ley</sub>
-<p>The 30-year-old woman was attacked at random, the police said. Officers were seeking a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Confession Brings Natalee Holloway Case to an End After 18 Years</h3>
 <sub>By Claire Moses and Christine Hauser</sub>
 <p>Joran van der Sloot admitted that he brutally attacked the American teenager on a beach in Aruba, bringing a close to a case that had fascinated the American public since she vanished in 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Still Mourning Takeoff’s Death, Quavo Steps Out Alone</h3>
+<sub>By Elena Bergeron</sub>
+<p>The rapper, whose Migos group mate and nephew was killed last November, has released a solo album as he struggles to process the loss and prevent further gun violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
