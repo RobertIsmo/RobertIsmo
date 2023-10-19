@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 19, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now that may be of interest. President Biden has asked Congress to approve about $100 billion in emergency funds to arm countries like Israel, Ukraine and Taiwan, fortify the U.S.-Mexico border, and respond to the explosion at a hospital in Gaza. There is also a lot of political turmoil in the U.S., with the state department official Josh Paul resigning over arms transfers to Israel, Republican lawmakers using the Israeli attacks to stir fear about the U.S.-Mexico border, and an ongoing battle over Speaker of the House between Representative Jim Jordan and moderate Republicans. On top of all that, there is ongoing unrest in the Middle East and Russia has detained a U.S. journalist who was working from Prague.</p>
+There is a lot going on in the world right now. In the US, President Biden has been facing criticism from both centrists and liberals regarding his response to the conflict in Israel. On the international level, the Gaza-Egypt border has re-opened slightly and there is some progress being made with aid, but still much is unknown about a recent explosion at a hospital in Gaza. In Texas, communities are beginning to regret their decision to call for tougher border security measures. Meanwhile, in Russia, a dual American&#x2F;Russian citizen was detained and charged with failing to register as a foreign agent after returning there for family reasons. And finally, T magazine is releasing an issue celebrating four talents across multiple industries who have shown resilience and bravery.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden to Deliver Oval Office Address as He Seeks Aid for Israel and Ukraine</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden is expected to ask Congress to approve about $100 billion in emergency funds to arm Israel, Ukraine and Taiwan and fortify the U.S.-Mexico border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s Response to Israeli War Meets Centrist Praise and Liberal Anger</h3>
+<sub>By Reid J. Epstein</sub>
+<p>A prime-time address to the nation on Thursday will be the president’s third major speech on the Mideast conflict as his Democratic coalition strains over his handling of the violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Rafah crossing between Gaza and Egypt is still closed, but there are small signs of progress on aid.</h3>
+<sub>By Vivian Yee, Matina Stevis-Gridneff, Emma Bubola and Monika Pronczuk</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,12 +80,6 @@ There is a lot going on in the world right now that may be of interest. Presiden
 <p>Much is unclear about the strike that Palestinian authorities say killed hundreds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>State Department Official Resigns Over Arms Transfers to Israel</h3>
-<sub>By John Ismay</sub>
-<p>Josh Paul spent more than 11 years as the director of congressional and public affairs at the bureau that oversees arms transfers to foreign nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Biden’s Visit to Israel, and More</h3>
 <sub>By New York Times Audio</sub>
@@ -87,7 +87,13 @@ There is a lot going on in the world right now that may be of interest. Presiden
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Use Israel Attack to Stoke Fears About U.S.-Mexico Border</h3>
+<h3>Sidney Powell Pleads Guilty in Georgia Trump Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Ms. Powell, a lawyer who pushed baseless theories about ballot fraud in 2020, is the second defendant to accept a plea deal in the election interference case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Republicans, All Roads Lead to the U.S.-Mexico Border</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>G.O.P. lawmakers and candidates regularly invoke record-high border crossings to address a range of issues, including crime and jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
@@ -126,12 +132,6 @@ There is a lot going on in the world right now that may be of interest. Presiden
 <h3>The Greats</h3>
 <sub></sub>
 <p>In our 2023 Greats issue, out Oct. 22, T celebrates four talents across music, film, art and fashion whose careers are a master class in curiosity, composure and defiance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ahead of Her Georgia Trial, Sidney Powell Seeks Distance From Trump</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Ms. Powell, a lawyer who promoted conspiracy theories about election fraud after Donald J. Trump’s 2020 defeat, now says she never represented him or his campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
