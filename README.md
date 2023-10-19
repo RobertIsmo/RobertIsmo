@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 19, Central Standard Time</p>
 <p>
-It looks like we have some interesting political news in the US. Jordan is endorsing a plan to use a temporary speaker for the House of Representatives, and a North Carolina Republican called Patrick McHenry is the front-runner for the job. Meanwhile, President Biden&#39;s visit to Israel has caused some tensions within the US as people on both sides of the political spectrum have reacted differently to his announcements. On top of that, former President Donald Trump&#39;s legal team member Sidney Powell has pleaded guilty in a Georgia case related to his efforts to overturn an election loss. 
+There is a lot of chaos happening in the US, especially in the House of Representatives. An Ohio congressman has been pushing for a third vote to name a speaker, while some have been discussing giving power to an interim speaker instead. 
 
-The world of technology and business have seen some changes too. The FCC wants to restore Net Neutrality rules that were rolled back during the Trump administration, and Silicon Valley is re-evaluating its relationship with news organizations. The Federal Reserve Chair also said strong economic data could lead to higher interest rates soon. 
+President Biden made a visit to Israel, and promised backing in the war against Hamas, but also signaled his intention to limit their actions. There has also been an alarming death toll from a hospital blast in Gaza. 
 
-Finally, we have our own Greats issue coming out in October – complete with four talented individuals across music, film, art and fashion! </p>
+The Trump legal team&#39;s Sidney Powell has pleaded guilty in Georgia&#39;s election interference case, while other members of politics have decided not to run for office. The FCC is on the verge of restoring Net Neutrality rules which were stricken during the Trump administration. 
+
+Closer to home, the murder case of the Gilgo Beach Killer has finally been solved after 13 years and Britney Spears has just released her memoir which is full of hope despite her struggles with fame and conservatorship. Finally, T Magazine&#39;s upcoming Greats issue will be honoring four talented individuals across music, film, art and fashion.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Endorses Temporary Speaker Plan, Holding Off on Third Vote</h3>
+<h3>Jordan Reverses Himself and Will Push for a Third Speaker Vote</h3>
 <sub>By Luke Broadwater and Annie Karni</sub>
-<p>The hard-line Republican backed empowering Representative Patrick McHenry on a temporary basis after running into opposition from a bloc of mainstream G.O.P. holdouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Hours after saying he would endorse empowering an interim speaker, the hard-right Republican from Ohio reversed himself and said he would pursue another vote in his bid for speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -78,28 +80,34 @@ Finally, we have our own Greats issue coming out in October – complete with fo
 <p>Several lawmakers were discussing granting Patrick McHenry, a North Carolina Republican acting as temporary speaker, the power to run the House until a permanent speaker is chosen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Moment: A President Convinced of America’s Role in the World</h3>
+<sub>By David E. Sanger</sub>
+<p>In a fractured political moment at home and abroad, it is unclear whether President Biden can bring many Americans along.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israelis Praise Biden Visit but Fear U.S. Constraints on Action</h3>
 <sub>By Steven Erlanger</sub>
 <p>President Biden promised undying American backing for Israel in its war against Hamas. But that won’t mean U.S. support for everything Israel does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Response to Israeli War Meets Centrist Praise and Liberal Anger</h3>
-<sub>By Reid J. Epstein</sub>
-<p>A prime-time address to the nation on Thursday will be the president’s third major speech on the Mideast conflict as his Democratic coalition strains over his handling of the violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Explosion at the Hospital in Gaza</h3>
-<sub>By The New York Times</sub>
-<p>Much is unclear about the strike that Palestinian authorities say killed hundreds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<h3>U.S. officials say the death toll from the Gaza hospital blast is between 100-300, according to early assessments.</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The officials cautioned that their calculations could change as more intelligence surfaces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sidney Powell Pleads Guilty in Georgia Trump Case</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
-<p>Ms. Powell, a member of the Trump legal team in 2020, will cooperate with prosecutors seeking to convict the former president on charges related to his efforts to overturn his election loss in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Ms. Powell, a member of the Trump legal team in 2020, will cooperate with prosecutors seeking to convict the former president in an election interference case in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Laphonza Butler Will Not Run for Senate in 2024</h3>
+<sub>By Shawn Hubler</sub>
+<p>Ms. Butler, who was appointed by Gov. Gavin Newsom just weeks ago to fill Dianne Feinstein’s seat, said she had realized that “this is not the greatest use of my voice.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -114,6 +122,12 @@ Finally, we have our own Greats issue coming out in October – complete with fo
 <p>For 13 years, police failed to scrutinize the man now accused of the infamous murders. Why did it take so long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>In Britney Spears’s Memoir, She’s Stronger Than Ever</h3>
+<sub>By Leah Greenblatt</sub>
+<p>“The Woman in Me” reveals plenty about her life in the spotlight, and tempers well-earned bitterness with an enduring, insistent optimism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>‘I Had Been Exploited:’ Takeaways From Britney Spears’s Memoir</h3>
 <sub>By Julia Jacobs and Joe Coscarelli</sub>
@@ -124,18 +138,6 @@ Finally, we have our own Greats issue coming out in October – complete with fo
 <h3>The Greats</h3>
 <sub></sub>
 <p>In our 2023 Greats issue, out Oct. 22, T celebrates four talents across music, film, art and fashion whose careers are a master class in curiosity, composure and defiance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Ditches News, Shaking an Unstable Industry</h3>
-<sub>By Mike Isaac, Katie Robertson and Nico Grant</sub>
-<p>News organizations are scrambling to adjust to the latest rift in the long-fractious relationship between publishers and tech platforms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strong Economic Data ‘Could Warrant’ Higher Rates, Fed Chair Says</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve may need to do more if growth remains hot or if the labor market stops cooling, Jerome H. Powell said in a speech.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
