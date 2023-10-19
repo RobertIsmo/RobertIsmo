@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 19, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In Tel Aviv, President Biden visited Israel to show his support for the country while also warning not to let anything like grief and anger cause them to go too far. U.S. and Israeli Intelligence involving a hospital blast caused by a Palestinian group is being looked at closer. Due to disagreements in Congress, Republicans are facing a speaker stalemate which may lead to further issues in their opinion. Some Harvard students wrote an anti-Israel letter which has resulted in them being &quot;doxxed&quot;; attacked online with their photos on billboards and &quot;do not hire&quot; lists. Ukraine&#39;s economy is seeing some recovery from war, but still struggles with rebuilding its war-torn cities and labor shortages. On a more international level, Russia and China have strengthened their ties against U.S. domination while things like South Korea are protesting more than ever for their leader, Yoon Suk Yeol. To top it off, a woman was hospitalized when she was randomly pushed into a subway train by a stranger who is still being sought after by police officers.</p>
+There is a lot going on in the world right now that may be of interest. President Biden has asked Congress to approve about $100 billion in emergency funds to arm countries like Israel, Ukraine and Taiwan, fortify the U.S.-Mexico border, and respond to the explosion at a hospital in Gaza. There is also a lot of political turmoil in the U.S., with the state department official Josh Paul resigning over arms transfers to Israel, Republican lawmakers using the Israeli attacks to stir fear about the U.S.-Mexico border, and an ongoing battle over Speaker of the House between Representative Jim Jordan and moderate Republicans. On top of all that, there is ongoing unrest in the Middle East and Russia has detained a U.S. journalist who was working from Prague.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
-<sub>By Peter Baker</sub>
-<p>In a rare wartime visit, President Biden paired his support for Israel with a plea not to let overwhelming grief or anger drive the country to go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Early U.S. and Israeli Intelligence Says Palestinian Group Caused Hospital Blast</h3>
-<sub>By Julian E. Barnes, Patrick Kingsley, Helene Cooper and Adam Entous</sub>
-<p>U.S. officials cautioned that the analysis is preliminary and that the United States was continuing to collect and analyze evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden to Deliver Oval Office Address as He Seeks Aid for Israel and Ukraine</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden is expected to ask Congress to approve about $100 billion in emergency funds to arm Israel, Ukraine and Taiwan and fortify the U.S.-Mexico border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Explosion at the Hospital in Gaza</h3>
+<sub>By The New York Times</sub>
+<p>Much is unclear about the strike that Palestinian authorities say killed hundreds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,22 +80,34 @@ There&#39;s a lot going on in the world right now! In Tel Aviv, President Biden 
 <p>Josh Paul spent more than 11 years as the director of congressional and public affairs at the bureau that oversees arms transfers to foreign nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Biden’s Visit to Israel, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, protests across the Middle East and an arraignment in Tupac Shakur’s murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Use Israel Attack to Stoke Fears About U.S.-Mexico Border</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>G.O.P. lawmakers and candidates regularly invoke record-high border crossings to address a range of issues, including crime and jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>A Texas Town Wanted Tougher Border Security. Now It’s Having Regrets.</h3>
+<sub>By Michael Barbaro, Nina Feldman, Diana Nguyen, Luke Vander Ploeg, Devon Taylor, Marion Lozano, Chelsea Daniel, Rowan Niemisto and Chris Wood</sub>
+<p>Residents of Eagle Pass explain why they are having second thoughts about Gov. Greg Abbott’s immigration crackdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How the G.O.P. Speaker Mess Has Divided N.Y. House Republicans</h3>
+<sub>By Nicholas Fandos</sub>
+<p>In the fight over Representative Jim Jordan’s bid for speaker, moderate Republicans are racing to outrun the chaos their party unleashed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jordan Defeated Again for Speaker as Republican Stalemate Deepens</h3>
 <sub>By Catie Edmondson</sub>
 <p>The number of Republicans opposing him grew as a bipartisan group discussed taking action to empower the temporary speaker to conduct legislative business on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Fear Speaker Fight Could Cost Them House Majority</h3>
-<sub>By Annie Karni</sub>
-<p>The chaos and infighting inside the G.O.P. has damaged the party brand, and many worry the candidacy of the hard-line Representative Jim Jordan has sealed the fate of some Republicans who backed him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Writing an Anti-Israel Letter, Harvard Students Are Doxxed</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -105,34 +117,22 @@ There&#39;s a lot going on in the world right now! In Tel Aviv, President Biden 
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Putin by His Side, Xi Outlines His Vision of a New World Order</h3>
-<sub>By David Pierson, Anatoly Kurmanaev and Tiffany May</sub>
-<p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Detains a U.S. Journalist</h3>
 <sub>By Ivan Nechepurenko</sub>
 <p>Alsu Kurmasheva, who holds dual U.S.-Russian citizenship and works in Prague, was charged with failing to register as a foreign agent after going to Russia for family reasons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Barnes &amp; Noble Sets Itself Free</h3>
-<sub>By Maureen O’Connor</sub>
-<p>As the bookstore chain mounts a comeback, it’s breaking a cardinal rule of corporate branding and store design: consistency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
+<h3>The Greats</h3>
+<sub></sub>
+<p>In our 2023 Greats issue, out Oct. 22, T celebrates four talents across music, film, art and fashion whose careers are a master class in curiosity, composure and defiance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Woman in Critical Condition After Man Pushes Her Into Subway Train</h3>
-<sub>By Claire Fahy, Maria Cramer and Ana Ley</sub>
-<p>The 30-year-old woman was attacked at random, the police said. Officers were seeking a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why South Korea Has So Many Protests, and What That Means</h3>
-<sub>By Choe Sang-Hun and Chang W. Lee</sub>
-<p>Part rock concert, part revival meeting, the rallies reveal a country increasingly polarized over its leader, Yoon Suk Yeol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ahead of Her Georgia Trial, Sidney Powell Seeks Distance From Trump</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Ms. Powell, a lawyer who promoted conspiracy theories about election fraud after Donald J. Trump’s 2020 defeat, now says she never represented him or his campaign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
