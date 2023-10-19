@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, October 18, Central Standard Time</p>
+<p>It is Thursday, October 19, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. President Biden visited Tel Aviv and warned not to let grief or anger over the conflict between Israel and Hamas drive the country too far. US officials are still doing analysis to understand why a Palestinian group caused an explosion in a hospital. Across the Middle East people are protesting the violence affecting Palestinians while Jordan was once again defeated for Speaker in a Republican stalemate that could cost them their House Majority. In the US, some Harvard students were doxxed for writing an anti-Israel letter and students are mourning the death of Migos group mate Takeoff who was killed last November. On a more positive note, Barnes &amp; Noble has mounting a comeback by breaking its branding rules and American household wealth jumped due to pandemic stimulus, strong job market and stock and home prices which boosted net worth at a record pace. There was also some closure in the Natalee Holloway case as Joran van der Sloot admitted to attacking her 18 years ago.</p>
+Right now, the world is dealing with a lot of different things. In Tel Aviv, President Biden is visiting to support Israel but has warned against continuing any acts that may lead them too far. U.S. and Israeli intelligence have confirmed that a Palestinian group caused a blast in a hospital recently. Protests have happened all around the Middle East in response to the violence against Palestinians in Gaza. There&#39;s also controversy in the U.S. over who will become speaker of the House of Representatives, as well as fear that it could affect their majority seat in the House. Harvard students have been doxxed for writing an anti-Israel letter, too. Ukraine&#39;s economy is starting to rebound from war, China and Russia are discussing counteracting American dominance, and Barnes &amp; Noble is setting itself free from corporate branding consistency. In New York, there was a random attack on a 30-year-old woman at a subway station, and South Korea is having many protests right now regarding their leader. Finally, there was a major development in the Natalee Holloway case - after 18 years, her assailant admitted to brutally attacking her on an Aruba beach which ultimately led to her disappearance in 2005.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Tel Aviv, Biden’s Embrace of Israel Came With a Gentle Warning</h3>
@@ -98,11 +98,11 @@ Right now, there is a lot going on in the world. President Biden visited Tel Avi
 <p>A truck with a billboard displayed their names and photos, and critics put out do-not-hire lists. The students say it’s a campaign to shut them up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Barnes &amp; Noble Sets Itself Free</h3>
-<sub>By Maureen O’Connor</sub>
-<p>As the bookstore chain mounts a comeback, it’s breaking a cardinal rule of corporate branding and store design: consistency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ukraine’s Economy Starts to Rebound as It Adapts to War</h3>
+<sub>By Constant Méheut</sub>
+<p>Economists predict a return to growth, but many challenges lie ahead, including the rebuilding of war-torn cities and labor shortages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Putin by His Side, Xi Outlines His Vision of a New World Order</h3>
@@ -110,28 +110,28 @@ Right now, there is a lot going on in the world. President Biden visited Tel Avi
 <p>China’s close ties with Russia in countering American dominance point to a geopolitical rift that could shape the conflict between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Barnes &amp; Noble Sets Itself Free</h3>
+<sub>By Maureen O’Connor</sub>
+<p>As the bookstore chain mounts a comeback, it’s breaking a cardinal rule of corporate branding and store design: consistency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Woman in Critical Condition After Man Pushes Her Into Subway Train</h3>
 <sub>By Claire Fahy, Maria Cramer and Ana Ley</sub>
 <p>The 30-year-old woman was attacked at random, the police said. Officers were seeking a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>American Household Wealth Jumped in the Pandemic</h3>
-<sub>By Jeanna Smialek and Ben Casselman</sub>
-<p>Pandemic stimulus, a strong job market and climbing stock and home prices boosted net worth at a record pace, Federal Reserve data showed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why South Korea Has So Many Protests, and What That Means</h3>
+<sub>By Choe Sang-Hun and Chang W. Lee</sub>
+<p>Part rock concert, part revival meeting, the rallies reveal a country increasingly polarized over its leader, Yoon Suk Yeol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Confession Brings Natalee Holloway Case to an End After 18 Years</h3>
 <sub>By Claire Moses and Christine Hauser</sub>
 <p>Joran van der Sloot admitted that he brutally attacked the American teenager on a beach in Aruba, bringing a close to a case that had fascinated the American public since she vanished in 2005.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Still Mourning Takeoff’s Death, Quavo Steps Out Alone</h3>
-<sub>By Elena Bergeron</sub>
-<p>The rapper, whose Migos group mate and nephew was killed last November, has released a solo album as he struggles to process the loss and prevent further gun violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
