@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! In Israel and Ukraine there are ongoing wars, and President Biden recently spoke about the stakes democracy is facing in those conflicts. Desperate people in Gaza are waiting for relief aid to arrive, but it is being held up by diplomatic issues. In the US, there are also political issues, such as Republican lawmakers fighting over who will be speaker of the House. Meanwhile, Donald Trump recently claimed he was immune from certain prosecution but that claim was denied by federal prosecutors. And to top it all off, Britney Spears released her memoir recently which chronicles her rise to fame and struggles with paparazzi culture. Finally, T Magazine has released their 2023 Greats issue which celebrates four influential figures across music, film, art and fashion.</p>
+Right now, there is a lot of conflict around the world. In the Middle East, there is an ongoing conflict between Israel and Hamas that recently caused devastation in Gaza. In Ukraine, there is also a conflict going on with Russia. President Biden recently gave a speech addressing these issues and essentially pleaded with Americans to stand behind Israel and Ukraine. 
+
+Also, a deal has been reached that will hopefully allow much needed aid into Gaza. Meanwhile, Republican tempers are flaring as their Speaker fight continues to paralyze the House of Representatives. A faction of mainstream Republicans are refusing to back their party&#39;s pick for Speaker and former President Donald Trump is facing prosecution over his actions after the election. 
+
+Outside of politics, Britney Spears just published her memoir in which she details her life in the spotlight, struggles with mental health issues, and efforts to escape a conservatorship. And finally, T Magazine is about to come out with an issue called The Greats to celebrate four talents across music, film, art and fashion who constantly push boundaries and challenge norms.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Full Transcript: Biden’s Speech on Israel-Hamas and Russia-Ukraine Wars</h3>
