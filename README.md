@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-There is a lot of international tension right now, as the US and Israel are both attempting to rally support for different political agendas. On the US side, President Biden has recently given a prime-time address in which he stressed the importance of paying a &quot;price for aggression&quot; in terms of terror and dictatorial activity. Progressive Jews have since felt let down by left-wing parties over the Israel attacks and tension continues to mount as consensus about an interim speaker stalls the House. Meanwhile, tax receipt dips have led to ballooning budgets on both sides, while Russia&#39;s promise of work has prompted a large number of Nepali refugees to take up arms for conflicting interests. On top of it all, there is a trial currently happening involving former President Donald Trump&#39;s associates which could become a threat to the former president if adequate testimony is made through plea bargains.</p>
+There is a lot going on in the world right now! Aid into Gaza is being delayed as Israel, Egypt, the U.S. and the U.N. are trying to reach an agreement about weapons inspections for shipments. In terms of foreign relations, the U.S. is having a thaw in its relationship with Venezuela ahead of a key vote, while it is rejecting President Trump&#39;s immunity claims in a related election case. Meanwhile in Argentina, citizens are voting to elect their new president, and it looks like the global far-right movement will be tested there with their candidate - nicknamed &#39;Mini-Trump&#39;. Closer to home, Jewish leaders and progressives are feeling abandoned by their left-wing allies over the conflict between Israel and Palestine, and mainstream Republicans are digging in against Jim Jordan&#39;s speakership candidacy. On top of all that, the federal deficit is growing due to decreased tax revenue last year and the impact of Republican tax cuts; while big tech companies like FTX have been facing a lot of backlash lately over issues related to cryptocurrency exchange frauds. Finally, cities are trying to figure out how to foster serendipity among workers from home during the pandemic!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Lays Out Stakes for America as He Seeks Aid for Israel and Ukraine</h3>
-<sub>By Michael D. Shear</sub>
-<p>In a prime-time address, the president said the United States and the world bear the costs “when terrorists don’t pay a price for their terror, when dictators don’t pay a price for their aggression.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Aid Into Gaza Is Delayed as Talks Drag On, Officials Say</h3>
+<sub>By Matina Stevis-Gridneff and Vivian Yee</sub>
+<p>Egypt, Israel, the United States and the United Nations were still negotiating over thorny issues, including who would inspect the shipments for weapons, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>On Israel, Progressive Jews Feel Abandoned by Their Left-Wing Allies</h3>
@@ -74,23 +74,17 @@ There is a lot of international tension right now, as the US and Israel are both
 <p>Jewish leaders and voters said they were taken aback to discover that many of their ideological allies saw them as oppressors who deserved blame following the Israel attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>A Deal for Aid Into Gaza, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, President Biden’s speech to Congress and how the Texas governor’s bus program has altered the immigration debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Tempers Flare as Speaker Fight Continues, Paralyzing the House</h3>
-<sub>By Luke Broadwater and Annie Karni</sub>
-<p>G.O.P. lawmakers spent Thursday fighting privately as one faction refused to back Representative Jim Jordan for speaker and another balked at an interim solution to allow the House to operate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Mainstream Republicans, ‘Squishes’ No More, Dig In Against Jordan</h3>
 <sub>By Catie Edmondson</sub>
 <p>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>A Deal for Aid Into Gaza, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, President Biden’s speech to Congress and how the Texas governor’s bus program has altered the immigration debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Federal Deficit Is Growing. This Is Why.</h3>
@@ -110,16 +104,10 @@ There is a lot of international tension right now, as the US and Israel are both
 <p>Prosecutors in the criminal fraud case have built the most intricate account to date of the cryptocurrency exchange’s frantic final days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Crypto Influencers and ‘Degenerates’ Flock to Sam Bankman-Fried’s Trial</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>The presence of crypto YouTubers, podcasters and commentators at the FTX founder’s fraud trial has created something of a culture clash in the courtroom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Small Country Far From Ukraine Is Sending Hundreds toWar, on Both Sides</h3>
-<sub>By Bhadra Sharma and Jeffrey Gettleman</sub>
-<p>Scores of young Nepali men have gone to fight, some lured by Russia’s promise of work, others to fight for Ukraine, raising the prospect of Nepalis fighting one another in a distant war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Raids Across Dnipro River, Ukraine May Be Seeking New Front in War</h3>
+<sub>By Marc Santora</sub>
+<p>Military experts are reporting extensive strikes on Russian-held territory in the south, potentially with the goal of establishing a bridgehead on the east bank of the Dnipro.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +121,18 @@ There is a lot of international tension right now, as the US and Israel are both
 <sub>By Alan Feuer</sub>
 <p>The special counsel’s office said that Donald Trump’s assertion that actions he took as president were not subject to prosecution was unsupported by the Constitution or legal precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Javier Milei, a ‘Mini-Trump,’ Could Be Argentina’s Next President</h3>
+<sub>By Jack Nicas</sub>
+<p>The global far-right movement faces an important test in Argentina’s election on Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Thaw Between U.S. and Venezuela Ahead of a Key Vote</h3>
+<sub>By Genevieve Glatsky, Isayen Herrera and Julie Turkewitz</sub>
+<p>The release of political prisoners and the lifting of some U.S. sanctions comes as Venezuela’s opposition prepares to elect a candidate to challenge the country’s leader.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
