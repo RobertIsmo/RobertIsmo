@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! Aid into Gaza is being delayed as Israel, Egypt, the U.S. and the U.N. are trying to reach an agreement about weapons inspections for shipments. In terms of foreign relations, the U.S. is having a thaw in its relationship with Venezuela ahead of a key vote, while it is rejecting President Trump&#39;s immunity claims in a related election case. Meanwhile in Argentina, citizens are voting to elect their new president, and it looks like the global far-right movement will be tested there with their candidate - nicknamed &#39;Mini-Trump&#39;. Closer to home, Jewish leaders and progressives are feeling abandoned by their left-wing allies over the conflict between Israel and Palestine, and mainstream Republicans are digging in against Jim Jordan&#39;s speakership candidacy. On top of all that, the federal deficit is growing due to decreased tax revenue last year and the impact of Republican tax cuts; while big tech companies like FTX have been facing a lot of backlash lately over issues related to cryptocurrency exchange frauds. Finally, cities are trying to figure out how to foster serendipity among workers from home during the pandemic!</p>
+Things have been really tense in the Middle East between Israel, Egypt and the United States as talks drag on to get aid into Gaza. On top of that, there&#39;s a big divide in the United States as progressive Jews feel abandoned by their left-wing allies and Republicans are digging in against Jordan&#39;s speaker candidacy.
+
+The US is also in the middle of a financial crisis with unexpected tax dips and the federal deficit growing. Meanwhile, Donald Trump&#39;s lawyer Kenneth Chesebro recently pleaded guilty in Georgia with another one of his co-defendants doing the same, and Governor DeSantis&#39;s super PAC is now helping to pay for private flights which may be testing some legal boundaries.
+
+On the global business stage, OpenAI is said to be valuing itself at a staggering $80 billion while US tech companies are clamping down on Chinese chip-making machinery sales. Over at Apple, they&#39;ve just debuted Martin Scorsese&#39;s &#39;Killers of the Flower Moon&#39; which critics are calling an &quot;unsettling masterpiece&quot;. To top it off, Ukraine may be seeking a new front in its war with Russia by conducting raids across the Dnipro river.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Aid Into Gaza Is Delayed as Talks Drag On, Officials Say</h3>
@@ -74,17 +78,11 @@ There is a lot going on in the world right now! Aid into Gaza is being delayed a
 <p>Jewish leaders and voters said they were taken aback to discover that many of their ideological allies saw them as oppressors who deserved blame following the Israel attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mainstream Republicans, ‘Squishes’ No More, Dig In Against Jordan</h3>
 <sub>By Catie Edmondson</sub>
 <p>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>A Deal for Aid Into Gaza, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, President Biden’s speech to Congress and how the Texas governor’s bus program has altered the immigration debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Federal Deficit Is Growing. This Is Why.</h3>
@@ -92,10 +90,22 @@ There is a lot going on in the world right now! Aid into Gaza is being delayed a
 <p>Tax receipts dipped unexpectedly last year. The Biden administration blames Republican tax cuts, but the truth is more complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Cities Foster Serendipity. But Can They Do It When Workers Are at Home?</h3>
-<sub>By Emily Badger</sub>
-<p>Revisiting a theory about chance collisions and innovation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kenneth Chesebro, a Trump-Aligned Lawyer, Pleads Guilty in Georgia</h3>
+<sub>By Richard Fausset and Christian Boone</sub>
+<p>Mr. Chesebro’s plea deal comes a day after Sidney Powell, another of Donald Trump’s co-defendants in the Georgia election interference case, took a guilty plea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Super PAC Helps Pay for Private Flights, in Unusual Move</h3>
+<sub>By Rebecca Davis O’Brien, Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
+<p>The Florida governor’s campaign, facing a cash crunch, has found a way to offload the steep costs of private air travel. Campaign finance experts say the arrangement could test the limits of the law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI in Talks for Deal That Would Value Company at $80 Billion</h3>
+<sub>By Cade Metz</sub>
+<p>The San Francisco start-up’s valuation could triple in less than six months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,29 +120,23 @@ There is a lot going on in the world right now! Aid into Gaza is being delayed a
 <p>Military experts are reporting extensive strikes on Russian-held territory in the south, potentially with the goal of establishing a bridgehead on the east bank of the Dnipro.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sidney Powell’s Plea Deal Could Be a Threat to Trump</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>For the first time, prosecutors have the cooperation of someone who was closely involved in Donald Trump’s efforts to remain in office after his election defeat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Prosecutors Reject Trump’s Immunity Claims in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The special counsel’s office said that Donald Trump’s assertion that actions he took as president were not subject to prosecution was unsupported by the Constitution or legal precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Javier Milei, a ‘Mini-Trump,’ Could Be Argentina’s Next President</h3>
-<sub>By Jack Nicas</sub>
-<p>The global far-right movement faces an important test in Argentina’s election on Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Multimillion-Dollar Machines at the Center of the U.S.-China Rivalry</h3>
+<sub>By Ana Swanson, Don Clark and Mara Hvistendahl</sub>
+<p>The United States is taking unusual action to clamp down on sales of chip-making machinery to China, even as Chinese firms are racing to stockpile the equipment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Thaw Between U.S. and Venezuela Ahead of a Key Vote</h3>
-<sub>By Genevieve Glatsky, Isayen Herrera and Julie Turkewitz</sub>
-<p>The release of political prisoners and the lifting of some U.S. sanctions comes as Venezuela’s opposition prepares to elect a candidate to challenge the country’s leader.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Apple’s New Film Strategy Debuts With ‘Killers of the Flower Moon’</h3>
+<sub>By Nicole Sperling</sub>
+<p>Martin Scorsese’s three-and-a-half-hour epic is the first of three high-profile movies the tech company will give wide theatrical releases in the coming months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Killers of the Flower Moon’ Review: An Unsettling Masterpiece</h3>
+<sub>By Manohla Dargis</sub>
+<p>Martin Scorsese’s three-and-a-half-hour epic, starring Leonardo DiCaprio, is a romance, a western, a whodunit and a lesson in the bloody history of the Osage murders of the 1920s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
