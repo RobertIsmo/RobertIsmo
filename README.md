@@ -60,40 +60,72 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-Things have been really tense in the Middle East between Israel, Egypt and the United States as talks drag on to get aid into Gaza. On top of that, there&#39;s a big divide in the United States as progressive Jews feel abandoned by their left-wing allies and Republicans are digging in against Jordan&#39;s speaker candidacy.
-
-The US is also in the middle of a financial crisis with unexpected tax dips and the federal deficit growing. Meanwhile, Donald Trump&#39;s lawyer Kenneth Chesebro recently pleaded guilty in Georgia with another one of his co-defendants doing the same, and Governor DeSantis&#39;s super PAC is now helping to pay for private flights which may be testing some legal boundaries.
-
-On the global business stage, OpenAI is said to be valuing itself at a staggering $80 billion while US tech companies are clamping down on Chinese chip-making machinery sales. Over at Apple, they&#39;ve just debuted Martin Scorsese&#39;s &#39;Killers of the Flower Moon&#39; which critics are calling an &quot;unsettling masterpiece&quot;. To top it off, Ukraine may be seeking a new front in its war with Russia by conducting raids across the Dnipro river.</p>
+There is a lot of political unrest in the United States right now. A group of mainstream Republicans are standing up against Jim Jordan&#39;s speakership candidacy despite intimidation from their party. President Biden has requested a $105 billion aid package for various crises around the world, and the UN is currently trying to negotiate terms for humanitarian aid to Gaza. In addition, the US government is facing a $1.7 trillion deficit and there has been an increase in bond market activity. Donald Trump was recently fined for breaking his gag order and the Supreme Court paused a ban on Biden officials&#39; contacts with tech platforms pending review. Lastly, Florida governor DeSantis’s campaign is helping to pay for private flights in an unusual move that may challenge campaign finance law.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Aid Into Gaza Is Delayed as Talks Drag On, Officials Say</h3>
-<sub>By Matina Stevis-Gridneff and Vivian Yee</sub>
-<p>Egypt, Israel, the United States and the United Nations were still negotiating over thorny issues, including who would inspect the shipments for weapons, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On Israel, Progressive Jews Feel Abandoned by Their Left-Wing Allies</h3>
-<sub>By Jennifer Medina and Lisa Lerer</sub>
-<p>Jewish leaders and voters said they were taken aback to discover that many of their ideological allies saw them as oppressors who deserved blame following the Israel attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mainstream Republicans, ‘Squishes’ No More, Dig In Against Jordan</h3>
 <sub>By Catie Edmondson</sub>
 <p>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Live Count: Tracking the House Speaker Votes</h3>
+<sub>By Lazaro Gamio, Martín González Gómez, Blacki Migliozzi, John-Michael Murphy, Elena Shao, Ashley Wu and Christine Zhang</sub>
+<p>Rep. Jim Jordan failed to win a majority in three votes on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Requests $105 Billion Aid Package for Israel, Ukraine and Other Crises</h3>
+<sub>By Michael D. Shear and Karoun Demirjian</sub>
+<p>The conflict in the Middle East has given President Biden a path to approving Ukraine aid that otherwise might have remained stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Food and Water Into Gaza Are Delayed as Talks Drag On, Officials Say</h3>
+<sub>By Matina Stevis-Gridneff and Vivian Yee</sub>
+<p>Egypt, Israel, the United States and the United Nations were still negotiating over thorny issues, including who would inspect the shipments for weapons, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Federal Deficit Is Growing. This Is Why.</h3>
-<sub>By Jim Tankersley</sub>
-<p>Tax receipts dipped unexpectedly last year. The Biden administration blames Republican tax cuts, but the truth is more complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Treasury Report Shows $1.7 Trillion Deficit</h3>
+<sub>By Alan Rappeport and Jim Tankersley</sub>
+<p>The widening gap between what the government spends and what it earns comes as Congress continues to spar over the proper levels of federal spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Gems Hiding in Plain Sight in the Treasury Market</h3>
+<sub>By Jeff Sommer</sub>
+<p>Back in 1994, bonds with fabulous yields were there for the taking. Our columnist doesn’t see treasures like that now, but there are solid buys.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Investors Fret as Daunting Bond Market Milestone Comes Into View</h3>
+<sub>By Joe Rennison</sub>
+<p>The 10-year U.S. Treasury yield has threatened to break above 5 percent for the first time in 16 years, rattling the markets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kenneth Chesebro, a Trump-Aligned Lawyer, Pleads Guilty in Georgia</h3>
-<sub>By Richard Fausset and Christian Boone</sub>
+<sub>By Richard Fausset and Alan Feuer</sub>
 <p>Mr. Chesebro’s plea deal comes a day after Sidney Powell, another of Donald Trump’s co-defendants in the Georgia election interference case, took a guilty plea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Fined $5,000 for Breaking Gag Order by Leaving Abusive Post Online</h3>
+<sub>By Kate Christobek, Jonah E. Bromwich and Ben Protess</sub>
+<p>The former president used social media to attack a clerk for the judge in his civil fraud case, and left a copy of the post online for weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Pauses Ban on Biden Officials’ Contacts With Tech Platforms Pending Review</h3>
+<sub>By Adam Liptak</sub>
+<p>The court agreed to hear the administration’s appeal, setting the stage for a major ruling on what the government may do to encourage sites to delete asserted misinformation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justices Reject, for Now, Missouri’s Effort to Override Federal Gun Laws</h3>
+<sub>By Adam Liptak</sub>
+<p>The move blocked an expansive state law, the Second Amendment Preservation Act, and let stand a ruling that it was an unconstitutional attempt to nullify federal laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -101,42 +133,6 @@ On the global business stage, OpenAI is said to be valuing itself at a staggerin
 <sub>By Rebecca Davis O’Brien, Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
 <p>The Florida governor’s campaign, facing a cash crunch, has found a way to offload the steep costs of private air travel. Campaign finance experts say the arrangement could test the limits of the law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI in Talks for Deal That Would Value Company at $80 Billion</h3>
-<sub>By Cade Metz</sub>
-<p>The San Francisco start-up’s valuation could triple in less than six months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Oof’: Sam Bankman-Fried’s Trial Reveals Inside Details of How FTX Died</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Prosecutors in the criminal fraud case have built the most intricate account to date of the cryptocurrency exchange’s frantic final days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Raids Across Dnipro River, Ukraine May Be Seeking New Front in War</h3>
-<sub>By Marc Santora</sub>
-<p>Military experts are reporting extensive strikes on Russian-held territory in the south, potentially with the goal of establishing a bridgehead on the east bank of the Dnipro.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Multimillion-Dollar Machines at the Center of the U.S.-China Rivalry</h3>
-<sub>By Ana Swanson, Don Clark and Mara Hvistendahl</sub>
-<p>The United States is taking unusual action to clamp down on sales of chip-making machinery to China, even as Chinese firms are racing to stockpile the equipment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Apple’s New Film Strategy Debuts With ‘Killers of the Flower Moon’</h3>
-<sub>By Nicole Sperling</sub>
-<p>Martin Scorsese’s three-and-a-half-hour epic is the first of three high-profile movies the tech company will give wide theatrical releases in the coming months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Killers of the Flower Moon’ Review: An Unsettling Masterpiece</h3>
-<sub>By Manohla Dargis</sub>
-<p>Martin Scorsese’s three-and-a-half-hour epic, starring Leonardo DiCaprio, is a romance, a western, a whodunit and a lesson in the bloody history of the Osage murders of the 1920s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
