@@ -60,29 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-Right now, there is a lot of conflict around the world. In the Middle East, there is an ongoing conflict between Israel and Hamas that recently caused devastation in Gaza. In Ukraine, there is also a conflict going on with Russia. President Biden recently gave a speech addressing these issues and essentially pleaded with Americans to stand behind Israel and Ukraine. 
-
-Also, a deal has been reached that will hopefully allow much needed aid into Gaza. Meanwhile, Republican tempers are flaring as their Speaker fight continues to paralyze the House of Representatives. A faction of mainstream Republicans are refusing to back their party&#39;s pick for Speaker and former President Donald Trump is facing prosecution over his actions after the election. 
-
-Outside of politics, Britney Spears just published her memoir in which she details her life in the spotlight, struggles with mental health issues, and efforts to escape a conservatorship. And finally, T Magazine is about to come out with an issue called The Greats to celebrate four talents across music, film, art and fashion who constantly push boundaries and challenge norms.</p>
+There is a lot of international tension right now, as the US and Israel are both attempting to rally support for different political agendas. On the US side, President Biden has recently given a prime-time address in which he stressed the importance of paying a &quot;price for aggression&quot; in terms of terror and dictatorial activity. Progressive Jews have since felt let down by left-wing parties over the Israel attacks and tension continues to mount as consensus about an interim speaker stalls the House. Meanwhile, tax receipt dips have led to ballooning budgets on both sides, while Russia&#39;s promise of work has prompted a large number of Nepali refugees to take up arms for conflicting interests. On top of it all, there is a trial currently happening involving former President Donald Trump&#39;s associates which could become a threat to the former president if adequate testimony is made through plea bargains.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Full Transcript: Biden’s Speech on Israel-Hamas and Russia-Ukraine Wars</h3>
-<sub>By The New York Times</sub>
-<p>The president laid out what he characterized as the stakes for democracy as he pleaded with Americans to stand firmly behind Israel and Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deal Lays Groundwork for Aid to Reach Desperate Gazans, Officials Say</h3>
-<sub>By Matthew Rosenberg, Emma Bubola, Matina Stevis-Gridneff, Vivian Yee and Monika Pronczuk</sub>
-<p>Trucks loaded with food and medicine are lined up tantalizingly close to people who need it, separated only by border gates that war and diplomatic wrangling have kept closed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Lays Out Stakes for America as He Seeks Aid for Israel and Ukraine</h3>
+<sub>By Michael D. Shear</sub>
+<p>In a prime-time address, the president said the United States and the world bear the costs “when terrorists don’t pay a price for their terror, when dictators don’t pay a price for their aggression.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Moment: A President Convinced of America’s Role in the World</h3>
-<sub>By David E. Sanger</sub>
-<p>In a fractured political moment at home and abroad, it is unclear whether President Biden can bring many Americans along.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<h3>On Israel, Progressive Jews Feel Abandoned by Their Left-Wing Allies</h3>
+<sub>By Jennifer Medina and Lisa Lerer</sub>
+<p>Jewish leaders and voters said they were taken aback to discover that many of their ideological allies saw them as oppressors who deserved blame following the Israel attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>A Deal for Aid Into Gaza, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, President Biden’s speech to Congress and how the Texas governor’s bus program has altered the immigration debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republican Tempers Flare as Speaker Fight Continues, Paralyzing the House</h3>
@@ -96,11 +92,35 @@ Outside of politics, Britney Spears just published her memoir in which she detai
 <p>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, No Tears Over Jordan’s Predicament in the House</h3>
-<sub>By Peter Baker</sub>
-<p>Faux compassion is the only kind to be found in the White House these days for Representative Jim Jordan and Republicans as they struggle to choose a new speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Federal Deficit Is Growing. This Is Why.</h3>
+<sub>By Jim Tankersley</sub>
+<p>Tax receipts dipped unexpectedly last year. The Biden administration blames Republican tax cuts, but the truth is more complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Cities Foster Serendipity. But Can They Do It When Workers Are at Home?</h3>
+<sub>By Emily Badger</sub>
+<p>Revisiting a theory about chance collisions and innovation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Oof’: Sam Bankman-Fried’s Trial Reveals Inside Details of How FTX Died</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>Prosecutors in the criminal fraud case have built the most intricate account to date of the cryptocurrency exchange’s frantic final days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Crypto Influencers and ‘Degenerates’ Flock to Sam Bankman-Fried’s Trial</h3>
+<sub>By David Yaffe-Bellany</sub>
+<p>The presence of crypto YouTubers, podcasters and commentators at the FTX founder’s fraud trial has created something of a culture clash in the courtroom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Small Country Far From Ukraine Is Sending Hundreds toWar, on Both Sides</h3>
+<sub>By Bhadra Sharma and Jeffrey Gettleman</sub>
+<p>Scores of young Nepali men have gone to fight, some lured by Russia’s promise of work, others to fight for Ukraine, raising the prospect of Nepalis fighting one another in a distant war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sidney Powell’s Plea Deal Could Be a Threat to Trump</h3>
@@ -112,30 +132,6 @@ Outside of politics, Britney Spears just published her memoir in which she detai
 <h3>Federal Prosecutors Reject Trump’s Immunity Claims in Election Case</h3>
 <sub>By Alan Feuer</sub>
 <p>The special counsel’s office said that Donald Trump’s assertion that actions he took as president were not subject to prosecution was unsupported by the Constitution or legal precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Laphonza Butler Will Not Run for Feinstein’s Senate Seat in 2024</h3>
-<sub>By Shawn Hubler</sub>
-<p>Ms. Butler, who was appointed by Gov. Gavin Newsom just weeks ago to fill Dianne Feinstein’s seat, said she had realized that “this is not the greatest use of my voice.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>In Britney Spears’s Memoir, She’s Stronger Than Ever</h3>
-<sub>By Leah Greenblatt</sub>
-<p>“The Woman in Me” reveals plenty about her life in the spotlight, and tempers well-earned bitterness with an enduring, insistent optimism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘I Had Been Exploited:’ Takeaways From Britney Spears’s Memoir</h3>
-<sub>By Julia Jacobs and Joe Coscarelli</sub>
-<p>The pop star’s new book, “The Woman in Me,” recounts her rise to fame, struggles that became tabloid fodder and her efforts to escape a conservatorship that long governed her life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>The Greats</h3>
-<sub></sub>
-<p>In our 2023 Greats issue, out Oct. 22, T celebrates four talents across music, film, art and fashion whose careers are a master class in curiosity, composure and defiance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
