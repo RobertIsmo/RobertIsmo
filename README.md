@@ -58,27 +58,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, October 19, Central Standard Time</p>
+<p>It is Friday, October 20, Central Standard Time</p>
 <p>
-There is a lot of chaos happening in the US, especially in the House of Representatives. An Ohio congressman has been pushing for a third vote to name a speaker, while some have been discussing giving power to an interim speaker instead. 
-
-President Biden made a visit to Israel, and promised backing in the war against Hamas, but also signaled his intention to limit their actions. There has also been an alarming death toll from a hospital blast in Gaza. 
-
-The Trump legal team&#39;s Sidney Powell has pleaded guilty in Georgia&#39;s election interference case, while other members of politics have decided not to run for office. The FCC is on the verge of restoring Net Neutrality rules which were stricken during the Trump administration. 
-
-Closer to home, the murder case of the Gilgo Beach Killer has finally been solved after 13 years and Britney Spears has just released her memoir which is full of hope despite her struggles with fame and conservatorship. Finally, T Magazine&#39;s upcoming Greats issue will be honoring four talented individuals across music, film, art and fashion.</p>
+There is a lot happening in the world right now! In Israel and Ukraine there are ongoing wars, and President Biden recently spoke about the stakes democracy is facing in those conflicts. Desperate people in Gaza are waiting for relief aid to arrive, but it is being held up by diplomatic issues. In the US, there are also political issues, such as Republican lawmakers fighting over who will be speaker of the House. Meanwhile, Donald Trump recently claimed he was immune from certain prosecution but that claim was denied by federal prosecutors. And to top it all off, Britney Spears released her memoir recently which chronicles her rise to fame and struggles with paparazzi culture. Finally, T Magazine has released their 2023 Greats issue which celebrates four influential figures across music, film, art and fashion.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jordan Reverses Himself and Will Push for a Third Speaker Vote</h3>
-<sub>By Luke Broadwater and Annie Karni</sub>
-<p>Hours after saying he would endorse empowering an interim speaker, the hard-right Republican from Ohio reversed himself and said he would pursue another vote in his bid for speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Full Transcript: Biden’s Speech on Israel-Hamas and Russia-Ukraine Wars</h3>
+<sub>By The New York Times</sub>
+<p>The president laid out what he characterized as the stakes for democracy as he pleaded with Americans to stand firmly behind Israel and Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Speaker Chaos Grows, So Does Talk of Empowering McHenry</h3>
-<sub>By Robert Jimison and Kayla Guo</sub>
-<p>Several lawmakers were discussing granting Patrick McHenry, a North Carolina Republican acting as temporary speaker, the power to run the House until a permanent speaker is chosen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deal Lays Groundwork for Aid to Reach Desperate Gazans, Officials Say</h3>
+<sub>By Matthew Rosenberg, Emma Bubola, Matina Stevis-Gridneff, Vivian Yee and Monika Pronczuk</sub>
+<p>Trucks loaded with food and medicine are lined up tantalizingly close to people who need it, separated only by border gates that war and diplomatic wrangling have kept closed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Moment: A President Convinced of America’s Role in the World</h3>
@@ -86,40 +80,40 @@ Closer to home, the murder case of the Gilgo Beach Killer has finally been solve
 <p>In a fractured political moment at home and abroad, it is unclear whether President Biden can bring many Americans along.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Praise Biden Visit but Fear U.S. Constraints on Action</h3>
-<sub>By Steven Erlanger</sub>
-<p>President Biden promised undying American backing for Israel in its war against Hamas. But that won’t mean U.S. support for everything Israel does.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Tempers Flare as Speaker Fight Continues, Paralyzing the House</h3>
+<sub>By Luke Broadwater and Annie Karni</sub>
+<p>G.O.P. lawmakers spent Thursday fighting privately as one faction refused to back Representative Jim Jordan for speaker and another balked at an interim solution to allow the House to operate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. officials say the death toll from the Gaza hospital blast is between 100-300, according to early assessments.</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The officials cautioned that their calculations could change as more intelligence surfaces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mainstream Republicans, ‘Squishes’ No More, Dig In Against Jordan</h3>
+<sub>By Catie Edmondson</sub>
+<p>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sidney Powell Pleads Guilty in Georgia Trump Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Ms. Powell, a member of the Trump legal team in 2020, will cooperate with prosecutors seeking to convict the former president in an election interference case in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For Biden, No Tears Over Jordan’s Predicament in the House</h3>
+<sub>By Peter Baker</sub>
+<p>Faux compassion is the only kind to be found in the White House these days for Representative Jim Jordan and Republicans as they struggle to choose a new speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Laphonza Butler Will Not Run for Senate in 2024</h3>
+<h3>Sidney Powell’s Plea Deal Could Be a Threat to Trump</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>For the first time, prosecutors have the cooperation of someone who was closely involved in Donald Trump’s efforts to remain in office after his election defeat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Prosecutors Reject Trump’s Immunity Claims in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The special counsel’s office said that Donald Trump’s assertion that actions he took as president were not subject to prosecution was unsupported by the Constitution or legal precedent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Laphonza Butler Will Not Run for Feinstein’s Senate Seat in 2024</h3>
 <sub>By Shawn Hubler</sub>
 <p>Ms. Butler, who was appointed by Gov. Gavin Newsom just weeks ago to fill Dianne Feinstein’s seat, said she had realized that “this is not the greatest use of my voice.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>F.C.C. Moves Toward Restoring Net Neutrality Rules, Igniting Regulatory Fight</h3>
-<sub>By Cecilia Kang</sub>
-<p>The regulations, which would bar broadband providers from blocking or slowing down services like Google and Netflix, were repealed during the Trump administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Botched Hunt for the Gilgo Beach Killer</h3>
-<sub>By Robert Kolker</sub>
-<p>For 13 years, police failed to scrutinize the man now accused of the infamous murders. Why did it take so long?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
