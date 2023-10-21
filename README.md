@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 21, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. Two American hostages were released from Hamas, but there is still a lot of concern for the hundreds of remaining hostages in Gaza - especially those who are injured or ill. In Israel and Gaza, airstrikes and ground fighting have resulted in debates around morality in war. In the US, President Biden&#39;s approval ratings remain low, but his recent efforts in Israel may be an opportunity to change how voters view him. Meanwhile, the House Republicans are dealing with their own chaos and frustration from a bitter speaker fight. The G.O.P. is under pressure to bring more mainstream conservatives on board but they haven&#39;t been able to find an answer yet. In other news, there is a deep dive into the ancient Greek myth of Prometheus which seems to explain our complicated modern reality, and a story on Native Hawaiians trying to honor the past of Maui while figuring out the path ahead for tourism after recent disasters.</p>
+There is a lot happening in the world right now. In Israel, there has been a violent conflict between Israel and Hezbollah that U.S. officials are urging to stop from escalating any further. There are also ongoing land and air battles with Palestinians in the Middle East. Back in the U.S., there has been a bitter internal struggle among Republicans over who should lead the House of Representatives, as well as a scandal involving a lawyer working for President Trump who has plead guilty to election fraud in Georgia. In Hawaii, there has been a devastating wildfire that destroyed Lahaina which is prompting conservators to race to save what remains of its culture and heritage. Finally, college sports have seen some major changes due to the donations of wealthy boosters and more relaxed rules that could help student-athletes, but may cost universities and taxpayers money.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For the Most Vulnerable Hostages, a Plea for Mercy</h3>
-<sub>By Jeffrey Gettleman and Adam Sella</sub>
-<p>Hamas released two American hostages on Friday, but concern is rising about the hundreds still held in Gaza, especially the injured and ill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and Aides Advise Israel to Avoid Widening War With Hezbollah Strike</h3>
+<sub>By Edward Wong, Ronen Bergman and Julian E. Barnes</sub>
+<p>U.S. officials learned that the Israeli defense minister and other military officials supported a pre-emptive strike on Hezbollah. Prime Minister Benjamin Netanyahu has been cautious.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
@@ -81,7 +81,7 @@ There is a lot happening around the world right now. Two American hostages were 
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Biden Change How Voters See Him? The Israel War May Give Him a Chance.</h3>
+<h3>Will the Middle East War Change Voters’ Views of Biden?</h3>
 <sub>By Reid J. Epstein and Adam Nagourney</sub>
 <p>Plagued by low approval ratings, the president has projected himself as a world leader. Strategists warn, however, that his re-election may depend more on domestic issues like the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
@@ -117,7 +117,13 @@ There is a lot happening around the world right now. Two American hostages were 
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For the Future of Maui, Native Hawaiians Push for Honoring Its Past</h3>
+<h3>How Rich Donors and Loose Rules Are Transforming College Sports</h3>
+<sub>By David A. Fahrenthold and Billy Witz</sub>
+<p>A shift that allows booster groups to employ student-athletes has upended the economics of college football and other sports while giving many donors a tax break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Plea From Native Hawaiians: The Future of Maui Rests on Honoring Its Past</h3>
 <sub>By Tim Arango</sub>
 <p>The wildfire that devastated Lahaina wiped out many vestiges of the town’s past. Conservators are racing to recover what they can.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
@@ -127,12 +133,6 @@ There is a lot happening around the world right now. Two American hostages were 
 <sub>By Christine Chung</sub>
 <p>The entire island of Maui is bracing for the return of tourism even as disaster relief efforts continue. The path to recovery is uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine, a Sniper Mission and the Myth of the ‘Good Kill’</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>A New York Times reporter who is a former Marine has a conversation with a Ukrainian sniper about morality in war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
