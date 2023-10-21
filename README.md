@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, October 20, Central Standard Time</p>
+<p>It is Saturday, October 21, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, Republicans had to vote out their Speaker of the House Nominee, Jordan, leading to chaos and frustration in their party. The US government also has a widening deficit of 1.7 trillion. On the other hand, Biden and his aides are advising Israel to avoid a wide war with Hezbollah strike. There’s also a lot of fighting in Gaza with both sides targeting each other with airstrikes and ground warfare. On top of that, Kenneth Chesebro, a Trump-aligned lawyer, plead guilty in Georgia and this could undermine any possible defense for Trump in two other cases. Lastly, the Supreme Court lifted limits on Biden officials’ contact with tech platforms, which could pave the way for major rulings on how far the government can go to prevent misinformation.</p>
+Things are a bit chaotic in the US right now. Republicans just voted out Jordan as speaker nominee, leaving their house in chaos and frustration that&#39;s only growing. There&#39;s also an issue with the US deficit that&#39;s pretty pressing. Biden is reportedly advising Israel to avoid widening the war with Hezbollah by striking them as well, and we can track the attacks between Israelis and Palestinians on maps. On the other hand, there&#39;s also been a plea deal from Kenneth Chesebro, who was aligned with Trump -- this plea could potentially undermine Trump’s defense in both cases he&#39;s facing. Also, the Supreme Court has taken action to lift some limits on Biden officials’ contacts with tech platforms and to reject Missouri’s attempt to override federal gun laws, at least for the time being.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Vote Out Jordan as Speaker Nominee, Continuing Chaos in House</h3>
@@ -104,18 +104,6 @@ There&#39;s a lot happening in the world right now. In the US, Republicans had t
 <p>The widening gap between what the government spends and what it earns comes as Congress continues to spar over the proper levels of federal spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Gems Hiding in Plain Sight in the Treasury Market</h3>
-<sub>By Jeff Sommer</sub>
-<p>Back in 1994, bonds with fabulous yields were there for the taking. Our columnist doesn’t see treasures like that now, but there are solid buys.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Investors Fret as Daunting Bond Market Milestone Comes Into View</h3>
-<sub>By Joe Rennison</sub>
-<p>The 10-year U.S. Treasury yield has threatened to break above 5 percent for the first time in 16 years, rattling the markets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kenneth Chesebro, a Trump-Aligned Lawyer, Pleads Guilty in Georgia</h3>
 <sub>By Richard Fausset and Alan Feuer</sub>
@@ -128,10 +116,22 @@ There&#39;s a lot happening in the world right now. In the US, Republicans had t
 <p>The lawyer Kenneth Chesebro pleaded guilty in the Georgia election tampering case and is an unindicted co-conspirator in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Little Punishment or Change After South Korea’s Halloween Calamity</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Families of the 159 people crushed to death last year say the government has never acknowledged its mistakes or accepted responsibility.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Lifts Limits for Now on Biden Officials’ Contacts With Tech Platforms</h3>
 <sub>By Adam Liptak</sub>
 <p>The court also agreed to hear the administration’s appeal, paving the way for a major ruling on how far government can go to encourage sites to delete asserted misinformation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justices Reject, for Now, Missouri’s Effort to Override Federal Gun Laws</h3>
+<sub>By Adam Liptak</sub>
+<p>The move blocked an expansive state law, the Second Amendment Preservation Act, and let stand a ruling that it was an unconstitutional attempt to nullify federal laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
