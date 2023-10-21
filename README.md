@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 21, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Israel, there has been a violent conflict between Israel and Hezbollah that U.S. officials are urging to stop from escalating any further. There are also ongoing land and air battles with Palestinians in the Middle East. Back in the U.S., there has been a bitter internal struggle among Republicans over who should lead the House of Representatives, as well as a scandal involving a lawyer working for President Trump who has plead guilty to election fraud in Georgia. In Hawaii, there has been a devastating wildfire that destroyed Lahaina which is prompting conservators to race to save what remains of its culture and heritage. Finally, college sports have seen some major changes due to the donations of wealthy boosters and more relaxed rules that could help student-athletes, but may cost universities and taxpayers money.</p>
+Right now, there are a lot of conflicts around the world that people have strong opinions about. The US is facing arguments about how much they should get involved in an international conflict between Israel and Palestine and other issues abroad. On a more heartwarming note, a program connecting Muslims and Jews in Los Angeles has become strengthened through the war, despite the difficulties it causes. In addition, many House Republicans experienced chaos as they struggled to elect a new speaker. And, unfortunately, there is evidence that Russian forces have committed acts of rape and torture in Ukraine. But there have been some uplifting news as well - Bobby Charlton, a soccer great, passed away at 86 years old and will be remembered by his loved ones and fans alike.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Aides Advise Israel to Avoid Widening War With Hezbollah Strike</h3>
-<sub>By Edward Wong, Ronen Bergman and Julian E. Barnes</sub>
-<p>U.S. officials learned that the Israeli defense minister and other military officials supported a pre-emptive strike on Hezbollah. Prime Minister Benjamin Netanyahu has been cautious.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<h3>Americans, Weary of Foreign Conflicts, Face Another</h3>
+<sub>By Shawn Hubler, Christian Boone, Dan Simmons, Nicholas Bogel-Burroughs and Jack Healy</sub>
+<p>Interviews with voters in key states show that while there is support for Israel and Ukraine, many are torn about how much the U.S. can or should be involved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘I Love You. I Am Sorry’: One Jew, One Muslim and a Friendship Tested by War</h3>
@@ -80,11 +74,11 @@ There is a lot happening in the world right now. In Israel, there has been a vio
 <p>A Los Angeles program that connects Muslims and Jews has been strained by the war in Israel. But the group’s leaders found that it has strengthened their bond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will the Middle East War Change Voters’ Views of Biden?</h3>
-<sub>By Reid J. Epstein and Adam Nagourney</sub>
-<p>Plagued by low approval ratings, the president has projected himself as a world leader. Strategists warn, however, that his re-election may depend more on domestic issues like the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Jordan Falls, House Republicans Ask Who, and What, Is Next</h3>
@@ -116,23 +110,29 @@ There is a lot happening in the world right now. In Israel, there has been a vio
 <p>How an ancient Greek myth explains our terrifying modern reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Rich Donors and Loose Rules Are Transforming College Sports</h3>
-<sub>By David A. Fahrenthold and Billy Witz</sub>
-<p>A shift that allows booster groups to employ student-athletes has upended the economics of college football and other sports while giving many donors a tax break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine, a Sniper Mission and the Myth of the ‘Good Kill’</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>A New York Times reporter who is a former Marine has a conversation with a Ukrainian sniper about morality in war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Plea From Native Hawaiians: The Future of Maui Rests on Honoring Its Past</h3>
-<sub>By Tim Arango</sub>
-<p>The wildfire that devastated Lahaina wiped out many vestiges of the town’s past. Conservators are racing to recover what they can.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>New Evidence Found of Rape and Torture by Russian Forces in Ukraine</h3>
+<sub>By Constant Méheut</sub>
+<p>A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>Yes, Maui Is Open. But the Loss of Lahaina May Reshape Tourism.</h3>
-<sub>By Christine Chung</sub>
-<p>The entire island of Maui is bracing for the return of tourism even as disaster relief efforts continue. The path to recovery is uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Do You Charge a Friend for a Professional Favor?</h3>
+<sub>By Sara Murphy</sub>
+<p>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Bobby Charlton, a Soccer Great, Dies at 86</h3>
+<sub>By Mark A. Walsh</sub>
+<p>A mainstay of Manchester United and one of the game’s best-loved figures, he won the World Cup in 1966 and the European Cup in 1968.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
