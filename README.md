@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-The world is in a state of flux right now. In the US, President Biden has requested a $105 billion aid package to help countries like Israel and Ukraine. There&#39;s also been tension between mainstream Republicans and &#39;squishes&#39;, as they refuse to back down against speakership candidate Jim Jordan. On the world stage, there&#39;s an ongoing conflict in the Middle East between Israeli and Palestinian forces, which The New York Times is tracking. In terms of economics, the US deficit has effectively doubled in 2023 and investors are worried about a potential bond market milestone that could affect markets. Lastly, Supreme Court rulings have lifted limits on Biden officials&#39; contacts with tech platforms, as well as rejecting Missouri&#39;s effort to override federal gun laws.</p>
+There&#39;s a lot happening in the world right now. In the US, Republicans had to vote out their Speaker of the House Nominee, Jordan, leading to chaos and frustration in their party. The US government also has a widening deficit of 1.7 trillion. On the other hand, Biden and his aides are advising Israel to avoid a wide war with Hezbollah strike. There’s also a lot of fighting in Gaza with both sides targeting each other with airstrikes and ground warfare. On top of that, Kenneth Chesebro, a Trump-aligned lawyer, plead guilty in Georgia and this could undermine any possible defense for Trump in two other cases. Lastly, the Supreme Court lifted limits on Biden officials’ contact with tech platforms, which could pave the way for major rulings on how far the government can go to prevent misinformation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mainstream Republicans, ‘Squishes’ No More, Dig In Against Jordan</h3>
-<sub>By Catie Edmondson</sub>
-<p>Facing intimidation for opposing Jim Jordan’s speakership candidacy, mainstream Republicans are refusing to back down, defying their reputation for caving in the face of party clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<h3>Republicans Vote Out Jordan as Speaker Nominee, Continuing Chaos in House</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Republicans will meet again on Monday in an effort to find a new speaker from among a flurry of new candidates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chaos and Frustration Rule as Republicans’ Bitter Speaker Fight Deepens</h3>
+<sub>By Kayla Guo and Robert Jimison</sub>
+<p>With the House G.O.P. back to square one on electing a new speaker, tempers flared and uncertainty over how the impasse might be resolved only grew.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Live Count: Tracking the House Speaker Votes</h3>
@@ -75,9 +81,9 @@ The world is in a state of flux right now. In the US, President Biden has reques
 <sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Requests $105 Billion Aid Package for Israel, Ukraine and Other Crises</h3>
-<sub>By Michael D. Shear and Karoun Demirjian</sub>
-<p>The conflict in the Middle East has given President Biden a path to approving Ukraine aid that otherwise might have remained stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden and Aides Advise Israel to Avoid Widening War With Hezbollah Strike</h3>
+<sub>By Edward Wong, Ronen Bergman and Julian E. Barnes</sub>
+<p>U.S. officials learned that the Israeli defense minister and other military officials supported a pre-emptive strike on Hezbollah. Prime Minister Benjamin Netanyahu has been cautious.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ The world is in a state of flux right now. In the US, President Biden has reques
 <h3>Supreme Court Lifts Limits for Now on Biden Officials’ Contacts With Tech Platforms</h3>
 <sub>By Adam Liptak</sub>
 <p>The court also agreed to hear the administration’s appeal, paving the way for a major ruling on how far government can go to encourage sites to delete asserted misinformation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices Reject, for Now, Missouri’s Effort to Override Federal Gun Laws</h3>
-<sub>By Adam Liptak</sub>
-<p>The move blocked an expansive state law, the Second Amendment Preservation Act, and let stand a ruling that it was an unconstitutional attempt to nullify federal laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
