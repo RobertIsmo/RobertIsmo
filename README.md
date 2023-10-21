@@ -60,26 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 21, Central Standard Time</p>
 <p>
-Things are a bit chaotic in the US right now. Republicans just voted out Jordan as speaker nominee, leaving their house in chaos and frustration that&#39;s only growing. There&#39;s also an issue with the US deficit that&#39;s pretty pressing. Biden is reportedly advising Israel to avoid widening the war with Hezbollah by striking them as well, and we can track the attacks between Israelis and Palestinians on maps. On the other hand, there&#39;s also been a plea deal from Kenneth Chesebro, who was aligned with Trump -- this plea could potentially undermine Trump’s defense in both cases he&#39;s facing. Also, the Supreme Court has taken action to lift some limits on Biden officials’ contacts with tech platforms and to reject Missouri’s attempt to override federal gun laws, at least for the time being.</p>
+There are some significant events happening around the world right now. First, in the Middle East, Israel is preparing to invade Gaza while tensions are rising between the country and Hezbollah. We&#39;re also seeing an uptick in airstrikes and ground fighting between Israelis and Palestinians. Meanwhile, in US news, Republicans are still struggling to elect a new Speaker of the House after removing their primary candidate Jim Jordan from consideration. There&#39;s also been political chaos and frustration as they try to figure out how to move forward. Additionally, we’re seeing a surge in the US deficit which has effectively doubled this year, while legal battles over Donald Trump&#39;s election interference cases are intensifying with the recent guilty plea by a Trump-aligned lawyer. Internationally, South Korea experienced a Halloween tragedy last year that has resulted in little change or punishment for those responsible. Finally, the Supreme Court has lifted limits on Biden officials&#39; contacts with tech platforms related to misinformation and blocked a Missouri law that attempted to override federal gun laws.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Vote Out Jordan as Speaker Nominee, Continuing Chaos in House</h3>
-<sub>By Luke Broadwater</sub>
-<p>House Republicans will meet again on Monday in an effort to find a new speaker from among a flurry of new candidates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chaos and Frustration Rule as Republicans’ Bitter Speaker Fight Deepens</h3>
-<sub>By Kayla Guo and Robert Jimison</sub>
-<p>With the House G.O.P. back to square one on electing a new speaker, tempers flared and uncertainty over how the impasse might be resolved only grew.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Live Count: Tracking the House Speaker Votes</h3>
-<sub>By Lazaro Gamio, Martín González Gómez, Blacki Migliozzi, John-Michael Murphy, Elena Shao, Ashley Wu and Christine Zhang</sub>
-<p>Rep. Jim Jordan failed to win a majority in three votes on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and Aides Advise Israel to Avoid Widening War With Hezbollah Strike</h3>
 <sub>By Edward Wong, Ronen Bergman and Julian E. Barnes</sub>
@@ -97,6 +79,24 @@ Things are a bit chaotic in the US right now. Republicans just voted out Jordan 
 <sub>By New York Times Audio</sub>
 <p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Vote Out Jordan as Speaker Nominee, Continuing Chaos in House</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Republicans will meet again on Monday in an effort to find a new speaker from among a flurry of new candidates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chaos and Frustration Rule as Republicans’ Bitter Speaker Fight Deepens</h3>
+<sub>By Kayla Guo and Robert Jimison</sub>
+<p>With the House G.O.P. back to square one on electing a new speaker, tempers flared and uncertainty over how the impasse might be resolved only grew.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Live Count: Tracking the House Speaker Votes</h3>
+<sub>By Lazaro Gamio, Martín González Gómez, Blacki Migliozzi, John-Michael Murphy, Elena Shao, Ashley Wu and Christine Zhang</sub>
+<p>Rep. Jim Jordan failed to win a majority in three votes on the House floor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Deficit, Pegged at $1.7 Trillion, Effectively Doubled in 2023</h3>
