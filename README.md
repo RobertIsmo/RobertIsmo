@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 21, Central Standard Time</p>
 <p>
-Right now, there are a lot of conflicts around the world that people have strong opinions about. The US is facing arguments about how much they should get involved in an international conflict between Israel and Palestine and other issues abroad. On a more heartwarming note, a program connecting Muslims and Jews in Los Angeles has become strengthened through the war, despite the difficulties it causes. In addition, many House Republicans experienced chaos as they struggled to elect a new speaker. And, unfortunately, there is evidence that Russian forces have committed acts of rape and torture in Ukraine. But there have been some uplifting news as well - Bobby Charlton, a soccer great, passed away at 86 years old and will be remembered by his loved ones and fans alike.</p>
+There are a lot of international conflicts happening right now. The U.S. is being asked to take part in foreign conflicts, which many Americans feel weary about. There&#39;s also violence between Israelis and Palestinians, and there&#39;s evidence of rape and torture by Russian forces in Ukraine. In the U.S., Republicans are arguing about who should be the party&#39;s next speaker. Meanwhile, people are being forced to think carefully about how to handle money matters between friends. On the brighter side, a program that connects Muslims and Jews has brought them closer together despite the war. And soccer great Bobby Charlton recently died at 86.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Americans, Weary of Foreign Conflicts, Face Another</h3>
@@ -98,12 +98,6 @@ Right now, there are a lot of conflicts around the world that people have strong
 <p>Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chesebro’s Plea Deal Could Undermine a Possible Trump Defense in Two Cases</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The lawyer Kenneth Chesebro pleaded guilty in the Georgia election tampering case and is an unindicted co-conspirator in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>Are Fears of A.I. and Nuclear Apocalypse Keeping You Up? Blame Prometheus.</h3>
 <sub>By A.O. Scott</sub>
@@ -132,6 +126,12 @@ Right now, there are a lot of conflicts around the world that people have strong
 <h3>Bobby Charlton, a Soccer Great, Dies at 86</h3>
 <sub>By Mark A. Walsh</sub>
 <p>A mainstay of Manchester United and one of the game’s best-loved figures, he won the World Cup in 1966 and the European Cup in 1968.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Rich Donors and Loose Rules Are Transforming College Sports</h3>
+<sub>By David A. Fahrenthold and Billy Witz</sub>
+<p>A shift that allows booster groups to employ student-athletes has upended the economics of college football and other sports while giving many donors a tax break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
