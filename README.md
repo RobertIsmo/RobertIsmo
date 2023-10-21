@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 20, Central Standard Time</p>
 <p>
-There is a lot of political unrest in the United States right now. A group of mainstream Republicans are standing up against Jim Jordan&#39;s speakership candidacy despite intimidation from their party. President Biden has requested a $105 billion aid package for various crises around the world, and the UN is currently trying to negotiate terms for humanitarian aid to Gaza. In addition, the US government is facing a $1.7 trillion deficit and there has been an increase in bond market activity. Donald Trump was recently fined for breaking his gag order and the Supreme Court paused a ban on Biden officials&#39; contacts with tech platforms pending review. Lastly, Florida governor DeSantis’s campaign is helping to pay for private flights in an unusual move that may challenge campaign finance law.</p>
+The world is in a state of flux right now. In the US, President Biden has requested a $105 billion aid package to help countries like Israel and Ukraine. There&#39;s also been tension between mainstream Republicans and &#39;squishes&#39;, as they refuse to back down against speakership candidate Jim Jordan. On the world stage, there&#39;s an ongoing conflict in the Middle East between Israeli and Palestinian forces, which The New York Times is tracking. In terms of economics, the US deficit has effectively doubled in 2023 and investors are worried about a potential bond market milestone that could affect markets. Lastly, Supreme Court rulings have lifted limits on Biden officials&#39; contacts with tech platforms, as well as rejecting Missouri&#39;s effort to override federal gun laws.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Mainstream Republicans, ‘Squishes’ No More, Dig In Against Jordan</h3>
@@ -81,13 +81,19 @@ There is a lot of political unrest in the United States right now. A group of ma
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Food and Water Into Gaza Are Delayed as Talks Drag On, Officials Say</h3>
-<sub>By Matina Stevis-Gridneff and Vivian Yee</sub>
-<p>Egypt, Israel, the United States and the United Nations were still negotiating over thorny issues, including who would inspect the shipments for weapons, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
+<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel Prepares to Invade the Gaza Strip</h3>
+<sub>By New York Times Audio</sub>
+<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Treasury Report Shows $1.7 Trillion Deficit</h3>
+<h3>U.S. Deficit, Pegged at $1.7 Trillion, Effectively Doubled in 2023</h3>
 <sub>By Alan Rappeport and Jim Tankersley</sub>
 <p>The widening gap between what the government spends and what it earns comes as Congress continues to spar over the proper levels of federal spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
@@ -110,28 +116,22 @@ There is a lot of political unrest in the United States right now. A group of ma
 <p>Mr. Chesebro’s plea deal comes a day after Sidney Powell, another of Donald Trump’s co-defendants in the Georgia election interference case, took a guilty plea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Fined $5,000 for Breaking Gag Order by Leaving Abusive Post Online</h3>
-<sub>By Kate Christobek, Jonah E. Bromwich and Ben Protess</sub>
-<p>The former president used social media to attack a clerk for the judge in his civil fraud case, and left a copy of the post online for weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chesebro’s Plea Deal Could Undermine a Possible Trump Defense in Two Cases</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The lawyer Kenneth Chesebro pleaded guilty in the Georgia election tampering case and is an unindicted co-conspirator in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Pauses Ban on Biden Officials’ Contacts With Tech Platforms Pending Review</h3>
+<h3>Supreme Court Lifts Limits for Now on Biden Officials’ Contacts With Tech Platforms</h3>
 <sub>By Adam Liptak</sub>
-<p>The court agreed to hear the administration’s appeal, setting the stage for a major ruling on what the government may do to encourage sites to delete asserted misinformation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The court also agreed to hear the administration’s appeal, paving the way for a major ruling on how far government can go to encourage sites to delete asserted misinformation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justices Reject, for Now, Missouri’s Effort to Override Federal Gun Laws</h3>
 <sub>By Adam Liptak</sub>
 <p>The move blocked an expansive state law, the Second Amendment Preservation Act, and let stand a ruling that it was an unconstitutional attempt to nullify federal laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Super PAC Helps Pay for Private Flights, in Unusual Move</h3>
-<sub>By Rebecca Davis O’Brien, Nicholas Nehamas, Shane Goldmacher and Maggie Haberman</sub>
-<p>The Florida governor’s campaign, facing a cash crunch, has found a way to offload the steep costs of private air travel. Campaign finance experts say the arrangement could test the limits of the law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
