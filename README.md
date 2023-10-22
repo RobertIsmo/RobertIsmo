@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 21, Central Standard Time</p>
 <p>
-There are a lot of international conflicts happening right now. The U.S. is being asked to take part in foreign conflicts, which many Americans feel weary about. There&#39;s also violence between Israelis and Palestinians, and there&#39;s evidence of rape and torture by Russian forces in Ukraine. In the U.S., Republicans are arguing about who should be the party&#39;s next speaker. Meanwhile, people are being forced to think carefully about how to handle money matters between friends. On the brighter side, a program that connects Muslims and Jews has brought them closer together despite the war. And soccer great Bobby Charlton recently died at 86.</p>
+There is currently a lot of conflict in the world. In Gaza, two American hostages were released recently due to American and Qatari diplomacy and decisions made by Hamas. Americans are weary of being involved in foreign conflicts, however they need to decide how much of a role the US should play. In Israel and Gaza there have been airstrikes and ground fighting, while House Republicans are trying to manage their internal chaos. In Ukraine, there is evidence of rape and torture by Russian forces, and the US has been changing the way it categorizes race for 230 years. Additionally, Bobby Charlton, a soccer great, recently passed away at 86. Finally, donors are transforming college sports rules in ways that create tax breaks for them but upend economics at university level.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Two American Hostages Were Set Free From Gaza</h3>
+<sub>By Jeffrey Gettleman, Adam Goldman, Edward Wong and Ben Hubbard</sub>
+<p>It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Americans, Weary of Foreign Conflicts, Face Another</h3>
 <sub>By Shawn Hubler, Christian Boone, Dan Simmons, Nicholas Bogel-Burroughs and Jack Healy</sub>
 <p>Interviews with voters in key states show that while there is support for Israel and Ukraine, many are torn about how much the U.S. can or should be involved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I Love You. I Am Sorry’: One Jew, One Muslim and a Friendship Tested by War</h3>
-<sub>By Kurt Streeter</sub>
-<p>A Los Angeles program that connects Muslims and Jews has been strained by the war in Israel. But the group’s leaders found that it has strengthened their bond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,21 +87,21 @@ There are a lot of international conflicts happening right now. The U.S. is bein
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chaos and Frustration Rule as Republicans’ Bitter Speaker Fight Deepens</h3>
-<sub>By Kayla Guo and Robert Jimison</sub>
-<p>With the House G.O.P. back to square one on electing a new speaker, tempers flared and uncertainty over how the impasse might be resolved only grew.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Bush v. Gore to ‘Stop the Steal’: Kenneth Chesebro’s Long, Strange Trip</h3>
 <sub>By Elizabeth Williamson</sub>
 <p>Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Are Fears of A.I. and Nuclear Apocalypse Keeping You Up? Blame Prometheus.</h3>
-<sub>By A.O. Scott</sub>
-<p>How an ancient Greek myth explains our terrifying modern reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Ron DeSantis Lost the Internet</h3>
+<sub>By Ken Bensinger and Nicholas Nehamas</sub>
+<p>The G.O.P. contender’s campaign tried to take on Donald Trump’s online army. Now it just wants to end the meme wars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Do You Charge a Friend for a Professional Favor?</h3>
+<sub>By Sara Murphy</sub>
+<p>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,11 +116,11 @@ There are a lot of international conflicts happening right now. The U.S. is bein
 <p>A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Do You Charge a Friend for a Professional Favor?</h3>
-<sub>By Sara Murphy</sub>
-<p>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An American Puzzle: Fitting Race in a Box</h3>
+<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
+<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Bobby Charlton, a Soccer Great, Dies at 86</h3>
