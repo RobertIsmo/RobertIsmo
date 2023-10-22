@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, October 21, Central Standard Time</p>
+<p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Gaza, two American hostages have been set free after diplomatic efforts by the US and Qatar, and decisions made by Hamas. In other parts of the world, there is also violence between Israel and the Palestinians that is being tracked through maps by the New York Times. Closer to home, House Republicans have faced some chaos lately after the hard-line conservative was voted out. Meanwhile, there is a discussion around whether or not the US should be involved in foreign conflicts, especially in Ukraine. Lastly, Americans are talking about race and ethnicity and how it shapes the nation. For a break from all this news, we should remember Soccer great Bobby Charlton who passed away at 86.</p>
+Things in the world right now are quite worrying. The conflict between Israel and Gaza has resulted in two American hostages being set free, but it&#39;s unclear how our government is responding to it. In the U.S., people are weary of foreign conflicts and are conflicted about how much involvement our government should have. In Ukraine, there is evidence of rape and torture by Russian forces, while in Jordan, House Republicans are asking what comes next after a hard-line conservative was brought down. On a different note, climate change is also becoming an increasingly pressing issue and has even been affecting psychotherapy methods. Finally, the census categories for race and ethnicity have changed over the past 230 years which has transformed how the nation sees itself.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Two American Hostages Were Set Free From Gaza</h3>
@@ -87,21 +87,9 @@ There is a lot happening in the world right now. In Gaza, two American hostages 
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Bush v. Gore to ‘Stop the Steal’: Kenneth Chesebro’s Long, Strange Trip</h3>
-<sub>By Elizabeth Williamson</sub>
-<p>Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Ron DeSantis Lost the Internet</h3>
 <sub>By Ken Bensinger and Nicholas Nehamas</sub>
 <p>The G.O.P. contender’s campaign tried to take on Donald Trump’s online army. Now it just wants to end the meme wars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Do You Charge a Friend for a Professional Favor?</h3>
-<sub>By Sara Murphy</sub>
-<p>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,11 +104,17 @@ There is a lot happening in the world right now. In Gaza, two American hostages 
 <p>A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Do You Charge a Friend for a Professional Favor?</h3>
+<sub>By Sara Murphy</sub>
+<p>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An American Puzzle: Fitting Race in a Box</h3>
-<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
-<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<h3>From Bush v. Gore to ‘Stop the Steal’: Kenneth Chesebro’s Long, Strange Trip</h3>
+<sub>By Elizabeth Williamson</sub>
+<p>Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Bobby Charlton, a Soccer Great, Dies at 86</h3>
@@ -128,11 +122,17 @@ There is a lot happening in the world right now. In Gaza, two American hostages 
 <p>A mainstay of Manchester United and one of the game’s best-loved figures, he won the World Cup in 1966 and the European Cup in 1968.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Rich Donors and Loose Rules Are Transforming College Sports</h3>
-<sub>By David A. Fahrenthold and Billy Witz</sub>
-<p>A shift that allows booster groups to employ student-athletes has upended the economics of college football and other sports while giving many donors a tax break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Climate Change Is Keeping Therapists Up at Night</h3>
+<sub>By Brooke Jarvis</sub>
+<p>How anxiety about the planet’s future is transforming the practice of psychotherapy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An American Puzzle: Fitting Race in a Box</h3>
+<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
+<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
