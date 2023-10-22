@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-There are some interesting things going on across the world right now. In Gaza, two American hostages have been freed thanks to diplomacy from the United States and Qatar. Meanwhile, Ukraine and Israel both need weapons from the US to fight their respective wars. Peace is somehow returning to the Holy Land after recent events. In addition, there have been some commando raids against Russia in Crimea and a missile strike in Ukraine that killed six workers at a postal depot. On a more positive note, North Carolina is seeing an increase in native knowledge now that people are wanting to learn from the Cherokee Indians. Also, Spain is currently having to get its drinking water from tankers due to a dried up reservoir, something they have had to do since April. Finally, Saturday Night Live had Bad Bunny as its host and musical guest this past weekend, and he has released his fifth solo album too!</p>
+Right now, there&#39;s fighting happening in both Israel and Ukraine, with the U.S looking to provide weapons systems to both countries. Militant group Hamas recently released two American hostages after U.S and Qatari diplomacy. There&#39;s hope for a potential opportunity of peace between Israelis and Palestinians as the dust settles from the attack. In Crimea, commando raids have been unnerving Russia and in Ukraine, a missile strike has killed six workers at a postal depot near the Russian border. Things are a bit calmer on other fronts: In North Carolina, native Cheorkee Indians are teaching visitors about their culture while in Spain, villagers are relying on tankers for their drinking water after a reservoir dried up. A lot of interesting people have been making appearances lately - Bad Bunny was the host and musical guest on Saturday Night Live and Mick Jagger made a cameo! Jada Pinkett Smith also gave an interview and the classic horror film The Exorcist is celebrating it 50th anniversary. Lastly, Argentina just held an election with five cloned dogs running for office!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Two American Hostages Were Set Free From Gaza</h3>
-<sub>By Jeffrey Gettleman, Adam Goldman, Edward Wong and Ben Hubbard</sub>
-<p>It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Three Weapons That Israel and Ukraine Both Need From the U.S.</h3>
 <sub>By Lara Jakes and Eric Schmitt</sub>
 <p>Ukraine and Israel are fighting different kinds of wars, but some weapons systems could soon be in short supply if the fighting continues for months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Two American Hostages Were Set Free From Gaza</h3>
+<sub>By Jeffrey Gettleman, Adam Goldman, Edward Wong and Ben Hubbard</sub>
+<p>It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Peace, a Forgotten Word, Renews its Claim in the Holy Land</h3>
