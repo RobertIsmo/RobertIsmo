@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-Right now, there is a lot of turmoil in different parts of the world. Ukraine and Israel are in armed conflicts, and American and Qatari diplomacy recently allowed two hostages to be freed from Gaza. It seems like an opportunity for peace might be arising in the middle east. Meanwhile, in Crimea, Russia is being subjected to lightning assaults from commando raids that seek to deter them. In Ukraine, a missile strike killed six workers at a postal depot located just outside Kharkiv and 20 miles away from Russia&#39;s border. And although violence is seemingly everywhere, progress is still being made: for example, Anthony Pratt - one of Australia&#39;s wealthiest men - used money and flattery to gain access to Donald Trump&#39;s inner circle, spawning an investigation that could lead to national security improvements. Closer to home, George Santos - a politician avoiding reporters - suddenly ended months of silence and began a conversation with one. 
-
-In terms of entertainment, Martin Scorsese&#39;s newest film &#39;Killers of the Flower Moon&#39; earned an estimated $23 million at the box office, proving that despite its length it was able to be successful with little promotion by its actors. It has been receiving great reviews as a romantic western whodunit with blunt truths about the bloody history of the Osage murders during the 1920s. Therapists have also been noticing more mental health issues due to climate change, so it looks like combating global warming should be prioritized even more dearly.</p>
+Right now, the world is in a state of chaos. Israel and Ukraine are in need of weapons from the US for their different wars, and American and Qatari diplomats have recently managed to free two hostages from Gaza. There has been renewed hope for peace in the Holy Land, but it is still uncertain what this will mean for the future. On the other hand, it&#39;s been revealed that Donald Trump had access to wealthy Australians who may be of interest to federal prosecutors. Then looking around the globe, there have been small raids by commandos that are unnerving Russia in Crimea, missile strikes by Ukraine that killed six postal workers, and heightened tension among therapies over climate change. Finally, movie lovers have been excitedly talking about Martin Scorsese&#39;s latest release &#39;Killers of the Flower Moon&#39; which has been met with good reviews and surprisingly strong box office results.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Three Weapons That Israel and Ukraine Both Need From the U.S.</h3>
@@ -83,6 +81,12 @@ In terms of entertainment, Martin Scorsese&#39;s newest film &#39;Killers of the
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A President, a Billionaire and Questions About Access and National Security</h3>
+<sub>By Ben Protess, Jonathan Swan, Maggie Haberman and Alan Feuer</sub>
+<p>Anthony Pratt, one of Australia’s wealthiest men, made his way into Donald Trump’s inner circle with money and flattery. What he heard there has become of interest to federal prosecutors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Meet the Republicans Running for Speaker</h3>
 <sub>By Catie Edmondson and Luke Broadwater</sub>
 <p>The lawmakers vying for the job include veterans of the House, committee chairmen, a top member of Republican leadership and a sophomore.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -98,12 +102,6 @@ In terms of entertainment, Martin Scorsese&#39;s newest film &#39;Killers of the
 <h3>Missile Strike Kills Six Workers at Postal Depot, Ukraine Says</h3>
 <sub>By Matthew Mpoke Bigg</sub>
 <p>The facility, on the outskirts of the eastern city of Kharkiv, was far from the front line but only about 20 miles from Russia’s border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A President, a Billionaire and Questions About Access and National Security</h3>
-<sub>By Ben Protess, Jonathan Swan, Maggie Haberman and Alan Feuer</sub>
-<p>Anthony Pratt, one of Australia’s wealthiest men, made his way into Donald Trump’s inner circle with money and flattery. What he heard there has become of interest to federal prosecutors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
