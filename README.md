@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-Things in the world right now are quite worrying. The conflict between Israel and Gaza has resulted in two American hostages being set free, but it&#39;s unclear how our government is responding to it. In the U.S., people are weary of foreign conflicts and are conflicted about how much involvement our government should have. In Ukraine, there is evidence of rape and torture by Russian forces, while in Jordan, House Republicans are asking what comes next after a hard-line conservative was brought down. On a different note, climate change is also becoming an increasingly pressing issue and has even been affecting psychotherapy methods. Finally, the census categories for race and ethnicity have changed over the past 230 years which has transformed how the nation sees itself.</p>
+There&#39;s a lot happening around the world right now. In Gaza, two American hostages were released thanks to diplomacy from both the US and Qatar, as well as self-interested decisions by Hamas. The US has also sent more missile defense systems to the Middle East in response to growing threats from Iran and its allies. Americans are weary of foreign conflicts when it comes to Israel and Ukraine. In the US, after Jordan Falls, House Republicans are asking what’s next as they try to stem chaos within their party. Additionally, there is evidence of rape and torture by Russian forces in Ukraine that was found in a U.N. report. Lastly, England soccer legend Bobby Charlton passed away at the age of 86.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Two American Hostages Were Set Free From Gaza</h3>
@@ -68,17 +68,17 @@ Things in the world right now are quite worrying. The conflict between Israel an
 <p>It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Sends More Missile Defense Systems to Middle East</h3>
+<sub>By Andrés R. Martínez</sub>
+<p>The latest deployment is in response to growing threats from Iran and its allies in the region. President Biden has warned Iran to not join the war against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Americans, Weary of Foreign Conflicts, Face Another</h3>
 <sub>By Shawn Hubler, Christian Boone, Dan Simmons, Nicholas Bogel-Burroughs and Jack Healy</sub>
 <p>Interviews with voters in key states show that while there is support for Israel and Ukraine, many are torn about how much the U.S. can or should be involved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
-<p>The New York Times is tracking airstrikes and ground fighting between Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Jordan Falls, House Republicans Ask Who, and What, Is Next</h3>
