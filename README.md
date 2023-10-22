@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-There&#39;s a lot happening around the world right now. In Gaza, two American hostages were released thanks to diplomacy from both the US and Qatar, as well as self-interested decisions by Hamas. The US has also sent more missile defense systems to the Middle East in response to growing threats from Iran and its allies. Americans are weary of foreign conflicts when it comes to Israel and Ukraine. In the US, after Jordan Falls, House Republicans are asking what’s next as they try to stem chaos within their party. Additionally, there is evidence of rape and torture by Russian forces in Ukraine that was found in a U.N. report. Lastly, England soccer legend Bobby Charlton passed away at the age of 86.</p>
+There are some interesting things going on across the world right now. In Gaza, two American hostages have been freed thanks to diplomacy from the United States and Qatar. Meanwhile, Ukraine and Israel both need weapons from the US to fight their respective wars. Peace is somehow returning to the Holy Land after recent events. In addition, there have been some commando raids against Russia in Crimea and a missile strike in Ukraine that killed six workers at a postal depot. On a more positive note, North Carolina is seeing an increase in native knowledge now that people are wanting to learn from the Cherokee Indians. Also, Spain is currently having to get its drinking water from tankers due to a dried up reservoir, something they have had to do since April. Finally, Saturday Night Live had Bad Bunny as its host and musical guest this past weekend, and he has released his fifth solo album too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Two American Hostages Were Set Free From Gaza</h3>
@@ -68,71 +68,71 @@ There&#39;s a lot happening around the world right now. In Gaza, two American ho
 <p>It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Three Weapons That Israel and Ukraine Both Need From the U.S.</h3>
+<sub>By Lara Jakes and Eric Schmitt</sub>
+<p>Ukraine and Israel are fighting different kinds of wars, but some weapons systems could soon be in short supply if the fighting continues for months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Sends More Missile Defense Systems to Middle East</h3>
-<sub>By Andrés R. Martínez</sub>
-<p>The latest deployment is in response to growing threats from Iran and its allies in the region. President Biden has warned Iran to not join the war against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Peace, a Forgotten Word, Renews its Claim in the Holy Land</h3>
+<sub>By Roger Cohen</sub>
+<p>Long derided as naïve, even traitors, the bridge builders between Israelis and Palestinians sense opportunity in the aftermath of the Hamas attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Americans, Weary of Foreign Conflicts, Face Another</h3>
-<sub>By Shawn Hubler, Christian Boone, Dan Simmons, Nicholas Bogel-Burroughs and Jack Healy</sub>
-<p>Interviews with voters in key states show that while there is support for Israel and Ukraine, many are torn about how much the U.S. can or should be involved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Jordan Falls, House Republicans Ask Who, and What, Is Next</h3>
-<sub>By Carl Hulse</sub>
-<p>A band of more mainstream Republicans brought down the hard-line conservative, but the G.O.P. has hardly stemmed the chaos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Ron DeSantis Lost the Internet</h3>
-<sub>By Ken Bensinger and Nicholas Nehamas</sub>
-<p>The G.O.P. contender’s campaign tried to take on Donald Trump’s online army. Now it just wants to end the meme wars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<h3>Meet the Republicans Running for Speaker</h3>
+<sub>By Catie Edmondson and Luke Broadwater</sub>
+<p>The lawmakers vying for the job include veterans of the House, committee chairmen, a top member of Republican leadership and a sophomore.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine, a Sniper Mission and the Myth of the ‘Good Kill’</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>A New York Times reporter who is a former Marine has a conversation with a Ukrainian sniper about morality in war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<h3>Inside the Commando Raids Unnerving Russia in Crimea</h3>
+<sub>By Carlotta Gall and Oleksandr Chubko</sub>
+<p>The lightning assaults are part of a larger campaign using drones and missiles to degrade Russian forces and demoralize the public.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>New Evidence Found of Rape and Torture by Russian Forces in Ukraine</h3>
-<sub>By Constant Méheut</sub>
-<p>A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Do You Charge a Friend for a Professional Favor?</h3>
-<sub>By Sara Murphy</sub>
-<p>Despite the adage that friends and money don’t mix, the arrangement can have unique benefits — as long as the boundaries are clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<h3>Missile Strike Kills Six Workers at Postal Depot, Ukraine Says</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The facility, on the outskirts of the eastern city of Kharkiv, was far from the front line but only about 20 miles from Russia’s border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Bush v. Gore to ‘Stop the Steal’: Kenneth Chesebro’s Long, Strange Trip</h3>
-<sub>By Elizabeth Williamson</sub>
-<p>Mr. Chesebro, a buttoned-down Harvard lawyer, evolved from left-leaning jurist to key player in the Trump false electors scandal. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Seeds of Native Knowledge Grow in North Carolina</h3>
+<sub>By Jacey Fortin and Mike Belleme</sub>
+<p>Countless generations of Cherokee Indians have cultivated lands in the shadow of the Smoky Mountains. More people want to learn from them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Bobby Charlton, a Soccer Great, Dies at 86</h3>
-<sub>By Mark A. Walsh</sub>
-<p>A mainstay of Manchester United and one of the game’s best-loved figures, he won the World Cup in 1966 and the European Cup in 1968.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Swore He’d Never Talk to Me. Then the Phone Rang.</h3>
+<sub>By Grace Ashford</sub>
+<p>Ending months of silence, the politician began an unusual dialogue with a reporter he had long avoided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Climate Change Is Keeping Therapists Up at Night</h3>
-<sub>By Brooke Jarvis</sub>
-<p>How anxiety about the planet’s future is transforming the practice of psychotherapy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Glimpse Into Spain’s Future, Where Water Comes by Truck, Not Tap</h3>
+<sub>By Rachel Chaundler</sub>
+<p>Residents of Pozoblanco and 22 other villages in the country’s south have had to get their drinking water from tankers since April, when the reservoir serving the area dried up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An American Puzzle: Fitting Race in a Box</h3>
-<sub>By K.K. Rebecca Lai and Jennifer Medina</sub>
-<p>Census categories for race and ethnicity have shaped how the nation sees itself. Here’s how they have changed over the last 230 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘S.N.L’ Welcomes Bad Bunny and Mick Jagger</h3>
+<sub>By Dave Itzkoff</sub>
+<p>Bad Bunny was the host and musical guest in an episode that included cameos from Jagger and Pedro Pascal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Bad Bunny Looks Back and Hunkers Down</h3>
+<sub>By Jon Pareles</sub>
+<p>On his fifth solo album, “Nadie Sabe Lo Que Va a Pasar Mañana,” the Puerto Rican megastar circles back to where he started.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>The five cloned dogs in Argentina’s election. Also: an interview with Jada Pinkett Smith and  “The Exorcist” at 50.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
