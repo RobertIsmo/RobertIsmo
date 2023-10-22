@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-Right now, there&#39;s fighting happening in both Israel and Ukraine, with the U.S looking to provide weapons systems to both countries. Militant group Hamas recently released two American hostages after U.S and Qatari diplomacy. There&#39;s hope for a potential opportunity of peace between Israelis and Palestinians as the dust settles from the attack. In Crimea, commando raids have been unnerving Russia and in Ukraine, a missile strike has killed six workers at a postal depot near the Russian border. Things are a bit calmer on other fronts: In North Carolina, native Cheorkee Indians are teaching visitors about their culture while in Spain, villagers are relying on tankers for their drinking water after a reservoir dried up. A lot of interesting people have been making appearances lately - Bad Bunny was the host and musical guest on Saturday Night Live and Mick Jagger made a cameo! Jada Pinkett Smith also gave an interview and the classic horror film The Exorcist is celebrating it 50th anniversary. Lastly, Argentina just held an election with five cloned dogs running for office!</p>
+Right now, there is a lot of turmoil in different parts of the world. Ukraine and Israel are in armed conflicts, and American and Qatari diplomacy recently allowed two hostages to be freed from Gaza. It seems like an opportunity for peace might be arising in the middle east. Meanwhile, in Crimea, Russia is being subjected to lightning assaults from commando raids that seek to deter them. In Ukraine, a missile strike killed six workers at a postal depot located just outside Kharkiv and 20 miles away from Russia&#39;s border. And although violence is seemingly everywhere, progress is still being made: for example, Anthony Pratt - one of Australia&#39;s wealthiest men - used money and flattery to gain access to Donald Trump&#39;s inner circle, spawning an investigation that could lead to national security improvements. Closer to home, George Santos - a politician avoiding reporters - suddenly ended months of silence and began a conversation with one. 
+
+In terms of entertainment, Martin Scorsese&#39;s newest film &#39;Killers of the Flower Moon&#39; earned an estimated $23 million at the box office, proving that despite its length it was able to be successful with little promotion by its actors. It has been receiving great reviews as a romantic western whodunit with blunt truths about the bloody history of the Osage murders during the 1920s. Therapists have also been noticing more mental health issues due to climate change, so it looks like combating global warming should be prioritized even more dearly.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Three Weapons That Israel and Ukraine Both Need From the U.S.</h3>
@@ -99,10 +101,10 @@ Right now, there&#39;s fighting happening in both Israel and Ukraine, with the U
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Seeds of Native Knowledge Grow in North Carolina</h3>
-<sub>By Jacey Fortin and Mike Belleme</sub>
-<p>Countless generations of Cherokee Indians have cultivated lands in the shadow of the Smoky Mountains. More people want to learn from them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<h3>A President, a Billionaire and Questions About Access and National Security</h3>
+<sub>By Ben Protess, Jonathan Swan, Maggie Haberman and Alan Feuer</sub>
+<p>Anthony Pratt, one of Australia’s wealthiest men, made his way into Donald Trump’s inner circle with money and flattery. What he heard there has become of interest to federal prosecutors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Swore He’d Never Talk to Me. Then the Phone Rang.</h3>
@@ -110,29 +112,29 @@ Right now, there&#39;s fighting happening in both Israel and Ukraine, with the U
 <p>Ending months of silence, the politician began an unusual dialogue with a reporter he had long avoided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Glimpse Into Spain’s Future, Where Water Comes by Truck, Not Tap</h3>
-<sub>By Rachel Chaundler</sub>
-<p>Residents of Pozoblanco and 22 other villages in the country’s south have had to get their drinking water from tankers since April, when the reservoir serving the area dried up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Climate Change Is Keeping Therapists Up at Night</h3>
+<sub>By Brooke Jarvis</sub>
+<p>How anxiety about the planet’s future is transforming the practice of psychotherapy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>From ‘Goodfellas’ to ‘Flower Moon’: How Scorsese Has Rethought Violence</h3>
+<sub>By Jason Bailey</sub>
+<p>The director was long identified with ornately edited set pieces. In “The Irishman” and his latest film, the flourishes have given way to blunt truths.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘S.N.L’ Welcomes Bad Bunny and Mick Jagger</h3>
-<sub>By Dave Itzkoff</sub>
-<p>Bad Bunny was the host and musical guest in an episode that included cameos from Jagger and Pedro Pascal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Killers of the Flower Moon’ Review: An Unsettling Masterpiece</h3>
+<sub>By Manohla Dargis</sub>
+<p>Martin Scorsese’s three-and-a-half-hour epic, starring Leonardo DiCaprio, is a romance, a western, a whodunit and a lesson in the bloody history of the Osage murders of the 1920s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Strong First Weekend for ‘Killers,’ but Taylor Swift Was Still No. 1</h3>
+<sub>By Nicole Sperling</sub>
+<p>The Scorsese film’s estimated $23 million in the North American box office was a special feat considering its length and the lack of promotion by its actors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Bad Bunny Looks Back and Hunkers Down</h3>
-<sub>By Jon Pareles</sub>
-<p>On his fifth solo album, “Nadie Sabe Lo Que Va a Pasar Mañana,” the Puerto Rican megastar circles back to where he started.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>The five cloned dogs in Argentina’s election. Also: an interview with Jada Pinkett Smith and  “The Exorcist” at 50.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
