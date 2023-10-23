@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-In the U.S., the Biden administration is advising Israel to delay its invasion of Gaza in order to allow time for negotiations and aid to the Palestinians while Hamas claims that Israel was behind an explosion that killed hundreds of people at a hospital in Gaza City—a claim which Israel denies. In addition, an Israeli reservist from Maryland was recently killed near the Lebanon border. Back home, there are questions concerning a billionaire&#39;s access to Trump with national security implications. Several Republicans are running for Speaker of the House and multiple other stories around the world can be mentioned too—such as commando raids startling Russia in Crimea, a missile strike killing 6 workers at a postal depot in Ukraine, and a few events related to climate change and movie releases.</p>
+There&#39;s a lot going on in the world right now. In the Middle East, the Biden administration has asked Israel to delay invading Gaza while they negotiate for hostages and deliver aid to Palestinians. Meanwhile, there&#39;s been an anti-tank missile attack from Lebanon that killed an Israeli reservist from Maryland, which the Israeli military is attributing to Hamas. In Australia, a billionaire has access to Donald Trump’s inner circle and federal prosecutors are looking into what happened there. On top of all that, Russia is being unnerved by commando raids in Crimea challenging their presence there. Moreover, climate change is causing a lot of anxiety and changed psychotherapy practices and in the US several Republicans are vying for House Speaker. Finally, back in the Middle East, Jews around the world are discussing their reactions to Hamas&#39; attacks on Israel and whether or not killing Gazan children is necessary to protect Israeli children.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Advises Israel to Delay Gaza Invasion, Officials Say</h3>
@@ -98,12 +98,6 @@ In the U.S., the Biden administration is advising Israel to delay its invasion o
 <p>The lightning assaults are part of a larger campaign using drones and missiles to degrade Russian forces and demoralize the public.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Missile Strike Kills Six Workers at Postal Depot, Ukraine Says</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The facility, on the outskirts of the eastern city of Kharkiv, was far from the front line but only about 20 miles from Russia’s border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos Swore He’d Never Talk to Me. Then the Phone Rang.</h3>
 <sub>By Grace Ashford</sub>
@@ -128,11 +122,17 @@ In the U.S., the Biden administration is advising Israel to delay its invasion o
 <p>Martin Scorsese’s three-and-a-half-hour epic, starring Leonardo DiCaprio, is a romance, a western, a whodunit and a lesson in the bloody history of the Osage murders of the 1920s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Strong First Weekend for ‘Killers,’ but Taylor Swift Was Still No. 1</h3>
-<sub>By Nicole Sperling</sub>
-<p>The Scorsese film’s estimated $23 million in the North American box office was a special feat considering its length and the lack of promotion by its actors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Why Jews Cannot Stop Shaking Right Now</h3>
+<sub>By Dara Horn</sub>
+<p>The reverberations of pogroms past are shaping the reaction of Jews to Hamas’s attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>We Must Not Kill Gazan Children to Try to Protect Israel’s Children</h3>
+<sub>By Nicholas Kristof</sub>
+<p>If all lives have equal value, why do we treat Palestinian civilians as lesser victims, devalued by association with Hamas terrorism?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
