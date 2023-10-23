@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 23, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest in the Middle East. The United States has advised Israel to delay a Gaza invasion while more time is needed to negotiate and deliver aid to Palestinians. Hamas failed to make the case that Israel struck a hospital in Gaza which killed hundreds, while Israel said the explosion was caused by a Palestinian rocket instead. There was another incident near Lebanon border where an Israeli reservist from Maryland, Omer Balva, was killed when his unit was hit with anti-tank missile fire. 
-
-Additionally, President Donald Trump is under scrutiny due to questions of potential access and national security with Australia&#39;s wealthiest man Anthony Pratt. Republicans are also running for speaker of the House, and there have been commando raids against Russian forces near Crimea. 
-
-On an environmental note, there are efforts being made to support migrants in Britain which has been driving positive outcomes for the population living outside of the immigration system. Unfortunately, this project has come to an end due to political reasons. Lastly, climate change is having an effect on psychotherapy as it&#39;s keeping therapists up at night concerning the future of our planet.</p>
+Right now, the U.S. is advising Israel to delay an invasion of Gaza, while developing countries are seeing a double standard in the west&#39;s actions in Gaza and Ukraine. In Hamas is failing to prove that Israel struck a hospital in Gaza City which killed hundreds of people. In the U.S., Republicans are grappling with being without a speaker, and there is still no house speaker, leading to questions of what will happen next. Meanwhile, tensions in Ukraine remain exceedingly violent and high-interest rates are starting to sting bakers, farmers and consumers across the nation. Lastly, data from the SAT is highlighting deep educational inequality within American education systems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Advises Israel to Delay Gaza Invasion, Officials Say</h3>
@@ -72,23 +68,29 @@ On an environmental note, there are efforts being made to support migrants in Br
 <p>The Biden administration has suggested that more time is needed for hostage negotiations, the delivery of aid to Palestinians and mapping out ways to avoid more civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Developing World Sees Double Standard in West’s Actions in Gaza and Ukraine</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>Resentments are complicating calls by the Biden administration to rally the world against efforts to “annihilate” democracies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hamas Fails to Make Case That Israel Struck Hospital</h3>
 <sub>By Patrick Kingsley and Aaron Boxerman</sub>
 <p>A senior Hamas official says “nothing is left” of the munition that hit the Ahli Arab hospital in Gaza City last week, killing hundreds. Israel says the explosion was caused by a misfired Palestinian rocket.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Reservist From Maryland Is Killed Near Lebanon Border</h3>
-<sub>By Amanda Holpuch</sub>
-<p>Omer Balva, 22, was among the 360,000 reservists Israel had mobilized. He was near Israel’s northern border when his unit was struck by anti-tank missile fire, the Israeli military said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A President, a Billionaire and Questions About Access and National Security</h3>
-<sub>By Ben Protess, Jonathan Swan, Maggie Haberman and Alan Feuer</sub>
-<p>Anthony Pratt, one of Australia’s wealthiest men, made his way into Donald Trump’s inner circle with money and flattery. What he heard there has become of interest to federal prosecutors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<h3>Republicans Grapple With Being Speakerless, but Effectively Leaderless, Too</h3>
+<sub>By Lisa Lerer and Michael C. Bender</sub>
+<p>With a speaker fight in the House, concerns about an aging Senate leader and a 2024 front-runner who has the party in a vise grip, some G.O.P. members worry the turmoil could have long-term effects.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Problem With a $2 Trillion Deficit</h3>
+<sub>By Michael Barbaro, Alex Stern, Eric Krupke, Summer Thomad, Jessica Cheung, Sydney Harper, Marc Georges, Lisa Chow, Elisheba Ittoop, Marion Lozano and Chris Wood</sub>
+<p>The growing deficit has been at the center of the fight over choosing a House speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Meet the Republicans Running for Speaker</h3>
@@ -96,47 +98,41 @@ On an environmental note, there are efforts being made to support migrants in Br
 <p>The lawmakers vying for the job include veterans of the House, committee chairmen, a top member of Republican leadership and a sophomore.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Inside the Commando Raids Unnerving Russia in Crimea</h3>
-<sub>By Carlotta Gall and Oleksandr Chubko</sub>
-<p>The lightning assaults are part of a larger campaign using drones and missiles to degrade Russian forces and demoralize the public.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope.</h3>
-<sub>By Melissa Clark</sub>
-<p>Land-based aquaculture is still coming into its own, but it stands to upend an industry plagued by environmental concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>There’s Still No House Speaker. What Happens Now?</h3>
+<sub>By Catie Edmondson and Annie Karni</sub>
+<p>The House has been without a permanent speaker since Oct. 3. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Project Supporting Migrants Was Cost Effective. Why Did It End?</h3>
-<sub>By Megan Specia</sub>
-<p>Britain tested an alternative to detention for people living outside the immigration system. Though praised by the U.N., its outcomes didn’t fit the government’s hard-line approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Kill and Be Killed: Ukraine’s Bloody Battlefield Equation</h3>
+<sub>By Marc Santora and Constant Méheut</sub>
+<p>The dynamics of Europe’s deadliest war in generations remain exceedingly violent and increasingly complicated by factors far from the battlefield.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The 25 Best Restaurants in Philadelphia Right Now</h3>
+<sub>By Regan Stephens, Nikita Richardson, Brett Anderson, Priya Krishna and Sara Bonisteel</sub>
+<p>The dining scene here is having a moment, whether it’s outstanding pizza, fiery Ethiopian fried chicken or French inflected cuisine that feels like a cozy dinner party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Ozempic and Wegovy Don’t Cost What You Think They Do</h3>
+<sub>By Gina Kolata</sub>
+<p>Drug companies are making billions from a new class of in-demand weight-loss treatments. But the prices are not what they seem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Climate Change Is Keeping Therapists Up at Night</h3>
-<sub>By Brooke Jarvis</sub>
-<p>How anxiety about the planet’s future is transforming the practice of psychotherapy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How High Interest Rates Sting Bakers, Farmers and Consumers</h3>
+<sub>By Lydia DePillis</sub>
+<p>Everyone who relies on credit in America is confronting a new reality: Money will cost more for a good long while.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>From ‘Goodfellas’ to ‘Flower Moon’: How Scorsese Has Rethought Violence</h3>
-<sub>By Jason Bailey</sub>
-<p>The director was long identified with ornately edited set pieces. In “The Irishman” and his latest film, the flourishes have given way to blunt truths.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Killers of the Flower Moon’ Review: An Unsettling Masterpiece</h3>
-<sub>By Manohla Dargis</sub>
-<p>Martin Scorsese’s three-and-a-half-hour epic, starring Leonardo DiCaprio, is a romance, a western, a whodunit and a lesson in the bloody history of the Osage murders of the 1920s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Why Jews Cannot Stop Shaking Right Now</h3>
-<sub>By Dara Horn</sub>
-<p>The reverberations of pogroms past are shaping the reaction of Jews to Hamas’s attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
+<sub>By Claire Cain Miller and Francesca Paris</sub>
+<p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
