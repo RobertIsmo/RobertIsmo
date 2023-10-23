@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, October 22, Central Standard Time</p>
+<p>It is Monday, October 23, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the Middle East, the Biden administration has asked Israel to delay invading Gaza while they negotiate for hostages and deliver aid to Palestinians. Meanwhile, there&#39;s been an anti-tank missile attack from Lebanon that killed an Israeli reservist from Maryland, which the Israeli military is attributing to Hamas. In Australia, a billionaire has access to Donald Trump’s inner circle and federal prosecutors are looking into what happened there. On top of all that, Russia is being unnerved by commando raids in Crimea challenging their presence there. Moreover, climate change is causing a lot of anxiety and changed psychotherapy practices and in the US several Republicans are vying for House Speaker. Finally, back in the Middle East, Jews around the world are discussing their reactions to Hamas&#39; attacks on Israel and whether or not killing Gazan children is necessary to protect Israeli children.</p>
+Right now, tensions between the US and Israel are high as the Biden administration is advising that Israel should not go ahead with its invasion of Gaza until more time is taken for hostage negotiations, delivery of aid to Palestinians, and avoiding civilian casualties. Hamas has failed to make a case that Israel struck a hospital in Gaza City, killing hundreds. An Israeli reservist from Maryland, Omer Balva, was killed near Lebanon border when his unit was hit by anti-tank missile fire. Meanwhile, in the US, there are questions of access and national security around an Australian billionaire who has made his way into Donald Trump&#39;s inner circle. There are also Republicans running for Speaker in the House. In Crimea, there have been commando raids by Russia that are trying to degrade their forces and demoralize the public. In terms of food supply, land based aquaculture may be able to reduce costs and environmental damage related to salmon farms. And Britain tested something called an alternative to detention system for people living outside its immigration system, but it has since ended due to government hard-line approaches. Finally, climate change is keeping therapists up at night as it is transforming psychotherapy practices, while Martin Scorsese directs a movie called Killers of the Flower Moon which looks at Osage murders in the 1920s and opinions of Jews on Hamas&#39; attacks on Israel reverberating from pogroms past.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Advises Israel to Delay Gaza Invasion, Officials Say</h3>
@@ -98,10 +98,16 @@ There&#39;s a lot going on in the world right now. In the Middle East, the Biden
 <p>The lightning assaults are part of a larger campaign using drones and missiles to degrade Russian forces and demoralize the public.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Swore He’d Never Talk to Me. Then the Phone Rang.</h3>
-<sub>By Grace Ashford</sub>
-<p>Ending months of silence, the politician began an unusual dialogue with a reporter he had long avoided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Salmon on Your Plate Has a Troubling Cost. These Farms Offer Hope.</h3>
+<sub>By Melissa Clark</sub>
+<p>Land-based aquaculture is still coming into its own, but it stands to upend an industry plagued by environmental concerns.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Project Supporting Migrants Was Cost Effective. Why Did It End?</h3>
+<sub>By Megan Specia</sub>
+<p>Britain tested an alternative to detention for people living outside the immigration system. Though praised by the U.N., its outcomes didn’t fit the government’s hard-line approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot going on in the world right now. In the Middle East, the Biden
 <sub>By Dara Horn</sub>
 <p>The reverberations of pogroms past are shaping the reaction of Jews to Hamas’s attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>We Must Not Kill Gazan Children to Try to Protect Israel’s Children</h3>
-<sub>By Nicholas Kristof</sub>
-<p>If all lives have equal value, why do we treat Palestinian civilians as lesser victims, devalued by association with Hamas terrorism?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
