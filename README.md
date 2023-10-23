@@ -60,8 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the Middle East there is a conflict between Israel and Palestine that has changed how people are viewing it. There are double standards in western actions in Gaza and Ukraine that are causing resentment. In the US, there is no Speaker of the House. This has led to some long-term concerns about Republican leadership. The United Automobile Workers union is striking for better wages at a Ram plant in Michigan, and non-union workers are also playing a big part. On the SATs, there is a deep inequality between rich and poor children that starts very early. Additionally, drug companies are making billions from weight-loss treatments even though they don&#39;t cost what people think they do. Finally, there have been fake Trump signs as well as a fight over them in a wealthy town which lasted years. 
-Another positive point is that Philadelphia&#39;s dining scene is having a moment, with great pizza, fried chicken and French cuisine!</p>
+There is a lot happening in the world right now. War has broken out between Israel and the Palestinians, with both sides facing an uncertain future and Washington having to take action. In other parts of the world, tensions have been rising between the West and other countries, with criticisms over a double standard in how they&#39;re treated. In politics, Republicans are currently facing a power struggle over who will be their next speaker of the house - with Jim Jordan&#39;s bid showing the strength of the ultraconservative faction - as well as worries about an ageing Senate leader. Meanwhile, in wealthy towns across America there have been reports of fake Trump signs used in either pranks or political dirty tricks. In Venezuela, a center-right candidate is on track to win a primary election that is seen as a sign of faith in democracy. Here at home, unions are expanding strikes across America in response to corporate action, issues with education inequality are being highlighted by SAT data, and states like California are passing ambitious climate laws that they hope to export across the globe. On top of that, drug companies are making large profits off of new weight loss treatments - but at prices that are not what they seem. Finally, Philadelphia&#39;s dining scene is having a moment, with some of the best restaurants around right now to prove it!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>War Has Smashed Assumptions About Israeli-Palestinian Conflict</h3>
@@ -99,16 +98,16 @@ Another positive point is that Philadelphia&#39;s dining scene is having a momen
 <p>The United Automobile Workers union called on 6,800 workers to walk off the job at a large factory that makes one of Stellantis’s most profitable vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Nonunion Workers Are Playing a Big Role in the Autoworkers’ Strike</h3>
-<sub>By Jack Ewing</sub>
-<p>The three U.S. automakers say they are already at a disadvantage to nonunion rivals while labor leaders hope that big gains in negotiations will inspire workers in Southern states to unionize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
 <sub>By Claire Cain Miller and Francesca Paris</sub>
 <p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Gavin Newsom Wants to Export California’s Climate Laws to the World</h3>
+<sub>By Coral Davenport</sub>
+<p>The Democratic governor is supercharging climate policy and eyeing a future White House run. But critics say some of his constituents could be left behind.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -116,12 +115,6 @@ Another positive point is that Philadelphia&#39;s dining scene is having a momen
 <sub>By Gina Kolata</sub>
 <p>Drug companies are making billions from a new class of in-demand weight-loss treatments. But the prices are not what they seem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kill and Be Killed: Ukraine’s Bloody Battlefield Equation</h3>
-<sub>By Marc Santora and Constant Méheut</sub>
-<p>The dynamics of Europe’s deadliest war in generations remain exceedingly violent and increasingly complicated by factors far from the battlefield.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Were the Fake Trump Signs a Prank? Or a Political Dirty Trick?</h3>
@@ -134,6 +127,12 @@ Another positive point is that Philadelphia&#39;s dining scene is having a momen
 <sub>By Regan Stephens, Nikita Richardson, Brett Anderson, Priya Krishna and Sara Bonisteel</sub>
 <p>The dining scene here is having a moment, whether it’s outstanding pizza, fiery Ethiopian fried chicken or French inflected cuisine that feels like a cozy dinner party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maduro Antagonist on Track to Win Venezuela Primary</h3>
+<sub>By Isayen Herrera and Genevieve Glatsky</sub>
+<p>María Corina Machado, a center-right candidate, was leading in an election that showed voters’ faith in democracy and dissatisfaction with years of authoritarian rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
