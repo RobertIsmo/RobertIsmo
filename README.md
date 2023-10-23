@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 22, Central Standard Time</p>
 <p>
-Right now, the world is in a state of chaos. Israel and Ukraine are in need of weapons from the US for their different wars, and American and Qatari diplomats have recently managed to free two hostages from Gaza. There has been renewed hope for peace in the Holy Land, but it is still uncertain what this will mean for the future. On the other hand, it&#39;s been revealed that Donald Trump had access to wealthy Australians who may be of interest to federal prosecutors. Then looking around the globe, there have been small raids by commandos that are unnerving Russia in Crimea, missile strikes by Ukraine that killed six postal workers, and heightened tension among therapies over climate change. Finally, movie lovers have been excitedly talking about Martin Scorsese&#39;s latest release &#39;Killers of the Flower Moon&#39; which has been met with good reviews and surprisingly strong box office results.</p>
+In the U.S., the Biden administration is advising Israel to delay its invasion of Gaza in order to allow time for negotiations and aid to the Palestinians while Hamas claims that Israel was behind an explosion that killed hundreds of people at a hospital in Gaza City—a claim which Israel denies. In addition, an Israeli reservist from Maryland was recently killed near the Lebanon border. Back home, there are questions concerning a billionaire&#39;s access to Trump with national security implications. Several Republicans are running for Speaker of the House and multiple other stories around the world can be mentioned too—such as commando raids startling Russia in Crimea, a missile strike killing 6 workers at a postal depot in Ukraine, and a few events related to climate change and movie releases.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Three Weapons That Israel and Ukraine Both Need From the U.S.</h3>
-<sub>By Lara Jakes and Eric Schmitt</sub>
-<p>Ukraine and Israel are fighting different kinds of wars, but some weapons systems could soon be in short supply if the fighting continues for months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Advises Israel to Delay Gaza Invasion, Officials Say</h3>
+<sub>By Edward Wong, Eric Schmitt, Michael D. Shear and Ronen Bergman</sub>
+<p>The Biden administration has suggested that more time is needed for hostage negotiations, the delivery of aid to Palestinians and mapping out ways to avoid more civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Two American Hostages Were Set Free From Gaza</h3>
-<sub>By Jeffrey Gettleman, Adam Goldman, Edward Wong and Ben Hubbard</sub>
-<p>It took American and Qatari diplomacy, and self-interested decisions by Hamas, to bring two hostages safely back to Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<h3>Hamas Fails to Make Case That Israel Struck Hospital</h3>
+<sub>By Patrick Kingsley and Aaron Boxerman</sub>
+<p>A senior Hamas official says “nothing is left” of the munition that hit the Ahli Arab hospital in Gaza City last week, killing hundreds. Israel says the explosion was caused by a misfired Palestinian rocket.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Peace, a Forgotten Word, Renews its Claim in the Holy Land</h3>
-<sub>By Roger Cohen</sub>
-<p>Long derided as naïve, even traitors, the bridge builders between Israelis and Palestinians sense opportunity in the aftermath of the Hamas attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israeli Reservist From Maryland Is Killed Near Lebanon Border</h3>
+<sub>By Amanda Holpuch</sub>
+<p>Omer Balva, 22, was among the 360,000 reservists Israel had mobilized. He was near Israel’s northern border when his unit was struck by anti-tank missile fire, the Israeli military said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
