@@ -60,10 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 23, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world. There is an ongoing conflict in the Middle East between Israel and Hamas which has led to challenging assumptions about politics in the region and how much influence the US still has there. Another conflict is playing out in Ukraine, where people skeptical of Western countries’ actions are complicating international attempts to preserve democracy. In Venezuela, a presidential primary is underway with a candidate who opposes current President Maduro hoping to gain ground. In the US, trade unions have expanded their strike against Detroit automakers and rising inequality between rich and poor students was highlighted recently by SAT test scores. Finally, Philadelphia&#39;s restaurant scene is having a moment as diners are able to enjoy diverse cuisine from all around the world.</p>
+There is a lot happening in the world right now. In the Middle East there is a conflict between Israel and Palestine that has changed how people are viewing it. There are double standards in western actions in Gaza and Ukraine that are causing resentment. In the US, there is no Speaker of the House. This has led to some long-term concerns about Republican leadership. The United Automobile Workers union is striking for better wages at a Ram plant in Michigan, and non-union workers are also playing a big part. On the SATs, there is a deep inequality between rich and poor children that starts very early. Additionally, drug companies are making billions from weight-loss treatments even though they don&#39;t cost what people think they do. Finally, there have been fake Trump signs as well as a fight over them in a wealthy town which lasted years. 
+Another positive point is that Philadelphia&#39;s dining scene is having a moment, with great pizza, fried chicken and French cuisine!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>This Israeli-Hamas War Has Smashed Comforting Assumptions</h3>
+<h3>War Has Smashed Assumptions About Israeli-Palestinian Conflict</h3>
 <sub>By Steven Erlanger</sub>
 <p>Some paradigms taken for granted about Israel and the Palestinians, both in Gaza and the West Bank, have been broken. So has the idea that Washington can ignore the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
@@ -74,29 +75,23 @@ Right now, there is a lot going on around the world. There is an ongoing conflic
 <p>Resentments are complicating calls by the Biden administration to rally the world against efforts to “annihilate” democracies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas Fails to Make Case That Israel Struck Hospital</h3>
-<sub>By Patrick Kingsley and Aaron Boxerman</sub>
-<p>A senior Hamas official says “nothing is left” of the munition that hit the Ahli Arab hospital in Gaza City last week, killing hundreds. Israel says the explosion was caused by a misfired Palestinian rocket.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-pageoneplus-blue" alt="">
+<h3>Editors’ Note: Gaza Hospital Coverage</h3>
+<sub>By The New York Times</sub>
+<p>The Times’s initial accounts of the blast attributed the claim of Israeli responsibility to Palestinian officials, and noted that the Israeli military said it was investigating the blast. However, the early versions of the coverage relied too heavily on claims by Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Fight for Speaker Reveals Four Types of House Republicans</h3>
+<sub>By Nate Cohn</sub>
+<p>Jim Jordan’s bid showed the power of the ultraconservative faction in Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Grapple With Being Speakerless, but Effectively Leaderless, Too</h3>
 <sub>By Lisa Lerer and Michael C. Bender</sub>
 <p>With a speaker fight in the House, concerns about an aging Senate leader and a 2024 front-runner who has the party in a vise grip, some G.O.P. members worry the turmoil could have long-term effects.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Problem With a $2 Trillion Deficit</h3>
-<sub>By Michael Barbaro, Alex Stern, Eric Krupke, Summer Thomad, Jessica Cheung, Sydney Harper, Marc Georges, Lisa Chow, Elisheba Ittoop, Marion Lozano and Chris Wood</sub>
-<p>The growing deficit has been at the center of the fight over choosing a House speaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>There’s Still No House Speaker. What Happens Now?</h3>
-<sub>By Catie Edmondson and Annie Karni</sub>
-<p>The House has been without a permanent speaker since Oct. 3. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Expands Strike to a Ram Plant in Michigan</h3>
@@ -110,16 +105,28 @@ Right now, there is a lot going on around the world. There is an ongoing conflic
 <p>The three U.S. automakers say they are already at a disadvantage to nonunion rivals while labor leaders hope that big gains in negotiations will inspire workers in Southern states to unionize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
+<sub>By Claire Cain Miller and Francesca Paris</sub>
+<p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Ozempic and Wegovy Don’t Cost What You Think They Do</h3>
+<sub>By Gina Kolata</sub>
+<p>Drug companies are making billions from a new class of in-demand weight-loss treatments. But the prices are not what they seem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kill and Be Killed: Ukraine’s Bloody Battlefield Equation</h3>
 <sub>By Marc Santora and Constant Méheut</sub>
 <p>The dynamics of Europe’s deadliest war in generations remain exceedingly violent and increasingly complicated by factors far from the battlefield.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
-<sub>By Claire Cain Miller and Francesca Paris</sub>
-<p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Were the Fake Trump Signs a Prank? Or a Political Dirty Trick?</h3>
+<sub>By Dan Barry</sub>
+<p>The placards were up in a wealthy town for less than a day. The fight over them lasted years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -127,12 +134,6 @@ Right now, there is a lot going on around the world. There is an ongoing conflic
 <sub>By Regan Stephens, Nikita Richardson, Brett Anderson, Priya Krishna and Sara Bonisteel</sub>
 <p>The dining scene here is having a moment, whether it’s outstanding pizza, fiery Ethiopian fried chicken or French inflected cuisine that feels like a cozy dinner party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maduro Antagonist on Track to Win Venezuela Primary</h3>
-<sub>By Isayen Herrera and Genevieve Glatsky</sub>
-<p>María Corina Machado, a center-right candidate, was leading in an election that showed voters’ faith in democracy and dissatisfaction with years of authoritarian rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
