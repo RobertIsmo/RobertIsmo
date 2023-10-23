@@ -60,13 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 23, Central Standard Time</p>
 <p>
-Right now, the U.S. is advising Israel to delay an invasion of Gaza, while developing countries are seeing a double standard in the west&#39;s actions in Gaza and Ukraine. In Hamas is failing to prove that Israel struck a hospital in Gaza City which killed hundreds of people. In the U.S., Republicans are grappling with being without a speaker, and there is still no house speaker, leading to questions of what will happen next. Meanwhile, tensions in Ukraine remain exceedingly violent and high-interest rates are starting to sting bakers, farmers and consumers across the nation. Lastly, data from the SAT is highlighting deep educational inequality within American education systems.</p>
+Right now, there is a lot going on around the world. There is an ongoing conflict in the Middle East between Israel and Hamas which has led to challenging assumptions about politics in the region and how much influence the US still has there. Another conflict is playing out in Ukraine, where people skeptical of Western countries’ actions are complicating international attempts to preserve democracy. In Venezuela, a presidential primary is underway with a candidate who opposes current President Maduro hoping to gain ground. In the US, trade unions have expanded their strike against Detroit automakers and rising inequality between rich and poor students was highlighted recently by SAT test scores. Finally, Philadelphia&#39;s restaurant scene is having a moment as diners are able to enjoy diverse cuisine from all around the world.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Advises Israel to Delay Gaza Invasion, Officials Say</h3>
-<sub>By Edward Wong, Eric Schmitt, Michael D. Shear and Ronen Bergman</sub>
-<p>The Biden administration has suggested that more time is needed for hostage negotiations, the delivery of aid to Palestinians and mapping out ways to avoid more civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>This Israeli-Hamas War Has Smashed Comforting Assumptions</h3>
+<sub>By Steven Erlanger</sub>
+<p>Some paradigms taken for granted about Israel and the Palestinians, both in Gaza and the West Bank, have been broken. So has the idea that Washington can ignore the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Developing World Sees Double Standard in West’s Actions in Gaza and Ukraine</h3>
@@ -93,21 +93,33 @@ Right now, the U.S. is advising Israel to delay an invasion of Gaza, while devel
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Meet the Republicans Running for Speaker</h3>
-<sub>By Catie Edmondson and Luke Broadwater</sub>
-<p>The lawmakers vying for the job include veterans of the House, committee chairmen, a top member of Republican leadership and a sophomore.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>There’s Still No House Speaker. What Happens Now?</h3>
 <sub>By Catie Edmondson and Annie Karni</sub>
 <p>The House has been without a permanent speaker since Oct. 3. Here is how a new one could be elected, or how the process could go off the rails yet again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Expands Strike to a Ram Plant in Michigan</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The United Automobile Workers union called on 6,800 workers to walk off the job at a large factory that makes one of Stellantis’s most profitable vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Nonunion Workers Are Playing a Big Role in the Autoworkers’ Strike</h3>
+<sub>By Jack Ewing</sub>
+<p>The three U.S. automakers say they are already at a disadvantage to nonunion rivals while labor leaders hope that big gains in negotiations will inspire workers in Southern states to unionize.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kill and Be Killed: Ukraine’s Bloody Battlefield Equation</h3>
 <sub>By Marc Santora and Constant Méheut</sub>
 <p>The dynamics of Europe’s deadliest war in generations remain exceedingly violent and increasingly complicated by factors far from the battlefield.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
+<sub>By Claire Cain Miller and Francesca Paris</sub>
+<p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -116,23 +128,11 @@ Right now, the U.S. is advising Israel to delay an invasion of Gaza, while devel
 <p>The dining scene here is having a moment, whether it’s outstanding pizza, fiery Ethiopian fried chicken or French inflected cuisine that feels like a cozy dinner party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Ozempic and Wegovy Don’t Cost What You Think They Do</h3>
-<sub>By Gina Kolata</sub>
-<p>Drug companies are making billions from a new class of in-demand weight-loss treatments. But the prices are not what they seem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maduro Antagonist on Track to Win Venezuela Primary</h3>
+<sub>By Isayen Herrera and Genevieve Glatsky</sub>
+<p>María Corina Machado, a center-right candidate, was leading in an election that showed voters’ faith in democracy and dissatisfaction with years of authoritarian rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How High Interest Rates Sting Bakers, Farmers and Consumers</h3>
-<sub>By Lydia DePillis</sub>
-<p>Everyone who relies on credit in America is confronting a new reality: Money will cost more for a good long while.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
-<sub>By Claire Cain Miller and Francesca Paris</sub>
-<p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
