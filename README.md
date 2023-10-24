@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, former President Donald Trump&#39;s lawyers have been trying to overturn the 2020 election results while one of his lawyers, Jenna Ellis, recently pleaded guilty and agreed to cooperate with prosecutors in a racketeering case. In Israel, they are taking steps to put an end to Hamas, but who will govern Gaza once they&#39;re done? An 85-year-old woman held hostage in Gaza spoke out about her ordeal, and Israel&#39;s plan for entering Gaza could cause some of the fiercest urban combat since WWII. In Ukraine, young people have been particularly hard hit by the war, and evacuation orders have recently been issued for children from villages near the front line. Meanwhile, in Canada, they&#39;ve had a devastating year of fires that burned 45 million acres and caused endless evacuations and smoke.</p>
+There is a lot happening in the world right now. In the US, Tom Emmer, the House G.O.P.&#39;s No. 3 leader, narrowly won his party&#39;s nomination but faced a backlash from right-wing colleagues and former President Donald Trump. Meanwhile in Israel, they have declared plans to destroy Hamas but the question of who will govern Gaza after this has yet to be answered. A 85-year-old hostage held in Gaza has recently come forward and gave a description of how terrible it was to be held captive there. 
+
+Additional Intense fighting is taking place in Ukraine between them and Russia, which has forced the evacuation of children from villages near the front line. On a less heavy note, Microsoft and Alphabet both had great sales results and their cloud businesses have been thriving as well, with slight disappointments for Alphabet&#39;s cloud business.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who is Tom Emmer, the latest Republican nominee for speaker?</h3>
-<sub>By Catie Edmondson</sub>
-<p>Mr. Emmer, the No. 3 Republican in the House, has pitched himself as a unity candidate, but some hard-right Trump supporters have said he was not supportive enough of the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Emmer Drops Speaker Bid After Right-Wing Backlash</h3>
+<sub>By Luke Broadwater</sub>
+<p>Tom Emmer, the House G.O.P.’s No. 3 leader, narrowly won his party’s nomination but drew an immediate backlash from right-wing colleagues and former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,16 +88,16 @@ There is a lot going on in the world right now. In the US, former President Dona
 <p>A ground invasion in Gaza could produce some of the fiercest street-to-street fighting since World War II.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Scowls as Cohen Casts Him as a Cheat at Fraud Trial</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
+<p>Michael D. Cohen accused his onetime boss, Donald J. Trump, of manipulating his net worth as Mr. Trump stared blankly ahead. It was their first interaction in five years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jenna Ellis, Former Trump Lawyer, Pleads Guilty in Georgia Election Case</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>Three lawyers indicted with Donald Trump for trying to overturn the 2020 election results will now cooperate with prosecutors in the racketeering case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Latest Figure to Flip in Election Case Had Direct Ties to Trump and Giuliani</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>Jenna Ellis, the lawyer who pleaded guilty and agreed to cooperate with the authorities in the Georgia prosecution, was closely involved in efforts to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,17 +106,11 @@ There is a lot going on in the world right now. In the US, former President Dona
 <p>The former president’s lawyers made a series of arguments seeking dismissal of the federal charges that he conspired to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>She Heeded Biden’s Warning to Migrants. Will She Regret It?</h3>
-<sub>By Julie Turkewitz and Federico Rios</sub>
-<p>After surviving a perilous jungle, a mother and daughter obeyed the president’s plea to enter the United States legally. 341 days later, they’re still waiting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘It’s Like Our Country Exploded’: Canada’s Year of Fire</h3>
+<sub>By David Wallace-Wells</sub>
+<p>Endless evacuations, unimaginable smoke and heat, 45 million acres burned — is this the nation’s new normal?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>How to Win the Restaurant Reservation Game</h3>
-<sub>By Priya Krishna, Umi Syam and Aliza Aufrichtig</sub>
-<p>Scoring a table in New York can seem impossible, but may be easier than you think. Here’s how the competition played out for one dinner, with tips from the winning players.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What It’s Like to Be Young in Ukraine Now</h3>
@@ -128,10 +124,16 @@ There is a lot going on in the world right now. In the US, former President Dona
 <p>The evacuations from villages near the front line underscored the ferocity of the fighting as both Ukraine and Russia press bloody assaults.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘It’s Like Our Country Exploded’: Canada’s Year of Fire</h3>
-<sub>By David Wallace-Wells</sub>
-<p>Endless evacuations, unimaginable smoke and heat, 45 million acres burned — is this the nation’s new normal?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Cloud Growth Powers Microsoft Above Expectations</h3>
+<sub>By Karen Weise</sub>
+<p>Revenue increased 13 percent in the latest quarter compared with a year earlier. Profit rose 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Alphabet Has Strong Ad Sales but Cloud Business Disappoints</h3>
+<sub>By Nico Grant</sub>
+<p>Google’s parent company reported that sales were up 11 percent from a year ago while profit jumped 42 percent to $19.7 billion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
