@@ -60,36 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 23, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. War has broken out between Israel and the Palestinians, with both sides facing an uncertain future and Washington having to take action. In other parts of the world, tensions have been rising between the West and other countries, with criticisms over a double standard in how they&#39;re treated. In politics, Republicans are currently facing a power struggle over who will be their next speaker of the house - with Jim Jordan&#39;s bid showing the strength of the ultraconservative faction - as well as worries about an ageing Senate leader. Meanwhile, in wealthy towns across America there have been reports of fake Trump signs used in either pranks or political dirty tricks. In Venezuela, a center-right candidate is on track to win a primary election that is seen as a sign of faith in democracy. Here at home, unions are expanding strikes across America in response to corporate action, issues with education inequality are being highlighted by SAT data, and states like California are passing ambitious climate laws that they hope to export across the globe. On top of that, drug companies are making large profits off of new weight loss treatments - but at prices that are not what they seem. Finally, Philadelphia&#39;s dining scene is having a moment, with some of the best restaurants around right now to prove it!</p>
+There are a lot of tensions in the world right now, particularly in the Middle East and in U.S. politics. In Israel and Gaza, the Pentagon has had to send officers to help with the challenges of fighting an urban war. Meanwhile, Republican infighting has led to a free-for-all for speaker of the House of Representatives. Here in the U.S., labor union members have gone on strike at a factory that makes one of Stellantis&#39; most profitable vehicles, raising concerns about inequality in American education. Elsewhere, California Governor Gavin Newsom is looking to shift his state&#39;s climate policies outwards into were far more carbon-saving efforts could be rolled out globally; while drug companies make billions from treatments for weight loss issues like Ozempic and Wegovy. Finally, a fight broke out over fake Donald Trump placards hung up in a wealthy town that lasted years, and there was an attempted murder by an off-duty pilot on an Alaska Airlines flight.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Raises Concerns About Israel’s Plan of Action in Gaza, Officials Say</h3>
+<sub>By Helene Cooper, Adam Entous and Eric Schmitt</sub>
+<p>The Pentagon has sent officers to help the Israelis with the challenges of fighting an urban war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>War Has Smashed Assumptions About Israeli-Palestinian Conflict</h3>
-<sub>By Steven Erlanger</sub>
-<p>Some paradigms taken for granted about Israel and the Palestinians, both in Gaza and the West Bank, have been broken. So has the idea that Washington can ignore the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Their Soldiers Poised to Attack, Israelis Try to Decipher the Delay</h3>
+<sub>By Isabel Kershner</sub>
+<p>So pervasive is the pall of chaos in Israel’s government that top officials saw fit to assure a traumatized public that they are “working in close and full cooperation, around the clock.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
+<p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Developing World Sees Double Standard in West’s Actions in Gaza and Ukraine</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>Resentments are complicating calls by the Biden administration to rally the world against efforts to “annihilate” democracies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-pageoneplus-blue" alt="">
-<h3>Editors’ Note: Gaza Hospital Coverage</h3>
-<sub>By The New York Times</sub>
-<p>The Times’s initial accounts of the blast attributed the claim of Israeli responsibility to Palestinian officials, and noted that the Israeli military said it was investigating the blast. However, the early versions of the coverage relied too heavily on claims by Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Fight for Speaker Reveals Four Types of House Republicans</h3>
-<sub>By Nate Cohn</sub>
-<p>Jim Jordan’s bid showed the power of the ultraconservative faction in Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Grapple With Being Speakerless, but Effectively Leaderless, Too</h3>
-<sub>By Lisa Lerer and Michael C. Bender</sub>
-<p>With a speaker fight in the House, concerns about an aging Senate leader and a 2024 front-runner who has the party in a vise grip, some G.O.P. members worry the turmoil could have long-term effects.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘5 Families’ and Factions Within Factions: Why the House G.O.P. Can’t Unite</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Republican free-for-all for speaker reflects a web of overlapping blocs that have made the party nearly ungovernable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,11 +122,17 @@ There is a lot happening in the world right now. War has broken out between Isra
 <p>The dining scene here is having a moment, whether it’s outstanding pizza, fiery Ethiopian fried chicken or French inflected cuisine that feels like a cozy dinner party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maduro Antagonist on Track to Win Venezuela Primary</h3>
-<sub>By Isayen Herrera and Genevieve Glatsky</sub>
-<p>María Corina Machado, a center-right candidate, was leading in an election that showed voters’ faith in democracy and dissatisfaction with years of authoritarian rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Era of Psychedelics in Oregon</h3>
+<sub>By Mike Baker</sub>
+<p>The state has pioneered a therapeutic market for psychedelic mushrooms. Researchers are watching with a mix of excitement and unease.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Off-Duty Pilot Accused of Trying to Cut the Engines on an Alaska Airlines Flight</h3>
+<sub>By Johnny Diaz and Michael Levenson</sub>
+<p>The flight was diverted to Portland, Ore., because of a “credible security threat” inside the cockpit, the airline said. An off-duty pilot was charged with attempted murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
