@@ -60,31 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 24, Central Standard Time</p>
 <p>
-There is a lot of unrest happening around the world right now. In Israel, the government has set out to vanquish Hamas and take control of Gaza, but this task comes with many challenges. Meanwhile in the US, Pentagon officers have been called in to help Israelis fight an urban war. The house Republicans are having their own issues with forming a unified party and can&#39;t seem to come together. There is also a mother and daughter from Central America waiting to get into the US legally after obeying President Biden&#39;s warnings about coming to the country illegally. In Ukraine, young adults have been particularly hard hit by the war while in China there have been some shakeups among their military officials. Economists have had difficulty correctly predicting inflation and consumer and labor market factors over the past three years. Michael Cohen is giving testimony against Donald Trump in court while two members of Trump&#39;s legal team for the 2020 election recently pleaded guilty to cooperate with prosecutors. Lastly, Poland Spring has been involved in a hidden attack on water regulation rules that they don&#39;t agree with in Maine.</p>
+There is a lot going on in the world right now. In the US, former President Donald Trump&#39;s lawyers have been trying to overturn the 2020 election results while one of his lawyers, Jenna Ellis, recently pleaded guilty and agreed to cooperate with prosecutors in a racketeering case. In Israel, they are taking steps to put an end to Hamas, but who will govern Gaza once they&#39;re done? An 85-year-old woman held hostage in Gaza spoke out about her ordeal, and Israel&#39;s plan for entering Gaza could cause some of the fiercest urban combat since WWII. In Ukraine, young people have been particularly hard hit by the war, and evacuation orders have recently been issued for children from villages near the front line. Meanwhile, in Canada, they&#39;ve had a devastating year of fires that burned 45 million acres and caused endless evacuations and smoke.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who is Tom Emmer, the latest Republican nominee for speaker?</h3>
+<sub>By Catie Edmondson</sub>
+<p>Mr. Emmer, the No. 3 Republican in the House, has pitched himself as a unity candidate, but some hard-right Trump supporters have said he was not supportive enough of the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Says It Will Destroy Hamas. But Who Will Govern Gaza?</h3>
 <sub>By Steven Erlanger</sub>
 <p>Israel has set itself a stiff challenge in aiming to vanquish Hamas. But an even bigger question looms: Once in Gaza, how and when does Israel get out?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Raises Concerns About Israel’s Plan of Action in Gaza, Officials Say</h3>
-<sub>By Helene Cooper, Adam Entous and Eric Schmitt</sub>
-<p>The Pentagon has sent officers to help the Israelis with the challenges of fighting an urban war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>85-Year-Old Held Hostage in Gaza Says She ‘Went Through Hell’</h3>
+<sub>By Aaron Boxerman and Nadav Gavrielov</sub>
+<p>Yocheved Lifshitz offered the first public account to emerge from the more than 200 hostages estimated to be held in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Their Soldiers Poised to Attack, Israelis Try to Decipher the Delay</h3>
-<sub>By Isabel Kershner</sub>
-<p>So pervasive is the pall of chaos in Israel’s government that top officials saw fit to assure a traumatized public that they are “working in close and full cooperation, around the clock.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<h3>The ‘Devil’s Playground’ of Urban Combat That Israel Is Preparing to Enter</h3>
+<sub>By Damien Cave</sub>
+<p>A ground invasion in Gaza could produce some of the fiercest street-to-street fighting since World War II.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘5 Families’ and Factions Within Factions: Why the House G.O.P. Can’t Unite</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Republican free-for-all for speaker reflects a web of overlapping blocs that have made the party nearly ungovernable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<h3>Jenna Ellis, Former Trump Lawyer, Pleads Guilty in Georgia Election Case</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Three lawyers indicted with Donald Trump for trying to overturn the 2020 election results will now cooperate with prosecutors in the racketeering case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Latest Figure to Flip in Election Case Had Direct Ties to Trump and Giuliani</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>Jenna Ellis, the lawyer who pleaded guilty and agreed to cooperate with the authorities in the Georgia prosecution, was closely involved in efforts to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Files More Motions to Derail Federal Jan. 6 Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s lawyers made a series of arguments seeking dismissal of the federal charges that he conspired to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>She Heeded Biden’s Warning to Migrants. Will She Regret It?</h3>
@@ -99,39 +117,21 @@ There is a lot of unrest happening around the world right now. In Israel, the go
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Coming of Age in Ukraine</h3>
+<h3>What It’s Like to Be Young in Ukraine Now</h3>
 <sub>By Laetitia Vancon and Matthew Mpoke Bigg</sub>
 <p>Each age group has suffered through the war, but for young adults it has been particularly hard — and not just for those who have served on the frontline.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China Dismisses Defense Minister Amid Swirl of Speculation</h3>
-<sub>By Chris Buckley</sub>
-<p>The unexplained dismissal of Gen. Li Shangfu, the Chinese military’s top diplomat, has come after two top commanders in the country’s rocket forces were replaced.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Amid Intense Fighting, Ukraine Orders Evacuation of Children</h3>
+<sub>By Marc Santora</sub>
+<p>The evacuations from villages near the front line underscored the ferocity of the fighting as both Ukraine and Russia press bloody assaults.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>New Normal or No Normal? How Economists Got It Wrong for 3 Years.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists first underestimated inflation, then underestimated consumers and the labor market. The key question is why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump and Cohen to Meet Again, This Time as Enemies at Trial</h3>
-<sub>By Ben Protess and Jonah E. Bromwich</sub>
-<p>Michael D. Cohen once said he would take a bullet for the former president. Instead, he’s giving testimony against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Lawyers Now Turning on Trump</h3>
-<sub>By Michael Barbaro, Clare Toeniskoetter, Rob Szypko, Lisa Chow, Marion Lozano, Dan Powell and Chris Wood</sub>
-<p>Two members of the former president’s 2020 legal team pleaded guilty in Georgia, agreeing to cooperate with prosecutors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Inside Poland Spring’s Hidden Attack on Water Rules It Didn’t Like</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>When Maine lawmakers tried to tighten regulations on large-scale access to water, the brand’s little-known parent company set out to rewrite the rules.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘It’s Like Our Country Exploded’: Canada’s Year of Fire</h3>
+<sub>By David Wallace-Wells</sub>
+<p>Endless evacuations, unimaginable smoke and heat, 45 million acres burned — is this the nation’s new normal?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
