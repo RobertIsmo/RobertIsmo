@@ -58,11 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, October 23, Central Standard Time</p>
+<p>It is Tuesday, October 24, Central Standard Time</p>
 <p>
-Right now, the US is raising concerns about Israel&#39;s plan of action in Gaza, and the Pentagon has sent officers to help them fight an urban war. Meanwhile, Israelis are trying to decipher a delay as they prepare for an attack. The past few weeks have been the deadliest for Palestinians in the West Bank in at least 15 years. In the US, the Republican free-for-all for speaker of the house has revealed tensions between different factions within the party that have made it nearly ungovernable. 
-
-The United Automobile Workers union has also called for a strike at a Ram plant in Michigan. Recent SAT data has highlighted deep educational inequality that already starts very early in life. California governor Gavin Newsom is looking to export his climate policies to the world but critics worry some will be left behind. Pharmaceutical companies are making billions from in-demand weight loss drugs even though their prices may not be what they seem. In New York, there was a brief political fight over some fake Trump signs and Philadelphia&#39;s restaurant scene is having a moment with its outstanding food offerings. In Oregon, they&#39;ve pioneered a therapeutic market for psychedelic mushrooms and an off-duty pilot on Alaska Airlines Flight was charged with attempted murder after trying to cut the engines.</p>
+There&#39;s a lot going on around the world right now. The U.S. has raised concerns about Israel&#39;s plan of action in Gaza, and the Pentagon is even sending officers to help them fight an urban war. Meanwhile, Israelis are trying to decipher the delay before attacking, and the Palestinian experience in the West Bank has been at its deadliest in 15 years. In the U.S., there&#39;s a Republican free-for-all for Speaker as factions within factions are making it hard to unite. In Michigan, UAW workers have gone on strike at a large Stellantis factory, and new SAT data highlights deep inequality in American education. On the energy front, there&#39;s been peak demand for oil, coal and gas by 2030, and California&#39;s Gov Newsom wants to export climate laws to the other states. Philadelphia has some great restaurants -- 25 of them according to one list -- and Oregon is leading a psychedelic drugs movement. Lastly, a pink jersey worn by soccer superstar Lionel Messi is all anyone can talk about.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Raises Concerns About Israel’s Plan of Action in Gaza, Officials Say</h3>
@@ -101,21 +99,15 @@ The United Automobile Workers union has also called for a strike at a Ram plant 
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Energy Agency Sees Peaks in Global Oil, Coal and Gas Demand By 2030</h3>
+<sub>By Brad Plumer</sub>
+<p>The prediction, which has stirred controversy among oil producers, is a sign of a sweeping transformation in the global energy landscape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Gavin Newsom Wants to Export California’s Climate Laws to the World</h3>
 <sub>By Coral Davenport</sub>
 <p>The Democratic governor is supercharging climate policy and eyeing a future White House run. But critics say some of his constituents could be left behind.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Ozempic and Wegovy Don’t Cost What You Think They Do</h3>
-<sub>By Gina Kolata</sub>
-<p>Drug companies are making billions from a new class of in-demand weight-loss treatments. But the prices are not what they seem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Were the Fake Trump Signs a Prank? Or a Political Dirty Trick?</h3>
-<sub>By Dan Barry</sub>
-<p>The placards were up in a wealthy town for less than a day. The fight over them lasted years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -134,6 +126,12 @@ The United Automobile Workers union has also called for a strike at a Ram plant 
 <h3>Off-Duty Pilot Accused of Trying to Cut the Engines on an Alaska Airlines Flight</h3>
 <sub>By Johnny Diaz and Michael Levenson</sub>
 <p>The flight was diverted to Portland, Ore., because of a “credible security threat” inside the cockpit, the airline said. An off-duty pilot was charged with attempted murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Stratospheric Rise of Lionel Messi’s Pink Jersey</h3>
+<sub>By Kevin Draper and Rory Smith</sub>
+<p>In the span of three months, the soccer superstar has made Inter Miami’s eye-catching jersey the hottest piece of sports merchandise on the planet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
