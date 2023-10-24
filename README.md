@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 24, Central Standard Time</p>
 <p>
-Recently, there have been a number of worrying events happening around the world. The US has raised growing concerns about Israel&#39;s plan of action in Gaza, and the Pentagon has sent officers to help the Israelis manage the challenges of fighting an urban war. Maps show that the recent period has been the deadliest for Palestinians in the West Bank in 15 years. In domestic news, there&#39;s a disunity among members of the Republican party reflected in their free-for-all for Speaker of people, while the United Automobile Workers union called on 6800 workers to walk off their jobs at a factory because of pay issues. The new SAT data shows an inequality in American education and California&#39;s Governor Newsom is eyeing a White House run as he pushes climate change policies. On a lighter note, Philadelphia is having a moment when it comes to dining and Lionel Messi&#39;s pink jersey has become one of the most popular pieces of sports merchandise on the planet. All in all, it&#39;s been quite an eventful period!</p>
+There is a lot of unrest happening around the world right now. In Israel, the government has set out to vanquish Hamas and take control of Gaza, but this task comes with many challenges. Meanwhile in the US, Pentagon officers have been called in to help Israelis fight an urban war. The house Republicans are having their own issues with forming a unified party and can&#39;t seem to come together. There is also a mother and daughter from Central America waiting to get into the US legally after obeying President Biden&#39;s warnings about coming to the country illegally. In Ukraine, young adults have been particularly hard hit by the war while in China there have been some shakeups among their military officials. Economists have had difficulty correctly predicting inflation and consumer and labor market factors over the past three years. Michael Cohen is giving testimony against Donald Trump in court while two members of Trump&#39;s legal team for the 2020 election recently pleaded guilty to cooperate with prosecutors. Lastly, Poland Spring has been involved in a hidden attack on water regulation rules that they don&#39;t agree with in Maine.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Says It Will Destroy Hamas. But Who Will Govern Gaza?</h3>
+<sub>By Steven Erlanger</sub>
+<p>Israel has set itself a stiff challenge in aiming to vanquish Hamas. But an even bigger question looms: Once in Gaza, how and when does Israel get out?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Raises Concerns About Israel’s Plan of Action in Gaza, Officials Say</h3>
 <sub>By Helene Cooper, Adam Entous and Eric Schmitt</sub>
@@ -74,65 +80,59 @@ Recently, there have been a number of worrying events happening around the world
 <p>So pervasive is the pall of chaos in Israel’s government that top officials saw fit to assure a traumatized public that they are “working in close and full cooperation, around the clock.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
-<p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘5 Families’ and Factions Within Factions: Why the House G.O.P. Can’t Unite</h3>
 <sub>By Luke Broadwater</sub>
 <p>The Republican free-for-all for speaker reflects a web of overlapping blocs that have made the party nearly ungovernable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Expands Strike to a Ram Plant in Michigan</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Automobile Workers union called on 6,800 workers to walk off the job at a large factory that makes one of Stellantis’s most profitable vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>New SAT Data Highlights the Deep Inequality at the Heart of American Education</h3>
-<sub>By Claire Cain Miller and Francesca Paris</sub>
-<p>The differences in how rich and poor children are educated start very early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Energy Agency Sees Peaks in Global Oil, Coal and Gas Demand By 2030</h3>
-<sub>By Brad Plumer</sub>
-<p>The prediction, which has stirred controversy among oil producers, is a sign of a sweeping transformation in the global energy landscape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Gavin Newsom Wants to Export California’s Climate Laws to the World</h3>
-<sub>By Coral Davenport</sub>
-<p>The Democratic governor is supercharging climate policy and eyeing a future White House run. But critics say some of his constituents could be left behind.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Heeded Biden’s Warning to Migrants. Will She Regret It?</h3>
+<sub>By Julie Turkewitz and Federico Rios</sub>
+<p>After surviving a perilous jungle, a mother and daughter obeyed the president’s plea to enter the United States legally. 341 days later, they’re still waiting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The 25 Best Restaurants in Philadelphia Right Now</h3>
-<sub>By Regan Stephens, Nikita Richardson, Brett Anderson, Priya Krishna and Sara Bonisteel</sub>
-<p>The dining scene here is having a moment, whether it’s outstanding pizza, fiery Ethiopian fried chicken or French inflected cuisine that feels like a cozy dinner party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Win the Restaurant Reservation Game</h3>
+<sub>By Priya Krishna, Umi Syam and Aliza Aufrichtig</sub>
+<p>Scoring a table in New York can seem impossible, but may be easier than you think. Here’s how the competition played out for one dinner, with tips from the winning players.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Era of Psychedelics in Oregon</h3>
-<sub>By Mike Baker</sub>
-<p>The state has pioneered a therapeutic market for psychedelic mushrooms. Researchers are watching with a mix of excitement and unease.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Coming of Age in Ukraine</h3>
+<sub>By Laetitia Vancon and Matthew Mpoke Bigg</sub>
+<p>Each age group has suffered through the war, but for young adults it has been particularly hard — and not just for those who have served on the frontline.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Off-Duty Pilot Accused of Trying to Cut the Engines on an Alaska Airlines Flight</h3>
-<sub>By Johnny Diaz and Michael Levenson</sub>
-<p>The flight was diverted to Portland, Ore., because of a “credible security threat” inside the cockpit, the airline said. An off-duty pilot was charged with attempted murder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China Dismisses Defense Minister Amid Swirl of Speculation</h3>
+<sub>By Chris Buckley</sub>
+<p>The unexplained dismissal of Gen. Li Shangfu, the Chinese military’s top diplomat, has come after two top commanders in the country’s rocket forces were replaced.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Stratospheric Rise of Lionel Messi’s Pink Jersey</h3>
-<sub>By Kevin Draper and Rory Smith</sub>
-<p>In the span of three months, the soccer superstar has made Inter Miami’s eye-catching jersey the hottest piece of sports merchandise on the planet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<h3>New Normal or No Normal? How Economists Got It Wrong for 3 Years.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists first underestimated inflation, then underestimated consumers and the labor market. The key question is why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump and Cohen to Meet Again, This Time as Enemies at Trial</h3>
+<sub>By Ben Protess and Jonah E. Bromwich</sub>
+<p>Michael D. Cohen once said he would take a bullet for the former president. Instead, he’s giving testimony against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Lawyers Now Turning on Trump</h3>
+<sub>By Michael Barbaro, Clare Toeniskoetter, Rob Szypko, Lisa Chow, Marion Lozano, Dan Powell and Chris Wood</sub>
+<p>Two members of the former president’s 2020 legal team pleaded guilty in Georgia, agreeing to cooperate with prosecutors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Inside Poland Spring’s Hidden Attack on Water Rules It Didn’t Like</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>When Maine lawmakers tried to tighten regulations on large-scale access to water, the brand’s little-known parent company set out to rewrite the rules.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
