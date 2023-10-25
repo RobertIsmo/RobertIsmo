@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-Right now, the GOP in the US has nominated Mike Johnson for speaker of the House following a period of deadlock. In other world news, a Times analysis of a missile video concerning a blast in Gaza found that it didn&#39;t shed light on what happened. An Israeli peace activist named Yocheved Lifshitz who was kidnapped and beaten by Hamas has been released after 17 days in captivity. The past few weeks have seen the deadliest period for Palestinians in the West Bank in 15 years. Michael D. Cohen recently publicly denounced Trump during a court appearance, while former Trump lawyer Jenna Ellis and 3 other lawyers involved with Trump&#39;s attempt to overturn the 2020 election have pleaded guilty in Georgia. Trump is trying to derail the federal case with more motions as well. Meanwhile, actor Richard Roundtree has passed away at 81 and Hurricane Otis is expected to make catastrophic landfall in Mexico early Wednesday morning. And an off-duty Alaska Airlines pilot admitted he took psychedelic mushrooms prior to disrupting a flight. Finally, Opinion articles are discussing Palestinian republics of fear and misinformation as well as Britain&#39;s Prime Minister Rishi Sunak&#39;s current outlook.</p>
+There is a lot happening in the world right now. The US GOP has nominated Mike Johnson for Speaker of the House, which comes after weeks of deadlock. In Gaza, there is an investigation into a hospital blast, and an 85-year-old Israeli peace activist was kidnapped and held in tunnels for 17 days. There is also tension between Israel and Gaza stemming from recent attacks. Additionally, Hurricane Otis is expected to cause more disruption, and former President Trump&#39;s lawyers have been indicted for trying to overturn the 2020 election results. On the cultural side, the actor Richard Roundtree has passed away at 81, and an off-duty Alaska Airlines pilot admitted to taking psychedelic mushrooms before disrupting a flight. Lastly, British Prime Minister Rishi Sunak is facing a lot of pressure from various different directions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Nominates Mike Johnson for Speaker After Spurning Emmer</h3>
@@ -86,6 +86,12 @@ Right now, the GOP in the US has nominated Mike Johnson for speaker of the House
 <p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Hurricane Otis</h3>
+<sub>By William B. Davis, Madison Dong, John Keefe, Judson Jones and Bea Malsky</sub>
+<p>See the likely path and wind arrival times for Otis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Cohen Denounces Trump During Courtroom Face-Off</h3>
 <sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
@@ -110,12 +116,6 @@ Right now, the GOP in the US has nominated Mike Johnson for speaker of the House
 <p>While indelibly tied to the role that made him famous in 1971, the actor remained active for more than four decades afterward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hurricane Otis Nears Acapulco With ‘Catastrophic’ Category 5 Winds</h3>
-<sub>By John Yoon</sub>
-<p>Forecasters warn of destructive winds, flooding and mudslides in the Mexican states of Guerrero and Oaxaca when it makes landfall early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pilot Who Disrupted Flight Said He Had Taken Psychedelic Mushrooms, Complaint Says</h3>
 <sub>By Michael Levenson</sub>
@@ -123,10 +123,10 @@ Right now, the GOP in the US has nominated Mike Johnson for speaker of the House
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Palestinian Republic of Fear and Misinformation</h3>
-<sub>By Bret Stephens</sub>
-<p>As in any tyrannical or fanatical regime, Palestinians who stray from the approved line put themselves at serious risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<h3>Trump’s Lawyers Are Going Down. Is He?</h3>
+<sub>By David French</sub>
+<p>It’s hard to know what to make of the guilty pleas in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>Rishi Sunak Is Trying His Best. He’s Probably Still Doomed.</h3>
