@@ -60,30 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 24, Central Standard Time</p>
 <p>
-There seems to be a lot going on in the world right now. In US news, former president Donald Trump&#39;s former lawyer Michael Cohen denounced him in court recently, and Tom Emmer dropped his bid for House GOP Speaker after getting backlash from right-wing colleagues. On the international front, there&#39;s fighting between Israel and Hamas, with reports of elderly Israelis being held captive by Hamas in Jordanian tunnels. Ukraine is also facing intense fighting, with the government ordering evacuations of children from villages near the front lines. Canada has had a rough year due to wild fires that have burned 45 million acres. There&#39;s also news in technology: Microsoft has made an AI investment to stabilize their cloud business and Alphabet (which owns Google) reported a strong 11% increase in sales yet has disappointed in its cloud business.</p>
+Recently, the Republican party nominated Mike Johnson for Speaker in an unexpected move after passing over his predecessor Emmer. A report came out from US intelligence agencies that they have a high confidence that a hospital explosion was caused by a Palestinian rocket. Yocheved Lifshitz, an 85 year old Israeli peace activist, was kidnapped and beaten for 17 days by Hamas while in subterranean captivity in Gaza. Michael Cohen has accused Donald Trump of manipulating his net worth at a federal courtroom. Three lawyers, including Trump, were charged with attempting to overturn the 2020 election results and now they are cooperating with prosecutors in a racketeering case. In Canada, due to wildfires 45 million acres have been burned this year and evacuations have been necessary. Young people in Ukraine are having to deal with the war, including frontline service and evacuating children from villages near the front line. Richard Roundtree has passed away at 81 after being made famous for his role in Shaft, but he had continued to act afterwards as well. An off-duty Alaska Airlines pilot admitted to taking psychedelic mushrooms while disrupting a flight and said he thought he was experiencing a nervous breakdown. Microsoft&#39;s A.I investment is stabilizing their Cloud business, as revenue has increased 13% compared to a year ago while profit has risen 27%.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Emmer Drops Speaker Bid After Right-Wing Backlash</h3>
+<h3>G.O.P. Nominates Mike Johnson for Speaker After Spurning Emmer</h3>
 <sub>By Luke Broadwater</sub>
-<p>Tom Emmer, the House G.O.P.’s No. 3 leader, narrowly won his party’s nomination but drew an immediate backlash from right-wing colleagues and former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The selection of the low-profile Louisianian capped a topsy-turvy day, but it was not clear that Mr. Johnson could do any better at uniting Republicans and ending the paralysis engulfing the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The ‘Devil’s Playground’ of Urban Combat That Israel Is Preparing to Enter</h3>
-<sub>By Damien Cave</sub>
-<p>A ground invasion in Gaza could produce some of the fiercest street-to-street fighting since World War II.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Cites ‘High Confidence’ That Palestinian Rocket Caused Hospital Blast</h3>
+<sub>By Julian E. Barnes and David E. Sanger</sub>
+<p>American intelligence agencies released no new declassified imagery or other new evidence to make their case. Officials said their strengthened assessment was based on video evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘I Went Through Hell,’ Freed Israeli, 85, Says of Subterranean Captivity in Gaza</h3>
 <sub>By Aaron Boxerman</sub>
 <p>Yocheved Lifshitz, a grandmother and Israeli peace activist, was kidnapped, beaten and held in tunnels built by Hamas for 17 days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>All Eyes on the Rafah Border Crossing</h3>
-<sub>By New York Times Audio</sub>
-<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -122,16 +116,22 @@ There seems to be a lot going on in the world right now. In US news, former pres
 <p>The evacuations from villages near the front line underscored the ferocity of the fighting as both Ukraine and Russia press bloody assaults.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Richard Roundtree, Star of ‘Shaft,’ Dies at 81</h3>
+<sub>By Anita Gates</sub>
+<p>While indelibly tied to the role that made him famous in 1971, the actor remained active for more than four decades afterward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pilot Who Disrupted Flight Said He Had Taken Psychedelic Mushrooms, Complaint Says</h3>
+<sub>By Michael Levenson</sub>
+<p>In an interview with the police, the off-duty Alaska Airlines pilot also said he thought he was having a nervous breakdown and had not slept for more than 40 hours, according to a criminal complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft’s A.I. Investment Stabilizes Its Cloud Business</h3>
 <sub>By Karen Weise</sub>
 <p>Revenue increased 13 percent in the latest quarter compared with a year earlier. Profit rose 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Alphabet Has Strong Ad Sales but Cloud Business Disappoints</h3>
-<sub>By Nico Grant</sub>
-<p>Google’s parent company reported that sales were up 11 percent from a year ago while profit jumped 42 percent to $19.7 billion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
