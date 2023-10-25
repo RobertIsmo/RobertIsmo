@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The US GOP has nominated Mike Johnson for Speaker of the House, which comes after weeks of deadlock. In Gaza, there is an investigation into a hospital blast, and an 85-year-old Israeli peace activist was kidnapped and held in tunnels for 17 days. There is also tension between Israel and Gaza stemming from recent attacks. Additionally, Hurricane Otis is expected to cause more disruption, and former President Trump&#39;s lawyers have been indicted for trying to overturn the 2020 election results. On the cultural side, the actor Richard Roundtree has passed away at 81, and an off-duty Alaska Airlines pilot admitted to taking psychedelic mushrooms before disrupting a flight. Lastly, British Prime Minister Rishi Sunak is facing a lot of pressure from various different directions.</p>
+It looks like there is a lot of chaos going on across the world! In the US, there is a lot of political turmoil with House Republicans immolating their leaders in the speaker fight and the Republican Party being thrown into disarray. In the Middle East, tensions remain high between Israel and Gaza and a Times analysis suggests that key evidence regarding a hospital blast isn&#39;t shedding much light on what actually happened. In Ukraine, there is still a war going on and thousands of widows are struggling to find life after loss. Closer to home, in Hawaii, corruption of local officials has been revealed after a bribery scandal came to light. Finally, in New York City, residents are debating whether or not skyscrapers should be regulated after one blocks the view of another popular landmark.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Another Day of G.O.P. Chaos Winds Up With Speaker Nominee No. 4</h3>
+<sub>By Carl Hulse</sub>
+<p>House Republicans turned on themselves as they immolated yet another of their leaders in the bonfires of the speaker fight. Then they chose their next nominee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Nominates Mike Johnson for Speaker After Spurning Emmer</h3>
 <sub>By Luke Broadwater, Catie Edmondson and Kayla Guo</sub>
 <p>The selection of the ultraconservative and low-profile Louisianian capped a topsy-turvy day and gave Republicans hope of ending the weekslong deadlock that has paralyzed the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Chaos in the House</h3>
+<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
+<p>The Republican Party is in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Close Look at Some Key Evidence in the Gaza Hospital Blast</h3>
@@ -75,16 +87,16 @@ There is a lot happening in the world right now. The US GOP has nominated Mike J
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Went Through Hell,’ Freed Israeli, 85, Says of Subterranean Captivity in Gaza</h3>
-<sub>By Aaron Boxerman</sub>
-<p>Yocheved Lifshitz, a grandmother and Israeli peace activist, was kidnapped, beaten and held in tunnels built by Hamas for 17 days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<h3>As Bombs Fall in Gaza, History Hangs Over a Family Fighting to Survive</h3>
+<sub>By Declan Walsh</sub>
+<p>From his Los Angeles home, Mohammed Abujayyab has sought to help his grandmother and other relatives survive the Israeli bombardment. Memories of displacement are never far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
-<p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Why Israel Is Delaying the Ground Invasion</h3>
+<sub>By Sabrina Tavernise, Stella Tan, Asthaa Chaturvedi, Mooj Zadie, Michael Benoist, Liz O. Baylen, Diane Wong, Pat McCusker and Chris Wood</sub>
+<p>More than two weeks after the attack by Hamas, Israeli troops are still massing near the Gaza border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Hurricane Otis</h3>
@@ -92,46 +104,34 @@ There is a lot happening in the world right now. The US GOP has nominated Mike J
 <p>See the likely path and wind arrival times for Otis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Plea Deals in Georgia Trump Case, Fani Willis Is Building Momentum</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The Fulton County district attorney often uses her state’s racketeering law to pressure lower-rung defendants to cooperate and exert pressure on her main targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Cohen Denounces Trump During Courtroom Face-Off</h3>
 <sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
 <p>Michael D. Cohen accused his onetime boss, Donald J. Trump, of manipulating his net worth as Mr. Trump stared blankly ahead. It was their first interaction in five years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jenna Ellis, Former Trump Lawyer, Pleads Guilty in Georgia Election Case</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Three lawyers indicted with Donald Trump for trying to overturn the 2020 election results will now cooperate with prosecutors in the racketeering case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Files More Motions to Derail Federal Jan. 6 Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s lawyers made a series of arguments seeking dismissal of the federal charges that he conspired to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Richard Roundtree, Star of ‘Shaft,’ Dies at 81</h3>
-<sub>By Anita Gates</sub>
-<p>While indelibly tied to the role that made him famous in 1971, the actor remained active for more than four decades afterward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pilot Who Disrupted Flight Said He Had Taken Psychedelic Mushrooms, Complaint Says</h3>
-<sub>By Michael Levenson</sub>
-<p>In an interview with the police, the off-duty Alaska Airlines pilot also said he thought he was having a nervous breakdown and had not slept for more than 40 hours, according to a criminal complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Trump’s Lawyers Are Going Down. Is He?</h3>
-<sub>By David French</sub>
-<p>It’s hard to know what to make of the guilty pleas in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When the Skyscraper You Hate Blocks the Skyscraper You Love</h3>
+<sub>By Michael Kimmelman</sub>
+<p>Views of the Empire State Building are being obscured by a new 860-foot luxury tower rising just blocks away. Should New York regulate its skyline?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Rishi Sunak Is Trying His Best. He’s Probably Still Doomed.</h3>
-<sub>By Katy Balls</sub>
-<p>A sense of fatalism surrounds Britain’s prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Ukraine War Grinds On, Widows Try to See Life After Loss</h3>
+<sub>By Maria Varenikova</sub>
+<p>Support groups formed to help thousands of new widows see a dual role in healing their nation. “Our society was not ready to face such scale of grief,” one widow said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hawaii Bribery Scandal Casts a Shadow Over Lahaina’s Ruins</h3>
+<sub>By Blaze Lovell</sub>
+<p>For years, a local businessman paid off officials in exchange for lucrative contracts. The system he exploited has been left largely unchanged.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
