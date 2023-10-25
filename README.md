@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In US politics, there&#39;s a Republican representative from Louisiana, Mike Johnson, who is playing a pivotal role in congressional efforts to overturn the 2020 election results. And speaking of elections, Fani Willis, the Fulton County district attorney in Georgia is using plea deals to build momentum in her case against Donald Trump and his associates. On the global scene, we&#39;ve been hearing more about the humanitarian crisis in Gaza in light of ongoing bombings by Israeli forces as well as a powerful hurricane that caught many by surprise. In the tech world, Sam Bankman-Fried, the founder of FTX crypto exchange is facing trial for fraud and gets to take the witness stand this week. Closer to home here in New York, a high-rise luxury tower is blocking views of the Empire State Building and outdoors you might run across an unexpected addition toNYC sidewalk sideshows--a lady with two goats who has a story of despair to tell. Oh! And there&#39;s also news of Scholastic backtracking on isolating works on race and gender-- apparently they were doing it in order to help schools navigate new laws restricting books about racism and LGBTQ identities. Crazy times!</p>
+It&#39;s been chaos in the US lately - there&#39;s a new Speaker of the House elected, Mike Johnson, who is a hard-right conservative. Donald Trump was recently ordered to pay $10,000 in punishment for breaking a gag order outside his civil fraud trial. And Scholastic was faulted for isolating books about race and gender in schools. Meanwhile, life continues to be incredibly difficult in Gaza as there is a lack of water and food, and one visitor described the conditions there as &#39;apocalyptic&#39;. In New York, a woman showed up with 2 goats in an effort to tell her story of despair. On a more light-hearted note, scientists tested if roosters can recognize their reflections – they can!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Elects Mike Johnson as Speaker, Ending Three Weeks of Chaos and Paralysis</h3>
+<sub>By Catie Edmondson</sub>
+<p>After a tumultuous struggle that put their divisions on display, Republicans turned to a little-known social conservative from Louisiana who led congressional efforts to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Far Right Gets Its Man of the House</h3>
+<sub>By Carl Hulse</sub>
+<p>The new speaker, Mike Johnson, is virtually unknown to most Americans, but he can be expected to press a hard-right social and fiscal agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Is Mike Johnson? One of the House’s Staunchest Conservatives.</h3>
 <sub>By Annie Karni</sub>
@@ -75,51 +87,27 @@ There&#39;s a lot going on in the world right now! In US politics, there&#39;s a
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Close Look at Some Key Evidence in the Gaza Hospital Blast</h3>
-<sub>By Aric Toler, Haley Willis, Riley Mellen, Alexander Cardia, Natalie Reneau, Julian E. Barnes and Christoph Koettl</sub>
-<p>A widely cited missile video does not shed light on what happened, a Times analysis concludes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Thirst and Hunger Grow in Besieged Gaza Amid Israeli Bombardment</h3>
 <sub>By Raja Abdulrahim and Samar Abu Elouf</sub>
 <p>Residents wait in line for hours for bread and water, with fights sometimes breaking out. The United Nations has called the situation a humanitarian catastrophe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Hurricane Otis Caught Many By Surprise</h3>
-<sub>By Judson Jones</sub>
-<p>Storms don’t normally go from a tropical storm to a Category 5 hurricane in a day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Set to Testify at His Fraud Trial</h3>
-<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
-<p>The FTX founder’s plan to take the witness stand sets up a dramatic few days of testimony at the federal courthouse in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Challenges Facing Sam Bankman-Fried’s Lawyers</h3>
-<sub>By Matthew Goldstein, David Yaffe-Bellany and J. Edward Moreno</sub>
-<p>They are set to start their defense on Thursday, with the FTX founder planning to testify in his criminal fraud trial. Hurdles include what Mr. Bankman-Fried’s former associates said on the stand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Judge Who Set Gag Order Considers More Punishment for Trump</h3>
+<h3>Trump Ordered to Pay $10,000 in New Punishment for Breaking Gag Order</h3>
 <sub>By Jonah E. Bromwich and Kate Christobek</sub>
-<p>Outside Donald J. Trump’s civil fraud trial, the former president made comments to reporters that could violate a bar on attacking court staff.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Outside Donald J. Trump’s civil fraud trial, the former president made comments to reporters that the judge found were an attack on a court employee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Plea Deals in Georgia Trump Case, Fani Willis Is Building Momentum</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The Fulton County district attorney often uses her state’s racketeering law to pressure lower-rung defendants to cooperate and exert pressure on her main targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice Thomas’s R.V. Loan Was Forgiven, Senate Inquiry Finds</h3>
+<sub>By Jo Becker</sub>
+<p>The justice failed to repay much, perhaps all, of the $267,230 loan. His benefactor wiped the slate clean, with ethical and potential tax consequences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>When the Skyscraper You Hate Blocks the Skyscraper You Love</h3>
-<sub>By Michael Kimmelman</sub>
-<p>Views of the Empire State Building are being obscured by a new 860-foot luxury tower rising just blocks away. Should New York regulate its skyline?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A traveler stranded in Acapulco recounts ‘apocalyptic’ conditions.</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>“It was really terrifying,” said one visitor who was attending a mining convention in the Mexican city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +120,18 @@ There&#39;s a lot going on in the world right now! In US politics, there&#39;s a
 <h3>Publisher Scholastic Backtracks on Isolating Works on Race and Gender</h3>
 <sub>By Dana Goldstein</sub>
 <p>The company was faulted for the practice, which it said was an effort to help schools navigate new laws restricting books about racism and L.G.B.T.Q. identities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Mirror, Mirror on the Wall, Cock-a-Doodle-Doo</h3>
+<sub>By Darren Incorvaia</sub>
+<p>A modified version of the classic mirror test suggested that roosters recognize their reflections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Speakership Is Yours, Mike Johnson. Good Luck With That.</h3>
+<sub>By Gail Collins</sub>
+<p>This House is certainly not ... homey.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
