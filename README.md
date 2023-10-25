@@ -58,20 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, October 24, Central Standard Time</p>
+<p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-Recently, the Republican party nominated Mike Johnson for Speaker in an unexpected move after passing over his predecessor Emmer. A report came out from US intelligence agencies that they have a high confidence that a hospital explosion was caused by a Palestinian rocket. Yocheved Lifshitz, an 85 year old Israeli peace activist, was kidnapped and beaten for 17 days by Hamas while in subterranean captivity in Gaza. Michael Cohen has accused Donald Trump of manipulating his net worth at a federal courtroom. Three lawyers, including Trump, were charged with attempting to overturn the 2020 election results and now they are cooperating with prosecutors in a racketeering case. In Canada, due to wildfires 45 million acres have been burned this year and evacuations have been necessary. Young people in Ukraine are having to deal with the war, including frontline service and evacuating children from villages near the front line. Richard Roundtree has passed away at 81 after being made famous for his role in Shaft, but he had continued to act afterwards as well. An off-duty Alaska Airlines pilot admitted to taking psychedelic mushrooms while disrupting a flight and said he thought he was experiencing a nervous breakdown. Microsoft&#39;s A.I investment is stabilizing their Cloud business, as revenue has increased 13% compared to a year ago while profit has risen 27%.</p>
+Right now, the GOP in the US has nominated Mike Johnson for speaker of the House following a period of deadlock. In other world news, a Times analysis of a missile video concerning a blast in Gaza found that it didn&#39;t shed light on what happened. An Israeli peace activist named Yocheved Lifshitz who was kidnapped and beaten by Hamas has been released after 17 days in captivity. The past few weeks have seen the deadliest period for Palestinians in the West Bank in 15 years. Michael D. Cohen recently publicly denounced Trump during a court appearance, while former Trump lawyer Jenna Ellis and 3 other lawyers involved with Trump&#39;s attempt to overturn the 2020 election have pleaded guilty in Georgia. Trump is trying to derail the federal case with more motions as well. Meanwhile, actor Richard Roundtree has passed away at 81 and Hurricane Otis is expected to make catastrophic landfall in Mexico early Wednesday morning. And an off-duty Alaska Airlines pilot admitted he took psychedelic mushrooms prior to disrupting a flight. Finally, Opinion articles are discussing Palestinian republics of fear and misinformation as well as Britain&#39;s Prime Minister Rishi Sunak&#39;s current outlook.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>G.O.P. Nominates Mike Johnson for Speaker After Spurning Emmer</h3>
-<sub>By Luke Broadwater</sub>
-<p>The selection of the low-profile Louisianian capped a topsy-turvy day, but it was not clear that Mr. Johnson could do any better at uniting Republicans and ending the paralysis engulfing the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Luke Broadwater, Catie Edmondson and Kayla Guo</sub>
+<p>The selection of the ultraconservative and low-profile Louisianian capped a topsy-turvy day and gave Republicans hope of ending the weekslong deadlock that has paralyzed the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Cites ‘High Confidence’ That Palestinian Rocket Caused Hospital Blast</h3>
-<sub>By Julian E. Barnes and David E. Sanger</sub>
-<p>American intelligence agencies released no new declassified imagery or other new evidence to make their case. Officials said their strengthened assessment was based on video evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Close Look at Some Key Evidence in the Gaza Hospital Blast</h3>
+<sub>By Aric Toler, Haley Willis, Riley Mellen, Alexander Cardia, Natalie Reneau, Julian E. Barnes and Christoph Koettl</sub>
+<p>A widely cited missile video does not shed light on what happened, a Times analysis concludes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -79,6 +79,12 @@ Recently, the Republican party nominated Mike Johnson for Speaker in an unexpect
 <sub>By Aaron Boxerman</sub>
 <p>Yocheved Lifshitz, a grandmother and Israeli peace activist, was kidnapped, beaten and held in tunnels built by Hamas for 17 days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
+<p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Cohen Denounces Trump During Courtroom Face-Off</h3>
@@ -98,28 +104,16 @@ Recently, the Republican party nominated Mike Johnson for Speaker in an unexpect
 <p>The former president’s lawyers made a series of arguments seeking dismissal of the federal charges that he conspired to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘It’s Like Our Country Exploded’: Canada’s Year of Fire</h3>
-<sub>By David Wallace-Wells</sub>
-<p>Endless evacuations, unimaginable smoke and heat, 45 million acres burned — is this the nation’s new normal?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What It’s Like to Be Young in Ukraine Now</h3>
-<sub>By Laetitia Vancon and Matthew Mpoke Bigg</sub>
-<p>Each age group has suffered through the war, but for young adults it has been particularly hard — and not just for those who have served on the frontline.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Intense Fighting, Ukraine Orders Evacuation of Children</h3>
-<sub>By Marc Santora</sub>
-<p>The evacuations from villages near the front line underscored the ferocity of the fighting as both Ukraine and Russia press bloody assaults.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Richard Roundtree, Star of ‘Shaft,’ Dies at 81</h3>
 <sub>By Anita Gates</sub>
 <p>While indelibly tied to the role that made him famous in 1971, the actor remained active for more than four decades afterward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hurricane Otis Nears Acapulco With ‘Catastrophic’ Category 5 Winds</h3>
+<sub>By John Yoon</sub>
+<p>Forecasters warn of destructive winds, flooding and mudslides in the Mexican states of Guerrero and Oaxaca when it makes landfall early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +122,17 @@ Recently, the Republican party nominated Mike Johnson for Speaker in an unexpect
 <p>In an interview with the police, the off-duty Alaska Airlines pilot also said he thought he was having a nervous breakdown and had not slept for more than 40 hours, according to a criminal complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft’s A.I. Investment Stabilizes Its Cloud Business</h3>
-<sub>By Karen Weise</sub>
-<p>Revenue increased 13 percent in the latest quarter compared with a year earlier. Profit rose 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Palestinian Republic of Fear and Misinformation</h3>
+<sub>By Bret Stephens</sub>
+<p>As in any tyrannical or fanatical regime, Palestinians who stray from the approved line put themselves at serious risk.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Rishi Sunak Is Trying His Best. He’s Probably Still Doomed.</h3>
+<sub>By Katy Balls</sub>
+<p>A sense of fatalism surrounds Britain’s prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
