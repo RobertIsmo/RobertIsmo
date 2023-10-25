@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-It looks like there is a lot of chaos going on across the world! In the US, there is a lot of political turmoil with House Republicans immolating their leaders in the speaker fight and the Republican Party being thrown into disarray. In the Middle East, tensions remain high between Israel and Gaza and a Times analysis suggests that key evidence regarding a hospital blast isn&#39;t shedding much light on what actually happened. In Ukraine, there is still a war going on and thousands of widows are struggling to find life after loss. Closer to home, in Hawaii, corruption of local officials has been revealed after a bribery scandal came to light. Finally, in New York City, residents are debating whether or not skyscrapers should be regulated after one blocks the view of another popular landmark.</p>
+I wanted to give a quick update on what&#39;s been happening in the world lately. In the US, there is chaos in the House due to infighting within the Republican Party over who should be the next Speaker. There has also been a lot of controversy regarding the legitimacy of the 2020 election results. Additionally, Hurricane Otis has formed and has quickly become a Category 5 storm, catching many by surprise. In Gaza, there&#39;s been a lot of violence due to Israeli bombardment and conditions are becoming increasingly dire. Finally, there are some legal proceedings taking place involving Sam Bankman-Fried and a fraud case and Fani Willis in Georgia with an apparent racketeering case.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Another Day of G.O.P. Chaos Winds Up With Speaker Nominee No. 4</h3>
+<h3>Next Speaker Vote Is Expected in Hours in a Leaderless House</h3>
 <sub>By Carl Hulse</sub>
-<p>House Republicans turned on themselves as they immolated yet another of their leaders in the bonfires of the speaker fight. Then they chose their next nominee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Representative Mike Johnson of Louisiana is the fourth Republican nominee for speaker, but it’s unclear if he can win the chair after the three before him failed because of G.O.P. infighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,6 +80,12 @@ It looks like there is a lot of chaos going on across the world! In the US, ther
 <p>The Republican Party is in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Legitimized the Myth of a Stolen Election — and Reaped the Rewards</h3>
+<sub>By Steve Eder, David D. Kirkpatrick and Mike McIntire</sub>
+<p>On the day the Capitol was attacked, 139 Republicans in the House voted to dispute the Electoral College count. This is how they got there.  <a href="https://nyti.ms/3CoEiPI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Close Look at Some Key Evidence in the Gaza Hospital Blast</h3>
 <sub>By Aric Toler, Haley Willis, Riley Mellen, Alexander Cardia, Natalie Reneau, Julian E. Barnes and Christoph Koettl</sub>
@@ -87,9 +93,9 @@ It looks like there is a lot of chaos going on across the world! In the US, ther
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Bombs Fall in Gaza, History Hangs Over a Family Fighting to Survive</h3>
-<sub>By Declan Walsh</sub>
-<p>From his Los Angeles home, Mohammed Abujayyab has sought to help his grandmother and other relatives survive the Israeli bombardment. Memories of displacement are never far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Thirst and Hunger Grow in Besieged Gaza Amid Israeli Bombardment</h3>
+<sub>By Raja Abdulrahim and Samar Abu Elouf</sub>
+<p>Residents wait in line for hours for bread and water, with fights sometimes breaking out. The United Nations has called the situation a humanitarian catastrophe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -98,40 +104,34 @@ It looks like there is a lot of chaos going on across the world! In the US, ther
 <p>More than two weeks after the attack by Hamas, Israeli troops are still massing near the Gaza border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why Hurricane Otis Caught Many By Surprise</h3>
+<sub>By Judson Jones</sub>
+<p>Storms don’t normally go from a tropical storm to a Category 5 hurricane in a day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tracking Hurricane Otis</h3>
 <sub>By William B. Davis, Madison Dong, John Keefe, Judson Jones and Bea Malsky</sub>
 <p>See the likely path and wind arrival times for Otis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A traveler stranded in Acapulco recounts ‘apocalyptic’ conditions.</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>“It was really terrifying,” said one visitor who was attending a mining convention in the Mexican city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Set to Testify at His Fraud Trial</h3>
+<sub>By David Yaffe-Bellany and Matthew Goldstein</sub>
+<p>The FTX founder’s plan to take the witness stand sets up a dramatic few days of testimony at the federal courthouse in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Plea Deals in Georgia Trump Case, Fani Willis Is Building Momentum</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>The Fulton County district attorney often uses her state’s racketeering law to pressure lower-rung defendants to cooperate and exert pressure on her main targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Cohen Denounces Trump During Courtroom Face-Off</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
-<p>Michael D. Cohen accused his onetime boss, Donald J. Trump, of manipulating his net worth as Mr. Trump stared blankly ahead. It was their first interaction in five years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>When the Skyscraper You Hate Blocks the Skyscraper You Love</h3>
-<sub>By Michael Kimmelman</sub>
-<p>Views of the Empire State Building are being obscured by a new 860-foot luxury tower rising just blocks away. Should New York regulate its skyline?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Ukraine War Grinds On, Widows Try to See Life After Loss</h3>
-<sub>By Maria Varenikova</sub>
-<p>Support groups formed to help thousands of new widows see a dual role in healing their nation. “Our society was not ready to face such scale of grief,” one widow said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hawaii Bribery Scandal Casts a Shadow Over Lahaina’s Ruins</h3>
-<sub>By Blaze Lovell</sub>
-<p>For years, a local businessman paid off officials in exchange for lucrative contracts. The system he exploited has been left largely unchanged.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
