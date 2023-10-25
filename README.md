@@ -60,31 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-I wanted to give a quick update on what&#39;s been happening in the world lately. In the US, there is chaos in the House due to infighting within the Republican Party over who should be the next Speaker. There has also been a lot of controversy regarding the legitimacy of the 2020 election results. Additionally, Hurricane Otis has formed and has quickly become a Category 5 storm, catching many by surprise. In Gaza, there&#39;s been a lot of violence due to Israeli bombardment and conditions are becoming increasingly dire. Finally, there are some legal proceedings taking place involving Sam Bankman-Fried and a fraud case and Fani Willis in Georgia with an apparent racketeering case.</p>
+There&#39;s a lot going on in the world right now! In US politics, there&#39;s a Republican representative from Louisiana, Mike Johnson, who is playing a pivotal role in congressional efforts to overturn the 2020 election results. And speaking of elections, Fani Willis, the Fulton County district attorney in Georgia is using plea deals to build momentum in her case against Donald Trump and his associates. On the global scene, we&#39;ve been hearing more about the humanitarian crisis in Gaza in light of ongoing bombings by Israeli forces as well as a powerful hurricane that caught many by surprise. In the tech world, Sam Bankman-Fried, the founder of FTX crypto exchange is facing trial for fraud and gets to take the witness stand this week. Closer to home here in New York, a high-rise luxury tower is blocking views of the Empire State Building and outdoors you might run across an unexpected addition toNYC sidewalk sideshows--a lady with two goats who has a story of despair to tell. Oh! And there&#39;s also news of Scholastic backtracking on isolating works on race and gender-- apparently they were doing it in order to help schools navigate new laws restricting books about racism and LGBTQ identities. Crazy times!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Next Speaker Vote Is Expected in Hours in a Leaderless House</h3>
-<sub>By Carl Hulse</sub>
-<p>Representative Mike Johnson of Louisiana is the fourth Republican nominee for speaker, but it’s unclear if he can win the chair after the three before him failed because of G.O.P. infighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Who Is Mike Johnson? One of the House’s Staunchest Conservatives.</h3>
+<sub>By Annie Karni</sub>
+<p>A lawyer and former chairman of the conservative Republican Study Committee, he played a pivotal role in congressional efforts to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>G.O.P. Nominates Mike Johnson for Speaker After Spurning Emmer</h3>
-<sub>By Luke Broadwater, Catie Edmondson and Kayla Guo</sub>
-<p>The selection of the ultraconservative and low-profile Louisianian capped a topsy-turvy day and gave Republicans hope of ending the weekslong deadlock that has paralyzed the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Chaos in the House</h3>
-<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
-<p>The Republican Party is in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Johnson Played Leading Role in Effort to Overturn 2020 Election</h3>
+<sub>By Luke Broadwater and Steve Eder</sub>
+<p>Representative Mike Johnson recruited House Republicans to back a lawsuit to overturn the results, and he was a key architect of his party’s objections to certifying President Biden’s victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Legitimized the Myth of a Stolen Election — and Reaped the Rewards</h3>
-<sub>By Steve Eder, David D. Kirkpatrick and Mike McIntire</sub>
-<p>On the day the Capitol was attacked, 139 Republicans in the House voted to dispute the Electoral College count. This is how they got there.  <a href="https://nyti.ms/3CoEiPI"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Close Look at Some Key Evidence in the Gaza Hospital Blast</h3>
@@ -98,28 +86,10 @@ I wanted to give a quick update on what&#39;s been happening in the world lately
 <p>Residents wait in line for hours for bread and water, with fights sometimes breaking out. The United Nations has called the situation a humanitarian catastrophe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Why Israel Is Delaying the Ground Invasion</h3>
-<sub>By Sabrina Tavernise, Stella Tan, Asthaa Chaturvedi, Mooj Zadie, Michael Benoist, Liz O. Baylen, Diane Wong, Pat McCusker and Chris Wood</sub>
-<p>More than two weeks after the attack by Hamas, Israeli troops are still massing near the Gaza border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Why Hurricane Otis Caught Many By Surprise</h3>
 <sub>By Judson Jones</sub>
 <p>Storms don’t normally go from a tropical storm to a Category 5 hurricane in a day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Hurricane Otis</h3>
-<sub>By William B. Davis, Madison Dong, John Keefe, Judson Jones and Bea Malsky</sub>
-<p>See the likely path and wind arrival times for Otis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A traveler stranded in Acapulco recounts ‘apocalyptic’ conditions.</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>“It was really terrifying,” said one visitor who was attending a mining convention in the Mexican city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -128,10 +98,40 @@ I wanted to give a quick update on what&#39;s been happening in the world lately
 <p>The FTX founder’s plan to take the witness stand sets up a dramatic few days of testimony at the federal courthouse in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Challenges Facing Sam Bankman-Fried’s Lawyers</h3>
+<sub>By Matthew Goldstein, David Yaffe-Bellany and J. Edward Moreno</sub>
+<p>They are set to start their defense on Thursday, with the FTX founder planning to testify in his criminal fraud trial. Hurdles include what Mr. Bankman-Fried’s former associates said on the stand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Judge Who Set Gag Order Considers More Punishment for Trump</h3>
+<sub>By Jonah E. Bromwich and Kate Christobek</sub>
+<p>Outside Donald J. Trump’s civil fraud trial, the former president made comments to reporters that could violate a bar on attacking court staff.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Plea Deals in Georgia Trump Case, Fani Willis Is Building Momentum</h3>
 <sub>By Richard Fausset and Danny Hakim</sub>
 <p>The Fulton County district attorney often uses her state’s racketeering law to pressure lower-rung defendants to cooperate and exert pressure on her main targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>When the Skyscraper You Hate Blocks the Skyscraper You Love</h3>
+<sub>By Michael Kimmelman</sub>
+<p>Views of the Empire State Building are being obscured by a new 860-foot luxury tower rising just blocks away. Should New York regulate its skyline?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Among New York’s Sidewalk Sideshows, 2 Goats and a Story of Despair</h3>
+<sub>By Michael Wilson</sub>
+<p>In a city thick with spectacles and showmen, Beverly Shaw arrived from Indiana with a desperate plea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Publisher Scholastic Backtracks on Isolating Works on Race and Gender</h3>
+<sub>By Dana Goldstein</sub>
+<p>The company was faulted for the practice, which it said was an effort to help schools navigate new laws restricting books about racism and L.G.B.T.Q. identities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
