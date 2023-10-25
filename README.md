@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, Tom Emmer, the House G.O.P.&#39;s No. 3 leader, narrowly won his party&#39;s nomination but faced a backlash from right-wing colleagues and former President Donald Trump. Meanwhile in Israel, they have declared plans to destroy Hamas but the question of who will govern Gaza after this has yet to be answered. A 85-year-old hostage held in Gaza has recently come forward and gave a description of how terrible it was to be held captive there. 
-
-Additional Intense fighting is taking place in Ukraine between them and Russia, which has forced the evacuation of children from villages near the front line. On a less heavy note, Microsoft and Alphabet both had great sales results and their cloud businesses have been thriving as well, with slight disappointments for Alphabet&#39;s cloud business.</p>
+There seems to be a lot going on in the world right now. In US news, former president Donald Trump&#39;s former lawyer Michael Cohen denounced him in court recently, and Tom Emmer dropped his bid for House GOP Speaker after getting backlash from right-wing colleagues. On the international front, there&#39;s fighting between Israel and Hamas, with reports of elderly Israelis being held captive by Hamas in Jordanian tunnels. Ukraine is also facing intense fighting, with the government ordering evacuations of children from villages near the front lines. Canada has had a rough year due to wild fires that have burned 45 million acres. There&#39;s also news in technology: Microsoft has made an AI investment to stabilize their cloud business and Alphabet (which owns Google) reported a strong 11% increase in sales yet has disappointed in its cloud business.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Emmer Drops Speaker Bid After Right-Wing Backlash</h3>
@@ -71,25 +69,25 @@ Additional Intense fighting is taking place in Ukraine between them and Russia, 
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says It Will Destroy Hamas. But Who Will Govern Gaza?</h3>
-<sub>By Steven Erlanger</sub>
-<p>Israel has set itself a stiff challenge in aiming to vanquish Hamas. But an even bigger question looms: Once in Gaza, how and when does Israel get out?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>85-Year-Old Held Hostage in Gaza Says She ‘Went Through Hell’</h3>
-<sub>By Aaron Boxerman and Nadav Gavrielov</sub>
-<p>Yocheved Lifshitz offered the first public account to emerge from the more than 200 hostages estimated to be held in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The ‘Devil’s Playground’ of Urban Combat That Israel Is Preparing to Enter</h3>
 <sub>By Damien Cave</sub>
 <p>A ground invasion in Gaza could produce some of the fiercest street-to-street fighting since World War II.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I Went Through Hell,’ Freed Israeli, 85, Says of Subterranean Captivity in Gaza</h3>
+<sub>By Aaron Boxerman</sub>
+<p>Yocheved Lifshitz, a grandmother and Israeli peace activist, was kidnapped, beaten and held in tunnels built by Hamas for 17 days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>All Eyes on the Rafah Border Crossing</h3>
+<sub>By New York Times Audio</sub>
+<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Scowls as Cohen Casts Him as a Cheat at Fraud Trial</h3>
+<h3>Cohen Denounces Trump During Courtroom Face-Off</h3>
 <sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
 <p>Michael D. Cohen accused his onetime boss, Donald J. Trump, of manipulating his net worth as Mr. Trump stared blankly ahead. It was their first interaction in five years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
@@ -125,7 +123,7 @@ Additional Intense fighting is taking place in Ukraine between them and Russia, 
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Cloud Growth Powers Microsoft Above Expectations</h3>
+<h3>Microsoft’s A.I. Investment Stabilizes Its Cloud Business</h3>
 <sub>By Karen Weise</sub>
 <p>Revenue increased 13 percent in the latest quarter compared with a year earlier. Profit rose 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 24, Central Standard Time</sub></sub>
