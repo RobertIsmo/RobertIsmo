@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! At Bates College, students had to stay on lockdown while some were stranded and unable to return home. In the House of Representatives, they just elected Mike Johnson as Speaker, who will push a hard-right conservative agenda. The former President Donald Trump was recently ordered to pay $10,000 in punishment for breaking a gag order and prosecutors are pushing to reinstate the gag order. Additionally, there&#39;s an ongoing situation with the Union Auto Workers and Ford having reached a tentative agreement that could affect other automakers. Lastly, Justice Thomas recently had a forgiveness of an R.V loan worth over $200,000 with potential ethical and tax consequences.</p>
+There&#39;s been some scary violence happening in Lewiston, Maine recently. Someone opened fire inside a bowling alley and a bar there, and the suspect is still at large. There are also students and employees stuck at Bates College right now because the school went into lockdown and all classes were canceled yesterday.
+
+Also, tensions have been escalating in the Middle East between Hamas and Israel. Israel&#39;s military has reportedly attacked more than 7,000 targets in Gaza since the conflict began about 3 weeks ago, while Palestinians are accusing them of targeting civilians indiscriminately. 
+
+On the political front, America has a new House Speaker: Mike Johnson from Louisiana. He&#39;s a hard-right conservative who believes that burning fossil fuels isn&#39;t changing the climate despite all evidence to the contrary. He&#39;s also facing legal trouble with prosecutors pushing to reinstate a gag order on him in an ongoing election case. 
+
+Meanwhile, UAW and Ford have reached a tentative contract agreement that could be beneficial to both General Motors and Stellantis if approved by union members. Lastly, some scientists are watching their life&#39;s work disappear due to climate change - it&#39;s really heartbreaking for them.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Timeline of the Shootings in Lewiston, Maine</h3>
+<sub>By Jenny Gross</sub>
+<p>Around 7 p.m. on Wednesday, shootings occurred at a bowling alley and a bar in Lewiston, Maine. The police said that a suspect was still at large on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Students at Bates College waited anxiously for news under lockdown.</h3>
 <sub>By John Yoon</sub>
 <p>Some students and employees were stranded on campus, unable to return home, the university said. The school canceled classes on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Elects Mike Johnson as Speaker, Embracing a Hard-Right Conservative</h3>
-<sub>By Catie Edmondson</sub>
-<p>Republicans turned to a little-known Louisiana lawmaker who led congressional efforts to overturn the 2020 election, ending a weekslong deadlock that paralyzed the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Strikes on Gaza Are Some of the Most Intense This Century</h3>
+<sub>By Patrick Kingsley</sub>
+<p>In the 19 days since Hamas attacked Israel, the Israeli military says it has struck more than 7,000 targets in Gaza. Palestinians accuse Israel of indiscriminately targeting civilians, but Israel officials say the strikes are aimed at eroding military infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For a Grandmother in Gaza, History Is Scarier Than Airstrikes</h3>
+<sub>By Declan Walsh</sub>
+<p>From his Los Angeles home, Mohammed Abujayyab has sought to help his grandmother and other relatives survive the Israeli bombardment. Memories of displacement are never far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,41 +98,29 @@ There is a lot going on in the world right now! At Bates College, students had t
 <p>The new speaker, Mike Johnson, is virtually unknown to most Americans, but he can be expected to press a hard-right social and fiscal agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Johnson, House Republicans Elevate One of Their Staunchest Conservatives</h3>
-<sub>By Annie Karni</sub>
-<p>The new speaker played a pivotal role in congressional efforts to overturn the 2020 election and opposes abortion rights and gay marriage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>House Speaker Mike Johnson</h3>
+<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
+<p>Who is he?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Trump Loyalty Test at the Center of Republicans’ Speaker Endgame</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The developments on Capitol Hill highlighted the extent to which one of the greatest sins inside the Republican Party is to have certified Joseph R. Biden’s victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>New House Speaker Champions Fossil Fuels and Dismisses Climate Concerns</h3>
+<sub>By Lisa Friedman</sub>
+<p>Representative Mike Johnson comes from Louisiana oil country and has said he does not believe burning fossil fuels is changing the climate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-pageoneplus-blue" alt="">
-<h3>In Israel and Gaza, Photos Show the Human Cost of War</h3>
-<sub>By The New York Times</sub>
-<p>Four photojournalists, two in Israel and two in Gaza, provided context behind their powerful images.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Audio Diary of Despair</h3>
-<sub>By Yousur Al-Hlou</sub>
-<p>In a series of voice memos sent via WhatsApp, Tasneem Ismael Ahel, 19, described the war unfolding around her in Gaza City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. and Ford Reach Tentative Contract Agreement</h3>
-<sub>By Neal E. Boudette and Noam Scheiber</sub>
-<p>The deal, subject to approval by union members, could ease the way for deals with General Motors and Stellantis and end a growing wave of walkouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The House Finally Has a Speaker</h3>
+<sub>By Michael Barbaro, Michael Simon Johnson, Rachelle Bonja, Rachel Quester, Lexie Diao, Dan Powell, Marion Lozano and Chris Wood</sub>
+<p>The hard-right conservative Mike Johnson of Louisiana was elected to the chair, ending a weekslong deadlock.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Told to Pay $10,000 in New Punishment for Breaking Gag Order</h3>
-<sub>By Jonah E. Bromwich and Kate Christobek</sub>
-<p>Outside Donald J. Trump’s civil fraud trial, the former president made comments to reporters that the judge found were an attack on a court employee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<h3>Trump’s Allies Pledged Loyalty to Him. Until They Didn’t.</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
+<p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Prosecutors Push to Reinstate Gag Order on Trump</h3>
@@ -122,16 +128,16 @@ There is a lot going on in the world right now! At Bates College, students had t
 <p>In court filings, the special counsel’s office said the gag order was needed to keep the former president from making “harmful and prejudicial attacks” on people in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Guilty Pleas in Georgia Mean for the Federal Case Against Trump</h3>
-<sub>By Glenn Thrush</sub>
-<p>The guilty pleas present a host of challenges as state and federal prosecutors engage in parallel efforts to hold Donald J. Trump accountable, defense lawyers and former federal prosecutors say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Scientists Watching Their Life’s Work Disappear</h3>
+<sub>By Catrin Einhorn and Thea Traff</sub>
+<p>Some are stubborn optimists. Others struggle with despair. Their faces show the weight they carry as they witness the impact of climate change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Thomas’s R.V. Loan Was Forgiven, Senate Inquiry Finds</h3>
-<sub>By Jo Becker</sub>
-<p>The justice failed to repay much, perhaps all, of the $267,230 loan. His benefactor wiped the slate clean, with ethical and potential tax consequences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. and Ford Reach Tentative Contract Agreement</h3>
+<sub>By Neal E. Boudette and Noam Scheiber</sub>
+<p>The deal, subject to approval by union members, could ease the way for deals with General Motors and Stellantis and end a growing wave of walkouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
