@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-It&#39;s been chaos in the US lately - there&#39;s a new Speaker of the House elected, Mike Johnson, who is a hard-right conservative. Donald Trump was recently ordered to pay $10,000 in punishment for breaking a gag order outside his civil fraud trial. And Scholastic was faulted for isolating books about race and gender in schools. Meanwhile, life continues to be incredibly difficult in Gaza as there is a lack of water and food, and one visitor described the conditions there as &#39;apocalyptic&#39;. In New York, a woman showed up with 2 goats in an effort to tell her story of despair. On a more light-hearted note, scientists tested if roosters can recognize their reflections – they can!</p>
+There has been a lot going on recently. In the US, House Republicans elected Mike Johnson as Speaker, an ultra-conservative who led efforts to overturn the 2020 election. There was also a big labor agreement between the United Auto Workers and Ford, and Donald Trump has been hit with new punishments for breaking a gag order in his civil fraud trial. Meanwhile, in Israel and Gaza, there have been clashes with devastating consequences for civilians. Hurricane Otis has caused a devastating amount of damage on Mexico&#39;s western coast, and it looks like this could be just the beginning of the storm season there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Elects Mike Johnson as Speaker, Ending Three Weeks of Chaos and Paralysis</h3>
+<h3>House Elects Mike Johnson as Speaker, Embracing a Hard-Right Conservative</h3>
 <sub>By Catie Edmondson</sub>
-<p>After a tumultuous struggle that put their divisions on display, Republicans turned to a little-known social conservative from Louisiana who led congressional efforts to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Republicans turned to a little-known Louisiana lawmaker who led congressional efforts to overturn the 2020 election, ending a weekslong deadlock that paralyzed the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,27 +75,51 @@ It&#39;s been chaos in the US lately - there&#39;s a new Speaker of the House el
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Is Mike Johnson? One of the House’s Staunchest Conservatives.</h3>
+<h3>In Johnson, House Republicans Elevate One of Their Staunchest Conservatives</h3>
 <sub>By Annie Karni</sub>
-<p>A lawyer and former chairman of the conservative Republican Study Committee, he played a pivotal role in congressional efforts to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The new speaker played a pivotal role in congressional efforts to overturn the 2020 election and opposes abortion rights and gay marriage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Played Leading Role in Effort to Overturn 2020 Election</h3>
-<sub>By Luke Broadwater and Steve Eder</sub>
-<p>Representative Mike Johnson recruited House Republicans to back a lawsuit to overturn the results, and he was a key architect of his party’s objections to certifying President Biden’s victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Trump Loyalty Test at the Center of Republicans’ Speaker Endgame</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The developments on Capitol Hill highlighted the extent to which one of the greatest sins inside the Republican Party is to have certified Joseph R. Biden’s victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. and Ford Reach Tentative Contract Agreement</h3>
+<sub>By Neal E. Boudette and Noam Scheiber</sub>
+<p>The deal, subject to approval by union members, could ease the way for deals with General Motors and Stellantis and end a growing wave of walkouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-pageoneplus-blue" alt="">
+<h3>In Israel and Gaza, Photos Show the Human Cost of War</h3>
+<sub>By The New York Times</sub>
+<p>Four photojournalists, two in Israel and two in Gaza, provided context behind their powerful images.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Thirst and Hunger Grow in Besieged Gaza Amid Israeli Bombardment</h3>
-<sub>By Raja Abdulrahim and Samar Abu Elouf</sub>
-<p>Residents wait in line for hours for bread and water, with fights sometimes breaking out. The United Nations has called the situation a humanitarian catastrophe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An Audio Diary of Despair</h3>
+<sub>By Yousur Al-Hlou</sub>
+<p>In a series of voice memos sent via WhatsApp, Tasneem Ismael Ahel, 19, described the war unfolding around her in Gaza City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>A Relative of Israeli Hostages Has a Message for the U.N.</h3>
+<sub>By New York Times Audio</sub>
+<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Ordered to Pay $10,000 in New Punishment for Breaking Gag Order</h3>
+<h3>Trump Told to Pay $10,000 in New Punishment for Breaking Gag Order</h3>
 <sub>By Jonah E. Bromwich and Kate Christobek</sub>
 <p>Outside Donald J. Trump’s civil fraud trial, the former president made comments to reporters that the judge found were an attack on a court employee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Guilty Pleas in Georgia Mean for the Federal Case Against Trump</h3>
+<sub>By Glenn Thrush</sub>
+<p>The guilty pleas present a host of challenges as state and federal prosecutors engage in parallel efforts to hold Donald J. Trump accountable, defense lawyers and former federal prosecutors say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +129,9 @@ It&#39;s been chaos in the US lately - there&#39;s a new Speaker of the House el
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A traveler stranded in Acapulco recounts ‘apocalyptic’ conditions.</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>“It was really terrifying,” said one visitor who was attending a mining convention in the Mexican city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Among New York’s Sidewalk Sideshows, 2 Goats and a Story of Despair</h3>
-<sub>By Michael Wilson</sub>
-<p>In a city thick with spectacles and showmen, Beverly Shaw arrived from Indiana with a desperate plea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Publisher Scholastic Backtracks on Isolating Works on Race and Gender</h3>
-<sub>By Dana Goldstein</sub>
-<p>The company was faulted for the practice, which it said was an effort to help schools navigate new laws restricting books about racism and L.G.B.T.Q. identities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Mirror, Mirror on the Wall, Cock-a-Doodle-Doo</h3>
-<sub>By Darren Incorvaia</sub>
-<p>A modified version of the classic mirror test suggested that roosters recognize their reflections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Speakership Is Yours, Mike Johnson. Good Luck With That.</h3>
-<sub>By Gail Collins</sub>
-<p>This House is certainly not ... homey.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A ‘Nightmare Scenario’ Hurricane Batters Mexico’s Western Coast</h3>
+<sub>By Zolan Kanno-Youngs, Judson Jones and Derrick Bryson Taylor</sub>
+<p>Hurricane Otis defied forecasts when it quickly transformed from a tropical storm into a Category 5 storm and slammed into the coastal city of Acapulco.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
