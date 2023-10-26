@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, October 25, Central Standard Time</p>
 <p>
-There has been a lot going on recently. In the US, House Republicans elected Mike Johnson as Speaker, an ultra-conservative who led efforts to overturn the 2020 election. There was also a big labor agreement between the United Auto Workers and Ford, and Donald Trump has been hit with new punishments for breaking a gag order in his civil fraud trial. Meanwhile, in Israel and Gaza, there have been clashes with devastating consequences for civilians. Hurricane Otis has caused a devastating amount of damage on Mexico&#39;s western coast, and it looks like this could be just the beginning of the storm season there.</p>
+Right now, the political situation in the US is very fraught. The House of Representatives has elected Mike Johnson as Speaker, who is a hard-right conservative and was one of the most outspoken Republicans trying to overturn the 2020 election result. Across the country, union workers at Ford have reached a tentative agreement on their contract to end walkouts at their factories. In international news, Israel and Gaza are in the midst of a war that has been incredibly difficult and costly for those involved both physically and emotionally. And finally, Supreme Court Justice Thomas recently had an RV loan forgiven without paying it off, raising some ethical and possible tax consequences.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Elects Mike Johnson as Speaker, Embracing a Hard-Right Conservative</h3>
@@ -86,12 +86,6 @@ There has been a lot going on recently. In the US, House Republicans elected Mik
 <p>The developments on Capitol Hill highlighted the extent to which one of the greatest sins inside the Republican Party is to have certified Joseph R. Biden’s victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. and Ford Reach Tentative Contract Agreement</h3>
-<sub>By Neal E. Boudette and Noam Scheiber</sub>
-<p>The deal, subject to approval by union members, could ease the way for deals with General Motors and Stellantis and end a growing wave of walkouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-pageoneplus-blue" alt="">
 <h3>In Israel and Gaza, Photos Show the Human Cost of War</h3>
 <sub>By The New York Times</sub>
@@ -110,10 +104,22 @@ There has been a lot going on recently. In the US, House Republicans elected Mik
 <p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. and Ford Reach Tentative Contract Agreement</h3>
+<sub>By Neal E. Boudette and Noam Scheiber</sub>
+<p>The deal, subject to approval by union members, could ease the way for deals with General Motors and Stellantis and end a growing wave of walkouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Told to Pay $10,000 in New Punishment for Breaking Gag Order</h3>
 <sub>By Jonah E. Bromwich and Kate Christobek</sub>
 <p>Outside Donald J. Trump’s civil fraud trial, the former president made comments to reporters that the judge found were an attack on a court employee.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Prosecutors Push to Reinstate Gag Order on Trump</h3>
+<sub>By Alan Feuer and Glenn Thrush</sub>
+<p>In court filings, the special counsel’s office said the gag order was needed to keep the former president from making “harmful and prejudicial attacks” on people in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There has been a lot going on recently. In the US, House Republicans elected Mik
 <h3>Justice Thomas’s R.V. Loan Was Forgiven, Senate Inquiry Finds</h3>
 <sub>By Jo Becker</sub>
 <p>The justice failed to repay much, perhaps all, of the $267,230 loan. His benefactor wiped the slate clean, with ethical and potential tax consequences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A ‘Nightmare Scenario’ Hurricane Batters Mexico’s Western Coast</h3>
-<sub>By Zolan Kanno-Youngs, Judson Jones and Derrick Bryson Taylor</sub>
-<p>Hurricane Otis defied forecasts when it quickly transformed from a tropical storm into a Category 5 storm and slammed into the coastal city of Acapulco.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
