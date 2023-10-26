@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 26, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now! In the US, House Republicans just elected Mike Johnson as speaker, a hard-right conservative. His election is a signal that Republicans in Congress are going to push a conservative agenda. There&#39;s also the ongoing fight between Israel and Hamas in Gaza, which has been accompanied by powerful images from photojournalists offering context into the lives of those affected by the conflict. On the domestic front, US workers and the United Auto Workers Union have reached a tentative contract agreement with Ford, while former President Trump is facing legal troubles as federal prosecutors try to reinstate a gag order against him after he made prejudicial attacks on court personnel. Finally, Supreme Court Justice Clarence Thomas&#39; loan was recently forgiven, raising ethical and possible tax issues.</p>
+There is a lot going on in the world right now! At Bates College, students had to stay on lockdown while some were stranded and unable to return home. In the House of Representatives, they just elected Mike Johnson as Speaker, who will push a hard-right conservative agenda. The former President Donald Trump was recently ordered to pay $10,000 in punishment for breaking a gag order and prosecutors are pushing to reinstate the gag order. Additionally, there&#39;s an ongoing situation with the Union Auto Workers and Ford having reached a tentative agreement that could affect other automakers. Lastly, Justice Thomas recently had a forgiveness of an R.V loan worth over $200,000 with potential ethical and tax consequences.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Students at Bates College waited anxiously for news under lockdown.</h3>
+<sub>By John Yoon</sub>
+<p>Some students and employees were stranded on campus, unable to return home, the university said. The school canceled classes on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Elects Mike Johnson as Speaker, Embracing a Hard-Right Conservative</h3>
 <sub>By Catie Edmondson</sub>
@@ -96,12 +102,6 @@ There&#39;s a lot going on right now! In the US, House Republicans just elected 
 <h3>An Audio Diary of Despair</h3>
 <sub>By Yousur Al-Hlou</sub>
 <p>In a series of voice memos sent via WhatsApp, Tasneem Ismael Ahel, 19, described the war unfolding around her in Gaza City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>A Relative of Israeli Hostages Has a Message for the U.N.</h3>
-<sub>By New York Times Audio</sub>
-<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro, and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
