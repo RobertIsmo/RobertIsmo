@@ -60,36 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 26, Central Standard Time</p>
 <p>
-There&#39;s been some scary violence happening in Lewiston, Maine recently. Someone opened fire inside a bowling alley and a bar there, and the suspect is still at large. There are also students and employees stuck at Bates College right now because the school went into lockdown and all classes were canceled yesterday.
-
-Also, tensions have been escalating in the Middle East between Hamas and Israel. Israel&#39;s military has reportedly attacked more than 7,000 targets in Gaza since the conflict began about 3 weeks ago, while Palestinians are accusing them of targeting civilians indiscriminately. 
-
-On the political front, America has a new House Speaker: Mike Johnson from Louisiana. He&#39;s a hard-right conservative who believes that burning fossil fuels isn&#39;t changing the climate despite all evidence to the contrary. He&#39;s also facing legal trouble with prosecutors pushing to reinstate a gag order on him in an ongoing election case. 
-
-Meanwhile, UAW and Ford have reached a tentative contract agreement that could be beneficial to both General Motors and Stellantis if approved by union members. Lastly, some scientists are watching their life&#39;s work disappear due to climate change - it&#39;s really heartbreaking for them.</p>
+Right now there is a lot going on in the world. The US economy is doing well and growth rate has been increasing over the summer. In Europe, the Central Bank has decided to keep interest rates on hold for the first time this year. In Israel, there have been severe attacks from both sides, with heavy military strikes against targets in Gaza and soldiers defending houses against terrorists in Ofakim. Closer to home, Mike Johnson from Louisiana was elected to be the new House Speaker, and his views on fossil fuels and climate change have come into question. Lastly, Trump faces legal issues as prosecutors try to reinstate a gag order on him while ex-loyalists have begun to cooperate in a case against him in Georgia.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Economic Growth Accelerated in the Third Quarter</h3>
+<sub>By Lydia DePillis</sub>
+<p>Gross domestic product expanded at a 4.9 percent annual rate over the summer, powered by prodigious consumer spending. But the pace is not expected to be sustained.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s Happening in the Bond Market?</h3>
+<sub>By Joe Rennison</sub>
+<p>The rapid rise in interest rates in recent months has shaken investors and cast a cloud over the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>European Central Bank Keeps Rates on Hold for First Time in Over a Year</h3>
+<sub>By Eshe Nelson</sub>
+<p>“Inflation is still expected to stay too high for too long,” the bank’s chief said, but noted that the campaign of interest rate increases was helping curb price pressures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Timeline of the Shootings in Lewiston, Maine</h3>
 <sub>By Jenny Gross</sub>
 <p>Around 7 p.m. on Wednesday, shootings occurred at a bowling alley and a bar in Lewiston, Maine. The police said that a suspect was still at large on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Students at Bates College waited anxiously for news under lockdown.</h3>
-<sub>By John Yoon</sub>
-<p>Some students and employees were stranded on campus, unable to return home, the university said. The school canceled classes on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ambushed and Outgunned, Local Police Defended an Israeli City</h3>
+<sub>By Adam Goldman and Gal Koplewitz</sub>
+<p>Military support was slow to arrive in the quiet desert city of Ofakim but officers, most of them armed with handguns, fought terrorists house to house.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Strikes on Gaza Are Some of the Most Intense This Century</h3>
 <sub>By Patrick Kingsley</sub>
 <p>In the 19 days since Hamas attacked Israel, the Israeli military says it has struck more than 7,000 targets in Gaza. Palestinians accuse Israel of indiscriminately targeting civilians, but Israel officials say the strikes are aimed at eroding military infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For a Grandmother in Gaza, History Is Scarier Than Airstrikes</h3>
-<sub>By Declan Walsh</sub>
-<p>From his Los Angeles home, Mohammed Abujayyab has sought to help his grandmother and other relatives survive the Israeli bombardment. Memories of displacement are never far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,18 +132,6 @@ Meanwhile, UAW and Ford have reached a tentative contract agreement that could b
 <h3>Federal Prosecutors Push to Reinstate Gag Order on Trump</h3>
 <sub>By Alan Feuer and Glenn Thrush</sub>
 <p>In court filings, the special counsel’s office said the gag order was needed to keep the former president from making “harmful and prejudicial attacks” on people in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Scientists Watching Their Life’s Work Disappear</h3>
-<sub>By Catrin Einhorn and Thea Traff</sub>
-<p>Some are stubborn optimists. Others struggle with despair. Their faces show the weight they carry as they witness the impact of climate change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. and Ford Reach Tentative Contract Agreement</h3>
-<sub>By Neal E. Boudette and Noam Scheiber</sub>
-<p>The deal, subject to approval by union members, could ease the way for deals with General Motors and Stellantis and end a growing wave of walkouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
