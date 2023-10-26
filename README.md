@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 26, Central Standard Time</p>
 <p>
-Right now there is a lot going on in the world. The US economy is doing well and growth rate has been increasing over the summer. In Europe, the Central Bank has decided to keep interest rates on hold for the first time this year. In Israel, there have been severe attacks from both sides, with heavy military strikes against targets in Gaza and soldiers defending houses against terrorists in Ofakim. Closer to home, Mike Johnson from Louisiana was elected to be the new House Speaker, and his views on fossil fuels and climate change have come into question. Lastly, Trump faces legal issues as prosecutors try to reinstate a gag order on him while ex-loyalists have begun to cooperate in a case against him in Georgia.</p>
+There have been a series of shootings in Lewiston, Maine, and authorities are still searching for a suspect. The US economy is booming with an increase in consumer spending, but there are concerns that the high interest rates may affect the economic outlook. In Israel, police officers armed with only handguns faced off against Hamas forces. The Republican Jewish Coalition is gathering in Las Vegas to discuss the unique challenges facing Israel and American Jewry. A hard-right social and fiscal agenda is set to be introduced by the new House Speaker Mike Johnson from Louisiana oil country, who does not believe in climate change. Meanwhile, Donald Trump&#39;s allies are either distancing themselves, or cooperating with investigations against him. Scientists around the world are watching climate change impact their work and research, while a new street food has made its way to New York City and sparking a variety of imitators all within one city block.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Maine Shooting Suspect</h3>
+<sub>By John Ismay, Nicholas Bogel-Burroughs and Patricia Mazzei</sub>
+<p>Robert R. Card, who is being sought by the authorities, appears to be an Army reservist, according to Pentagon records. A neighbor said several generations of his family had lived on farmland in southern Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Timeline of the Shootings in Lewiston, Maine</h3>
+<sub>By Jenny Gross</sub>
+<p>Around 7 p.m. on Wednesday, a gunman opened fire at a bowling alley and then a bar in Lewiston, Maine. The police said that a suspect was still at large on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. Economic Growth Accelerated in the Third Quarter</h3>
 <sub>By Lydia DePillis</sub>
@@ -74,29 +86,17 @@ Right now there is a lot going on in the world. The US economy is doing well and
 <p>The rapid rise in interest rates in recent months has shaken investors and cast a cloud over the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>European Central Bank Keeps Rates on Hold for First Time in Over a Year</h3>
-<sub>By Eshe Nelson</sub>
-<p>“Inflation is still expected to stay too high for too long,” the bank’s chief said, but noted that the campaign of interest rate increases was helping curb price pressures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Alone and Outgunned, Israeli Police Fought Hamas From House to House</h3>
+<sub>By Adam Goldman and Gal Koplewitz</sub>
+<p>Military support was slow to arrive in the quiet desert city of Ofakim but officers, most of them armed with handguns, fought back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of the Shootings in Lewiston, Maine</h3>
-<sub>By Jenny Gross</sub>
-<p>Around 7 p.m. on Wednesday, shootings occurred at a bowling alley and a bar in Lewiston, Maine. The police said that a suspect was still at large on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An Annual Gathering of Jewish Republicans Takes on New Urgency</h3>
+<sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
+<p>The Republican Jewish Coalition gathers in Las Vegas this weekend, drawing G.O.P. leaders and candidates at a moment of unique peril for Israel and American Jewry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ambushed and Outgunned, Local Police Defended an Israeli City</h3>
-<sub>By Adam Goldman and Gal Koplewitz</sub>
-<p>Military support was slow to arrive in the quiet desert city of Ofakim but officers, most of them armed with handguns, fought terrorists house to house.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Strikes on Gaza Are Some of the Most Intense This Century</h3>
-<sub>By Patrick Kingsley</sub>
-<p>In the 19 days since Hamas attacked Israel, the Israeli military says it has struck more than 7,000 targets in Gaza. Palestinians accuse Israel of indiscriminately targeting civilians, but Israel officials say the strikes are aimed at eroding military infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Far Right Gets Its Man of the House</h3>
@@ -104,22 +104,10 @@ Right now there is a lot going on in the world. The US economy is doing well and
 <p>The new speaker, Mike Johnson, is virtually unknown to most Americans, but he can be expected to press a hard-right social and fiscal agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>House Speaker Mike Johnson</h3>
-<sub>By David Leonhardt and Ian Prasad Philbrick</sub>
-<p>Who is he?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>New House Speaker Champions Fossil Fuels and Dismisses Climate Concerns</h3>
 <sub>By Lisa Friedman</sub>
 <p>Representative Mike Johnson comes from Louisiana oil country and has said he does not believe burning fossil fuels is changing the climate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The House Finally Has a Speaker</h3>
-<sub>By Michael Barbaro, Michael Simon Johnson, Rachelle Bonja, Rachel Quester, Lexie Diao, Dan Powell, Marion Lozano and Chris Wood</sub>
-<p>The hard-right conservative Mike Johnson of Louisiana was elected to the chair, ending a weekslong deadlock.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -128,11 +116,23 @@ Right now there is a lot going on in the world. The US economy is doing well and
 <p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Prosecutors Push to Reinstate Gag Order on Trump</h3>
-<sub>By Alan Feuer and Glenn Thrush</sub>
-<p>In court filings, the special counsel’s office said the gag order was needed to keep the former president from making “harmful and prejudicial attacks” on people in the federal election case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Judges Restrain Trump: Gag Orders, Fines and Possible Jail Time</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and Alan Feuer</sub>
+<p>Courts have a variety of options to stop Donald J. Trump’s attacks on staff members and witnesses. The question is whether any of them will work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Scientists Watching Their Life’s Work Disappear</h3>
+<sub>By Catrin Einhorn and Thea Traff</sub>
+<p>Some are stubborn optimists. Others struggle with despair. Their faces show the weight they carry as they witness the impact of climate change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Fuss About Fuchka: A Bengali Street Food’s N.Y. Origin Story</h3>
+<sub>By Andrew Keh</sub>
+<p>How a Bengali snack, largely unknown in New York City five years ago, spawned a glut of imitators, all within a one-block radius of one corner on 37th Avenue in Jackson Heights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
