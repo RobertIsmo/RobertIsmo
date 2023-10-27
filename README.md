@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, October 26, Central Standard Time</p>
+<p>It is Friday, October 27, Central Standard Time</p>
 <p>
-In Israel, the army is ready to invade Gaza, but the government is divided over what to do next. Thousands of people have been killed in air strikes due to Hamas attacks, and people are listening to news about it on the podcast &quot;View From the West Bank&quot;. In the US, there was recently a shooting in Maine and a lot of controversy surrounding Jared Golden&#39;s reversal on his stance regarding an assault weapons ban. The US also just launched airstrikes on Iranian-linked targets in Syria and some alumni are calling for University of Pennsylvania President Amy Gutmann to resign. In Congress, Mike Johnson has recently become House Speaker, and he has a conservative record on gay rights and abortion. Lastly, former Chinese Premier Li Keqiang recently died, and former President Trump&#39;s allies are no longer supporting him.</p>
+Right now, there&#39;s a lot of tension between Israel and Palestine -- Israel has had its army ready to invade Gaza for the past 20 days due to Hamas attacks but its government can&#39;t agree on what to do. Gaza is releasing a list of over 6,000 people they say were killed in Israeli strikes, which President Biden doesn&#39;t seem to trust. In the US, there was recently a major shooting at a bowling alley and bar in Maine where 18 people were killed; the suspect was an Army reservist with deep roots in the community. The current US House Speaker from Louisiana is known for his staunchly conservative views so some are worried he&#39;ll try and undermine the 2024 election. Meanwhile, former Chinese Premier Li Keqiang passed away recently due to a heart attack at 68 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
@@ -78,6 +78,12 @@ In Israel, the army is ready to invade Gaza, but the government is divided over 
 <h3>View From the West Bank</h3>
 <sub>By New York Times Audio</sub>
 <p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Dark Day for Maine’ After Gunman Kills 18 at Bowling Alley and Bar</h3>
+<sub>By Jenna Russell, Amelia Nierenberg, Nicholas Bogel-Burroughs and Michael Levenson</sub>
+<p>Businesses, schools and offices in the southern part of the state were closed on Thursday as the authorities sought a 40-year-old suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ In Israel, the army is ready to invade Gaza, but the government is divided over 
 <h3>Li Keqiang, Former Chinese Premier, Dies of Heart Attack at 68</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
 <p>Mr. Li spent a decade in the shadow of Xi Jinping, who muscled him out of the premier’s usual policymaking roles. Chinese citizens expressed shock at his death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Allies Pledged Loyalty to Him. Until They Didn’t.</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
-<p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
