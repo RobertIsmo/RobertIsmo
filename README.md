@@ -60,36 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-In the Middle East, Saudi Arabia is warning the US that an Israeli invasion of Gaza could have catastrophic consequences for the region&#39;s stability. Hamas is being accused of stockpiling fuel, food, medicine and weapons in tunnels underneath Gaza while Gazans are struggling to find basic necessities like food and water. Satellite images show the extent of damage inflicted on Gaza by the situation. 
-
-Meanwhile, in America, there is growing scrutiny about Adidas&#39; decade-long relationship with Kanye West and his increasingly controversial comments. In New York City, there is concern about a 258-year-old mansion and the bureaucratic neglect that has allowed it to fall apart.
-
-In the tech space, Elon Musk has been making waves after taking control of X platform and Twitter this past year. Many people have left X due to the increase in harmful content, while some sports fans find Twitter indispensable for keeping up with news. 
-
-Closer to home in China, citizens are mourning the death of their former premier Li Keqiang - as well as a period of greater economic opportunity he represented - despite a number of cultural differences between how they pay homage compared to Western cultures.</p>
+Right now, tensions are high in the Middle East as Hamas has been stockpiling supplies in tunnels under Gaza while residents struggle to get food and water. In Maine, there was a deadly shooting, the country’s deadliest of the year. Recently elected House Speaker Mike Johnson from Louisiana is making waves with plans to drop aid for Ukraine from an Israel Assistance Bill. There is also a lot going on in the business world with Adidas breaking up with Kanye West due to his anti-semitic remarks and his long history of abusive conduct. Lastly, there is an interesting story out of Italy involving the late media mogul Berlusconi&#39;s art collection that nobody knows what to do with.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Saudi Arabia Warns U.S.: Israeli Invasion of Gaza Could Be Catastrophic</h3>
-<sub>By Kate Kelly, Vivian Nereim, Mark Mazzetti and Edward Wong</sub>
-<p>In discussions with their American counterparts, Saudi officials have framed a ground war as a potentially devastating blow to stability in the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Gazans Scrounge for Food and Water, Hamas Sits on a Rich Trove of Supplies</h3>
 <sub>By Matthew Rosenberg and Maria Abi-Habib</sub>
 <p>Hamas has spent years stockpiling desperately needed fuel, food and medicine, as well as ammo and weapons, in the miles of tunnels it has carved out under Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
-<p>Satellite imagery shows the tremendous structural damage that Gaza has sustained since Oct. 17.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What We Know About the Shootings in Maine</h3>
+<sub>By Adeel Hassan</sub>
+<p>Here’s what we know about the shooting, the country’s deadliest of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Woods Can Conceal a Fugitive. But for How Long?</h3>
 <sub>By Katie Benner and Jack Healy</sub>
 <p>Someone on the run can take advantage of natural cover to elude a manhunt for awhile, but experts say technology and time will eventually tip the scales toward the pursuers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Night Out in Lewiston Turns Deadly for a Group of Deaf Friends</h3>
+<sub>By Jenna Russell</sub>
+<p>One victim was widely recognized as a sign language interpreter for state briefings during the coronavirus pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Shearing of Sam Bankman-Fried</h3>
+<sub>By Vanessa Friedman</sub>
+<p>The disgraced crypto king, on trial for financial fraud, takes the stand. But his hair tells its own story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Washington Was Stunned by the New Speaker’s Rise. So Was His District.</h3>
+<sub>By Emily Cochrane and Marie Elizabeth Oliver</sub>
+<p>Many in Mike Johnson’s northern Louisiana district hope his surprise elevation will bring attention to their region, which they feel has been overlooked.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nine Takeaways From Mike Johnson’s First Interview as Speaker</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Louisiana Republican spoke about how his worldview is dictated by the Bible, and discussed issues including abortion, gay marriage and aid for Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine Aid in Doubt as Johnson Moves to Drop It From Israel Assistance Bill</h3>
+<sub>By Karoun Demirjian and Catie Edmondson</sub>
+<p>The newly elected House speaker, who has opposed continued funding for Kyiv, is now insisting on separating it from aid to Israel, leaving its fate uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,40 +122,16 @@ Closer to home in China, citizens are mourning the death of their former premier
 <p>The runaway success of the Yeezy collaboration between Kanye West and Adidas came at a price as the company tolerated misconduct by him for nearly a decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why Has This 258-Year-Old Mansion Been Left to Fall Apart?</h3>
-<sub>By Ginia Bellafante</sub>
-<p>The historic Morris-Jumel Mansion is the “crown jewel of Sugar Hill” in Manhattan — and a victim of bureaucratic and financial neglect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Consequences of Elon Musk’s Ownership of X</h3>
-<sub>By Steven Lee Myers, Stuart A. Thompson and Tiffany Hsu</sub>
-<p>Dozens of studies of posts on X from multiple organizations have shown a similar trend: an increase in harmful content during Mr. Musk’s tenure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Elon Musk Changed the Meaning of Twitter for Users</h3>
-<sub>By Kate Conger</sub>
-<p>Twitter was a deeply personal source of conversation, news and community for many people. One year after Mr. Musk took over, users say that has shifted — for better and for worse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>As Users Abandon X, Sports Twitter Endures</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Many users have migrated to other platforms since Elon Musk bought Twitter, but sports fans still find it indispensable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Good. The Bad. The Ugly. Inside Berlusconi’s Art Collection.</h3>
 <sub>By Jason Horowitz and Elisabetta Povoledo</sub>
 <p>The Italian media mogul bought up some 25,000 paintings, many on TV shopping binges, before he died this year. Now no one knows what to do with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Chinese Mourn the Death of a Premier, and the Loss of Economic Hope</h3>
-<sub>By Li Yuan</sub>
-<p>An outpouring on social media for Li Keqiang, the former premier who died Friday, reflected public grief for an era of greater growth and possibility.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Test Your Candy I.Q.</h3>
+<sub>By Alice Callahan</sub>
+<p>Trick or treat! See how much you really know about sweets with this quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
