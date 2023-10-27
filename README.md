@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-Recently, there have been a lot of tensions in the Middle East. In Israel, the government is divided on whether or not it should invade Gaza in response to Hamas&#39;s attacks. The Democratic party in the US is also facing division as a coalition composed of young voters and people of color break with President Biden&#39;s stance on the situation. At the same time, there are other conflicts around the world, like in Sudan, where 19 million children are out of school due to war. In China, the death of former premier Li Keqiang has been met with public mourning and reflections on an era of greater growth and stability. Lastly, tech tycoon Elon Musk has become increasingly influential within social media platforms like Twitter.</p>
+There is a lot going on in the world right now. In Israel and Gaza, the Israeli army is ready to invade but the government may not be on board with that idea. Here in the United States, Democrats are around divided over their opinion on Israel as the younger and more diverse parts of the party are not in support of President Biden. Meanwhile, Sudan is facing an education crisis as millions of kids are unable to attend school due to war in the region. In other news, China is mourning the passing of a former premier, and bond markets have become more active with rising interest rates. Finally, Elon Musk has bought Twitter and changed how it&#39;s used, leading some people to abandon it but sports fans still remain.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
@@ -80,10 +80,10 @@ Recently, there have been a lot of tensions in the Middle East. In Israel, the g
 <p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is the Republican Speakership Cursed? Johnson Is About to Find Out.</h3>
-<sub>By Carl Hulse</sub>
-<p>Kevin McCarthy was just the latest in a series of Republican speakers and speaker wannabes who faced revolts. Speaker Mike Johnson should take note.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why Has This 258-Year-Old Mansion Been Left to Fall Apart?</h3>
+<sub>By Ginia Bellafante</sub>
+<p>The historic Morris-Jumel Mansion is the “crown jewel of Sugar Hill” in  Manhattan — and a victim of bureaucratic and financial neglect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,22 +110,22 @@ Recently, there have been a lot of tensions in the Middle East. In Israel, the g
 <p>Many users have migrated to other platforms since Elon Musk bought Twitter, but sports fans still find it indispensable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Years After Pittsburgh Synagogue Attack, Recovery Mixes With Fresh Grief</h3>
-<sub>By Ruth Graham</sub>
-<p>The Tree of Life community was “universally embraced” after an antisemitic shooting. But with Israel engaged in war, some now feel alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Consumers Kept Spending in September, as Inflation Held Steady</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Overall inflation stayed at 3.4 percent in September, down from a peak of around 7 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Bond Market, a Sleeping Giant, Awakes</h3>
+<sub>By Jeff Sommer</sub>
+<p>Soaring interest rates have the power to alter the direction of the economy and command the attention of Washington, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Students on the Run, Schools Taken by Troops and a Generation’s Catastrophe</h3>
 <sub>By Abdi Latif Dahir</sub>
 <p>With an estimated 19 million children out of school for months because of war, Sudan is on the verge of becoming “the worst education crisis in the world,” U.N. officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cornel West’s Improvisational Run for President: ‘It’s Jazz All the Way Down’</h3>
-<sub>By Charles Homans</sub>
-<p>Is the celebrity professor’s candidacy a wild variable in the 2024 presidential campaign or performance art? Yes, he says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
