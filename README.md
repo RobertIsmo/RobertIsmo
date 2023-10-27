@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-There is unrest in the Middle East, with Israel and the Gaza Strip tense after Hamas attacked. Gazans released the names of over 6,000 people they believe were killed in Israeli strikes, which President Biden has said he has no confidence in. In Maine, a gunman killed 18 people at a bowling alley and bar; the suspect is an Army reservist. In other news from Maine, Republican representative Jared Golden reversed his stance on the ban of assault weapons. Across the US, there is controversy over university positions on DEI (Diversity, Equity and Inclusion) and transgender rights, as well as funding dilemmas. On a global level, Chinese premier Li Keqiang has died due to a heart attack. Meanwhile, Trump&#39;s former allies are testifying against him in criminal investigations in Manhattan and Georgia.</p>
+Recently, there have been a lot of tensions in the Middle East. In Israel, the government is divided on whether or not it should invade Gaza in response to Hamas&#39;s attacks. The Democratic party in the US is also facing division as a coalition composed of young voters and people of color break with President Biden&#39;s stance on the situation. At the same time, there are other conflicts around the world, like in Sudan, where 19 million children are out of school due to war. In China, the death of former premier Li Keqiang has been met with public mourning and reflections on an era of greater growth and stability. Lastly, tech tycoon Elon Musk has become increasingly influential within social media platforms like Twitter.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
@@ -68,71 +68,71 @@ There is unrest in the Middle East, with Israel and the Gaza Strip tense after H
 <p>In the 20 days since Hamas attacked, Israel’s Air Force has pounded Gaza and its troops have gotten into position. But its leaders disagree about what to do next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gazans Release Names of 6,747 People They Say Were Killed in Israeli Strikes</h3>
-<sub>By Vivian Yee</sub>
-<p>The detailed list from the Hamas-controlled health ministry — including ages, genders and ID numbers — followed President Biden’s comment that he had “no confidence” in its figures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Dark Day for Maine’ After Gunman Kills 18 at Bowling Alley and Bar</h3>
-<sub>By Jenna Russell, Amelia Nierenberg, Nicholas Bogel-Burroughs and Michael Levenson</sub>
-<p>Businesses, schools and offices in the southern part of the state were closed on Thursday as the authorities sought a 40-year-old suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Maine Shooting Suspect</h3>
-<sub>By John Ismay, Nicholas Bogel-Burroughs, Glenn Thrush and Patricia Mazzei</sub>
-<p>Robert R. Card, who is being sought by the authorities,is an Army reservist, according to Pentagon records. A neighbor said several generations of his family had lived on farmland in southern Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Representative Jared Golden of Maine calls for a ban on assault weapons, reversing a long-held stance.</h3>
-<sub>By Emily Cochrane</sub>
-<p>That position, he said, reflected in part “a false confidence that our community was above this, and that we could be in full control, among many other misjudgments.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Decides Penn’s Future: Donors or the University?</h3>
-<sub>By Stephanie Saul</sub>
-<p>Some alumni want the president to resign. They are angry about a Palestinian conference and Penn’s response to the Hamas attacks — as well as D.E.I. and transgender rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Faces the Same Spending Dilemmas That Plagued McCarthy</h3>
-<sub>By Catie Edmondson</sub>
-<p>The newly installed Republican speaker opposed the bill to avert a government shutdown and has been against continued U.S. funding for Ukraine. Now it is his job to accomplish both.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Could Mike Johnson, the New House Speaker, Undermine the 2024 Election?</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Louisiana Republican played a pivotal role in efforts to overturn the 2020 election. But his elevation to the top post in the House does not give him special powers in the certification process if he tries again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Mike Johnson Stands on Ukraine, Abortion, L.G.B.T.Q. Issues and More</h3>
-<sub>By Kayla Guo</sub>
-<p>The new House speaker, an evangelical Christian, has a staunchly conservative record on gay rights, abortion, gun safety and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<h3>Democrats Splinter Over Israel as the Young, Diverse Left Rages at Biden</h3>
+<sub>By Reid J. Epstein and Anjali Huynh</sub>
+<p>As a raw divide over the war ripples through liberal America, a coalition of young voters and people of color is breaking with the president, raising new questions about his strength entering 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Li Keqiang, Chinese Premier Eclipsed by Xi Jinping, Dies at 68</h3>
-<sub>By Chris Buckley and Keith Bradsher</sub>
-<p>Mr. Li, who retired in March, was muscled out of the premier’s usual policymaking roles by Mr. Xi. Chinese citizens expressed shock at his death, from a heart attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Allies Pledged Loyalty to Him. Until They Didn’t.</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
-<p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
+<p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Withdraw Second Subpoena in Trump Fund-Raising Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The decision suggests that the special counsel is winding down an investigation into whether the former president’s political operation defrauded investors by promoting election lies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<h3>Is the Republican Speakership Cursed? Johnson Is About to Find Out.</h3>
+<sub>By Carl Hulse</sub>
+<p>Kevin McCarthy was just the latest in a series of Republican speakers and speaker wannabes who faced revolts. Speaker Mike Johnson should take note.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Their Sons Went Missing Fighting for Ukraine. They Want Answers.</h3>
+<sub>By Carlotta Gall and Oleksandr Chubko</sub>
+<p>In a rare show of public criticism in wartime, families of missing Ukrainian soldiers are pressing the government for information on their status.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Consequences of Elon Musk’s Ownership of X</h3>
+<sub>By Steven Lee Myers, Stuart A. Thompson and Tiffany Hsu</sub>
+<p>Dozens of studies of posts on X from multiple organizations have shown a similar trend: an increase in harmful content during Mr. Musk’s tenure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Elon Musk Changed the Meaning of Twitter for Users</h3>
+<sub>By Kate Conger</sub>
+<p>Twitter was a deeply personal source of conversation, news and community for many people. One year after Mr. Musk took over, users say that has shifted — for better and for worse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>As Users Abandon X, Sports Twitter Endures</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Many users have migrated to other platforms since Elon Musk bought Twitter, but sports fans still find it indispensable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Five Years After Pittsburgh Synagogue Attack, Recovery Mixes With Fresh Grief</h3>
+<sub>By Ruth Graham</sub>
+<p>The Tree of Life community was “universally embraced” after an antisemitic shooting. But with Israel engaged in war, some now feel alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Students on the Run, Schools Taken by Troops and a Generation’s Catastrophe</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>With an estimated 19 million children out of school for months because of war, Sudan is on the verge of becoming “the worst education crisis in the world,” U.N. officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Cornel West’s Improvisational Run for President: ‘It’s Jazz All the Way Down’</h3>
+<sub>By Charles Homans</sub>
+<p>Is the celebrity professor’s candidacy a wild variable in the 2024 presidential campaign or performance art? Yes, he says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Chinese Mourn the Death of a Premier, and the Loss of Economic Hope</h3>
+<sub>By Li Yuan</sub>
+<p>An outpouring on social media for Li Keqiang, the former premier who died Friday, reflected public grief for an era of greater growth and possibility.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
