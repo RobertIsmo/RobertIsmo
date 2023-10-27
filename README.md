@@ -60,36 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel and Gaza, the Israeli army is ready to invade but the government may not be on board with that idea. Here in the United States, Democrats are around divided over their opinion on Israel as the younger and more diverse parts of the party are not in support of President Biden. Meanwhile, Sudan is facing an education crisis as millions of kids are unable to attend school due to war in the region. In other news, China is mourning the passing of a former premier, and bond markets have become more active with rising interest rates. Finally, Elon Musk has bought Twitter and changed how it&#39;s used, leading some people to abandon it but sports fans still remain.</p>
+In the Middle East, Saudi Arabia is warning the US that an Israeli invasion of Gaza could have catastrophic consequences for the region&#39;s stability. Hamas is being accused of stockpiling fuel, food, medicine and weapons in tunnels underneath Gaza while Gazans are struggling to find basic necessities like food and water. Satellite images show the extent of damage inflicted on Gaza by the situation. 
+
+Meanwhile, in America, there is growing scrutiny about Adidas&#39; decade-long relationship with Kanye West and his increasingly controversial comments. In New York City, there is concern about a 258-year-old mansion and the bureaucratic neglect that has allowed it to fall apart.
+
+In the tech space, Elon Musk has been making waves after taking control of X platform and Twitter this past year. Many people have left X due to the increase in harmful content, while some sports fans find Twitter indispensable for keeping up with news. 
+
+Closer to home in China, citizens are mourning the death of their former premier Li Keqiang - as well as a period of greater economic opportunity he represented - despite a number of cultural differences between how they pay homage compared to Western cultures.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>In the 20 days since Hamas attacked, Israel’s Air Force has pounded Gaza and its troops have gotten into position. But its leaders disagree about what to do next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<h3>Saudi Arabia Warns U.S.: Israeli Invasion of Gaza Could Be Catastrophic</h3>
+<sub>By Kate Kelly, Vivian Nereim, Mark Mazzetti and Edward Wong</sub>
+<p>In discussions with their American counterparts, Saudi officials have framed a ground war as a potentially devastating blow to stability in the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Splinter Over Israel as the Young, Diverse Left Rages at Biden</h3>
-<sub>By Reid J. Epstein and Anjali Huynh</sub>
-<p>As a raw divide over the war ripples through liberal America, a coalition of young voters and people of color is breaking with the president, raising new questions about his strength entering 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Gazans Scrounge for Food and Water, Hamas Sits on a Rich Trove of Supplies</h3>
+<sub>By Matthew Rosenberg and Maria Abi-Habib</sub>
+<p>Hamas has spent years stockpiling desperately needed fuel, food and medicine, as well as ammo and weapons, in the miles of tunnels it has carved out under Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
 <sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard and Josh Holder</sub>
-<p>The past few weeks have been the deadliest period for Palestinians in the West Bank in at least 15 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Satellite imagery shows the tremendous structural damage that Gaza has sustained since Oct. 17.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Woods Can Conceal a Fugitive. But for How Long?</h3>
+<sub>By Katie Benner and Jack Healy</sub>
+<p>Someone on the run can take advantage of natural cover to elude a manhunt for awhile, but experts say technology and time will eventually tip the scales toward the pursuers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Kanye and Adidas: Money, Misconduct and the Price of Appeasement</h3>
+<sub>By Megan Twohey</sub>
+<p>Before Adidas broke with Kanye West last fall over antisemitic public remarks, it had tolerated years of his abusive conduct behind the scenes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inside Kanye West’s Fraught Relationship With Adidas: 7 Takeaways</h3>
+<sub>By Megan Twohey</sub>
+<p>The runaway success of the Yeezy collaboration between Kanye West and Adidas came at a price as the company tolerated misconduct by him for nearly a decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Why Has This 258-Year-Old Mansion Been Left to Fall Apart?</h3>
 <sub>By Ginia Bellafante</sub>
-<p>The historic Morris-Jumel Mansion is the “crown jewel of Sugar Hill” in  Manhattan — and a victim of bureaucratic and financial neglect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Their Sons Went Missing Fighting for Ukraine. They Want Answers.</h3>
-<sub>By Carlotta Gall and Oleksandr Chubko</sub>
-<p>In a rare show of public criticism in wartime, families of missing Ukrainian soldiers are pressing the government for information on their status.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The historic Morris-Jumel Mansion is the “crown jewel of Sugar Hill” in Manhattan — and a victim of bureaucratic and financial neglect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -110,22 +128,10 @@ There is a lot going on in the world right now. In Israel and Gaza, the Israeli 
 <p>Many users have migrated to other platforms since Elon Musk bought Twitter, but sports fans still find it indispensable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Consumers Kept Spending in September, as Inflation Held Steady</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Overall inflation stayed at 3.4 percent in September, down from a peak of around 7 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Bond Market, a Sleeping Giant, Awakes</h3>
-<sub>By Jeff Sommer</sub>
-<p>Soaring interest rates have the power to alter the direction of the economy and command the attention of Washington, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Students on the Run, Schools Taken by Troops and a Generation’s Catastrophe</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>With an estimated 19 million children out of school for months because of war, Sudan is on the verge of becoming “the worst education crisis in the world,” U.N. officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Good. The Bad. The Ugly. Inside Berlusconi’s Art Collection.</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>The Italian media mogul bought up some 25,000 paintings, many on TV shopping binges, before he died this year. Now no one knows what to do with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
