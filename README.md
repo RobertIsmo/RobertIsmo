@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 26, Central Standard Time</p>
 <p>
-There have been a few very newsworthy events happening around the world recently. In Maine, authorities are looking for a shooting suspect who is believed to be an Army reservist. In Israel, the government is split on how best to respond to recent attacks from Hamas militants. In Georgia, a federal judge ruled that Republicans violated a landmark civil rights law in their voting maps. Additionally, in New York, there is a case against former President Trump, with some of his allies now cooperating with the investigation.</p>
+There is a lot of conflict happening in the world right now. In Israel, the government is divided and the army is ready to launch an invasion into Gaza. Unfortunately, they’ve already been striking Gaza for weeks and a list of 6,747 people has been released from the Hamas-controlled health ministry who are thought to have been killed as a result. In the US, there’s a shooting suspect in Maine, where generations of his family have lived. There’s also a dispute over the future of Penn with disagreements about D.E.I., transgender rights, and a Palestinian conference. Georgia has had its voting maps struck down over signs it would dilute the power of Black voters. On top of that, Mike Johnson has become House Speaker and he has an extremely conservative record on issues such as gay rights, abortion, and gun safety. Lastly, there have been subpeonas withdrawn in Trump’s fund-raising inquiry suggesting this investigation may be finished soon.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Maine Shooting Suspect</h3>
-<sub>By John Ismay, Nicholas Bogel-Burroughs and Patricia Mazzei</sub>
-<p>Robert R. Card, who is being sought by the authorities, appears to be an Army reservist, according to Pentagon records. A neighbor said several generations of his family had lived on farmland in southern Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At the Lewiston Bowling Alley, a Crash, Disbelief and a Run for the Exit</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Chad Vincent, who was bowling in a league game when gunfire broke out Wednesday, described confusion and a hectic flight to safety.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
@@ -81,21 +69,27 @@ There have been a few very newsworthy events happening around the world recently
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Alone and Outgunned, Israeli Police Fought Hamas From House to House</h3>
-<sub>By Adam Goldman and Gal Koplewitz</sub>
-<p>Military support was slow to arrive in the quiet desert city of Ofakim but officers, most of them armed with handguns, fought back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gazans Release Names of 6,747 People They Say Were Killed in Israeli Strikes</h3>
+<sub>By Vivian Yee</sub>
+<p>The detailed list from the Hamas-controlled health ministry — including ages, genders and ID numbers — followed President Biden’s comment that he had “no confidence” in its figures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>View From the West Bank</h3>
+<sub>By New York Times Audio</sub>
+<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Annual Gathering of Jewish Republicans Takes on New Urgency</h3>
-<sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
-<p>The Republican Jewish Coalition gathers in Las Vegas this weekend, drawing G.O.P. leaders and candidates at a moment of unique peril for Israel and American Jewry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What We Know About the Maine Shooting Suspect</h3>
+<sub>By John Ismay, Nicholas Bogel-Burroughs, Glenn Thrush and Patricia Mazzei</sub>
+<p>Robert R. Card, who is being sought by the authorities,is an Army reservist, according to Pentagon records. A neighbor said several generations of his family had lived on farmland in southern Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Economic Growth Accelerated in the Third Quarter</h3>
-<sub>By Lydia DePillis</sub>
-<p>Gross domestic product expanded at a 4.9 percent annual rate over the summer, powered by prodigious consumer spending. But the pace is not expected to be sustained.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Representative Jared Golden of Maine calls for a ban on assault weapons, reversing a long-held stance.</h3>
+<sub>By Emily Cochrane</sub>
+<p>That position, he said, reflected in part “a false confidence that our community was above this, and that we could be in full control, among many other misjudgments.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -106,7 +100,7 @@ There have been a few very newsworthy events happening around the world recently
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia’s Voting Maps Are Struck Down</h3>
-<sub>By Emily Cochrane</sub>
+<sub>By Emily Cochrane and Rick Rojas</sub>
 <p>Republicans in the state violated a landmark civil rights law in drawing maps that diluted the power of Black voters, a federal judge in Atlanta ruled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
@@ -132,6 +126,12 @@ There have been a few very newsworthy events happening around the world recently
 <h3>Trump’s Allies Pledged Loyalty to Him. Until They Didn’t.</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
 <p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Withdraw Second Subpoena in Trump Fund-Raising Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The decision suggests that the special counsel is winding down an investigation into whether the former president’s political operation defrauded investors by promoting election lies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
