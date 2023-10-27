@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension between Israel and Palestine -- Israel has had its army ready to invade Gaza for the past 20 days due to Hamas attacks but its government can&#39;t agree on what to do. Gaza is releasing a list of over 6,000 people they say were killed in Israeli strikes, which President Biden doesn&#39;t seem to trust. In the US, there was recently a major shooting at a bowling alley and bar in Maine where 18 people were killed; the suspect was an Army reservist with deep roots in the community. The current US House Speaker from Louisiana is known for his staunchly conservative views so some are worried he&#39;ll try and undermine the 2024 election. Meanwhile, former Chinese Premier Li Keqiang passed away recently due to a heart attack at 68 years old.</p>
+There is unrest in the Middle East, with Israel and the Gaza Strip tense after Hamas attacked. Gazans released the names of over 6,000 people they believe were killed in Israeli strikes, which President Biden has said he has no confidence in. In Maine, a gunman killed 18 people at a bowling alley and bar; the suspect is an Army reservist. In other news from Maine, Republican representative Jared Golden reversed his stance on the ban of assault weapons. Across the US, there is controversy over university positions on DEI (Diversity, Equity and Inclusion) and transgender rights, as well as funding dilemmas. On a global level, Chinese premier Li Keqiang has died due to a heart attack. Meanwhile, Trump&#39;s former allies are testifying against him in criminal investigations in Manhattan and Georgia.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
@@ -72,12 +72,6 @@ Right now, there&#39;s a lot of tension between Israel and Palestine -- Israel h
 <h3>Gazans Release Names of 6,747 People They Say Were Killed in Israeli Strikes</h3>
 <sub>By Vivian Yee</sub>
 <p>The detailed list from the Hamas-controlled health ministry — including ages, genders and ID numbers — followed President Biden’s comment that he had “no confidence” in its figures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>View From the West Bank</h3>
-<sub>By New York Times Audio</sub>
-<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,12 +90,6 @@ Right now, there&#39;s a lot of tension between Israel and Palestine -- Israel h
 <h3>Representative Jared Golden of Maine calls for a ban on assault weapons, reversing a long-held stance.</h3>
 <sub>By Emily Cochrane</sub>
 <p>That position, he said, reflected in part “a false confidence that our community was above this, and that we could be in full control, among many other misjudgments.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Strikes Iranian-Linked Targets in Syria</h3>
-<sub>By Eric Schmitt</sub>
-<p>The Pentagon said the airstrikes against facilities used by the Islamic Revolutionary Guards Corps and its proxies were in retaliation for recent rocket and drone attacks on American forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +117,21 @@ Right now, there&#39;s a lot of tension between Israel and Palestine -- Israel h
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Li Keqiang, Former Chinese Premier, Dies of Heart Attack at 68</h3>
+<h3>Li Keqiang, Chinese Premier Eclipsed by Xi Jinping, Dies at 68</h3>
 <sub>By Chris Buckley and Keith Bradsher</sub>
-<p>Mr. Li spent a decade in the shadow of Xi Jinping, who muscled him out of the premier’s usual policymaking roles. Chinese citizens expressed shock at his death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Li, who retired in March, was muscled out of the premier’s usual policymaking roles by Mr. Xi. Chinese citizens expressed shock at his death, from a heart attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Allies Pledged Loyalty to Him. Until They Didn’t.</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
+<p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Withdraw Second Subpoena in Trump Fund-Raising Inquiry</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The decision suggests that the special counsel is winding down an investigation into whether the former president’s political operation defrauded investors by promoting election lies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
