@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, October 26, Central Standard Time</p>
 <p>
-There is a lot of conflict happening in the world right now. In Israel, the government is divided and the army is ready to launch an invasion into Gaza. Unfortunately, they’ve already been striking Gaza for weeks and a list of 6,747 people has been released from the Hamas-controlled health ministry who are thought to have been killed as a result. In the US, there’s a shooting suspect in Maine, where generations of his family have lived. There’s also a dispute over the future of Penn with disagreements about D.E.I., transgender rights, and a Palestinian conference. Georgia has had its voting maps struck down over signs it would dilute the power of Black voters. On top of that, Mike Johnson has become House Speaker and he has an extremely conservative record on issues such as gay rights, abortion, and gun safety. Lastly, there have been subpeonas withdrawn in Trump’s fund-raising inquiry suggesting this investigation may be finished soon.</p>
+In Israel, the army is ready to invade Gaza, but the government is divided over what to do next. Thousands of people have been killed in air strikes due to Hamas attacks, and people are listening to news about it on the podcast &quot;View From the West Bank&quot;. In the US, there was recently a shooting in Maine and a lot of controversy surrounding Jared Golden&#39;s reversal on his stance regarding an assault weapons ban. The US also just launched airstrikes on Iranian-linked targets in Syria and some alumni are calling for University of Pennsylvania President Amy Gutmann to resign. In Congress, Mike Johnson has recently become House Speaker, and he has a conservative record on gay rights and abortion. Lastly, former Chinese Premier Li Keqiang recently died, and former President Trump&#39;s allies are no longer supporting him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Army Is Ready to Invade Gaza. Its Divided Government May Not Be.</h3>
@@ -93,15 +93,15 @@ There is a lot of conflict happening in the world right now. In Israel, the gove
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Decides Penn’s Future: Donors or the University?</h3>
-<sub>By Stephanie Saul</sub>
-<p>Some alumni want the president to resign. They are angry about a Palestinian conference and Penn’s response to the Hamas attacks — as well as D.E.I. and transgender rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Strikes Iranian-Linked Targets in Syria</h3>
+<sub>By Eric Schmitt</sub>
+<p>The Pentagon said the airstrikes against facilities used by the Islamic Revolutionary Guards Corps and its proxies were in retaliation for recent rocket and drone attacks on American forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia’s Voting Maps Are Struck Down</h3>
-<sub>By Emily Cochrane and Rick Rojas</sub>
-<p>Republicans in the state violated a landmark civil rights law in drawing maps that diluted the power of Black voters, a federal judge in Atlanta ruled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Who Decides Penn’s Future: Donors or the University?</h3>
+<sub>By Stephanie Saul</sub>
+<p>Some alumni want the president to resign. They are angry about a Palestinian conference and Penn’s response to the Hamas attacks — as well as D.E.I. and transgender rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +122,16 @@ There is a lot of conflict happening in the world right now. In Israel, the gove
 <p>The new House speaker, an evangelical Christian, has a staunchly conservative record on gay rights, abortion, gun safety and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Li Keqiang, Former Chinese Premier, Dies of Heart Attack at 68</h3>
+<sub>By Chris Buckley and Keith Bradsher</sub>
+<p>Mr. Li spent a decade in the shadow of Xi Jinping, who muscled him out of the premier’s usual policymaking roles. Chinese citizens expressed shock at his death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump’s Allies Pledged Loyalty to Him. Until They Didn’t.</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
 <p>The former president is facing down Michael Cohen, his longtime fixer, in a Manhattan courtroom, while other ex-loyalists are cooperating in a case against him in Georgia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Withdraw Second Subpoena in Trump Fund-Raising Inquiry</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The decision suggests that the special counsel is winding down an investigation into whether the former president’s political operation defrauded investors by promoting election lies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
