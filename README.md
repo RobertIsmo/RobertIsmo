@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-Right now, tensions are high in the Middle East as Hamas has been stockpiling supplies in tunnels under Gaza while residents struggle to get food and water. In Maine, there was a deadly shooting, the country’s deadliest of the year. Recently elected House Speaker Mike Johnson from Louisiana is making waves with plans to drop aid for Ukraine from an Israel Assistance Bill. There is also a lot going on in the business world with Adidas breaking up with Kanye West due to his anti-semitic remarks and his long history of abusive conduct. Lastly, there is an interesting story out of Italy involving the late media mogul Berlusconi&#39;s art collection that nobody knows what to do with.</p>
+There is a lot of turmoil happening in the world right now. In Gaza, Israel has been attacking heavily and has caused the power and internet to go out across the region. The United States has conducted airstrikes against Iran in an attempt to modify their behavior. There was a mass shooting in Lewiston, Maine that left 18 dead, and it&#39;s sparked a discussion on gun control laws. The crypto king Sam Bankman-Fried is currently on trial for financial fraud and his hair has been making headlines. Mike Johnson, a conservative from Louisiana, just became the new House speaker in Washington and is speaking out against abortion, gay marriage, and Ukraine aid. Lastly, Kanye West and Adidas have had a tumultuous relationship due to Kanye&#39;s antisemitic comments, as well as allegations of abuse behind the scenes.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Gazans Scrounge for Food and Water, Hamas Sits on a Rich Trove of Supplies</h3>
-<sub>By Matthew Rosenberg and Maria Abi-Habib</sub>
-<p>Hamas has spent years stockpiling desperately needed fuel, food and medicine, as well as ammo and weapons, in the miles of tunnels it has carved out under Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza Goes Dark as Israel Attacks Intensify</h3>
+<sub>By Yousur Al-Hlou and Raja Abdulrahim</sub>
+<p>Two major Palestinian mobile networks, Jawwal and Paltel, said that their phone lines and internet services were down.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What We Know About the Shootings in Maine</h3>
-<sub>By Adeel Hassan</sub>
-<p>Here’s what we know about the shooting, the country’s deadliest of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Airstrikes Contain Twin Messages to Iran, American Officials Say</h3>
+<sub>By David E. Sanger and Julian E. Barnes</sub>
+<p>The airstrikes were the latest gamble by the United States to modify Iran’s behavior, few of which have worked in the past.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Portraits of the Dead Emerge From Tragedy in Maine</h3>
+<sub>By Billy Witz, Anna Betts, Eduardo Medina and Jenna Russell</sub>
+<p>What began as a seemingly ordinary evening in Lewiston turned horrific after a gunman entered a bowling alley and a local bar and began shooting, killing 18 people  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,9 +87,15 @@ Right now, tensions are high in the Middle East as Hamas has been stockpiling su
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Night Out in Lewiston Turns Deadly for a Group of Deaf Friends</h3>
-<sub>By Jenna Russell</sub>
-<p>One victim was widely recognized as a sign language interpreter for state briefings during the coronavirus pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Shooting, Maine Senators in the Spotlight on Guns</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The shooting in Lewiston that left 18 dead prompted the town’s conservative Democratic representative to embrace an assault weapons ban, but Senators Susan Collins and Angus King are still resisting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Testifies That He Made ‘Larger Mistakes’ at FTX</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>Speaking in his own defense at his criminal trial, the FTX founder denied he had committed fraud but acknowledged missteps that hurt the cryptocurrency exchange’s customers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -99,7 +111,7 @@ Right now, tensions are high in the Middle East as Hamas has been stockpiling su
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nine Takeaways From Mike Johnson’s First Interview as Speaker</h3>
+<h3>9 Takeaways From Mike Johnson’s First Interview as Speaker</h3>
 <sub>By Luke Broadwater</sub>
 <p>The Louisiana Republican spoke about how his worldview is dictated by the Bible, and discussed issues including abortion, gay marriage and aid for Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
@@ -120,18 +132,6 @@ Right now, tensions are high in the Middle East as Hamas has been stockpiling su
 <h3>Inside Kanye West’s Fraught Relationship With Adidas: 7 Takeaways</h3>
 <sub>By Megan Twohey</sub>
 <p>The runaway success of the Yeezy collaboration between Kanye West and Adidas came at a price as the company tolerated misconduct by him for nearly a decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Good. The Bad. The Ugly. Inside Berlusconi’s Art Collection.</h3>
-<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
-<p>The Italian media mogul bought up some 25,000 paintings, many on TV shopping binges, before he died this year. Now no one knows what to do with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Test Your Candy I.Q.</h3>
-<sub>By Alice Callahan</sub>
-<p>Trick or treat! See how much you really know about sweets with this quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
