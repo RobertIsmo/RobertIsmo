@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There is an ongoing conflict in Gaza as Israel ramps up attacks. In the United States, there was a major shooting in Maine where 18 people were killed. Meanwhile, Mike Johnson, a politician from Louisiana has risen to the role as House Speaker and is now in the spotlight. There are also controversies involving Kanye West and Adidas that involves money and misconduct.</p>
+There is unrest in the Middle East following calls from protesters in Grand Central Terminal to end military operations in Gaza. In the U.S., there has been a manhunt for a suspect who killed 18 people and injured 13 others in Lewiston, Maine. Also in Maine, there&#39;s debate over gun control lead by the two Senators, Susan Collins and Angus King. Additionally, there is a new House Speaker named Mike Johnson, whose Christian nationalism is leading the forefront of politics and policy. On top of that, a cryptocurrency founder is on trial for fraud, while Kanye West and Adidas have come under fire for their alleged tolerance of antisemitic remarks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza Goes Dark as Israel Attacks Intensify</h3>
-<sub>By Yousur Al-Hlou and Raja Abdulrahim</sub>
-<p>Two major Palestinian mobile networks, Jawwal and Paltel, said that their phone lines and internet services were down.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Let Gaza Live’: Calls for Cease-Fire Fill Grand Central Terminal</h3>
+<sub>By Claire Fahy, Julian Roberts-Grmela and Sean Piccoli</sub>
+<p>A large demonstration, organized by Jewish Voice for Peace, came as Israel ramped up its military operations inside Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
