@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There is unrest in the Middle East following calls from protesters in Grand Central Terminal to end military operations in Gaza. In the U.S., there has been a manhunt for a suspect who killed 18 people and injured 13 others in Lewiston, Maine. Also in Maine, there&#39;s debate over gun control lead by the two Senators, Susan Collins and Angus King. Additionally, there is a new House Speaker named Mike Johnson, whose Christian nationalism is leading the forefront of politics and policy. On top of that, a cryptocurrency founder is on trial for fraud, while Kanye West and Adidas have come under fire for their alleged tolerance of antisemitic remarks.</p>
+There is a lot happening in the world right now. In Gaza, Israel and Hamas are at odds and that conflict has been made more complicated by artificial intelligence changing how we perceive what is real. Jewish Voice for Peace has held demonstrations in Grand Central Terminal calling for a cease-fire and to let Gaza live. On a different note, a manhunt in Maine came to an end with the suspect being found dead. However, the tragedy still deeply affects the local community as portraits of the victims are shared. Turning to Africa, the population is growing rapidly and soon one out of every four people on the planet will be African. Domestically, Mike Johnson has been appointed as speaker in the House of Representatives. He has been vocal about his faith-based views on race but also faces a challenge raising funds for his constituents when it comes to politics. Additionally, a multi-part series by The Interpreter dives into how two young women have pushed against cultural norms while trying to take control of their lives likely at a high cost. Lastly, Uvalde Texas is trying to collectively heal after a mass shooting by breaking ground on a new school that will be a bright light in this dark time.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gaza’s Tunnels Loom Large for Israel’s Ground Forces</h3>
+<sub>By Adam Goldman, Helene Cooper and Justin Scheck</sub>
+<p>Hamas is believed to hide weapons, fighters and even command centers in miles of subterranean pathways and chambers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A.I. Muddies Israel-Hamas War in Unexpected Way</h3>
+<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
+<p>Fakes related to the conflict have been limited and largely unconvincing, but their presence has people doubting real evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Let Gaza Live’: Calls for Cease-Fire Fill Grand Central Terminal</h3>
 <sub>By Claire Fahy, Julian Roberts-Grmela and Sean Piccoli</sub>
 <p>A large demonstration, organized by Jewish Voice for Peace, came as Israel ramped up its military operations inside Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Airstrikes Contain Twin Messages to Iran, American Officials Say</h3>
-<sub>By David E. Sanger and Julian E. Barnes</sub>
-<p>The airstrikes were the latest gamble by the United States to modify Iran’s behavior, few of which have worked in the past.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,22 +92,16 @@ There is unrest in the Middle East following calls from protesters in Grand Cent
 <p>What began as a seemingly ordinary evening in Lewiston turned horrific after a gunman entered a bowling alley and a local bar and began shooting, killing 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Shooting, Maine Senators in the Spotlight on Guns</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The shooting in Lewiston that left 18 dead prompted the town’s conservative Democratic representative to embrace an assault weapons ban, but Senators Susan Collins and Angus King are still resisting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The World Is Becoming More African</h3>
+<sub>By Declan Walsh and Hannah Reyes Morales</sub>
+<p>Africa has the fastest growing, youngest population of any continent. By 2050, one in four people on the planet will be African. Early tremors of this seismic change are already registering around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Mike Johnson, Religion Is at the Forefront of Politics and Policy</h3>
 <sub>By Annie Karni, Ruth Graham and Steve Eder</sub>
 <p>The new House speaker has put his faith at the center of his political career, and aligned himself with a newer cohort of conservative Christianity that some describe as Christian nationalism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Washington Was Stunned by the New Speaker’s Rise. So Was His District.</h3>
-<sub>By Emily Cochrane and Marie Elizabeth Oliver</sub>
-<p>Many in Mike Johnson’s northern Louisiana district hope his surprise elevation will bring attention to their region, which they feel has been overlooked.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,28 +111,28 @@ There is unrest in the Middle East following calls from protesters in Grand Cent
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>9 Takeaways From Mike Johnson’s First Interview as Speaker</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Louisiana Republican spoke about how his worldview is dictated by the Bible, and discussed issues including abortion, gay marriage and aid for Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<h3>The House G.O.P Has Its Leader. But Can He Be a Rainmaker?</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The former speaker, Kevin McCarthy, was a prolific fund-raiser for his House colleagues. The new speaker, Mike Johnson, doesn’t yet have the same juice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Testifies That He Made ‘Larger Mistakes’ at FTX</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>Speaking in his own defense at his criminal trial, the FTX founder denied he had committed fraud but acknowledged missteps that hurt the cryptocurrency exchange’s customers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Chapter 2: Chasing Dreams at a Steep Cost</h3>
+<sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
+<p>She escaped an abusive betrothal, but her family’s reputation was suffering for it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Kanye and Adidas: Money, Misconduct and the Price of Appeasement</h3>
-<sub>By Megan Twohey</sub>
-<p>Before Adidas broke with Kanye West last fall over antisemitic public remarks, it had tolerated years of his abusive conduct behind the scenes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Chapter 1: To Take Control, She Had to Run</h3>
+<sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
+<p>This is the first part of a series by The Interpreter that examines how, for two young women, chasing opportunity in India has been a fight for their lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Test Your Candy I.Q.</h3>
-<sub>By Alice Callahan</sub>
-<p>Trick or treat! See how much you really know about sweets with this quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘A Bright Light in a Dark Time’: A New School for Uvalde</h3>
+<sub>By Edgar Sandoval</sub>
+<p>More than a year after a mass shooting at Robb Elementary School, the community is breaking ground on a new campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
