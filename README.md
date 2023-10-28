@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-I&#39;ve got stories from all over the world! In Israel, some people are feeling like death is unavoidable due to airstrikes that tend to come without warning. In Michigan, many Muslim and Arab American voters are reconsidering their support of President Biden&#39;s support for Israel. A gunman in Maine had paranoid beliefs before taking part in a mass shooting. Right now, Africa has the fastest-growing population which is leading to social changes worldwide. In Congress, the new House Speaker has put his faith at the forefront of his political career. Also, he says his views on race were shaped by raising a black child. To top it off, Hurricane Otis has caused destruction in Acapulco, causing death tolls to rise and desperation for aid to increase. And finally, a series of stories coming from India show how two women are putting their lives on the line while chasing opportunity.</p>
+There seems to be a lot taking place on the world stage right now. In Gaza, residents are feeling like death is imminent from Israeli airstrikes without warning. Israel has accused Hamas of hiding command centers in Al Shifa Hospital but the group denies the allegations. In Michigan, Muslim and Arab American voters are reconsidering their support for Biden due to his stance on Israel. There was also a mass shooting in Maine with the suspect having paranoid beliefs and the city coming together afterwards as &quot;Lewiston Strong&quot;. Pence bowed out for 2024 Presidential Race and there was a gathering for Jewish Republican donors at which Haley gave a scathing critique of Trump&#39;s comments about the Israel-Hamas conflict. Africa&#39;s population is booming and by 2050, one in four people will be African. There&#39;s also been news from the auto industry with UAW reaching a tentative deal with Stellantis and Meg Ryan tackling Rom-Coms in a new movie. Lastly, Hurricane Otis caused destruction in Acapulco in Mexico with pleas for aid, a scramble for resources and rising death tolls while Oleg Tsaryov, whom the Kremlin wanted to put up as a puppet leader in Ukraine, got shot in Crimea.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘You Think of Dying at Any Time’</h3>
@@ -68,10 +68,10 @@ I&#39;ve got stories from all over the world! In Israel, some people are feeling
 <p>Gaza residents say Israeli airstrikes come mostly without warning and hit indiscriminately, leading to the feeling that death is imminent and inevitable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gaza’s Tunnels Loom Large for Israel’s Ground Forces</h3>
-<sub>By Adam Goldman, Helene Cooper and Justin Scheck</sub>
-<p>Hamas is believed to hide weapons, fighters and even command centers in miles of subterranean pathways and chambers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Says Al Shifa Hospital Conceals Hamas Underground Command Centers</h3>
+<sub>By Vivian Yee</sub>
+<p>The group denies the accusation, saying Israel has offered “fabricated” evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,28 +86,40 @@ I&#39;ve got stories from all over the world! In Israel, some people are feeling
 <p>The man was found dead on Friday night, ending a two-day manhunt. The police said he had legally purchased several guns, including in recent days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Lewiston Strong’: After Mass Shooting, Residents Emerge With Grit</h3>
+<sub>By Jenna Russell</sub>
+<p>After two long days of being locked down amid the manhunt for a gunman who killed 18 people, the small city in Maine started to come back to life, forever changed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pence Bows Out of 2024 Presidential Race That Trump Is Dominating</h3>
+<sub>By Maggie Haberman, Lisa Lerer and Rebecca Davis O’Brien</sub>
+<p>The former vice president said he would end his bid in a surprise announcement at a gathering of Jewish Republican donors. “It’s become clear to me that this is not my time,” he said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Haley Offers Scathing Critique of Trump at Jewish Republican Event in Las Vegas</h3>
+<sub>By Rebecca Davis O’Brien and Lisa Lerer</sub>
+<p>The former United Nations ambassador delivered remarks with other candidates at the annual Republican Jewish Coalition gathering, criticizing her former boss and his comments about the Israel-Hamas conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The World Is Becoming More African</h3>
 <sub>By Declan Walsh and Hannah Reyes Morales</sub>
 <p>Africa has the fastest growing, youngest population of any continent. By 2050, one in four people on the planet will be African. Early tremors of this seismic change are already registering around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Mike Johnson, Religion Is at the Forefront of Politics and Policy</h3>
-<sub>By Annie Karni, Ruth Graham and Steve Eder</sub>
-<p>The new House speaker has put his faith at the center of his political career, and aligned himself with a newer cohort of conservative Christianity that some describe as Christian nationalism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Reaches Tentative Deal With Stellantis, Following Ford</h3>
+<sub>By Neal E. Boudette</sub>
+<p>Stellantis, the parent of Chrysler, Jeep and Ram, and the United Automobile Workers union were said to have reached a deal on a new contract similar to the one that the union reached with Ford.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On Race, Mike Johnson Says His Views Were Shaped by Raising a Black Child</h3>
-<sub>By Adam Nagourney</sub>
-<p>The new House speaker has kept his oldest son out of the public eye — except when the Republican talks about race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The House G.O.P Has Its Leader. But Can He Be a Rainmaker?</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The former speaker, Kevin McCarthy, was a prolific fund-raiser for his House colleagues. The new speaker, Mike Johnson, doesn’t yet have the same juice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Meg Ryan Wrestles With the Rom-Com</h3>
+<sub>By Melena Ryzik</sub>
+<p>She always had concerns about the happily-ever-after ideals of the genre. Now as a director she’s pushing its boundaries to examine issues of aging and regret.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,21 +129,9 @@ I&#39;ve got stories from all over the world! In Israel, some people are feeling
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chapter 2: Chasing Dreams at a Steep Cost</h3>
-<sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
-<p>She escaped an abusive betrothal, but her family’s reputation was suffering for it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chapter 1: To Take Control, She Had to Run</h3>
-<sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
-<p>This is the first part of a series by The Interpreter that examines how, for two young women, chasing opportunity in India has been a fight for their lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Cohen’s Testimony Sets the Stage for Trump’s Hush Money Trial</h3>
-<sub>By Jonah E. Bromwich, Ben Protess, William K. Rashbaum and Maggie Haberman</sub>
-<p>Michael D. Cohen, Donald J. Trump’s former fixer, was not an essential witness in Mr. Trump’s civil fraud trial this week. He will be when he takes the stand in a Manhattan criminal case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Kremlin’s Onetime Pick to Be Ukraine’s Puppet Leader Is Shot in Crimea</h3>
+<sub>By Marc Santora</sub>
+<p>Oleg Tsaryov, a pro-Russian businessman and former lawmaker, was said to have been wounded in the attack. Moscow had planned to set him up as head of government in Kyiv if its invasion had succeeded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
