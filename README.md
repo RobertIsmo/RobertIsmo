@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, October 27, Central Standard Time</p>
+<p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Gaza, there is an increase in violence as Israel carries out attacks, and Palestinians are losing access to their phone lines and internet services. In the US, there was a tragic shooting in Lewiston, Maine which killed 18 people. This has caused some political tension surrounding gun control laws in the Senate. On the technology side, Sam Bankman-Fried, founder of FTX cryptocurrency exchange, is on trial for fraud. In Washington, there&#39;s a new Speaker named Mike Johnson who comes from a conservative background and has strong stances on religious issues. Kanye West recently had to end his partnership with Adidas due to his anti-Semitic comments. Finally, in Hawaii there has been a landmark case involving sex discrimination at the high school level that violated Title IX rights.</p>
+There is an ongoing conflict in Gaza as Israel ramps up attacks. In the United States, there was a major shooting in Maine where 18 people were killed. Meanwhile, Mike Johnson, a politician from Louisiana has risen to the role as House Speaker and is now in the spotlight. There are also controversies involving Kanye West and Adidas that involves money and misconduct.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza Goes Dark as Israel Attacks Intensify</h3>
@@ -75,6 +75,12 @@ There&#39;s a lot happening in the world right now. In Gaza, there is an increas
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Suspect in Maine Shooting Is Found Dead, Ending Sprawling Manhunt</h3>
+<sub>By Nicholas Bogel-Burroughs, Jenna Russell and Michael Levenson</sub>
+<p>The body of the man suspected of killing 18 and injuring 13 others in Lewiston was found with an apparent self-inflicted gunshot wound late Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Portraits of the Dead Emerge From Tragedy in Maine</h3>
 <sub>By Billy Witz, Anna Betts, Eduardo Medina and Jenna Russell</sub>
 <p>What began as a seemingly ordinary evening in Lewiston turned horrific after a gunman entered a bowling alley and a local bar and began shooting, killing 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -86,16 +92,10 @@ There&#39;s a lot happening in the world right now. In Gaza, there is an increas
 <p>The shooting in Lewiston that left 18 dead prompted the town’s conservative Democratic representative to embrace an assault weapons ban, but Senators Susan Collins and Angus King are still resisting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Testifies That He Made ‘Larger Mistakes’ at FTX</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>Speaking in his own defense at his criminal trial, the FTX founder denied he had committed fraud but acknowledged missteps that hurt the cryptocurrency exchange’s customers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Shearing of Sam Bankman-Fried</h3>
-<sub>By Vanessa Friedman</sub>
-<p>The disgraced crypto king, on trial for financial fraud, takes the stand. But his hair tells its own story.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Mike Johnson, Religion Is at the Forefront of Politics and Policy</h3>
+<sub>By Annie Karni, Ruth Graham and Steve Eder</sub>
+<p>The new House speaker has put his faith at the center of his political career, and aligned himself with a newer cohort of conservative Christianity that some describe as Christian nationalism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +116,22 @@ There&#39;s a lot happening in the world right now. In Gaza, there is an increas
 <p>The Louisiana Republican spoke about how his worldview is dictated by the Bible, and discussed issues including abortion, gay marriage and aid for Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Testifies That He Made ‘Larger Mistakes’ at FTX</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>Speaking in his own defense at his criminal trial, the FTX founder denied he had committed fraud but acknowledged missteps that hurt the cryptocurrency exchange’s customers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Kanye and Adidas: Money, Misconduct and the Price of Appeasement</h3>
 <sub>By Megan Twohey</sub>
 <p>Before Adidas broke with Kanye West last fall over antisemitic public remarks, it had tolerated years of his abusive conduct behind the scenes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Good. The Bad. The Ugly. Inside Berlusconi’s Art Collection.</h3>
-<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
-<p>The Italian media mogul bought up some 25,000 paintings, many on TV shopping binges, before he died this year. Now no one knows what to do with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hawaii Settles Sex Discrimination Case With High School Female Athletes</h3>
-<sub>By David W. Chen</sub>
-<p>The landmark class-action case was one of the farthest-reaching challenges to high school sports under federal Title IX protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Test Your Candy I.Q.</h3>
+<sub>By Alice Callahan</sub>
+<p>Trick or treat! See how much you really know about sweets with this quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
