@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Gaza, Israel and Hamas are at odds and that conflict has been made more complicated by artificial intelligence changing how we perceive what is real. Jewish Voice for Peace has held demonstrations in Grand Central Terminal calling for a cease-fire and to let Gaza live. On a different note, a manhunt in Maine came to an end with the suspect being found dead. However, the tragedy still deeply affects the local community as portraits of the victims are shared. Turning to Africa, the population is growing rapidly and soon one out of every four people on the planet will be African. Domestically, Mike Johnson has been appointed as speaker in the House of Representatives. He has been vocal about his faith-based views on race but also faces a challenge raising funds for his constituents when it comes to politics. Additionally, a multi-part series by The Interpreter dives into how two young women have pushed against cultural norms while trying to take control of their lives likely at a high cost. Lastly, Uvalde Texas is trying to collectively heal after a mass shooting by breaking ground on a new school that will be a bright light in this dark time.</p>
+There is a lot happening in the world right now. In the Middle East, Gaza&#39;s tunnels have been a source of tension between Israel and Hamas, while in the US, President Biden&#39;s pro-Israel stance has upset some Arab and Muslim American voters in Michigan. Meanwhile, a manhunt in Maine has concluded after a deadly shooting left 18 dead. More articles explore issues of faith, race, and resources in the US and around the world. In India, there is an ongoing series about two young women who are trying to take control of their lives by chasing opportunities there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gaza’s Tunnels Loom Large for Israel’s Ground Forces</h3>
@@ -68,17 +68,17 @@ There is a lot happening in the world right now. In Gaza, Israel and Hamas are a
 <p>Hamas is believed to hide weapons, fighters and even command centers in miles of subterranean pathways and chambers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A.I. Muddies Israel-Hamas War in Unexpected Way</h3>
-<sub>By Tiffany Hsu and Stuart A. Thompson</sub>
-<p>Fakes related to the conflict have been limited and largely unconvincing, but their presence has people doubting real evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Israel Ties Rooted in Long Career: ‘From His Gut to His Heart to His Head’</h3>
+<sub>By Peter Baker</sub>
+<p>The president’s “unwavering support” for Israel stems from childhood dinner table conversations and half a century of trips to the Jewish state. But it puts him at odds with some in his own party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Let Gaza Live’: Calls for Cease-Fire Fill Grand Central Terminal</h3>
-<sub>By Claire Fahy, Julian Roberts-Grmela and Sean Piccoli</sub>
-<p>A large demonstration, organized by Jewish Voice for Peace, came as Israel ramped up its military operations inside Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Michigan, Muslim and Arab American Voters Reconsider Support for Biden</h3>
+<sub>By Julie Bosman and Ernesto Londoño</sub>
+<p>Many in the swing state say they feel betrayed by the president’s support for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Suspect in Maine Shooting Is Found Dead, Ending Sprawling Manhunt</h3>
@@ -117,6 +117,12 @@ There is a lot happening in the world right now. In Gaza, Israel and Hamas are a
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pleas for Aid and a Scramble for Supplies in Acapulco After Hurricane Otis</h3>
+<sub>By Emiliano Rodríguez Mega, Zolan Kanno-Youngs and Elda Cantú</sub>
+<p>Days after the storm, residents were navigating broken glass, searching for water and food, and trying to find loved ones. Many said the government was not doing enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chapter 2: Chasing Dreams at a Steep Cost</h3>
 <sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
 <p>She escaped an abusive betrothal, but her family’s reputation was suffering for it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -127,12 +133,6 @@ There is a lot happening in the world right now. In Gaza, Israel and Hamas are a
 <sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
 <p>This is the first part of a series by The Interpreter that examines how, for two young women, chasing opportunity in India has been a fight for their lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Bright Light in a Dark Time’: A New School for Uvalde</h3>
-<sub>By Edgar Sandoval</sub>
-<p>More than a year after a mass shooting at Robb Elementary School, the community is breaking ground on a new campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
