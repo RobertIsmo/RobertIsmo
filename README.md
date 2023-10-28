@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the Middle East, Gaza&#39;s tunnels have been a source of tension between Israel and Hamas, while in the US, President Biden&#39;s pro-Israel stance has upset some Arab and Muslim American voters in Michigan. Meanwhile, a manhunt in Maine has concluded after a deadly shooting left 18 dead. More articles explore issues of faith, race, and resources in the US and around the world. In India, there is an ongoing series about two young women who are trying to take control of their lives by chasing opportunities there.</p>
+I&#39;ve got stories from all over the world! In Israel, some people are feeling like death is unavoidable due to airstrikes that tend to come without warning. In Michigan, many Muslim and Arab American voters are reconsidering their support of President Biden&#39;s support for Israel. A gunman in Maine had paranoid beliefs before taking part in a mass shooting. Right now, Africa has the fastest-growing population which is leading to social changes worldwide. In Congress, the new House Speaker has put his faith at the forefront of his political career. Also, he says his views on race were shaped by raising a black child. To top it off, Hurricane Otis has caused destruction in Acapulco, causing death tolls to rise and desperation for aid to increase. And finally, a series of stories coming from India show how two women are putting their lives on the line while chasing opportunity.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘You Think of Dying at Any Time’</h3>
+<sub>By Raja Abdulrahim</sub>
+<p>Gaza residents say Israeli airstrikes come mostly without warning and hit indiscriminately, leading to the feeling that death is imminent and inevitable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gaza’s Tunnels Loom Large for Israel’s Ground Forces</h3>
 <sub>By Adam Goldman, Helene Cooper and Justin Scheck</sub>
 <p>Hamas is believed to hide weapons, fighters and even command centers in miles of subterranean pathways and chambers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Israel Ties Rooted in Long Career: ‘From His Gut to His Heart to His Head’</h3>
-<sub>By Peter Baker</sub>
-<p>The president’s “unwavering support” for Israel stems from childhood dinner table conversations and half a century of trips to the Jewish state. But it puts him at odds with some in his own party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,16 +81,10 @@ There is a lot happening in the world right now. In the Middle East, Gaza&#39;s 
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect in Maine Shooting Is Found Dead, Ending Sprawling Manhunt</h3>
-<sub>By Nicholas Bogel-Burroughs, Jenna Russell and Michael Levenson</sub>
-<p>The body of the man suspected of killing 18 and injuring 13 others in Lewiston was found with an apparent self-inflicted gunshot wound late Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Portraits of the Dead Emerge From Tragedy in Maine</h3>
-<sub>By Billy Witz, Anna Betts, Eduardo Medina and Jenna Russell</sub>
-<p>What began as a seemingly ordinary evening in Lewiston turned horrific after a gunman entered a bowling alley and a local bar and began shooting, killing 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<h3>Gunman in Maine Mass Shooting Had Paranoid Beliefs, Officials Say</h3>
+<sub>By Nicholas Bogel-Burroughs and Amelia Nierenberg</sub>
+<p>The man was found dead on Friday night, ending a two-day manhunt. The police said he had legally purchased several guns, including in recent days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The World Is Becoming More African</h3>
@@ -119,7 +113,7 @@ There is a lot happening in the world right now. In the Middle East, Gaza&#39;s 
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pleas for Aid and a Scramble for Supplies in Acapulco After Hurricane Otis</h3>
 <sub>By Emiliano Rodríguez Mega, Zolan Kanno-Youngs and Elda Cantú</sub>
-<p>Days after the storm, residents were navigating broken glass, searching for water and food, and trying to find loved ones. Many said the government was not doing enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Days after the storm, the death toll rose to 39 and residents were navigating broken glass, searching for water and food, and trying to find loved ones. Many said the government was not doing enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -133,6 +127,12 @@ There is a lot happening in the world right now. In the Middle East, Gaza&#39;s 
 <sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
 <p>This is the first part of a series by The Interpreter that examines how, for two young women, chasing opportunity in India has been a fight for their lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Cohen’s Testimony Sets the Stage for Trump’s Hush Money Trial</h3>
+<sub>By Jonah E. Bromwich, Ben Protess, William K. Rashbaum and Maggie Haberman</sub>
+<p>Michael D. Cohen, Donald J. Trump’s former fixer, was not an essential witness in Mr. Trump’s civil fraud trial this week. He will be when he takes the stand in a Manhattan criminal case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
