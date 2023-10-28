@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, October 27, Central Standard Time</p>
 <p>
-There is a lot of turmoil happening in the world right now. In Gaza, Israel has been attacking heavily and has caused the power and internet to go out across the region. The United States has conducted airstrikes against Iran in an attempt to modify their behavior. There was a mass shooting in Lewiston, Maine that left 18 dead, and it&#39;s sparked a discussion on gun control laws. The crypto king Sam Bankman-Fried is currently on trial for financial fraud and his hair has been making headlines. Mike Johnson, a conservative from Louisiana, just became the new House speaker in Washington and is speaking out against abortion, gay marriage, and Ukraine aid. Lastly, Kanye West and Adidas have had a tumultuous relationship due to Kanye&#39;s antisemitic comments, as well as allegations of abuse behind the scenes.</p>
+There&#39;s a lot happening in the world right now. In Gaza, there is an increase in violence as Israel carries out attacks, and Palestinians are losing access to their phone lines and internet services. In the US, there was a tragic shooting in Lewiston, Maine which killed 18 people. This has caused some political tension surrounding gun control laws in the Senate. On the technology side, Sam Bankman-Fried, founder of FTX cryptocurrency exchange, is on trial for fraud. In Washington, there&#39;s a new Speaker named Mike Johnson who comes from a conservative background and has strong stances on religious issues. Kanye West recently had to end his partnership with Adidas due to his anti-Semitic comments. Finally, in Hawaii there has been a landmark case involving sex discrimination at the high school level that violated Title IX rights.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza Goes Dark as Israel Attacks Intensify</h3>
@@ -77,13 +77,7 @@ There is a lot of turmoil happening in the world right now. In Gaza, Israel has 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Portraits of the Dead Emerge From Tragedy in Maine</h3>
 <sub>By Billy Witz, Anna Betts, Eduardo Medina and Jenna Russell</sub>
-<p>What began as a seemingly ordinary evening in Lewiston turned horrific after a gunman entered a bowling alley and a local bar and began shooting, killing 18 people  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Woods Can Conceal a Fugitive. But for How Long?</h3>
-<sub>By Katie Benner and Jack Healy</sub>
-<p>Someone on the run can take advantage of natural cover to elude a manhunt for awhile, but experts say technology and time will eventually tip the scales toward the pursuers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>What began as a seemingly ordinary evening in Lewiston turned horrific after a gunman entered a bowling alley and a local bar and began shooting, killing 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,15 +105,15 @@ There is a lot of turmoil happening in the world right now. In Gaza, Israel has 
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>9 Takeaways From Mike Johnson’s First Interview as Speaker</h3>
-<sub>By Luke Broadwater</sub>
-<p>The Louisiana Republican spoke about how his worldview is dictated by the Bible, and discussed issues including abortion, gay marriage and aid for Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>On Race, Mike Johnson Says His Views Were Shaped by Raising a Black Child</h3>
+<sub>By Adam Nagourney</sub>
+<p>The new House speaker has kept his oldest son out of the public eye — except when the Republican talks about race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Aid in Doubt as Johnson Moves to Drop It From Israel Assistance Bill</h3>
-<sub>By Karoun Demirjian and Catie Edmondson</sub>
-<p>The newly elected House speaker, who has opposed continued funding for Kyiv, is now insisting on separating it from aid to Israel, leaving its fate uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>9 Takeaways From Mike Johnson’s First Interview as Speaker</h3>
+<sub>By Luke Broadwater</sub>
+<p>The Louisiana Republican spoke about how his worldview is dictated by the Bible, and discussed issues including abortion, gay marriage and aid for Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +122,16 @@ There is a lot of turmoil happening in the world right now. In Gaza, Israel has 
 <p>Before Adidas broke with Kanye West last fall over antisemitic public remarks, it had tolerated years of his abusive conduct behind the scenes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inside Kanye West’s Fraught Relationship With Adidas: 7 Takeaways</h3>
-<sub>By Megan Twohey</sub>
-<p>The runaway success of the Yeezy collaboration between Kanye West and Adidas came at a price as the company tolerated misconduct by him for nearly a decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Good. The Bad. The Ugly. Inside Berlusconi’s Art Collection.</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>The Italian media mogul bought up some 25,000 paintings, many on TV shopping binges, before he died this year. Now no one knows what to do with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hawaii Settles Sex Discrimination Case With High School Female Athletes</h3>
+<sub>By David W. Chen</sub>
+<p>The landmark class-action case was one of the farthest-reaching challenges to high school sports under federal Title IX protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
