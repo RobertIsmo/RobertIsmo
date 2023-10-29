@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There has been tension between Gaza residents and Israel due to Israeli airstrikes that have provoked a feeling of death being imminent and inevitable. In Michigan, Muslim and Arabs Americans are reconsidering their support for President Biden because of his support for Israel. In Maine recently there was a mass shooting where the gunman was found with legally purchased guns. Residents have come together with grit in the wake of the tragedy. Vice President Pence bowed out of 2024 race as Trump is dominating it. Additionally, during a Jewish Republican event Haley offered a scathing critique of Trump. On the corporate side, the United Auto Workers union reached a tentative deal with Stellantis following Ford. And in the entertainment industry, Meg Ryan has begun to push boundaries within rom-com movies and Lionel Messi released a new pink jersey. Lastly, the Vatican deemed bigger roles of women “urgent” but postponed major issues concerning LGBTQ+ Catholics.</p>
+There have been a lot of tensions between Israel and the Palestinians, with residents in Gaza saying Israeli airstrikes are occurring without much warning and that they feel death is coming for them. Additionally, Muslim and Arab voters in Michigan have been considering switching their support from Biden because of his stance on Israel. Meanwhile, an Army reservist in Maine recently shot 18 people, though officials say he had paranoid beliefs and it is unclear why he did it. In other news, the UAW recently reached a tentative deal with Stellantis (parent company of Chrysler, Jeep and Ram), while the Kremlin&#39;s attempt to place a puppet leader in Ukraine was thwarted when he was shot in Crimea. Finally, the Vatican recently held a synod that failed to make progress on issues like reaching out to L.G.B.T.Q.+ Catholics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘You Think of Dying at Any Time’</h3>
@@ -78,6 +78,12 @@ There has been tension between Gaza residents and Israel due to Israeli airstrik
 <h3>In Michigan, Muslim and Arab American Voters Reconsider Support for Biden</h3>
 <sub>By Julie Bosman and Ernesto Londoño</sub>
 <p>Many in the swing state say they feel betrayed by the president’s support for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maine Gunman Made Threats Against His Army Base Last Month, Sheriff Says</h3>
+<sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
+<p>The sheriff said that the threats prompted an alert to all law enforcement agencies in the state, weeks before the gunman, an Army reservist, fatally shot 18 people this week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +133,6 @@ There has been tension between Gaza residents and Israel due to Israeli airstrik
 <sub>By Jason Horowitz and Elisabetta Povoledo</sub>
 <p>Progressives who once hoped that the synod would create momentum for things like reaching out to L.G.B.T.Q.+ Catholics said the meeting had failed to move the institution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>Lionel Messi’s fabulously popular pink jersey. Also: Taylor Swift fan fiction and a new podcast from Serial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
