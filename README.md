@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-There have been a lot of major developments around the world recently, especially in Gaza where China is trying to broker a peace while there have been reports of antisemitism online. In Israel, there has been an effort to draw attention to the plight of Arab Bedouins who have faced violence from Hamas too. Israel has accused Al Shifa Hospital in Gaza of concealing Hamas command centers. 
+It looks like a lot is going on in the world right now. In the Middle East, China is looking to broker peace in Gaza while antisemitism is surging online. Additionally, Israel&#39;s Arab Bedouins have been attacked by Hamas and racial tensions are high between progressive Democrats and their primary challengers over their stances on Israel. 
 
-In the US, there were recent developments in Maine after a sheriff sent out a statewide alert about a gunman who had made threats against an Army base. After two days, the gunman was found dead and residents in Lewiston are trying to rebuild and cope with the traditional shooting. Separately, actor Matthew Perry died at 54. He was best known for his role in Friends, the popular NBC sitcom about a group of friends living in New York City.
+In the U.S., former vice president Mike Pence was unable to escape the &quot;devil&#39;s bargain&quot; of Donald Trump&#39;s 2016 campaign. In Maine, a sheriff just revealed he sent out a statewide alert about a gunman last month before the mass shooting occurred. There are also sustained highs in illegal border crossings due to shifting U.S. policies and global migration patterns. 
 
-Meanwhile, the UAW union recently reached a tentative deal with car manufacturer Stellantis which followed Ford&#39;s deal earlier with UAW, but they are still fighting GM over another contract dispute. In Ukraine, Kremlin&#39;s onetime pick to be their puppet leader was shot in Crimea but Moscow&#39;s invasion apparently did not succeed.</p>
+In arts news, Matthew Perry from ‘Friends’ passed away at 54 and he wrote an addiction memoir before he died. In the workplace, companies are offering lessons in democracy to address rising distrust attendant with events all around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As China Looks to Broker Gaza Peace, Antisemitism Surges Online</h3>
@@ -78,29 +78,23 @@ Meanwhile, the UAW union recently reached a tentative deal with car manufacturer
 <p>At least 17 died in the Hamas attacks, and many more in the impoverished community have since lost their livelihoods in Jewish farms that were ransacked.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says Al Shifa Hospital Conceals Hamas Underground Command Centers</h3>
-<sub>By Vivian Yee</sub>
-<p>The group denies the accusation, saying Israel has offered “fabricated” evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Reaction to Hamas Attack Leaves Some Jews in Hollywood Feeling Unmoored</h3>
+<sub>By Nicole Sperling and Brooks Barnes</sub>
+<p>The response to the Oct. 7 assault, and to Israel’s retaliation, has revealed a schism in the entertainment world that many did not realize was there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine Sheriff Says He Sent Statewide Alert About Gunman Last Month</h3>
-<sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
-<p>The sheriff said the gunman had made threats against the Army base where he was assigned, prompting an alert to all law enforcement agencies in the state weeks before the mass shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<h3>Primary Battles Brew Over Progressive Democrats’ Stances on Israel</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Representative Summer Lee of Pennsylvania, who joined calls for a cease-fire, has become one of several progressive lawmakers facing new pressure from primary challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gunman in Maine Mass Shooting Had Paranoid Beliefs, Officials Say</h3>
-<sub>By Nicholas Bogel-Burroughs and Amelia Nierenberg</sub>
-<p>The man was found dead on Friday night, ending a two-day manhunt. The police said he had legally purchased several guns, including in recent days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Lewiston Strong’: After Mass Shooting, Residents Emerge With Grit</h3>
-<sub>By Jenna Russell</sub>
-<p>After two long days of being locked down amid the manhunt for a gunman who killed 18 people, the small city in Maine started to come back to life, forever changed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<h3>The Devil’s Bargain Mike Pence Could Not Escape</h3>
+<sub>By Adam Nagourney</sub>
+<p>The former vice president tied himself to Donald Trump in the 2016 campaign and it may have cost him a political future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Matthew Perry, Star of ‘Friends,’ Dies at 54</h3>
@@ -115,28 +109,34 @@ Meanwhile, the UAW union recently reached a tentative deal with car manufacturer
 <sub><sub>Sunday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pence Bows Out of 2024 Presidential Race That Trump Is Dominating</h3>
-<sub>By Maggie Haberman, Lisa Lerer and Rebecca Davis O’Brien</sub>
-<p>The former vice president said he would end his bid in a surprise announcement at a gathering of Jewish Republican donors. “It’s become clear to me that this is not my time,” he said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Maine Sheriff Says He Sent Statewide Alert About Gunman Last Month</h3>
+<sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
+<p>The sheriff said the gunman had made threats against the Army base where he was assigned, prompting an alert to all law enforcement agencies in the state weeks before the mass shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Haley Offers Scathing Critique of Trump at Jewish Republican Event in Las Vegas</h3>
-<sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
-<p>At the annual Republican Jewish Coalition gathering, G.O.P. leaders are seizing political opportunities in the divisions that the conflict has opened up at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Reaches Tentative Deal With Stellantis, Following Ford</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Automobile Workers union announced the deal with Stellantis, the parent of Chrysler, Jeep and Ram. It also expanded its strike against G.M.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Lewiston Strong’: After Mass Shooting, Residents Emerge With Grit</h3>
+<sub>By Jenna Russell</sub>
+<p>After two long days of being locked down amid the manhunt for a gunman who killed 18 people, the small city in Maine started to come back to life, forever changed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kremlin’s Onetime Pick to Be Ukraine’s Puppet Leader Is Shot in Crimea</h3>
-<sub>By Marc Santora</sub>
-<p>Oleg Tsaryov, a pro-Russian businessman and former lawmaker, was said to have been wounded in the attack. Moscow had planned to set him up as head of government in Kyiv if its invasion had succeeded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<h3>A New Place to Learn Civics: The Workplace</h3>
+<sub>By Melissa Eddy</sub>
+<p>Fearing that rising distrust could spell doom for businesses, some companies are offering employees lessons in democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>From Smugglers and TikTok, Migrants Get a Message: Go to New York</h3>
+<sub>By Jay Root</sub>
+<p>Many migrants entering the U.S. southern border have been steered to New York City by relatives, politicians and smugglers, in part because of the city’s right-to-shelter policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Illegal Border Crossings Are at Sustained Highs</h3>
+<sub>By Ashley Wu</sub>
+<p>Shifting U.S. policies, global migration patterns and changing migrant demographics all contribute to record levels of border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
