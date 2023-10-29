@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-It looks like a lot is going on in the world right now. In the Middle East, China is looking to broker peace in Gaza while antisemitism is surging online. Additionally, Israel&#39;s Arab Bedouins have been attacked by Hamas and racial tensions are high between progressive Democrats and their primary challengers over their stances on Israel. 
-
-In the U.S., former vice president Mike Pence was unable to escape the &quot;devil&#39;s bargain&quot; of Donald Trump&#39;s 2016 campaign. In Maine, a sheriff just revealed he sent out a statewide alert about a gunman last month before the mass shooting occurred. There are also sustained highs in illegal border crossings due to shifting U.S. policies and global migration patterns. 
-
-In arts news, Matthew Perry from ‘Friends’ passed away at 54 and he wrote an addiction memoir before he died. In the workplace, companies are offering lessons in democracy to address rising distrust attendant with events all around the world.</p>
+There is a lot going on in the world right now. In Israel, there have been protests against the government and recent Hamas attacks which have prompted a group of protesters to shift their efforts to helping those affected by the conflict. In the entertainment world, there is an increasingly visible schism over people&#39;s stances on Israel. In US news, Vice President Mike Pence has been facing criticism for his decision to tie himself to President Donald Trump in the 2016 campaign and now faces pressure from primary challengers as a result. Meanwhile, Matthew Perry, who was best known for his role in the TV show &quot;Friends,&quot; passed away at 54. Lastly, there are reports of migrants being directed to New York City due to its right-to-shelter policy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As China Looks to Broker Gaza Peace, Antisemitism Surges Online</h3>
-<sub>By Daisuke Wakabayashi, Tiffany May and Claire Fu</sub>
-<p>China’s state-run media has blamed the United States for deepening the crisis, while perpetuating tropes of Jewish control of American politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<h3>They Refused to Serve. Now They’re Supporting Israel’s War Effort.</h3>
+<sub>By Steven Erlanger and Natan Odenheimer</sub>
+<p>The Brothers in Arms group helped lead protests against the government, with members vowing to ignore military call-ups. But after the Hamas attacks, it pivoted to aid those affected by the conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Hidden Victims, Arab Bedouins, Were Attacked by Hamas Too</h3>
-<sub>By Adam Goldman and Gal Koplewitz</sub>
-<p>At least 17 died in the Hamas attacks, and many more in the impoverished community have since lost their livelihoods in Jewish farms that were ransacked.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<h3>Netanyahu Apologizes After Blaming Security Chiefs for Failure in Hamas Attack</h3>
+<sub>By Isabel Kershner</sub>
+<p>Prime Minister Benjamin Netanyahu, who has not taken responsibility for Israel’s lapses in the Oct. 7 massacre, deleted a social media post in which he had pointed a finger at security agencies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Reaction to Hamas Attack Leaves Some Jews in Hollywood Feeling Unmoored</h3>
@@ -85,21 +81,27 @@ In arts news, Matthew Perry from ‘Friends’ passed away at 54 and he wrote an
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Primary Battles Brew Over Progressive Democrats’ Stances on Israel</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Representative Summer Lee of Pennsylvania, who joined calls for a cease-fire, has become one of several progressive lawmakers facing new pressure from primary challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Devil’s Bargain Mike Pence Could Not Escape</h3>
 <sub>By Adam Nagourney</sub>
 <p>The former vice president tied himself to Donald Trump in the 2016 campaign and it may have cost him a political future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Primary Battles Brew Over Progressive Democrats’ Stances on Israel</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Representative Summer Lee of Pennsylvania, who joined calls for a cease-fire, has become one of several progressive lawmakers facing new pressure from primary challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Matthew Perry, Star of ‘Friends,’ Dies at 54</h3>
 <sub>By Orlando Mayorquin and Matt Stevens</sub>
 <p>Mr. Perry, who died on Saturday, was best known for his role in “Friends,” the NBC sitcom that followed a group of young professionals living in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Watch Matthew Perry’s Best Performances</h3>
+<sub>By Jeremy Egner</sub>
+<p>Perry will always be remembered as Chandler Bing. But he had a long and varied career that included films and many other series.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -130,12 +132,6 @@ In arts news, Matthew Perry from ‘Friends’ passed away at 54 and he wrote an
 <h3>From Smugglers and TikTok, Migrants Get a Message: Go to New York</h3>
 <sub>By Jay Root</sub>
 <p>Many migrants entering the U.S. southern border have been steered to New York City by relatives, politicians and smugglers, in part because of the city’s right-to-shelter policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Illegal Border Crossings Are at Sustained Highs</h3>
-<sub>By Ashley Wu</sub>
-<p>Shifting U.S. policies, global migration patterns and changing migrant demographics all contribute to record levels of border crossings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
