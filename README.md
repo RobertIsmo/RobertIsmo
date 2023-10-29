@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, October 28, Central Standard Time</p>
+<p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-There have been a lot of tensions between Israel and the Palestinians, with residents in Gaza saying Israeli airstrikes are occurring without much warning and that they feel death is coming for them. Additionally, Muslim and Arab voters in Michigan have been considering switching their support from Biden because of his stance on Israel. Meanwhile, an Army reservist in Maine recently shot 18 people, though officials say he had paranoid beliefs and it is unclear why he did it. In other news, the UAW recently reached a tentative deal with Stellantis (parent company of Chrysler, Jeep and Ram), while the Kremlin&#39;s attempt to place a puppet leader in Ukraine was thwarted when he was shot in Crimea. Finally, the Vatican recently held a synod that failed to make progress on issues like reaching out to L.G.B.T.Q.+ Catholics.</p>
+Right now, there is a lot of tension in the Middle East between Israel and Hamas. China is trying to broker a peace deal, but at the same time there are antisemitic views surfacing online. Additionally, some Arab Bedouins have been hurt from Hamas attacks, and Israel has accused hospitals of concealing Hamas command centers. Closer to home in Maine, there was a mass shooting that killed 18 people. The shooter had made threats against an Army base according to the local sheriff and had legally obtained his guns. In response to the shooting, many residents have come together with resilience while former Vice President Mike Pence withdrew from a potential 2024 presidential race as Donald Trump dominates. On the other side of the world in Crimea, someone attempted to shoot Oleg Tsaryov, a pro-Russian businessman and former lawmaker backed by the Kremlin to become a puppet leader in Ukraine if its invasion of Kyiv had succeeded. Lastly, there has been good news recently as the United Automobile Workers union reached a tentative agreement with Stellantis (parent company of Chrysler) after previously striking against General Motors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘You Think of Dying at Any Time’</h3>
-<sub>By Raja Abdulrahim</sub>
-<p>Gaza residents say Israeli airstrikes come mostly without warning and hit indiscriminately, leading to the feeling that death is imminent and inevitable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As China Looks to Broker Gaza Peace, Antisemitism Surges Online</h3>
+<sub>By Daisuke Wakabayashi, Tiffany May and Claire Fu</sub>
+<p>China’s state-run media has blamed the United States for deepening the crisis, while perpetuating tropes of Jewish control of American politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Hidden Victims, Arab Bedouins, Were Attacked by Hamas Too</h3>
+<sub>By Adam Goldman and Gal Koplewitz</sub>
+<p>At least 17 died in the Hamas attacks, and many more in the impoverished community have since lost their livelihoods in Jewish farms that were ransacked.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,15 +81,9 @@ There have been a lot of tensions between Israel and the Palestinians, with resi
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Michigan, Muslim and Arab American Voters Reconsider Support for Biden</h3>
-<sub>By Julie Bosman and Ernesto Londoño</sub>
-<p>Many in the swing state say they feel betrayed by the president’s support for Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine Gunman Made Threats Against His Army Base Last Month, Sheriff Says</h3>
+<h3>Maine Sheriff Says He Sent Statewide Alert About Gunman Last Month</h3>
 <sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
-<p>The sheriff said that the threats prompted an alert to all law enforcement agencies in the state, weeks before the gunman, an Army reservist, fatally shot 18 people this week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The sheriff said the gunman had made threats against the Army base where he was assigned, prompting an alert to all law enforcement agencies in the state weeks before the mass shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,6 +97,18 @@ There have been a lot of tensions between Israel and the Palestinians, with resi
 <sub>By Jenna Russell</sub>
 <p>After two long days of being locked down amid the manhunt for a gunman who killed 18 people, the small city in Maine started to come back to life, forever changed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Matthew Perry, Star of ‘Friends,’ Dies at 54</h3>
+<sub>By Orlando Mayorquin and Matt Stevens</sub>
+<p>Mr. Perry, who died on Saturday, was best known for his role in “Friends,” the NBC sitcom that followed a group of young professionals living in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The One Where Matthew Perry Writes an Addiction Memoir</h3>
+<sub>By Elisabeth Egan</sub>
+<p>In “Friends, Lovers and the Big Terrible Thing,” the actor gets serious about sobriety, mortality, colostomy bags and pickleball.  <a href="https://nyti.ms/3TtEmUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pence Bows Out of 2024 Presidential Race That Trump Is Dominating</h3>
@@ -116,22 +128,10 @@ There have been a lot of tensions between Israel and the Palestinians, with resi
 <p>The United Automobile Workers union announced the deal with Stellantis, the parent of Chrysler, Jeep and Ram. It also expanded its strike against G.M.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Meg Ryan Wrestles With the Rom-Com</h3>
-<sub>By Melena Ryzik</sub>
-<p>She always had concerns about the happily-ever-after ideals of the genre. Now as a director she’s pushing its boundaries to examine issues of aging and regret.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kremlin’s Onetime Pick to Be Ukraine’s Puppet Leader Is Shot in Crimea</h3>
 <sub>By Marc Santora</sub>
 <p>Oleg Tsaryov, a pro-Russian businessman and former lawmaker, was said to have been wounded in the attack. Moscow had planned to set him up as head of government in Kyiv if its invasion had succeeded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Vatican Deems Bigger Church Role for Women ‘Urgent,’ but Postpones Major Issues</h3>
-<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
-<p>Progressives who once hoped that the synod would create momentum for things like reaching out to L.G.B.T.Q.+ Catholics said the meeting had failed to move the institution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
