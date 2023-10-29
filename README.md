@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-There are a lot of complicated news events taking place in the world right now. In Israel, a group that had previously refused military service is now supporting the war effort as a result of increased tensions with Hamas, while Prime Minister Benjamin Netanyahu has apologized for blaming security chiefs for a failure. In the US specifically, there is a divide amongst progressive Democrats on stance towards Israel, and Mike Pence is being blamed for the decisions he made during his tie with Donald Trump in the 2016 election. In Hollywood, some Jews are feeling “unmoored” due to people’s stances on the conflict in Israel. In arts news, Matthew Perry—best known for his role in the TV show “Friends”—has passed away at age 54, and there have been tributes and performances celebrating his life. Lastly, there are various events related to Halloween currently happening; Salem, Massachusetts is proposing a ban on miniature alcohol bottles, and there’s heavy traffic due to an influx of people visiting the town.</p>
+In the world right now, Israeli forces are in Gaza fighting against Hamas. Some civilians have their phone and internet service cut off, while some Israeli protestors have shifted their focus to helping those affected by the conflict. In response, the Prime Minister of Israel apologized after blaming security chiefs for failure in Hamas attack.
+
+Meanwhile in the US, former Vice President Mike Pence&#39;s ties with Donald Trump have come back to haunt him. Progressive Democrats who called for a cease-fire are now facing new pressure from primary challengers. 
+
+In the arts world, we lost actor Matthew Perry at age 54. Fans and celebrities paid tribute to him and many have rewatched his best performances. 
+
+In Maine, a gunman disclosed mental health issues to gun store owner but was denied. In Salem, Massachusetts, halloween is causing headaches due to the increased traffic and littering of tiny liquor bottles. 
+
+Finally, TikTok has brought a new type of personalities into fame - a trucker, a shepherd and a commercial fisherman are making money due to their sponsorships on social media platforms.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>34 Hours of Fear: The Blackout That Cut Gaza Off From the World</h3>
+<sub>By Abu Bakr Bashir, Iyad Abuheweila, Vivian Nereim and Yousur Al-Hlou</sub>
+<p>As Israeli forces entered Gaza on Friday to fight Hamas, phone and internet service was severed, sowing chaos for Palestinian civilians and leaving rescuers driving blindly toward explosions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Refused to Serve. Now They’re Supporting Israel’s War Effort.</h3>
 <sub>By Steven Erlanger and Natan Odenheimer</sub>
@@ -72,12 +86,6 @@ There are a lot of complicated news events taking place in the world right now. 
 <h3>Netanyahu Apologizes After Blaming Security Chiefs for Failure in Hamas Attack</h3>
 <sub>By Isabel Kershner</sub>
 <p>Prime Minister Benjamin Netanyahu, who has not taken responsibility for Israel’s lapses in the Oct. 7 massacre, deleted a social media post in which he had pointed a finger at security agencies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Reaction to Hamas Attack Leaves Some Jews in Hollywood Feeling Unmoored</h3>
-<sub>By Nicole Sperling and Brooks Barnes</sub>
-<p>The response to the Oct. 7 assault, and to Israel’s retaliation, has revealed a schism in the entertainment world that many did not realize was there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,9 +107,9 @@ There are a lot of complicated news events taking place in the world right now. 
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Matthew Perry, Star of ‘Friends,’ Dies at 54</h3>
-<sub>By Orlando Mayorquin and Matt Stevens</sub>
-<p>Mr. Perry, who died on Saturday, was best known for his role in “Friends,” the NBC sitcom that followed a group of young professionals living in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Colleagues and Friends Mourn Actor Matthew Perry</h3>
+<sub>By Johnny Diaz</sub>
+<p>Fans and celebrities paid tribute to Perry, who died at age 54 on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -110,17 +118,11 @@ There are a lot of complicated news events taking place in the world right now. 
 <p>Perry will always be remembered as Chandler Bing. But he had a long and varied career that included films and many other series.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Colleagues and Friends Mourn Actor Matthew Perry</h3>
-<sub>By Johnny Diaz</sub>
-<p>Fans and celebrities paid tribute to Perry, who died at age 54 on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine Sheriff Says He Sent Statewide Alert About Gunman Last Month</h3>
-<sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
-<p>The sheriff said the gunman had made threats against the Army base where he was assigned, prompting an alert to all law enforcement agencies in the state weeks before the mass shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<h3>Maine Gunman Disclosed He Had Mental Health Issues, Gun Shop Owner Says</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>The man sought to purchase a gun silencer in August but was denied after self-reporting mental health issues on a federal form, the gun store owner said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A New Place to Learn Civics: The Workplace</h3>
@@ -133,6 +135,12 @@ There are a lot of complicated news events taking place in the world right now. 
 <sub>By Jenna Russell and Kieran Kesner</sub>
 <p>Miniature bottles of alcohol known as “nips” litter gardens, parks and playgrounds, prompting the Witch City to propose a ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>TikTok’s Finest Lobsterman</h3>
+<sub>By Steven Kurutz</sub>
+<p>A new crop of popular social media personalities includes a trucker, a shepherd and a commercial fisherman. What they earn from sponsorships is just a nice bonus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
