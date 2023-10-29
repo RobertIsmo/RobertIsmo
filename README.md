@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there have been protests against the government and recent Hamas attacks which have prompted a group of protesters to shift their efforts to helping those affected by the conflict. In the entertainment world, there is an increasingly visible schism over people&#39;s stances on Israel. In US news, Vice President Mike Pence has been facing criticism for his decision to tie himself to President Donald Trump in the 2016 campaign and now faces pressure from primary challengers as a result. Meanwhile, Matthew Perry, who was best known for his role in the TV show &quot;Friends,&quot; passed away at 54. Lastly, there are reports of migrants being directed to New York City due to its right-to-shelter policy.</p>
+There are a lot of complicated news events taking place in the world right now. In Israel, a group that had previously refused military service is now supporting the war effort as a result of increased tensions with Hamas, while Prime Minister Benjamin Netanyahu has apologized for blaming security chiefs for a failure. In the US specifically, there is a divide amongst progressive Democrats on stance towards Israel, and Mike Pence is being blamed for the decisions he made during his tie with Donald Trump in the 2016 election. In Hollywood, some Jews are feeling “unmoored” due to people’s stances on the conflict in Israel. In arts news, Matthew Perry—best known for his role in the TV show “Friends”—has passed away at age 54, and there have been tributes and performances celebrating his life. Lastly, there are various events related to Halloween currently happening; Salem, Massachusetts is proposing a ban on miniature alcohol bottles, and there’s heavy traffic due to an influx of people visiting the town.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Refused to Serve. Now They’re Supporting Israel’s War Effort.</h3>
@@ -93,6 +93,12 @@ There is a lot going on in the world right now. In Israel, there have been prote
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The One Without Matthew Perry</h3>
+<sub>By Alexis Soloski</sub>
+<p>Even as he struggled with drug and alcohol addiction, the “Friends” star Matthew Perry, who died at the age of 54, made it all look easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Matthew Perry, Star of ‘Friends,’ Dies at 54</h3>
 <sub>By Orlando Mayorquin and Matt Stevens</sub>
 <p>Mr. Perry, who died on Saturday, was best known for his role in “Friends,” the NBC sitcom that followed a group of young professionals living in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -105,21 +111,15 @@ There is a lot going on in the world right now. In Israel, there have been prote
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The One Where Matthew Perry Writes an Addiction Memoir</h3>
-<sub>By Elisabeth Egan</sub>
-<p>In “Friends, Lovers and the Big Terrible Thing,” the actor gets serious about sobriety, mortality, colostomy bags and pickleball.  <a href="https://nyti.ms/3TtEmUs"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 23, Central Standard Time</sub></sub>
+<h3>Colleagues and Friends Mourn Actor Matthew Perry</h3>
+<sub>By Johnny Diaz</sub>
+<p>Fans and celebrities paid tribute to Perry, who died at age 54 on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Sheriff Says He Sent Statewide Alert About Gunman Last Month</h3>
 <sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
 <p>The sheriff said the gunman had made threats against the Army base where he was assigned, prompting an alert to all law enforcement agencies in the state weeks before the mass shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Lewiston Strong’: After Mass Shooting, Residents Emerge With Grit</h3>
-<sub>By Jenna Russell</sub>
-<p>After two long days of being locked down amid the manhunt for a gunman who killed 18 people, the small city in Maine started to come back to life, forever changed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +128,10 @@ There is a lot going on in the world right now. In Israel, there have been prote
 <p>Fearing that rising distrust could spell doom for businesses, some companies are offering employees lessons in democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>From Smugglers and TikTok, Migrants Get a Message: Go to New York</h3>
-<sub>By Jay Root</sub>
-<p>Many migrants entering the U.S. southern border have been steered to New York City by relatives, politicians and smugglers, in part because of the city’s right-to-shelter policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Halloween Headaches in Salem, Mass.: Traffic. Crowds. Tiny Liquor Bottles?</h3>
+<sub>By Jenna Russell and Kieran Kesner</sub>
+<p>Miniature bottles of alcohol known as “nips” litter gardens, parks and playgrounds, prompting the Witch City to propose a ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
