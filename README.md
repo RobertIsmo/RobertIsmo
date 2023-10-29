@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, October 28, Central Standard Time</p>
 <p>
-There seems to be a lot taking place on the world stage right now. In Gaza, residents are feeling like death is imminent from Israeli airstrikes without warning. Israel has accused Hamas of hiding command centers in Al Shifa Hospital but the group denies the allegations. In Michigan, Muslim and Arab American voters are reconsidering their support for Biden due to his stance on Israel. There was also a mass shooting in Maine with the suspect having paranoid beliefs and the city coming together afterwards as &quot;Lewiston Strong&quot;. Pence bowed out for 2024 Presidential Race and there was a gathering for Jewish Republican donors at which Haley gave a scathing critique of Trump&#39;s comments about the Israel-Hamas conflict. Africa&#39;s population is booming and by 2050, one in four people will be African. There&#39;s also been news from the auto industry with UAW reaching a tentative deal with Stellantis and Meg Ryan tackling Rom-Coms in a new movie. Lastly, Hurricane Otis caused destruction in Acapulco in Mexico with pleas for aid, a scramble for resources and rising death tolls while Oleg Tsaryov, whom the Kremlin wanted to put up as a puppet leader in Ukraine, got shot in Crimea.</p>
+There has been tension between Gaza residents and Israel due to Israeli airstrikes that have provoked a feeling of death being imminent and inevitable. In Michigan, Muslim and Arabs Americans are reconsidering their support for President Biden because of his support for Israel. In Maine recently there was a mass shooting where the gunman was found with legally purchased guns. Residents have come together with grit in the wake of the tragedy. Vice President Pence bowed out of 2024 race as Trump is dominating it. Additionally, during a Jewish Republican event Haley offered a scathing critique of Trump. On the corporate side, the United Auto Workers union reached a tentative deal with Stellantis following Ford. And in the entertainment industry, Meg Ryan has begun to push boundaries within rom-com movies and Lionel Messi released a new pink jersey. Lastly, the Vatican deemed bigger roles of women “urgent” but postponed major issues concerning LGBTQ+ Catholics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘You Think of Dying at Any Time’</h3>
@@ -100,20 +100,14 @@ There seems to be a lot taking place on the world stage right now. In Gaza, resi
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Haley Offers Scathing Critique of Trump at Jewish Republican Event in Las Vegas</h3>
-<sub>By Rebecca Davis O’Brien and Lisa Lerer</sub>
-<p>The former United Nations ambassador delivered remarks with other candidates at the annual Republican Jewish Coalition gathering, criticizing her former boss and his comments about the Israel-Hamas conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The World Is Becoming More African</h3>
-<sub>By Declan Walsh and Hannah Reyes Morales</sub>
-<p>Africa has the fastest growing, youngest population of any continent. By 2050, one in four people on the planet will be African. Early tremors of this seismic change are already registering around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
+<p>At the annual Republican Jewish Coalition gathering, G.O.P. leaders are seizing political opportunities in the divisions that the conflict has opened up at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Reaches Tentative Deal With Stellantis, Following Ford</h3>
 <sub>By Neal E. Boudette</sub>
-<p>Stellantis, the parent of Chrysler, Jeep and Ram, and the United Automobile Workers union were said to have reached a deal on a new contract similar to the one that the union reached with Ford.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The United Automobile Workers union announced the deal with Stellantis, the parent of Chrysler, Jeep and Ram. It also expanded its strike against G.M.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -123,16 +117,22 @@ There seems to be a lot taking place on the world stage right now. In Gaza, resi
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pleas for Aid and a Scramble for Supplies in Acapulco After Hurricane Otis</h3>
-<sub>By Emiliano Rodríguez Mega, Zolan Kanno-Youngs and Elda Cantú</sub>
-<p>Days after the storm, the death toll rose to 39 and residents were navigating broken glass, searching for water and food, and trying to find loved ones. Many said the government was not doing enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Kremlin’s Onetime Pick to Be Ukraine’s Puppet Leader Is Shot in Crimea</h3>
 <sub>By Marc Santora</sub>
 <p>Oleg Tsaryov, a pro-Russian businessman and former lawmaker, was said to have been wounded in the attack. Moscow had planned to set him up as head of government in Kyiv if its invasion had succeeded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Vatican Deems Bigger Church Role for Women ‘Urgent,’ but Postpones Major Issues</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>Progressives who once hoped that the synod would create momentum for things like reaching out to L.G.B.T.Q.+ Catholics said the meeting had failed to move the institution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>Lionel Messi’s fabulously popular pink jersey. Also: Taylor Swift fan fiction and a new podcast from Serial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
