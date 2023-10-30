@@ -60,17 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 30, Central Standard Time</p>
 <p>
-There have been some major developments in the world recently. In Israel, there were a series of attacks by Hamas that shocked officials and shattered the country&#39;s sense of security. In the business world, car manufacturers have recently closed tentative agreements for their autoworkers, resulting in the most generous contracts in decades. In US politics, there is a debate over whether Donald Trump is disqualified from running for president again because of a clause in the 14th Amendment. Google CEO Sundar Pichai is defending his company against a federal antitrust case, and residents of New York City have contributed to an extremely detailed map of its neighborhoods. There is also conflict in Ukraine, where both sides are paying a bloody price for control of the city of Avdiivka. And unfortunately, we lost Matthew Perry recently. Fans have been mourning him at a Friends museum in NYC that re-creates the sitcom&#39;s famous sets. </p>
+There are a lot of interesting things going on in the world right now. In the business world, autoworkers have secured some great wins in new contracts with carmakers over the past few weeks. Meanwhile, people are still debating over the implications of President Biden&#39;s age due to previous comments made by Donald Trump before he left office. On a lighter note, Donald Trump is still ahead in the polls in Iowa and back in Colorado there&#39;s a trial to determine whether he violated the 14th Amendment. In technology news, Google&#39;s CEO gave evidence in an antitrust case against them while X introduced a new valuation system for their stocks. Over in New York, there&#39;s an incredibly detailed map of neighborhoods that shows how locals view their location and culture. To cap it off, Matthew Perry from &#39;Friends&#39; has passed away and authorities are still trying to uncover his cause of death - although it could be a while until we find out.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
-<sub>By Ronen Bergman, Mark Mazzetti and Maria Abi-Habib</sub>
-<p>Israeli officials completely underestimated the magnitude of the Oct. 7 attacks by Hamas, shattering the country’s once invincible sense of security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Autoworkers Score Big Wins in New Contracts With Carmakers</h3>
-<sub>By Neal E. Boudette and Jack Ewing</sub>
+<sub>By Jack Ewing and Neal E. Boudette</sub>
 <p>Tentative accords at Ford Motor, General Motors and Stellantis are the most generous in decades, raising costs as the industry shifts to electric vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
@@ -98,6 +92,12 @@ There have been some major developments in the world recently. In Israel, there 
 <p>Sundar Pichai, the chief executive of Google, appeared in court to defend his company against a landmark federal antitrust case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>X Says It Is Worth $19 Billion, Down From $44 Billion Last Year</h3>
+<sub>By Ryan Mac</sub>
+<p>The social media company’s valuation was disclosed in the paperwork for stock grants that it handed to employees on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>An Extremely Detailed Map of New York City Neighborhoods</h3>
 <sub>By Larry Buchanan, Josh Katz, Eve Washington and Rumsey Taylor</sub>
@@ -110,12 +110,6 @@ There have been some major developments in the world recently. In Israel, there 
 <p>A visual guide to the past, present and future of more than 350 New York neighborhoods, as told by more than 37,000 comments from New Yorkers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Both Sides Pay a Bloody Price for Coveted Ukrainian City</h3>
-<sub>By Carlotta Gall and Nicole Tung</sub>
-<p>The fight for the battered city of Avdiivka has emerged this fall as the fiercest battle of the war. Waves of Russian assaults have not broken through so far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Desperately Seeking Da Silvano</h3>
 <sub>By Alex Vadukul</sub>
@@ -123,15 +117,21 @@ There have been some major developments in the world recently. In Israel, there 
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The One Without Matthew Perry</h3>
-<sub>By Alexis Soloski</sub>
-<p>Even as he struggled with drug and alcohol addiction, the “Friends” star Matthew Perry, who died at the age of 54, made it all look easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<h3>Matthew Perry Was One of TV’s Best Sparring Partners</h3>
+<sub>By Margaret Lyons</sub>
+<p>Perry will always be remembered as Chandler on “Friends,” but his performances in shows like “The West Wing” and “The Good Fight” revealed his subtle gifts as an actor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Reaction to Matthew Perry’s Death Shows Enduring Popularity of ‘Friends’</h3>
+<sub>By John Koblin</sub>
+<p>The sitcom’s final season was nearly two decades ago. But it remains popular on traditional TV and on streaming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>At New York’s ‘Friends’ Museum, Mourning Matthew Perry</h3>
-<sub>By Julia Jacobs</sub>
-<p>The day after the actor’s death, fans paid tribute at a storefront re-creation of the sitcom’s famous sets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Matthew Perry’s Cause of Death Remains Under Investigation</h3>
+<sub>By Derrick Bryson Taylor and Michael Levenson</sub>
+<p>Perry was found unresponsive in a hot tub at his house in Los Angeles on Saturday, the police said. It could be weeks or even months before the cause of his death is established, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
