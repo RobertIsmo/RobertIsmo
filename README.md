@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 30, Central Standard Time</p>
 <p>
-There is a lot of conflict happening in the world right now. In Gaza, Israeli troops have entered a ground operation and Prime Minister Benjamin Netanyahu is facing a war at home and abroad. In the US, there was recently a mass shooting in Lewiston, Maine, but people are coming together to mourn, despite still being under lockdowns. Donald Trump is also facing a fraud trial and his children are taking the stand this week. In New York City, we recently got an extremely detailed map of local neighborhoods and there&#39;s a new article about how shipping contributes to climate change and if green ships can be the solution. Lastly, Matthew Perry recently passed away at the age of 54 and there&#39;s an article reflecting on his life.</p>
+There has been a lot of upheaval recently in parts of the world, with conflict in the Middle East and tensions escalating between Israel and Hamas. In Ukraine, a city called Avdiivka is being fought over in a bloody conflict, and in Israel, Prime Minister Netanyahu is dealing with war at home as well as abroad. Meanwhile, General Motors has reached a tentative agreement with the United Automobile Workers union after negotiations. Closer to home, some US states are beginning to emerge from lockdown restrictions and New York City neighborhoods were mapped out based on input from citizens. Additionally, former President Donald Trump&#39;s age is being questioned after recent gaffes he made. Finally, fans of popular sitcom &quot;Friends&quot; are mourning the death of actor Matthew Perry who passed away at the age of 54.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
@@ -80,16 +80,16 @@ There is a lot of conflict happening in the world right now. In Gaza, Israeli tr
 <p>Israel’s prime minister, Benjamin Netanyahu, apologized for accusing military and security officials of lapses that led to the Hamas massacre but declined to accept responsibility himself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>G.M. Said to Reach Tentative Deal With U.A.W.</h3>
+<sub>By Neal E. Boudette</sub>
+<p>General Motors became the last of the three large U.S. automakers to reach a tentative agreement on a new contract with the United Automobile Workers union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘A Communal Sigh of Relief’: Emerging From Lockdown, Lewiston Gathers to Mourn</h3>
 <sub>By Amelia Nierenberg</sub>
 <p>Residents in and around the city, no longer under lockdowns, spent the weekend coming together to mourn, share meals and prepare to bury their dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine Gunman Disclosed He Had Mental Health Issues, Gun Shop Owner Says</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>The man sought to purchase a gun suppressor in August, but was denied the item after he reported mental health issues on a federal form, the gun store owner said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,15 +99,15 @@ There is a lot of conflict happening in the world right now. In Gaza, Israeli tr
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Reinstates Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Judge Tanya Chutkan ruled that her order should stay in effect while the former president’s lawyers pursue an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<h3>Trump Is Still Far Ahead in Iowa Poll, With Haley Matching DeSantis for 2nd</h3>
+<sub>By Maggie Astor</sub>
+<p>Former President Donald J. Trump leads his closest competitors by 27 percentage points in a new Des Moines Register poll, but Nikki Haley has surged to tie Ron DeSantis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Children Are Set to Take the Stand at His Fraud Trial This Week</h3>
-<sub>By Kate Christobek and Jonah E. Bromwich</sub>
-<p>The former president himself is scheduled to testify in the civil case on Nov. 6 as the trial enters its second month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Colorado Trial Will Consider Whether the 14th Amendment Disqualifies Trump</h3>
+<sub>By Maggie Astor</sub>
+<p>While some prominent constitutional experts argue that a clause in the amendment applies to former President Donald J. Trump after Jan. 6, that view is far from universal among legal scholars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -128,10 +128,10 @@ There is a lot of conflict happening in the world right now. In Gaza, Israeli tr
 <p>Even as he struggled with drug and alcohol addiction, the “Friends” star Matthew Perry, who died at the age of 54, made it all look easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Shipping Contributes Heavily to Climate Change. Are Green Ships the Solution?</h3>
-<sub>By Ana Swanson</sub>
-<p>The container shipping lines that carry the bulk of global trade are betting on greener technologies, but there are still reasons those wagers could fail.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>At New York’s ‘Friends’ Museum, Mourning Matthew Perry</h3>
+<sub>By Julia Jacobs</sub>
+<p>The day after the actor’s death, fans paid tribute at a storefront re-creation of the sitcom’s famous sets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
