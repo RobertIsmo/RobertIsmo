@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 30, Central Standard Time</p>
 <p>
-There is a lot of news happening around the world right now. In Israel, government officials failed to prevent a devastating attack by Hamas which shook the country&#39;s once invincible sense of security. Meanwhile, communication in Gaza suddenly went out when Israeli forces entered the territory, leaving many Palestinian civilians in chaos and rescuers struggling to respond to explosions. Prime Minister Benjamin Netanyahu has apologized for security lapses that led to the attack. 
-
-In the US, a federal judge has reinstated a gag order on Donald Trump and Mike Pence&#39;s 2016 campaign is likely to cost him any further political ambitions. Over in the arts world, Matthew Perry has passed away at age 54 leading to an outpouring of love from fans and colleagues alike. In Maine, the gunman who attacked 2 cities has been revealed to have disclosed his mental health issues when trying to purchase a gun silencer last August. Lastly, France&#39;s rigid cheesemaking landscape is facing turmoil due to climate change while Seoul had a subdued Halloween in Itaewon due to Corona restrictions.</p>
+There is a lot of conflict happening in the world right now. In Gaza, Israeli troops have entered a ground operation and Prime Minister Benjamin Netanyahu is facing a war at home and abroad. In the US, there was recently a mass shooting in Lewiston, Maine, but people are coming together to mourn, despite still being under lockdowns. Donald Trump is also facing a fraud trial and his children are taking the stand this week. In New York City, we recently got an extremely detailed map of local neighborhoods and there&#39;s a new article about how shipping contributes to climate change and if green ships can be the solution. Lastly, Matthew Perry recently passed away at the age of 54 and there&#39;s an article reflecting on his life.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
@@ -70,46 +68,16 @@ In the US, a federal judge has reinstated a gag order on Donald Trump and Mike P
 <p>Israeli officials completely underestimated the magnitude of the Oct. 7 attacks by Hamas, shattering the country’s once invincible sense of security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>34 Hours of Fear: The Blackout That Cut Gaza Off From the World</h3>
-<sub>By Abu Bakr Bashir, Iyad Abuheweila, Vivian Nereim and Yousur Al-Hlou</sub>
-<p>As Israeli forces entered Gaza on Friday to fight Hamas, phone and internet service was severed, sowing chaos for Palestinian civilians and leaving rescuers driving blindly toward explosions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israeli Troops Enter Gaza</h3>
+<sub>By Sabrina Tavernise, Jessica Cheung, Sydney Harper, Rachelle Bonja, Rikki Novetsky, Patricia Willens, Lisa Chow, Elisheba Ittoop, Marion Lozano and Chris Wood</sub>
+<p>The ground operation, which began on Friday, remains shrouded in secrecy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Finds Himself at War in Gaza and at Home</h3>
 <sub>By Isabel Kershner</sub>
 <p>Israel’s prime minister, Benjamin Netanyahu, apologized for accusing military and security officials of lapses that led to the Hamas massacre but declined to accept responsibility himself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Reinstates Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>Judge Tanya Chutkan ruled that her order should stay in effect while the former president’s lawyers pursue an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Devil’s Bargain Mike Pence Could Not Escape</h3>
-<sub>By Adam Nagourney</sub>
-<p>The former vice president tied himself to Donald Trump in the 2016 campaign and it may have cost him a political future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The One Without Matthew Perry</h3>
-<sub>By Alexis Soloski</sub>
-<p>Even as he struggled with drug and alcohol addiction, the “Friends” star Matthew Perry, who died at the age of 54, made it all look easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Colleagues and Friends Mourn Actor Matthew Perry</h3>
-<sub>By Johnny Diaz</sub>
-<p>Fans and celebrities paid tribute to Perry, who died at age 54 on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Watch Matthew Perry’s Best Performances</h3>
-<sub>By Jeremy Egner</sub>
-<p>Perry will always be remembered as Chandler Bing. But he had a long and varied career that included films and many other series.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -121,20 +89,50 @@ In the US, a federal judge has reinstated a gag order on Donald Trump and Mike P
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Gunman Disclosed He Had Mental Health Issues, Gun Shop Owner Says</h3>
 <sub>By Chelsia Rose Marcius</sub>
-<p>The man sought to purchase a gun silencer in August but was denied after self-reporting mental health issues on a federal form, the gun store owner said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The man sought to purchase a gun suppressor in August, but was denied the item after he reported mental health issues on a federal form, the gun store owner said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump’s Verbal Slips Could Weaken His Attacks on Biden’s Age</h3>
+<sub>By Michael C. Bender and Michael Gold</sub>
+<p>Donald Trump, 77, has relentlessly attacked President Biden, 80, as too old for office. But the former president himself has had a series of gaffes that go beyond his usual freewheeling style.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Judge Reinstates Gag Order on Trump in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Judge Tanya Chutkan ruled that her order should stay in effect while the former president’s lawyers pursue an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump’s Children Are Set to Take the Stand at His Fraud Trial This Week</h3>
+<sub>By Kate Christobek and Jonah E. Bromwich</sub>
+<p>The former president himself is scheduled to testify in the civil case on Nov. 6 as the trial enters its second month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>An Extremely Detailed Map of New York City Neighborhoods</h3>
+<sub>By Larry Buchanan, Josh Katz, Eve Washington and Rumsey Taylor</sub>
+<p>More than 37,000 New Yorkers told us where their neighborhoods start and end. We mapped them all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Rigid World of French Cheesemaking Meets Unbound Climate Change</h3>
-<sub>By Catherine Porter</sub>
-<p>Reams of rules govern how the best French cheeses are made, but hotter, drier summers may unshackle struggling producers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Both Sides Pay a Bloody Price for Coveted Ukrainian City</h3>
+<sub>By Carlotta Gall and Nicole Tung</sub>
+<p>The fight for the battered city of Avdiivka has emerged this fall as the fiercest battle of the war. Waves of Russian assaults have not broken through so far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The One Without Matthew Perry</h3>
+<sub>By Alexis Soloski</sub>
+<p>Even as he struggled with drug and alcohol addiction, the “Friends” star Matthew Perry, who died at the age of 54, made it all look easy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Year After Tragedy, a Subdued Halloween in Itaewon</h3>
-<sub>By Chang W. Lee and Inyoung Kang</sub>
-<p>The authorities in Seoul were out in force over the weekend, but the crowds in the typically bustling neighborhood were sparse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Shipping Contributes Heavily to Climate Change. Are Green Ships the Solution?</h3>
+<sub>By Ana Swanson</sub>
+<p>The container shipping lines that carry the bulk of global trade are betting on greener technologies, but there are still reasons those wagers could fail.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
