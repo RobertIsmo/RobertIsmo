@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, October 29, Central Standard Time</p>
+<p>It is Monday, October 30, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. The Israeli government underestimated a Hamas attack that happened on October 7th and caused a major disruption to life in Gaza. In the U.S., former President Donald Trump had a gag order reinstated from a federal judge, and Mike Pence has been affected by his close ties to Trump. There was also an Actor named Matthew Perry who passed away at the age of 54, and there&#39;s been memorials for him. On top of that, states are emerging from lockdown but still struggling with Covid, and people are learning civics in the workplace to help rebuild trust after all these years of pandemic-related issues. Lastly, there&#39;s some Halloween related headaches in Salem, Massachusetts with alcohol bottles littering parks and playgrounds resulting in a proposed ban.</p>
+There have been some troubling developments happening in the world recently. In Israel, Hamas drastically attacked the country, leaving officials shocked and devastated. In Gaza, people experienced a 34-hour blackout, and Israeli forces entered to fight Hamas. In France, climate change is threatening the tradition of cheesemaking. In Seoul, specifically Itaewon, authorities were out in force on Halloween due to tragedy that happened last year. Here in the US, a federal judge reinstated a gag order on Trump from an election case and former Vice President Mike Pence has been reflecting on his &quot;Devil&#39;s bargain&quot; with the former president. Finally, gun store owners in Maine revealed that the suspect of a lockdown had disclosed mental health issues when trying to purchase a gun silencer in August.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
@@ -123,15 +123,15 @@ There is a lot happening in the world right now. The Israeli government underest
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A New Place to Learn Civics: The Workplace</h3>
-<sub>By Melissa Eddy</sub>
-<p>Fearing that rising distrust could spell doom for businesses, some companies are offering employees lessons in democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Rigid World of French Cheesemaking Meets Unbound Climate Change</h3>
+<sub>By Catherine Porter</sub>
+<p>Reams of rules govern how the best French cheeses are made, but hotter, drier summers may unshackle struggling producers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Halloween Headaches in Salem, Mass.: Traffic. Crowds. Tiny Liquor Bottles?</h3>
-<sub>By Jenna Russell and Kieran Kesner</sub>
-<p>Miniature bottles of alcohol known as “nips” litter gardens, parks and playgrounds, prompting the Witch City to propose a ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Year After Tragedy, a Subdued Halloween in Itaewon</h3>
+<sub>By Chang W. Lee and Inyoung Kang</sub>
+<p>The authorities in Seoul were out in force over the weekend, but the crowds in the typically bustling neighborhood were sparse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
