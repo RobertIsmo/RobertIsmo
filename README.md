@@ -60,26 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-In the world right now, Israeli forces are in Gaza fighting against Hamas. Some civilians have their phone and internet service cut off, while some Israeli protestors have shifted their focus to helping those affected by the conflict. In response, the Prime Minister of Israel apologized after blaming security chiefs for failure in Hamas attack.
-
-Meanwhile in the US, former Vice President Mike Pence&#39;s ties with Donald Trump have come back to haunt him. Progressive Democrats who called for a cease-fire are now facing new pressure from primary challengers. 
-
-In the arts world, we lost actor Matthew Perry at age 54. Fans and celebrities paid tribute to him and many have rewatched his best performances. 
-
-In Maine, a gunman disclosed mental health issues to gun store owner but was denied. In Salem, Massachusetts, halloween is causing headaches due to the increased traffic and littering of tiny liquor bottles. 
-
-Finally, TikTok has brought a new type of personalities into fame - a trucker, a shepherd and a commercial fisherman are making money due to their sponsorships on social media platforms.</p>
+Right now, there is a lot happening in the world. In Israel, recent failures have led to a devastating attack by Hamas that officials were not expecting. In Gaza, the disruption of phone and internet services have caused chaos for civilians and rescuers. Israeli Prime Minister Benjamin Netanyahu has also found himself in hot water after blaming security chiefs for the failure to prevent the attack. In the US, a judge has reinstated a gag order on former president Donald Trump as lawyers appeal a case connected to the election. The consequences of tying Mike Pence to Trump in 2016 are also starting to come to bear, and people are mourning actor Matthew Perry who recently died at age 54. There&#39;s also a push from companies to teach civics in corporate America, while Salem Mass has proposed banning mini liquor bottles due to their prevalence in public spaces.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
+<sub>By Ronen Bergman, Mark Mazzetti and Maria Abi-Habib</sub>
+<p>Israeli officials completely underestimated the magnitude of the Oct. 7 attacks by Hamas, shattering the country’s once invincible sense of security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>34 Hours of Fear: The Blackout That Cut Gaza Off From the World</h3>
 <sub>By Abu Bakr Bashir, Iyad Abuheweila, Vivian Nereim and Yousur Al-Hlou</sub>
 <p>As Israeli forces entered Gaza on Friday to fight Hamas, phone and internet service was severed, sowing chaos for Palestinian civilians and leaving rescuers driving blindly toward explosions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Refused to Serve. Now They’re Supporting Israel’s War Effort.</h3>
-<sub>By Steven Erlanger and Natan Odenheimer</sub>
-<p>The Brothers in Arms group helped lead protests against the government, with members vowing to ignore military call-ups. But after the Hamas attacks, it pivoted to aid those affected by the conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -89,15 +81,15 @@ Finally, TikTok has brought a new type of personalities into fame - a trucker, a
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Devil’s Bargain Mike Pence Could Not Escape</h3>
-<sub>By Adam Nagourney</sub>
-<p>The former vice president tied himself to Donald Trump in the 2016 campaign and it may have cost him a political future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Federal Judge Reinstates Gag Order on Trump in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>Judge Tanya Chutkan ruled that her order should stay in effect while the former president’s lawyers pursue an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Primary Battles Brew Over Progressive Democrats’ Stances on Israel</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Representative Summer Lee of Pennsylvania, who joined calls for a cease-fire, has become one of several progressive lawmakers facing new pressure from primary challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Devil’s Bargain Mike Pence Could Not Escape</h3>
+<sub>By Adam Nagourney</sub>
+<p>The former vice president tied himself to Donald Trump in the 2016 campaign and it may have cost him a political future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -119,6 +111,12 @@ Finally, TikTok has brought a new type of personalities into fame - a trucker, a
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lewiston, Finally, Gathers to Grieve</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>Residents in and around the city, no longer under lockdowns, spent the weekend coming together to mourn, share meals and prepare to bury their dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Gunman Disclosed He Had Mental Health Issues, Gun Shop Owner Says</h3>
 <sub>By Chelsia Rose Marcius</sub>
 <p>The man sought to purchase a gun silencer in August but was denied after self-reporting mental health issues on a federal form, the gun store owner said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -135,12 +133,6 @@ Finally, TikTok has brought a new type of personalities into fame - a trucker, a
 <sub>By Jenna Russell and Kieran Kesner</sub>
 <p>Miniature bottles of alcohol known as “nips” litter gardens, parks and playgrounds, prompting the Witch City to propose a ban.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>TikTok’s Finest Lobsterman</h3>
-<sub>By Steven Kurutz</sub>
-<p>A new crop of popular social media personalities includes a trucker, a shepherd and a commercial fisherman. What they earn from sponsorships is just a nice bonus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
