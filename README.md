@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 30, Central Standard Time</p>
 <p>
-There has been a lot of upheaval recently in parts of the world, with conflict in the Middle East and tensions escalating between Israel and Hamas. In Ukraine, a city called Avdiivka is being fought over in a bloody conflict, and in Israel, Prime Minister Netanyahu is dealing with war at home as well as abroad. Meanwhile, General Motors has reached a tentative agreement with the United Automobile Workers union after negotiations. Closer to home, some US states are beginning to emerge from lockdown restrictions and New York City neighborhoods were mapped out based on input from citizens. Additionally, former President Donald Trump&#39;s age is being questioned after recent gaffes he made. Finally, fans of popular sitcom &quot;Friends&quot; are mourning the death of actor Matthew Perry who passed away at the age of 54.</p>
+There have been some major developments in the world recently. In Israel, there were a series of attacks by Hamas that shocked officials and shattered the country&#39;s sense of security. In the business world, car manufacturers have recently closed tentative agreements for their autoworkers, resulting in the most generous contracts in decades. In US politics, there is a debate over whether Donald Trump is disqualified from running for president again because of a clause in the 14th Amendment. Google CEO Sundar Pichai is defending his company against a federal antitrust case, and residents of New York City have contributed to an extremely detailed map of its neighborhoods. There is also conflict in Ukraine, where both sides are paying a bloody price for control of the city of Avdiivka. And unfortunately, we lost Matthew Perry recently. Fans have been mourning him at a Friends museum in NYC that re-creates the sitcom&#39;s famous sets. </p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
@@ -68,29 +68,11 @@ There has been a lot of upheaval recently in parts of the world, with conflict i
 <p>Israeli officials completely underestimated the magnitude of the Oct. 7 attacks by Hamas, shattering the country’s once invincible sense of security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israeli Troops Enter Gaza</h3>
-<sub>By Sabrina Tavernise, Jessica Cheung, Sydney Harper, Rachelle Bonja, Rikki Novetsky, Patricia Willens, Lisa Chow, Elisheba Ittoop, Marion Lozano and Chris Wood</sub>
-<p>The ground operation, which began on Friday, remains shrouded in secrecy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Finds Himself at War in Gaza and at Home</h3>
-<sub>By Isabel Kershner</sub>
-<p>Israel’s prime minister, Benjamin Netanyahu, apologized for accusing military and security officials of lapses that led to the Hamas massacre but declined to accept responsibility himself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>G.M. Said to Reach Tentative Deal With U.A.W.</h3>
-<sub>By Neal E. Boudette</sub>
-<p>General Motors became the last of the three large U.S. automakers to reach a tentative agreement on a new contract with the United Automobile Workers union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Autoworkers Score Big Wins in New Contracts With Carmakers</h3>
+<sub>By Neal E. Boudette and Jack Ewing</sub>
+<p>Tentative accords at Ford Motor, General Motors and Stellantis are the most generous in decades, raising costs as the industry shifts to electric vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘A Communal Sigh of Relief’: Emerging From Lockdown, Lewiston Gathers to Mourn</h3>
-<sub>By Amelia Nierenberg</sub>
-<p>Residents in and around the city, no longer under lockdowns, spent the weekend coming together to mourn, share meals and prepare to bury their dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Trump’s Verbal Slips Could Weaken His Attacks on Biden’s Age</h3>
@@ -105,9 +87,15 @@ There has been a lot of upheaval recently in parts of the world, with conflict i
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Trial Will Consider Whether the 14th Amendment Disqualifies Trump</h3>
+<h3>Colorado Trial Considers Whether the 14th Amendment Disqualifies Trump</h3>
 <sub>By Maggie Astor</sub>
-<p>While some prominent constitutional experts argue that a clause in the amendment applies to former President Donald J. Trump after Jan. 6, that view is far from universal among legal scholars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Some constitutional experts argue that a clause in the amendment should bar Donald J. Trump from becoming president again, but that view is far from universal among legal scholars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google C.E.O. Says Tech Giant Has Improved the Web for All Consumers</h3>
+<sub>By Nico Grant and David McCabe</sub>
+<p>Sundar Pichai, the chief executive of Google, appeared in court to defend his company against a landmark federal antitrust case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -116,10 +104,22 @@ There has been a lot of upheaval recently in parts of the world, with conflict i
 <p>More than 37,000 New Yorkers told us where their neighborhoods start and end. We mapped them all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods</h3>
+<sub>By Larry Buchanan, Josh Katz, Rumsey Taylor and Eve Washington</sub>
+<p>A visual guide to the past, present and future of more than 350 New York neighborhoods, as told by more than 37,000 comments from New Yorkers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Both Sides Pay a Bloody Price for Coveted Ukrainian City</h3>
 <sub>By Carlotta Gall and Nicole Tung</sub>
 <p>The fight for the battered city of Avdiivka has emerged this fall as the fiercest battle of the war. Waves of Russian assaults have not broken through so far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Desperately Seeking Da Silvano</h3>
+<sub>By Alex Vadukul</sub>
+<p>For decades, Silvano Marchetto’s Greenwich Village trattoria was a celebrity haven, serving Brad Pitt, Beyoncé and Jay-Z. Then he vanished. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
