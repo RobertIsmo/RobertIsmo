@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, October 29, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In Israel, recent failures have led to a devastating attack by Hamas that officials were not expecting. In Gaza, the disruption of phone and internet services have caused chaos for civilians and rescuers. Israeli Prime Minister Benjamin Netanyahu has also found himself in hot water after blaming security chiefs for the failure to prevent the attack. In the US, a judge has reinstated a gag order on former president Donald Trump as lawyers appeal a case connected to the election. The consequences of tying Mike Pence to Trump in 2016 are also starting to come to bear, and people are mourning actor Matthew Perry who recently died at age 54. There&#39;s also a push from companies to teach civics in corporate America, while Salem Mass has proposed banning mini liquor bottles due to their prevalence in public spaces.</p>
+There is a lot happening in the world right now. The Israeli government underestimated a Hamas attack that happened on October 7th and caused a major disruption to life in Gaza. In the U.S., former President Donald Trump had a gag order reinstated from a federal judge, and Mike Pence has been affected by his close ties to Trump. There was also an Actor named Matthew Perry who passed away at the age of 54, and there&#39;s been memorials for him. On top of that, states are emerging from lockdown but still struggling with Covid, and people are learning civics in the workplace to help rebuild trust after all these years of pandemic-related issues. Lastly, there&#39;s some Halloween related headaches in Salem, Massachusetts with alcohol bottles littering parks and playgrounds resulting in a proposed ban.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Years of Israeli Failures on Hamas Led to a Devastating Attack</h3>
@@ -75,9 +75,9 @@ Right now, there is a lot happening in the world. In Israel, recent failures hav
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Apologizes After Blaming Security Chiefs for Failure in Hamas Attack</h3>
+<h3>Netanyahu Finds Himself at War in Gaza and at Home</h3>
 <sub>By Isabel Kershner</sub>
-<p>Prime Minister Benjamin Netanyahu, who has not taken responsibility for Israel’s lapses in the Oct. 7 massacre, deleted a social media post in which he had pointed a finger at security agencies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Israel’s prime minister, Benjamin Netanyahu, apologized for accusing military and security officials of lapses that led to the Hamas massacre but declined to accept responsibility himself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,7 +111,7 @@ Right now, there is a lot happening in the world. In Israel, recent failures hav
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lewiston, Finally, Gathers to Grieve</h3>
+<h3>‘A Communal Sigh of Relief’: Emerging From Lockdown, Lewiston Gathers to Mourn</h3>
 <sub>By Amelia Nierenberg</sub>
 <p>Residents in and around the city, no longer under lockdowns, spent the weekend coming together to mourn, share meals and prepare to bury their dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
