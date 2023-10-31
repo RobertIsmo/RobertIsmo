@@ -58,26 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, October 30, Central Standard Time</p>
+<p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-Right now, the world is focused on the escalating dispute between Israel and Hamas. U.S. President Joe Biden has become more critical of Israel&#39;s actions in response to the attacks from Hamas, while satellite images show the intense push of Israeli forces into Gaza City during the invasion. There have also been big wins for autoworkers in new contract negotiations with carmakers as the industry shifts to electric vehicles. Meanwhile, back in the U.S., police knew about a Maine gunman&#39;s mental health issues five months before he carried out America&#39;s deadliest mass shooting this year; former President Donald Trump has made age-related attacks on President Biden despite his own verbal gaffes; and a crypto billionaire executive is facing legal questions over what he said in public statements and how he ran his empire. Finally, people are exploring former celebrity hot spot Da Silvano&#39;s Greenwich Village trattoria after owner Silvano Marchetto seemingly vanished, while Matthew Perry&#39;s career is being celebrated following his death recently - both as Chandler in &#39;Friends&#39;, and for his other work such as &#39;The West Wing&#39; and &#39;The Good Fight&#39;.</p>
+Right now, Israel has invaded Gaza after an air campaign killed thousands of Palestinians. This ground assault was done under the shroud of secrecy but outside observers were eventually able to understand what was happening. In other news, U.S. autoworkers just scored big wins in new contracts with carmakers; President Biden even supported them and labor organizers are now looking to help other industries transition to electric vehicles. Meanwhile, police in Maine were informed about a gunman who threatened to carry out a shooting spree months before it happened and Donald Trump has been attempting to use his age against President Biden despite his own verbal slips and gaffes. On the tech front, a crypto empire founder is being held accountable for his words while an social media company&#39;s worth dropped significantly in just one year. Finally, Matthew Perry recently passed away at 54 and the &#39;Friends&#39; cast is mourning this beloved actor’s unexpected death, as its cause remains unknown.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Support for Israel Now Comes With Words of Caution</h3>
-<sub>By Michael D. Shear, David E. Sanger and Edward Wong</sub>
-<p>The administration has become more critical of Israel’s response to the Hamas attacks, a shift that U.S. officials attribute to the humanitarian crisis in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under Shroud of Secrecy, Israel Invasion of Gaza Has Begun</h3>
+<sub>By Patrick Kingsley and Ronen Bergman</sub>
+<p>After an air campaign that killed thousands of Palestinians, Israel has begun a ground assault, but it took hours for outside observers to understand what was happening. The ambiguity was intentional.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Detailed Satellite View of Israel’s Invasion</h3>
 <sub>By Josh Holder, Weiyi Cai and Eleanor Lutz</sub>
 <p>Hundreds of armored vehicles have pushed miles past the border into urban areas on the outskirts of Gaza City, satellite imagery shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>War Closes In on Gaza City</h3>
-<sub>By New York Times Audio</sub>
-<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,16 +116,22 @@ Right now, the world is focused on the escalating dispute between Israel and Ham
 <p>The social media company’s valuation was disclosed in the paperwork for stock grants that it handed to employees on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Desperately Seeking Da Silvano</h3>
-<sub>By Alex Vadukul</sub>
-<p>For decades, Silvano Marchetto’s Greenwich Village trattoria was a celebrity haven, serving Brad Pitt, Beyoncé and Jay-Z. Then he vanished. What happened?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Matthew Perry Was One of TV’s Best Sparring Partners</h3>
 <sub>By Margaret Lyons</sub>
 <p>Perry will always be remembered as Chandler on “Friends,” but his performances in shows like “The West Wing” and “The Good Fight” revealed his subtle gifts as an actor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Utterly Devastated’: ‘Friends’ Cast Reacts to Matthew Perry’s Death</h3>
+<sub>By Claire Moses</sub>
+<p>Perry, who portrayed Chandler Bing, died on Saturday. He was 54.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Matthew Perry’s Cause of Death Remains Under Investigation</h3>
+<sub>By Derrick Bryson Taylor and Michael Levenson</sub>
+<p>Perry was found unresponsive in a hot tub at his house in Los Angeles on Saturday, the police said. It could be weeks or even months before the cause of his death is established, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
