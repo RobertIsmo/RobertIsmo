@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-It’s been a very intense couple of weeks all over the world. Israeli forces have begun a ground invasion in Gaza after an air campaign that killed thousands of Palestinians, and satellite imagery shows hundreds of armored vehicles pushing miles past the border into urban areas. In the US, President Biden has made gains for autoworkers and union organizers across the country are looking to continue to build on those gains. On a more somber note, Donald Trump has recently made verbal slips that weaken his attacks on President Biden&#39;s age, and we recently heard about the death of Mattew Perry who was known to many from TV shows like Friends and The West Wing. The cause of his death is still under investigation.</p>
+There is a lot going on in the world right now. In Israel, they have launched a ground invasion of Gaza after an air campaign that has killed thousands of Palestinians. Meanwhile in Lebanon, the militant group Hezbollah is agonizing over whether or not to join the fight with Israel. In response to Hamas&#39; attack on Israel, posters featuring kidnapped Israelis have been popping up across America, and being countered by anti-Israel protesters. There was also a mass shooting earlier this year in Maine that police had been warned about months before it occurred. Internationally, the Eurozone economy has shrunk and Japan&#39;s Central Bank has announced a move away from easy money policies. Closer to home, school districts are banning cellphones, leading to much controversy over the efficacy of such regulations. Lastly, King Charles is currently making his first royal visit to Kenya since colonialism, while in Chicago there is debate over if more immigrants should be allowed into the city amid a housing crisis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Shroud of Secrecy, Israel Invasion of Gaza Has Begun</h3>
@@ -69,28 +69,16 @@ It’s been a very intense couple of weeks all over the world. Israeli forces ha
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Detailed Satellite View of Israel’s Invasion</h3>
-<sub>By Josh Holder, Weiyi Cai and Eleanor Lutz</sub>
-<p>Hundreds of armored vehicles have pushed miles past the border into urban areas on the outskirts of Gaza City, satellite imagery shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<h3>Hezbollah Hesitates as Israel Strikes Gaza</h3>
+<sub>By Maria Abi-Habib and Ben Hubbard</sub>
+<p>After years of spoiling for a fight with Israel, the group is torn between maintaining its credibility as a defender of the Palestinians, and its hesitation to drag Lebanon into a full-scale war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Autoworkers Score Big Wins in New Contracts With Carmakers</h3>
-<sub>By Jack Ewing and Neal E. Boudette</sub>
-<p>Tentative accords at Ford Motor, General Motors and Stellantis are the most generous in decades, raising costs as the industry shifts to electric vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Union Victories May Lift Biden, as U.A.W. Targets Tesla and Others</h3>
-<sub>By Jonathan Weisman</sub>
-<p>President Biden’s support for autoworkers helped them make big wage gains, and labor organizers are looking to bring about similar gains elsewhere as carmakers transition to electric vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About the Automakers’ Deals With the U.A.W.</h3>
-<sub>By Santul Nerkar</sub>
-<p>With tentative agreements in place, a six-week strike against Ford, General Motors and Stellantis could soon come to an end. But the union’s rank-and-file members still need to approve the deals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Posters of Kidnapped Israelis Ignited a Firestorm on American Sidewalks</h3>
+<sub>By Katherine Rosman</sub>
+<p>In the weeks since Hamas attacked Israel, fliers depicting the hostages have become ubiquitous. But in cities and college campuses across the globe, anti-Israel protesters have removed them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Police Were Told Maine Gunman Had Threatened to Carry Out Shooting Spree</h3>
@@ -98,41 +86,53 @@ It’s been a very intense couple of weeks all over the world. Israeli forces ha
 <p>The Army Reserve and a Maine sheriff’s department knew of a reservist’s deteriorating mental health five months before he carried out America’s deadliest mass shooting this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Watch for as the Federal Reserve Meets This Week</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers are expected to leave interest rates steady at a 22-year high of 5.25 to 5.5 percent. Investors are looking for hints at what’s next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Eurozone Economy Shrinks, While Price Pressures Ease</h3>
+<sub>By Liz Alderman</sub>
+<p>Economic growth contracted 0.1 percent last quarter, and inflation in October fell to a two-year low, a sign that high interest rates were taking a toll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Japan Takes Another Step Away From Easy Money</h3>
+<sub>By Rich Barbieri and Joe Rennison</sub>
+<p>The Bank of Japan said it would be more flexible in how it manages government bond yields, citing rising inflation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Is It Time to Give Candy Corn the Respect It Deserves?</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>One woman in Mississippi has amassed a sizable collection. Another in Maine has built a wardrobe around it. Candy corn, one of the most divisive treats on the market, has proved it has staying power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>This Florida School District Banned Cellphones. Here’s What Happened.</h3>
+<sub>By Natasha Singer</sub>
+<p>Schools in Orlando took a tougher approach than a new state law required. Student engagement increased. So did the hunt for contraband phones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>School Cellphone Bans Are Trending. Do They Work?</h3>
+<sub>By Natasha Singer</sub>
+<p>Proponents say no-phone rules reduce student distractions and bullying. Critics say the bans could hinder student self-direction and critical thinking.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>King Charles, Visiting Kenya, Faces Calls to Answer for Colonial Abuses</h3>
+<sub>By Abdi Latif Dahir</sub>
+<p>Older Kenyans who lived through the British colonial period want an apology and reparations. Younger Kenyans want an acknowledgment of more recent alleged abuses by British companies and troops.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump’s Verbal Slips Could Weaken His Attacks on Biden’s Age</h3>
-<sub>By Michael C. Bender and Michael Gold</sub>
-<p>Donald Trump, 77, has relentlessly attacked President Biden, 80, as too old for office. But the former president himself has had a series of gaffes that go beyond his usual freewheeling style.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Prosecutors Turn Sam Bankman-Fried’s Own Words Against Him</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>Asked during his cross-examination about his public statements and how he ran his crypto empire, the FTX founder repeatedly said he couldn’t remember.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>X Says It Is Worth $19 Billion, Down From $44 Billion Last Year</h3>
-<sub>By Ryan Mac</sub>
-<p>The social media company’s valuation was disclosed in the paperwork for stock grants that it handed to employees on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Matthew Perry Was One of TV’s Best Sparring Partners</h3>
-<sub>By Margaret Lyons</sub>
-<p>Perry will always be remembered as Chandler on “Friends,” but his performances in shows like “The West Wing” and “The Good Fight” revealed his subtle gifts as an actor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Utterly Devastated’: ‘Friends’ Cast Reacts to Matthew Perry’s Death</h3>
-<sub>By Claire Moses</sub>
-<p>Perry’s co-stars on the long-running NBC sitcom released a joint statement after the actor’s death over the weekend at 54.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Matthew Perry’s Cause of Death Remains Under Investigation</h3>
-<sub>By Derrick Bryson Taylor and Michael Levenson</sub>
-<p>Perry was found unresponsive in a hot tub at his house in Los Angeles on Saturday, the police said. It could be weeks or even months before the cause of his death is established, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<h3>In Chicago, a Neighborhood of Immigrants Is Conflicted About More Arrivals</h3>
+<sub>By Mitch Smith</sub>
+<p>Brighton Park has taken in immigrants for generations, but residents are split over plans to house migrants in winterized tents on an empty lot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
