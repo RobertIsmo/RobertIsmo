@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. To start, Israel has launched an invasion of Gaza, which has been met with outrage from the international community. In Maine, it was revealed that authorities had been warned of a mass shooter&#39;s intentions months before he carried out one of this year&#39;s deadliest attacks. On the economic side, the Federal Reserve looks like it might hold interest rates steady which could mean higher wages over the summer and slower economic growth in the Eurozone. Meanwhile, people are debating whether candy corn is worthy of respect, Florida schools are trying to enforce phone bans to reduce student distractions, and Kenyan citizens are pushing their King for reparations for colonial abuses. Upstate New York farmers are dealing with financial disaster due to eight consecutive weekends of rain destroying their apple crops, but there&#39;s some good news too: the Biden administration recently approved the biggest offshore wind farm yet in Virginia.</p>
+It&#39;s been a busy news cycle lately! The Israeli military has begun its invasion of Gaza, and has kept the details of the plan under wraps. In the US, Mainers are debating potential gun control changes in the wake of a mass shooting there. On the tech front, a Florida school district has banned cellphones and seen positive results from their students, while the founder of a crypto exchange became embroiled in a fraud trial. 
+
+In other parts of the world, King Charles is visiting Kenya and is facing calls for reparations as an apology for British colonial abuses, while in style news, candy corn is starting to be respected by some as a classic treat. In business news, UAW strikes have made advances that set precedents in labor benefits; Upstate New York&#39;s apple-picking season is suffering due to 8 weeks of rain; offshore wind projects along the Atlantic coast are facing difficulties; and finally, there&#39;s an opinion piece discussing how past lies in the Middle East are affecting current truth-telling.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Shroud of Secrecy, Israel Invasion of Gaza Has Begun</h3>
@@ -69,34 +71,10 @@ There&#39;s a lot going on in the world right now. To start, Israel has launched
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police Were Told Maine Gunman Had Threatened to Carry Out Shooting Spree</h3>
-<sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
-<p>The Army Reserve and a Maine sheriff’s department knew of a reservist’s deteriorating mental health five months before he carried out America’s deadliest mass shooting this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Watch for as the Federal Reserve Meets This Week</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers are expected to leave interest rates steady at a 22-year high of 5.25 to 5.5 percent. Investors are looking for hints at what’s next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After Mass Shooting in Maine, No Clarity on Whether Gun Laws Will Change</h3>
+<sub>By Amelia Nierenberg and Jenna Russell</sub>
+<p>A state ban on assault weapons? Expanded concealed-carry restrictions? Tighter mental health laws? As Maine grieves, it weighs a roiling debate over gun laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Key Measure of Wages Grew at a Moderate Pace This Summer</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Employment Cost Index, which Federal Reserve officials watch closely as a gauge of pay trends, has come down since last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Eurozone Economy Shrinks, While Price Pressures Ease</h3>
-<sub>By Liz Alderman</sub>
-<p>Economic growth contracted 0.1 percent last quarter, and inflation in October fell to a two-year low, a sign that high interest rates were taking a toll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Is It Time to Give Candy Corn the Respect It Deserves?</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>One woman in Mississippi has amassed a sizable collection. Another in Maine has built a wardrobe around it. Candy corn, one of the most divisive treats on the market, has proved it has staying power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>This Florida School District Banned Cellphones. Here’s What Happened.</h3>
@@ -105,9 +83,15 @@ There&#39;s a lot going on in the world right now. To start, Israel has launched
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>School Cellphone Bans Are Trending. Do They Work?</h3>
-<sub>By Natasha Singer</sub>
-<p>Proponents say no-phone rules reduce student distractions and bullying. Critics say the bans could hinder student self-direction and critical thinking.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sam Bankman-Fried Denies Knowing FTX Money Was Missing, as He Concludes Testimony</h3>
+<sub>By J. Edward Moreno, Matthew Goldstein and David Yaffe-Bellany</sub>
+<p>The founder of the FTX crypto exchange was grilled by a federal prosecutor for a second day, just before both sides rested their case in the criminal fraud trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Bariatric Surgery at 16</h3>
+<sub>By Helen Ouyang</sub>
+<p>If childhood obesity is an ‘epidemic,’ how far should doctors go to treat it?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,6 +106,18 @@ There&#39;s a lot going on in the world right now. To start, Israel has launched
 <p>Despite limited success, Dr. Michael R. Hayden has spent more than a decade patiently searching for the looted silver Judaica stolen from his grandparents, who were killed by the Nazis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Is It Time to Give Candy Corn the Respect It Deserves?</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>One woman in Mississippi has amassed a sizable collection. Another in Maine has built a wardrobe around it. Candy corn, one of the most divisive treats on the market, has proved it has staying power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Strike Gains Could Reverberate Far Beyond Autos</h3>
+<sub>By Noam Scheiber</sub>
+<p>Experts said the union’s new contracts could set precedents that give labor advantages when bargaining contracts and organizing workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Apple-Picking Apocalypse of Upstate New York</h3>
 <sub>By Elizabeth G. Dunn</sub>
@@ -132,6 +128,12 @@ There&#39;s a lot going on in the world right now. To start, Israel has launched
 <h3>Biden Administration Approves Biggest Offshore Wind Farm Yet, in Virginia</h3>
 <sub>By Brad Plumer</sub>
 <p>The decision comes as other projects to build wind farms along the Atlantic Coast have run into trouble.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Past Lies About War in the Middle East are Getting in the Way of the Truth Today</h3>
+<sub>By Zeynep Tufekci</sub>
+<p>Many cannot forget the false or exaggerated claims that led to the Iraq war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
