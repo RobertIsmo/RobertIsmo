@@ -60,12 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, October 30, Central Standard Time</p>
 <p>
-There are a lot of interesting things going on in the world right now. In the business world, autoworkers have secured some great wins in new contracts with carmakers over the past few weeks. Meanwhile, people are still debating over the implications of President Biden&#39;s age due to previous comments made by Donald Trump before he left office. On a lighter note, Donald Trump is still ahead in the polls in Iowa and back in Colorado there&#39;s a trial to determine whether he violated the 14th Amendment. In technology news, Google&#39;s CEO gave evidence in an antitrust case against them while X introduced a new valuation system for their stocks. Over in New York, there&#39;s an incredibly detailed map of neighborhoods that shows how locals view their location and culture. To cap it off, Matthew Perry from &#39;Friends&#39; has passed away and authorities are still trying to uncover his cause of death - although it could be a while until we find out.</p>
+Right now, there are a lot of tense international events going on. The US administration has shifted the language it uses about Israel&#39;s actions in response to Hamas attacks, and hundreds of armored vehicles have moved into urban areas near Gaza City. Additionally, autoworkers have scored big wins in contracts with carmakers, and labor organizers are looking to bring similar gains elsewhere as carmakers transition to electric vehicles. Closer to home, the sheriff&#39;s office in Maine tried to contact a gunman who would later carry out the worst mass shooting of 2021 before deciding not to approach him, and Donald Trump&#39;s verbal slips are now being used against him by his critics. On a different note, prosecutors are trying to turn crypto CEO Sam Bankman-Fried&#39;s own words against him regarding how he runs his empire, and X is now worth $19 billion - down from $44 billion last year. Lastly, Matthew Perry recently passed away and will be remembered for his performances on TV shows like &quot;Friends&quot; and &quot;The West Wing&quot;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Support for Israel Now Comes With Words of Caution</h3>
+<sub>By Michael D. Shear, David E. Sanger and Edward Wong</sub>
+<p>The administration has become more critical of Israel’s response to the Hamas attacks, a shift that U.S. officials attribute to the humanitarian crisis in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Detailed Satellite View of Israel’s Invasion</h3>
+<sub>By Josh Holder, Weiyi Cai and Eleanor Lutz</sub>
+<p>Hundreds of armored vehicles have pushed miles past the border into urban areas on the outskirts of Gaza City, satellite imagery shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>War Closes In on Gaza City</h3>
+<sub>By New York Times Audio</sub>
+<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Autoworkers Score Big Wins in New Contracts With Carmakers</h3>
 <sub>By Jack Ewing and Neal E. Boudette</sub>
 <p>Tentative accords at Ford Motor, General Motors and Stellantis are the most generous in decades, raising costs as the industry shifts to electric vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Union Victories May Lift Biden, as U.A.W. Targets Tesla and Others</h3>
+<sub>By Jonathan Weisman</sub>
+<p>President Biden’s support for autoworkers helped them make big wage gains, and labor organizers are looking to bring about similar gains elsewhere as carmakers transition to electric vehicles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About the Automakers’ Deals With the U.A.W.</h3>
+<sub>By Santul Nerkar</sub>
+<p>With tentative agreements in place, a six-week strike against Ford, General Motors and Stellantis could soon come to an end. But the union’s rank-and-file members still need to approve the deals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Police Were Told Maine Gunman Had Threatened to Carry Out Shooting Spree</h3>
+<sub>By Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
+<p>A Maine sheriff’s office tried to contact the gunman who later carried out America’s deadliest mass shooting this year, but the office ultimately left him alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,22 +110,10 @@ There are a lot of interesting things going on in the world right now. In the bu
 <p>Donald Trump, 77, has relentlessly attacked President Biden, 80, as too old for office. But the former president himself has had a series of gaffes that go beyond his usual freewheeling style.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Is Still Far Ahead in Iowa Poll, With Haley Matching DeSantis for 2nd</h3>
-<sub>By Maggie Astor</sub>
-<p>Former President Donald J. Trump leads his closest competitors by 27 percentage points in a new Des Moines Register poll, but Nikki Haley has surged to tie Ron DeSantis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Trial Considers Whether the 14th Amendment Disqualifies Trump</h3>
-<sub>By Maggie Astor</sub>
-<p>Some constitutional experts argue that a clause in the amendment should bar Donald J. Trump from becoming president again, but that view is far from universal among legal scholars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google C.E.O. Says Tech Giant Has Improved the Web for All Consumers</h3>
-<sub>By Nico Grant and David McCabe</sub>
-<p>Sundar Pichai, the chief executive of Google, appeared in court to defend his company against a landmark federal antitrust case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Prosecutors Turn Sam Bankman-Fried’s Own Words Against Him</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>Asked during his cross-examination about his public statements and how he ran his crypto empire, the FTX founder repeatedly said he couldn’t remember.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -97,18 +121,6 @@ There are a lot of interesting things going on in the world right now. In the bu
 <sub>By Ryan Mac</sub>
 <p>The social media company’s valuation was disclosed in the paperwork for stock grants that it handed to employees on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>An Extremely Detailed Map of New York City Neighborhoods</h3>
-<sub>By Larry Buchanan, Josh Katz, Eve Washington and Rumsey Taylor</sub>
-<p>More than 37,000 New Yorkers told us where their neighborhoods start and end. We mapped them all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>An Extremely Detailed Guide to an Extremely Detailed Map of New York City Neighborhoods</h3>
-<sub>By Larry Buchanan, Josh Katz, Rumsey Taylor and Eve Washington</sub>
-<p>A visual guide to the past, present and future of more than 350 New York neighborhoods, as told by more than 37,000 comments from New Yorkers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Desperately Seeking Da Silvano</h3>
@@ -120,18 +132,6 @@ There are a lot of interesting things going on in the world right now. In the bu
 <h3>Matthew Perry Was One of TV’s Best Sparring Partners</h3>
 <sub>By Margaret Lyons</sub>
 <p>Perry will always be remembered as Chandler on “Friends,” but his performances in shows like “The West Wing” and “The Good Fight” revealed his subtle gifts as an actor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Reaction to Matthew Perry’s Death Shows Enduring Popularity of ‘Friends’</h3>
-<sub>By John Koblin</sub>
-<p>The sitcom’s final season was nearly two decades ago. But it remains popular on traditional TV and on streaming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Matthew Perry’s Cause of Death Remains Under Investigation</h3>
-<sub>By Derrick Bryson Taylor and Michael Levenson</sub>
-<p>Perry was found unresponsive in a hot tub at his house in Los Angeles on Saturday, the police said. It could be weeks or even months before the cause of his death is established, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
