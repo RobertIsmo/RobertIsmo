@@ -60,25 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, they have launched a ground invasion of Gaza after an air campaign that has killed thousands of Palestinians. Meanwhile in Lebanon, the militant group Hezbollah is agonizing over whether or not to join the fight with Israel. In response to Hamas&#39; attack on Israel, posters featuring kidnapped Israelis have been popping up across America, and being countered by anti-Israel protesters. There was also a mass shooting earlier this year in Maine that police had been warned about months before it occurred. Internationally, the Eurozone economy has shrunk and Japan&#39;s Central Bank has announced a move away from easy money policies. Closer to home, school districts are banning cellphones, leading to much controversy over the efficacy of such regulations. Lastly, King Charles is currently making his first royal visit to Kenya since colonialism, while in Chicago there is debate over if more immigrants should be allowed into the city amid a housing crisis.</p>
+There&#39;s a lot going on in the world right now. To start, Israel has launched an invasion of Gaza, which has been met with outrage from the international community. In Maine, it was revealed that authorities had been warned of a mass shooter&#39;s intentions months before he carried out one of this year&#39;s deadliest attacks. On the economic side, the Federal Reserve looks like it might hold interest rates steady which could mean higher wages over the summer and slower economic growth in the Eurozone. Meanwhile, people are debating whether candy corn is worthy of respect, Florida schools are trying to enforce phone bans to reduce student distractions, and Kenyan citizens are pushing their King for reparations for colonial abuses. Upstate New York farmers are dealing with financial disaster due to eight consecutive weekends of rain destroying their apple crops, but there&#39;s some good news too: the Biden administration recently approved the biggest offshore wind farm yet in Virginia.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Shroud of Secrecy, Israel Invasion of Gaza Has Begun</h3>
 <sub>By Patrick Kingsley and Ronen Bergman</sub>
 <p>After an air campaign that killed thousands of Palestinians, Israel has begun a ground assault, but it took hours for outside observers to understand what was happening. The ambiguity was intentional.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hezbollah Hesitates as Israel Strikes Gaza</h3>
-<sub>By Maria Abi-Habib and Ben Hubbard</sub>
-<p>After years of spoiling for a fight with Israel, the group is torn between maintaining its credibility as a defender of the Palestinians, and its hesitation to drag Lebanon into a full-scale war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Posters of Kidnapped Israelis Ignited a Firestorm on American Sidewalks</h3>
-<sub>By Katherine Rosman</sub>
-<p>In the weeks since Hamas attacked Israel, fliers depicting the hostages have become ubiquitous. But in cities and college campuses across the globe, anti-Israel protesters have removed them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Police Were Told Maine Gunman Had Threatened to Carry Out Shooting Spree</h3>
@@ -93,16 +81,16 @@ There is a lot going on in the world right now. In Israel, they have launched a 
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Key Measure of Wages Grew at a Moderate Pace This Summer</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Employment Cost Index, which Federal Reserve officials watch closely as a gauge of pay trends, has come down since last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Eurozone Economy Shrinks, While Price Pressures Ease</h3>
 <sub>By Liz Alderman</sub>
 <p>Economic growth contracted 0.1 percent last quarter, and inflation in October fell to a two-year low, a sign that high interest rates were taking a toll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Japan Takes Another Step Away From Easy Money</h3>
-<sub>By Rich Barbieri and Joe Rennison</sub>
-<p>The Bank of Japan said it would be more flexible in how it manages government bond yields, citing rising inflation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Is It Time to Give Candy Corn the Respect It Deserves?</h3>
@@ -128,10 +116,22 @@ There is a lot going on in the world right now. In Israel, they have launched a 
 <p>Older Kenyans who lived through the British colonial period want an apology and reparations. Younger Kenyans want an acknowledgment of more recent alleged abuses by British companies and troops.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Chicago, a Neighborhood of Immigrants Is Conflicted About More Arrivals</h3>
-<sub>By Mitch Smith</sub>
-<p>Brighton Park has taken in immigrants for generations, but residents are split over plans to house migrants in winterized tents on an empty lot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>The Busy Doctor Who Gave Himself Another Job: Tracking Nazi Loot</h3>
+<sub>By Milton Esterow and Tracy Sherlock</sub>
+<p>Despite limited success, Dr. Michael R. Hayden has spent more than a decade patiently searching for the looted silver Judaica stolen from his grandparents, who were killed by the Nazis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Apple-Picking Apocalypse of Upstate New York</h3>
+<sub>By Elizabeth G. Dunn</sub>
+<p>Eight straight weekends of rain have pushed the pick-your-own orchards toward financial disaster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration Approves Biggest Offshore Wind Farm Yet, in Virginia</h3>
+<sub>By Brad Plumer</sub>
+<p>The decision comes as other projects to build wind farms along the Atlantic Coast have run into trouble.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
