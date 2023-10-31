@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-Right now, Israel has invaded Gaza after an air campaign killed thousands of Palestinians. This ground assault was done under the shroud of secrecy but outside observers were eventually able to understand what was happening. In other news, U.S. autoworkers just scored big wins in new contracts with carmakers; President Biden even supported them and labor organizers are now looking to help other industries transition to electric vehicles. Meanwhile, police in Maine were informed about a gunman who threatened to carry out a shooting spree months before it happened and Donald Trump has been attempting to use his age against President Biden despite his own verbal slips and gaffes. On the tech front, a crypto empire founder is being held accountable for his words while an social media company&#39;s worth dropped significantly in just one year. Finally, Matthew Perry recently passed away at 54 and the &#39;Friends&#39; cast is mourning this beloved actor’s unexpected death, as its cause remains unknown.</p>
+It’s been a very intense couple of weeks all over the world. Israeli forces have begun a ground invasion in Gaza after an air campaign that killed thousands of Palestinians, and satellite imagery shows hundreds of armored vehicles pushing miles past the border into urban areas. In the US, President Biden has made gains for autoworkers and union organizers across the country are looking to continue to build on those gains. On a more somber note, Donald Trump has recently made verbal slips that weaken his attacks on President Biden&#39;s age, and we recently heard about the death of Mattew Perry who was known to many from TV shows like Friends and The West Wing. The cause of his death is still under investigation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Shroud of Secrecy, Israel Invasion of Gaza Has Begun</h3>
@@ -125,7 +125,7 @@ Right now, Israel has invaded Gaza after an air campaign killed thousands of Pal
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>‘Utterly Devastated’: ‘Friends’ Cast Reacts to Matthew Perry’s Death</h3>
 <sub>By Claire Moses</sub>
-<p>Perry, who portrayed Chandler Bing, died on Saturday. He was 54.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Perry’s co-stars on the long-running NBC sitcom released a joint statement after the actor’s death over the weekend at 54.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, October 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
