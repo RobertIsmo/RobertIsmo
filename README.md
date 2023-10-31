@@ -60,15 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-It&#39;s been a busy news cycle lately! The Israeli military has begun its invasion of Gaza, and has kept the details of the plan under wraps. In the US, Mainers are debating potential gun control changes in the wake of a mass shooting there. On the tech front, a Florida school district has banned cellphones and seen positive results from their students, while the founder of a crypto exchange became embroiled in a fraud trial. 
+Right now there is a lot of tension and conflict in the Middle East, with the FBI warning that it has the potential to spark terrorist attacks against the US. In reaction to this, Congress is considering aid legislation that could also help Ukraine, but politicians are divided on how much support to give. 
 
-In other parts of the world, King Charles is visiting Kenya and is facing calls for reparations as an apology for British colonial abuses, while in style news, candy corn is starting to be respected by some as a classic treat. In business news, UAW strikes have made advances that set precedents in labor benefits; Upstate New York&#39;s apple-picking season is suffering due to 8 weeks of rain; offshore wind projects along the Atlantic coast are facing difficulties; and finally, there&#39;s an opinion piece discussing how past lies in the Middle East are affecting current truth-telling.</p>
+At home, firearms laws are being debated after a mass shooting in Maine. There&#39;s been a ban on mobile phones in one Florida school district, which seems to have had positive effects on student engagement. Meanwhile a crypto exchange CEO stands accused of fraud, and there&#39;s controversy over whether bariatric surgery should be used to treat childhood obesity. 
+
+There&#39;s also some sweet news - candy corn is finally getting its due respect! The UAW strike is gaining momentum with potential to set precedent when negotiating contracts and union rights in other industries. Upstate New York orchards are struggling due to excessive rains eight weekends in a row. 
+
+Lastly, two opinion pieces on the Middle East and addiction both touch hearts - looking at false claims leading up to Iraq War, as well as Matthew Perry&#39;s honesty about his battle with addiction.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under Shroud of Secrecy, Israel Invasion of Gaza Has Begun</h3>
-<sub>By Patrick Kingsley and Ronen Bergman</sub>
-<p>After an air campaign that killed thousands of Palestinians, Israel has begun a ground assault, but it took hours for outside observers to understand what was happening. The ambiguity was intentional.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, October 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The F.B.I. says the Israel-Hamas war raises the potential for an attack against the U.S.</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Christopher A. Wray, the agency’s director, warned senators that several foreign terrorist organizations have called for attacks against Americans since the Oct. 7 assault on Israel by Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson’s Israel Aid Bill Sets Stage for a Clash Over Security Assistance</h3>
+<sub>By Catie Edmondson and Karoun Demirjian</sub>
+<p>By splitting money for Israel’s war effort from aid to Ukraine and coupling it with spending cuts, Speaker Mike Johnson has put the House on a collision course with the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Mass Shooting in Maine, No Clarity on Whether Gun Laws Will Change</h3>
@@ -92,12 +102,6 @@ In other parts of the world, King Charles is visiting Kenya and is facing calls 
 <h3>Bariatric Surgery at 16</h3>
 <sub>By Helen Ouyang</sub>
 <p>If childhood obesity is an ‘epidemic,’ how far should doctors go to treat it?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>King Charles, Visiting Kenya, Faces Calls to Answer for Colonial Abuses</h3>
-<sub>By Abdi Latif Dahir</sub>
-<p>Older Kenyans who lived through the British colonial period want an apology and reparations. Younger Kenyans want an acknowledgment of more recent alleged abuses by British companies and troops.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -124,16 +128,16 @@ In other parts of the world, King Charles is visiting Kenya and is facing calls 
 <p>Eight straight weekends of rain have pushed the pick-your-own orchards toward financial disaster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Approves Biggest Offshore Wind Farm Yet, in Virginia</h3>
-<sub>By Brad Plumer</sub>
-<p>The decision comes as other projects to build wind farms along the Atlantic Coast have run into trouble.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>Past Lies About War in the Middle East are Getting in the Way of the Truth Today</h3>
 <sub>By Zeynep Tufekci</sub>
 <p>Many cannot forget the false or exaggerated claims that led to the Iraq war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Matthew Perry and the Loneliness of Addiction</h3>
+<sub>By Patti Davis</sub>
+<p>He was a brilliant performer, but his honesty will be his greatest legacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
