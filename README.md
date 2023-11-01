@@ -60,16 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-It looks like it&#39;s a really volatile time in the world right now. In the U.S., there&#39;s a big battle brewing over Israeli security assistance and Mike Johnson has set the House on a collision course with the Senate and President Biden. Meanwhile, Europe’s Jews are facing a surge in acts of antisemitism in wake of Hamas&#39; assault on Israel. Back at home, the FBI reported that threats against both Jews and Muslims have skyrocketed since Hamas&#39; attack as well. Things may get worse too - after a mass shooting in Maine there&#39;s no clear indication whether gun laws will be changed or not. 
+It&#39;s been a lot of news about the Middle East recently. An airstrike in Gaza by Israel killed a Hamas leader, but also many other people according to Hamas. It comes as Palestine is facing fuel, food, and water shortages and pushing civilians to their breaking point. In Europe, the situation has caused an outbreak of antisemitism which has similarly raised the level of threats against Americans and Muslims here in the US. 
 
-In more hopeful news though, some innovative treatments are being offered for Sickle Cell Disease and some home sellers just won $1.8 billion dollars after finding out that realtors had conspired to force them to pay excessive fees. Oh, and there&#39;s some major changes happening for unions too - The UAW strike gains could set precedents to give labor advantages during bargaining contracts and organizing workers. Lastly, Britney Spears just wrote her life story with three authors helping her out! 
+We&#39;ve also seen major changes to gun laws being discussed in Maine after a mass shooting there. Elsewhere there&#39;s a summit happening in the UK involving 27 nations coming together to discuss how to regulate artificial intelligence. Vice President Harris has announced steps to curb any risks AI could present too. 
 
-All in all, it looks like a lot is changing in the world and it&#39;ll be interesting to see how things play out.</p>
+In other news, a panel has said that an innovative sickle cell treatment is safe for patients and might be approved by the FDA soon. There was also a jury decision awarding $1.8 billion to home sellers against various brokerages. More good news for workers came this week as the UAW managed to get some striking gains that experts say could set precedents for other labor advances in bargaining contracts and organizing workers.
+
+Finally, we got some more insight into Britney Spears&#39; memoir that was released this week and details some of the many people involved in getting her life story on the page! And we&#39;ve also seen several op-ed questions provoking us to think about whether lies about past wars in the Middle East are getting in the way of knowing what&#39;s really happening today.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson’s Israel Aid Bill Sets Stage for a Clash Over Security Assistance</h3>
-<sub>By Catie Edmondson and Karoun Demirjian</sub>
-<p>By splitting money for Israel’s war effort from aid to Ukraine and coupling it with spending cuts, Speaker Mike Johnson has put the House on a collision course with the Senate and President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Deadly Airstrike, and Gazans at the Breaking Point</h3>
+<sub>By Matthew Mpoke Bigg, Karen Zraick and Emma Bubola</sub>
+<p>Israel said it killed a Hamas leader at a refugee camp, but many other people were wounded and killed, Hamas said. The assault came as fuel, food and water shortages pushed civilians to the brink.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -90,11 +92,17 @@ All in all, it looks like a lot is changing in the world and it&#39;ll be intere
 <p>A state ban on assault weapons? Expanded concealed-carry restrictions? Tighter mental health laws? As Maine grieves, it weighs a roiling debate over gun laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>This Florida School District Banned Cellphones. Here’s What Happened.</h3>
-<sub>By Natasha Singer</sub>
-<p>Schools in Orlando took a tougher approach than a new state law required. Student engagement increased. So did the hunt for contraband phones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Can Global Leaders Get a Handle on A.I.? U.K. Summit Makes a Start</h3>
+<sub>By Megan Specia and Adam Satariano</sub>
+<p>Delegates from 27 governments, including China and the U.S., are gathering at Bletchley Park for talks on how to regulate artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harris to Announce Steps to Curb Risks of A.I.</h3>
+<sub>By Erica L. Green</sub>
+<p>The vice president plans to flesh out a sweeping executive order President Biden signed this week and push toward global standards at a summit in London.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Panel Says That Innovative Sickle Cell Cure Is Safe Enough for Patients</h3>
@@ -131,12 +139,6 @@ All in all, it looks like a lot is changing in the world and it&#39;ll be intere
 <sub>By Zeynep Tufekci</sub>
 <p>Many cannot forget the false or exaggerated claims that led to the Iraq war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Italy’s Prime Minister Broke Up With Her Boyfriend. It’s Actually Quite a Big Deal.</h3>
-<sub>By Mattia Ferraresi</sub>
-<p>Giorgia Meloni’s breakup offers a window onto the nature of power in Italy today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
