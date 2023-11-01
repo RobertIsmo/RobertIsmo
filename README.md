@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now, including rising tensions in Israel after a war between Hamas and Israel, an increase in anti-Semitic and anti-Muslim threats in the U.S., a jury awarding 1.8 billion dollars to home sellers facing excessive fees to real estate agents, and debates over gun control in some states after recent mass shootings. On top of that, Florida schools have banned cell phones, there&#39;s a decision on potentially approving the first human treatment using CRISPR gene-editing system, UAW labor unions are gaining better pay and working conditions, and there&#39;s discussion of bariatric surgery for 16-year olds to fight obesity.</p>
+Recently, a lot has been happening around the world. In the US, Speaker Mike Johnson set a collision course by splitting aide money for Israel&#39;s war efforts from aid to Ukraine. The FBI has said that the Israel-Hamas war has raised potential for attacks against Americans. Meanwhile in Europe, a Hamas assault has brought forth historic levels of antisemitism towards Jews. Posters of kidnapped Israelis have sparked a firestorm in American streets. In Maine, there is debate surrounding gun laws following a mass shooting. In Orlando, Florida school districts banned cell phones to increase student engagement. Meanwhile there is a debate about bariatric surgery as a cure for childhood obesity and home sellers won $1.8 billion in damages after realtors were found conspiring against them. Finally auto workers won big with new contracts that could set precedents beyond the auto industry.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Johnson’s Israel Aid Bill Sets Stage for a Clash Over Security Assistance</h3>
 <sub>By Catie Edmondson and Karoun Demirjian</sub>
-<p>By splitting money for Israel’s war effort from aid to Ukraine and coupling it with spending cuts, Speaker Mike Johnson has put the House on a collision course with the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>By splitting money for Israel’s war effort from aid to Ukraine and coupling it with spending cuts, Speaker Mike Johnson has put the House on a collision course with the Senate and President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
