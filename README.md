@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-It&#39;s been a lot of news about the Middle East recently. An airstrike in Gaza by Israel killed a Hamas leader, but also many other people according to Hamas. It comes as Palestine is facing fuel, food, and water shortages and pushing civilians to their breaking point. In Europe, the situation has caused an outbreak of antisemitism which has similarly raised the level of threats against Americans and Muslims here in the US. 
-
-We&#39;ve also seen major changes to gun laws being discussed in Maine after a mass shooting there. Elsewhere there&#39;s a summit happening in the UK involving 27 nations coming together to discuss how to regulate artificial intelligence. Vice President Harris has announced steps to curb any risks AI could present too. 
-
-In other news, a panel has said that an innovative sickle cell treatment is safe for patients and might be approved by the FDA soon. There was also a jury decision awarding $1.8 billion to home sellers against various brokerages. More good news for workers came this week as the UAW managed to get some striking gains that experts say could set precedents for other labor advances in bargaining contracts and organizing workers.
-
-Finally, we got some more insight into Britney Spears&#39; memoir that was released this week and details some of the many people involved in getting her life story on the page! And we&#39;ve also seen several op-ed questions provoking us to think about whether lies about past wars in the Middle East are getting in the way of knowing what&#39;s really happening today.</p>
+There&#39;s a lot of news to keep track of! In the Middle East, President Biden and other Western leaders are pushing for a two-state solution between Israel and Palestine, but some analysts are unsure if it’s feasible. Meanwhile, Iran is facing a tough decision on how to respond to the Hamas-Israel war. On the other side of the world in Europe, there has been an increase in antisemitic and anti-Muslim threats against their Jewish and Muslim populations. Closer to home, the FBI has warned the US of possible attacks after the war broke out in the Middle East, and just yesterday, Vice President Harris announced plans to step up efforts to prevent potential risks of artificial intelligence. Finally, here in New York City we face the heartbreaking reality that 119,300 students were homeless last year. It&#39;s a lot to take in, but it&#39;s important to stay informed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Deadly Airstrike, and Gazans at the Breaking Point</h3>
-<sub>By Matthew Mpoke Bigg, Karen Zraick and Emma Bubola</sub>
-<p>Israel said it killed a Hamas leader at a refugee camp, but many other people were wounded and killed, Hamas said. The assault came as fuel, food and water shortages pushed civilians to the brink.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<h3>Does a 2-State Solution, Long Discounted, Still Have a Future?</h3>
+<sub>By Mark Landler</sub>
+<p>As President Biden and other Western leaders promote the idea, some diplomats and analysts say the Hamas-Israel war may breathe new life into it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Years of Vowing to Destroy Israel, Iran Faces a Dilemma</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>With Israel bent on crushing Iran’s ally Hamas, Tehran must decide whether it and the proxy militias it arms and trains will live up to its fiery rhetoric.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Europe’s Jews, a World of Fear</h3>
@@ -86,11 +86,41 @@ Finally, we got some more insight into Britney Spears&#39; memoir that was relea
 <p>Since the attacks by Hamas, antisemitic threats in the U.S. have reached “historic levels,” the agency’s director said. Threats against Muslims have also increased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Record 119,300 New York City Students Were Homeless Last Year</h3>
+<sub>By Troy Closson</sub>
+<p>Tens of thousands of migrant children have enrolled in public schools, but many of them do not have a consistent place to live.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Mass Shooting in Maine, No Clarity on Whether Gun Laws Will Change</h3>
-<sub>By Amelia Nierenberg and Jenna Russell</sub>
-<p>A state ban on assault weapons? Expanded concealed-carry restrictions? Tighter mental health laws? As Maine grieves, it weighs a roiling debate over gun laws.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Allies Want a New Style of Lawyer if He Returns to Power</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Some of the Lawyers Who May Fill a Second Trump Administration</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>Donald Trump’s allies are hoping to install a different species of legal gatekeeper throughout the federal government. Here are some of the potential prospects.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For China’s Jobless Young People, Hostels Are the Place to Be</h3>
+<sub>By Vivian Wang</sub>
+<p>Chinese backpacker hostels offering bunk beds for a few dollars a night have become hubs for the anxiety and ambitions of job-seeking youth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>They Propelled China’s Rise. Now They Have Nothing to Fall Back On.</h3>
+<sub>By Li Yuan</sub>
+<p>Migrant workers, who moved from China’s villages to its big cities, were a secret weapon building the economy. Now many see few options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Some Ukrainians Helped the Russians. Their Neighbors Sought Revenge.</h3>
+<sub>By James Verini and Paolo Pellegrin</sub>
+<p>For people in Bilozerka, the invasion began a cat-and-mouse game of collaboration and resistance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Can Global Leaders Get a Handle on A.I.? U.K. Summit Makes a Start</h3>
@@ -103,42 +133,6 @@ Finally, we got some more insight into Britney Spears&#39; memoir that was relea
 <sub>By Erica L. Green</sub>
 <p>The vice president plans to flesh out a sweeping executive order President Biden signed this week and push toward global standards at a summit in London.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Panel Says That Innovative Sickle Cell Cure Is Safe Enough for Patients</h3>
-<sub>By Gina Kolata</sub>
-<p>The decision by an advisory committee may lead to Food and Drug Administration approval of the first treatment for humans that uses the CRISPR gene-editing system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Denies Knowing FTX Money Was Missing, as He Concludes Testimony</h3>
-<sub>By J. Edward Moreno, Matthew Goldstein and David Yaffe-Bellany</sub>
-<p>The founder of the FTX crypto exchange was grilled by a federal prosecutor for a second day, just before both sides rested their case in the criminal fraud trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Home Sellers Win $1.8 Billion After Jury Finds Conspiracy Among Realtors</h3>
-<sub>By Debra Kamin</sub>
-<p>The influential National Association of Realtors and several brokerages were ordered to pay damages to home sellers who said they were forced to pay excessive fees to real estate agents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Strike Gains Could Reverberate Far Beyond Autos</h3>
-<sub>By Noam Scheiber</sub>
-<p>Experts said the union’s new contracts could set precedents that give labor advantages when bargaining contracts and organizing workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Many People Behind ‘The Woman in Me’</h3>
-<sub>By Jacob Bernstein</sub>
-<p>Three authors helped Britney Spears get her life story on the page.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Past Lies About War in the Middle East are Getting in the Way of the Truth Today</h3>
-<sub>By Zeynep Tufekci</sub>
-<p>Many cannot forget the false or exaggerated claims that led to the Iraq war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
