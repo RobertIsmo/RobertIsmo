@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-There are a lot of tensions happening in the world right now related to Israel and the Middle East. U.S. President Biden has found it impossible to take even modest steps towards a peaceful resolution between Israel and Palestine. This has caused fear for Jews in Europe, as there has been a recent surge of antisemitic acts and a Hamas assault on Israel. Meanwhile, Iran is facing a dilemma over whether to live up to their fiery rhetoric about destroying Israel, while Israel is aiming to crush Iran&#39;s ally Hamas. 
+Right now, there&#39;s a lot of tension in the Middle East due to escalating conflict between Israel and Hamas. In the US, both Republicans and Democrats are pointing to anti-Israel protests as part of a larger cultural battle over education. Meanwhile, Europe&#39;s Jewish population is facing increased fears due to the recent conflict in the Middle East. 
 
-In the U.S., Republicans are pointing to anti-Israel protests at college campuses as part of a &quot;woke agenda&quot; in the larger cultural battle over education. In terms of business-related news, U.S. job openings were steady in September despite the highest interest rates in two decades, but an offshore wind firm cancelled some New Jersey projects due to high financing costs. 
+In Ukraine, President&#x2F;actor Volodymyr Zelensky is frustrated that his troops&#39; achievements in the war effort are being undervalued. Meanwhile, former President Donald Trump is facing a trial alleging he violated the 14th Amendment and his allies are planning to install lawyers who will advance a more radical agenda should he regain the white house. 
 
-On the legal front, if Trump wins the election, his allies want lawyers who will bless a more radical agenda than before -- they are planning to install more aggressive legal gatekeepers if he regains power. As for culture, we have Five Minutes That Will Make You Love Thelonious Monk by Jon Batiste and others! Lastly, Ukraine&#39;s president Volodymyr Zelensky is feeling frustrated that his troops&#39; achievements against Russia are being underestimated by U.S. officials while people in one town grapple with an invasion that began with an ongoing cat-and-mouse game of collaboration and resistance.</p>
+On the business side, offshore wind firms are canceling projects and the Federal Reserve has chosen to keep interest rates steady for now but could possibly be changed in the near future. Lastly, a report has been released about one of Wall Street’s biggest names that goes into detail about their investing tactics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Found Even Modest Israel-Palestinian Peace Steps Impossible</h3>
@@ -91,27 +91,21 @@ On the legal front, if Trump wins the election, his allies want lawyers who will
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Job Openings Were Steady in September</h3>
-<sub>By Santul Nerkar</sub>
-<p>The Labor Department report is a gauge of how well the labor market can withstand the highest interest rates in two decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fed Holds Rates Steady and Pledges to Proceed Carefully</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve left interest rates at 5.25 to 5.5 percent, but its chair, Jerome Powell, said policymakers could still raise rates again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Offshore Wind Firm Cancels N.J. Projects, as Industry’s Prospects Dim</h3>
 <sub>By Stanley Reed and Tracey Tully</sub>
-<p>Denmark’s Orsted said it would be forced to write off as much as $5.5 billion as wind developers in the U.S. face wrenching financing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Denmark’s Orsted said it would be forced to write off as much as $5.6 billion as wind developers in the U.S. faced wrenching financing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>If Trump Wins, His Allies Want Lawyers Who Will Bless a More Radical Agenda</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Some of the Lawyers Who May Fill a Second Trump Administration</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>Donald Trump’s allies are hoping to install a different species of legal gatekeeper throughout the federal government. Here are some of the potential prospects.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Does the World’s Largest Hedge Fund Really Make Its Money?</h3>
+<sub>By Rob Copeland</sub>
+<p>Ray Dalio’s investing tactics have always been a closely kept secret, even inside Bridgewater Associates. Several years ago, some of Wall Street’s biggest names set out to discover his edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -120,10 +114,16 @@ On the legal front, if Trump wins the election, his allies want lawyers who will
 <p>We asked Jon Batiste, Arooj Aftab, Mary Halvorson and others to share their favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Does the World’s Largest Hedge Fund Really Make Its Money?</h3>
-<sub>By Rob Copeland</sub>
-<p>Ray Dalio’s investing tactics have always been a closely kept secret, even inside Bridgewater Associates. Several years ago, some of Wall Street’s biggest names set out to discover his edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump 14th Amendment Disqualification Trial Can Continue, Judge Rules</h3>
+<sub>By Maggie Astor</sub>
+<p>Former President Donald J. Trump’s team had argued that his words and actions leading up to the attack on the Capitol were protected by the First Amendment, and asked that the Colorado case be thrown out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>If Trump Wins, His Allies Want Lawyers Who Will Bless a More Radical Agenda</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
