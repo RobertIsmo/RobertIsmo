@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-There&#39;s a lot of news to keep track of! In the Middle East, President Biden and other Western leaders are pushing for a two-state solution between Israel and Palestine, but some analysts are unsure if it’s feasible. Meanwhile, Iran is facing a tough decision on how to respond to the Hamas-Israel war. On the other side of the world in Europe, there has been an increase in antisemitic and anti-Muslim threats against their Jewish and Muslim populations. Closer to home, the FBI has warned the US of possible attacks after the war broke out in the Middle East, and just yesterday, Vice President Harris announced plans to step up efforts to prevent potential risks of artificial intelligence. Finally, here in New York City we face the heartbreaking reality that 119,300 students were homeless last year. It&#39;s a lot to take in, but it&#39;s important to stay informed.</p>
+There is a lot happening in the world right now. In Gaza, there is a border crossing into Israel that is the only land crossing Israel does not control. There have been discussions about a 2-state solution to end the war between Hamas and Israel, while Iran faces the dilemma of whether or not to follow through with their fiery rhetoric against Israel which they have vowed to do. European Jews are feeling repressed horror due to recent acts of anti-semitism. In New York City, over 119,000 students are facing homelessness due to various migrant children enrolling in public schools but lacking consistent housing. In the US, Donald Trump&#39;s allies are looking for new lawyers if he regains power as opposed to the politically appointed lawyers he has had in the past who frustrated his ambitions. Additionally, unhappy youth from China&#39;s villages are facing joblessness and few options after helping build up China&#39;s economy. Meanwhile in Ukraine there have been people on both sides in terms of collaboration and resistance against Russians. Last but not least, President Volodymyr Zelensky said Ukraine&#39;s efforts in its own war were being underestimated as US officials warned senators against halting military aid.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Why Is the Rafah Border Crossing So Important for Gaza?</h3>
+<sub>By Emma Bubola, Lauren Leatherby and Vivian Yee</sub>
+<p>The access point, where aid trucks have entered from Egypt and people are waiting to leave, is the only land crossing into Gaza that Israel does not control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Does a 2-State Solution, Long Discounted, Still Have a Future?</h3>
 <sub>By Mark Landler</sub>
@@ -80,12 +86,6 @@ There&#39;s a lot of news to keep track of! In the Middle East, President Biden 
 <p>The Oct. 7 Hamas assault on Israel and a surge in acts of antisemitism have awakened a repressed horror in Jewish populations across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Says Israel-Hamas War Raises Potential for Attack Against Americans</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Since the attacks by Hamas, antisemitic threats in the U.S. have reached “historic levels,” the agency’s director said. Threats against Muslims have also increased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Record 119,300 New York City Students Were Homeless Last Year</h3>
 <sub>By Troy Closson</sub>
@@ -102,6 +102,12 @@ There&#39;s a lot of news to keep track of! In the Middle East, President Biden 
 <h3>Some of the Lawyers Who May Fill a Second Trump Administration</h3>
 <sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
 <p>Donald Trump’s allies are hoping to install a different species of legal gatekeeper throughout the federal government. Here are some of the potential prospects.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Five Minutes That Will Make You Love Thelonious Monk</h3>
+<sub>By Marcus J. Moore</sub>
+<p>We asked Jon Batiste, Arooj Aftab, Mary Halvorson and others to share their favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,15 +129,9 @@ There&#39;s a lot of news to keep track of! In the Middle East, President Biden 
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can Global Leaders Get a Handle on A.I.? U.K. Summit Makes a Start</h3>
-<sub>By Megan Specia and Adam Satariano</sub>
-<p>Delegates from 27 governments, including China and the U.S., are gathering at Bletchley Park for talks on how to regulate artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harris to Announce Steps to Curb Risks of A.I.</h3>
-<sub>By Erica L. Green</sub>
-<p>The vice president plans to flesh out a sweeping executive order President Biden signed this week and push toward global standards at a summit in London.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Frustrated Zelensky Says Ukraine’s War Effort Is Being Underestimated</h3>
+<sub>By Constant Méheut</sub>
+<p>As U.S. officials warned senators against halting military aid, President Volodymyr Zelensky said his troops’ achievements were “perceived as a given.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
