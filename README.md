@@ -60,24 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Gaza, there is a border crossing into Israel that is the only land crossing Israel does not control. There have been discussions about a 2-state solution to end the war between Hamas and Israel, while Iran faces the dilemma of whether or not to follow through with their fiery rhetoric against Israel which they have vowed to do. European Jews are feeling repressed horror due to recent acts of anti-semitism. In New York City, over 119,000 students are facing homelessness due to various migrant children enrolling in public schools but lacking consistent housing. In the US, Donald Trump&#39;s allies are looking for new lawyers if he regains power as opposed to the politically appointed lawyers he has had in the past who frustrated his ambitions. Additionally, unhappy youth from China&#39;s villages are facing joblessness and few options after helping build up China&#39;s economy. Meanwhile in Ukraine there have been people on both sides in terms of collaboration and resistance against Russians. Last but not least, President Volodymyr Zelensky said Ukraine&#39;s efforts in its own war were being underestimated as US officials warned senators against halting military aid.</p>
+There are a lot of tensions happening in the world right now related to Israel and the Middle East. U.S. President Biden has found it impossible to take even modest steps towards a peaceful resolution between Israel and Palestine. This has caused fear for Jews in Europe, as there has been a recent surge of antisemitic acts and a Hamas assault on Israel. Meanwhile, Iran is facing a dilemma over whether to live up to their fiery rhetoric about destroying Israel, while Israel is aiming to crush Iran&#39;s ally Hamas. 
+
+In the U.S., Republicans are pointing to anti-Israel protests at college campuses as part of a &quot;woke agenda&quot; in the larger cultural battle over education. In terms of business-related news, U.S. job openings were steady in September despite the highest interest rates in two decades, but an offshore wind firm cancelled some New Jersey projects due to high financing costs. 
+
+On the legal front, if Trump wins the election, his allies want lawyers who will bless a more radical agenda than before -- they are planning to install more aggressive legal gatekeepers if he regains power. As for culture, we have Five Minutes That Will Make You Love Thelonious Monk by Jon Batiste and others! Lastly, Ukraine&#39;s president Volodymyr Zelensky is feeling frustrated that his troops&#39; achievements against Russia are being underestimated by U.S. officials while people in one town grapple with an invasion that began with an ongoing cat-and-mouse game of collaboration and resistance.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Is the Rafah Border Crossing So Important for Gaza?</h3>
-<sub>By Emma Bubola, Lauren Leatherby and Vivian Yee</sub>
-<p>The access point, where aid trucks have entered from Egypt and people are waiting to leave, is the only land crossing into Gaza that Israel does not control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, October 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Does a 2-State Solution, Long Discounted, Still Have a Future?</h3>
-<sub>By Mark Landler</sub>
-<p>As President Biden and other Western leaders promote the idea, some diplomats and analysts say the Hamas-Israel war may breathe new life into it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Years of Vowing to Destroy Israel, Iran Faces a Dilemma</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>With Israel bent on crushing Iran’s ally Hamas, Tehran must decide whether it and the proxy militias it arms and trains will live up to its fiery rhetoric.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Found Even Modest Israel-Palestinian Peace Steps Impossible</h3>
+<sub>By Michael Crowley</sub>
+<p>A president focused on China and Ukraine had little time or inclination for a distant goal that stymied several of his predecessors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,14 +78,32 @@ There is a lot happening in the world right now. In Gaza, there is a border cros
 <p>The Oct. 7 Hamas assault on Israel and a surge in acts of antisemitism have awakened a repressed horror in Jewish populations across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Record 119,300 New York City Students Were Homeless Last Year</h3>
-<sub>By Troy Closson</sub>
-<p>Tens of thousands of migrant children have enrolled in public schools, but many of them do not have a consistent place to live.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Years of Vowing to Destroy Israel, Iran Faces a Dilemma</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>With Israel bent on crushing Iran’s ally Hamas, Tehran must decide whether it and the proxy militias it arms and trains will live up to its fiery rhetoric.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Allies Want a New Style of Lawyer if He Returns to Power</h3>
+<h3>Pointing to Anti-Israel Protests, Republicans See ‘Woke Agenda’ at Colleges</h3>
+<sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
+<p>As the Mideast war escalates, the party’s politicians and activists are casting antisemitic incidents and progressive protests as part of a larger cultural battle over education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Job Openings Were Steady in September</h3>
+<sub>By Santul Nerkar</sub>
+<p>The Labor Department report is a gauge of how well the labor market can withstand the highest interest rates in two decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Offshore Wind Firm Cancels N.J. Projects, as Industry’s Prospects Dim</h3>
+<sub>By Stanley Reed and Tracey Tully</sub>
+<p>Denmark’s Orsted said it would be forced to write off as much as $5.5 billion as wind developers in the U.S. face wrenching financing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>If Trump Wins, His Allies Want Lawyers Who Will Bless a More Radical Agenda</h3>
 <sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
 <p>Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
@@ -110,17 +120,11 @@ There is a lot happening in the world right now. In Gaza, there is a border cros
 <p>We asked Jon Batiste, Arooj Aftab, Mary Halvorson and others to share their favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For China’s Jobless Young People, Hostels Are the Place to Be</h3>
-<sub>By Vivian Wang</sub>
-<p>Chinese backpacker hostels offering bunk beds for a few dollars a night have become hubs for the anxiety and ambitions of job-seeking youth.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>They Propelled China’s Rise. Now They Have Nothing to Fall Back On.</h3>
-<sub>By Li Yuan</sub>
-<p>Migrant workers, who moved from China’s villages to its big cities, were a secret weapon building the economy. Now many see few options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<h3>How Does the World’s Largest Hedge Fund Really Make Its Money?</h3>
+<sub>By Rob Copeland</sub>
+<p>Ray Dalio’s investing tactics have always been a closely kept secret, even inside Bridgewater Associates. Several years ago, some of Wall Street’s biggest names set out to discover his edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Some Ukrainians Helped the Russians. Their Neighbors Sought Revenge.</h3>
