@@ -60,24 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, October 31, Central Standard Time</p>
 <p>
-Right now there is a lot of tension and conflict in the Middle East, with the FBI warning that it has the potential to spark terrorist attacks against the US. In reaction to this, Congress is considering aid legislation that could also help Ukraine, but politicians are divided on how much support to give. 
-
-At home, firearms laws are being debated after a mass shooting in Maine. There&#39;s been a ban on mobile phones in one Florida school district, which seems to have had positive effects on student engagement. Meanwhile a crypto exchange CEO stands accused of fraud, and there&#39;s controversy over whether bariatric surgery should be used to treat childhood obesity. 
-
-There&#39;s also some sweet news - candy corn is finally getting its due respect! The UAW strike is gaining momentum with potential to set precedent when negotiating contracts and union rights in other industries. Upstate New York orchards are struggling due to excessive rains eight weekends in a row. 
-
-Lastly, two opinion pieces on the Middle East and addiction both touch hearts - looking at false claims leading up to Iraq War, as well as Matthew Perry&#39;s honesty about his battle with addiction.</p>
+There is a lot happening in the world right now, including rising tensions in Israel after a war between Hamas and Israel, an increase in anti-Semitic and anti-Muslim threats in the U.S., a jury awarding 1.8 billion dollars to home sellers facing excessive fees to real estate agents, and debates over gun control in some states after recent mass shootings. On top of that, Florida schools have banned cell phones, there&#39;s a decision on potentially approving the first human treatment using CRISPR gene-editing system, UAW labor unions are gaining better pay and working conditions, and there&#39;s discussion of bariatric surgery for 16-year olds to fight obesity.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The F.B.I. says the Israel-Hamas war raises the potential for an attack against the U.S.</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Christopher A. Wray, the agency’s director, warned senators that several foreign terrorist organizations have called for attacks against Americans since the Oct. 7 assault on Israel by Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Johnson’s Israel Aid Bill Sets Stage for a Clash Over Security Assistance</h3>
 <sub>By Catie Edmondson and Karoun Demirjian</sub>
 <p>By splitting money for Israel’s war effort from aid to Ukraine and coupling it with spending cuts, Speaker Mike Johnson has put the House on a collision course with the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Says Israel-Hamas War Raises Potential for Attack Against Americans</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Since the attacks by Hamas, antisemitic threats in the U.S. have reached “historic levels,” the agency’s director said. Threats against Muslims have also increased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Europe’s Jews, a World of Fear</h3>
+<sub>By Roger Cohen</sub>
+<p>The Oct. 7 Hamas assault on Israel and a surge in acts of antisemitism have awakened a repressed horror in Jewish populations across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Posters of Kidnapped Israelis Ignited a Firestorm on American Sidewalks</h3>
+<sub>By Katherine Rosman</sub>
+<p>In the weeks since Hamas attacked Israel, fliers depicting the hostages have become ubiquitous. But in cities and on college campuses across the globe, anti-Israel protesters have removed them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,6 +98,12 @@ Lastly, two opinion pieces on the Middle East and addiction both touch hearts - 
 <p>Schools in Orlando took a tougher approach than a new state law required. Student engagement increased. So did the hunt for contraband phones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Panel Says That Innovative Sickle Cell Cure Is Safe Enough for Patients</h3>
+<sub>By Gina Kolata</sub>
+<p>The decision by an advisory committee may lead to Food and Drug Administration approval of the first treatment for humans that uses the CRISPR gene-editing system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Sam Bankman-Fried Denies Knowing FTX Money Was Missing, as He Concludes Testimony</h3>
 <sub>By J. Edward Moreno, Matthew Goldstein and David Yaffe-Bellany</sub>
@@ -104,17 +116,11 @@ Lastly, two opinion pieces on the Middle East and addiction both touch hearts - 
 <p>If childhood obesity is an ‘epidemic,’ how far should doctors go to treat it?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Busy Doctor Who Gave Himself Another Job: Tracking Nazi Loot</h3>
-<sub>By Milton Esterow and Tracy Sherlock</sub>
-<p>Despite limited success, Dr. Michael R. Hayden has spent more than a decade patiently searching for the looted silver Judaica stolen from his grandparents, who were killed by the Nazis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Home Sellers Win $1.8 Billion After Jury Finds Conspiracy Among Realtors</h3>
+<sub>By Debra Kamin</sub>
+<p>The influential National Association of Realtors and several brokerages were ordered to pay damages to home sellers who said they were forced to pay excessive fees to real estate agents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Is It Time to Give Candy Corn the Respect It Deserves?</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>One woman in Mississippi has amassed a sizable collection. Another in Maine has built a wardrobe around it. Candy corn, one of the most divisive treats on the market, has proved it has staying power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, October 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.A.W. Strike Gains Could Reverberate Far Beyond Autos</h3>
@@ -122,22 +128,10 @@ Lastly, two opinion pieces on the Middle East and addiction both touch hearts - 
 <p>Experts said the union’s new contracts could set precedents that give labor advantages when bargaining contracts and organizing workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Apple-Picking Apocalypse of Upstate New York</h3>
-<sub>By Elizabeth G. Dunn</sub>
-<p>Eight straight weekends of rain have pushed the pick-your-own orchards toward financial disaster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Past Lies About War in the Middle East are Getting in the Way of the Truth Today</h3>
-<sub>By Zeynep Tufekci</sub>
-<p>Many cannot forget the false or exaggerated claims that led to the Iraq war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Matthew Perry and the Loneliness of Addiction</h3>
-<sub>By Patti Davis</sub>
-<p>He was a brilliant performer, but his honesty will be his greatest legacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Many People Behind ‘The Woman in Me’</h3>
+<sub>By Jacob Bernstein</sub>
+<p>Three authors helped Britney Spears get her life story on the page.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
