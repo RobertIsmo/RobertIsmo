@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-It looks like the world is going through a quite turbulent time. The Middle East is seeing a major conflict between Hamas and Israel, escalating into what might become a regional war, which could have huge economic consequences. There have been devastating airstrikes in Gazan neighborhoods leading to death and despair. Political tensions between the GOP and Democrats in the US are running high, especially when it comes to Israel strikes, with antisemitism incidents springing up at progressive protests. Bobby Knight, a basketball coach known for his trophies and tantrums, just passed away. In China, male leaders are signaling that women should take on more traditional roles. Lastly, there has been some legal activity related to former President Trump, as a judge recently ruled that his 14th amendment disqualification trial can continue and that there will likely be some delays before they begin proceedings for Trump documents trial.</p>
+It looks like the global economy is facing another period of significant risk, with a potential for wider conflict escalating in the Middle East between Israel and Hamas. In areas affected by airstrikes, such as Gaza, there&#39;s been a lot of death and despair as a result. Protests have broken out over this conflict and have been seen as part of an ideological battle for certain parts of America&#39;s college campuses. The controversial basketball coach Bobby Knight recently passed away at the age of 83, after leading Indiana University to national success while having some reported incidents of rage towards players and referees. In the U.S., Congress attempted to censure Rep. Rashida Tlaib after her criticism of Israel but was blocked by House members. Also in the U.S., there was a push to kick one New York congressman out office after allegations surfaced but unfortunately failed due to lack of support from some members on both sides of the aisle. Additionally, former President Trump has had a few legal issues recently in terms of First Amendment challenges and delays regarding his document trial, along with Donald Trump Jr.&#39;s testimony in a fraud case against him. To top geopolitical news off, China’s male leaders have tried to reenforce gender roles by pushing women back home at a time when they also face an ongoing demographic crisis and slowing economy. It’s no surprise that the Federal Reserve recently held their rates steady and expressed willingness to raise them again in the future if needed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Risk of a Wider Middle East War Threatens a ‘Fragile’ World Economy</h3>
@@ -72,12 +72,6 @@ It looks like the world is going through a quite turbulent time. The Middle East
 <h3>In Gazan Neighborhood Hit by Airstrikes, Death and Despair Reign</h3>
 <sub>By Karen Zraick and Hiba Yazbek</sub>
 <p>On Wednesday, the devastated neighborhood, where local officials say dozens were killed and hundreds were wounded in a Tuesday attack, was hit again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Battle Over Aid to Israel</h3>
-<sub>By Lulu Garcia-Navarro, Ian Stewart, Allison Benedikt, Jessica Metzger and Dan Powell</sub>
-<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +127,12 @@ It looks like the world is going through a quite turbulent time. The Middle East
 <sub>By Alexandra Stevenson</sub>
 <p>The Communist Party’s solution to the country’s demographic crisis and a slowing economy is to push women back into traditional roles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Holds Rates Steady and Pledges to Proceed Carefully</h3>
+<sub>By Jeanna Smialek</sub>
+<p>The Federal Reserve left interest rates at 5.25 to 5.5 percent, but its chair, Jerome Powell, said policymakers could still raise rates again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
