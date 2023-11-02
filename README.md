@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-It looks like the global economy is facing another period of significant risk, with a potential for wider conflict escalating in the Middle East between Israel and Hamas. In areas affected by airstrikes, such as Gaza, there&#39;s been a lot of death and despair as a result. Protests have broken out over this conflict and have been seen as part of an ideological battle for certain parts of America&#39;s college campuses. The controversial basketball coach Bobby Knight recently passed away at the age of 83, after leading Indiana University to national success while having some reported incidents of rage towards players and referees. In the U.S., Congress attempted to censure Rep. Rashida Tlaib after her criticism of Israel but was blocked by House members. Also in the U.S., there was a push to kick one New York congressman out office after allegations surfaced but unfortunately failed due to lack of support from some members on both sides of the aisle. Additionally, former President Trump has had a few legal issues recently in terms of First Amendment challenges and delays regarding his document trial, along with Donald Trump Jr.&#39;s testimony in a fraud case against him. To top geopolitical news off, China’s male leaders have tried to reenforce gender roles by pushing women back home at a time when they also face an ongoing demographic crisis and slowing economy. It’s no surprise that the Federal Reserve recently held their rates steady and expressed willingness to raise them again in the future if needed.</p>
+There are a lot of tough issues around the world right now that have people worried and anxious. Right now, there is a risk that the fighting between Hamas and Israel in the Middle East could become a regional conflict, which would cause further economic instability after all that&#39;s already been caused by the pandemic and Russia&#39;s invasion of Ukraine. In addition to this, people are concerned about how images from past conflicts are being recycled in the media and used to misrepresent the true toll of current conflicts. There are also cultural dynamics coming into play in China where male leaders are signaling to women that their place should be in the home, while Richie nations like America are cutting back on aid for climate shocks even though risks around climate change continue to grow. Additionally, there are issues with mental health treatment as well as laws in America that aren&#39;t doing enough to prevent mass shootings. It&#39;s a lot to think about!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Risk of a Wider Middle East War Threatens a ‘Fragile’ World Economy</h3>
@@ -68,29 +68,23 @@ It looks like the global economy is facing another period of significant risk, w
 <p>After shocks from the pandemic and Russia’s invasion of Ukraine, there’s little cushion if the fighting between Hamas and Israel becomes a regional conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Gazan Neighborhood Hit by Airstrikes, Death and Despair Reign</h3>
-<sub>By Karen Zraick and Hiba Yazbek</sub>
-<p>On Wednesday, the devastated neighborhood, where local officials say dozens were killed and hundreds were wounded in a Tuesday attack, was hit again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Israel-Gaza War, Recycled Images From Past Conflicts Can Undercut True Toll</h3>
+<sub>By Angelo Fichera</sub>
+<p>Videos and photos of the conflict are competing with misappropriated depictions of unrelated tragedies, a cycle that experts say diminishes the experiences of victims past and present.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>An ‘Israel Explainer’ Makes Her Country’s Case in America</h3>
+<sub>By Katherine Rosman</sub>
+<p>Once a celebrated actress in Israel, Noa Tishby has emerged as a leading pro-Israel voice on U.S. TV, on social media and in print.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Protests Against Israel Strikes, G.O.P. Sees ‘Woke Agenda’ at Colleges</h3>
-<sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
-<p>As the Mideast war escalates, the party’s politicians and activists are casting antisemitic incidents and progressive protests as part of a larger cultural battle over education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-sports-blue" alt="">
-<h3>Bobby Knight, Basketball Coach Known for Trophies and Tantrums, Dies at 83</h3>
-<sub>By Bruce Weber</sub>
-<p>Knight raised Indiana to the national top tier while upholding academic standards, but he was notorious for the rage he directed at players and referees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Coach Bobby Knight on Why He’s So Unpleasant</h3>
-<sub>Interview by Andrew Goldman</sub>
-<p>The college basketball coach with 902 victories says that the worst word in the English language is “hope.”  <a href="https://nyti.ms/YC7wg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, March 1, Central Standard Time</sub></sub>
+<h3>Progressive Freshmen Toil to Find Their Footing in a Hard-Right House</h3>
+<sub>By Robert Jimison</sub>
+<p>Stymied on legislation and far from the ideological base of power in the Republican-led House, Representative Becca Balint of Vermont and her fellow liberal freshmen look to one another for support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Blocks Censure of Tlaib on Charge of Antisemitism</h3>
@@ -104,35 +98,41 @@ It looks like the global economy is facing another period of significant risk, w
 <p>A group of New York Republicans, eager to distance themselves from their embattled colleague, failed in their push to remove him from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump 14th Amendment Disqualification Trial Can Continue, Judge Rules</h3>
-<sub>By Maggie Astor</sub>
-<p>Former President Donald J. Trump’s team had argued that his words and actions leading up to the attack on the Capitol were protected by the First Amendment, and asked that the Colorado case be thrown out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Hints at a Delay in Trump Documents Trial</h3>
-<sub>By Alan Feuer</sub>
-<p>Responding to a request from the former president’s lawyers, Judge Aileen Cannon said she could make “reasonable adjustments” to the timetable for the trial, which is scheduled to start in May.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Jr. Denies Responsibility for Company Business Statements</h3>
-<sub>By Jonah E. Bromwich and Kate Christobek</sub>
-<p>The former president’s son began the Trump family’s parade to the witness stand in the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Male Leaders Signal to Women That Their Place Is in the Home</h3>
 <sub>By Alexandra Stevenson</sub>
 <p>The Communist Party’s solution to the country’s demographic crisis and a slowing economy is to push women back into traditional roles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Tangle of Rules to Protect America’s Water Is Falling Short</h3>
+<sub>By Dionne Searcey and Delger Erdenesanaa</sub>
+<p>The Times asked all 50 states how they police the use of valuable groundwater. Their answers reveal why the country is draining and damaging its aquifers so rapidly.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Wind Power, Key to Democrats’ Climate-Change Goals, Faces a Crisis</h3>
+<sub>By Patrick McGeehan</sub>
+<p>Instead of gathering momentum, the industry is confronting obstacles that could hinder its ability to realize the renewable resource’s promised benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Holds Rates Steady and Pledges to Proceed Carefully</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve left interest rates at 5.25 to 5.5 percent, but its chair, Jerome Powell, said policymakers could still raise rates again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>China Is Winning in Solar Power, but Its Coal Use Is Raising Alarms</h3>
+<sub>By Keith Bradsher and Lisa Friedman</sub>
+<p>China is building as much clean energy capacity over four years as it had promised to build in 10 years, but continues to add coal-fired power plants.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Rich Nations Cut Aid for Climate Shocks, Even as Risks Grow</h3>
+<sub>By Christopher Flavelle</sub>
+<p>Poor countries need far more money to adapt to climate change, according to a new United Nations report.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Signs Were All There. Why Did No One Stop the Maine Shooter?</h3>
+<sub>By Shaila Dewan, Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
+<p>Shortcomings in mental health treatment, weak laws and a reluctance to threaten personal liberties can derail even concerted attempts to thwart mass shootings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
