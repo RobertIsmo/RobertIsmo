@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, November 1, Central Standard Time</p>
+<p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest in the Middle East with fighting between Hamas and Israel, and it&#39;s threatening the world economy. Protests against Israel have cropped up in the United States from both progressives and conservatives. In the U.S., there is also a civil fraud case involving Donald Trump and his family members, and a related court case determining if President Trump was ineligible to hold office. Finally, legendary college basketball coach Bobby Knight passed away recently.</p>
+It looks like the world is going through a quite turbulent time. The Middle East is seeing a major conflict between Hamas and Israel, escalating into what might become a regional war, which could have huge economic consequences. There have been devastating airstrikes in Gazan neighborhoods leading to death and despair. Political tensions between the GOP and Democrats in the US are running high, especially when it comes to Israel strikes, with antisemitism incidents springing up at progressive protests. Bobby Knight, a basketball coach known for his trophies and tantrums, just passed away. In China, male leaders are signaling that women should take on more traditional roles. Lastly, there has been some legal activity related to former President Trump, as a judge recently ruled that his 14th amendment disqualification trial can continue and that there will likely be some delays before they begin proceedings for Trump documents trial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Risk of a Wider Middle East War Threatens a ‘Fragile’ World Economy</h3>
@@ -110,12 +110,6 @@ Right now, there is a lot of unrest in the Middle East with fighting between Ham
 <p>A group of New York Republicans, eager to distance themselves from their embattled colleague, failed in their push to remove him from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Does the World’s Largest Hedge Fund Really Make Its Money?</h3>
-<sub>By Rob Copeland</sub>
-<p>Ray Dalio’s investing tactics have always been a closely kept secret, even inside Bridgewater Associates. Several years ago, some of Wall Street’s biggest names set out to discover his edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump 14th Amendment Disqualification Trial Can Continue, Judge Rules</h3>
 <sub>By Maggie Astor</sub>
@@ -133,6 +127,12 @@ Right now, there is a lot of unrest in the Middle East with fighting between Ham
 <sub>By Jonah E. Bromwich and Kate Christobek</sub>
 <p>The former president’s son began the Trump family’s parade to the witness stand in the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>China’s Male Leaders Signal to Women That Their Place Is in the Home</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>The Communist Party’s solution to the country’s demographic crisis and a slowing economy is to push women back into traditional roles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
