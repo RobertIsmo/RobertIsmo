@@ -60,44 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the Middle East, there is an ongoing cycle of extremist violence that is pushing the West Bank to the brink. In America, powerful imagery from the Israel-Gaza war is being misappropriated, while progressive House freshmen struggle to find their footing in a hard-right House. Meanwhile in China, male leaders are pushing women back into traditional roles to respond to its demographic crisis and economic slowdown. 
-Environmental issues are also hitting close to home; States have been failing to protect valuable groundwater leading to damaging depletion levels, while wind energy is facing its own set of obstacles that could prevent it from reaching its full potential. Finally, we&#39;ve been hearing more about mass shootings lately, and we know that problems with mental health treatment and weak laws are contributing to this pandemic. The latest example is from Maine, where officials were warned months ago about the shooter&#39;s deteriorating mental state. Kenya’s running prowess has also been tarnished by doping scandals involving nearly 300 athletes since 2015.</p>
+Currently, there is a lot going on in the world! In the US, the government is pressing Israel for ceasefires so that aid can reach those in Gaza.  Elsewhere, there is a cycle of violence and extremism between Israeli settlers and Palestinians in the West Bank as well as increasing traditional gender roles in China. In Egypt, some evacuees from Gaza are finally feeling relief and gratitude after being allowed to leave.  In America, there are FBI raids of homes in cities such as New York with regards to mayoral fund-raising chief cases.  More broadly, there are issues arising with regards to protecting American water sources as well as Olympic hopefuls who are finding places to live and train. There was also a high profile criminal investigation into the death of Tyre Nichols in Memphis which led to charges against a former officer. Lastly, people are paying close attention to effects of high interest rates on the economy, as well as changes to federal banking regulations.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. to Press Israel for ‘Pauses’ in War Against Hamas</h3>
+<sub>By Michael D. Shear</sub>
+<p>Brief cessations of military operations would allow food, water and other aid to reach Gaza and help with hostage releases, officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Campaign of Extremist Violence Is Pushing the West Bank to the Brink</h3>
 <sub>By Jeffrey Gettleman, Rami Nazzal and Adam Sella</sub>
 <p>Israeli settlers and Palestinians have been locked in a cycle of bloodshed for decades. But extremist settler attacks could send the conflict out of control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An ‘Israel Explainer’ Makes Her Country’s Case in America</h3>
-<sub>By Katherine Rosman</sub>
-<p>Once a celebrated actress in Israel, Noa Tishby has emerged as a leading pro-Israel voice on U.S. TV, on social media and in print.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘In Egypt Now. Free!’ First Evacuees From Gaza Feel Relief and Gratitude</h3>
+<sub>By Vivian Yee and Emma Bubola</sub>
+<p>In Gaza, “you feel that human beings’ lives are so worthless,” said Ala Al Husseini, 61, an Austrian-Palestinian dual citizen who was allowed to leave on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Horrifying Images Are Real. But They’re Not From the Israel-Gaza War</h3>
-<sub>By Angelo Fichera</sub>
-<p>Videos and photos of the conflict are competing with misappropriated depictions of unrelated tragedies, a cycle that experts say diminishes the experiences of victims past and present.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Progressive Freshmen Toil to Find Their Footing in a Hard-Right House</h3>
-<sub>By Robert Jimison</sub>
-<p>Stymied on legislation and far from the ideological base of power in the Republican-led House, Representative Becca Balint of Vermont and her fellow liberal freshmen look to one another for support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Blocks Censure of Tlaib on Charge of Antisemitism</h3>
-<sub>By Robert Jimison</sub>
-<p>A solid bloc of Republicans joined Democrats in refusing to back a move to formally rebuke Representative Rashida Tlaib of Michigan, a far-left Democrat, for her harsh criticism of Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos to Keep Seat After House Votes Not to Expel Him</h3>
-<sub>By Michael Gold, Luke Broadwater and Grace Ashford</sub>
-<p>A group of New York Republicans, eager to distance themselves from their embattled colleague, failed in their push to remove him from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<h3>F.B.I. Raids Home of Eric Adams’s Fund-Raising Chief</h3>
+<sub>By William K. Rashbaum, Dana Rubinstein and Jeffery C. Mays</sub>
+<p>The raid of the home of Brianna Suggs, a consultant with close ties to the mayor, came as Mr. Adams canceled a series of meetings in Washington, D.C., on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>China’s Male Leaders Signal to Women That Their Place Is in the Home</h3>
@@ -111,28 +98,40 @@ Environmental issues are also hitting close to home; States have been failing to
 <p>The Times asked all 50 states how they police the use of valuable groundwater. Their answers reveal why the country is draining and damaging its aquifers so rapidly.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Wind Power, Key to Democrats’ Climate-Change Goals, Faces a Crisis</h3>
-<sub>By Patrick McGeehan</sub>
-<p>Instead of gathering momentum, the industry is confronting obstacles that could hinder its ability to realize the renewable resource’s promised benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Olympic Hopefuls Needed a Home. A Retirement Community Stepped Up.</h3>
+<sub>By Scott Cacciola</sub>
+<p>New Zealand’s curling team wanted to train with the “big boys” in Canada, and a group of enthusiastic seniors has provided housing, a cheering section and lots of advice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Former Memphis Officer Pleads Guilty to Federal Charges in Tyre Nichols’s Death</h3>
+<sub>By Emily Cochrane and Jessica Jaglois</sub>
+<p>The ex-officer pleaded guilty to two felony counts, becoming the first to admit culpability in the fatal beating of Mr. Nichols. As part of a plea deal, he is also expected to cooperate with a state murder prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Are Higher Rates Slowing the Economy? A Zoo Offers Clues.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists are surprised by how strong the economy remains with rates at a 22-year high. But there are some signs of slowing, if you know where to look.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Frustrated With New Rules, Bank Lobbyists Are Making Their Fight Public</h3>
+<sub>By Emily Flitter</sub>
+<p>Banking trade groups are using legal action and public campaigns to push back on rules they say go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bank of England Holds Rates Steady Amid Signs of Weakening Economy</h3>
+<sub>By Eshe Nelson</sub>
+<p>Britain’s central bank said that interest rates would need to remain high for an “extended” period, and that economic growth was expected to be flat over much of the next two years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Signs Were All There. Why Did No One Stop the Maine Shooter?</h3>
 <sub>By Shaila Dewan, Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
 <p>Shortcomings in mental health treatment, weak laws and a reluctance to threaten personal liberties can derail even concerted attempts to thwart mass shootings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Many Missed Warnings Before Maine’s Mass Shooting</h3>
-<sub>By Michael Barbaro, Eric Krupke, Olivia Natt, Summer Thomad, Rachelle Bonja, Liz O. Baylen, Dan Powell, Pat McCusker, Marion Lozano, Rowan Niemisto and Chris Wood</sub>
-<p>The police were warned about the deteriorating mental health of an Army reservist months before a deadly shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kenyan Runners Set the World’s Pace, Chased by a Doping Crisis</h3>
-<sub>By Jeré Longman</sub>
-<p>Nearly 300 athletes from Kenya have been punished for using banned substances since 2015, tarnishing the country’s image as a running powerhouse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
