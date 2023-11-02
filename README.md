@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension in the Middle East due to escalating conflict between Israel and Hamas. In the US, both Republicans and Democrats are pointing to anti-Israel protests as part of a larger cultural battle over education. Meanwhile, Europe&#39;s Jewish population is facing increased fears due to the recent conflict in the Middle East. 
-
-In Ukraine, President&#x2F;actor Volodymyr Zelensky is frustrated that his troops&#39; achievements in the war effort are being undervalued. Meanwhile, former President Donald Trump is facing a trial alleging he violated the 14th Amendment and his allies are planning to install lawyers who will advance a more radical agenda should he regain the white house. 
-
-On the business side, offshore wind firms are canceling projects and the Federal Reserve has chosen to keep interest rates steady for now but could possibly be changed in the near future. Lastly, a report has been released about one of Wall Street’s biggest names that goes into detail about their investing tactics.</p>
+There is a lot of news happening internationally right now. In the Gaza Strip, airstrikes have caused death and immense suffering to local residents. In Iran, there is a dilemma related to its long-standing vow to destroy Israel. Protests are erupting in the US, both in support of and opposition to violent strikes against Israel. In sports news, legendary basketball coach Bobby Knight has died. He was renowned for his championships and also for his temperamental outbursts. Offshore wind projects in New Jersey have been canceled due to financial constraints, while controversy continues around former President Trump&#39;s potential 14th Amendment disqualification trial. A judge has hinted at delaying the trial scheduled for May, allowing more time for documents to be reviewed.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Found Even Modest Israel-Palestinian Peace Steps Impossible</h3>
-<sub>By Michael Crowley</sub>
-<p>A president focused on China and Ukraine had little time or inclination for a distant goal that stymied several of his predecessors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Gazan Neighborhood Hit by Airstrikes, Death and Despair Reign</h3>
+<sub>By Karen Zraick and Hiba Yazbek</sub>
+<p>On Wednesday, the devastated neighborhood, where local officials say dozens were killed and hundreds were wounded in a Tuesday attack, was hit again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Europe’s Jews, a World of Fear</h3>
-<sub>By Roger Cohen</sub>
-<p>The Oct. 7 Hamas assault on Israel and a surge in acts of antisemitism have awakened a repressed horror in Jewish populations across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Battle Over Aid to Israel</h3>
+<sub>By Lulu Garcia-Navarro, Ian Stewart, Allison Benedikt, Jessica Metzger and Dan Powell</sub>
+<p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Years of Vowing to Destroy Israel, Iran Faces a Dilemma</h3>
@@ -85,16 +81,22 @@ On the business side, offshore wind firms are canceling projects and the Federal
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pointing to Anti-Israel Protests, Republicans See ‘Woke Agenda’ at Colleges</h3>
+<h3>In Protests Against Israel Strikes, G.O.P. Sees ‘Woke Agenda’ at Colleges</h3>
 <sub>By Lisa Lerer and Rebecca Davis O’Brien</sub>
 <p>As the Mideast war escalates, the party’s politicians and activists are casting antisemitic incidents and progressive protests as part of a larger cultural battle over education.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Holds Rates Steady and Pledges to Proceed Carefully</h3>
-<sub>By Jeanna Smialek</sub>
-<p>The Federal Reserve left interest rates at 5.25 to 5.5 percent, but its chair, Jerome Powell, said policymakers could still raise rates again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Bobby Knight, Basketball Coach Known for Trophies and Tantrums, Dies at 83</h3>
+<sub>By Bruce Weber</sub>
+<p>Knight raised Indiana to the national top tier while upholding academic standards, but he was notorious for the rage he directed at players and referees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Coach Bobby Knight on Why He’s So Unpleasant</h3>
+<sub>Interview by Andrew Goldman</sub>
+<p>The college basketball coach with 902 victories says that the worst word in the English language is “hope.”  <a href="https://nyti.ms/YC7wg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Offshore Wind Firm Cancels N.J. Projects, as Industry’s Prospects Dim</h3>
@@ -102,16 +104,22 @@ On the business side, offshore wind firms are canceling projects and the Federal
 <p>Denmark’s Orsted said it would be forced to write off as much as $5.6 billion as wind developers in the U.S. faced wrenching financing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Blocks Censure of Tlaib on Charge of Antisemitism</h3>
+<sub>By Robert Jimison</sub>
+<p>A solid bloc of Republicans joined Democrats in refusing to back a move to formally rebuke Representative Rashida Tlaib of Michigan, a far-left Democrat, for her harsh criticism of Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos to Keep Seat After House Votes Not to Expel Him</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>A group of New York Republicans, eager to distance themselves from their embattled colleague, failed in their push to remove him from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Does the World’s Largest Hedge Fund Really Make Its Money?</h3>
 <sub>By Rob Copeland</sub>
 <p>Ray Dalio’s investing tactics have always been a closely kept secret, even inside Bridgewater Associates. Several years ago, some of Wall Street’s biggest names set out to discover his edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Five Minutes That Will Make You Love Thelonious Monk</h3>
-<sub>By Marcus J. Moore</sub>
-<p>We asked Jon Batiste, Arooj Aftab, Mary Halvorson and others to share their favorites.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -121,21 +129,9 @@ On the business side, offshore wind firms are canceling projects and the Federal
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>If Trump Wins, His Allies Want Lawyers Who Will Bless a More Radical Agenda</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>Politically appointed lawyers sometimes frustrated Donald J. Trump’s ambitions. His allies are planning to install more aggressive legal gatekeepers if he regains the White House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Some Ukrainians Helped the Russians. Their Neighbors Sought Revenge.</h3>
-<sub>By James Verini and Paolo Pellegrin</sub>
-<p>For people in Bilozerka, the invasion began a cat-and-mouse game of collaboration and resistance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Frustrated Zelensky Says Ukraine’s War Effort Is Being Underestimated</h3>
-<sub>By Constant Méheut</sub>
-<p>As U.S. officials warned senators against halting military aid, President Volodymyr Zelensky said his troops’ achievements were “perceived as a given.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Judge Hints at a Delay in Trump Documents Trial</h3>
+<sub>By Alan Feuer</sub>
+<p>Responding to a request from the former president’s lawyers, Judge Aileen Cannon said she could make “reasonable adjustments” to the timetable for the trial, which is scheduled to start in May.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
