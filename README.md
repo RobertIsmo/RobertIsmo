@@ -60,25 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-There are a lot of tough issues around the world right now that have people worried and anxious. Right now, there is a risk that the fighting between Hamas and Israel in the Middle East could become a regional conflict, which would cause further economic instability after all that&#39;s already been caused by the pandemic and Russia&#39;s invasion of Ukraine. In addition to this, people are concerned about how images from past conflicts are being recycled in the media and used to misrepresent the true toll of current conflicts. There are also cultural dynamics coming into play in China where male leaders are signaling to women that their place should be in the home, while Richie nations like America are cutting back on aid for climate shocks even though risks around climate change continue to grow. Additionally, there are issues with mental health treatment as well as laws in America that aren&#39;t doing enough to prevent mass shootings. It&#39;s a lot to think about!</p>
+There is a lot happening in the world right now. In the Middle East, there is an ongoing cycle of extremist violence that is pushing the West Bank to the brink. In America, powerful imagery from the Israel-Gaza war is being misappropriated, while progressive House freshmen struggle to find their footing in a hard-right House. Meanwhile in China, male leaders are pushing women back into traditional roles to respond to its demographic crisis and economic slowdown. 
+Environmental issues are also hitting close to home; States have been failing to protect valuable groundwater leading to damaging depletion levels, while wind energy is facing its own set of obstacles that could prevent it from reaching its full potential. Finally, we&#39;ve been hearing more about mass shootings lately, and we know that problems with mental health treatment and weak laws are contributing to this pandemic. The latest example is from Maine, where officials were warned months ago about the shooter&#39;s deteriorating mental state. Kenya’s running prowess has also been tarnished by doping scandals involving nearly 300 athletes since 2015.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Risk of a Wider Middle East War Threatens a ‘Fragile’ World Economy</h3>
-<sub>By Patricia Cohen</sub>
-<p>After shocks from the pandemic and Russia’s invasion of Ukraine, there’s little cushion if the fighting between Hamas and Israel becomes a regional conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Israel-Gaza War, Recycled Images From Past Conflicts Can Undercut True Toll</h3>
-<sub>By Angelo Fichera</sub>
-<p>Videos and photos of the conflict are competing with misappropriated depictions of unrelated tragedies, a cycle that experts say diminishes the experiences of victims past and present.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Campaign of Extremist Violence Is Pushing the West Bank to the Brink</h3>
+<sub>By Jeffrey Gettleman, Rami Nazzal and Adam Sella</sub>
+<p>Israeli settlers and Palestinians have been locked in a cycle of bloodshed for decades. But extremist settler attacks could send the conflict out of control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>An ‘Israel Explainer’ Makes Her Country’s Case in America</h3>
 <sub>By Katherine Rosman</sub>
 <p>Once a celebrated actress in Israel, Noa Tishby has emerged as a leading pro-Israel voice on U.S. TV, on social media and in print.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Horrifying Images Are Real. But They’re Not From the Israel-Gaza War</h3>
+<sub>By Angelo Fichera</sub>
+<p>Videos and photos of the conflict are competing with misappropriated depictions of unrelated tragedies, a cycle that experts say diminishes the experiences of victims past and present.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Progressive Freshmen Toil to Find Their Footing in a Hard-Right House</h3>
@@ -116,22 +117,22 @@ There are a lot of tough issues around the world right now that have people worr
 <p>Instead of gathering momentum, the industry is confronting obstacles that could hinder its ability to realize the renewable resource’s promised benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Winning in Solar Power, but Its Coal Use Is Raising Alarms</h3>
-<sub>By Keith Bradsher and Lisa Friedman</sub>
-<p>China is building as much clean energy capacity over four years as it had promised to build in 10 years, but continues to add coal-fired power plants.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Rich Nations Cut Aid for Climate Shocks, Even as Risks Grow</h3>
-<sub>By Christopher Flavelle</sub>
-<p>Poor countries need far more money to adapt to climate change, according to a new United Nations report.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Signs Were All There. Why Did No One Stop the Maine Shooter?</h3>
 <sub>By Shaila Dewan, Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
 <p>Shortcomings in mental health treatment, weak laws and a reluctance to threaten personal liberties can derail even concerted attempts to thwart mass shootings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Many Missed Warnings Before Maine’s Mass Shooting</h3>
+<sub>By Michael Barbaro, Eric Krupke, Olivia Natt, Summer Thomad, Rachelle Bonja, Liz O. Baylen, Dan Powell, Pat McCusker, Marion Lozano, Rowan Niemisto and Chris Wood</sub>
+<p>The police were warned about the deteriorating mental health of an Army reservist months before a deadly shooting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kenyan Runners Set the World’s Pace, Chased by a Doping Crisis</h3>
+<sub>By Jeré Longman</sub>
+<p>Nearly 300 athletes from Kenya have been punished for using banned substances since 2015, tarnishing the country’s image as a running powerhouse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
