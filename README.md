@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 1, Central Standard Time</p>
 <p>
-There is a lot of news happening internationally right now. In the Gaza Strip, airstrikes have caused death and immense suffering to local residents. In Iran, there is a dilemma related to its long-standing vow to destroy Israel. Protests are erupting in the US, both in support of and opposition to violent strikes against Israel. In sports news, legendary basketball coach Bobby Knight has died. He was renowned for his championships and also for his temperamental outbursts. Offshore wind projects in New Jersey have been canceled due to financial constraints, while controversy continues around former President Trump&#39;s potential 14th Amendment disqualification trial. A judge has hinted at delaying the trial scheduled for May, allowing more time for documents to be reviewed.</p>
+Right now, there is a lot of unrest in the Middle East with fighting between Hamas and Israel, and it&#39;s threatening the world economy. Protests against Israel have cropped up in the United States from both progressives and conservatives. In the U.S., there is also a civil fraud case involving Donald Trump and his family members, and a related court case determining if President Trump was ineligible to hold office. Finally, legendary college basketball coach Bobby Knight passed away recently.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Risk of a Wider Middle East War Threatens a ‘Fragile’ World Economy</h3>
+<sub>By Patricia Cohen</sub>
+<p>After shocks from the pandemic and Russia’s invasion of Ukraine, there’s little cushion if the fighting between Hamas and Israel becomes a regional conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Gazan Neighborhood Hit by Airstrikes, Death and Despair Reign</h3>
 <sub>By Karen Zraick and Hiba Yazbek</sub>
@@ -72,12 +78,6 @@ There is a lot of news happening internationally right now. In the Gaza Strip, a
 <h3>The Battle Over Aid to Israel</h3>
 <sub>By Lulu Garcia-Navarro, Ian Stewart, Allison Benedikt, Jessica Metzger and Dan Powell</sub>
 <p>The latest from the Israel-Hamas war. Weekday afternoons with Lulu Garcia-Navarro and Times journalists on the ground.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Years of Vowing to Destroy Israel, Iran Faces a Dilemma</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>With Israel bent on crushing Iran’s ally Hamas, Tehran must decide whether it and the proxy militias it arms and trains will live up to its fiery rhetoric.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,12 +98,6 @@ There is a lot of news happening internationally right now. In the Gaza Strip, a
 <p>The college basketball coach with 902 victories says that the worst word in the English language is “hope.”  <a href="https://nyti.ms/YC7wg3"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, March 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Offshore Wind Firm Cancels N.J. Projects, as Industry’s Prospects Dim</h3>
-<sub>By Stanley Reed and Tracey Tully</sub>
-<p>Denmark’s Orsted said it would be forced to write off as much as $5.6 billion as wind developers in the U.S. faced wrenching financing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Blocks Censure of Tlaib on Charge of Antisemitism</h3>
 <sub>By Robert Jimison</sub>
@@ -112,7 +106,7 @@ There is a lot of news happening internationally right now. In the Gaza Strip, a
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>George Santos to Keep Seat After House Votes Not to Expel Him</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
+<sub>By Michael Gold, Luke Broadwater and Grace Ashford</sub>
 <p>A group of New York Republicans, eager to distance themselves from their embattled colleague, failed in their push to remove him from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
@@ -132,6 +126,12 @@ There is a lot of news happening internationally right now. In the Gaza Strip, a
 <h3>Judge Hints at a Delay in Trump Documents Trial</h3>
 <sub>By Alan Feuer</sub>
 <p>Responding to a request from the former president’s lawyers, Judge Aileen Cannon said she could make “reasonable adjustments” to the timetable for the trial, which is scheduled to start in May.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Jr. Denies Responsibility for Company Business Statements</h3>
+<sub>By Jonah E. Bromwich and Kate Christobek</sub>
+<p>The former president’s son began the Trump family’s parade to the witness stand in the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
