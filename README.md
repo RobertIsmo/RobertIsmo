@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 3, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week! In the Middle East, Russia, China, and Iran are supporting Hamas in a &quot;worldwide war of words&quot;. On the business front, Jews are viewing Fox News differently because the network is offering unwavering support for Israel in its fight against Hamas. In terms of world news, Hezbollah&#39;s leader made a high-stakes speech but failed to call for an expansion of the war. On the market side, stocks rallied while bonds reversed following several data reports and policymaker decisions. Meanwhile, many younger seniors are retiring in Florida to take advantage of a community where the average age is 79, despite some opting to be closer to their families when they retire. Natural disasters have been in focus too—a wildfire tore through Hawaii&#39;s royal capital with deadly results, while Ohio is battling over how to teach reading in schools. Finally, budget cuts are threatening the future of humanities departments across the US.</p>
+There is a lot happening in the world right now. In terms of politics, Russia, China, and Iran are supporting the Palestinian group Hamas in a worldwide war of words. On the business front, Fox News has been getting positive reviews from Jewish viewers for its unflinching support of Israel in its fight against Hamas. With markets, job growth slowed and policymakers have had to reassess their expectations of interest rates and the economy. In exciting news, there are many seniors who are choosing to retire down south in Florida. Lastly, there has been some controversy surrounding Eric Adams, mayor of New York City as the FBI raided one of his aides&#39;s home over possible corruption questions. Meanwhile, in science and tech development, GM&#39;s Cruise self-driving cars have been facing scrutiny around the company&#39;s response to regulators and CEO&#39;s expansion plans.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>In a Worldwide War of Words, Russia, China and Iran Back Hamas</h3>
@@ -81,9 +81,15 @@ It&#39;s been a busy news week! In the Middle East, Russia, China, and Iran are 
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Huge Reversal in Bonds and Rally in Stocks Cap Wild Week for Markets</h3>
+<h3>Swift Reversal in Bonds and Rally in Stocks Cap Wild Week for Markets</h3>
 <sub>By Joe Rennison</sub>
 <p>A series of data reports and actions by policymakers have led investors to reassess their assumptions about interest rates and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Job Growth Slows, Sowing a Mix of Concern and Calm</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>U.S. employers added 150,000 workers in October, falling short of expectations, but the labor market retains spark nearly three years into a recovery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -104,10 +110,16 @@ It&#39;s been a busy news week! In the Middle East, Russia, China, and Iran are 
 <p>The Times used video evidence, data and interviews to reconstruct the wildfire that raged through what was once Hawaii’s royal capital.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Lawyers Attack Judge’s Clerk, Creating ‘Sideshow’ as Son Testifies</h3>
+<sub>By Jonah E. Bromwich and Kate Christobek</sub>
+<p>The law clerk, a Democrat, has irritated the former president as she communicates with the judge overseeing his civil fraud trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Cruise Grew Fast and Angered Regulators. Now It’s Dealing With the Fallout.</h3>
+<h3>G.M.’s Cruise Moved Fast in the Driverless Race. It Got Ugly.</h3>
 <sub>By Tripp Mickle, Cade Metz and Yiwen Lu</sub>
-<p>The company, a General Motors subsidiary, has hired a law firm to investigate how it responded to regulators, as its cars sit idle and questions grow about its C.E.O.’s expansion plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Cruise has hired a law firm to investigate how it responded to regulators, as its cars sit idle and questions grow about its C.E.O.’s expansion plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -117,21 +129,9 @@ It&#39;s been a busy news week! In the Middle East, Russia, China, and Iran are 
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>To Wear the Sudoku Crown, One Must Solve Any Number of Puzzles</h3>
+<h3>What it Takes to Wear the Sudoku Crown</h3>
 <sub>By Siobhan Roberts and Chloë Ellingson</sub>
-<p>Also helpful: pens, pencils, earplugs, plushies, a water bottle, calming herbal oil and the occasional “wild bifurcation” (a.k.a. a wild guess).  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Lawsuit Punches Back in Battle Over How to Teach Reading</h3>
-<sub>By Sarah Mervosh</sub>
-<p>A nonprofit group is trying to stop a new state law requiring “the science of reading,” underscoring how money and ideology influence the national debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can Humanities Survive the Budget Cuts?</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>After years of hand-wringing about their future, liberal arts departments now face the chopping block. At risk: French, German, American studies and women’s studies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Pens, pencils and a facility with numbers. Also helpful: earplugs, plushies, a water bottle, calming herbal oil and the occasional “wild bifurcation” (a.k.a. a wild guess).  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
