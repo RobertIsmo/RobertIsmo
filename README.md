@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 3, Central Standard Time</p>
 <p>
-A lot has been going on around the world. There&#39;s a scandal involving tech entrepreneur Sam Bankman-Fried who was found guilty of 7 counts of fraud and conspiracy, which has become a symbol of the volatile cryptocurrency industry. In America, the House recently passed an aid bill for Israel&#39;s war with Hamas but not for Ukraine. Over in Gaza, the situation is worse with many injured children entering hospitals and morgues overflowing with bodies. To make matters worse, the U.S. is flying drones over Gaza as part of a hostage recovery effort. Closer to home, Donald Trump Jr. and his brother Eric testified in a fraud trial accusing their family business of lying about their assets. On top of that, Trump is now asking for a federal appeals court to lift a gag order in an election case he&#39;s involved in. And finally, there are questions being raised about whether New York City mayoral candidate Eric Adams received illegal donations from Turkey in his campaign. Celebrations however did break out in Arlington, Texas as their hometown team won the World Series!</p>
+There&#39;s a lot going on in the world right now. In Gaza, there has been an increase in the number of severely injured children needing medical attention due to Israeli airstrikes. In the House, they recently passed an aid bill for Israel but not for Ukraine. In the cryptocurrency industry, the founder of a failed exchange was found guilty of 7 counts of fraud and conspiracy. There is also an investigation into whether US mayoral candidate Eric Adams received foreign money for his campaign. Finally, despite military conflict in Kyiv, there is a biennial art show happening across eight European cities about war, democracy and solidarity.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Is Found Guilty of 7 Counts of Fraud and Conspiracy</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>The case against the founder of the failed FTX exchange had come to symbolize the excesses of the volatile cryptocurrency industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried’s Wild Rise and Abrupt Crash</h3>
-<sub>By David Streitfeld</sub>
-<p>The crypto king gambled that his trading platform would make him a benevolent trillionaire. But after a fraud conviction, all bets are off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Silicon Valley Shrugs Off Sam Bankman-Fried’s Trial</h3>
-<sub>By Erin Griffith</sub>
-<p>Tech investors lauded Mr. Bankman-Fried and helped fund his FTX crypto exchange. The tech industry has since done what it does best: move on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Doctor in Gaza Describes ‘Horrific Scenes’ After Israeli Airstrikes</h3>
+<sub>By Hiba Yazbek and Karen Zraick</sub>
+<p>Gazans under bombardment say there is a surge of severely injured children entering hospitals, doctors operating without anesthesia and morgues overflowing with bodies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,29 +74,53 @@ A lot has been going on around the world. There&#39;s a scandal involving tech e
 <p>The Republican-led House approved $14.3 billion for Israel’s war with Hamas, tying the aid to spending cuts. The Senate plans to craft its own bill that will include aid for Ukraine and Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Doctor in Gaza Describes ‘Horrific Scenes’ After Israeli Airstrikes</h3>
-<sub>By Hiba Yazbek and Karen Zraick</sub>
-<p>Gazans under bombardment say there is a surge of severely injured children entering hospitals, doctors operating without anesthesia and morgues overflowing with bodies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>1948</h3>
+<sub>By Michael Barbaro, Will Reid, Rikki Novetsky, Rob Szypko, Paige Cowett, Lisa Chow, Elisheba Ittoop, Dan Powell, Marion Lozano, Sophia Lanman and Chris Wood</sub>
+<p>How the events of that fateful year shaped the Israeli-Palestinian conflict for decades to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried’s Wild Rise and Abrupt Crash</h3>
+<sub>By David Streitfeld</sub>
+<p>The crypto king gambled that his trading platform would make him a benevolent trillionaire. But after a fraud conviction, all bets are off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Drones Are Flying Over Gaza to Aid in Hostage Recovery, Officials Say</h3>
-<sub>By Riley Mellen and Eric Schmitt</sub>
-<p>The military has been sending weapons and advisers to Israel, but the flights suggest a more active American role.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Is Found Guilty of 7 Counts of Fraud and Conspiracy</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>The case against the founder of the failed FTX exchange had come to symbolize the excesses of the volatile cryptocurrency industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Sons Cast the Blame for Fraud on Their Company’s Accountants</h3>
-<sub></sub>
-<p>Donald Trump Jr. and his brother Eric Trump both testified in the  trial that accuses their family business of overvaluing its assets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<h3>Sam Bankman-Fried Was a Grown Up Criminal, Not an Impulsive Man-Child</h3>
+<sub>By Ginia Bellafante</sub>
+<p>Investors bought into the perception of the FTX founder as an unkempt boy genius. The jury didn’t buy it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Some are gloomy, but the overall economic picture remains bright.</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>The Youngest Senior</h3>
+<sub>By Debra Kamin</sub>
+<p>Moving to Florida for early retirement, a native New Jerseyan in her 50s is finding her third act to be the most fun in a community where the average age is 79.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Ready to Retire? Consider Your Family First.</h3>
+<sub>By Joanne Kaufman</sub>
+<p>Some older adults are skipping a sun-drenched post-work life and moving instead to the next step: choosing to live near children and grandchildren.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Federal Appeals Court to Lift Gag Order in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president argued that the order restricting what he can say about the case should not be in effect while he seeks to have it thrown out on appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<h3>The Deadly Maui Inferno, Hour by Hour</h3>
+<sub>By Mike Baker, Malika Khurana, K.K. Rebecca Lai, Riley Mellen, Natalie Reneau, Bedel Saget, Elena Shao, Anjali Singhvi and Charlie Smart</sub>
+<p>The Times used video evidence, data and interviews to reconstruct the wildfire that raged through what was once Hawaii’s royal capital.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Investigating Whether Adams Received Illegal Donations From Turkey</h3>
@@ -120,18 +132,6 @@ A lot has been going on around the world. There&#39;s a scandal involving tech e
 <h3>War Hasn’t Stopped the Kyiv Biennial. It’s Multiplied It.</h3>
 <sub>By Jason Farago</sub>
 <p>The contemporary art show has spread beyond Ukraine’s borders and is now an eight-city European festival about war, democracy and solidarity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senators Plot to Unblock Military Promotions as Tuberville Draws G.O.P. Ire</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Democrats were working to temporarily circumvent Senate rules to outmaneuver the Alabama Republican, and a group of senators in his own party signaled their patience had run out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Rangers Win, an Overlooked Texas City Grabs the Spotlight</h3>
-<sub>By Mary Beth Gahan and J. David Goodman</sub>
-<p>Arlington, which is wedged between Dallas and Fort Worth and overshadowed by both, is ready to celebrate the World Series victory of its hometown team.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
