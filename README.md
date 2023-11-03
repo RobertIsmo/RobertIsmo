@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 3, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Gaza, there has been an increase in the number of severely injured children needing medical attention due to Israeli airstrikes. In the House, they recently passed an aid bill for Israel but not for Ukraine. In the cryptocurrency industry, the founder of a failed exchange was found guilty of 7 counts of fraud and conspiracy. There is also an investigation into whether US mayoral candidate Eric Adams received foreign money for his campaign. Finally, despite military conflict in Kyiv, there is a biennial art show happening across eight European cities about war, democracy and solidarity.</p>
+The world is facing a lot of tension and conflict right now, including the worsening war in Gaza, Russia continuing to send drone barrages towards Ukraine, and the coronavirus causing economic challenges. In terms of business, economists are feeling cautiously optimistic about the economy despite higher interest rates. Meanwhile, more and more people are attempting to retire early and live close to family. Technology-wise, there have been some high-profile cases of crypto traders making big bets, experiencing a rapid rise and then crashing afterward. Finally, there have been corruption allegations coming up against New York mayor Eric Adams.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Some are gloomy, but the overall economic picture remains bright.</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Are Higher Rates Slowing the Economy? A Zoo Offers Clues.</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Economists are surprised by how strong the economy remains with rates at a 22-year high. But there are some signs of slowing, if you know where to look.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Gaza War Enters New Phase, Israel Faces Pressure Over Civilian Deaths</h3>
+<sub>By Mark Landler and Ronen Bergman</sub>
+<p>Fears are rising that the conflict could spread to the occupied West Bank, where tensions are soaring among Palestinians angered over deadly Israeli airstrikes in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Doctor in Gaza Describes ‘Horrific Scenes’ After Israeli Airstrikes</h3>
 <sub>By Hiba Yazbek and Karen Zraick</sub>
 <p>Gazans under bombardment say there is a surge of severely injured children entering hospitals, doctors operating without anesthesia and morgues overflowing with bodies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Passes Aid Bill for Israel but Not for Ukraine</h3>
-<sub>By Catie Edmondson</sub>
-<p>The Republican-led House approved $14.3 billion for Israel’s war with Hamas, tying the aid to spending cuts. The Senate plans to craft its own bill that will include aid for Ukraine and Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -86,27 +98,9 @@ There&#39;s a lot going on in the world right now. In Gaza, there has been an in
 <p>The crypto king gambled that his trading platform would make him a benevolent trillionaire. But after a fraud conviction, all bets are off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried Is Found Guilty of 7 Counts of Fraud and Conspiracy</h3>
-<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
-<p>The case against the founder of the failed FTX exchange had come to symbolize the excesses of the volatile cryptocurrency industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Sam Bankman-Fried Was a Grown Up Criminal, Not an Impulsive Man-Child</h3>
-<sub>By Ginia Bellafante</sub>
-<p>Investors bought into the perception of the FTX founder as an unkempt boy genius. The jury didn’t buy it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Some are gloomy, but the overall economic picture remains bright.</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>The Youngest Senior</h3>
-<sub>By Debra Kamin</sub>
+<sub>By Debra Kamin and Scott McIntyre</sub>
 <p>Moving to Florida for early retirement, a native New Jerseyan in her 50s is finding her third act to be the most fun in a community where the average age is 79.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
@@ -122,17 +116,23 @@ There&#39;s a lot going on in the world right now. In Gaza, there has been an in
 <p>The Times used video evidence, data and interviews to reconstruct the wildfire that raged through what was once Hawaii’s royal capital.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Investigating Whether Adams Received Illegal Donations From Turkey</h3>
-<sub>By William K. Rashbaum, Dana Rubinstein and Jeffery C. Mays</sub>
-<p>A raid at the home of Eric Adams’s chief fund-raiser was part of an inquiry into whether foreign money was funneled into his mayoral campaign, a search warrant shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Cruise Grew Fast and Angered Regulators. Now It’s Dealing With the Fallout.</h3>
+<sub>By Tripp Mickle, Cade Metz and Yiwen Lu</sub>
+<p>The company, a General Motors subsidiary, has hired a law firm to investigate how it responded to regulators, as its cars sit idle and questions grow about its C.E.O.’s expansion plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>War Hasn’t Stopped the Kyiv Biennial. It’s Multiplied It.</h3>
-<sub>By Jason Farago</sub>
-<p>The contemporary art show has spread beyond Ukraine’s borders and is now an eight-city European festival about war, democracy and solidarity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>F.B.I. Raid of Adams Ally Brings Corruption Question to Mayor’s Doorstep</h3>
+<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
+<p>Mayor Eric Adams has faced ethics issues for years. A raid of his chief fund-raiser’s home poses a serious threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Sends Biggest Drone Barrage in Weeks, Ukrainian Officials Say</h3>
+<sub>By Constant Méheut</sub>
+<p>Army officials and military analysts say it is part of a campaign to wear down and probe Ukrainian air defenses ahead of winter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
