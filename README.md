@@ -60,36 +60,66 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world! In the US, the government is pressing Israel for ceasefires so that aid can reach those in Gaza.  Elsewhere, there is a cycle of violence and extremism between Israeli settlers and Palestinians in the West Bank as well as increasing traditional gender roles in China. In Egypt, some evacuees from Gaza are finally feeling relief and gratitude after being allowed to leave.  In America, there are FBI raids of homes in cities such as New York with regards to mayoral fund-raising chief cases.  More broadly, there are issues arising with regards to protecting American water sources as well as Olympic hopefuls who are finding places to live and train. There was also a high profile criminal investigation into the death of Tyre Nichols in Memphis which led to charges against a former officer. Lastly, people are paying close attention to effects of high interest rates on the economy, as well as changes to federal banking regulations.</p>
+There is a lot going on around the world right now! Technology is really making an impact, with someone in Silicon Valley getting their trial wrapped up under the radar. Nationally, the U.S. House has just passed an aid bill for Israel but not for Ukraine yet, while in Gaza, a doctor is describing &quot;horrific scenes&quot; from Israeli airstrikes and the U.S. is now sending drones into Gaza to help with hostage recovery. Closer to home, Donald Trump&#39;s sons are being investigated for fraud while New York&#39;s mayoral candidate Eric Adams could have received illegal donations from Turkey. On the political side, senators are trying to unblock military promotions after a concerning move by an Alabama Republican and then there&#39;s Texas&#39; small city of Arlington grabbing some spotlight as it celebrates its hometown team&#39;s World Series victory. Ratings for that game were significantly lower this time around, and things with the environment aren&#39;t looking too great either - states across America are failing to protect our precious water resources from overuse and pollution. To top it all off, New Zealand&#39;s curling team was lucky enough to find a retirement community who was more than happy to offer housing, cheering, and plenty of advice during their training season in Canada!</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried’s Wild Rise and Abrupt Crash</h3>
+<sub>By David Streitfeld</sub>
+<p>The crypto king gambled that his trading platform would make him a benevolent trillionaire. But after a fraud conviction, all bets are off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley Shrugs Off Sam Bankman-Fried’s Trial</h3>
+<sub>By Erin Griffith</sub>
+<p>Tech investors lauded Mr. Bankman-Fried and helped fund his FTX crypto exchange. The tech industry has since done what it does best: move on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. to Press Israel for ‘Pauses’ in War Against Hamas</h3>
-<sub>By Michael D. Shear</sub>
-<p>Brief cessations of military operations would allow food, water and other aid to reach Gaza and help with hostage releases, officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>House Passes Aid Bill for Israel but Not for Ukraine</h3>
+<sub>By Catie Edmondson</sub>
+<p>The Republican-led House approved $14.3 billion  for Israel’s war with Hamas, tying the aid to spending cuts. The Senate plans to craft its own bill that will include aid for Ukraine and Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Campaign of Extremist Violence Is Pushing the West Bank to the Brink</h3>
-<sub>By Jeffrey Gettleman, Rami Nazzal and Adam Sella</sub>
-<p>Israeli settlers and Palestinians have been locked in a cycle of bloodshed for decades. But extremist settler attacks could send the conflict out of control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Doctor in Gaza Describes ‘Horrific Scenes’ After Israeli Airstrikes</h3>
+<sub>By Hiba Yazbek and Karen Zraick</sub>
+<p>Gazans under bombardment say there is a surge of severely injured children entering hospitals, doctors operating without anesthesia and morgues overflowing with bodies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘In Egypt Now. Free!’ First Evacuees From Gaza Feel Relief and Gratitude</h3>
-<sub>By Vivian Yee and Emma Bubola</sub>
-<p>In Gaza, “you feel that human beings’ lives are so worthless,” said Ala Al Husseini, 61, an Austrian-Palestinian dual citizen who was allowed to leave on Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Drones Are Flying Over Gaza to Aid in Hostage Recovery, Officials Say</h3>
+<sub>By Riley Mellen and Eric Schmitt</sub>
+<p>The military has been sending weapons and advisers to Israel, but the flights suggest a more active American role.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>F.B.I. Raids Home of Eric Adams’s Fund-Raising Chief</h3>
-<sub>By William K. Rashbaum, Dana Rubinstein and Jeffery C. Mays</sub>
-<p>The raid of the home of Brianna Suggs, a consultant with close ties to the mayor, came as Mr. Adams canceled a series of meetings in Washington, D.C., on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Sons Cast the Blame for Fraud on Their Company’s Accountants</h3>
+<sub></sub>
+<p>Donald Trump Jr. and his brother Eric Trump both testified in the  trial that accuses their family business of overvaluing its assets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>China’s Male Leaders Signal to Women That Their Place Is in the Home</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>The Communist Party’s solution to the country’s demographic crisis and a slowing economy is to push women back into traditional roles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Investigating Whether Adams Received Illegal Donations From Turkey</h3>
+<sub>By William K. Rashbaum, Dana Rubinstein and Jeffery C. Mays</sub>
+<p>A raid at the home of Eric Adams’s chief fund-raiser was part of an inquiry into whether foreign money was funneled into his mayoral campaign, a search warrant shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senators Plot to Unblock Military Promotions as Tuberville Draws G.O.P. Ire</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Democrats were working to temporarily circumvent Senate rules to outmaneuver the Alabama Republican, and a group of senators in his own party signaled their patience had run out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Rangers Win, an Overlooked Texas City Grabs the Spotlight</h3>
+<sub>By Mary Beth Gahan and J. David Goodman</sub>
+<p>Arlington, which is wedged between Dallas and Fort Worth and overshadowed by both, is ready to celebrate the World Series victory of its hometown team.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Rangers-Diamondbacks World Series Ratings Are Lowest Ever</h3>
+<sub>By John Koblin</sub>
+<p>The five games averaged 9.1 million viewers, down from the previous low of 9.8 million in 2020.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -102,36 +132,6 @@ Currently, there is a lot going on in the world! In the US, the government is pr
 <h3>Olympic Hopefuls Needed a Home. A Retirement Community Stepped Up.</h3>
 <sub>By Scott Cacciola</sub>
 <p>New Zealand’s curling team wanted to train with the “big boys” in Canada, and a group of enthusiastic seniors has provided housing, a cheering section and lots of advice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Memphis Officer Pleads Guilty to Federal Charges in Tyre Nichols’s Death</h3>
-<sub>By Emily Cochrane and Jessica Jaglois</sub>
-<p>The ex-officer pleaded guilty to two felony counts, becoming the first to admit culpability in the fatal beating of Mr. Nichols. As part of a plea deal, he is also expected to cooperate with a state murder prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Are Higher Rates Slowing the Economy? A Zoo Offers Clues.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists are surprised by how strong the economy remains with rates at a 22-year high. But there are some signs of slowing, if you know where to look.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Frustrated With New Rules, Bank Lobbyists Are Making Their Fight Public</h3>
-<sub>By Emily Flitter</sub>
-<p>Banking trade groups are using legal action and public campaigns to push back on rules they say go too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bank of England Holds Rates Steady Amid Signs of Weakening Economy</h3>
-<sub>By Eshe Nelson</sub>
-<p>Britain’s central bank said that interest rates would need to remain high for an “extended” period, and that economic growth was expected to be flat over much of the next two years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Signs Were All There. Why Did No One Stop the Maine Shooter?</h3>
-<sub>By Shaila Dewan, Nicholas Bogel-Burroughs and Chelsia Rose Marcius</sub>
-<p>Shortcomings in mental health treatment, weak laws and a reluctance to threaten personal liberties can derail even concerted attempts to thwart mass shootings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
