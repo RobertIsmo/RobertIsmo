@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 2, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now! Technology is really making an impact, with someone in Silicon Valley getting their trial wrapped up under the radar. Nationally, the U.S. House has just passed an aid bill for Israel but not for Ukraine yet, while in Gaza, a doctor is describing &quot;horrific scenes&quot; from Israeli airstrikes and the U.S. is now sending drones into Gaza to help with hostage recovery. Closer to home, Donald Trump&#39;s sons are being investigated for fraud while New York&#39;s mayoral candidate Eric Adams could have received illegal donations from Turkey. On the political side, senators are trying to unblock military promotions after a concerning move by an Alabama Republican and then there&#39;s Texas&#39; small city of Arlington grabbing some spotlight as it celebrates its hometown team&#39;s World Series victory. Ratings for that game were significantly lower this time around, and things with the environment aren&#39;t looking too great either - states across America are failing to protect our precious water resources from overuse and pollution. To top it all off, New Zealand&#39;s curling team was lucky enough to find a retirement community who was more than happy to offer housing, cheering, and plenty of advice during their training season in Canada!</p>
+Two major stories in the US have been the passage of an aid bill for Israel, and the investigation into New York mayor Eric Adams receiving illegal donations. In the world, a doctor in Gaza has reported horrific scenes following Israeli airstrikes, while US drones have been flying to help with hostage recovery. In technology news, Sam Bankman-Fried was recently found guilty of 7 counts of fraud and conspiracy regarding his failed crypto exchange. Meanwhile, the Texas Rangers baseball team won their first title, bringing joy to former fan George W. Bush.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Bankman-Fried Is Found Guilty of 7 Counts of Fraud and Conspiracy</h3>
+<sub>By David Yaffe-Bellany, Matthew Goldstein and J. Edward Moreno</sub>
+<p>The case against the founder of the failed FTX exchange had come to symbolize the excesses of the volatile cryptocurrency industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Sam Bankman-Fried’s Wild Rise and Abrupt Crash</h3>
 <sub>By David Streitfeld</sub>
@@ -77,7 +83,7 @@ There is a lot going on around the world right now! Technology is really making 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Passes Aid Bill for Israel but Not for Ukraine</h3>
 <sub>By Catie Edmondson</sub>
-<p>The Republican-led House approved $14.3 billion  for Israel’s war with Hamas, tying the aid to spending cuts. The Senate plans to craft its own bill that will include aid for Ukraine and Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Republican-led House approved $14.3 billion for Israel’s war with Hamas, tying the aid to spending cuts. The Senate plans to craft its own bill that will include aid for Ukraine and Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,6 +104,12 @@ There is a lot going on around the world right now! Technology is really making 
 <p>Donald Trump Jr. and his brother Eric Trump both testified in the  trial that accuses their family business of overvaluing its assets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Asks Federal Appeals Court to Lift Gag Order in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president argued that the order restricting what he can say about the case should not be in effect while he seeks to have it thrown out on appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Investigating Whether Adams Received Illegal Donations From Turkey</h3>
 <sub>By William K. Rashbaum, Dana Rubinstein and Jeffery C. Mays</sub>
@@ -116,22 +128,10 @@ There is a lot going on around the world right now! Technology is really making 
 <p>Arlington, which is wedged between Dallas and Fort Worth and overshadowed by both, is ready to celebrate the World Series victory of its hometown team.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Rangers-Diamondbacks World Series Ratings Are Lowest Ever</h3>
-<sub>By John Koblin</sub>
-<p>The five games averaged 9.1 million viewers, down from the previous low of 9.8 million in 2020.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Tangle of Rules to Protect America’s Water Is Falling Short</h3>
-<sub>By Dionne Searcey and Delger Erdenesanaa</sub>
-<p>The Times asked all 50 states how they police the use of valuable groundwater. Their answers reveal why the country is draining and damaging its aquifers so rapidly.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Olympic Hopefuls Needed a Home. A Retirement Community Stepped Up.</h3>
-<sub>By Scott Cacciola</sub>
-<p>New Zealand’s curling team wanted to train with the “big boys” in Canada, and a group of enthusiastic seniors has provided housing, a cheering section and lots of advice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A First Title for the Rangers, and a Thrill for the Former First Fan</h3>
+<sub>By Peter Baker</sub>
+<p>Ownership of the Texas Rangers helped propel George W. Bush’s political career, and decades later, a friend says, baseball remains “part of who he is.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
