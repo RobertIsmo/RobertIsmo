@@ -60,43 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 3, Central Standard Time</p>
 <p>
-The world is facing a lot of tension and conflict right now, including the worsening war in Gaza, Russia continuing to send drone barrages towards Ukraine, and the coronavirus causing economic challenges. In terms of business, economists are feeling cautiously optimistic about the economy despite higher interest rates. Meanwhile, more and more people are attempting to retire early and live close to family. Technology-wise, there have been some high-profile cases of crypto traders making big bets, experiencing a rapid rise and then crashing afterward. Finally, there have been corruption allegations coming up against New York mayor Eric Adams.</p>
+It&#39;s been a busy news week! In the Middle East, Russia, China, and Iran are supporting Hamas in a &quot;worldwide war of words&quot;. On the business front, Jews are viewing Fox News differently because the network is offering unwavering support for Israel in its fight against Hamas. In terms of world news, Hezbollah&#39;s leader made a high-stakes speech but failed to call for an expansion of the war. On the market side, stocks rallied while bonds reversed following several data reports and policymaker decisions. Meanwhile, many younger seniors are retiring in Florida to take advantage of a community where the average age is 79, despite some opting to be closer to their families when they retire. Natural disasters have been in focus too—a wildfire tore through Hawaii&#39;s royal capital with deadly results, while Ohio is battling over how to teach reading in schools. Finally, budget cuts are threatening the future of humanities departments across the US.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Some are gloomy, but the overall economic picture remains bright.</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Are Higher Rates Slowing the Economy? A Zoo Offers Clues.</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Economists are surprised by how strong the economy remains with rates at a 22-year high. But there are some signs of slowing, if you know where to look.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Gaza War Enters New Phase, Israel Faces Pressure Over Civilian Deaths</h3>
-<sub>By Mark Landler and Ronen Bergman</sub>
-<p>Fears are rising that the conflict could spread to the occupied West Bank, where tensions are soaring among Palestinians angered over deadly Israeli airstrikes in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Doctor in Gaza Describes ‘Horrific Scenes’ After Israeli Airstrikes</h3>
-<sub>By Hiba Yazbek and Karen Zraick</sub>
-<p>Gazans under bombardment say there is a surge of severely injured children entering hospitals, doctors operating without anesthesia and morgues overflowing with bodies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>1948</h3>
-<sub>By Michael Barbaro, Will Reid, Rikki Novetsky, Rob Szypko, Paige Cowett, Lisa Chow, Elisheba Ittoop, Dan Powell, Marion Lozano, Sophia Lanman and Chris Wood</sub>
-<p>How the events of that fateful year shaped the Israeli-Palestinian conflict for decades to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Bankman-Fried’s Wild Rise and Abrupt Crash</h3>
-<sub>By David Streitfeld</sub>
-<p>The crypto king gambled that his trading platform would make him a benevolent trillionaire. But after a fraud conviction, all bets are off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<h3>In a Worldwide War of Words, Russia, China and Iran Back Hamas</h3>
+<sub>By Steven Lee Myers and Sheera Frenkel</sub>
+<p>Officials and researchers say the deluge of online propaganda and disinformation is larger than anything seen before.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Jewish Viewers Find a Refuge in Fox News</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>The network’s unflinching support for Israel in its fight against Hamas has put the conservative network in the good graces of many Jews who see other coverage of Israel as biased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In High-Stakes Speech, Hezbollah’s Leader Stops Short of Call to Expand Hamas War</h3>
+<sub>By Ben Hubbard</sub>
+<p>In his first public comments since the war in Gaza began, Hassan Nasrallah said his powerful Lebanese militia had bogged down Israeli forces to help Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Huge Reversal in Bonds and Rally in Stocks Cap Wild Week for Markets</h3>
+<sub>By Joe Rennison</sub>
+<p>A series of data reports and actions by policymakers have led investors to reassess their assumptions about interest rates and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>The Youngest Senior</h3>
@@ -128,10 +116,22 @@ The world is facing a lot of tension and conflict right now, including the worse
 <p>Mayor Eric Adams has faced ethics issues for years. A raid of his chief fund-raiser’s home poses a serious threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Sends Biggest Drone Barrage in Weeks, Ukrainian Officials Say</h3>
-<sub>By Constant Méheut</sub>
-<p>Army officials and military analysts say it is part of a campaign to wear down and probe Ukrainian air defenses ahead of winter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>To Wear the Sudoku Crown, One Must Solve Any Number of Puzzles</h3>
+<sub>By Siobhan Roberts and Chloë Ellingson</sub>
+<p>Also helpful: pens, pencils, earplugs, plushies, a water bottle, calming herbal oil and the occasional “wild bifurcation” (a.k.a. a wild guess).  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ohio Lawsuit Punches Back in Battle Over How to Teach Reading</h3>
+<sub>By Sarah Mervosh</sub>
+<p>A nonprofit group is trying to stop a new state law requiring “the science of reading,” underscoring how money and ideology influence the national debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Can Humanities Survive the Budget Cuts?</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>After years of hand-wringing about their future, liberal arts departments now face the chopping block. At risk: French, German, American studies and women’s studies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
