@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, November 2, Central Standard Time</p>
+<p>It is Friday, November 3, Central Standard Time</p>
 <p>
-Two major stories in the US have been the passage of an aid bill for Israel, and the investigation into New York mayor Eric Adams receiving illegal donations. In the world, a doctor in Gaza has reported horrific scenes following Israeli airstrikes, while US drones have been flying to help with hostage recovery. In technology news, Sam Bankman-Fried was recently found guilty of 7 counts of fraud and conspiracy regarding his failed crypto exchange. Meanwhile, the Texas Rangers baseball team won their first title, bringing joy to former fan George W. Bush.</p>
+It looks like there&#39;s a lot going on around the world right now. In tech, we&#39;ve got Sam Bankman-Fried, the founder of the failed FTX exchange, who has been found guilty of seven counts of fraud and conspiracy. Meanwhile in politics, the House has approved $14.3 billion in aid for Israel, while in Ukraine and Gaza, US drones are flying to help with hostage recovery. Over in the Middle East, Gaza is facing horrific scenes after Israeli airstrikes. And closer to home, Donald Trump Jr. and his brother Eric have been testifying in their family business&#39; fraud trial. Plus, Trump has asked for federal appeals court to lift a gag order in an election case. Lastly, we&#39;ve got a super cool biennial art show taking place across Europe - all about war, democracy and solidarity!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Sam Bankman-Fried Is Found Guilty of 7 Counts of Fraud and Conspiracy</h3>
@@ -116,6 +116,12 @@ Two major stories in the US have been the passage of an aid bill for Israel, and
 <p>A raid at the home of Eric Adams’s chief fund-raiser was part of an inquiry into whether foreign money was funneled into his mayoral campaign, a search warrant shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>War Hasn’t Stopped the Kyiv Biennial. It’s Multiplied It.</h3>
+<sub>By Jason Farago</sub>
+<p>The contemporary art show has spread beyond Ukraine’s borders and is now an eight-city European festival about war, democracy and solidarity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senators Plot to Unblock Military Promotions as Tuberville Draws G.O.P. Ire</h3>
 <sub>By Karoun Demirjian</sub>
@@ -126,12 +132,6 @@ Two major stories in the US have been the passage of an aid bill for Israel, and
 <h3>With Rangers Win, an Overlooked Texas City Grabs the Spotlight</h3>
 <sub>By Mary Beth Gahan and J. David Goodman</sub>
 <p>Arlington, which is wedged between Dallas and Fort Worth and overshadowed by both, is ready to celebrate the World Series victory of its hometown team.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A First Title for the Rangers, and a Thrill for the Former First Fan</h3>
-<sub>By Peter Baker</sub>
-<p>Ownership of the Texas Rangers helped propel George W. Bush’s political career, and decades later, a friend says, baseball remains “part of who he is.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
