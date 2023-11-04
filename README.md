@@ -60,7 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 3, Central Standard Time</p>
 <p>
-An international war of words has broken out between Russia, China, and Iran who are backing Hamas. Stocks have had a wild week due to conflicting data reports and policies by policymakers. Some Jews are turning to Fox News for their coverage of the fight between Hamas and Israel as they feel other coverage is biased. Meanwhile, Hezbollah&#39;s leader Hassan Nasrallah made his first public comments since the war began, saying that his powerful Lebanese militia has bogged down Israeli forces to help Hamas. Stocks have recently rallied while clean energy stocks have declined even with warnings about climate change. In Scotland’s Shetland Islands, hundreds of knitters from around the world now gather every year for their wool festival. Wildfires and natural disasters have been causing destruction across the US with Hawaii’s royal capital burning down in what was one of the hottest events of the year. Former President Trump is facing gag orders in both election and defamation lawsuits while his lawyers are attacking the judge’s clerk in his civil fraud trial. He was also found making false or misleading statements at a rally about Biden’s electric Army tank mandates and auto industry job losses. Lastly, Joe Biden met with the families of those killed or injured during last month’s shooting rampage in Maine.</p>
+It looks like there is a lot happening around the world right now. In the Middle East, Russia, China and Iran are backing Hamas in a global conflict, while Israel is striking a densely packed Gaza neighborhood with 2,000-pound bombs. Meanwhile, U.S., and other foreign citizens have been unable to leave Gaza because of Hamas putting wounded fighters on departure lists. 
+On the business side, markets had a wild week with investors changing their assumptions about interest rates and the economy. Clean energy stocks have been declining while oil has been thriving despite climate change concerns. 
+In Europe, the annual festival of intricately crafted textiles of the Shetland Islands, located off Scotland’s coast, draws hundreds of knitters from around the word for all things wool. 
+Closer to home, Donald Trump got a temporary reversal of his gag order in an election case and his lawyers are attacking a judge&#39;s clerk in his civil fraud trial. Trump made misleading claims about energy and jobs at a rally and President Biden publicly mourned with Lewiston after their mass shooting. Finally, competitve sudoku champions must have an array of supplies including earplugs and plushies to win!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>In a Worldwide War of Words, Russia, China and Iran Back Hamas</h3>
@@ -68,16 +71,16 @@ An international war of words has broken out between Russia, China, and Iran who
 <p>Officials and researchers say the deluge of online propaganda and disinformation is larger than anything seen before.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Jewish Viewers Find a Refuge in Fox News</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>The network’s unflinching support for Israel in its fight against Hamas has put the conservative network in the good graces of many Jews who see other coverage of Israel as biased.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Used 2,000-Pound Bombs in Strike on Jabaliya, Analysis Shows</h3>
+<sub>By Christoph Koettl, Ainara Tiefenthäler, Haley Willis and Alexander Cardia</sub>
+<p>Impact craters from the Oct. 31 strike on the densely packed Gaza neighborhood are approximately 40 feet wide. Israel said it was aiming at underground Hamas targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In High-Stakes Speech, Hezbollah’s Leader Stops Short of Call to Expand Hamas War</h3>
-<sub>By Ben Hubbard</sub>
-<p>In his first public comments since the war in Gaza began, Hassan Nasrallah said his powerful Lebanese militia had bogged down Israeli forces to help Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hamas put wounded fighters on departure lists, delaying efforts to evacuate foreigners, a U.S. official says.</h3>
+<sub>By Michael D. Shear</sub>
+<p>People holding dual, U.S. or other foreign citizenship had been unable to cross the Gaza border into Egypt for weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -97,12 +100,6 @@ An international war of words has broken out between Russia, China, and Iran who
 <sub>By Megan Specia and Andrew Testa</sub>
 <p>The festival of the intricately crafted textiles of the Shetland Islands, a remote archipelago off Scotland’s coast, draws hundreds of knitters from around the world for all things wool.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Deadly Maui Inferno, Hour by Hour</h3>
-<sub>By Mike Baker, Malika Khurana, K.K. Rebecca Lai, Riley Mellen, Natalie Reneau, Bedel Saget, Elena Shao, Anjali Singhvi and Charlie Smart</sub>
-<p>The Times used video evidence, data and interviews to reconstruct the wildfire that raged through what was once Hawaii’s royal capital.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Temporarily Frees Trump From Gag Order in Election Case</h3>
@@ -132,6 +129,12 @@ An international war of words has broken out between Russia, China, and Iran who
 <h3>Biden Mourns With Lewiston After Mass Shooting: ‘You’re Not Alone’</h3>
 <sub>By Nicholas Bogel-Burroughs and Michael D. Shear</sub>
 <p>President Biden met with the families of those killed or injured during last month’s rampage in Maine, which killed 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What it Takes to Wear the Sudoku Crown</h3>
+<sub>By Siobhan Roberts and Chloë Ellingson</sub>
+<p>Pens, pencils and a facility with numbers. Also helpful: earplugs, plushies, a water bottle, calming herbal oil and the occasional “wild bifurcation” (a.k.a. a wild guess).  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
