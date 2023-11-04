@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. The Israel Defense Forces have recently used 2,000-pound bombs during a strike on a densely populated neighborhood of Gaza. In the US, Representative Rashida Tlaib has accused President Biden of supporting &#39;genocide&#39;. Meanwhile, in New York City, the FBI is investigating whether or not mayor Eric Adams had any involvement with fake donors. Additionally, some Louisianans are pushing their state Democratic party to confront internal divisions and inadequate donations. On top of that, Colorado Representative Lauren Boebert is facing increasing backlash from her own party, and elections in Kentucky, Ohio and Virginia may offer clues to how abortion will shape the 2024 elections. In New Jersey, Republicans are trying to cut into Democratic majorities within the state Legislature come Election Day. Additionally, Amazon’s drone project is delivering small objects, including cans of soup. Finally, there&#39;s also a defamation case against a former president and some new provisions for mothers preparing to take part in the NYC marathon.</p>
+There&#39;s a lot going on in the world right now. In Israel, a strike in a densely packed Gaza neighborhood used 2000-pound bombs, and US Congresswoman Rashida Tlaib is accusing Presidential candidate Joe Biden of supporting &#39;genocide.&#39; Meanwhile, the FBI is investigating whether NYC Mayor Eric Adams had fake donors during his campaign fundraising. In the US Congress, Rep. Lauren Boebert is facing criticism from her own party after making controversial comments. On immigration issues, Nikki Haley is trying to make tough promises but running into legal barriers. In Argentina, their far-right presidential candidate Javier Milei is dealing with angry Taylor Swift and BTS fans calling for his defeat. Finally, in Phoenix, the homeless crisis persists despite an order to dismantle one of their homeless encampments, while marathon runners in New York are being supported by new accommodations for things like lactation tents.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Used 2,000-Pound Bombs in Strike on Jabaliya, Analysis Shows</h3>
@@ -81,27 +81,21 @@ There is a lot going on in the world right now. The Israel Defense Forces have r
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Louisiana Democrats Lost Before a Ballot Was Cast</h3>
-<sub>By Emily Cochrane</sub>
-<p>Even before the Nov. 18 election, some liberals are pushing the state party to confront its internal divisions and paltry fund-raising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lauren Boebert Wants ‘Mercy.’ Some Republicans Want an Alternative.</h3>
 <sub>By Charles Homans and Rachel Woolf</sub>
 <p>The “Beetlejuice” incident continues to haunt the once-unrepentant congresswoman from Colorado. The state’s old guard is lining up behind a primary challenger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will Abortion Dominate the 2024 Elections? Tuesday Will Offer Clues.</h3>
-<sub>By Lisa Lerer and Shane Goldmacher</sub>
-<p>Elections in Kentucky, Ohio and Virginia will give an early preview of how abortion will shape the political landscape in 2024, and the effectiveness of both parties’ approaches.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Haley, Pledging to ‘Close’ the Border, Is Asked: What About Migrants Who Are Already Here?</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Tough promises on immigration from Nikki Haley and her rivals for the Republican nomination face logistical and legal barriers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Failed Wind Deal and Abortion Rights Loom Over Tight Races in New Jersey</h3>
-<sub>By Tracey Tully</sub>
-<p>Despite being outnumbered by nearly a million voters, Republicans hope to cut into Democratic majorities in the state Legislature on Election Day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Louisiana Democrats Lost Before a Ballot Was Cast</h3>
+<sub>By Emily Cochrane</sub>
+<p>Even before the Nov. 18 election, some liberals are pushing the state party to confront its internal divisions and paltry fund-raising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,22 +110,28 @@ There is a lot going on in the world right now. The Israel Defense Forces have r
 <p>She had dreams of a prestigious government career. Her family wanted an engagement she couldn’t refuse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Temporarily Frees Trump From Gag Order in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>A three-judge panel of the federal appeals court in Washington lifted the order for at least two weeks, freeing the former president to say what he wants about prosecutors and witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The New Enemies of Argentina’s Far Right: Swifties and the BTS Army</h3>
+<sub>By Natalie Alcoba</sub>
+<p>Javier Milei wants to be Argentina’s next president. But first he must get around legions of angry Taylor Swift and BTS fans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Jurors in Trump Defamation Trial to Go Unnamed for Their Own Protection</h3>
-<sub>By Benjamin Weiser</sub>
-<p>A federal judge overseeing the case filed by the writer E. Jean Carroll said that the former president had not abided by gag orders in other cases, and that could lead to harassment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Phoenix Encampment Is Gone, But the City’s Homeless Crisis Persists</h3>
+<sub>By Jack Healy</sub>
+<p>The city was under a court order to dismantle “the Zone,” a sprawling downtown homeless encampment, by Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How the New York City Marathon Is Supporting New Moms on Race Day</h3>
 <sub>By Talya Minsberg and Rosem Morton</sub>
 <p>Returning to competition after childbirth can be challenging, but new accommodations for runners, like lactation tents, can ease the transition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>To Train for One Marathon, He Runs 7 Every Week</h3>
+<sub>By Scott Cacciola</sub>
+<p>Cameron Levins, among the favorites to win the New York City Marathon, runs about 180 miles a week, or nearly 26 miles a day on average.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
