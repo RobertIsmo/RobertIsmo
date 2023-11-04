@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 4, Central Standard Time</p>
 <p>
-There has been a lot of conflict in the world lately. Russia, China, and Iran are showing support for Hamas. Israel used 2,000-pound bombs in a strike on Jabaliya neighborhood in Gaza. Hamas has been putting wounded fighters on departure lists, which have been delaying efforts of foreigners to evacuate from the area. There are also some things happening with energy and the economy: clean energy stocks are falling while oil prospers, and there have been a series of data reports and actions taken by policymakers which have led investors to reassess their assumptions about interest rates and the economy. There&#39;s also an apparent cyberattack which has hushed the British Library and other libraries across Europe. In addition, President Biden visited Lewiston, Maine after a mass shooting that killed 18 people to express his condolences.</p>
+The world is seeing some interesting news these days. In Israel, authorities have used 2,000-pound bombs in a strike on a densely-packed Gaza neighborhood. In the United States, abortion rights are becoming a significant focus for upcoming elections in Kentucky, Ohio and Virginia in 2024. There&#39;s a federal defamation case in which the former president Donald Trump is being prevented from making comments about prosecutors and witnesses. There are also tight legislative races in New Jersey, with Republicans hoping to make headway against Democrats. And Amazon is working on a drone project that delivers small objects like cans of soup to driveways.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>In a Worldwide War of Words, Russia, China and Iran Back Hamas</h3>
-<sub>By Steven Lee Myers and Sheera Frenkel</sub>
-<p>Officials and researchers say the deluge of online propaganda and disinformation is larger than anything seen before.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Used 2,000-Pound Bombs in Strike on Jabaliya, Analysis Shows</h3>
 <sub>By Christoph Koettl, Ainara Tiefenthäler, Haley Willis and Alexander Cardia</sub>
@@ -75,28 +69,52 @@ There has been a lot of conflict in the world lately. Russia, China, and Iran ar
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas put wounded fighters on departure lists, delaying efforts to evacuate foreigners, a U.S. official says.</h3>
-<sub>By Michael D. Shear</sub>
-<p>People holding dual, U.S. or other foreign citizenship had been unable to cross the Gaza border into Egypt for weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rashida Tlaib Posts Video Accusing Biden of Supporting ‘Genocide’</h3>
+<sub>By Kayla Guo</sub>
+<p>Representative Tlaib has been on the leading edge of a group of Democrats critical of the president’s embrace of Israel, but the accusation marks an extraordinary broadside from a lawmaker of his own party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Swift Reversal in Bonds and Rally in Stocks Cap Wild Week for Markets</h3>
-<sub>By Joe Rennison</sub>
-<p>A series of data reports and actions by policymakers have led investors to reassess their assumptions about interest rates and the economy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Did Fake Donors Give the Mayor Real Money? The F.B.I. Wants to Know.</h3>
+<sub>By Emma G. Fitzsimmons and Michael Rothfeld</sub>
+<p>A search at the home of Mayor Eric Adams’s fund-raising chief sought information about a so-called straw donor scheme.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In a Warming World, Clean Energy Stocks Fall While Oil Prospers</h3>
-<sub>By Jeff Sommer</sub>
-<p>The market is focused on making money now and isn’t heeding urgent warnings about climate change, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Louisiana Democrats Lost Before a Ballot Was Cast</h3>
+<sub>By Emily Cochrane</sub>
+<p>Even before the Nov. 18 election, some liberals are pushing the state party to confront its internal divisions and paltry fund-raising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lauren Boebert Wants ‘Mercy.’ Some Republicans Want an Alternative.</h3>
+<sub>By Charles Homans and Rachel Woolf</sub>
+<p>The “Beetlejuice” incident continues to haunt the once-unrepentant congresswoman from Colorado. The state’s old guard is lining up behind a primary challenger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will Abortion Dominate the 2024 Elections? Tuesday Will Offer Clues.</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>Elections in Kentucky, Ohio and Virginia will give an early preview of how abortion will shape the political landscape in 2024, and the effectiveness of both parties’ approaches.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Failed Wind Deal and Abortion Rights Loom Over Tight Races in New Jersey</h3>
+<sub>By Tracey Tully</sub>
+<p>Despite being outnumbered by nearly a million voters, Republicans hope to cut into Democratic majorities in the state Legislature on Election Day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Look, Up in the Sky! It’s a Can of Soup!</h3>
+<sub>By David Streitfeld</sub>
+<p>Amazon’s much-hyped drone project is dropping small objects on driveways. Some customers are not sure what it delivers beyond minestrone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Shetland, the Hottest Event of the Year Stars Sheep and Knitters</h3>
-<sub>By Megan Specia and Andrew Testa</sub>
-<p>The festival of the intricately crafted textiles of the Shetland Islands, a remote archipelago off Scotland’s coast, draws hundreds of knitters from around the world for all things wool.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
+<h3>Chapter 3: Bargaining for Time</h3>
+<sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
+<p>She had dreams of a prestigious government career. Her family wanted an engagement she couldn’t refuse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Temporarily Frees Trump From Gag Order in Election Case</h3>
@@ -111,28 +129,10 @@ There has been a lot of conflict in the world lately. Russia, China, and Iran ar
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Lawyers Attack Judge’s Clerk, Eclipsing His Son’s Testimony</h3>
-<sub>By Jonah E. Bromwich and Kate Christobek</sub>
-<p>The law clerk, a Democrat, has irritated the former president as she communicates with the judge overseeing his civil fraud trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Misleads on Energy and Jobs at Houston Rally</h3>
-<sub>By Angelo Fichera</sub>
-<p>A Biden electric Army tank mandate? A decimation of auto jobs? The G.O.P. front-runner used misleading and recycled claims to talk about energy and jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Mourns With Lewiston After Mass Shooting: ‘You’re Not Alone’</h3>
-<sub>By Nicholas Bogel-Burroughs and Michael D. Shear</sub>
-<p>President Biden met with the families of those killed or injured during last month’s rampage in Maine, which killed 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>An Apparent Cyberattack Hushes the British Library</h3>
-<sub>By Alex Marshall</sub>
-<p>Libraries across Europe appear to be facing attacks from cybercriminals. At Britain’s national library, an “incident” is sending scholars back to an analog age.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<h3>How the New York City Marathon Is Supporting New Moms on Race Day</h3>
+<sub>By Talya Minsberg and Rosem Morton</sub>
+<p>Returning to competition after childbirth can be challenging, but new accommodations for runners, like lactation tents, can ease the transition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
