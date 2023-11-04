@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 4, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Israel, a strike in a densely packed Gaza neighborhood used 2000-pound bombs, and US Congresswoman Rashida Tlaib is accusing Presidential candidate Joe Biden of supporting &#39;genocide.&#39; Meanwhile, the FBI is investigating whether NYC Mayor Eric Adams had fake donors during his campaign fundraising. In the US Congress, Rep. Lauren Boebert is facing criticism from her own party after making controversial comments. On immigration issues, Nikki Haley is trying to make tough promises but running into legal barriers. In Argentina, their far-right presidential candidate Javier Milei is dealing with angry Taylor Swift and BTS fans calling for his defeat. Finally, in Phoenix, the homeless crisis persists despite an order to dismantle one of their homeless encampments, while marathon runners in New York are being supported by new accommodations for things like lactation tents.</p>
+There are a lot of things going on in the world right now. For example, after a Hamas attack in Israel, people are coming forward to talk about their traumatic experiences. In the US, officials are outlining steps to help reduce civilian casualties. As a result, thousands are marching for a cease-fire and lifting of the siege in major cities across the US. On the political front, some Republicans in Colorado are pushing for an alternative to Congresswoman Lauren Boebert&#39;s &quot;Beetlejuice&quot; incident, while Nikki Haley and her rivals for the Republican nomination face legal and logistical barriers when it comes to immigration. Meanwhile, Argentina’s far right politician Javier Milei is being opposed by legions of Taylor Swift and BTS fans. In Senegal, one young entrepreneur is using A.I. to attempt to quash malaria. In California, an Indian-culture senior living company called Priya Living is expanding into other states and India. In Phoenix there was an encampment of homeless people that also had to disbanded recently. And finally for marathoners, New York City marathon has put up lactation tents to support new moms on race day!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Used 2,000-Pound Bombs in Strike on Jabaliya, Analysis Shows</h3>
-<sub>By Christoph Koettl, Ainara Tiefenthäler, Haley Willis and Alexander Cardia</sub>
-<p>Impact craters from the Oct. 31 strike on the densely packed Gaza neighborhood are approximately 40 feet wide. Israel said it was aiming at underground Hamas targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In the Aftermath of the Hamas Attack: Portraits of Survivors</h3>
+<sub>Photographs by Avishag Shaar-Yashuv</sub>
+<p>Thousands of Israelis were attacked on the morning of Oct. 7, after Hamas gunmen surged into southern Israel from Gaza. Many survivors remain traumatized by the experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rashida Tlaib Posts Video Accusing Biden of Supporting ‘Genocide’</h3>
-<sub>By Kayla Guo</sub>
-<p>Representative Tlaib has been on the leading edge of a group of Democrats critical of the president’s embrace of Israel, but the accusation marks an extraordinary broadside from a lawmaker of his own party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Officials Outline Steps to Israel to Reduce Civilian Casualties</h3>
+<sub>By Adam Entous, Eric Schmitt and Julian E. Barnes</sub>
+<p>The measures include using smaller bombs against Hamas, U.S. officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Did Fake Donors Give the Mayor Real Money? The F.B.I. Wants to Know.</h3>
-<sub>By Emma G. Fitzsimmons and Michael Rothfeld</sub>
-<p>A search at the home of Mayor Eric Adams’s fund-raising chief sought information about a so-called straw donor scheme.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Thousands Across U.S. Protest Israel’s Retaliation in Gaza</h3>
+<sub>By Alan Blinder and Kayla Guo</sub>
+<p>Marches in Washington, New York, Las Vegas and other cities are extending a stretch of loud calls for a cease-fire and lifting of the siege.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,22 +98,22 @@ There&#39;s a lot going on in the world right now. In Israel, a strike in a dens
 <p>Even before the Nov. 18 election, some liberals are pushing the state party to confront its internal divisions and paltry fund-raising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Look, Up in the Sky! It’s a Can of Soup!</h3>
-<sub>By David Streitfeld</sub>
-<p>Amazon’s much-hyped drone project is dropping small objects on driveways. Some customers are not sure what it delivers beyond minestrone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chapter 3: Bargaining for Time</h3>
-<sub>By Amanda Taub, Emily Schmall, Shalini Venugopal Bhagat and Andrea Bruce</sub>
-<p>She had dreams of a prestigious government career. Her family wanted an engagement she couldn’t refuse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The New Enemies of Argentina’s Far Right: Swifties and the BTS Army</h3>
 <sub>By Natalie Alcoba</sub>
 <p>Javier Milei wants to be Argentina’s next president. But first he must get around legions of angry Taylor Swift and BTS fans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As a Teen, She Loved Video Games. Now She’s Using A.I. to Try to Quash Malaria.</h3>
+<sub>By Dionne Searcey</sub>
+<p>Rokhaya Diagne, a 25-year-old A.I. entrepreneur in Senegal, is part of a subset of Africa’s enormous youth population that is confident technology can solve the continent’s biggest problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/--blue" alt="">
+<h3>Seeking a Home for His Parents, a Son Built a Community</h3>
+<sub>By Anna Kodé</sub>
+<p>Priya Living, a senior living company that is steeped in Indian culture, began with a small footprint in California and now has expansion plans in the U.S. and India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ There&#39;s a lot going on in the world right now. In Israel, a strike in a dens
 <p>Returning to competition after childbirth can be challenging, but new accommodations for runners, like lactation tents, can ease the transition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>To Train for One Marathon, He Runs 7 Every Week</h3>
-<sub>By Scott Cacciola</sub>
-<p>Cameron Levins, among the favorites to win the New York City Marathon, runs about 180 miles a week, or nearly 26 miles a day on average.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How Chefs Eat With the Marathon in Mind</h3>
+<sub>By Talya Minsberg</sub>
+<p>Marathons require a lot of dietary discipline. So what happens when running is your passion and food is your job?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
