@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 3, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In terms of politics, Russia, China, and Iran are supporting the Palestinian group Hamas in a worldwide war of words. On the business front, Fox News has been getting positive reviews from Jewish viewers for its unflinching support of Israel in its fight against Hamas. With markets, job growth slowed and policymakers have had to reassess their expectations of interest rates and the economy. In exciting news, there are many seniors who are choosing to retire down south in Florida. Lastly, there has been some controversy surrounding Eric Adams, mayor of New York City as the FBI raided one of his aides&#39;s home over possible corruption questions. Meanwhile, in science and tech development, GM&#39;s Cruise self-driving cars have been facing scrutiny around the company&#39;s response to regulators and CEO&#39;s expansion plans.</p>
+An international war of words has broken out between Russia, China, and Iran who are backing Hamas. Stocks have had a wild week due to conflicting data reports and policies by policymakers. Some Jews are turning to Fox News for their coverage of the fight between Hamas and Israel as they feel other coverage is biased. Meanwhile, Hezbollah&#39;s leader Hassan Nasrallah made his first public comments since the war began, saying that his powerful Lebanese militia has bogged down Israeli forces to help Hamas. Stocks have recently rallied while clean energy stocks have declined even with warnings about climate change. In Scotland’s Shetland Islands, hundreds of knitters from around the world now gather every year for their wool festival. Wildfires and natural disasters have been causing destruction across the US with Hawaii’s royal capital burning down in what was one of the hottest events of the year. Former President Trump is facing gag orders in both election and defamation lawsuits while his lawyers are attacking the judge’s clerk in his civil fraud trial. He was also found making false or misleading statements at a rally about Biden’s electric Army tank mandates and auto industry job losses. Lastly, Joe Biden met with the families of those killed or injured during last month’s shooting rampage in Maine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>In a Worldwide War of Words, Russia, China and Iran Back Hamas</h3>
@@ -87,22 +87,16 @@ There is a lot happening in the world right now. In terms of politics, Russia, C
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Job Growth Slows, Sowing a Mix of Concern and Calm</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>U.S. employers added 150,000 workers in October, falling short of expectations, but the labor market retains spark nearly three years into a recovery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In a Warming World, Clean Energy Stocks Fall While Oil Prospers</h3>
+<sub>By Jeff Sommer</sub>
+<p>The market is focused on making money now and isn’t heeding urgent warnings about climate change, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>The Youngest Senior</h3>
-<sub>By Debra Kamin and Scott McIntyre</sub>
-<p>Moving to Florida for early retirement, a native New Jerseyan in her 50s is finding her third act to be the most fun in a community where the average age is 79.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Ready to Retire? Consider Your Family First.</h3>
-<sub>By Joanne Kaufman</sub>
-<p>Some older adults are skipping a sun-drenched post-work life and moving instead to the next step: choosing to live near children and grandchildren.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, October 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Shetland, the Hottest Event of the Year Stars Sheep and Knitters</h3>
+<sub>By Megan Specia and Andrew Testa</sub>
+<p>The festival of the intricately crafted textiles of the Shetland Islands, a remote archipelago off Scotland’s coast, draws hundreds of knitters from around the world for all things wool.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Deadly Maui Inferno, Hour by Hour</h3>
@@ -110,28 +104,34 @@ There is a lot happening in the world right now. In terms of politics, Russia, C
 <p>The Times used video evidence, data and interviews to reconstruct the wildfire that raged through what was once Hawaii’s royal capital.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Court Temporarily Frees Trump From Gag Order in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>A three-judge panel of the federal appeals court in Washington lifted the order for at least two weeks, freeing the former president to say what he wants about prosecutors and witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Lawyers Attack Judge’s Clerk, Creating ‘Sideshow’ as Son Testifies</h3>
+<h3>Jurors in Trump Defamation Trial to Go Unnamed for Their Own Protection</h3>
+<sub>By Benjamin Weiser</sub>
+<p>A federal judge overseeing the case filed by the writer E. Jean Carroll said that the former president had not abided by gag orders in other cases, and that could lead to harassment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Lawyers Attack Judge’s Clerk, Eclipsing His Son’s Testimony</h3>
 <sub>By Jonah E. Bromwich and Kate Christobek</sub>
 <p>The law clerk, a Democrat, has irritated the former president as she communicates with the judge overseeing his civil fraud trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>G.M.’s Cruise Moved Fast in the Driverless Race. It Got Ugly.</h3>
-<sub>By Tripp Mickle, Cade Metz and Yiwen Lu</sub>
-<p>Cruise has hired a law firm to investigate how it responded to regulators, as its cars sit idle and questions grow about its C.E.O.’s expansion plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Misleads on Energy and Jobs at Houston Rally</h3>
+<sub>By Angelo Fichera</sub>
+<p>A Biden electric Army tank mandate? A decimation of auto jobs? The G.O.P. front-runner used misleading and recycled claims to talk about energy and jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>F.B.I. Raid of Adams Ally Brings Corruption Question to Mayor’s Doorstep</h3>
-<sub>By Emma G. Fitzsimmons and Jeffery C. Mays</sub>
-<p>Mayor Eric Adams has faced ethics issues for years. A raid of his chief fund-raiser’s home poses a serious threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What it Takes to Wear the Sudoku Crown</h3>
-<sub>By Siobhan Roberts and Chloë Ellingson</sub>
-<p>Pens, pencils and a facility with numbers. Also helpful: earplugs, plushies, a water bottle, calming herbal oil and the occasional “wild bifurcation” (a.k.a. a wild guess).  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Mourns With Lewiston After Mass Shooting: ‘You’re Not Alone’</h3>
+<sub>By Nicholas Bogel-Burroughs and Michael D. Shear</sub>
+<p>President Biden met with the families of those killed or injured during last month’s rampage in Maine, which killed 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
