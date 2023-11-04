@@ -58,12 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, November 3, Central Standard Time</p>
+<p>It is Saturday, November 4, Central Standard Time</p>
 <p>
-It looks like there is a lot happening around the world right now. In the Middle East, Russia, China and Iran are backing Hamas in a global conflict, while Israel is striking a densely packed Gaza neighborhood with 2,000-pound bombs. Meanwhile, U.S., and other foreign citizens have been unable to leave Gaza because of Hamas putting wounded fighters on departure lists. 
-On the business side, markets had a wild week with investors changing their assumptions about interest rates and the economy. Clean energy stocks have been declining while oil has been thriving despite climate change concerns. 
-In Europe, the annual festival of intricately crafted textiles of the Shetland Islands, located off Scotland’s coast, draws hundreds of knitters from around the word for all things wool. 
-Closer to home, Donald Trump got a temporary reversal of his gag order in an election case and his lawyers are attacking a judge&#39;s clerk in his civil fraud trial. Trump made misleading claims about energy and jobs at a rally and President Biden publicly mourned with Lewiston after their mass shooting. Finally, competitve sudoku champions must have an array of supplies including earplugs and plushies to win!</p>
+There&#39;s a lot going on in the world right now. International tensions are running high with Russia, China, and Iran backing Hamas against Israel. In the U.S., former President Trump is wrapped up in a legal battle in which his lawyers are attacking the judge&#39;s clerk and jurors have been asked for anonymity to protect them. There was also a shooting last month that left 18 people dead in Lewiston, Maine, which prompted President Biden to pay a visit and offer comfort to those affected by the tragedy. Meanwhile, investors are reassessing their assumptions about the economy and climate change with stocks rallying and clean energy stocks declining. Lastly, there&#39;s an apparent cyberattack that has left libraries across Europe forces to operate without online access, impacting scholars and researchers everywhere.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>In a Worldwide War of Words, Russia, China and Iran Back Hamas</h3>
@@ -131,10 +128,10 @@ Closer to home, Donald Trump got a temporary reversal of his gag order in an ele
 <p>President Biden met with the families of those killed or injured during last month’s rampage in Maine, which killed 18 people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What it Takes to Wear the Sudoku Crown</h3>
-<sub>By Siobhan Roberts and Chloë Ellingson</sub>
-<p>Pens, pencils and a facility with numbers. Also helpful: earplugs, plushies, a water bottle, calming herbal oil and the occasional “wild bifurcation” (a.k.a. a wild guess).  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>An Apparent Cyberattack Hushes the British Library</h3>
+<sub>By Alex Marshall</sub>
+<p>Libraries across Europe appear to be facing attacks from cybercriminals. At Britain’s national library, an “incident” is sending scholars back to an analog age.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
