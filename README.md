@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-Right now, the world is in a state of turmoil. In Israel, thousands of people were recently attacked by Hamas and many survivors are traumatized from the experience. In the US, there are protests in several cities calling for a ceasefire and lifting of the siege in Gaza, as well as a political battle between a governor and former president that is taking place in Florida. Meanwhile, in Ukraine there is a deadlocked war that is testing the morale of citizens and causing tension amongst their leaders. In Argentina, Haley and other candidates are trying to tackle the immigration issues they&#39;re facing but are facing challenges with logistics and laws. Lastly, there&#39;s also an A.I. entrepreneur in Senegal who is using technology to try and quash malaria. Closer to home, Phoenix recently dismantled their homeless encampment despite the city still facing an ongoing homeless crisis. For runners at the New York City Marathon, new accommodations like lactation tents are helping new moms on race day.</p>
+There&#39;s a lot going on in the world right now. In the Middle East, Hamas militants attacked Israel and US officials are trying to reduce civilian casualties in the conflict. In America, there are protests happening across the country calling for a cease-fire and for an end to the siege of Gaza. In Florida, Governor DeSantis and former President Donald Trump have been campaigning against each other in the state. Meanwhile in Colorado, there&#39;s an ongoing debate between Congresswoman Lauren Boebert and her Republican challengers. In Ukraine, there&#39;s still an ongoing conflict with Russia and morale is dropping among Ukrainians due to deadlocked war. And in Senegal, a 25-year-old A.I. entrepreneur is creating technology to fight malaria. Here in New York City, they&#39;re making new accommodations to support new moms running in the marathon this year, like providing lactation tents at the race.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In the Aftermath of the Hamas Attack: Portraits of Survivors</h3>
@@ -106,7 +106,7 @@ Right now, the world is in a state of turmoil. In Israel, thousands of people we
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Rebuke of Top General Signals Rift in Ukrainian Leadership</h3>
-<sub>By Andrew E. Kramer and Constant Méheut</sub>
+<sub>By Andrew E. Kramer, Maria Varenikova and Constant Méheut</sub>
 <p>The presidential office said Gen. Valery Zaluzhny’s declaration that the war is at a stalemate was helpful to the Russians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
