@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, November 4, Central Standard Time</p>
+<p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In the Middle East, after Hamas gunmen surged into southern Israel from Gaza, there has been an ongoing conflict with thousands of Israelis being affected by the events. Political leaders from both sides are trying to come to an agreement while in other countries, citizens are coming together to fight for the cause of Palestinians and end the violence. On the American home front, former President Donald Trump and current Governor of Florida Ron DeSantis are in a battle for political turf. Meanwhile Nikki Haley and her Republican competitors for a 2021 nomination are coming up with immigration plans that have its own logistical and legal barriers. Beyond the US, an A.I entrepreneur in Senegal is looking towards technology and artificial intelligence as a means of tackling malaria. There&#39;s also an Argentinian politician trying to increase his popularity via Taylor Swift and BTS fans! Lastly, New York Marathon is providing extra support for new moms competing this year.</p>
+Right now, the world is in a state of turmoil. In Israel, thousands of people were recently attacked by Hamas and many survivors are traumatized from the experience. In the US, there are protests in several cities calling for a ceasefire and lifting of the siege in Gaza, as well as a political battle between a governor and former president that is taking place in Florida. Meanwhile, in Ukraine there is a deadlocked war that is testing the morale of citizens and causing tension amongst their leaders. In Argentina, Haley and other candidates are trying to tackle the immigration issues they&#39;re facing but are facing challenges with logistics and laws. Lastly, there&#39;s also an A.I. entrepreneur in Senegal who is using technology to try and quash malaria. Closer to home, Phoenix recently dismantled their homeless encampment despite the city still facing an ongoing homeless crisis. For runners at the New York City Marathon, new accommodations like lactation tents are helping new moms on race day.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In the Aftermath of the Hamas Attack: Portraits of Survivors</h3>
@@ -99,6 +99,18 @@ Right now, there is a lot going on in the world. In the Middle East, after Hamas
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I Am Dreaming It Will Stop’: A Deadlocked War Tests Ukrainian Morale</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Pessimism over prospects for a quick victory is increasing, and the spirit that infused the first days of the conflict is starting to fade, polls find.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky Rebuke of Top General Signals Rift in Ukrainian Leadership</h3>
+<sub>By Andrew E. Kramer and Constant Méheut</sub>
+<p>The presidential office said Gen. Valery Zaluzhny’s declaration that the war is at a stalemate was helpful to the Russians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The New Enemies of Argentina’s Far Right: Swifties and the BTS Army</h3>
 <sub>By Natalie Alcoba</sub>
 <p>Javier Milei wants to be Argentina’s next president. But first he must get around legions of angry Taylor Swift and BTS fans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,12 +122,6 @@ Right now, there is a lot going on in the world. In the Middle East, after Hamas
 <p>Rokhaya Diagne, a 25-year-old A.I. entrepreneur in Senegal, is part of a subset of Africa’s enormous youth population that is confident technology can solve the continent’s biggest problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Rebuke of Top General Signals Rift in Ukrainian Leadership</h3>
-<sub>By Andrew E. Kramer and Constant Méheut</sub>
-<p>The presidential office said Gen. Valery Zaluzhny’s declaration that the war is at a stalemate was helpful to the Russians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Phoenix Encampment Is Gone, but the City’s Homeless Crisis Persists</h3>
 <sub>By Jack Healy</sub>
@@ -126,12 +132,6 @@ Right now, there is a lot going on in the world. In the Middle East, after Hamas
 <h3>How the New York City Marathon Is Supporting New Moms on Race Day</h3>
 <sub>By Talya Minsberg and Rosem Morton</sub>
 <p>Returning to competition after childbirth can be challenging, but new accommodations for runners, like lactation tents, can ease the transition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>How Chefs Eat With the Marathon in Mind</h3>
-<sub>By Talya Minsberg</sub>
-<p>Marathons require a lot of dietary discipline. So what happens when running is your passion and food is your job?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
