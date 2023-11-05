@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-Right now, there are some interesting developments happening all over the world. In the US, a Times&#x2F;Siena Poll found that Donald Trump is leading in 5 critical states as voters blast Joe Biden and there has been analysis of why Biden is trailing behind him and how he could come back. In other international news, reports indicate that Israel has been quietly pushing for Egypt to accept a large number of Gazans, while Thais are holding prayers for loved ones caught up in Hamas attacks half a world away. Journalists have also been given glimpses inside Israel&#39;s invasion as battles go on. Closer to home, The Weekender section of The New York Times highlighted stories such as a doctor who tracks Nazi loot, a trip to a Hindu goddess festival and Kim Kardashian on the future of Skims. There&#39;s plenty of news being reported on the business front too, with questions circling about why banks are suddenly closing down customer accounts. Lastly, movie fans have been treated to interviews with Nicolas Cage who reclaimed his memes in his dark comedy &#39;Dream Scenario&#39; and the new speaker of the House Mike Johnson, who has a long history of work against abortion and gay rights.</p>
+There’s a lot going on in the world right now. In America, Donald Trump is leading in key battleground states and voters have said they trust him over President Biden economically and for foreign policy. In Israel, there’s been an alleged airstrike in Gaza resulting in multiple casualties, and the Israeli military is engaged in an invasion of Gaza. Meanwhile, American troops who have engaged in an artillery bombardment against the Islamic State have suffered mysterious mental and physical ailments without explanations from the Pentagon. Over here in Philadelphia, Cherelle Parker is set to become the first woman to lead America&#39;s sixth biggest city.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
@@ -81,9 +81,9 @@ Right now, there are some interesting developments happening all over the world.
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Half a World Away, Thais Pray for Loved Ones Caught in Hamas Attacks</h3>
-<sub>By Hannah Beech, Muktita Suhartono and Ryn Jirenuwat</sub>
-<p>Dozens of migrant farm workers were seized or killed in the Oct. 7 raids on Israel and relatives plead for answers: “We have nothing to do with their war.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Explosion Gazans Say Was Airstrike Leaves Many Casualties in Dense Neighborhood</h3>
+<sub>By Hiba Yazbek and Samar Abu Elouf</sub>
+<p>Dozens were taken to the nearby Al-Aqsa Martyrs Hospital, where a photographer for The New York Times saw the injured crowding the hallways and the lifeless being prepared for burial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -91,24 +91,6 @@ Right now, there are some interesting developments happening all over the world.
 <sub>By Ronen Bergman</sub>
 <p>The Israeli military brought a small group of international journalists into northern Gaza on Saturday to witness the extent of its advance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Best Places to Watch the New York City Marathon</h3>
-<sub>By Jennie Coughlin</sub>
-<p>It has become the city’s biggest block party. Here are the best spots in each borough to cheer for the race’s 50,000 runners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Banks Are Suddenly Closing Down Customer Accounts</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>With ‘Dream Scenario,’ Nicolas Cage Reclaims the Memes</h3>
-<sub>By Kyle Buchanan</sub>
-<p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Secret War, Strange New Wounds and Silence From the Pentagon</h3>
@@ -122,17 +104,35 @@ Right now, there are some interesting developments happening all over the world.
 <p>The relentless U.S. artillery bombardment that broke the Islamic State in Syria and Iraq also took a shattering toll on the troops who fired the cannons. Here is what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Like Winning the Lottery’: Mike Johnson’s Ascent Excites Conservative Christians</h3>
-<sub>By Ruth Graham</sub>
-<p>The new speaker of the House is a Southern Baptist who embodies evangelical beliefs and priorities, with a long history of work against abortion and gay rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Banks Are Suddenly Closing Down Customer Accounts</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>With ‘Dream Scenario,’ Nicolas Cage Reclaims the Memes</h3>
+<sub>By Kyle Buchanan</sub>
+<p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>A doctor who tracks Nazi loot. Also: a trip to a Hindu goddess festival, and Kim Kardashian on the future of Skims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<h3>In his first New York marathon, Tamirat Tola sets a course record.</h3>
+<sub>By Scott Cacciola</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Marcel Hug and Catherine Debrunner Win Marathon’s Wheelchair Races</h3>
+<sub>By Ken Belson</sub>
+<p>Marcel Hug won his record sixth New York City Marathon while Catherine Debrunner won her debut and set a course record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘I’m Not Superwoman’: Philadelphia’s Likely Mayor Urges Teamwork</h3>
+<sub>By David W. Chen</sub>
+<p>Cherelle Parker, a former City Council member, is poised to become the first woman to lead of America’s sixth-biggest city. Her to-do list is daunting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
