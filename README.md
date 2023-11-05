@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 4, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on in the world. In Israel, thousands of people were attacked in Hamas’s October 7th attack. The U.S. is trying to reduce civilian casualties by using smaller bombs against Hamas. There are protests across the U.S. in support for the Palestinians, while Gov. Ron DeSantis and former Pres. Trump are campaigning against each other in Florida and Rep. Lauren Boebert faces scrutiny after an incident involving Beetlejuice. In the Republican race for nomination, Nikki Haley has made tough promises on immigration but faces logistical and legal obstacles. Meanwhile, in Argentina, Taylor Swift and BTS fans are trying to keep far-right candidate Javier Milei from becoming president and in Ukraine, President Zelensky has rebuked the top general after he declared the war with Russia at an impasse. Lastly, Phoenix was forced to dismantle their downtown homeless encampment this past weekend due to a court order, and New York City Marathon is offering accommodations for runners such as lactation tents to welcome mothers on race day!</p>
+Right now, there is a lot going on in the world. In the Middle East, after Hamas gunmen surged into southern Israel from Gaza, there has been an ongoing conflict with thousands of Israelis being affected by the events. Political leaders from both sides are trying to come to an agreement while in other countries, citizens are coming together to fight for the cause of Palestinians and end the violence. On the American home front, former President Donald Trump and current Governor of Florida Ron DeSantis are in a battle for political turf. Meanwhile Nikki Haley and her Republican competitors for a 2021 nomination are coming up with immigration plans that have its own logistical and legal barriers. Beyond the US, an A.I entrepreneur in Senegal is looking towards technology and artificial intelligence as a means of tackling malaria. There&#39;s also an Argentinian politician trying to increase his popularity via Taylor Swift and BTS fans! Lastly, New York Marathon is providing extra support for new moms competing this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In the Aftermath of the Hamas Attack: Portraits of Survivors</h3>
@@ -83,7 +83,7 @@ Right now, there&#39;s a lot going on in the world. In Israel, thousands of peop
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis and Trump Bring Their Campaign Battle Home to Florida</h3>
 <sub>By Michael Gold and Nicholas Nehamas</sub>
-<p>Gov. Ron DeSantis made only veiled criticisms of former President Donald J. Trump onstage at a state party summit in Florida, where the two candidates were both scheduled to appear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>At a state party summit, Gov. Ron DeSantis and former President Donald J. Trump both argued that Florida was their turf. For the crowd, Mr. Trump’s assertion seemed to ring truer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,12 +96,6 @@ Right now, there&#39;s a lot going on in the world. In Israel, thousands of peop
 <h3>Haley, Pledging to ‘Close’ the Border, Is Asked: What About Migrants Who Are Already Here?</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>Tough promises on immigration from Nikki Haley and her rivals for the Republican nomination face logistical and legal barriers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Louisiana Democrats Lost Before a Ballot Was Cast</h3>
-<sub>By Emily Cochrane</sub>
-<p>Even before the Nov. 18 election, some liberals are pushing the state party to confront its internal divisions and paltry fund-raising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -123,7 +117,7 @@ Right now, there&#39;s a lot going on in the world. In Israel, thousands of peop
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Phoenix Encampment Is Gone, But the City’s Homeless Crisis Persists</h3>
+<h3>Phoenix Encampment Is Gone, but the City’s Homeless Crisis Persists</h3>
 <sub>By Jack Healy</sub>
 <p>The city was under a court order to dismantle “the Zone,” a sprawling downtown homeless encampment, by Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
@@ -132,6 +126,12 @@ Right now, there&#39;s a lot going on in the world. In Israel, thousands of peop
 <h3>How the New York City Marathon Is Supporting New Moms on Race Day</h3>
 <sub>By Talya Minsberg and Rosem Morton</sub>
 <p>Returning to competition after childbirth can be challenging, but new accommodations for runners, like lactation tents, can ease the transition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How Chefs Eat With the Marathon in Mind</h3>
+<sub>By Talya Minsberg</sub>
+<p>Marathons require a lot of dietary discipline. So what happens when running is your passion and food is your job?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
