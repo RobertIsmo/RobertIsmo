@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-There’s a lot going on in the world right now. In America, Donald Trump is leading in key battleground states and voters have said they trust him over President Biden economically and for foreign policy. In Israel, there’s been an alleged airstrike in Gaza resulting in multiple casualties, and the Israeli military is engaged in an invasion of Gaza. Meanwhile, American troops who have engaged in an artillery bombardment against the Islamic State have suffered mysterious mental and physical ailments without explanations from the Pentagon. Over here in Philadelphia, Cherelle Parker is set to become the first woman to lead America&#39;s sixth biggest city.</p>
+Currently, tensions are running high between Israel and Gaza in the Middle East, as there has been an airstrike with many casualties. In the US, President Biden&#39;s approval rating has been dropping in recent polls due to weak support among younger and nonwhite voters. Meanwhile, in Philadelphia, a former city council member is poised to become the first woman to lead the city. Finally, there was some good news this week as Nicolas Cage starred in a dark comedy about viral fame and runners competed at the New York City Marathon.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Quietly Pushed for Egypt to Admit Large Numbers of Gazans</h3>
+<sub>By Patrick Kingsley</sub>
+<p>The Israeli government has not publicly called for large numbers of Gazans to move to Egypt. But in private, diplomats say, it has pushed for just that — augmenting Palestinian fears of a permanent expulsion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Explosion Gazans Say Was Airstrike Leaves Many Casualties in Dense Neighborhood</h3>
+<sub>By Hiba Yazbek and Samar Abu Elouf</sub>
+<p>Dozens were taken to nearby Al-Aqsa Martyrs Hospital, where a photographer for The New York Times saw the injured crowding the hallways and the lifeless being prepared for burial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>Israel and Hezbollah have clashed repeatedly along the Israel-Lebanon border in recent weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
 <sub>By Shane Goldmacher</sub>
@@ -72,36 +90,6 @@ There’s a lot going on in the world right now. In America, Donald Trump is lea
 <h3>Why Biden Is Behind, and How He Could Come Back</h3>
 <sub>By Nate Cohn and Alicia Parlapiano</sub>
 <p>A polling deficit against Trump across six key states is mainly about younger, nonwhite and less engaged voters. Kamala Harris performs slightly better.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Quietly Pushed for Egypt to Admit Large Numbers of Gazans</h3>
-<sub>By Patrick Kingsley</sub>
-<p>The Israeli government has not publicly called for large numbers of Gazans to move to Egypt. But in private, diplomats say, it has pushed for just that — augmenting Palestinian fears of a permanent expulsion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Explosion Gazans Say Was Airstrike Leaves Many Casualties in Dense Neighborhood</h3>
-<sub>By Hiba Yazbek and Samar Abu Elouf</sub>
-<p>Dozens were taken to the nearby Al-Aqsa Martyrs Hospital, where a photographer for The New York Times saw the injured crowding the hallways and the lifeless being prepared for burial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Journalists get a glimpse inside Israel’s invasion as battles go on.</h3>
-<sub>By Ronen Bergman</sub>
-<p>The Israeli military brought a small group of international journalists into northern Gaza on Saturday to witness the extent of its advance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Secret War, Strange New Wounds and Silence From the Pentagon</h3>
-<sub>By Dave Philipps and Matthew Callahan</sub>
-<p>Many U.S. troops who fired vast numbers of artillery rounds against the Islamic State developed mysterious, life-shattering mental and physical problems. But the military struggled to understand what was wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From a Times Investigation of Artillery Blast Exposure</h3>
-<sub>By Dave Philipps</sub>
-<p>The relentless U.S. artillery bombardment that broke the Islamic State in Syria and Iraq also took a shattering toll on the troops who fired the cannons. Here is what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -117,22 +105,34 @@ There’s a lot going on in the world right now. In America, Donald Trump is lea
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In his first New York marathon, Tamirat Tola sets a course record.</h3>
-<sub>By Scott Cacciola</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Five boroughs to the finish: capturing the marathon in pictures.</h3>
+<sub>By The New York Times</sub>
+<p>Times Photographers documented the annual race through all across the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Marcel Hug and Catherine Debrunner Win Marathon’s Wheelchair Races</h3>
-<sub>By Ken Belson</sub>
-<p>Marcel Hug won his record sixth New York City Marathon while Catherine Debrunner won her debut and set a course record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Forget Aerodynamics: Running the Marathon in Style</h3>
+<sub>By Callie Holtermann and Hilary Swift</sub>
+<p>“Joy and performance are not mutually exclusive,” said Alexi Pappas. She was one of many runners standing out at the starting line of the New York City Marathon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘I’m Not Superwoman’: Philadelphia’s Likely Mayor Urges Teamwork</h3>
 <sub>By David W. Chen</sub>
-<p>Cherelle Parker, a former City Council member, is poised to become the first woman to lead of America’s sixth-biggest city. Her to-do list is daunting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Cherelle Parker, a former City Council member, is poised to become the first woman to lead America’s sixth-biggest city. Her to-do list is daunting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>A doctor who tracks Nazi loot. Also: a trip to a Hindu goddess festival, and Kim Kardashian on the future of Skims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Nov. 3, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
