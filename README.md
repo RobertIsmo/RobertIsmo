@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the Middle East, Hamas militants attacked Israel and US officials are trying to reduce civilian casualties in the conflict. In America, there are protests happening across the country calling for a cease-fire and for an end to the siege of Gaza. In Florida, Governor DeSantis and former President Donald Trump have been campaigning against each other in the state. Meanwhile in Colorado, there&#39;s an ongoing debate between Congresswoman Lauren Boebert and her Republican challengers. In Ukraine, there&#39;s still an ongoing conflict with Russia and morale is dropping among Ukrainians due to deadlocked war. And in Senegal, a 25-year-old A.I. entrepreneur is creating technology to fight malaria. Here in New York City, they&#39;re making new accommodations to support new moms running in the marathon this year, like providing lactation tents at the race.</p>
+At this moment, tensions are high as Israeli and Hamas forces continue to clash and people around the world show support for those affected. In the U.S., Donald Trump continues to lead in several critical states while President Biden&#39;s multiracial base begins to fray. Additionally, a Times investigation revealed the toll U.S. artillery bombardment took against the Islamic State in terms of mental and physical health impairments on troops who fired them. On a lighter note, Nicolas Cage plays a man who pops up in people&#39;s dreams in his new dark comedy &#39;Dream Scenario&#39; and Mike Johnson is currently speaking of the House, corroborating evangelical beliefs and pushing priorities such as abortion and gay rights. Lastly, The New York Times has released their News Quiz for November 3rd, 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In the Aftermath of the Hamas Attack: Portraits of Survivors</h3>
-<sub>Photographs by Avishag Shaar-Yashuv</sub>
-<p>Thousands of Israelis were attacked on the morning of Oct. 7, after Hamas gunmen surged into southern Israel from Gaza. Many survivors remain traumatized by the experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<h3>Half a World Away, Thais Pray for Loved Ones Caught in Hamas Attacks</h3>
+<sub>By Hannah Beech, Muktita Suhartono and Ryn Jirenuwat</sub>
+<p>Dozens of migrant farm workers were seized or killed in the Oct. 7 raids on Israel and relatives plead for answers: “We have nothing to do with their war.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Journalists get a glimpse inside Israel’s invasion as battles go on.</h3>
+<sub>By Ronen Bergman</sub>
+<p>The Israeli military brought a small group of international journalists into northern Gaza on Saturday to witness the extent of its advance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Officials Outline Steps to Israel to Reduce Civilian Casualties</h3>
@@ -75,64 +81,58 @@ There&#39;s a lot going on in the world right now. In the Middle East, Hamas mil
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Snapshot of Support for Palestinians Across America</h3>
-<sub>By The New York Times</sub>
-<p>Marches in Washington, D.C., Ohio, Utah and California, with tens of thousands of protesters, reflect the many different groups calling for a cease-fire and lifting of the siege in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
+<sub>By Shane Goldmacher</sub>
+<p>Voters in battleground states said they trusted Donald J. Trump over President Biden on the economy, foreign policy and immigration, as Mr. Biden’s multiracial base shows signs of fraying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Biden Is Behind, and How He Could Come Back</h3>
+<sub>By Nate Cohn and Alicia Parlapiano</sub>
+<p>A polling deficit against Trump across six key states is mainly about younger, nonwhite and less engaged voters. Kamala Harris performs slightly better.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis and Trump Bring Their Campaign Battle Home to Florida</h3>
-<sub>By Michael Gold and Nicholas Nehamas</sub>
-<p>At a state party summit, Gov. Ron DeSantis and former President Donald J. Trump both argued that Florida was their turf. For the crowd, Mr. Trump’s assertion seemed to ring truer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<h3>A Secret War, Strange New Wounds and Silence From the Pentagon</h3>
+<sub>By Dave Philipps and Matthew Callahan</sub>
+<p>Many U.S. troops who fired vast numbers of artillery rounds against the Islamic State developed mysterious, life-shattering mental and physical problems. But the military struggled to understand what was wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lauren Boebert Wants ‘Mercy.’ Some Republicans Want an Alternative.</h3>
-<sub>By Charles Homans and Rachel Woolf</sub>
-<p>The “Beetlejuice” incident continues to haunt the once-unrepentant congresswoman from Colorado. The state’s old guard is lining up behind a primary challenger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<h3>Five Takeaways From a Times Investigation of Artillery Blast Exposure</h3>
+<sub>By Dave Philipps</sub>
+<p>The relentless U.S. artillery bombardment that broke the Islamic State in Syria and Iraq also took a shattering toll on the troops who fired the cannons. Here is what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>With ‘Dream Scenario,’ Nicolas Cage Reclaims the Memes</h3>
+<sub>By Kyle Buchanan</sub>
+<p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Haley, Pledging to ‘Close’ the Border, Is Asked: What About Migrants Who Are Already Here?</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Tough promises on immigration from Nikki Haley and her rivals for the Republican nomination face logistical and legal barriers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<h3>‘Like Winning the Lottery’: Mike Johnson’s Ascent Excites Conservative Christians</h3>
+<sub>By Ruth Graham</sub>
+<p>The new speaker of the House is a Southern Baptist who embodies evangelical beliefs and priorities, with a long history of work against abortion and gay rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Am Dreaming It Will Stop’: A Deadlocked War Tests Ukrainian Morale</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Pessimism over prospects for a quick victory is increasing, and the spirit that infused the first days of the conflict is starting to fade, polls find.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Rebuke of Top General Signals Rift in Ukrainian Leadership</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova and Constant Méheut</sub>
-<p>The presidential office said Gen. Valery Zaluzhny’s declaration that the war is at a stalemate was helpful to the Russians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The New Enemies of Argentina’s Far Right: Swifties and the BTS Army</h3>
-<sub>By Natalie Alcoba</sub>
-<p>Javier Milei wants to be Argentina’s next president. But first he must get around legions of angry Taylor Swift and BTS fans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As a Teen, She Loved Video Games. Now She’s Using A.I. to Try to Quash Malaria.</h3>
-<sub>By Dionne Searcey</sub>
-<p>Rokhaya Diagne, a 25-year-old A.I. entrepreneur in Senegal, is part of a subset of Africa’s enormous youth population that is confident technology can solve the continent’s biggest problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Phoenix Encampment Is Gone, but the City’s Homeless Crisis Persists</h3>
-<sub>By Jack Healy</sub>
-<p>The city was under a court order to dismantle “the Zone,” a sprawling downtown homeless encampment, by Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Banks Are Suddenly Closing Down Customer Accounts</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How the New York City Marathon Is Supporting New Moms on Race Day</h3>
-<sub>By Talya Minsberg and Rosem Morton</sub>
-<p>Returning to competition after childbirth can be challenging, but new accommodations for runners, like lactation tents, can ease the transition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>A doctor who tracks Nazi loot. Also: a trip to a Hindu goddess festival, and Kim Kardashian on the future of Skims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Nov. 3, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
