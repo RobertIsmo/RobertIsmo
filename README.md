@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-At this moment, tensions are high as Israeli and Hamas forces continue to clash and people around the world show support for those affected. In the U.S., Donald Trump continues to lead in several critical states while President Biden&#39;s multiracial base begins to fray. Additionally, a Times investigation revealed the toll U.S. artillery bombardment took against the Islamic State in terms of mental and physical health impairments on troops who fired them. On a lighter note, Nicolas Cage plays a man who pops up in people&#39;s dreams in his new dark comedy &#39;Dream Scenario&#39; and Mike Johnson is currently speaking of the House, corroborating evangelical beliefs and pushing priorities such as abortion and gay rights. Lastly, The New York Times has released their News Quiz for November 3rd, 2023.</p>
+Right now, there are some interesting developments happening all over the world. In the US, a Times&#x2F;Siena Poll found that Donald Trump is leading in 5 critical states as voters blast Joe Biden and there has been analysis of why Biden is trailing behind him and how he could come back. In other international news, reports indicate that Israel has been quietly pushing for Egypt to accept a large number of Gazans, while Thais are holding prayers for loved ones caught up in Hamas attacks half a world away. Journalists have also been given glimpses inside Israel&#39;s invasion as battles go on. Closer to home, The Weekender section of The New York Times highlighted stories such as a doctor who tracks Nazi loot, a trip to a Hindu goddess festival and Kim Kardashian on the future of Skims. There&#39;s plenty of news being reported on the business front too, with questions circling about why banks are suddenly closing down customer accounts. Lastly, movie fans have been treated to interviews with Nicolas Cage who reclaimed his memes in his dark comedy &#39;Dream Scenario&#39; and the new speaker of the House Mike Johnson, who has a long history of work against abortion and gay rights.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
+<sub>By Shane Goldmacher</sub>
+<p>Voters in battleground states said they trusted Donald J. Trump over President Biden on the economy, foreign policy and immigration, as Mr. Biden’s multiracial base shows signs of fraying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Biden Is Behind, and How He Could Come Back</h3>
+<sub>By Nate Cohn and Alicia Parlapiano</sub>
+<p>A polling deficit against Trump across six key states is mainly about younger, nonwhite and less engaged voters. Kamala Harris performs slightly better.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Quietly Pushed for Egypt to Admit Large Numbers of Gazans</h3>
+<sub>By Patrick Kingsley</sub>
+<p>The Israeli government has not publicly called for large numbers of Gazans to move to Egypt. But in private, diplomats say, it has pushed for just that — augmenting Palestinian fears of a permanent expulsion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Half a World Away, Thais Pray for Loved Ones Caught in Hamas Attacks</h3>
 <sub>By Hannah Beech, Muktita Suhartono and Ryn Jirenuwat</sub>
@@ -74,22 +92,22 @@ At this moment, tensions are high as Israeli and Hamas forces continue to clash 
 <p>The Israeli military brought a small group of international journalists into northern Gaza on Saturday to witness the extent of its advance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Officials Outline Steps to Israel to Reduce Civilian Casualties</h3>
-<sub>By Adam Entous, Eric Schmitt and Julian E. Barnes</sub>
-<p>The measures include using smaller bombs against Hamas, U.S. officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Best Places to Watch the New York City Marathon</h3>
+<sub>By Jennie Coughlin</sub>
+<p>It has become the city’s biggest block party. Here are the best spots in each borough to cheer for the race’s 50,000 runners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
-<sub>By Shane Goldmacher</sub>
-<p>Voters in battleground states said they trusted Donald J. Trump over President Biden on the economy, foreign policy and immigration, as Mr. Biden’s multiracial base shows signs of fraying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Banks Are Suddenly Closing Down Customer Accounts</h3>
+<sub>By Ron Lieber and Tara Siegel Bernard</sub>
+<p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Biden Is Behind, and How He Could Come Back</h3>
-<sub>By Nate Cohn and Alicia Parlapiano</sub>
-<p>A polling deficit against Trump across six key states is mainly about younger, nonwhite and less engaged voters. Kamala Harris performs slightly better.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>With ‘Dream Scenario,’ Nicolas Cage Reclaims the Memes</h3>
+<sub>By Kyle Buchanan</sub>
+<p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +122,16 @@ At this moment, tensions are high as Israeli and Hamas forces continue to clash 
 <p>The relentless U.S. artillery bombardment that broke the Islamic State in Syria and Iraq also took a shattering toll on the troops who fired the cannons. Here is what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>With ‘Dream Scenario,’ Nicolas Cage Reclaims the Memes</h3>
-<sub>By Kyle Buchanan</sub>
-<p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Like Winning the Lottery’: Mike Johnson’s Ascent Excites Conservative Christians</h3>
 <sub>By Ruth Graham</sub>
 <p>The new speaker of the House is a Southern Baptist who embodies evangelical beliefs and priorities, with a long history of work against abortion and gay rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Banks Are Suddenly Closing Down Customer Accounts</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>A doctor who tracks Nazi loot. Also: a trip to a Hindu goddess festival, and Kim Kardashian on the future of Skims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Nov. 3, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
