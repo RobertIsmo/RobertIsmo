@@ -60,18 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-Currently, tensions are running high between Israel and Gaza in the Middle East, as there has been an airstrike with many casualties. In the US, President Biden&#39;s approval rating has been dropping in recent polls due to weak support among younger and nonwhite voters. Meanwhile, in Philadelphia, a former city council member is poised to become the first woman to lead the city. Finally, there was some good news this week as Nicolas Cage starred in a dark comedy about viral fame and runners competed at the New York City Marathon.</p>
+Right now, tensions are escalating between Israel and Palestine. U.S. Officials are concerned that American guns ordered by Israel could worsen the situation on the West Bank. As a result of these tensions, there have been communication blackouts in the Gaza and clashes between Israel and Hezbollah on the Israel-Lebanon border. 
+
+Here in the US, polls show Donald Trump leading Joe Biden in 5 key battleground states, much to the anxiety of many Democrats. Biden&#39;s team is emphasizing that a year ahead of polling isn&#39;t always accurate, but they&#39;re still feeling worried. Banks have also been abruptly closing customer accounts without explanation, leaving some people unable to pay rent or make payroll. 
+
+On the lighter side of things, Nicolas Cage has an interesting new dark comedy movie out - it&#39;s about a man who starts appearing in people&#39;s dreams as if he&#39;s famous - which Cage found cathartic in terms of his own experiences with viral fame. In other news, Tim Scott lost an election he ran for as a Republican back in 1996; this was seen as his potential for drawing more Black voters into the GOP, but ultimately it didn&#39;t pan out. Also, over here in NYC we had our Marathon - Tamirat Tola and Hellen Obiri won it this year and even broke a course record! Finally, Donald Trump faces a trial that could affect his business empire next week - he&#39;ll be under oath on the witness stand and it&#39;ll be totally different from what he&#39;s used to!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Quietly Pushed for Egypt to Admit Large Numbers of Gazans</h3>
-<sub>By Patrick Kingsley</sub>
-<p>The Israeli government has not publicly called for large numbers of Gazans to move to Egypt. But in private, diplomats say, it has pushed for just that — augmenting Palestinian fears of a permanent expulsion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Officials Fear American Guns Ordered by Israel Could Fuel West Bank Violence</h3>
+<sub>By Edward Wong and Patrick Kingsley</sub>
+<p>Israel wants 24,000 assault rifles. Itamar Ben-Gvir, a far-right minister overseeing the police, has given rifles to civilians and is forming “security squads.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Explosion Gazans Say Was Airstrike Leaves Many Casualties in Dense Neighborhood</h3>
-<sub>By Hiba Yazbek and Samar Abu Elouf</sub>
-<p>Dozens were taken to nearby Al-Aqsa Martyrs Hospital, where a photographer for The New York Times saw the injured crowding the hallways and the lifeless being prepared for burial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Third Communications Blackout Hits Gaza</h3>
+<sub>By Anushka Patil</sub>
+<p>The director general of the World Health Organization, Tedros Adhanom Ghebreyesus, said it was “very concerned” about the outage and reports of heavy bombardment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -84,6 +88,12 @@ Currently, tensions are running high between Israel and Gaza in the Middle East,
 <h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
 <sub>By Shane Goldmacher</sub>
 <p>Voters in battleground states said they trusted Donald J. Trump over President Biden on the economy, foreign policy and immigration, as Mr. Biden’s multiracial base shows signs of fraying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Express Deep Anxiety as Polls Show Biden Trailing Trump</h3>
+<sub>By Michael D. Shear</sub>
+<p>President Biden’s team emphasized that polls have failed to predict the results of elections when taken a year ahead of time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -104,35 +114,29 @@ Currently, tensions are running high between Israel and Gaza in the Middle East,
 <p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Five boroughs to the finish: capturing the marathon in pictures.</h3>
-<sub>By The New York Times</sub>
-<p>Times Photographers documented the annual race through all across the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Forget Aerodynamics: Running the Marathon in Style</h3>
-<sub>By Callie Holtermann and Hilary Swift</sub>
-<p>“Joy and performance are not mutually exclusive,” said Alexi Pappas. She was one of many runners standing out at the starting line of the New York City Marathon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Lewiston Shooting, Maine’s Deaf Community Seeks to Rise Above, Again</h3>
+<sub>By Jenna Russell and Amelia Nierenberg</sub>
+<p>The attack, in which four of the 18 people killed were Deaf, resurfaced previous traumas and came after decades of efforts to be recognized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘I’m Not Superwoman’: Philadelphia’s Likely Mayor Urges Teamwork</h3>
-<sub>By David W. Chen</sub>
-<p>Cherelle Parker, a former City Council member, is poised to become the first woman to lead America’s sixth-biggest city. Her to-do list is daunting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When Tim Scott Tried to Appeal to Black Voters, and Lost</h3>
+<sub>By Clyde McGrady</sub>
+<p>The Republican presidential candidate’s defeat in a largely Black South Carolina district in 1996 derailed his promise as someone who could expand the party’s appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>A doctor who tracks Nazi loot. Also: a trip to a Hindu goddess festival, and Kim Kardashian on the future of Skims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<h3>Trump’s Credibility, Coherence and Control Face Test on Witness Stand</h3>
+<sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
+<p>The former president will testify Monday in a trial that threatens the business empire that created his public persona. He will be out of his element and under oath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Nov. 3, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Tamirat Tola and Hellen Obiri Win New York City Marathon</h3>
+<sub>By Scott Cacciola</sub>
+<p>This year’s race saw a course record broken and a dramatically close women’s contest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
