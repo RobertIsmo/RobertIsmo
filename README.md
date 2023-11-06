@@ -58,20 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, November 5, Central Standard Time</p>
+<p>It is Monday, November 6, Central Standard Time</p>
 <p>
-There have been recent tensions in the Middle East between Israel and Gaza resulting in communication blackouts and a fear of violence, fueled by arms shipments. Meanwhile, in the US, Donald Trump is doing better than expected in polls before the election, due to young, nonwhite and less engaged voters not showing as much support for incumbent President Biden. Biden&#39;s team is emphasizing that election polling is unreliable this far out. Banks are giving unclear reasons for closing customer accounts without warning. In states like Maine, the Deaf community has yet again faced violence against them. And finally, two people from Ethiopia set a course record in New York City&#39;s Marathon!</p>
+There&#39;s a lot happening in the world right now. In the Middle East, U.S. Secretary of State Antony Blinken is visiting Palestinian and Iraqi leaders in an attempt to stop the conflict between Israel and Gaza. Meanwhile, in the U.S., people are concerned about Israel ordering assault rifles and how it might cause more violence in the West Bank, while President Biden is facing an uphill battle with current polls showing him trailing Trump. China has a new economic plan that involves investing heavily in factories while trying to help their indebted local governments, and over in Afghanistan, their cricket team is making waves in the international competitions.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Meets With Palestinian and Iraqi Leaders in Bid to Contain Gaza War</h3>
+<sub>By Adam Entous</sub>
+<p>The U.S. secretary of state made two unannounced visits on Sunday, the first to the Israeli-occupied West Bank and the second to Baghdad.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Officials Fear American Guns Ordered by Israel Could Fuel West Bank Violence</h3>
 <sub>By Edward Wong and Patrick Kingsley</sub>
 <p>Israel wants 24,000 assault rifles. Itamar Ben-Gvir, a far-right minister overseeing the police, has given rifles to civilians and is forming “security squads.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Third Communications Blackout Hits Gaza</h3>
-<sub>By Anushka Patil</sub>
-<p>The director general of the World Health Organization, Tedros Adhanom Ghebreyesus, said it was “very concerned” about the outage and reports of heavy bombardment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,16 +104,22 @@ There have been recent tensions in the Middle East between Israel and Gaza resul
 <p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>With ‘Dream Scenario,’ Nicolas Cage Reclaims the Memes</h3>
-<sub>By Kyle Buchanan</sub>
-<p>In his new dark comedy, the star plays a man who begins popping up in people’s dreams. It’s a metaphor for viral fame that he found cathartic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>More Semiconductors, Less Housing: China’s New Economic Plan</h3>
+<sub>By Keith Bradsher</sub>
+<p>Policymakers, wary of inciting reckless borrowing in real estate, are instead investing heavily in factories and trying to help indebted local governments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Lewiston Shooting, Maine’s Deaf Community Seeks to Rise Above, Again</h3>
 <sub>By Jenna Russell and Amelia Nierenberg</sub>
 <p>The attack, in which four of the 18 people killed were Deaf, resurfaced previous traumas and came after decades of efforts to be recognized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A World Cup’s Unlikely Heroes: Afghanistan</h3>
+<sub>By Mujib Mashal and Atul Loke</sub>
+<p>The nation’s cricket team has won big games and many fans in an international competition, in a stark contrast to the pariah status of its government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There have been recent tensions in the Middle East between Israel and Gaza resul
 <h3>Trump’s Credibility, Coherence and Control Face Test on Witness Stand</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
 <p>The former president will testify Monday in a trial that threatens the business empire that created his public persona. He will be out of his element and under oath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Tamirat Tola and Hellen Obiri Win New York City Marathon</h3>
-<sub>By Scott Cacciola</sub>
-<p>This year’s race saw a course record broken and a dramatically close women’s contest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
