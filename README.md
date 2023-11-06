@@ -60,13 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 6, Central Standard Time</p>
 <p>
-Currently, the war in Gaza is ongoing with U.S. Secretary of State Blinken attempting to help de-escalate tensions by visiting both Israeli-occupied West Bank and Iraq. In the U.S., there are fears that American guns ordered by Israel could fuel the conflict in West Bank and there are also concerns about poll numbers showing President Biden trailing Trump in critical states. In addition, banks are randomly closing down customer accounts without explanation, and in Maine&#39;s deaf community there is pain after the devastating shooting which resulted in four deaths. On a positive note, Afghanistan&#39;s cricket team is playing well during the World Cup, while Tim Scott recently lost an election attempt at appealing to Black voters in South Carolina. Finally, former president Donald Trump will testify under oath in a trial that could potentially damage his business empire.</p>
+Right now, there is a lot of unrest in the world. In the US, Donald Trump&#39;s legal troubles have not damaged his standing in polls for the 2024 presidential election, though a conviction could be detrimental. Meanwhile, President Biden is trailing in polls for key swing states. Over in Israel, they’ve called up their reserves in their ongoing conflict with Gaza and they have ordered 24,000 assault rifles, which has some US officials worried. In tech news, new AI start-ups are looking to make an impression on the Pentagon but are facing similar worried concerns. Finally, a new telescope has been launched that promises to give us an unprecedented view of the universe.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Indictments Haven’t Sunk His Campaign, but a Conviction Might</h3>
+<sub>By Jonathan Swan, Ruth Igielnik and Maggie Haberman</sub>
+<p>Polls by The New York Times and Siena College show his strength in key swing states, in part because of concerns about President Biden’s age. But a conviction could be the difference in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Swing State Voters Are Souring on Biden</h3>
+<sub>By Michael Barbaro, Mooj Zadie, Asthaa Chaturvedi, Luke Vander Ploeg, Marc Georges, Rachel Quester, Marion Lozano, Rowan Niemisto and Alyssa Moxley</sub>
+<p>A new Times&#x2F;Siena poll finds Donald Trump leading President Biden in five of six key battlegrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>What Can Biden Do?</h3>
+<sub>By David Leonhardt</sub>
+<p>The president’s strategic options for 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Meets With Palestinian and Iraqi Leaders in Bid to Contain Gaza War</h3>
-<sub>By Adam Entous</sub>
-<p>The U.S. secretary of state made two unannounced visits on Sunday, the first to the Israeli-occupied West Bank and the second to Baghdad.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<h3>As Gaza Hospitals Collapse, Medical Workers Face the Hardest Choices</h3>
+<sub>By Ameera Harouda, Maria Abi-Habib and Abu Bakr Bashir</sub>
+<p>Doctors say they are performing surgeries without anesthesia after weeks of Israeli bombings and siege left severe shortages of medicine, water, food and fuel. “We choose who gets ventilation by deciding who has the best chance of survival,” one doctor said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Called to Serve, Israeli Reservists Wait to Deploy</h3>
+<sub>By Mark Landler and Adam Sella</sub>
+<p>Facing a military campaign with no end in sight, tens of thousands of soldiers in Israel find themselves in a holding pattern.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Officials Fear American Guns Ordered by Israel Could Fuel West Bank Violence</h3>
@@ -74,64 +98,40 @@ Currently, the war in Gaza is ongoing with U.S. Secretary of State Blinken attem
 <p>Israel wants 24,000 assault rifles. Itamar Ben-Gvir, a far-right minister overseeing the police, has given rifles to civilians and is forming “security squads.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>Israel and Hezbollah have clashed repeatedly along the Israel-Lebanon border in recent weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Leads in 5 Critical States as Voters Blast Biden, Times&#x2F;Siena Poll Finds</h3>
-<sub>By Shane Goldmacher</sub>
-<p>Voters in battleground states said they trusted Donald J. Trump over President Biden on the economy, foreign policy and immigration, as Mr. Biden’s multiracial base shows signs of fraying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Express Deep Anxiety as Polls Show Biden Trailing Trump</h3>
-<sub>By Michael D. Shear</sub>
-<p>President Biden’s team emphasized that polls have failed to predict the results of elections when taken a year ahead of time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Biden Is Behind, and How He Could Come Back</h3>
-<sub>By Nate Cohn and Alicia Parlapiano</sub>
-<p>A polling deficit against Trump across six key states is mainly about younger, nonwhite and less engaged voters. Kamala Harris performs slightly better.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Banks Are Suddenly Closing Down Customer Accounts</h3>
-<sub>By Ron Lieber and Tara Siegel Bernard</sub>
-<p>Surprised individuals and small-business owners can’t pay rent or make payroll, and no one ever explains what they did wrong.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>More Semiconductors, Less Housing: China’s New Economic Plan</h3>
-<sub>By Keith Bradsher</sub>
-<p>Policymakers, wary of inciting reckless borrowing in real estate, are instead investing heavily in factories and trying to help indebted local governments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Lewiston Shooting, Maine’s Deaf Community Seeks to Rise Above, Again</h3>
-<sub>By Jenna Russell and Amelia Nierenberg</sub>
-<p>The attack, in which four of the 18 people killed were Deaf, resurfaced previous traumas and came after decades of efforts to be recognized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A World Cup’s Unlikely Heroes: Afghanistan</h3>
-<sub>By Mujib Mashal and Atul Loke</sub>
-<p>The nation’s cricket team has won big games and many fans in an international competition, in a stark contrast to the pariah status of its government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Tim Scott Tried to Appeal to Black Voters, and Lost</h3>
-<sub>By Clyde McGrady</sub>
-<p>The Republican presidential candidate’s defeat in a largely Black South Carolina district in 1996 derailed his promise as someone who could expand the party’s appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel’s ‘Large Attack’ on Gaza, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Trump faces questioning in his fraud trial and a Times poll finds Biden trailing in swing states.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump’s Credibility, Coherence and Control Face Test on Witness Stand</h3>
 <sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
 <p>The former president will testify Monday in a trial that threatens the business empire that created his public persona. He will be out of his element and under oath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What to Know About Trump’s Civil Fraud Trial</h3>
+<sub>By Kate Christobek</sub>
+<p>The former president will testify Monday in a Manhattan courtroom as he tries to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tech Start-Ups Try to Sell a Cautious Pentagon on A.I.</h3>
+<sub>By Eric Lipton and Erin Schaff</sub>
+<p>Shield AI, a tech start-up, already has a drone run by artificial intelligence being used by the Israeli military. But persuading the Pentagon to embrace the technology remains a big challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Chatbots May ‘Hallucinate’ More Often Than Many Realize</h3>
+<sub>By Cade Metz</sub>
+<p>When summarizing facts, ChatGPT technology makes things up about 3 percent of the time, according to research from a new start-up. A Google system’s rate was 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Beginner’s Guide to Looking at the Universe</h3>
+<sub>By Kate LaRue</sub>
+<p>A stunning advancement in a long history of stargazing, the James Webb telescope reveals light where once we saw only darkness. Our view of the universe will never be the same.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
