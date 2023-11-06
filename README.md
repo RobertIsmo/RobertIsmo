@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 6, Central Standard Time</p>
 <p>
-There has been a lot of news lately about international conflict and political developments around the US. In Israel, violence between the Israeli Defense Forces and Hamas-backed militias has been increasing due to airstrikes and attacks in Gaza. Meanwhile, in the US, former president Donald Trump is still facing possible indictments going into his 2024 presidential re-election campaign. And while President Biden&#39;s administration is attempting to implement various economic stimulus measures, this hasn&#39;t been enough for some American voters, especially those in key swing states. On the technological front, AI companies are trying to get a foothold on Pentagon contracts, while new research shows that chatbot technology might be more likely to hallucinate facts than previously thought. Finally, astronomy enthusiasts will soon be able to explore uncharted depths of space with the James Webb telescope, whose advanced imaging capabilities promise to enable us to see further out into the universe than ever before.</p>
+Right now, the US presidential election is quickly approaching and polls show that President Biden&#39;s support among Black voters is slipping. Because of this, his allies are worried that it could threaten his re-election. But the indictments against President Trump haven&#39;t hurt his campaign much yet, as some people are concerned about Biden&#39;s age and might be voting for Trump due to that. 
+
+Meanwhile, in Gaza, hospitals are collapsing due to a severe shortage of medicine, water, food and fuel after weeks of Israeli bombings and siege. As a result, medical workers have to make difficult decisions about who can get ventilation based on who they think has the best chance of survival. 
+
+In the US, people are having quiet conversations about war and race in order to bring attention to how different types of suffering get recognized or not. On an unrelated note, there&#39;s some new stargazing technology being tested right now called the James Webb telescope which reveals light where once we saw only darkness – so our view of the universe will never be the same! 
+
+Moving onto politics again, the Supreme Court is slated to hear arguments this week on whether or not people who are subjected to restraining orders for domestic abuse can be disarmed. Additionally, tech start-ups are trying to appeal to the Pentagon and convince them to embrace artificial intelligence (AI). A new chatbot technology study recently found that it “hallucinates” more than one would expect when summarizing facts – even Google’s system did this 27 percent of the time! 
+
+Finally, Mississippi may soon have a Democratic governor because Brandon Presley thinks it&#39;s possible – he&#39;s currently campaigning with a focus on expanding Medicaid and getting Black voters out to vote in a state where no Democrat has won within 20 years. In Ohio specifically, voters will decide if they want to enshrine abortion access in the state constitution during this election cycle.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Black Voters Drift to Trump, Biden’s Allies Say They Have Work to Do</h3>
+<sub>By Maya King and Lisa Lerer</sub>
+<p>New York Times&#x2F;Siena College polling painted a worrisome picture of the president’s standing with a crucial constituency. Democratic strategists warned that the erosion could threaten his re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictments Haven’t Sunk His Campaign, but a Conviction Might</h3>
 <sub>By Jonathan Swan, Ruth Igielnik and Maggie Haberman</sub>
@@ -74,40 +88,34 @@ There has been a lot of news lately about international conflict and political d
 <p>The president’s strategic options for 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Voters Aren’t Believing in Bidenomics</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Ephrat Livni and Vivienne Walt</sub>
-<p>A new Times&#x2F;Sienna poll shows the president behind in five of six key states. Voters cite his economic track record, indicators notwithstanding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Gaza Hospitals Collapse, Medical Workers Face the Hardest Choices</h3>
 <sub>By Ameera Harouda, Maria Abi-Habib and Abu Bakr Bashir</sub>
 <p>Doctors say they are performing surgeries without anesthesia after weeks of Israeli bombings and siege left severe shortages of medicine, water, food and fuel. “We choose who gets ventilation by deciding who has the best chance of survival,” one doctor said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Called to Serve, Israeli Reservists Wait to Deploy</h3>
-<sub>By Mark Landler and Adam Sella</sub>
-<p>Facing a military campaign with no end in sight, tens of thousands of soldiers in Israel find themselves in a holding pattern.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Across the Echo Chamber, a Quiet Conversation About War and Race</h3>
+<sub>By Jennifer Medina</sub>
+<p>When two acquaintances in Atlanta sat down to find common ground on the Israel-Hamas war, they found themselves in a painful conversation about race, power and whose suffering is recognized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Beginner’s Guide to Looking at the Universe</h3>
+<sub>By Kate LaRue</sub>
+<p>A stunning advancement in a long history of stargazing, the James Webb telescope reveals light where once we saw only darkness. Our view of the universe will never be the same.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court’s Devotion to Gun Rights Faces a Challenging Test</h3>
+<sub>By Adam Liptak</sub>
+<p>The justices will hear arguments on Tuesday on whether the government can disarm people subject to restraining orders for domestic abuse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Officials Fear American Guns Ordered by Israel Could Fuel West Bank Violence</h3>
-<sub>By Edward Wong and Patrick Kingsley</sub>
-<p>Israel wants 24,000 assault rifles. Itamar Ben-Gvir, a far-right minister overseeing the police, has given rifles to civilians and is forming “security squads.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel’s ‘Large Attack’ on Gaza, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Trump faces questioning in his fraud trial and a Times poll finds Biden trailing in swing states.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What to Know About Trump’s Civil Fraud Trial</h3>
-<sub>By Kate Christobek</sub>
-<p>The former president will testify Monday in a Manhattan courtroom as he tries to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas Man at Center of Supreme Court Case Says He No Longer Wants Guns</h3>
+<sub>By Abbie VanSickle</sub>
+<p>Zackey Rahimi has vowed “to stay away from all firearms and weapons” in a case that could expand gun rights protections, but advocates say he is not an ideal poster boy for the Second Amendment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +130,17 @@ There has been a lot of news lately about international conflict and political d
 <p>When summarizing facts, ChatGPT technology makes things up about 3 percent of the time, according to research from a new start-up. A Google system’s rate was 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Beginner’s Guide to Looking at the Universe</h3>
-<sub>By Kate LaRue</sub>
-<p>A stunning advancement in a long history of stargazing, the James Webb telescope reveals light where once we saw only darkness. Our view of the universe will never be the same.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Democratic Governor in Mississippi? He Thinks It’s Possible.</h3>
 <sub>By Rick Rojas</sub>
 <p>With a promise to expand Medicaid and a focus on turning out Black voters, Brandon Presley is confident he can do what no Democrat has done in 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Election Day Guide: Governor Races, Abortion Access and More</h3>
+<sub>By Neil Vigdor</sub>
+<p>Two governorships are at stake in the South, while Ohio voters will decide whether to enshrine the right to an abortion in the state constitution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
