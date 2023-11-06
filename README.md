@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 5, Central Standard Time</p>
 <p>
-Right now, tensions are escalating between Israel and Palestine. U.S. Officials are concerned that American guns ordered by Israel could worsen the situation on the West Bank. As a result of these tensions, there have been communication blackouts in the Gaza and clashes between Israel and Hezbollah on the Israel-Lebanon border. 
-
-Here in the US, polls show Donald Trump leading Joe Biden in 5 key battleground states, much to the anxiety of many Democrats. Biden&#39;s team is emphasizing that a year ahead of polling isn&#39;t always accurate, but they&#39;re still feeling worried. Banks have also been abruptly closing customer accounts without explanation, leaving some people unable to pay rent or make payroll. 
-
-On the lighter side of things, Nicolas Cage has an interesting new dark comedy movie out - it&#39;s about a man who starts appearing in people&#39;s dreams as if he&#39;s famous - which Cage found cathartic in terms of his own experiences with viral fame. In other news, Tim Scott lost an election he ran for as a Republican back in 1996; this was seen as his potential for drawing more Black voters into the GOP, but ultimately it didn&#39;t pan out. Also, over here in NYC we had our Marathon - Tamirat Tola and Hellen Obiri won it this year and even broke a course record! Finally, Donald Trump faces a trial that could affect his business empire next week - he&#39;ll be under oath on the witness stand and it&#39;ll be totally different from what he&#39;s used to!</p>
+There have been recent tensions in the Middle East between Israel and Gaza resulting in communication blackouts and a fear of violence, fueled by arms shipments. Meanwhile, in the US, Donald Trump is doing better than expected in polls before the election, due to young, nonwhite and less engaged voters not showing as much support for incumbent President Biden. Biden&#39;s team is emphasizing that election polling is unreliable this far out. Banks are giving unclear reasons for closing customer accounts without warning. In states like Maine, the Deaf community has yet again faced violence against them. And finally, two people from Ethiopia set a course record in New York City&#39;s Marathon!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Officials Fear American Guns Ordered by Israel Could Fuel West Bank Violence</h3>
