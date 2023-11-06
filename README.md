@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 6, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest in the world. In the US, Donald Trump&#39;s legal troubles have not damaged his standing in polls for the 2024 presidential election, though a conviction could be detrimental. Meanwhile, President Biden is trailing in polls for key swing states. Over in Israel, they’ve called up their reserves in their ongoing conflict with Gaza and they have ordered 24,000 assault rifles, which has some US officials worried. In tech news, new AI start-ups are looking to make an impression on the Pentagon but are facing similar worried concerns. Finally, a new telescope has been launched that promises to give us an unprecedented view of the universe.</p>
+There has been a lot of news lately about international conflict and political developments around the US. In Israel, violence between the Israeli Defense Forces and Hamas-backed militias has been increasing due to airstrikes and attacks in Gaza. Meanwhile, in the US, former president Donald Trump is still facing possible indictments going into his 2024 presidential re-election campaign. And while President Biden&#39;s administration is attempting to implement various economic stimulus measures, this hasn&#39;t been enough for some American voters, especially those in key swing states. On the technological front, AI companies are trying to get a foothold on Pentagon contracts, while new research shows that chatbot technology might be more likely to hallucinate facts than previously thought. Finally, astronomy enthusiasts will soon be able to explore uncharted depths of space with the James Webb telescope, whose advanced imaging capabilities promise to enable us to see further out into the universe than ever before.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Indictments Haven’t Sunk His Campaign, but a Conviction Might</h3>
@@ -68,16 +68,16 @@ Right now, there is a lot of unrest in the world. In the US, Donald Trump&#39;s 
 <p>Polls by The New York Times and Siena College show his strength in key swing states, in part because of concerns about President Biden’s age. But a conviction could be the difference in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Swing State Voters Are Souring on Biden</h3>
-<sub>By Michael Barbaro, Mooj Zadie, Asthaa Chaturvedi, Luke Vander Ploeg, Marc Georges, Rachel Quester, Marion Lozano, Rowan Niemisto and Alyssa Moxley</sub>
-<p>A new Times&#x2F;Siena poll finds Donald Trump leading President Biden in five of six key battlegrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>What Can Biden Do?</h3>
 <sub>By David Leonhardt</sub>
 <p>The president’s strategic options for 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Voters Aren’t Believing in Bidenomics</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Ephrat Livni and Vivienne Walt</sub>
+<p>A new Times&#x2F;Sienna poll shows the president behind in five of six key states. Voters cite his economic track record, indicators notwithstanding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,12 +105,6 @@ Right now, there is a lot of unrest in the world. In the US, Donald Trump&#39;s 
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump’s Credibility, Coherence and Control Face Test on Witness Stand</h3>
-<sub>By Ben Protess, Jonah E. Bromwich and Maggie Haberman</sub>
-<p>The former president will testify Monday in a trial that threatens the business empire that created his public persona. He will be out of his element and under oath.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What to Know About Trump’s Civil Fraud Trial</h3>
 <sub>By Kate Christobek</sub>
 <p>The former president will testify Monday in a Manhattan courtroom as he tries to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -133,6 +127,12 @@ Right now, there is a lot of unrest in the world. In the US, Donald Trump&#39;s 
 <sub>By Kate LaRue</sub>
 <p>A stunning advancement in a long history of stargazing, the James Webb telescope reveals light where once we saw only darkness. Our view of the universe will never be the same.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Democratic Governor in Mississippi? He Thinks It’s Possible.</h3>
+<sub>By Rick Rojas</sub>
+<p>With a promise to expand Medicaid and a focus on turning out Black voters, Brandon Presley is confident he can do what no Democrat has done in 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
