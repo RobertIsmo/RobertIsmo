@@ -60,15 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 6, Central Standard Time</p>
 <p>
-Right now, the US presidential election is quickly approaching and polls show that President Biden&#39;s support among Black voters is slipping. Because of this, his allies are worried that it could threaten his re-election. But the indictments against President Trump haven&#39;t hurt his campaign much yet, as some people are concerned about Biden&#39;s age and might be voting for Trump due to that. 
+Right now, things are very divided in the United States. Black voters appear to be moving away from supporting Biden, but many strategists say that this shift could threaten his chances of re-election. Meanwhile, Trump hasn&#39;t been indicted by the courts yet, but if he were convicted that could have a major effect on 2024&#39;s election. Also, some Democrats are suggesting that Biden should be replaced by a prominent Democrat as the primary nominee, but it looks unlikely for now. 
 
-Meanwhile, in Gaza, hospitals are collapsing due to a severe shortage of medicine, water, food and fuel after weeks of Israeli bombings and siege. As a result, medical workers have to make difficult decisions about who can get ventilation based on who they think has the best chance of survival. 
+Outside of the US, in Gaza hospitals are facing extreme shortages of medicine and resources due to recent bombings and sieges by Israel. Plus, debates over power and how different people&#39;s suffering is recognized are occurring within the echo chamber.
 
-In the US, people are having quiet conversations about war and race in order to bring attention to how different types of suffering get recognized or not. On an unrelated note, there&#39;s some new stargazing technology being tested right now called the James Webb telescope which reveals light where once we saw only darkness – so our view of the universe will never be the same! 
-
-Moving onto politics again, the Supreme Court is slated to hear arguments this week on whether or not people who are subjected to restraining orders for domestic abuse can be disarmed. Additionally, tech start-ups are trying to appeal to the Pentagon and convince them to embrace artificial intelligence (AI). A new chatbot technology study recently found that it “hallucinates” more than one would expect when summarizing facts – even Google’s system did this 27 percent of the time! 
-
-Finally, Mississippi may soon have a Democratic governor because Brandon Presley thinks it&#39;s possible – he&#39;s currently campaigning with a focus on expanding Medicaid and getting Black voters out to vote in a state where no Democrat has won within 20 years. In Ohio specifically, voters will decide if they want to enshrine abortion access in the state constitution during this election cycle.</p>
+Finally, there are some interesting issues closer to home. Private companies offering exclusive high-end services for New Yorkers, a hedge fund run by warring billionaires going through a rough period, and  a man from Texas challenging gun rights protections in the Supreme Court all contribute to an abnormal everyday life right now.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Black Voters Drift to Trump, Biden’s Allies Say They Have Work to Do</h3>
@@ -82,10 +78,10 @@ Finally, Mississippi may soon have a Democratic governor because Brandon Presley
 <p>Polls by The New York Times and Siena College show his strength in key swing states, in part because of concerns about President Biden’s age. But a conviction could be the difference in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>What Can Biden Do?</h3>
-<sub>By David Leonhardt</sub>
-<p>The president’s strategic options for 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Could a Prominent Democrat Really Challenge Biden? It’s Unlikely, at This Point.</h3>
+<sub>By Reid J. Epstein</sub>
+<p>Worried Democrats have thrown out the names of popular governors and senators as possible alternatives to the president. But such a challenge appears improbable for a host of reasons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -119,18 +115,6 @@ Finally, Mississippi may soon have a Democratic governor because Brandon Presley
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tech Start-Ups Try to Sell a Cautious Pentagon on A.I.</h3>
-<sub>By Eric Lipton and Erin Schaff</sub>
-<p>Shield AI, a tech start-up, already has a drone run by artificial intelligence being used by the Israeli military. But persuading the Pentagon to embrace the technology remains a big challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Chatbots May ‘Hallucinate’ More Often Than Many Realize</h3>
-<sub>By Cade Metz</sub>
-<p>When summarizing facts, ChatGPT technology makes things up about 3 percent of the time, according to research from a new start-up. A Google system’s rate was 27 percent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Democratic Governor in Mississippi? He Thinks It’s Possible.</h3>
 <sub>By Rick Rojas</sub>
 <p>With a promise to expand Medicaid and a focus on turning out Black voters, Brandon Presley is confident he can do what no Democrat has done in 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -141,6 +125,18 @@ Finally, Mississippi may soon have a Democratic governor because Brandon Presley
 <sub>By Neil Vigdor</sub>
 <p>Two governorships are at stake in the South, while Ohio voters will decide whether to enshrine the right to an abortion in the state constitution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Behind the Gates of a Private World for Only the Wealthiest New Yorkers</h3>
+<sub>By Eliza Shapiro</sub>
+<p>Although everyday life has become increasingly unaffordable for almost everyone, a new class of private, members-only and concierge services is emerging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Warring Billionaires, a Rogue Employee, a Divorce: One Hedge Fund’s Tale of Woe</h3>
+<sub>By Maureen Farrell</sub>
+<p>Two Sigma, the $60 billion quantitative trading firm, has been beset by troubles this year that have tarnished its image and could hurt its future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
