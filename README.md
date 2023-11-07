@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-It looks like US politics and international relations are dominating the news this week. In the US, Democrats in Congress are facing pressure from the left to push for a cease-fire in the conflict between Israel and Hamas. Meanwhile, President Biden is confronting limits to his influence in two conflicts - with Israel and Ukraine. On the domestic front, voters are dreading a possible Trump-Biden rematch in November&#39;s election, while Biden&#39;s economic policies so far are mixed. Worldwide, King Charles III of Britain gave a speech at odds with his own beliefs that highlighted his country&#39;s commitment to further fossil fuel extraction.</p>
+It looks like there&#39;s a lot going on in the world right now. The US is currently debating gun laws before court and is facing scrutiny over its involvement in Gaza and Lebanon. Democrats in Congress are weighing calls for ceasefires amid pressure from the left, and Biden is confronting the limits of US leverage in two conflicts. On the economic front, a report card on Bidenomics was released and automakers are delaying electric vehicle spending as demand slows. Meanwhile, Barbra Streisand is getting ready to tell all about her life in a new memoir, President Trump&#39;s business empire is on trial, and King Charles III has been delivering speeches at odds with his beliefs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gun Law Before Court Is Most Often Used as a Deterrent</h3>
+<sub>By Kim Barker</sub>
+<p>In the past 25 years, people who tried to buy guns at gun stores were rejected because of having active protection orders about 78,000 times, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Under Scrutiny Over Gaza, Israel Points to Civilian Toll of U.S. Wars</h3>
 <sub>By Michael Crowley and Edward Wong</sub>
@@ -80,14 +86,8 @@ It looks like US politics and international relations are dominating the news th
 <p>President Biden’s influence over Israel and Ukraine seems far more constrained than expected, given his central role as the supplier of arms and intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>What to Watch for in Today’s Elections, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, a gun rights case at the Supreme Court and WeWork’s bankruptcy filing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Voters Are Dreading a Trump-Biden Rematch. Enter R.F.K. Jr.</h3>
+<h3>What’s Behind Kennedy’s Poll Numbers? Voters Dread a Trump-Biden Rematch.</h3>
 <sub>By Reid J. Epstein, Ruth Igielnik and Camille Baker</sub>
 <p>Frustration with the two men likely to be the major parties’ nominees has led voters to entertain the idea of other options, New York Times&#x2F;Siena College polls found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
@@ -98,35 +98,35 @@ It looks like US politics and international relations are dominating the news th
 <p>Voters’ negative perceptions about the economy are weighing on President Biden’s poll numbers. Here’s what his economic policies have, and haven’t, accomplished.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s Who Qualified for the Third Republican Presidential Debate</h3>
-<sub>By Chris Cameron</sub>
-<p>Chris Christie, Ron DeSantis, Nikki Haley, Vivek Ramaswamy and Tim Scott will meet again on the stage on Wednesday night, but Doug Burgum missed the cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Automakers Delay Electric Vehicle Spending as Demand Slows</h3>
+<sub>By Jack Ewing</sub>
+<p>Growth is brisk but slower than expected, causing automakers to question their multibillion-dollar investments in new factories and raising doubts about the effectiveness of federal incentives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Ending TB Is Within Reach — So Why Are Millions Still Dying?</h3>
-<sub>By Stephanie Nolen and Natalija Gormalova</sub>
-<p>Tuberculosis has passed Covid as the top infectious disease killer, despite new medicines and better diagnostic tools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Lavish Tax Credits and Trade Protections Lure Solar Firms to U.S.</h3>
+<sub>By Ana Swanson and Jim Tankersley</sub>
+<p>A combination of government policies is finally succeeding in reversing a long decline in solar manufacturing in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Her Name Is Barbra, but It Wasn’t Always</h3>
-<sub>By Alexandra Jacobs</sub>
-<p>In a chatty and candid new memoir, Barbra Streisand talks about her early determination to be famous and tallies the hurdles and helpers she met along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Your Child’s School Bus Might Prevent Blackouts</h3>
+<sub>By Jack Ewing and Ivan Penn</sub>
+<p>When not driving around, electric buses and other vehicles could help utilities by storing their solar and wind energy and releasing it to meet surges in demand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Barbra Streisand Is Ready to Tell All. Pull Up a Seat.</h3>
+<sub>By Wesley Morris</sub>
+<p>At home in California, Streisand talks about her new memoir, exploring the movies and men of her life, and her determination to control her own art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>5 Things We Learned During Trump’s Trial Testimony</h3>
 <sub>By Kate Christobek</sub>
 <p>The former president took the witness stand Monday in a Manhattan courtroom as he tried to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Assails Judge and Concedes a Role in Valuing His Empire’s Property</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>The former president, who railed against New York’s attorney general while testifying before a packed courtroom, denied he committed fraud and called the fraud trial “very unfair.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>King Charles III, Climate Advocate, Delivers Speech at Odds With His Beliefs</h3>
