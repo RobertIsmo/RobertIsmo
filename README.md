@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-Right now there is a lot of tension in the Middle East between Israel and Palestine. Democrats in Congress are considering calls for a ceasefire in response to the civilian casualties occurring in Gaza. In the United States, President Biden is confronting the limits of U.S. leverage over conflicts in Israel and Ukraine, while also dealing with the issue of abortion access in Tuesday&#39;s elections. 
-
-At the Supreme Court, there is a gun rights case being argued, while the bankruptcy filing of WeWork is still looming large. There are also talks of a rematch between former President Trump and President Biden for the 2020 election, prompting people to consider other options such as Robert F. Kennedy Jr. Meanwhile, ending tuberculosis has been deemed within reach, but millions are still dying from it; and Barbra Streisand has released a memoir detailing her early struggles and determination to be famous. 
-
-Finally, King Charles III is set to speak at Parliament next week about fossil fuel extraction -- something that is against his beliefs.</p>
+It looks like US politics and international relations are dominating the news this week. In the US, Democrats in Congress are facing pressure from the left to push for a cease-fire in the conflict between Israel and Hamas. Meanwhile, President Biden is confronting limits to his influence in two conflicts - with Israel and Ukraine. On the domestic front, voters are dreading a possible Trump-Biden rematch in November&#39;s election, while Biden&#39;s economic policies so far are mixed. Worldwide, King Charles III of Britain gave a speech at odds with his own beliefs that highlighted his country&#39;s commitment to further fossil fuel extraction.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats in Congress Weigh Calls for Cease-Fire Amid Pressure From the Left</h3>
-<sub>By Karoun Demirjian</sub>
-<p>They have grown more vocal about urging measures to mitigate civilian casualties in Gaza, but supporters of a cease-fire are few and far between.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Under Scrutiny Over Gaza, Israel Points to Civilian Toll of U.S. Wars</h3>
 <sub>By Michael Crowley and Edward Wong</sub>
 <p>Israeli officials say it is impossible to defeat Hamas without killing innocents, a lesson they argue Americans and their allies should understand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats in Congress Weigh Calls for Cease-Fire Amid Pressure From the Left</h3>
+<sub>By Karoun Demirjian</sub>
+<p>They have grown more vocal about urging measures to mitigate civilian casualties in Gaza, but supporters of a cease-fire are few and far between.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Confronts the Limits of U.S. Leverage in Two Conflicts</h3>
@@ -96,11 +92,11 @@ Finally, King Charles III is set to speak at Parliament next week about fossil f
 <p>Frustration with the two men likely to be the major parties’ nominees has led voters to entertain the idea of other options, New York Times&#x2F;Siena College polls found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion’s Pull vs. Biden’s Unpopularity: What to Watch in Tuesday’s Elections</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Important races are happening throughout the country, including contests in Virginia that could determine the fate of abortion access in the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Report Card for Bidenomics</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Voters’ negative perceptions about the economy are weighing on President Biden’s poll numbers. Here’s what his economic policies have, and haven’t, accomplished.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Here’s Who Qualified for the Third Republican Presidential Debate</h3>
@@ -129,13 +125,13 @@ Finally, King Charles III is set to speak at Parliament next week about fossil f
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Trump Assails Judge and Concedes a Role in Valuing His Empire’s Property</h3>
 <sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>The former president, who also railed against New York’s attorney general in front of a packed courtroom, denied he committed fraud and called the trial “very unfair.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The former president, who railed against New York’s attorney general while testifying before a packed courtroom, denied he committed fraud and called the fraud trial “very unfair.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>King Charles III, Climate Advocate, Faces Speech at Odds With His Beliefs</h3>
+<h3>King Charles III, Climate Advocate, Delivers Speech at Odds With His Beliefs</h3>
 <sub>By Stephen Castle</sub>
-<p>In keeping with tradition, he will outline the priorities of the prime minister at the opening of Parliament — including, this year, more fossil fuel extraction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In keeping with tradition, he outlined the priorities of the prime minister at the opening of Parliament — including, this year, more fossil fuel extraction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
