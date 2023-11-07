@@ -60,66 +60,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! President Biden has been confronting the limits of US leverage in two conflicts, while former president Trump has been lashed out against a judge that is trying to use new tactics to control him. WeWork recently declared bankruptcy due to an excess of empty offices, and China is now lending billions of dollars to countries in financial trouble. Meanwhile, Black voters are drifting towards Trump while Iowa&#39;s governor has endorsed presidential candidate DeSantis. Finally, Barbra Streisand released her memoir discussing her determination to be famous, and there&#39;s a beginner&#39;s guide for looking at the universe with all the new technology available!</p>
+Right now there is a lot of tension in the Middle East between Israel and Palestine. Democrats in Congress are considering calls for a ceasefire in response to the civilian casualties occurring in Gaza. In the United States, President Biden is confronting the limits of U.S. leverage over conflicts in Israel and Ukraine, while also dealing with the issue of abortion access in Tuesday&#39;s elections. 
+
+At the Supreme Court, there is a gun rights case being argued, while the bankruptcy filing of WeWork is still looming large. There are also talks of a rematch between former President Trump and President Biden for the 2020 election, prompting people to consider other options such as Robert F. Kennedy Jr. Meanwhile, ending tuberculosis has been deemed within reach, but millions are still dying from it; and Barbra Streisand has released a memoir detailing her early struggles and determination to be famous. 
+
+Finally, King Charles III is set to speak at Parliament next week about fossil fuel extraction -- something that is against his beliefs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats in Congress Weigh Calls for Cease-Fire Amid Pressure From the Left</h3>
+<sub>By Karoun Demirjian</sub>
+<p>They have grown more vocal about urging measures to mitigate civilian casualties in Gaza, but supporters of a cease-fire are few and far between.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Under Scrutiny Over Gaza, Israel Points to Civilian Toll of U.S. Wars</h3>
+<sub>By Michael Crowley and Edward Wong</sub>
+<p>Israeli officials say it is impossible to defeat Hamas without killing innocents, a lesson they argue Americans and their allies should understand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Confronts the Limits of U.S. Leverage in Two Conflicts</h3>
 <sub>By David E. Sanger</sub>
 <p>President Biden’s influence over Israel and Ukraine seems far more constrained than expected, given his central role as the supplier of arms and intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Assails Judge and Concedes a Role in Valuing His Empire’s Property</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>The former president, who also railed against New York’s attorney general in front of a packed courtroom, denied he committed fraud and called the trial “very unfair.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Judge Tries to Do What Few Have Accomplished: Rein in Trump</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>Through the first few hours of Donald J. Trump’s time on the witness stand, he and Judge Arthur F. Engoron traded irritated facial expressions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>What to Watch for in Today’s Elections, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a gun rights case at the Supreme Court and WeWork’s bankruptcy filing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Assail Trump’s Bid to Have Federal Election Case Dismissed</h3>
-<sub>By Alan Feuer</sub>
-<p>Prosecutors said that Mr. Trump’s barrage of motions to have the case tossed out were full of “distortions and misrepresentations.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>WeWork Files for Bankruptcy Amid Glut of Empty Offices</h3>
-<sub>By Jordyn Holman and J. Edward Moreno</sub>
-<p>The move is a blow for landlords who have rented space to the co-working group, which is planning a “comprehensive reorganization” that includes cutting some of its leases.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Her Name Is Barbra, but It Wasn’t Always</h3>
-<sub>By Alexandra Jacobs</sub>
-<p>In a chatty and candid new memoir, Barbra Streisand talks about her early determination to be famous and tallies the hurdles and helpers she met along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Beginner’s Guide to Looking at the Universe</h3>
-<sub>By Kate LaRue</sub>
-<p>A stunning advancement in a long history of stargazing, the James Webb telescope reveals light where once we saw only darkness. Our view of the universe will never be the same.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Is Lending Billions to Countries in Financial Trouble</h3>
-<sub>By Keith Bradsher</sub>
-<p>Instead of lending money for highways and bridges, China has shifted to providing emergency rescues for previous borrowers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Behind the Gates of a Private World for Only the Wealthiest New Yorkers</h3>
-<sub>By Eliza Shapiro</sub>
-<p>Although everyday life has become increasingly unaffordable for almost everyone, a new class of private, members-only and concierge services is emerging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<h3>Voters Are Dreading a Trump-Biden Rematch. Enter R.F.K. Jr.</h3>
+<sub>By Reid J. Epstein, Ruth Igielnik and Camille Baker</sub>
+<p>Frustration with the two men likely to be the major parties’ nominees has led voters to entertain the idea of other options, New York Times&#x2F;Siena College polls found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Black Voters Drift to Trump, Biden’s Allies Say They Have Work to Do</h3>
-<sub>By Maya King and Lisa Lerer</sub>
-<p>New York Times&#x2F;Siena College polling painted a worrisome picture of the president’s standing with a crucial constituency. Democratic strategists warned that the erosion could threaten his re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Abortion’s Pull vs. Biden’s Unpopularity: What to Watch in Tuesday’s Elections</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Important races are happening throughout the country, including contests in Virginia that could determine the fate of abortion access in the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +108,35 @@ There&#39;s a lot going on in the world right now! President Biden has been conf
 <p>Chris Christie, Ron DeSantis, Nikki Haley, Vivek Ramaswamy and Tim Scott will meet again on the stage on Wednesday night, but Doug Burgum missed the cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Lands a Big Endorsement: Kim Reynolds, Iowa’s Popular Governor</h3>
-<sub>By Nicholas Nehamas and Ann Hinga Klein</sub>
-<p>After saying she would stay neutral in her state’s 2024 caucuses, angering Donald Trump in the process, Ms. Reynolds said “we have too much at stake.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Ending TB Is Within Reach — So Why Are Millions Still Dying?</h3>
+<sub>By Stephanie Nolen and Natalija Gormalova</sub>
+<p>Tuberculosis has passed Covid as the top infectious disease killer, despite new medicines and better diagnostic tools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Her Name Is Barbra, but It Wasn’t Always</h3>
+<sub>By Alexandra Jacobs</sub>
+<p>In a chatty and candid new memoir, Barbra Streisand talks about her early determination to be famous and tallies the hurdles and helpers she met along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>5 Things We Learned During Trump’s Trial Testimony</h3>
+<sub>By Kate Christobek</sub>
+<p>The former president took the witness stand Monday in a Manhattan courtroom as he tried to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Assails Judge and Concedes a Role in Valuing His Empire’s Property</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>The former president, who also railed against New York’s attorney general in front of a packed courtroom, denied he committed fraud and called the trial “very unfair.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>King Charles III, Climate Advocate, Faces Speech at Odds With His Beliefs</h3>
+<sub>By Stephen Castle</sub>
+<p>In keeping with tradition, he will outline the priorities of the prime minister at the opening of Parliament — including, this year, more fossil fuel extraction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
