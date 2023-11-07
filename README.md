@@ -60,30 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. The US is currently debating gun laws before court and is facing scrutiny over its involvement in Gaza and Lebanon. Democrats in Congress are weighing calls for ceasefires amid pressure from the left, and Biden is confronting the limits of US leverage in two conflicts. On the economic front, a report card on Bidenomics was released and automakers are delaying electric vehicle spending as demand slows. Meanwhile, Barbra Streisand is getting ready to tell all about her life in a new memoir, President Trump&#39;s business empire is on trial, and King Charles III has been delivering speeches at odds with his beliefs.</p>
+Right now, the US is in the middle of multiple important elections happening around the country that could determine access to and regulations around abortion. People are feeling frustrated with the idea of a potential second Trump-Biden election and some voters are looking for alternative options. The Supreme Court looks likely to pass a law that would disarm domestic abusers, which could have far-reaching effects on gun rights. Meanwhile, thousands of people remain in Northern Gaza despite war closing in and Israel&#39;s bombing and ground invasion - they say going south is too dangerous. On the other hand, a combination of federal policies are succeeding in bringing solar energy manufacturing back to the US. Additionally, electric school buses are being used to store solar and wind energy for use during peaks in demand. Barbra Streisand released her memoir recently where she talks about the movies and men of her life. Lastly, former President Trump spoke at a Manhattan courtroom as he tried to preserve his business empire.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gun Law Before Court Is Most Often Used as a Deterrent</h3>
-<sub>By Kim Barker</sub>
-<p>In the past 25 years, people who tried to buy guns at gun stores were rejected because of having active protection orders about 78,000 times, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Under Scrutiny Over Gaza, Israel Points to Civilian Toll of U.S. Wars</h3>
-<sub>By Michael Crowley and Edward Wong</sub>
-<p>Israeli officials say it is impossible to defeat Hamas without killing innocents, a lesson they argue Americans and their allies should understand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats in Congress Weigh Calls for Cease-Fire Amid Pressure From the Left</h3>
-<sub>By Karoun Demirjian</sub>
-<p>They have grown more vocal about urging measures to mitigate civilian casualties in Gaza, but supporters of a cease-fire are few and far between.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Confronts the Limits of U.S. Leverage in Two Conflicts</h3>
-<sub>By David E. Sanger</sub>
-<p>President Biden’s influence over Israel and Ukraine seems far more constrained than expected, given his central role as the supplier of arms and intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Abortion’s Pull vs. Biden’s Unpopularity: What to Watch in Tuesday’s Elections</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Important races are happening throughout the country, including contests in Virginia that could determine the fate of abortion access in the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +74,34 @@ It looks like there&#39;s a lot going on in the world right now. The US is curre
 <p>Frustration with the two men likely to be the major parties’ nominees has led voters to entertain the idea of other options, New York Times&#x2F;Siena College polls found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Report Card for Bidenomics</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Voters’ negative perceptions about the economy are weighing on President Biden’s poll numbers. Here’s what his economic policies have, and haven’t, accomplished.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Rivals Battle Each Other, and His Aura of Inevitability, as Next Debate Approaches</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>Donald Trump’s Republican challengers find themselves fighting a growing sense of resignation that 2024 will be a rematch of 2020.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As War Closes In, Many Remain in Northern Gaza</h3>
+<sub>By Karen Zraick, Vivian Yee and Emma Bubola</sub>
+<p>Hundreds of thousands of people are still in the region, despite Israel’s bombing, ground invasion and evacuation directive. Many say the trip to the south is too dangerous.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Seems Likely to Uphold Law Disarming Domestic Abusers</h3>
+<sub>By Adam Liptak</sub>
+<p>A decision in the case could extend far beyond domestic abuse by clarifying the scope of a court ruling last year on gun rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gun Law Before Court Is Most Often Used as a Deterrent</h3>
+<sub>By Kim Barker</sub>
+<p>In the past 25 years, people who tried to buy guns at gun stores were rejected because of having active protection orders about 78,000 times, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Infants Are Born With Syphilis in Growing Numbers, a Sign of a Wider Epidemic</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>Congenital syphilis has become more than ten times as common over the past decade, the C.D.C. reported. “The situation is dire,” said one expert.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -126,12 +132,6 @@ It looks like there&#39;s a lot going on in the world right now. The US is curre
 <h3>5 Things We Learned During Trump’s Trial Testimony</h3>
 <sub>By Kate Christobek</sub>
 <p>The former president took the witness stand Monday in a Manhattan courtroom as he tried to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>King Charles III, Climate Advocate, Delivers Speech at Odds With His Beliefs</h3>
-<sub>By Stephen Castle</sub>
-<p>In keeping with tradition, he outlined the priorities of the prime minister at the opening of Parliament — including, this year, more fossil fuel extraction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
