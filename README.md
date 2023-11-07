@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, November 6, Central Standard Time</p>
+<p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-Right now, the political landscape in the US is quite busy. Joe Biden is confronting the limits of US leverage in two conflicts, and Donald Trump is battling a lawsuit in court. WeWork has filed for bankruptcy while China is lending billions of dollars to countries in financial trouble. In terms of presidential candidates, five people have qualified for the third Republican presidential debate and Ron DeSantis has earned a big endorsement from Iowa&#39;s popular governor. Lastly, there&#39;s a quiet conversation going on across the echo chamber about war and race, with a focus on whose suffering gets recognized.</p>
+It looks like a lot of different things are happening in the world right now. President Biden is struggling with limited influence over conflicts with Israel and Ukraine, while former President Trump is currently embroiled in a legal battle over property valuation. China is lending billions of dollars to countries in financial trouble and private, members-only services are emerging for the wealthiest New Yorkers. Looking to the presidential elections, it looks like Black voters are drifting towards Trump, and a third Republican presidential debate is set to take place on Wednesday night with Chris Christie, Ron DeSantis, Nikki Haley, Vivek Ramaswamy and Tim Scott on stage. Lastly, Kim Reynolds has endorsed Ron DeSantis after angering Donald Trump by saying she would stay neutral in her state&#39;s 2024 caucuses.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Confronts the Limits of U.S. Leverage in Two Conflicts</h3>
@@ -92,11 +92,11 @@ Right now, the political landscape in the US is quite busy. Joe Biden is confron
 <p>The move is a blow for landlords who have rented space to the co-working group, which is planning a “comprehensive reorganization” that includes cutting some of its leases.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Across the Echo Chamber, a Quiet Conversation About War and Race</h3>
-<sub>By Jennifer Medina</sub>
-<p>When two acquaintances in Atlanta sat down to find common ground on the Israel-Hamas war, they found themselves in a painful conversation about race, power and whose suffering is recognized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Her Name Is Barbra, but It Wasn’t Always</h3>
+<sub>By Alexandra Jacobs</sub>
+<p>In a chatty and candid new memoir, Barbra Streisand talks about her early determination to be famous and tallies the hurdles and helpers she met along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>A Beginner’s Guide to Looking at the Universe</h3>
