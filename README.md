@@ -60,12 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 6, Central Standard Time</p>
 <p>
-Right now, things are very divided in the United States. Black voters appear to be moving away from supporting Biden, but many strategists say that this shift could threaten his chances of re-election. Meanwhile, Trump hasn&#39;t been indicted by the courts yet, but if he were convicted that could have a major effect on 2024&#39;s election. Also, some Democrats are suggesting that Biden should be replaced by a prominent Democrat as the primary nominee, but it looks unlikely for now. 
+Right now, there&#39;s a lot going on all around us in the world. For instance, Donald Trump is in a court battle against New York&#39;s attorney general for denying he committed fraud and is facing criticism for his words and actions. He&#39;s also accused of making false claims about election cases that could potentially affect his 2024 presidential run. 
 
-Outside of the US, in Gaza hospitals are facing extreme shortages of medicine and resources due to recent bombings and sieges by Israel. Plus, debates over power and how different people&#39;s suffering is recognized are occurring within the echo chamber.
+At the same time, the Supreme Court is looking into gun rights for people subject to restraining orders for domestic abuse or those who have chosen to stay away from firearms altogether. And in the Middle East, medical workers are being put up with difficult choices due to severe shortages of medicine and resources as Israeli bombings continue.
 
-Finally, there are some interesting issues closer to home. Private companies offering exclusive high-end services for New Yorkers, a hedge fund run by warring billionaires going through a rough period, and  a man from Texas challenging gun rights protections in the Supreme Court all contribute to an abnormal everyday life right now.</p>
+Meanwhile back here at home, Black voters are drifting towards Trump while some Democrats question whether Biden should be re-elected for president. Additionally, there are expensive and exclusive private memberships being offered to only the wealthiest New Yorkers, creating inequality within society. 
+
+Finally, there&#39;s a beautiful beginner&#39;s guide to stargazing with the James Webb telescope which has opened our eyes to more of the universe than ever before!</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Assails Judge and Concedes a Role in Valuing His Empire’s Property</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>The former president, who also railed against New York’s attorney general in front of a packed courtroom, denied he committed fraud and called the trial “very unfair.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Judge Tries to Do What Few Have Accomplished: Rein in Trump</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>Through the first few hours of Donald J. Trump’s time on the witness stand, he and Judge Arthur F. Engoron traded irritated facial expressions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Assail Trump’s Bid to Have Federal Election Case Dismissed</h3>
+<sub>By Alan Feuer</sub>
+<p>Prosecutors said that Mr. Trump’s barrage of motions to have the case tossed out were full of “distortions and misrepresentations.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Black Voters Drift to Trump, Biden’s Allies Say They Have Work to Do</h3>
 <sub>By Maya King and Lisa Lerer</sub>
@@ -114,28 +134,10 @@ Finally, there are some interesting issues closer to home. Private companies off
 <p>Zackey Rahimi has vowed “to stay away from all firearms and weapons” in a case that could expand gun rights protections, but advocates say he is not an ideal poster boy for the Second Amendment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Democratic Governor in Mississippi? He Thinks It’s Possible.</h3>
-<sub>By Rick Rojas</sub>
-<p>With a promise to expand Medicaid and a focus on turning out Black voters, Brandon Presley is confident he can do what no Democrat has done in 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Election Day Guide: Governor Races, Abortion Access and More</h3>
-<sub>By Neil Vigdor</sub>
-<p>Two governorships are at stake in the South, while Ohio voters will decide whether to enshrine the right to an abortion in the state constitution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Behind the Gates of a Private World for Only the Wealthiest New Yorkers</h3>
 <sub>By Eliza Shapiro</sub>
 <p>Although everyday life has become increasingly unaffordable for almost everyone, a new class of private, members-only and concierge services is emerging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Warring Billionaires, a Rogue Employee, a Divorce: One Hedge Fund’s Tale of Woe</h3>
-<sub>By Maureen Farrell</sub>
-<p>Two Sigma, the $60 billion quantitative trading firm, has been beset by troubles this year that have tarnished its image and could hurt its future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
