@@ -60,36 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Israel, Hamas leaders have launched an attack due to their belief that the Palestinian cause is slipping away and that violence is the only way to revive it. Here in the US, Democrats and independents have been successful in recent elections due to their stance on abortion rights. Meanwhile, Ukraine is seeing more women enter the military as they look to refill ranks for their war against Russia. Ukraine is also looking to become part of the E.U., which could be possible with some further changes in Kyiv. On a domestic level, Republicans are gearing up for their third presidential debate and there are discussions about how diversity in America has come at the cost of unity. Lastly, two interesting stories involving food, pandas, and a mass grave have come up from Houston - one about hijacked rare Japanese Kit Kats and another concerning Sugar Land&#39;s past reliance on forced labor. Lastly, Mark Zuckerberg has been tapping into WhatsApp&#39;s strengths lately.</p>
+It looks like some tension is building in the Middle East with Israel and Hamas being in talks to free up to 50 hostages. Meanwhile, on the US political front, there&#39;s a lot happening. We&#39;re only two debates into the Republican presidential primary and it looks like Nikki Haley has emerged as an early favorite for many. But there&#39;s also Vivek Ramaswamy who thinks celebrating diversity has come at a cost of national unity. On abortion, it looks like there is more support for abortion rights across Republicans and moderates alike than ever before. And in Ohio last week, Trump counties even voted in favor of abortion rights! There have also been some food-related news: the FDA has approved a new obesity drug called Wegovy and the long and strange criminal trail of one stolen load of expensive Japanese Kit Kats made its rounds online too. Houston just uncovered a mass grave from its dark past too - it turns out the city was originally named Sugar Land from a business reliant on forced labor by convicts. And finally, giant pandas are leaving Washington and fans are really sad about it!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Hamas’s Bloody Gambit to Create a ‘Permanent’ State of War</h3>
-<sub>By Ben Hubbard and Maria Abi-Habib</sub>
-<p>Hamas leaders say they waged their Oct. 7 attack on Israel because they believed the Palestinian cause was slipping away, and that only violence could revive it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Rights Fuel Big Democratic Wins, and Hopes for 2024</h3>
-<sub>By Lisa Lerer and Shane Goldmacher</sub>
-<p>Election results from Tuesday showed that Democrats, independents and even some moderate Republicans can coalesce around the issue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Abortion Lifted Democrats, and More Takeaways From Tuesday’s Elections</h3>
-<sub>By Jonathan Weisman and Reid J. Epstein</sub>
-<p>President Biden is unpopular, but the winning streak for his party and its policies has been extended through another election night.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘If Not Me, Who?’: As Ukraine Seeks Troops, Women Prepare for the Call</h3>
-<sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>With so much in the war against Russia hinging on refilling the ranks of soldiers, efforts are underway to draw more Ukrainian women into the army.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Gets an Encouraging Sign in Its Bid to Join the E.U.</h3>
-<sub>By Monika Pronczuk</sub>
-<p>The European Union’s executive arm recommended beginning membership talks with Ukraine on condition of some further changes in Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel and Hamas Nearly Struck a Deal to Free Up to 50 Hostages</h3>
+<sub>By Maria Abi-Habib and Matthew Rosenberg</sub>
+<p>Indirect talks mediated by Qatar snagged after Israel’s ground invasion of Gaza on Oct. 27. They have resumed, but hopes for a quick release have faded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,6 +86,36 @@ There is a lot going on around the world right now. In Israel, Hamas leaders hav
 <p>Whether on the debate stage or “The Daily Show,” the Republican presidential candidate is strategic about standing out — in every way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Rights Fuel Big Democratic Wins, and Hopes for 2024</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>Election results from Tuesday showed that Democrats, independents and even some moderate Republicans can coalesce around the issue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where Trump Counties in Ohio Voted to Support Abortion Rights</h3>
+<sub>By Lazaro Gamio and Amy Schoenfeld Walker</sub>
+<p>Ohio’s referendum drew support from both liberal and conservative areas of the state, and polled well ahead of President Biden’s results three years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves New Obesity Drug That Will Compete With Wegovy</h3>
+<sub>By Gina Kolata</sub>
+<p>Zepbound, which is already sold by Eli Lilly as the diabetes treatment Mounjaro, was shown to reduce patients’ weight by as much as one-fifth in drug trials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What to Know About Zepbound, the New Weight Loss Drug</h3>
+<sub>By Dani Blum</sub>
+<p>The obesity medication contains tirzepatide, the same active ingredient in the diabetes drug Mounjaro.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Subpoena Biden’s Son and Brother in Impeachment Inquiry</h3>
+<sub>By Luke Broadwater</sub>
+<p>Representative James Comer, the chairman of the Oversight Committee, demanded testimony from James Biden and Hunter Biden as he hunts for evidence of bribery and corruption by the president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
 <h3>How to Hijack a Quarter of a Million Dollars in Rare Japanese Kit Kats</h3>
 <sub>By Amelia Nierenberg</sub>
@@ -119,7 +125,7 @@ There is a lot going on around the world right now. In Israel, Hamas leaders hav
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The End of Panda Diplomacy?</h3>
 <sub>By Edward Wong and Erin Schaff</sub>
-<p>The giant pandas are leaving Washington. Some fans find it unbearable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The giant pandas have left Washington. Some fans find it unbearable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -127,12 +133,6 @@ There is a lot going on around the world right now. In Israel, Hamas leaders hav
 <sub>By Priya Krishna</sub>
 <p>The Houston suburb Sugar Land got its name from a business reliant on the forced labor of convicts. But efforts to memorialize those people have stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Mark Zuckerberg Taps the Strengths of WhatsApp</h3>
-<sub>By Mike Isaac</sub>
-<p>The messaging app, which Meta bought nearly a decade ago, was an asset that Mr. Zuckerberg largely left alone for a while. No longer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
