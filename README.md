@@ -60,42 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-Right now, it seems like tensions between the U.S. and other world governments are high. In Virginia, the G.O.P. wasn&#39;t successful in taking over the state&#39;s legislature, and in Israel, the White House has cautioned against reoccupying Gaza. At home, Congress censured Rep. Rashida Tlaib for voicing her politics, and House Republicans are still trying to figure out how to avoid a government shutdown. On the health front, there have been increasing numbers of babies born with syphilis due to its growing epidemic. Meanwhile, nations promised to lower emissions are doing exactly the opposite due to an increase in fossil fuels being produced. America is feeling a lot of uncertainty under President Biden despite some economic improvements since Reagan&#39;s 1984 re-election campaign preferred sunny messaging of hope and prosperity. overseas, Ukrainians are mourning military deaths from a medal ceremony gone wrong that harkened back to a Soviet tradition. The publishing world is buzzing about author Rebecca Yarros’ new book which combines all types of mythical creatures for a steamy fantasy series. Finally, writers and readers alike are reflecting on what President Trump seemed to have offered as well as why every day in America must be treated as if it’s Oct 8 - in remembrance of the Pittsburgh synagogue shooting that left 11 people dead in 2018.</p>
+Right now, it looks like abortion rights is a big issue that is helping to fuel the Democratic wins in the US elections. This is also having an effect on the talks in Congress regarding spending and avoiding a government shutdown. In terms of environmental issues, the world is still producing more oil, gas, and coal than would be safe for global heating, but environmental groups are having to cut programs because donations are shifting towards climate change. On the international stage, Hamas recently attacked Israel in an attempt to revive the Palestinian cause, while Hungary&#39;s leader Orbán&#39;s dream of an illiberal pan-European alliance is fading. Additionally, some people are opting for space burials upon death and women in Ukraine are preparing to join the army. Finally, a new law has supercharged electric car manufacturing but not sales in the US.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Virginia Dashes Youngkin’s Hopes of a G.O.P. Takeover, and Maybe More</h3>
-<sub>By Michael C. Bender</sub>
-<p>Democratic victories in the state’s legislative races delivered a major setback to the Republican governor, who is widely seen as eyeing the presidency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<h3>Abortion Rights Fuel Big Democratic Wins, and Hopes for 2024</h3>
+<sub>By Lisa Lerer and Shane Goldmacher</sub>
+<p>Election results from Tuesday showed that Democrats, independents and even some moderate Republicans can coalesce around the issue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reoccupying Gaza ‘Not the Right Thing to Do,’ White House Tells Israel</h3>
-<sub>By Lisa Friedman</sub>
-<p>The U.S. caution came after Prime Minister Benjamin Netanyahu floated the idea that Israel might oversee security for the Gaza Strip indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<h3>How Abortion Lifted Democrats, and More Takeaways From Tuesday’s Elections</h3>
+<sub>By Jonathan Weisman and Reid J. Epstein</sub>
+<p>President Biden is unpopular, but the winning streak for his party and its policies has been extended through another election night.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Wins for Abortion Rights in 3 States, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a House censure for Representative Rashida Tlaib and an expansion in fossil fuel extraction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Arab States Intensify Pleas for Gaza Cease-fire as Public Anger Mounts</h3>
-<sub>By Vivian Nereim</sub>
-<p>Citing deepening fears for regional stability, Saudi Arabia and other Arab countries are beseeching the U.S. to push Israel to end its military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<h3>Behind Hamas’s Bloody Gambit to Create a ‘Permanent’ State of War</h3>
+<sub>By Ben Hubbard and Maria Abi-Habib</sub>
+<p>Hamas leaders say they waged their Oct. 7 attack on Israel because they believed the Palestinian cause was slipping away, and that only violence could revive it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Censures Rashida Tlaib, Citing ‘River to the Sea’ Slogan</h3>
 <sub>By Kayla Guo</sub>
 <p>Twenty-two Democrats joined most Republicans in the rebuke of Ms. Tlaib, the only Palestinian American in Congress, accusing her of calling for the destruction of Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Infants Are Born With Syphilis in Growing Numbers, a Sign of a Wider Epidemic</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>Congenital syphilis has become more than ten times as common over the past decade, the C.D.C. reported. “The situation is dire,” said one expert.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -104,34 +98,40 @@ Right now, it seems like tensions between the U.S. and other world governments a
 <p>The world remains on track to produce far more oil, gas and coal than would be consistent with relatively safe levels of heating, a new report found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Morning in America’ Eludes Biden, Despite Economic Gains</h3>
-<sub>By Jim Tankersley</sub>
-<p>Seeking re-election in 1984, Ronald Reagan presided over an economy similar in many ways to today’s. But he sold a message of progress and promise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Environmental Groups Cut Programs as Funding Shifts to Climate Change</h3>
+<sub>By Ralph Vartabedian</sub>
+<p>The Natural Resources Defense Council is eliminating its longstanding program promoting nuclear safety and cleanup as donors focus on the climate crisis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Their Final Wish? A Burial in Space.</h3>
+<sub>By Dina Litovsky and Jon Mooallem</sub>
+<p>Why some people decide to send their remains into orbit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Something Was Wrong’: Ukrainians Lament Deaths at Medal Ceremony</h3>
+<h3>‘If Not Me, Who?’: As Ukraine Seeks Troops, Women Prepare for the Call</h3>
 <sub>By Andrew E. Kramer and Maria Varenikova</sub>
-<p>A gathering in plain sight of so many soldiers was reckless, critics said, and evoked a rigid adherence to Soviet-era military tradition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>With so much in the war against Russia hinging on refilling the ranks of soldiers, efforts are underway to draw more Ukrainian women into the army.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>How Rebecca Yarros Packed Dragons, Magic and Steamy Sex Into a Blockbuster Fantasy</h3>
-<sub>By Alexandra Alter</sub>
-<p>Yarros drew on her experience with chronic illness and life in a military family to write “Fourth Wing,” a huge best seller that spawned a spicy fantasy series.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Orban’s Dream of an Illiberal Pan-European Alliance Is Fading</h3>
+<sub>By Andrew Higgins</sub>
+<p>The Hungarian leader’s efforts have been undermined by setbacks for some of his political allies across Europe and deep divisions over the war in Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What Voters Want That Trump Seems to Have</h3>
-<sub>By Michelle Cottle</sub>
-<p>Voters could end up seeing the ex-president as the nostalgia candidate, the change candidate and the protest candidate all in one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A New Law Supercharged Electric Car Manufacturing, but Not Sales</h3>
+<sub>By Jim Tankersley, Ana Swanson, Jack Ewing and Coral Davenport</sub>
+<p>President Biden’s 2022 climate act spurred big investments in U.S. battery factories, but it has not similarly boosted E.V. sales.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>For America’s Jews, Every Day Must Be Oct. 8</h3>
-<sub>By Bret Stephens</sub>
-<p>We got our wake-up call the day after the massacre. It’s time to act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
