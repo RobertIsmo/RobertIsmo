@@ -60,30 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-Right now, the US is in the middle of multiple important elections happening around the country that could determine access to and regulations around abortion. People are feeling frustrated with the idea of a potential second Trump-Biden election and some voters are looking for alternative options. The Supreme Court looks likely to pass a law that would disarm domestic abusers, which could have far-reaching effects on gun rights. Meanwhile, thousands of people remain in Northern Gaza despite war closing in and Israel&#39;s bombing and ground invasion - they say going south is too dangerous. On the other hand, a combination of federal policies are succeeding in bringing solar energy manufacturing back to the US. Additionally, electric school buses are being used to store solar and wind energy for use during peaks in demand. Barbra Streisand released her memoir recently where she talks about the movies and men of her life. Lastly, former President Trump spoke at a Manhattan courtroom as he tried to preserve his business empire.</p>
+Right now, there is a lot going on in the US and around the world. In the US, important state elections are taking place that could determine the fate of abortion access in Virginia. As we wait to see the outcome, people are asking when will we have election results? The White House has told Israel that reoccupying Gaza &#39;is not the right thing to do&#39; and the Supreme Court seems likely to uphold a law disarming domestic abusers. On a health note, infants are being born with syphilis in growing numbers. 
+In other news, Barbra Streisand is talking about her new memoir and a company is delaying electric vehicle spending as demand slows. Also, workers in Sweden are expanding their strike against Tesla and during Trump&#39;s trial testimony we found out 5 things. All-in-all it&#39;s been a very busy news week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion’s Pull vs. Biden’s Unpopularity: What to Watch in Tuesday’s Elections</h3>
+<h3>Abortion’s pull vs. Biden’s unpopularity: What to watch in today’s elections.</h3>
 <sub>By Jonathan Weisman</sub>
 <p>Important races are happening throughout the country, including contests in Virginia that could determine the fate of abortion access in the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What’s Behind Kennedy’s Poll Numbers? Voters Dread a Trump-Biden Rematch.</h3>
-<sub>By Reid J. Epstein, Ruth Igielnik and Camille Baker</sub>
-<p>Frustration with the two men likely to be the major parties’ nominees has led voters to entertain the idea of other options, New York Times&#x2F;Siena College polls found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Rivals Battle Each Other, and His Aura of Inevitability, as Next Debate Approaches</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>Donald Trump’s Republican challengers find themselves fighting a growing sense of resignation that 2024 will be a rematch of 2020.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When Will We Have Election Results?</h3>
+<sub>By Alyce McFadden</sub>
+<p>It’s not unreasonable to hope for results in a timely manner on Tuesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Closes In, Many Remain in Northern Gaza</h3>
-<sub>By Karen Zraick, Vivian Yee and Emma Bubola</sub>
-<p>Hundreds of thousands of people are still in the region, despite Israel’s bombing, ground invasion and evacuation directive. Many say the trip to the south is too dangerous.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Arab States Intensify Pleas for Gaza Cease-fire as Public Anger Mounts</h3>
+<sub>By Vivian Nereim</sub>
+<p>Citing deepening fears for regional stability, Saudi Arabia and other Arab countries are beseeching the U.S. to push Israel to end its military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Reoccupying Gaza ‘Not the Right Thing to Do,’ White House Tells Israel</h3>
+<sub>By Lisa Friedman</sub>
+<p>The U.S. caution came after Prime Minister Benjamin Netanyahu floated the idea that Israel might oversee security for the Gaza Strip indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,16 +93,28 @@ Right now, the US is in the middle of multiple important elections happening aro
 <p>A decision in the case could extend far beyond domestic abuse by clarifying the scope of a court ruling last year on gun rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gun Law Before Court Is Most Often Used as a Deterrent</h3>
-<sub>By Kim Barker</sub>
-<p>In the past 25 years, people who tried to buy guns at gun stores were rejected because of having active protection orders about 78,000 times, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Infants Are Born With Syphilis in Growing Numbers, a Sign of a Wider Epidemic</h3>
 <sub>By Apoorva Mandavilli</sub>
 <p>Congenital syphilis has become more than ten times as common over the past decade, the C.D.C. reported. “The situation is dire,” said one expert.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Barbra Streisand Is Ready to Tell All. Pull Up a Seat.</h3>
+<sub>By Wesley Morris</sub>
+<p>At home in California, Streisand talks about her new memoir, exploring the movies and men of her life, and her determination to control her own art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘Morning in America’ Eludes Biden, Despite Economic Gains</h3>
+<sub>By Jim Tankersley</sub>
+<p>Seeking re-election in 1984, Ronald Reagan presided over an economy similar in many ways to today’s. But he sold a message of progress and promise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,22 +123,10 @@ Right now, the US is in the middle of multiple important elections happening aro
 <p>Growth is brisk but slower than expected, causing automakers to question their multibillion-dollar investments in new factories and raising doubts about the effectiveness of federal incentives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Lavish Tax Credits and Trade Protections Lure Solar Firms to U.S.</h3>
-<sub>By Ana Swanson and Jim Tankersley</sub>
-<p>A combination of government policies is finally succeeding in reversing a long decline in solar manufacturing in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Your Child’s School Bus Might Prevent Blackouts</h3>
-<sub>By Jack Ewing and Ivan Penn</sub>
-<p>When not driving around, electric buses and other vehicles could help utilities by storing their solar and wind energy and releasing it to meet surges in demand.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Barbra Streisand Is Ready to Tell All. Pull Up a Seat.</h3>
-<sub>By Wesley Morris</sub>
-<p>At home in California, Streisand talks about her new memoir, exploring the movies and men of her life, and her determination to control her own art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Workers in Sweden Will Expand Strike Against Tesla</h3>
+<sub>By Melissa Eddy and Christina Anderson</sub>
+<p>Swedish unions are joining in blockades and targeted strikes against the U.S. automaker over its refusal to sign a collective bargaining agreement with its mechanics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
