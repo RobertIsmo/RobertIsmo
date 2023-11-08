@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. In the US, Republicans and Democrats are having some major standoffs, especially recently with Virginia races and control of government shifting and a potential government shutdown on the horizon. In the Middle East, Arab Nations are calling for a ceasefire in Gaza due to public anger, while Israel has pushed back hard against it. On the global front, the CDC is warning that congenital syphilis has become more than ten times as common in the past decade and nations that have vowed to halt global warming have been found to be expanding fossil fuel use despite it. There&#39;s also some interesting news in books right now, with one rising fantasy author bringing dragons, magic and steamy sex into her books. And finally, some opinion pieces are discussing if changes to 2008 debates have created more hostility between Presidential candidates and urging American Jews to act in response to October 8th massacre.</p>
+Right now, it seems like tensions between the U.S. and other world governments are high. In Virginia, the G.O.P. wasn&#39;t successful in taking over the state&#39;s legislature, and in Israel, the White House has cautioned against reoccupying Gaza. At home, Congress censured Rep. Rashida Tlaib for voicing her politics, and House Republicans are still trying to figure out how to avoid a government shutdown. On the health front, there have been increasing numbers of babies born with syphilis due to its growing epidemic. Meanwhile, nations promised to lower emissions are doing exactly the opposite due to an increase in fossil fuels being produced. America is feeling a lot of uncertainty under President Biden despite some economic improvements since Reagan&#39;s 1984 re-election campaign preferred sunny messaging of hope and prosperity. overseas, Ukrainians are mourning military deaths from a medal ceremony gone wrong that harkened back to a Soviet tradition. The publishing world is buzzing about author Rebecca Yarros’ new book which combines all types of mythical creatures for a steamy fantasy series. Finally, writers and readers alike are reflecting on what President Trump seemed to have offered as well as why every day in America must be treated as if it’s Oct 8 - in remembrance of the Pittsburgh synagogue shooting that left 11 people dead in 2018.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Virginia Dashes Youngkin’s Hopes of a G.O.P. Takeover, and Maybe More</h3>
@@ -123,15 +123,15 @@ It looks like there&#39;s a lot going on in the world right now. In the US, Repu
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What Voters Want That Trump Seems to Have</h3>
+<sub>By Michelle Cottle</sub>
+<p>Voters could end up seeing the ex-president as the nostalgia candidate, the change candidate and the protest candidate all in one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>For America’s Jews, Every Day Must Be Oct. 8</h3>
 <sub>By Bret Stephens</sub>
 <p>We got our wake-up call the day after the massacre. It’s time to act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Did a 2008 Rule Change Ruin Presidential Debates?</h3>
-<sub>By Amanda Su</sub>
-<p>Presidential candidates’s meetings weren’t always so hostile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
