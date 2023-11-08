@@ -58,20 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, November 7, Central Standard Time</p>
+<p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Philadelphia, Cherelle Parker just became the city&#39;s first female mayor after winning a tough election against a political veteran. A mother whose daughter was killed in a mass shooting sadly lost her race for mayor in Uvalde, Texas recently. Meanwhile, the US is telling Israel not to occupy Gaza indefinitely and Arab states are pushing for a ceasefire there. In Washington, Republicans are trying to come up with a budget before they face a government shutdown. The CDC just reported an alarming increase in infant syphilis cases and Barbra Streisand released her autobiography. At the Supreme Court, there&#39;s a legal battle over gun rights for domestic abusers and Biden&#39;s struggle to parallel Reagan&#39;s 1984 &#39;Morning in America&#39; campaign continues. Additionally, many people are reeling from the results of Ukraine&#39;s military ceremony that led to multiple deaths due to unsafe practices and a research paper about room-temperature superconductors was retracted last week. To top things off, Rebecca Yarros&#39; fantasy series &quot;Fourth Wing&quot; has become a huge bestseller with its thrilling plotlines involving dragons, magic and steamy sex.</p>
+It looks like there&#39;s a lot going on in the world right now. In the US, Republicans and Democrats are having some major standoffs, especially recently with Virginia races and control of government shifting and a potential government shutdown on the horizon. In the Middle East, Arab Nations are calling for a ceasefire in Gaza due to public anger, while Israel has pushed back hard against it. On the global front, the CDC is warning that congenital syphilis has become more than ten times as common in the past decade and nations that have vowed to halt global warming have been found to be expanding fossil fuel use despite it. There&#39;s also some interesting news in books right now, with one rising fantasy author bringing dragons, magic and steamy sex into her books. And finally, some opinion pieces are discussing if changes to 2008 debates have created more hostility between Presidential candidates and urging American Jews to act in response to October 8th massacre.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Cherelle Parker, a Democrat, Elected Mayor of Philadelphia</h3>
-<sub>By David W. Chen</sub>
-<p>A former state legislator and City Council member, Ms. Parker will be the first woman to lead the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mother of Uvalde Shooting Victim Loses Mayor’s Race to Political Veteran</h3>
-<sub>By Edgar Sandoval</sub>
-<p>Cody Smith, who twice held the mayor’s post, defeated two other candidates, including Kimberly Mata-Rubio, whose daughter died in a mass shooting last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Virginia Dashes Youngkin’s Hopes of a G.O.P. Takeover, and Maybe More</h3>
+<sub>By Michael C. Bender</sub>
+<p>Democratic victories in the state’s legislative races delivered a major setback to the Republican governor, who is widely seen as eyeing the presidency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,6 +81,12 @@ There&#39;s a lot going on in the world right now. In Philadelphia, Cherelle Par
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Censures Rashida Tlaib, Citing ‘River to the Sea’ Slogan</h3>
+<sub>By Kayla Guo</sub>
+<p>Twenty-two Democrats joined most Republicans in the rebuke of Ms. Tlaib, the only Palestinian American in Congress, accusing her of calling for the destruction of Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
 <sub>By Catie Edmondson and Carl Hulse</sub>
 <p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -98,16 +98,10 @@ There&#39;s a lot going on in the world right now. In Philadelphia, Cherelle Par
 <p>Congenital syphilis has become more than ten times as common over the past decade, the C.D.C. reported. “The situation is dire,” said one expert.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Barbra Streisand Is Ready to Tell All. Pull Up a Seat.</h3>
-<sub>By Wesley Morris</sub>
-<p>At home in California, Streisand talks about her new memoir, exploring the movies and men of her life, and her determination to control her own art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Seems Likely to Uphold Law Disarming Domestic Abusers</h3>
-<sub>By Adam Liptak</sub>
-<p>A decision in the case could extend far beyond domestic abuse by clarifying the scope of a court ruling last year on gun rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Nations That Vowed to Halt Warming Are Expanding Fossil Fuels, Report Finds</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>The world remains on track to produce far more oil, gas and coal than would be consistent with relatively safe levels of heating, a new report found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -122,17 +116,23 @@ There&#39;s a lot going on in the world right now. In Philadelphia, Cherelle Par
 <p>A gathering in plain sight of so many soldiers was reckless, critics said, and evoked a rigid adherence to Soviet-era military tradition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Room-Temperature Superconductor Discovery Is Retracted</h3>
-<sub>By Kenneth Chang</sub>
-<p>It was the second paper led by Ranga P. Dias, a researcher at the University of Rochester, that the journal Nature has retracted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>How Rebecca Yarros Packed Dragons, Magic and Steamy Sex Into a Blockbuster Fantasy</h3>
 <sub>By Alexandra Alter</sub>
 <p>Yarros drew on her experience with chronic illness and life in a military family to write “Fourth Wing,” a huge best seller that spawned a spicy fantasy series.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>For America’s Jews, Every Day Must Be Oct. 8</h3>
+<sub>By Bret Stephens</sub>
+<p>We got our wake-up call the day after the massacre. It’s time to act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Did a 2008 Rule Change Ruin Presidential Debates?</h3>
+<sub>By Amanda Su</sub>
+<p>Presidential candidates’s meetings weren’t always so hostile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
