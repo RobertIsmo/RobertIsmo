@@ -60,19 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 7, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the US and around the world. In the US, important state elections are taking place that could determine the fate of abortion access in Virginia. As we wait to see the outcome, people are asking when will we have election results? The White House has told Israel that reoccupying Gaza &#39;is not the right thing to do&#39; and the Supreme Court seems likely to uphold a law disarming domestic abusers. On a health note, infants are being born with syphilis in growing numbers. 
-In other news, Barbra Streisand is talking about her new memoir and a company is delaying electric vehicle spending as demand slows. Also, workers in Sweden are expanding their strike against Tesla and during Trump&#39;s trial testimony we found out 5 things. All-in-all it&#39;s been a very busy news week!</p>
+There&#39;s a lot going on in the world right now. In Philadelphia, Cherelle Parker just became the city&#39;s first female mayor after winning a tough election against a political veteran. A mother whose daughter was killed in a mass shooting sadly lost her race for mayor in Uvalde, Texas recently. Meanwhile, the US is telling Israel not to occupy Gaza indefinitely and Arab states are pushing for a ceasefire there. In Washington, Republicans are trying to come up with a budget before they face a government shutdown. The CDC just reported an alarming increase in infant syphilis cases and Barbra Streisand released her autobiography. At the Supreme Court, there&#39;s a legal battle over gun rights for domestic abusers and Biden&#39;s struggle to parallel Reagan&#39;s 1984 &#39;Morning in America&#39; campaign continues. Additionally, many people are reeling from the results of Ukraine&#39;s military ceremony that led to multiple deaths due to unsafe practices and a research paper about room-temperature superconductors was retracted last week. To top things off, Rebecca Yarros&#39; fantasy series &quot;Fourth Wing&quot; has become a huge bestseller with its thrilling plotlines involving dragons, magic and steamy sex.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion’s pull vs. Biden’s unpopularity: What to watch in today’s elections.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Important races are happening throughout the country, including contests in Virginia that could determine the fate of abortion access in the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<h3>Cherelle Parker, a Democrat, Elected Mayor of Philadelphia</h3>
+<sub>By David W. Chen</sub>
+<p>A former state legislator and City Council member, Ms. Parker will be the first woman to lead the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Will We Have Election Results?</h3>
-<sub>By Alyce McFadden</sub>
-<p>It’s not unreasonable to hope for results in a timely manner on Tuesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Mother of Uvalde Shooting Victim Loses Mayor’s Race to Political Veteran</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Cody Smith, who twice held the mayor’s post, defeated two other candidates, including Kimberly Mata-Rubio, whose daughter died in a mass shooting last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Reoccupying Gaza ‘Not the Right Thing to Do,’ White House Tells Israel</h3>
+<sub>By Lisa Friedman</sub>
+<p>The U.S. caution came after Prime Minister Benjamin Netanyahu floated the idea that Israel might oversee security for the Gaza Strip indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -82,15 +87,9 @@ In other news, Barbra Streisand is talking about her new memoir and a company is
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Reoccupying Gaza ‘Not the Right Thing to Do,’ White House Tells Israel</h3>
-<sub>By Lisa Friedman</sub>
-<p>The U.S. caution came after Prime Minister Benjamin Netanyahu floated the idea that Israel might oversee security for the Gaza Strip indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Seems Likely to Uphold Law Disarming Domestic Abusers</h3>
-<sub>By Adam Liptak</sub>
-<p>A decision in the case could extend far beyond domestic abuse by clarifying the scope of a court ruling last year on gun rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -105,35 +104,35 @@ In other news, Barbra Streisand is talking about her new memoir and a company is
 <p>At home in California, Streisand talks about her new memoir, exploring the movies and men of her life, and her determination to control her own art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Seems Likely to Uphold Law Disarming Domestic Abusers</h3>
+<sub>By Adam Liptak</sub>
+<p>A decision in the case could extend far beyond domestic abuse by clarifying the scope of a court ruling last year on gun rights.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘Morning in America’ Eludes Biden, Despite Economic Gains</h3>
 <sub>By Jim Tankersley</sub>
 <p>Seeking re-election in 1984, Ronald Reagan presided over an economy similar in many ways to today’s. But he sold a message of progress and promise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Automakers Delay Electric Vehicle Spending as Demand Slows</h3>
-<sub>By Jack Ewing</sub>
-<p>Growth is brisk but slower than expected, causing automakers to question their multibillion-dollar investments in new factories and raising doubts about the effectiveness of federal incentives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Workers in Sweden Will Expand Strike Against Tesla</h3>
-<sub>By Melissa Eddy and Christina Anderson</sub>
-<p>Swedish unions are joining in blockades and targeted strikes against the U.S. automaker over its refusal to sign a collective bargaining agreement with its mechanics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Something Was Wrong’: Ukrainians Lament Deaths at Medal Ceremony</h3>
+<sub>By Andrew E. Kramer and Maria Varenikova</sub>
+<p>A gathering in plain sight of so many soldiers was reckless, critics said, and evoked a rigid adherence to Soviet-era military tradition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>5 Things We Learned During Trump’s Trial Testimony</h3>
-<sub>By Kate Christobek</sub>
-<p>The former president took the witness stand Monday in a Manhattan courtroom as he tried to preserve the business empire that made his name.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Room-Temperature Superconductor Discovery Is Retracted</h3>
+<sub>By Kenneth Chang</sub>
+<p>It was the second paper led by Ranga P. Dias, a researcher at the University of Rochester, that the journal Nature has retracted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>How Rebecca Yarros Packed Dragons, Magic and Steamy Sex Into a Blockbuster Fantasy</h3>
+<sub>By Alexandra Alter</sub>
+<p>Yarros drew on her experience with chronic illness and life in a military family to write “Fourth Wing,” a huge best seller that spawned a spicy fantasy series.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
