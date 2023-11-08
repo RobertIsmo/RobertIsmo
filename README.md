@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-Right now, it looks like abortion rights is a big issue that is helping to fuel the Democratic wins in the US elections. This is also having an effect on the talks in Congress regarding spending and avoiding a government shutdown. In terms of environmental issues, the world is still producing more oil, gas, and coal than would be safe for global heating, but environmental groups are having to cut programs because donations are shifting towards climate change. On the international stage, Hamas recently attacked Israel in an attempt to revive the Palestinian cause, while Hungary&#39;s leader Orbán&#39;s dream of an illiberal pan-European alliance is fading. Additionally, some people are opting for space burials upon death and women in Ukraine are preparing to join the army. Finally, a new law has supercharged electric car manufacturing but not sales in the US.</p>
+There is a lot going on around the world right now. In Israel, Hamas leaders have launched an attack due to their belief that the Palestinian cause is slipping away and that violence is the only way to revive it. Here in the US, Democrats and independents have been successful in recent elections due to their stance on abortion rights. Meanwhile, Ukraine is seeing more women enter the military as they look to refill ranks for their war against Russia. Ukraine is also looking to become part of the E.U., which could be possible with some further changes in Kyiv. On a domestic level, Republicans are gearing up for their third presidential debate and there are discussions about how diversity in America has come at the cost of unity. Lastly, two interesting stories involving food, pandas, and a mass grave have come up from Houston - one about hijacked rare Japanese Kit Kats and another concerning Sugar Land&#39;s past reliance on forced labor. Lastly, Mark Zuckerberg has been tapping into WhatsApp&#39;s strengths lately.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Behind Hamas’s Bloody Gambit to Create a ‘Permanent’ State of War</h3>
+<sub>By Ben Hubbard and Maria Abi-Habib</sub>
+<p>Hamas leaders say they waged their Oct. 7 attack on Israel because they believed the Palestinian cause was slipping away, and that only violence could revive it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abortion Rights Fuel Big Democratic Wins, and Hopes for 2024</h3>
 <sub>By Lisa Lerer and Shane Goldmacher</sub>
@@ -74,42 +80,6 @@ Right now, it looks like abortion rights is a big issue that is helping to fuel 
 <p>President Biden is unpopular, but the winning streak for his party and its policies has been extended through another election night.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Wins for Abortion Rights in 3 States, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, a House censure for Representative Rashida Tlaib and an expansion in fossil fuel extraction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Hamas’s Bloody Gambit to Create a ‘Permanent’ State of War</h3>
-<sub>By Ben Hubbard and Maria Abi-Habib</sub>
-<p>Hamas leaders say they waged their Oct. 7 attack on Israel because they believed the Palestinian cause was slipping away, and that only violence could revive it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Censures Rashida Tlaib, Citing ‘River to the Sea’ Slogan</h3>
-<sub>By Kayla Guo</sub>
-<p>Twenty-two Democrats joined most Republicans in the rebuke of Ms. Tlaib, the only Palestinian American in Congress, accusing her of calling for the destruction of Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Nations That Vowed to Halt Warming Are Expanding Fossil Fuels, Report Finds</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>The world remains on track to produce far more oil, gas and coal than would be consistent with relatively safe levels of heating, a new report found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Environmental Groups Cut Programs as Funding Shifts to Climate Change</h3>
-<sub>By Ralph Vartabedian</sub>
-<p>The Natural Resources Defense Council is eliminating its longstanding program promoting nuclear safety and cleanup as donors focus on the climate crisis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Their Final Wish? A Burial in Space.</h3>
-<sub>By Dina Litovsky and Jon Mooallem</sub>
-<p>Why some people decide to send their remains into orbit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘If Not Me, Who?’: As Ukraine Seeks Troops, Women Prepare for the Call</h3>
 <sub>By Andrew E. Kramer and Maria Varenikova</sub>
@@ -117,21 +87,51 @@ Right now, it looks like abortion rights is a big issue that is helping to fuel 
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Orban’s Dream of an Illiberal Pan-European Alliance Is Fading</h3>
-<sub>By Andrew Higgins</sub>
-<p>The Hungarian leader’s efforts have been undermined by setbacks for some of his political allies across Europe and deep divisions over the war in Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A New Law Supercharged Electric Car Manufacturing, but Not Sales</h3>
-<sub>By Jim Tankersley, Ana Swanson, Jack Ewing and Coral Davenport</sub>
-<p>President Biden’s 2022 climate act spurred big investments in U.S. battery factories, but it has not similarly boosted E.V. sales.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Gets an Encouraging Sign in Its Bid to Join the E.U.</h3>
+<sub>By Monika Pronczuk</sub>
+<p>The European Union’s executive arm recommended beginning membership talks with Ukraine on condition of some further changes in Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Toil for a Spending Strategy With a Shutdown Close at Hand</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>Speaker Mike Johnson is facing many of the same challenges his predecessor did as he looks for a way to avoid a government shutdown that will be acceptable to his deeply divided conference.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>5 Things to Watch at the Third G.O.P. Presidential Debate</h3>
+<sub>By Adam Nagourney and Nicholas Nehamas</sub>
+<p>Can Nikki Haley build on her momentum? Will Ron DeSantis go on offense? Is anyone still watching? Here’s what to look for at the Republican debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vivek Ramaswamy Loves His Heritage. Just Don’t Call Him an Indian American.</h3>
+<sub>By Amy Qin</sub>
+<p>The Republican presidential candidate says the celebration of diversity in America has come at the cost of national unity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Nikki Haley Wears the Skirts</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Whether on the debate stage or “The Daily Show,” the Republican presidential candidate is strategic about standing out — in every way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How to Hijack a Quarter of a Million Dollars in Rare Japanese Kit Kats</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>The long, strange criminal trail of one stolen load of valuable sweets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The End of Panda Diplomacy?</h3>
+<sub>By Edward Wong and Erin Schaff</sub>
+<p>The giant pandas are leaving Washington. Some fans find it unbearable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Mass Grave Recalls the Ugly Past of a City Where ‘Life Is Sweeter’</h3>
+<sub>By Priya Krishna</sub>
+<p>The Houston suburb Sugar Land got its name from a business reliant on the forced labor of convicts. But efforts to memorialize those people have stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Mark Zuckerberg Taps the Strengths of WhatsApp</h3>
+<sub>By Mike Isaac</sub>
+<p>The messaging app, which Meta bought nearly a decade ago, was an asset that Mr. Zuckerberg largely left alone for a while. No longer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
