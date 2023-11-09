@@ -60,31 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-Right now, a lot of worrying things are happening in the world. In the US, colleges are debating how to handle antisemitic attacks on student populations. At the same time, the war in Gaza is being documented and shared on Instagram by those trapped in the enclave. There were also videos emerging of fighting between Israeli soldiers and Hamas fighters for control over Gaza&#39;s main stronghold. Additionally, there was a Republican debate just recently which revealed Nikki Haley’s hawkish vision and Ron DeSantis&#39; avoidance of risks during the debate.
-
-On the business front, NewsNation has organized a G.O.P debate moderated by Megyn Kelly which could extend its relatively small viewership. An ongoing trial involving Ivanka Trump has provided insight on what she knows about financial fraud related documents and her personal style in court to match the cameras. 
-
-In the technology realm, the future looks like it may be A.I based with a new device called Humane that aims to replace smartphones. This device would work with lasers to potentially cure us of our smartphone addiction-- though its success remains uncertain at this point. 
-
-As far as something more lighthearted, an 88-year-old man has been performing old master&#39;s songs for his fellow exiles, evoking an Afghanistan that was left behind or one that could have been. In addition to this, there is an odd buildup of traffic jam causing items orbiting earth, which includes Elon Musk&#39;s satellites but also stuffed animals and tomatoes! Finally, there is a commercial plant In America that is attempting to pull carbon from the air for the first time ever in what could be significant progress in fighting climate change!</p>
+There&#39;s a lot happening in the world right now. In Israel, tensions between Hamas and Israeli forces have reached an all-time high, and sympathy for the Palestinian cause has been increasing. In the United States, the debate over a pro-Palestinian phrase has been inflamed on college campuses and in Congress. Anti-Semitic attacks on US college campuses have heightened debates over speech that is acceptable or not. Politically, Senator Joe Manchin III has announced he will not seek re-election in a deeply red state, making it more difficult for Democrats to hold on to the Senate. Green Party leader Jill Stein has launched another bid for president, and Republicans recently held their first primary debate with Nikki Haley speaking out on issues of foreign policy. Also in politics, House Republicans are clashing over their spending plans before a looming shutdown deadline. Lastly, Ivanka Trump testified in court as part of a civil fraud case, while fashion commentators noted her style in the courtroom. Meanwhile, Silicon Valley has placed a big bet on a new device that could possibly replace the smartphone due to its A.I. capabilities and laser technology.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israeli Forces Have Limited Time in Gaza, U.S. Officials Say</h3>
+<sub>By Helene Cooper, Eric Schmitt and Adam Goldman</sub>
+<p>Israel’s response to the Hamas attacks has fueled sympathy around the world for the Palestinian cause even as Israel continues to bury its dead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Congress and on Campuses, ‘From the River to the Sea’ Inflames Debate</h3>
+<sub>By Karoun Demirjian and Liam Stack</sub>
+<p>The pro-Palestinian rallying cry has become a fixture of protests in the United States and was a focus of the congressional censure of Representative Rashida Tlaib. It has a fraught history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Antisemitic Attacks, Colleges Debate What Kind of Speech Is Out of Bounds</h3>
 <sub>By Anemona Hartocollis and Stephanie Saul</sub>
 <p>Pro-Palestinian students say that they are speaking up for an oppressed people, but critics say that their rhetoric is deeply offensive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The War in Gaza Is Also Unfolding on Instagram</h3>
-<sub>By Yousur Al-Hlou and Nikolay Nikolov</sub>
-<p>Trapped in the enclave, Palestinians on the social media platform are documenting and sharing their harrowing experiences of life under Israeli airstrikes and a ground invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Manchin Says He Will Not Seek Re-election, Dealing Blow to Democrats</h3>
+<sub>By Luke Broadwater</sub>
+<p>The decision by Senator Joe Manchin III will leave open a seat in a deeply red state, threatening Democrats’ hold on the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Videos offer glimpses of the battle for Gaza.</h3>
-<sub>By Matthew Rosenberg, Samar Abu Elouf and Arijeta Lajka</sub>
-<p>Israeli soldiers and Hamas fighters are battling through rubble-filled streets and blasted-out buildings for control of the militant’s main stronghold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jill Stein Announces Third-Party Bid for President</h3>
+<sub>By Maggie Astor</sub>
+<p>Ms. Stein will seek the Green Party nomination, a spokesman said. Her last two campaigns with the party were unsuccessful.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Big Jim’ and Babydog Go to Washington?</h3>
+<sub>By Campbell Robertson</sub>
+<p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6 Takeaways From the Republican Debate</h3>
@@ -92,10 +104,10 @@ As far as something more lighthearted, an 88-year-old man has been performing ol
 <p>Nikki Haley staked out a clear, hawkish vision. Ron DeSantis avoided risks. And the night’s glaring absentee, Donald Trump, again emerged untouched.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Megyn Kelly Will Moderate the Next G.O.P. Debate, on NewsNation</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>The event, on Dec. 6, is an opportunity for an upstart cable news network to expand its relatively small viewership.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Clash Over Spending Days Ahead of Shutdown Deadline</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>Party divisions forced Republicans to abandon two of their own spending measures this week as they toiled to agree on a stopgap spending bill to avert a shutdown next Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -120,24 +132,6 @@ As far as something more lighthearted, an 88-year-old man has been performing ol
 <h3>Can A.I. and Lasers Cure Our Smartphone Addiction?</h3>
 <sub>By Erin Griffith</sub>
 <p>A first impression of Humane’s new magnetic Ai Pin: equal parts magical and awkward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Old Master’s Song for the Nation That Broke His Heart</h3>
-<sub>By Mujib Mashal and Jim Huylebroek</sub>
-<p>For his fellow exiles, Sadiq Fitrat Nashenas, an 88-year-old star from a golden era, evokes the Afghanistan they left behind, and one that could have been.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Traffic Jam in Low Earth Orbit</h3>
-<sub>By Charley Locke</sub>
-<p>Elon Musk&#39;s satellites. Stuffed animals. Tomatoes? You wouldn&#39;t believe what&#39;s circling Earth these days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In a U.S. First, a Commercial Plant Starts Pulling Carbon From the Air</h3>
-<sub>By Brad Plumer</sub>
-<p>The technique is expensive but it could help fight climate change. Backers hope fast growth can bring down costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
