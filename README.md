@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-World events have been a bit chaotic lately – in the US, colleges are discussing what types of speech should not be allowed on campus after experiencing a wave of antisemitic attacks. In Gaza, there is a war ongoing and Palestinians are sharing their harrowing experiences on Instagram. Meanwhile, the Palestinian Authority is open to running Gaza once it&#39;s safe again – but only if the US supports a two-state solution. In Hollywood, actors and crews ended a longstrike by agreeing to a tentative deal and now they&#39;re trying to figure out how to get back to normal production schedules. Lastly, there is a bit of a traffic jam in low Earth orbit with satellites, stuffed animals, and tomatoes all orbiting together!</p>
+Right now, a lot of worrying things are happening in the world. In the US, colleges are debating how to handle antisemitic attacks on student populations. At the same time, the war in Gaza is being documented and shared on Instagram by those trapped in the enclave. There were also videos emerging of fighting between Israeli soldiers and Hamas fighters for control over Gaza&#39;s main stronghold. Additionally, there was a Republican debate just recently which revealed Nikki Haley’s hawkish vision and Ron DeSantis&#39; avoidance of risks during the debate.
+
+On the business front, NewsNation has organized a G.O.P debate moderated by Megyn Kelly which could extend its relatively small viewership. An ongoing trial involving Ivanka Trump has provided insight on what she knows about financial fraud related documents and her personal style in court to match the cameras. 
+
+In the technology realm, the future looks like it may be A.I based with a new device called Humane that aims to replace smartphones. This device would work with lasers to potentially cure us of our smartphone addiction-- though its success remains uncertain at this point. 
+
+As far as something more lighthearted, an 88-year-old man has been performing old master&#39;s songs for his fellow exiles, evoking an Afghanistan that was left behind or one that could have been. In addition to this, there is an odd buildup of traffic jam causing items orbiting earth, which includes Elon Musk&#39;s satellites but also stuffed animals and tomatoes! Finally, there is a commercial plant In America that is attempting to pull carbon from the air for the first time ever in what could be significant progress in fighting climate change!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Antisemitic Attacks, Colleges Debate What Kind of Speech Is Out of Bounds</h3>
@@ -75,15 +81,9 @@ World events have been a bit chaotic lately – in the US, colleges are discussi
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Palestinian Authority Open to Gaza Role if U.S. Backs 2-State Solution</h3>
-<sub>By Mark Landler</sub>
-<p>The organization, which oversees the West Bank, says it will consider helping run Gaza after the war — if Washington pushes for the creation of a Palestinian state alongside the Israeli one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hamas Is Said to Discuss Freeing Some Hostages, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, a tense Republican debate and a tentative deal to end the Hollywood actors’ strike.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Videos offer glimpses of the battle for Gaza.</h3>
+<sub>By Matthew Rosenberg, Samar Abu Elouf and Arijeta Lajka</sub>
+<p>Israeli soldiers and Hamas fighters are battling through rubble-filled streets and blasted-out buildings for control of the militant’s main stronghold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,34 +92,40 @@ World events have been a bit chaotic lately – in the US, colleges are discussi
 <p>Nikki Haley staked out a clear, hawkish vision. Ron DeSantis avoided risks. And the night’s glaring absentee, Donald Trump, again emerged untouched.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Won the Third Republican Debate?</h3>
-<sub>By Alan Rappeport</sub>
-<p>Nikki Haley stood out, absorbing attacks and doling out many of her own. But political observers wondered how any of the candidates onstage cut into former President Donald J. Trump’s dominance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott’s Debate Night Date Night</h3>
-<sub>By Michael C. Bender</sub>
-<p>A long-running mystery of Mr. Scott’s campaign was solved at the G.O.P. debate, and it had nothing to do with politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Striking Actors and Hollywood Studios Agree to a Deal</h3>
-<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
-<p>The agreement all but ends one of the longest labor crises in the history of the entertainment industry. Union members still have to approve the deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<h3>Megyn Kelly Will Moderate the Next G.O.P. Debate, on NewsNation</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>The event, on Dec. 6, is an opportunity for an upstart cable news network to expand its relatively small viewership.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>With the Strikes Over, the Mood in Hollywood Is Decidedly Mixed</h3>
-<sub>By Brooks Barnes</sub>
-<p>Celebratory feelings are competing with resentment over the work stoppage and worries about the business era that is coming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>3 Things We Learned From Ivanka Trump’s Trial Testimony</h3>
+<sub>By Kate Christobek</sub>
+<p>The former president’s daughter said she had little knowledge of the financial documents at the heart of the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Getting Hollywood Back Up and Running Won’t Be Easy</h3>
-<sub>By Nicole Sperling</sub>
-<p>With the industry hustling to make up for months of lost work, juggling production schedules and the availability of actors and crew members will be complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Trump Family Trial Style</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Ivanka Trump and her siblings dress for court — and the cameras.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Silicon Valley’s Big, Bold Sci-Fi Bet on the Device That Comes After the Smartphone</h3>
+<sub>By Erin Griffith, Tripp Mickle and Photographs and Videos by Kelsey McClellan</sub>
+<p>Humane, a company started by two former Apple employees, says its new artificial intelligence pin can stop all the scrolling. Can it live up to the hype?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Can A.I. and Lasers Cure Our Smartphone Addiction?</h3>
+<sub>By Erin Griffith</sub>
+<p>A first impression of Humane’s new magnetic Ai Pin: equal parts magical and awkward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Old Master’s Song for the Nation That Broke His Heart</h3>
+<sub>By Mujib Mashal and Jim Huylebroek</sub>
+<p>For his fellow exiles, Sadiq Fitrat Nashenas, an 88-year-old star from a golden era, evokes the Afghanistan they left behind, and one that could have been.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -128,10 +134,10 @@ World events have been a bit chaotic lately – in the US, colleges are discussi
 <p>Elon Musk&#39;s satellites. Stuffed animals. Tomatoes? You wouldn&#39;t believe what&#39;s circling Earth these days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>3 Things We Learned From Ivanka Trump’s Trial Testimony</h3>
-<sub>By Kate Christobek</sub>
-<p>The former president’s daughter said she had little knowledge of the financial documents at the heart of the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In a U.S. First, a Commercial Plant Starts Pulling Carbon From the Air</h3>
+<sub>By Brad Plumer</sub>
+<p>The technique is expensive but it could help fight climate change. Backers hope fast growth can bring down costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
