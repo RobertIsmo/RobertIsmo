@@ -60,31 +60,33 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-Right now, tensions between Israel and Palestine by the Gaza Strip are at an all-time high. Secretary of State Antony Blinken is trying to work out an agreement that would relieve some of the tension, but nothing has been decided yet. Meanwhile, continuing negotiations over Jerusalem threaten to further complicate matters. The issue of stalled negotiations has also led to growing fears of prolonged unrest. Hamas is currently discussing freeing a few hostages, with discussion between Palestinian and Israeli authorities ongoing. 
+Right now, there is a lot of tension in the world between Palestine and Israel. After a series of violent attacks against Jewish citizens in the US, colleges are struggling to find a balance between free speech and promoting a safe environment. Meanwhile, people in Gaza trapped within the enclave are sharing their harrowing experiences of living under airstrikes and ground invasion on social media. Additionally, US allies in Asia worry that America&#39;s focus on the conflict might harm its progress on pivoting to the Indo-Pacific region. Hamas recently began discussing freeing hostages so that is a source of hope. 
 
-On the domestic front, former President Donald Trump&#39;s lawyers have requested for a gag order case to be thrown out in order to allow him to campaign for 2024 elections. Meanwhile, Nikki Haley and Vivek Ramaswamy had a heated confrontation at a Republican debate about an issue concerning TikTok. 
-
-In Hollywood, actors have finally settled their dispute with the studios after a series of long labor strikes, with members set to approve the deal soon. The mood in Hollywood right now is very divided with both celebratory feelings and resentment about the strike still present among people working in the industry. 
-
-Finally, Democrats gained ground in various low-turnout elections recently thanks partly due to visceral ads highlighting abortion policies, which used to be considered almost taboo for them just a few years ago. However, it&#39;s important to note that despite these successes this doesn&#39;t really change the outlook for 2024 much since presidential years tend to have very different outcomes altogether.</p>
+Domestically, there was a Republican debate recently and Nikki Haley emerged as one of the night&#39;s big winners. Plus, Hollywood actors and studios reached a tentative deal to end the long labor crisis that put so many out of work for months. Despite the celebratory feelings, there is still resentment over what happened and worry about how to get production back up and running. Lastly, Elon Musk&#39;s satellites and other random items are jamming up low earth orbit which is causing all kinds of problems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blinken Lays Out Possible Endgame in Gaza Under Palestinian Authority</h3>
-<sub>By Michael D. Shear</sub>
-<p>The secretary of state said Gaza should be overseen by the Palestinian Authority, which has a tenuous hold on power in the Israeli-occupied West Bank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<h3>After Antisemitic Attacks, Colleges Debate What Kind of Speech Is Out of Bounds</h3>
+<sub>By Anemona Hartocollis and Stephanie Saul</sub>
+<p>Pro-Palestinian students say that they are speaking up for an oppressed people, but critics say that their rhetoric is deeply offensive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Raises Alarms by Suggesting ‘Indefinite’ Role in Gaza</h3>
-<sub>By Steven Erlanger and Isabel Kershner</sub>
-<p>Secretary of State Antony J. Blinken quickly pushed back, but what exactly comes next is far from clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<h3>The War in Gaza Is Also Unfolding on Instagram</h3>
+<sub>By Yousur Al-Hlou and Nikolay Nikolov</sub>
+<p>Trapped in the enclave, Palestinians on the social media platform are documenting and sharing their harrowing experiences of life under Israeli airstrikes and a ground invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas is discussing conditions for freeing a few hostages, officials say.</h3>
-<sub>By Julian E. Barnes and Edward Wong</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine. Israel. Can America Support Two Wars and Still Handle China?</h3>
+<sub>By Damien Cave</sub>
+<p>To U.S. allies in Asia, the sudden focus on Gaza risks progress on America’s long-delayed pivot to the Indo-Pacific region.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hamas Is Said to Discuss Freeing Some Hostages, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a tense Republican debate and a tentative deal to end the Hollywood actors’ strike.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>6 Takeaways From the Republican Debate</h3>
@@ -93,9 +95,9 @@ Finally, Democrats gained ground in various low-turnout elections recently thank
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘You’re Just Scum’: Haley and Ramaswamy Tussle Onstage</h3>
-<sub>By Michael C. Bender</sub>
-<p>An exchange over TikTok turned into a heated confrontation that ended with Nikki Haley calling Vivek Ramaswamy “scum.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Who Won the Third Republican Debate?</h3>
+<sub>By Alan Rappeport</sub>
+<p>Nikki Haley stood out, absorbing attacks and doling out many of her own. But political observers wondered how any of the candidates onstage cut into former President Donald J. Trump’s dominance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,29 +118,23 @@ Finally, Democrats gained ground in various low-turnout elections recently thank
 <p>Celebratory feelings are competing with resentment over the work stoppage and worries about the business era that is coming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Getting Hollywood Back Up and Running Won’t Be Easy</h3>
+<sub>By Nicole Sperling</sub>
+<p>With the industry hustling to make up for months of lost work, juggling production schedules and the availability of actors and crew members will be complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Traffic Jam in Low Earth Orbit</h3>
+<sub>By Charley Locke</sub>
+<p>Elon Musk&#39;s satellites. Stuffed animals. Tomatoes? You wouldn&#39;t believe what&#39;s circling Earth these days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Ivanka Trump Testifies She Wasn’t ‘Privy to’ Father’s Finances</h3>
-<sub>By Jonah E. Bromwich and Ben Protess</sub>
-<p>Days after Donald J. Trump raged on the stand, his daughter took questions from New York’s lawyers with a polished manner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Appeals Court to Throw Out Election Case Gag Order</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s lawyers claimed he was being muzzled in the midst of a campaign, but their filing exaggerated the constraints put on him by the order.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Tuesday Was Great for Democrats. It Doesn’t Change the Outlook for 2024.</h3>
-<sub>By Nate Cohn</sub>
-<p>A pattern continued with success in low-turnout elections, which favors highly engaged voters. Presidential years tend to be different.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats, No Longer Squeamish on Abortion, Lean Into Searing Personal Ads</h3>
-<sub>By Rebecca Davis O’Brien and Nick Corasaniti</sub>
-<p>Graphic details and shock value used to characterize Republican political ads on abortion. But Democrats ran explicit, visceral ads ahead of Tuesday’s elections, and it paid off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<h3>3 Things We Learned From Ivanka Trump’s Trial Testimony</h3>
+<sub>By Kate Christobek</sub>
+<p>The former president’s daughter said she had little knowledge of the financial documents at the heart of the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
