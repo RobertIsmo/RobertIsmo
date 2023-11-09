@@ -58,9 +58,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, November 8, Central Standard Time</p>
+<p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Israel and Gaza there is a conflict over how it should be managed, with the US Secretary of State suggesting the Palestinian Authority take charge. In Hollywood, actors and studios have reached a deal after one of the longest labor crises in history, but there are still mixed emotions about it. In New York, Ivanka Trump testified about her father&#39;s finances, and former President Trump appealed to a court to throw out a gag order in an election case. Democrats have been using shocking personal ads on abortion, succeeding in recent elections with low turnout. The FDA just approved a new weight-loss drug called Zepbound which has already been used as a diabetes treatment, and House Republicans have subpoenaed President Biden&#39;s son Hunter and brother James as part of an impeachment inquiry.</p>
+The state of the world is tense right now. In the Middle East, it looks like some movement is being made in Gaza towards a possible endgame with the Palestinian Authority having a kind of tenuous control over the area. Meanwhile, Israel has presented ideas about their ongoing role in the region. Hamas is also currently discussing conditions for releasing hostages. 
+
+Meanwhile, in the US, former President Donald Trump is trying to get a gag order in his election case thrown out, while Republican candidates had their debate and Nikki Haley and Vivek Ramaswamy had a heated confrontation onstage. Over in Hollywood, actors have struck a deal with studios after what has been one of the longest labor crises ever seen in the entertainment industry. Ivanka Trump has also been testifying she had no knowledge of her father&#39;s finances. 
+
+On a lighter note, Republican Senator Tim Scott recently took his daughter as his date during the GOP Debate. All in all, Democrats had some successes in lower-turnout elections this week, but that doesn&#39;t necessarily reflect any larger patterns heading into next year&#39;s presidential election.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Blinken Lays Out Possible Endgame in Gaza Under Palestinian Authority</h3>
@@ -75,9 +79,27 @@ There&#39;s a lot going on in the world right now. In Israel and Gaza there is a
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas is discussing the possible release of a few hostages in exchange for a brief pause in fighting, officials say.</h3>
+<h3>Hamas is discussing conditions for freeing a few hostages, officials say.</h3>
 <sub>By Julian E. Barnes and Edward Wong</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>6 Takeaways From the Republican Debate</h3>
+<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
+<p>Nikki Haley staked out a clear, hawkish vision. Ron DeSantis avoided risks. And the night’s glaring absentee, Donald Trump, again emerged untouched.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘You’re Just Scum’: Haley and Ramaswamy Tussle Onstage</h3>
+<sub>By Michael C. Bender</sub>
+<p>An exchange over TikTok turned into a heated confrontation that ended with Nikki Haley calling Vivek Ramaswamy “scum.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott’s Debate Night Date Night</h3>
+<sub>By Michael C. Bender</sub>
+<p>A long-running mystery of Mr. Scott’s campaign was solved at the G.O.P. debate, and it had nothing to do with politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -114,24 +136,6 @@ There&#39;s a lot going on in the world right now. In Israel and Gaza there is a
 <h3>Democrats, No Longer Squeamish on Abortion, Lean Into Searing Personal Ads</h3>
 <sub>By Rebecca Davis O’Brien and Nick Corasaniti</sub>
 <p>Graphic details and shock value used to characterize Republican political ads on abortion. But Democrats ran explicit, visceral ads ahead of Tuesday’s elections, and it paid off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves New Obesity Drug That Will Compete With Wegovy</h3>
-<sub>By Gina Kolata</sub>
-<p>Zepbound, which is already sold by Eli Lilly as the diabetes treatment Mounjaro, was shown to reduce patients’ weight by as much as one-fifth in drug trials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What to Know About Zepbound, the New Weight Loss Drug</h3>
-<sub>By Dani Blum</sub>
-<p>The obesity medication contains tirzepatide, the same active ingredient in the diabetes drug Mounjaro.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Subpoena Biden’s Son and Brother in Impeachment Inquiry</h3>
-<sub>By Luke Broadwater</sub>
-<p>Representative James Comer, the chairman of the Oversight Committee, demanded testimony from James Biden and Hunter Biden as he hunts for evidence of bribery and corruption by the president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
