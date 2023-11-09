@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-There is a lot of tension in the Middle East right now between Israel and Palestine. Secretary of State Antony J. Blinken has proposed a possible endgame that would put the Palestinian Authority in control of Gaza, but Israel has responded by suggesting an &quot;indefinite&quot; role there. Hamas is discussing releasing some hostages in exchange for a pause in fighting. In other news, after a long labor crisis, actors and Hollywood studios have agreed to a deal, and Ivanka Trump testified before the New York lawyers about not being &quot;privy to&quot; her father&#39;s finances. Former President Trump asked an appeals court to throw out a gag order on his election case, and Democrats enjoyed success in low-turnout elections despite recent increases in explicit, visceral ads about abortion. On the health front, the F.D.A. just approved a new weight loss drug called Zepbound, which contains tirzepatide; they already sell it as a diabetes treatment drug called Mounjaro. And finally, House Republicans are subpoenaing President Biden&#39;s son and brother as part of an impeachment inquiry looking for evidence of bribery or corruption.</p>
+There&#39;s a lot going on in the world right now. In Israel and Gaza there is a conflict over how it should be managed, with the US Secretary of State suggesting the Palestinian Authority take charge. In Hollywood, actors and studios have reached a deal after one of the longest labor crises in history, but there are still mixed emotions about it. In New York, Ivanka Trump testified about her father&#39;s finances, and former President Trump appealed to a court to throw out a gag order in an election case. Democrats have been using shocking personal ads on abortion, succeeding in recent elections with low turnout. The FDA just approved a new weight-loss drug called Zepbound which has already been used as a diabetes treatment, and House Republicans have subpoenaed President Biden&#39;s son Hunter and brother James as part of an impeachment inquiry.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Blinken Lays Out Possible Endgame in Gaza Under Palestinian Authority</h3>
@@ -75,7 +75,7 @@ There is a lot of tension in the Middle East right now between Israel and Palest
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas is discussing the possible release of a group of hostages in exchange for a brief pause in fighting, officials say.</h3>
+<h3>Hamas is discussing the possible release of a few hostages in exchange for a brief pause in fighting, officials say.</h3>
 <sub>By Julian E. Barnes and Edward Wong</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
@@ -84,6 +84,12 @@ There is a lot of tension in the Middle East right now between Israel and Palest
 <h3>Striking Actors and Hollywood Studios Agree to a Deal</h3>
 <sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
 <p>The agreement all but ends one of the longest labor crises in the history of the entertainment industry. Union members still have to approve the deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>With the Strikes Over, the Mood in Hollywood Is Decidedly Mixed</h3>
+<sub>By Brooks Barnes</sub>
+<p>Celebratory feelings are competing with resentment over the work stoppage and worries about the business era that is coming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot of tension in the Middle East right now between Israel and Palest
 <h3>House Republicans Subpoena Biden’s Son and Brother in Impeachment Inquiry</h3>
 <sub>By Luke Broadwater</sub>
 <p>Representative James Comer, the chairman of the Oversight Committee, demanded testimony from James Biden and Hunter Biden as he hunts for evidence of bribery and corruption by the president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>How to Hijack a Quarter of a Million Dollars in Rare Japanese Kit Kats</h3>
-<sub>By Amelia Nierenberg</sub>
-<p>The long, strange criminal trail of one stolen load of valuable sweets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
