@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension in the world between Palestine and Israel. After a series of violent attacks against Jewish citizens in the US, colleges are struggling to find a balance between free speech and promoting a safe environment. Meanwhile, people in Gaza trapped within the enclave are sharing their harrowing experiences of living under airstrikes and ground invasion on social media. Additionally, US allies in Asia worry that America&#39;s focus on the conflict might harm its progress on pivoting to the Indo-Pacific region. Hamas recently began discussing freeing hostages so that is a source of hope. 
-
-Domestically, there was a Republican debate recently and Nikki Haley emerged as one of the night&#39;s big winners. Plus, Hollywood actors and studios reached a tentative deal to end the long labor crisis that put so many out of work for months. Despite the celebratory feelings, there is still resentment over what happened and worry about how to get production back up and running. Lastly, Elon Musk&#39;s satellites and other random items are jamming up low earth orbit which is causing all kinds of problems.</p>
+World events have been a bit chaotic lately – in the US, colleges are discussing what types of speech should not be allowed on campus after experiencing a wave of antisemitic attacks. In Gaza, there is a war ongoing and Palestinians are sharing their harrowing experiences on Instagram. Meanwhile, the Palestinian Authority is open to running Gaza once it&#39;s safe again – but only if the US supports a two-state solution. In Hollywood, actors and crews ended a longstrike by agreeing to a tentative deal and now they&#39;re trying to figure out how to get back to normal production schedules. Lastly, there is a bit of a traffic jam in low Earth orbit with satellites, stuffed animals, and tomatoes all orbiting together!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Antisemitic Attacks, Colleges Debate What Kind of Speech Is Out of Bounds</h3>
@@ -77,10 +75,10 @@ Domestically, there was a Republican debate recently and Nikki Haley emerged as 
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine. Israel. Can America Support Two Wars and Still Handle China?</h3>
-<sub>By Damien Cave</sub>
-<p>To U.S. allies in Asia, the sudden focus on Gaza risks progress on America’s long-delayed pivot to the Indo-Pacific region.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<h3>Palestinian Authority Open to Gaza Role if U.S. Backs 2-State Solution</h3>
+<sub>By Mark Landler</sub>
+<p>The organization, which oversees the West Bank, says it will consider helping run Gaza after the war — if Washington pushes for the creation of a Palestinian state alongside the Israeli one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hamas Is Said to Discuss Freeing Some Hostages, and More</h3>
