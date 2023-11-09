@@ -60,11 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-The state of the world is tense right now. In the Middle East, it looks like some movement is being made in Gaza towards a possible endgame with the Palestinian Authority having a kind of tenuous control over the area. Meanwhile, Israel has presented ideas about their ongoing role in the region. Hamas is also currently discussing conditions for releasing hostages. 
+Right now, tensions between Israel and Palestine by the Gaza Strip are at an all-time high. Secretary of State Antony Blinken is trying to work out an agreement that would relieve some of the tension, but nothing has been decided yet. Meanwhile, continuing negotiations over Jerusalem threaten to further complicate matters. The issue of stalled negotiations has also led to growing fears of prolonged unrest. Hamas is currently discussing freeing a few hostages, with discussion between Palestinian and Israeli authorities ongoing. 
 
-Meanwhile, in the US, former President Donald Trump is trying to get a gag order in his election case thrown out, while Republican candidates had their debate and Nikki Haley and Vivek Ramaswamy had a heated confrontation onstage. Over in Hollywood, actors have struck a deal with studios after what has been one of the longest labor crises ever seen in the entertainment industry. Ivanka Trump has also been testifying she had no knowledge of her father&#39;s finances. 
+On the domestic front, former President Donald Trump&#39;s lawyers have requested for a gag order case to be thrown out in order to allow him to campaign for 2024 elections. Meanwhile, Nikki Haley and Vivek Ramaswamy had a heated confrontation at a Republican debate about an issue concerning TikTok. 
 
-On a lighter note, Republican Senator Tim Scott recently took his daughter as his date during the GOP Debate. All in all, Democrats had some successes in lower-turnout elections this week, but that doesn&#39;t necessarily reflect any larger patterns heading into next year&#39;s presidential election.</p>
+In Hollywood, actors have finally settled their dispute with the studios after a series of long labor strikes, with members set to approve the deal soon. The mood in Hollywood right now is very divided with both celebratory feelings and resentment about the strike still present among people working in the industry. 
+
+Finally, Democrats gained ground in various low-turnout elections recently thanks partly due to visceral ads highlighting abortion policies, which used to be considered almost taboo for them just a few years ago. However, it&#39;s important to note that despite these successes this doesn&#39;t really change the outlook for 2024 much since presidential years tend to have very different outcomes altogether.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Blinken Lays Out Possible Endgame in Gaza Under Palestinian Authority</h3>
