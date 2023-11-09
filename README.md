@@ -60,42 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 8, Central Standard Time</p>
 <p>
-It looks like some tension is building in the Middle East with Israel and Hamas being in talks to free up to 50 hostages. Meanwhile, on the US political front, there&#39;s a lot happening. We&#39;re only two debates into the Republican presidential primary and it looks like Nikki Haley has emerged as an early favorite for many. But there&#39;s also Vivek Ramaswamy who thinks celebrating diversity has come at a cost of national unity. On abortion, it looks like there is more support for abortion rights across Republicans and moderates alike than ever before. And in Ohio last week, Trump counties even voted in favor of abortion rights! There have also been some food-related news: the FDA has approved a new obesity drug called Wegovy and the long and strange criminal trail of one stolen load of expensive Japanese Kit Kats made its rounds online too. Houston just uncovered a mass grave from its dark past too - it turns out the city was originally named Sugar Land from a business reliant on forced labor by convicts. And finally, giant pandas are leaving Washington and fans are really sad about it!</p>
+There is a lot of tension in the Middle East right now between Israel and Palestine. Secretary of State Antony J. Blinken has proposed a possible endgame that would put the Palestinian Authority in control of Gaza, but Israel has responded by suggesting an &quot;indefinite&quot; role there. Hamas is discussing releasing some hostages in exchange for a pause in fighting. In other news, after a long labor crisis, actors and Hollywood studios have agreed to a deal, and Ivanka Trump testified before the New York lawyers about not being &quot;privy to&quot; her father&#39;s finances. Former President Trump asked an appeals court to throw out a gag order on his election case, and Democrats enjoyed success in low-turnout elections despite recent increases in explicit, visceral ads about abortion. On the health front, the F.D.A. just approved a new weight loss drug called Zepbound, which contains tirzepatide; they already sell it as a diabetes treatment drug called Mounjaro. And finally, House Republicans are subpoenaing President Biden&#39;s son and brother as part of an impeachment inquiry looking for evidence of bribery or corruption.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Blinken Lays Out Possible Endgame in Gaza Under Palestinian Authority</h3>
+<sub>By Michael D. Shear</sub>
+<p>The secretary of state said Gaza should be overseen by the Palestinian Authority, which has a tenuous hold on power in the Israeli-occupied West Bank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel and Hamas Nearly Struck a Deal to Free Up to 50 Hostages</h3>
-<sub>By Maria Abi-Habib and Matthew Rosenberg</sub>
-<p>Indirect talks mediated by Qatar snagged after Israel’s ground invasion of Gaza on Oct. 27. They have resumed, but hopes for a quick release have faded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Raises Alarms by Suggesting ‘Indefinite’ Role in Gaza</h3>
+<sub>By Steven Erlanger and Isabel Kershner</sub>
+<p>Secretary of State Antony J. Blinken quickly pushed back, but what exactly comes next is far from clear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hamas is discussing the possible release of a group of hostages in exchange for a brief pause in fighting, officials say.</h3>
+<sub>By Julian E. Barnes and Edward Wong</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Striking Actors and Hollywood Studios Agree to a Deal</h3>
+<sub>By Brooks Barnes, John Koblin and Nicole Sperling</sub>
+<p>The agreement all but ends one of the longest labor crises in the history of the entertainment industry. Union members still have to approve the deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Ivanka Trump Testifies She Wasn’t ‘Privy to’ Father’s Finances</h3>
+<sub>By Jonah E. Bromwich and Ben Protess</sub>
+<p>Days after Donald J. Trump raged on the stand, his daughter took questions from New York’s lawyers with a polished manner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Things to Watch at the Third G.O.P. Presidential Debate</h3>
-<sub>By Adam Nagourney and Nicholas Nehamas</sub>
-<p>Can Nikki Haley build on her momentum? Will Ron DeSantis go on offense? Is anyone still watching? Here’s what to look for at the Republican debate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vivek Ramaswamy Loves His Heritage. Just Don’t Call Him an Indian American.</h3>
-<sub>By Amy Qin</sub>
-<p>The Republican presidential candidate says the celebration of diversity in America has come at the cost of national unity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Asks Appeals Court to Throw Out Election Case Gag Order</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s lawyers claimed he was being muzzled in the midst of a campaign, but their filing exaggerated the constraints put on him by the order.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Nikki Haley Wears the Skirts</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Whether on the debate stage or “The Daily Show,” the Republican presidential candidate is strategic about standing out — in every way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Tuesday Was Great for Democrats. It Doesn’t Change the Outlook for 2024.</h3>
+<sub>By Nate Cohn</sub>
+<p>A pattern continued with success in low-turnout elections, which favors highly engaged voters. Presidential years tend to be different.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abortion Rights Fuel Big Democratic Wins, and Hopes for 2024</h3>
-<sub>By Lisa Lerer and Shane Goldmacher</sub>
-<p>Election results from Tuesday showed that Democrats, independents and even some moderate Republicans can coalesce around the issue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Trump Counties in Ohio Voted to Support Abortion Rights</h3>
-<sub>By Lazaro Gamio and Amy Schoenfeld Walker</sub>
-<p>Ohio’s referendum drew support from both liberal and conservative areas of the state, and polled well ahead of President Biden’s results three years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Democrats, No Longer Squeamish on Abortion, Lean Into Searing Personal Ads</h3>
+<sub>By Rebecca Davis O’Brien and Nick Corasaniti</sub>
+<p>Graphic details and shock value used to characterize Republican political ads on abortion. But Democrats ran explicit, visceral ads ahead of Tuesday’s elections, and it paid off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -120,18 +132,6 @@ It looks like some tension is building in the Middle East with Israel and Hamas 
 <h3>How to Hijack a Quarter of a Million Dollars in Rare Japanese Kit Kats</h3>
 <sub>By Amelia Nierenberg</sub>
 <p>The long, strange criminal trail of one stolen load of valuable sweets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The End of Panda Diplomacy?</h3>
-<sub>By Edward Wong and Erin Schaff</sub>
-<p>The giant pandas have left Washington. Some fans find it unbearable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>Mass Grave Recalls the Ugly Past of a City Where ‘Life Is Sweeter’</h3>
-<sub>By Priya Krishna</sub>
-<p>The Houston suburb Sugar Land got its name from a business reliant on the forced labor of convicts. But efforts to memorialize those people have stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
