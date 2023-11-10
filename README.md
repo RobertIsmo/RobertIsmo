@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 10, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. In Gaza, there is an intricate network of tunnels that have been dug by Hamas fighters to remain hidden from view and also to smuggle weapons and goods. In Israel, there have been calls for a ceasefire in the war with Hamas, but concern is growing about how long they can contain it. Germany has been clamping down on pro-Palestinian voices by banning protests in the name of combating antisemitism, but this move has been called discriminatory by critics. In Africa, there was a deadly fire in Johannesburg that has shown the issues faced by immigrants. Additionally, some people taking antidepressants have experienced long-term sexual side effects. Finally, Tesla has had headaches due to a whistleblower leaking employee records and data about driver-assistance software, and Republicans in the US are divided over spending bills as a shutdown nears.</p>
+Right now, there is a lot going on around the world. Joe Biden and Xi Jinping, the US and China&#39;s leaders, are set to meet in California and discuss ways to improve relations between the two countries. There is an ongoing conflict in the Middle East between Israel and Hamas that has been happening for weeks. The US military is also attempting to re-establish communication with Beijing. Meanwhile, in Africa there was a massive fire that happened in Johannesburg, revealing a lot of underlying issues. And finally, people are discussing the sexual side effects of antidepressants after many patients&#39; experiences with lasting problems while coming off them.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and Xi to Seek to Stabilize Relations in California Meeting</h3>
+<sub>By Katie Rogers and Alexandra Stevenson</sub>
+<p>Taiwan, election interference and the war in the Middle East will be on the agenda, officials say. But the leaders will also look for ways to strengthen ties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Seeks to Resume Military Dialogue with Beijing</h3>
+<sub>By Helene Cooper</sub>
+<p>The Joint Chiefs chairman said in a letter to his Chinese counterpart that restoring communications is crucial to avoiding misunderstandings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Tunnels of Gaza</h3>
 <sub>By Marco Hernandez and Josh Holder</sub>
@@ -81,7 +93,7 @@ There has been a lot going on in the world recently. In Gaza, there is an intric
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel Agrees to Short, Daily Pauses in Gaza, and More</h3>
+<h3>Israel Agrees to Short Pauses in Gaza Fighting, and More</h3>
 <sub>By New York Times Audio</sub>
 <p>Plus, Joe Manchin’s retirement fuels 2024 rumors, and House Republicans clash over spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
@@ -120,18 +132,6 @@ There has been a lot going on in the world recently. In Gaza, there is an intric
 <h3>An Epic Pilgrimage Across Three Great Religions</h3>
 <sub>By Aatish Taseer</sub>
 <p>Before there was tourism, there was pilgrimage. One writer’s 40,000-mile journey through Bolivia, Mongolia and Iraq reveals the ritual’s enduring transformational power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Man vs. Musk: A Whistleblower Creates Headaches for Tesla</h3>
-<sub>By Jack Ewing</sub>
-<p>An employee who was fired after expressing safety concerns leaked personnel records and sensitive data about driver-assistance software.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Clash Over Spending Days Ahead of Shutdown Deadline</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>Party divisions forced Republicans to abandon two of their own spending measures this week as they toiled to agree on a stopgap spending bill to avert a shutdown next Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
