@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 10, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world. Joe Biden and Xi Jinping, the US and China&#39;s leaders, are set to meet in California and discuss ways to improve relations between the two countries. There is an ongoing conflict in the Middle East between Israel and Hamas that has been happening for weeks. The US military is also attempting to re-establish communication with Beijing. Meanwhile, in Africa there was a massive fire that happened in Johannesburg, revealing a lot of underlying issues. And finally, people are discussing the sexual side effects of antidepressants after many patients&#39; experiences with lasting problems while coming off them.</p>
+Recently, a lot is going on in the world, and especially among the US and China. President Biden and Chinese President Xi are meeting in California to try and stabilize their relations. The agenda includes topics such as Taiwan, election interference, and the war in the Middle East. In San Francisco, they&#39;re trying to clean up before major world leaders arrive for the Asia-Pacific Economic Cooperation conference. On top of that, the US is trying to resume military dialogue with Beijing. Elsewhere, there are still ongoing issues in Gaza, with an extensive maze of tunnels beneath it allowing Hamas fighters to smuggle weapons and goods. In Germany&#39;s debate over pro-Palestinian voices versus free speech, the country has been banning some protests what many people believe to be discriminatory. In politics, there&#39;s worry about abortion curbs alienating voters and talk about Joe Manchin potentially running as third-party in 2024. In Johannesburg a deadly fire exposes an existing problem with lax housing laws, while in New York City Trump gets attacked by republican allies after testifying in civil fraud trial. Lastly, there will be more decisive updates soon since a judge is pushing back decision on whether to delay former president Trump&#39;s documents trial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and Xi to Seek to Stabilize Relations in California Meeting</h3>
@@ -69,9 +69,15 @@ Right now, there is a lot going on around the world. Joe Biden and Xi Jinping, t
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Seeks to Resume Military Dialogue with Beijing</h3>
+<h3>Before World Leaders Arrive, San Francisco Races to Clean Up</h3>
+<sub>By Heather Knight</sub>
+<p>The Asia-Pacific Economic Cooperation conference comes at a pivotal moment for the city as it struggles to rebound from the pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Seeks to Resume Military Dialogue With Beijing</h3>
 <sub>By Helene Cooper</sub>
-<p>The Joint Chiefs chairman said in a letter to his Chinese counterpart that restoring communications is crucial to avoiding misunderstandings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Joint Chiefs chairman said in a letter to his Chinese counterpart that restoring communications was crucial to avoiding misunderstandings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,10 +98,10 @@ Right now, there is a lot going on around the world. Joe Biden and Xi Jinping, t
 <p>The country’s authorities have banned many protests in the name of fighting antisemitism. Critics say such restrictions are discriminatory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel Agrees to Short Pauses in Gaza Fighting, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Joe Manchin’s retirement fuels 2024 rumors, and House Republicans clash over spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alarmed by Off-Year Losses, Mainstream Republicans Balk at Abortion Curbs</h3>
+<sub>By Annie Karni and Catie Edmondson</sub>
+<p>Worried about alienating critical blocs of voters, House Republicans from competitive districts are digging in against using spending bills for abortion and contraception restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,35 +110,29 @@ Right now, there is a lot going on around the world. Joe Biden and Xi Jinping, t
 <p>The West Virginia senator, who announced Thursday that he would not seek re-election, has stoked chatter about a third-party run. But his allies have been tight-lipped about his plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Manchin Says He Will Not Seek Re-election, Dealing Blow to Democrats</h3>
-<sub>By Luke Broadwater</sub>
-<p>The decision by Senator Joe Manchin III will leave open a seat in a deeply red state, threatening Democrats’ hold on the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Deadly Fire in Africa’s Richest City Exposed a Secret in Plain Sight</h3>
 <sub>By Lynsey Chutel, Selam Gebrekidan and John Eligon</sub>
 <p>Officials blame immigrants and liberal housing laws, but a Times investigation found the entrenched problems that turned downtown Johannesburg into a blighted tinderbox.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>After Antidepressants, a Loss of Sexuality</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>Some patients are speaking up about lasting sexual problems after stopping antidepressants, a poorly understood condition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Is This Hell?’ The Pilot Accused of Trying to Crash a Plane Tells His Story.</h3>
+<sub>By Mike Baker</sub>
+<p>Joseph Emerson, charged with attempted murder, said he felt trapped in a dream after taking mushrooms. He had feared mental health treatments that could disrupt his career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What to Know About the Sexual Side Effects of Antidepressants</h3>
-<sub>By Azeen Ghorayshi</sub>
-<p>S.S.R.I.s, the most widely prescribed antidepressants, frequently cause sexual problems. Here’s what patients can do about it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After Trump Testifies, Republicans Attack Judge in Civil Fraud Trial</h3>
+<sub>By Jonah E. Bromwich and Maggie Haberman</sub>
+<p>Justice Arthur Engoron imposed a narrow gag order on Donald Trump. Right-wing allies are going after the judge on his behalf, through official channels and online.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-t-magazine-blue" alt="">
-<h3>An Epic Pilgrimage Across Three Great Religions</h3>
-<sub>By Aatish Taseer</sub>
-<p>Before there was tourism, there was pilgrimage. One writer’s 40,000-mile journey through Bolivia, Mongolia and Iraq reveals the ritual’s enduring transformational power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Judge Puts Off Decision on Whether to Delay Trump Documents Trial</h3>
+<sub>By Alan Feuer</sub>
+<p>Judge Aileen M. Cannon said she would meet with prosecutors and defense lawyers in March to settle on a schedule for the former president’s trial on federal charges of mishandling classified material.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
