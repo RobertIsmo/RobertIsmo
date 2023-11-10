@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, November 9, Central Standard Time</p>
+<p>It is Friday, November 10, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the Middle East, Israeli Forces have been given limited time to act in Gaza and the response to Hamas attacks has been creating more sympathy worldwide for Palestinians. Meanwhile, back in the US there&#39;s debate about &quot;From the River to the Sea,&quot; a rallying cry for pro-Palestinian protests that has become prominent. Also, Israel is accusing freelance photographers of having prior knowledge about an attack. 
-
-On the political front, US Senator Joe Manchin announced he will not seek re-election, raising questions about if it will be easier for Democrats to maintain control of the Senate or not. There have also been rumors of a third-party bid by former presidential candidate Jill Stein for the next election. 
-
-Finally, there was court testimony from Ivanka Trump related to a financial fraud case. She also became a talking point because of her clothing choice during her trial hearing. Meanwhile, Silicon Valley is releasing new devices designed to limit our use of smartphones and AI pin companies say they can do the same.</p>
+There has been a lot of tension and unrest in the Middle East recently, especially between Israel and Palestine. There are protests against Israeli forces taking over Gaza and the US Congress has been debating a pro-Palestinian rally cry. In other news, Israel has accused freelance photographers of advance knowledge of an attack which has been denied by the New York Times. Back in the US, Senator Joe Manchin has announced his retirement which could threaten Democrats&#39; hold on the Senate. He&#39;s also sparked speculation about running for President in 2024. Furthermore, President Yoon Suk Yeol of South Korea is cracking down on journalists in the name of fighting misinformation. Innovations in technology have recently come to light as well, with Silicon Valley making a bet on a device that comes after the smartphone and using A.I. and lasers to tackle addiction to smartphones. Finally, a bundle of 18th-century love letters has been unsealed after being undelivered for nearly 250 years and efforts are being made in Hungary to limit depictions of LGBTQ people, resulting in the firing of some museum directors.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Israeli Forces Have Limited Time in Gaza, U.S. Officials Say</h3>
@@ -96,34 +92,10 @@ Finally, there was court testimony from Ivanka Trump related to a financial frau
 <p>The West Virginia senator, who announced Thursday that he would not seek re-election, has stoked chatter about a third-party run. But his allies have been tight-lipped about his plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jill Stein Announces Third-Party Bid for President</h3>
-<sub>By Maggie Astor</sub>
-<p>Ms. Stein will seek the Green Party nomination, a spokesman said. Her last two campaigns with the party were unsuccessful.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Big Jim’ and Babydog Go to Washington?</h3>
-<sub>By Campbell Robertson</sub>
-<p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Clash Over Spending Days Ahead of Shutdown Deadline</h3>
-<sub>By Catie Edmondson and Carl Hulse</sub>
-<p>Party divisions forced Republicans to abandon two of their own spending measures this week as they toiled to agree on a stopgap spending bill to avert a shutdown next Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>3 Things We Learned From Ivanka Trump’s Trial Testimony</h3>
-<sub>By Kate Christobek</sub>
-<p>The former president’s daughter said she had little knowledge of the financial documents at the heart of the civil fraud case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Trump Family Trial Style</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Ivanka Trump and her siblings dress for court — and the cameras.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>President’s War Against ‘Fake News’ Raises Alarms in South Korea</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>He calls fake news an enemy that threatens democracy. Critics of President Yoon Suk Yeol say he is silencing journalists in the name of fighting disinformation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -136,6 +108,30 @@ Finally, there was court testimony from Ivanka Trump related to a financial frau
 <h3>Can A.I. and Lasers Cure Our Smartphone Addiction?</h3>
 <sub>By Erin Griffith</sub>
 <p>A first impression of Humane’s new magnetic Ai Pin: equal parts magical and awkward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Clash Over Spending Days Ahead of Shutdown Deadline</h3>
+<sub>By Catie Edmondson and Carl Hulse</sub>
+<p>Party divisions forced Republicans to abandon two of their own spending measures this week as they toiled to agree on a stopgap spending bill to avert a shutdown next Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Dr. Ruth Saved People’s Sex Lives. Now She Wants to Cure Loneliness.</h3>
+<sub>By Allison Gilbert</sub>
+<p>Taking the lessons of pandemic isolation — and her adolescent diary — Dr. Ruth Westheimer, 95, decided she should be New York’s Loneliness Ambassador. And so she is.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Bundle of 18th-Century Love Letters Is Unsealed at Last</h3>
+<sub>By Jenny Gross</sub>
+<p>More than 100 letters, addressed to French sailors, were never delivered. They remained unopened for nearly 250 years, until a historian found them in Britain’s archives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Restrictions on L.G.B.T.Q. Depictions Rattle Hungary’s Cultural World</h3>
+<sub>By Andrew Higgins</sub>
+<p>A government campaign against what it calls “homosexual propaganda” is unsettling booksellers and has resulted in the firing of the director of one of the country’s leading museums.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
