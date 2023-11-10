@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 9, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Israel, tensions between Hamas and Israeli forces have reached an all-time high, and sympathy for the Palestinian cause has been increasing. In the United States, the debate over a pro-Palestinian phrase has been inflamed on college campuses and in Congress. Anti-Semitic attacks on US college campuses have heightened debates over speech that is acceptable or not. Politically, Senator Joe Manchin III has announced he will not seek re-election in a deeply red state, making it more difficult for Democrats to hold on to the Senate. Green Party leader Jill Stein has launched another bid for president, and Republicans recently held their first primary debate with Nikki Haley speaking out on issues of foreign policy. Also in politics, House Republicans are clashing over their spending plans before a looming shutdown deadline. Lastly, Ivanka Trump testified in court as part of a civil fraud case, while fashion commentators noted her style in the courtroom. Meanwhile, Silicon Valley has placed a big bet on a new device that could possibly replace the smartphone due to its A.I. capabilities and laser technology.</p>
+There are a lot of things going on in the world right now. In the Middle East, Israeli forces and Hamas militants are fighting in Gaza and there is a lot of sympathy for the Palestinian cause among people from around the world. In Congress, there&#39;s been debate about a pro-Palestinian rallying cry called &#39;from the river to the sea&#39; because of its fraught history. In the US, Senator Joe Manchin announced he won&#39;t be seeking re-election which could impact Democrats&#39; hold on the Senate.  This prompted speculation that he might run for president in 2024 as an independent.  Meanwhile, former green party nominee Jill Stein announced she&#39;ll be seeking that party&#39;s presidential nomination again. West Virginia governor Jim Justice is also running for Senate this year which has some people wondering what he&#39;ll bring to D.C.  There have been clashes between Republican members of Congress over spending bills recently and pressure to pass a stopgap measure before the government shuts down next Saturday. Ivanka Trump also had to testify in a civil fraud case recently but said she had little knowledge of the financial documents involved. On a lighter note, her trial attire was analyzed like fashion editors observing a runway show! Finally, we&#39;re seeing some emerging technology developments with A.I. pins and lasers being touted as a potential way to cure smartphone addiction. Amazing!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Israeli Forces Have Limited Time in Gaza, U.S. Officials Say</h3>
@@ -74,16 +74,22 @@ There&#39;s a lot happening in the world right now. In Israel, tensions between 
 <p>The pro-Palestinian rallying cry has become a fixture of protests in the United States and was a focus of the congressional censure of Representative Rashida Tlaib. It has a fraught history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Antisemitic Attacks, Colleges Debate What Kind of Speech Is Out of Bounds</h3>
-<sub>By Anemona Hartocollis and Stephanie Saul</sub>
-<p>Pro-Palestinian students say that they are speaking up for an oppressed people, but critics say that their rhetoric is deeply offensive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Accuses Freelance Photographers of Advance Knowledge of Oct. 7 Attack</h3>
+<sub>By Mark Landler</sub>
+<p>The New York Times said there was “no evidence” to support such claims about its freelancer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Manchin Says He Will Not Seek Re-election, Dealing Blow to Democrats</h3>
 <sub>By Luke Broadwater</sub>
 <p>The decision by Senator Joe Manchin III will leave open a seat in a deeply red state, threatening Democrats’ hold on the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Joe Manchin’s Retirement Adds Fuel to 2024 Rumors</h3>
+<sub>By Reid J. Epstein and Jonathan Weisman</sub>
+<p>The West Virginia senator, who announced Thursday that he would not seek re-election, has stoked chatter about a third-party run. But his allies have been tight-lipped about his plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,12 +103,6 @@ There&#39;s a lot happening in the world right now. In Israel, tensions between 
 <sub>By Campbell Robertson</sub>
 <p>The debt-ridden, party-flipping governor of struggling West Virginia is running for the Senate. Is D.C. ready for Jim Justice (and his beloved bulldog)?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, October 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>6 Takeaways From the Republican Debate</h3>
-<sub>By Shane Goldmacher, Jonathan Swan and Maggie Haberman</sub>
-<p>Nikki Haley staked out a clear, hawkish vision. Ron DeSantis avoided risks. And the night’s glaring absentee, Donald Trump, again emerged untouched.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Republicans Clash Over Spending Days Ahead of Shutdown Deadline</h3>
