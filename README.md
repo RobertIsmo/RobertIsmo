@@ -60,24 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 10, Central Standard Time</p>
 <p>
-Recently, a lot is going on in the world, and especially among the US and China. President Biden and Chinese President Xi are meeting in California to try and stabilize their relations. The agenda includes topics such as Taiwan, election interference, and the war in the Middle East. In San Francisco, they&#39;re trying to clean up before major world leaders arrive for the Asia-Pacific Economic Cooperation conference. On top of that, the US is trying to resume military dialogue with Beijing. Elsewhere, there are still ongoing issues in Gaza, with an extensive maze of tunnels beneath it allowing Hamas fighters to smuggle weapons and goods. In Germany&#39;s debate over pro-Palestinian voices versus free speech, the country has been banning some protests what many people believe to be discriminatory. In politics, there&#39;s worry about abortion curbs alienating voters and talk about Joe Manchin potentially running as third-party in 2024. In Johannesburg a deadly fire exposes an existing problem with lax housing laws, while in New York City Trump gets attacked by republican allies after testifying in civil fraud trial. Lastly, there will be more decisive updates soon since a judge is pushing back decision on whether to delay former president Trump&#39;s documents trial.</p>
+There is a lot going on in the world right now. In New York, FBI agents have seized Eric Adams&#39; phones and iPad as part of an investigation into his mayoral campaign. Meanwhile, other Republicans are opposing proposed changes to abortion laws in the U.S. and some mainstream Republicans are wary of any legislation restricting abortion and contraception access.
+
+Elsewhere, betting on the US presidential election has already begun, while there is a maze of tunnels running beneath the Gaza Strip used by Hamas fighters to smuggle weapons and goods. In Germany, authorities have banned pro-Palestinian protests in an effort to combat antisemitism – drawing criticism from those who say it’s discriminatory. 
+
+In California, preparations are underway for a meeting between Joe Biden and Xi Jinping to discuss key issues such as Taiwan, election interference and the war in the Middle East. Meanwhile, the U.S., which seeks to restore communication with China, also wants to resume military dialogue with Beijing. 
+
+Finally, an airline pilot has recently come forward about his experience trying to crash a plane while under the influence of drugs - he claims he felt trapped midair during what felt like a &#39;dream&#39;.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>F.B.I. Seizes Eric Adams’s Phones as Campaign Investigation Intensifies</h3>
+<sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
+<p>Days after a raid at Mr. Adams’s chief fund-raiser’s home, federal agents took the mayor’s phones and iPad, two people with knowledge of the matter said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Mayor’s 25-Year-Old Fund-Raising Chief in Spotlight After F.B.I. Raid</h3>
+<sub>By Dana Rubinstein, Jeffery C. Mays and William K. Rashbaum</sub>
+<p>A recent college graduate, Brianna Suggs was an unusual choice to run Eric Adams’s big-money fund-raising operation as he campaigned for mayor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Xi to Seek to Stabilize Relations in California Meeting</h3>
-<sub>By Katie Rogers and Alexandra Stevenson</sub>
-<p>Taiwan, election interference and the war in the Middle East will be on the agenda, officials say. But the leaders will also look for ways to strengthen ties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>With Manchin Out, Democrats’ Path to Holding the Senate Is Narrow</h3>
+<sub>By Michael C. Bender and Shane Goldmacher</sub>
+<p>While the party will be on defense in every competitive race, Republicans face some messy primaries and a recent history of nominating extreme candidates who have lost key contests.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Before World Leaders Arrive, San Francisco Races to Clean Up</h3>
-<sub>By Heather Knight</sub>
-<p>The Asia-Pacific Economic Cooperation conference comes at a pivotal moment for the city as it struggles to rebound from the pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Alarmed by Off-Year Losses, Mainstream Republicans Balk at Abortion Curbs</h3>
+<sub>By Annie Karni and Catie Edmondson</sub>
+<p>Worried about alienating critical blocs of voters, House Republicans from competitive districts are digging in against using spending bills for abortion and contraception restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Seeks to Resume Military Dialogue With Beijing</h3>
-<sub>By Helene Cooper</sub>
-<p>The Joint Chiefs chairman said in a letter to his Chinese counterpart that restoring communications was crucial to avoiding misunderstandings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Betting on the Presidential Election Has Begun</h3>
+<sub>By Jeff Sommer</sub>
+<p>While two leading prediction markets are fighting regulatory restrictions in court, wagers on politics and economics are still being made.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,10 +104,10 @@ Recently, a lot is going on in the world, and especially among the US and China.
 <p>A maze of tunnels extends below the Gaza Strip, allowing Hamas fighters to stay out of sight and smuggle weapons and goods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Israel’s Ticking Clock</h3>
-<sub>By Lauren Jackson</sub>
-<p>The country has slowed down to protect its troops and consult allies. But as outrage over the war grows, it’s running out of time to defeat Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel is considering a deal for Hamas to release all civilian hostages in Gaza, officials say.</h3>
+<sub>By Julian E. Barnes and Edward Wong</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,39 +117,27 @@ Recently, a lot is going on in the world, and especially among the US and China.
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alarmed by Off-Year Losses, Mainstream Republicans Balk at Abortion Curbs</h3>
-<sub>By Annie Karni and Catie Edmondson</sub>
-<p>Worried about alienating critical blocs of voters, House Republicans from competitive districts are digging in against using spending bills for abortion and contraception restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Before World Leaders Arrive, San Francisco Races to Clean Up</h3>
+<sub>By Heather Knight</sub>
+<p>The Asia-Pacific Economic Cooperation conference comes at a pivotal moment for the city as it struggles to rebound from the pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Joe Manchin’s Retirement Adds Fuel to 2024 Rumors</h3>
-<sub>By Reid J. Epstein and Jonathan Weisman</sub>
-<p>The West Virginia senator, who announced Thursday that he would not seek re-election, has stoked chatter about a third-party run. But his allies have been tight-lipped about his plans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 9, Central Standard Time</sub></sub>
+<h3>Biden and Xi to Seek to Stabilize Relations in California Meeting</h3>
+<sub>By Katie Rogers and Alexandra Stevenson</sub>
+<p>Taiwan, election interference and the war in the Middle East will be on the agenda, officials say. But the leaders will also look for ways to strengthen ties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deadly Fire in Africa’s Richest City Exposed a Secret in Plain Sight</h3>
-<sub>By Lynsey Chutel, Selam Gebrekidan and John Eligon</sub>
-<p>Officials blame immigrants and liberal housing laws, but a Times investigation found the entrenched problems that turned downtown Johannesburg into a blighted tinderbox.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Seeks to Resume Military Dialogue With Beijing</h3>
+<sub>By Helene Cooper</sub>
+<p>The Joint Chiefs chairman said in a letter to his Chinese counterpart that restoring communications was crucial to avoiding misunderstandings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Is This Hell?’ The Pilot Accused of Trying to Crash a Plane Tells His Story.</h3>
 <sub>By Mike Baker</sub>
 <p>Joseph Emerson, charged with attempted murder, said he felt trapped in a dream after taking mushrooms. He had feared mental health treatments that could disrupt his career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Trump Testifies, Republicans Attack Judge in Civil Fraud Trial</h3>
-<sub>By Jonah E. Bromwich and Maggie Haberman</sub>
-<p>Justice Arthur Engoron imposed a narrow gag order on Donald Trump. Right-wing allies are going after the judge on his behalf, through official channels and online.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Puts Off Decision on Whether to Delay Trump Documents Trial</h3>
-<sub>By Alan Feuer</sub>
-<p>Judge Aileen M. Cannon said she would meet with prosecutors and defense lawyers in March to settle on a schedule for the former president’s trial on federal charges of mishandling classified material.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
