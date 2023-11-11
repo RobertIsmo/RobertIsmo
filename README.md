@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, November 10, Central Standard Time</p>
+<p>It is Saturday, November 11, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension in the world - in Gaza City, hospitals are caught in deadly crossfire as Israeli forces battle Hamas fighters. And at universities in the US like Harvard, Columbia and Penn, students are facing antisemitism on campus. Meanwhile, the FBI has seized devices belonging to a mayoral candidate in New York City as a part of its investigation. Furthermore, Republicans and Democrats are vying for control of the Senate ahead of the next election, and there is speculation about who will win the presidential election. Finally, Treasury Secretary Yellen is pushing for better economic ties with China, while San Francisco is preparing for a major conference. On top of all this, a pastor in Georgia who was connected to Trump has been indicted on charges of attempted murder after taking mushrooms.</p>
+It&#39;s been a busy week in the news! In Gaza City, hospitals are facing deadly crossfire as Hamas fighters and Israeli forces fight for control. Meanwhile in the US, universities like Harvard, Columbia, and Penn have started banning pro-Palestinian student groups and signed pledges to fight antisemitism on campus. Also in the US, federal agents have seized New York Mayor Eric Adams&#39;s phones for investigation, and a 25-year-old who was running Adams&#39;s fundraising campaign is now in the spotlight. The US Senate races have intensified due to Democrats&#39; struggle to stay in power, while Treasury Secretary Yellen is pushing for healthier economic ties with China. People are also booking space burials for their final wishes and Pastor Stephen C Lee has been indicted for pressuring an elections worker. Recently, Right-wing allies of Donald Trump have started attacking a judge who imposed a gag order on Trump during a civil fraud trial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza City Hospitals Are Caught in Deadly Crossfire</h3>
@@ -99,15 +99,9 @@ Right now, there is a lot of tension in the world - in Gaza City, hospitals are 
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alarmed by Off-Year Losses, Mainstream Republicans Balk at Abortion Curbs</h3>
-<sub>By Annie Karni and Catie Edmondson</sub>
-<p>Worried about alienating critical blocs of voters, House Republicans from competitive districts are digging in against using spending bills for abortion and contraception restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Betting on the Presidential Election Has Begun</h3>
-<sub>By Jeff Sommer</sub>
-<p>While two leading prediction markets are fighting regulatory restrictions in court, wagers on politics and economics are still being made.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Louisiana Must Finalize New Voting Map by January, Federal Appeals Court Says</h3>
+<sub>By Katie Benner</sub>
+<p>The U.S. Court of Appeals for the Fifth Circuit agreed with a lower-court ruling that the latest congressional map very likely diluted the power of Black voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +116,22 @@ Right now, there is a lot of tension in the world - in Gaza City, hospitals are 
 <p>The Treasury secretary said she had pressed her Chinese counterpart on China’s export controls and cautioned against supporting Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Is This Hell?’ The Pilot Accused of Trying to Crash a Plane Tells His Story.</h3>
-<sub>By Mike Baker</sub>
-<p>Joseph Emerson, charged with attempted murder, said he felt trapped in a dream after taking mushrooms. He had feared mental health treatments that could disrupt his career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Their Final Wish? A Burial in Space.</h3>
+<sub>By Dina Litovsky and Jon Mooallem</sub>
+<p>Why some people decide to send their remains into orbit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pastor Indicted With Trump in Georgia Asks Evangelical Supporters for Help</h3>
 <sub>By Richard Fausset</sub>
 <p>The Rev. Stephen C. Lee says he was pastoring to people in Georgia after the 2020 election. The indictment says he was pressuring an elections worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After Trump Testifies, Republicans Attack Judge in Civil Fraud Trial</h3>
+<sub>By Jonah E. Bromwich and Maggie Haberman</sub>
+<p>Justice Arthur Engoron imposed a narrow gag order on Donald Trump. Right-wing allies are going after the judge on his behalf, through official channels and online.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
