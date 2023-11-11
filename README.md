@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 10, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In New York, FBI agents have seized Eric Adams&#39; phones and iPad as part of an investigation into his mayoral campaign. Meanwhile, other Republicans are opposing proposed changes to abortion laws in the U.S. and some mainstream Republicans are wary of any legislation restricting abortion and contraception access.
-
-Elsewhere, betting on the US presidential election has already begun, while there is a maze of tunnels running beneath the Gaza Strip used by Hamas fighters to smuggle weapons and goods. In Germany, authorities have banned pro-Palestinian protests in an effort to combat antisemitism – drawing criticism from those who say it’s discriminatory. 
-
-In California, preparations are underway for a meeting between Joe Biden and Xi Jinping to discuss key issues such as Taiwan, election interference and the war in the Middle East. Meanwhile, the U.S., which seeks to restore communication with China, also wants to resume military dialogue with Beijing. 
-
-Finally, an airline pilot has recently come forward about his experience trying to crash a plane while under the influence of drugs - he claims he felt trapped midair during what felt like a &#39;dream&#39;.</p>
+There is a lot happening in the world right now. In New York, the FBI has seized Mayor Eric Adams&#39; phones and iPad as part of an investigation into his campaign finances. Meanwhile, a 25-year-old fund-raising chief of Adams&#39; campaign is also under scrutiny after a federal raid. In Washington, Democrats are struggling to keep their majority in the Senate since West Virginia Senator Joe Manchin is not running for re-election. There are also some House Republicans who are pushing back on abortion curbs due to alarm over losses from last year. Betting on the presidential election has started in some places despite court challenges. In Gaza, there is a large underground network of tunnels used by Hamas to smuggle weapons and goods. Israel is now considering a deal with Hamas to free all civilian hostages in Gaza. Germany has been banning pro-Palestinian demonstrations and protests in the name of fighting anti-Semitism, which has raised some concerns about free speech restrictions. Across the US, cities like San Francisco are taking big steps to prepare for world leaders who will soon be visiting for international conferences. Treasury Secretary Janet Yellen is dynamically negotiating with China regarding economic ties that should promote a healthy relationship between the two countries. And finally, an airplane pilot who was charged with attempted murder told his side of why he tried to crash his plane while high on mushrooms — he wanted to avoid treatments that could threaten his career. Finally, a pastor indicted along with former President Donald Trump for pressuring an elections worker in Georgia asked evangelical supporters for help.</p>
 <ol>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>F.B.I. Seizes Eric Adams’s Phones as Campaign Investigation Intensifies</h3>
@@ -122,22 +116,22 @@ Finally, an airline pilot has recently come forward about his experience trying 
 <p>The Asia-Pacific Economic Cooperation conference comes at a pivotal moment for the city as it struggles to rebound from the pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Xi to Seek to Stabilize Relations in California Meeting</h3>
-<sub>By Katie Rogers and Alexandra Stevenson</sub>
-<p>Taiwan, election interference and the war in the Middle East will be on the agenda, officials say. But the leaders will also look for ways to strengthen ties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Seeks to Resume Military Dialogue With Beijing</h3>
-<sub>By Helene Cooper</sub>
-<p>The Joint Chiefs chairman said in a letter to his Chinese counterpart that restoring communications was crucial to avoiding misunderstandings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Yellen Says U.S. Wants ‘Healthy’ Economic Ties With China</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Treasury secretary said she had pressed her Chinese counterpart on China’s export controls and cautioned against supporting Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘Is This Hell?’ The Pilot Accused of Trying to Crash a Plane Tells His Story.</h3>
 <sub>By Mike Baker</sub>
 <p>Joseph Emerson, charged with attempted murder, said he felt trapped in a dream after taking mushrooms. He had feared mental health treatments that could disrupt his career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pastor Indicted With Trump in Georgia Asks Evangelical Supporters for Help</h3>
+<sub>By Richard Fausset</sub>
+<p>The Rev. Stephen C. Lee says he was pastoring to people in Georgia after the 2020 election. The indictment says he was pressuring an elections worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
