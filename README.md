@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 11, Central Standard Time</p>
 <p>
-It&#39;s been a pretty eventful few weeks in the news! In Israel, there has been an assault on southern parts of the country and dozens of civilians were killed while trying to flee to safety. Meanwhile here in the US, there has been a focus on antisemitism on college campuses, with some universities banning pro-Palestinian student groups. We&#39;ve also seen two young Democratic congresswomen debate their party&#39;s future over Israeli-Palestinian issues. On the immigration front, if Trump regains power, he wants to expand and toughen his policies which have already been heavily criticized for being draconian. And lastly in Ukraine, there have been stories of people going through difficult times during pregnancy and birth, and how some have been lucky compared to others.</p>
+Currently, there are many news events unfolding around the world. In Israel, Hamas began an assault resulting in the slaughter of people who sought refuge in bomb shelters. To combat rising antisemitism on college campuses in the US, several universities have begun to take measures such as banning certain pro-Palestinian student groups and starting task forces to address this issue. There has also been a clash between two young Democratic stars in the Bronx, Alexandria Ocasio-Cortez and Ritchie Torres over the Israel-Hamas war. In terms of immigration actions, if Donald Trump regains power, he wants to revive and toughen up some of his old policies that were criticized for being too draconian. Additionally, there is an ongoing case regarding a pastor indicted with Donald Trump and a 25-year-old fund-raising chief under investigation for an F.B.I. raid in New York City. Lastly, in Texas, a Bishop was removed due to his outspoken criticism of Pope Francis.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>They Ran Into a Bomb Shelter for Safety. Instead, They Were Slaughtered.</h3>
@@ -116,22 +116,22 @@ It&#39;s been a pretty eventful few weeks in the news! In Israel, there has been
 <p>One of the first sounds my son ever heard was an air siren. He is one of the lucky ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Voted to Protect Abortion Rights. Could Florida Be Next?</h3>
-<sub>By Patricia Mazzei</sub>
-<p>A coalition of groups collecting petition signatures for a ballot protecting abortion rights says its fund-raising got a boost after the Ohio results.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Texas Bishop Loudly Critical of Pope Francis Is Removed</h3>
+<sub>By Jason Horowitz</sub>
+<p>It was a rare move that was a measure both of Bishop Joseph Strickland’s outspoken criticism of the supreme pontiff of his faith and of Francis’ frustration with ultraconservatives in the U.S.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Louisiana Must Finalize New Voting Map by January, Federal Appeals Court Says</h3>
-<sub>By Katie Benner</sub>
-<p>The U.S. Court of Appeals for the Fifth Circuit agreed with a lower-court ruling that the latest congressional map very likely diluted the power of Black voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Decaying Warship Beached on a Tiny Shoal Provoked China’s Ire</h3>
 <sub>By Camille Elemia</sub>
 <p>After multiple maritime clashes, the Philippines invited journalists on a mission to resupply the Sierra Madre. A reporter for The Times was given rare access.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Wanted to Get Sober. They Got a Nightmare Instead.</h3>
+<sub>By Jack Healy</sub>
+<p>Arizona spent $1 billion on addiction treatment, much of it fraudulent, officials said. Scores of Native Americans who sought help are still struggling with untreated addiction — and some died in rehab.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
