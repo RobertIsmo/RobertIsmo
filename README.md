@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 10, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In New York, the FBI has seized Mayor Eric Adams&#39; phones and iPad as part of an investigation into his campaign finances. Meanwhile, a 25-year-old fund-raising chief of Adams&#39; campaign is also under scrutiny after a federal raid. In Washington, Democrats are struggling to keep their majority in the Senate since West Virginia Senator Joe Manchin is not running for re-election. There are also some House Republicans who are pushing back on abortion curbs due to alarm over losses from last year. Betting on the presidential election has started in some places despite court challenges. In Gaza, there is a large underground network of tunnels used by Hamas to smuggle weapons and goods. Israel is now considering a deal with Hamas to free all civilian hostages in Gaza. Germany has been banning pro-Palestinian demonstrations and protests in the name of fighting anti-Semitism, which has raised some concerns about free speech restrictions. Across the US, cities like San Francisco are taking big steps to prepare for world leaders who will soon be visiting for international conferences. Treasury Secretary Janet Yellen is dynamically negotiating with China regarding economic ties that should promote a healthy relationship between the two countries. And finally, an airplane pilot who was charged with attempted murder told his side of why he tried to crash his plane while high on mushrooms — he wanted to avoid treatments that could threaten his career. Finally, a pastor indicted along with former President Donald Trump for pressuring an elections worker in Georgia asked evangelical supporters for help.</p>
+Right now, there is a lot of tension in the world - in Gaza City, hospitals are caught in deadly crossfire as Israeli forces battle Hamas fighters. And at universities in the US like Harvard, Columbia and Penn, students are facing antisemitism on campus. Meanwhile, the FBI has seized devices belonging to a mayoral candidate in New York City as a part of its investigation. Furthermore, Republicans and Democrats are vying for control of the Senate ahead of the next election, and there is speculation about who will win the presidential election. Finally, Treasury Secretary Yellen is pushing for better economic ties with China, while San Francisco is preparing for a major conference. On top of all this, a pastor in Georgia who was connected to Trump has been indicted on charges of attempted murder after taking mushrooms.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza City Hospitals Are Caught in Deadly Crossfire</h3>
+<sub>By Thomas Fuller, Aaron Boxerman, Malachy Browne and Neil Collier</sub>
+<p>Battling Hamas fighters, Israeli forces are “closing in” on hospitals where thousands of people are stranded, while the chief U.S. diplomat says “far too many Palestinians have been killed.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Tunnels of Gaza</h3>
+<sub>By Marco Hernandez and Josh Holder</sub>
+<p>A maze of tunnels extends below the Gaza Strip, allowing Hamas fighters to stay out of sight and smuggle weapons and goods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard, Columbia and Penn Pledge to Fight Antisemitism on Campus</h3>
+<sub>By Anemona Hartocollis, Stephanie Saul, Nicholas Fandos and Alan Blinder</sub>
+<p>The universities are trying to address criticism by banning pro-Palestinian student groups, condemning slogans and starting task forces to address antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>F.B.I. Seizes Eric Adams’s Phones as Campaign Investigation Intensifies</h3>
 <sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
@@ -90,24 +108,6 @@ There is a lot happening in the world right now. In New York, the FBI has seized
 <h3>The Betting on the Presidential Election Has Begun</h3>
 <sub>By Jeff Sommer</sub>
 <p>While two leading prediction markets are fighting regulatory restrictions in court, wagers on politics and economics are still being made.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Tunnels of Gaza</h3>
-<sub>By Marco Hernandez and Josh Holder</sub>
-<p>A maze of tunnels extends below the Gaza Strip, allowing Hamas fighters to stay out of sight and smuggle weapons and goods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel is considering a deal for Hamas to release all civilian hostages in Gaza, officials say.</h3>
-<sub>By Julian E. Barnes and Edward Wong</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Germany’s Stifling of Pro-Palestinian Voices Pits Historical Guilt Against Free Speech</h3>
-<sub>By Erika Solomon</sub>
-<p>The country’s authorities have banned many protests in the name of fighting antisemitism. Critics say such restrictions are discriminatory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
