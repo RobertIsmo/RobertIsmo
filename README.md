@@ -60,19 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 11, Central Standard Time</p>
 <p>
-Currently, there are many news events unfolding around the world. In Israel, Hamas began an assault resulting in the slaughter of people who sought refuge in bomb shelters. To combat rising antisemitism on college campuses in the US, several universities have begun to take measures such as banning certain pro-Palestinian student groups and starting task forces to address this issue. There has also been a clash between two young Democratic stars in the Bronx, Alexandria Ocasio-Cortez and Ritchie Torres over the Israel-Hamas war. In terms of immigration actions, if Donald Trump regains power, he wants to revive and toughen up some of his old policies that were criticized for being too draconian. Additionally, there is an ongoing case regarding a pastor indicted with Donald Trump and a 25-year-old fund-raising chief under investigation for an F.B.I. raid in New York City. Lastly, in Texas, a Bishop was removed due to his outspoken criticism of Pope Francis.</p>
+There is a lot going on in the world right now. Iran and Saudi Arabia, two regional rivals, recently put aside their historical animosity to work together for a Gaza Cease-Fire after Israel&#39;s bombardment of the strip. There are also politics in play here in the U.S. as two young Democratic stars, Alexandria Ocasio-Cortez and Ritchie Torres, debate over the Israel-Hamas war. Donald Trump is still at it too. He just recently asked a judge to televise the upcoming Federal Election trial and released his 2025 immigration plans that involve sweeping raids, giant camps and mass deportations if he regains power. In other news, there&#39;s a story out of Russia about Konstantin Dobrovolsky trying to give decent burials to WWII dead that Russia has glorified for decades. Bishop Joseph Strickland was removed from his position as he had been critical of Pope Francis&#39; too liberal views. Additionally, Black women recently convened forty years ago to discuss how race affects their health which has inspired many changes in medical care since then. Lastly, there’s an issue with a decaying warship beached on a tiny shoal that has been provoking China&#39;s ire. Meanwhile, here in the states, Biden is still trying to manage to cancel student loan debt worth around $127 billion for millions of borrowers despite the Supreme Court blocking him from canceling it for tens of millions more borrowers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Ran Into a Bomb Shelter for Safety. Instead, They Were Slaughtered.</h3>
-<sub>By Isabel Kershner and Amit Elkayam</sub>
-<p>Hamas’s assault on southern Israel began with a barrage of rockets, sending scores of people into roadside refuges. Then gunmen came to hunt them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Iran and Saudi Arabia, Regional Rivals, Call for Gaza Cease-Fire</h3>
+<sub>By Ahmed Al Omran and Yara Bayoumy</sub>
+<p>The leaders of both Islamic countries appeared to put aside their historical animosities at a summit to present a united stand against Israel’s bombardment of the strip after Hamas’s attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard, Columbia and Penn Pledge to Fight Antisemitism on Campus</h3>
-<sub>By Anemona Hartocollis, Stephanie Saul, Nicholas Fandos and Alan Blinder</sub>
-<p>The universities are trying to address criticism by banning pro-Palestinian student groups, condemning slogans and starting task forces to address antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Two Young Democratic Stars Collide Over Israel and Their Party’s Future</h3>
@@ -87,10 +81,10 @@ Currently, there are many news events unfolding around the world. In Israel, Ham
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pastor Indicted With Trump in Georgia Asks Evangelical Supporters for Help</h3>
-<sub>By Richard Fausset</sub>
-<p>The Rev. Stephen C. Lee says he was pastoring to people in Georgia after the 2020 election. The indictment says he was pressuring an elections worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<h3>Trump Asks Judge to Televise Federal Election Trial</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The request to Judge Tanya Chutkan was short on legal arguments and long on bluster, and it faces an uphill battle as federal courts generally prohibit cameras.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chapter 4: The Wedding</h3>
@@ -104,22 +98,28 @@ Currently, there are many news events unfolding around the world. In Israel, Ham
 <p>Days after a raid at Mr. Adams’s chief fund-raiser’s home, federal agents took the mayor’s phones and iPad, two people with knowledge of the matter said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Mayor’s 25-Year-Old Fund-Raising Chief in Spotlight After F.B.I. Raid</h3>
-<sub>By Dana Rubinstein, Jeffery C. Mays and William K. Rashbaum</sub>
-<p>A recent college graduate, Brianna Suggs was an unusual choice to run Eric Adams’s big-money fund-raising operation as he campaigned for mayor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Three Stories of Pregnancy and Birth in Ukraine</h3>
-<sub></sub>
-<p>One of the first sounds my son ever heard was an air siren. He is one of the lucky ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Glorifies Its World War II Dead. He Tries to Give Them Decent Burials.</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>Konstantin Dobrovolsky searches for the remains of soldiers left to rot on the battlefield almost 80 years ago. Then he had to bury his own son, who fought in a war he despises.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Texas Bishop Loudly Critical of Pope Francis Is Removed</h3>
-<sub>By Jason Horowitz</sub>
-<p>It was a rare move that was a measure both of Bishop Joseph Strickland’s outspoken criticism of the supreme pontiff of his faith and of Francis’ frustration with ultraconservatives in the U.S.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Launches Missile at Kyiv for First Time in Weeks, Ukraine Says</h3>
+<sub>By Constant Méheut</sub>
+<p>The attack was part of an overnight barrage that suggested Moscow was testing air defenses before another potential winter campaign against Ukraine’s energy infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Texas Bishop Loudly Critical of the Pope Is Removed</h3>
+<sub>By Ruth Graham and Jason Horowitz</sub>
+<p>Bishop Joseph Strickland was a highly prominent figure among traditionalist American Catholics who see Pope Francis as too liberal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>Three Days That Changed the Thinking About Black Women’s Health</h3>
+<sub>By Dara Mathis</sub>
+<p>Forty years ago, Black women convened to discuss how race affected their health. They helped reimagine what medical care could look like.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +128,10 @@ Currently, there are many news events unfolding around the world. In Israel, Ham
 <p>After multiple maritime clashes, the Philippines invited journalists on a mission to resupply the Sierra Madre. A reporter for The Times was given rare access.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Wanted to Get Sober. They Got a Nightmare Instead.</h3>
-<sub>By Jack Healy</sub>
-<p>Arizona spent $1 billion on addiction treatment, much of it fraudulent, officials said. Scores of Native Americans who sought help are still struggling with untreated addiction — and some died in rehab.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How Millions of Borrowers Got $127 Billion in Student Loans Canceled</h3>
+<sub>By Stacy Cowley</sub>
+<p>The Biden administration may have been blocked from canceling debt for tens of millions of borrowers by the Supreme Court, but it has still managed to eliminate billions in education debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
