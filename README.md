@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, former President Donald Trump wants to revive and expand some of the immigration policies criticized during his presidency. He also has asked a judge to televise his federal election trial, though it faces an uphill battle. Meanwhile, Iran and Saudi Arabia are trying to unite against Israel&#39;s bombardment of Gaza - quite surprising since they&#39;re normally rivals. On top of all that, Russia has launched missiles at Ukraine and is glorifying WWII dead; Texas has removed a Bishop who was too critical of Pope Francis; and there&#39;s a bill before Congress that could avert a government shutdown but excludes aid for Ukraine and Israel. There&#39;s also some incredible stories about tropical birds taking over European cities, and how Black women convened 40 years ago to rethink medical care. Plus, there are now mentoring programs for those caring for family members with dementia.</p>
+Right now, the US is preparing for what could be an even stricter immigration policy if Donald Trump wins back power in the upcoming election. There have also been talks about televising a federal election trial. Meanwhile, Iran and Saudi Arabia, two countries that usually don&#39;t see eye-to-eye, have been calling for a cease-fire in Gaza. 
+In Russia, people are honoring World War II dead by trying to give them decent burials while Moscow launches missiles into Ukraine. On another note, a new insulated group of wealthy New Yorkers are creating their own world with private services.
+
+In Greece, there&#39;s been a political shift after the ascent of Stefanos Kasselakis, Greece&#39;s first openly gay party leader. And over in Brussels, high numbers of tropical birds can be seen around the area due to an increase in population since their release from a zoo in the 1970s.
+Finally, here in the US, lawmakers are trying to pass a bill that could help avoid a government shutdown while Texas bishop Joseph Strickland was removed after speaking out against Pope Francis&#39; liberal ideologies. Caregivers are also finding ways to better support each other through mentoring programs that help those just starting out and those who have had experience with dementia patients.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sweeping Raids, Giant Camps and Mass Deportations: Inside Trump’s 2025 Immigration Plans</h3>
@@ -104,23 +108,23 @@ There is a lot going on in the world right now! In the US, former President Dona
 <p>Although everyday life has become increasingly unaffordable for almost everyone, a new class of private, members-only and concierge services is emerging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Texas Bishop Loudly Critical of the Pope Is Removed</h3>
-<sub>By Ruth Graham and Jason Horowitz</sub>
-<p>Bishop Joseph Strickland was a highly prominent figure among traditionalist American Catholics who see Pope Francis as too liberal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Johnson Pitches Bill to Avert Government Shutdown That Faces an Uncertain Fate</h3>
 <sub>By Catie Edmondson</sub>
 <p>The measure would extend funding for some agencies through late January, and for others until early February. It omits funding for Ukraine or Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>Three Days That Changed the Thinking About Black Women’s Health</h3>
-<sub>By Dara Mathis</sub>
-<p>Forty years ago, Black women convened to discuss how race affected their health. They helped reimagine what medical care could look like.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Texas Bishop Loudly Critical of the Pope Is Removed</h3>
+<sub>By Ruth Graham and Jason Horowitz</sub>
+<p>Bishop Joseph Strickland was a highly prominent figure among traditionalist American Catholics who see Pope Francis as too liberal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He’s Gone From Miami, to Celebrity, to Upending Greek Politics</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>The rapid ascent of Stefanos Kasselakis, a former Goldman Sachs trader and Greece’s first openly gay party leader, has gripped the nation. But his leadership is dividing the country’s main opposition party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Tropical Birds Took Over This European Capital, Bringing a ‘Splash of Color’</h3>
