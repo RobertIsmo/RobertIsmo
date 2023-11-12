@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-There has been a surge in mass shootings across the US, and it appears that they are linked to an ammunition plant that is selling rounds with little accountability to potentially dangerous buyers. In Israel, fear and violence have reached a boiling point between Israelis and Palestinians. In South Africa, job seekers are spending their days desperately searching for gainful employment. Meanwhile, Africa is poised to become the most populous continent on Earth by 2050. Back in the US, people are looking into taxation of land amid a crisis of affordable housing. Additionally, there is a woman hunting pythons at night in Florida and the commander of Ukraine&#39;s Navy is discussing how Russia is blockading Odessa. The climate change is hitting us where it hurts as white truffles from Italy have become more expensive to acquire. Finally, here in New York we can enjoy drive-throughs, an interview with Barbra Streisand and a guide to looking at the universe.</p>
+Right now the world is experiencing a lot of conflict and unrest. In the Middle East, there has been a resurgence of violence between Israelis and Palestinians in the occupied West Bank. In the US, the state of Florida is grappling with an influx of non-native Burmese pythons while opposition to abortion rights and homosexuality is being championed by a wife of one of the new Speakers. In Ukraine, tensions have heightened between Russia and its navy that are trying to block Odessa. Africa as a continent is seeing its population growing faster than anywhere else and this has begun registering around the world. Climate change has also gotten to Italy, making it harder to find white truffles that can be very expensive when you get them.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Army Ammunition Plant Is Tied to Mass Shootings Across the U.S.</h3>
-<sub>By Ben Dooley and Emily Rhyne</sub>
-<p>The site was built for the military, but commercial sales are booming with little public accountability. Rounds have been bought by murderers, antigovernment groups and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Army Factory That Makes AR-15 Ammunition: 4 Takeaways</h3>
-<sub>By Ben Dooley</sub>
-<p>Commercial rounds are being manufactured on government property. Some have been used in violent crimes, including mass shootings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Occupied West Bank: Divided by Faith, United by Fear</h3>
 <sub>By Jeffrey Gettleman</sub>
 <p>As bloodshed surges around them, an Israeli settler and a Palestinian tour guide search for answers — and a shred of hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>F.B.I. Examining Whether Adams Cleared Red Tape for Turkish Government</h3>
+<sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
+<p>After winning the 2021 Democratic mayoral primary, Eric Adams successfully pressed city officials to allow the opening of a Manhattan high-rise housing the Turkish Consulate General.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,12 +99,6 @@ There has been a surge in mass shootings across the US, and it appears that they
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Pitches Bill to Avert Government Shutdown That Faces an Uncertain Fate</h3>
-<sub>By Catie Edmondson</sub>
-<p>The measure would extend funding for some agencies through late January, and for others until early February. It omits funding for Ukraine or Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Her Livelihood? Hunting Pythons in the Dead of Night.</h3>
 <sub>By Patricia Mazzei</sub>
 <p>Amy Siewe teaches people how to find and euthanize invasive Burmese pythons, which have been so successful at adapting to Florida that they appear here to stay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -132,6 +120,18 @@ There has been a surge in mass shootings across the US, and it appears that they
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>A national surge in drive-throughs, an interview with Barbra Streisand and a beginner’s guide to looking at the universe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Nov. 10, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Flashback: Your Weekly History Quiz, November 12, 2023</h3>
+<sub>By</sub>
+<p>Can you sort 8 historical events?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
