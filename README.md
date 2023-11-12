@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-There is a lot happening right now in the world. In the Occupied West Bank, there is fear and division among different religious groups. In Israel, Prime Minister Netanyahu is pushing back on the idea of Palestinian authority running Gaza following the war. Over 100,000 people marched in France in protest against antisemitism, which has been on the rise since the Gaza war. F.B.I. is looking into allegations that Eric Adams, the 2021 Democratic mayoral primary winner, pressured city officials to open a high-rise building housing the Turkish Consulate General in Manhattan. In South Africa, an entire generation of ambitious Africans is struggling to find employment, as climate change prices out white truffles in Italy. Ukraine is thwarting Russian Navy&#39;s blockade of Odesa with no warships, and a look at Barbra Streisand and a beginner&#39;s guide to space are making rounds among weekend activities in New York region. Meanwhile, fans of The New York Times can take their News Quiz for a chance to see how well they followed this week&#39;s news compared to other readers.</p>
+There have been large demonstrations in France against antisemitism, while the Israeli Prime Minister has stated that there is no role for the Palestinian Authority in Gaza for now. In the West Bank, tensions between Israelis and Palestinians are high with a surge in violence being reported. The FBI is examining if a New York Democratic primary victor pushed to allow the opening of a high-rise housing the Turkish Consulate General. A single year-long job search in South Africa exposes how difficult the job market is for ambitious African youth. There is renewed interest in taxing land amid an affordable housing crisis. In the US, there was a deadly wildfire in Maui where many people were trapped due to failures and the wife of the new Speaker is rallying opposition against abortion rights and homosexuality. Ukraine has successfully broken Russia&#39;s naval blockade of Odesa, and a gene editing treatment was trialled which significantly cuts down cholesterol for ten patients. Finally, drive-throughs, Barbra Streisand interviews and astronomy opportunities were discussed as part of The Weekender and The Times released a news quiz this week.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Occupied West Bank: Divided by Faith, United by Fear</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>As bloodshed surges around them, an Israeli settler and a Palestinian tour guide search for answers — and a shred of hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Over 100,000 March in France Against Antisemitism</h3>
+<sub>By Catherine Porter and Liz Alderman</sub>
+<p>The demonstrations in Paris and other cities came amid a rise in tensions in France over the Gaza war and a surge in antisemitic incidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Pushes Back on Idea of Palestinian Authority Running Gaza</h3>
+<h3>Netanyahu says he sees no role for the Palestinian Authority in Gaza, for now.</h3>
 <sub>By Isabel Kershner</sub>
 <p>The Israeli prime minister went further than he had before in publicly laying out his vision for Gaza after the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Over 100,000 March in France Against Antisemitism</h3>
-<sub>By Catherine Porter and Liz Alderman</sub>
-<p>The demonstrations in Paris and other cities came amid a rise in tensions in France over the Gaza war and a surge in antisemitic incidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Occupied West Bank: Divided by Faith, United by Fear</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>As bloodshed surges around them, an Israeli settler and a Palestinian tour guide search for answers — and a shred of hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -99,15 +99,15 @@ There is a lot happening right now in the world. In the Occupied West Bank, ther
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Deadly Maui Inferno, Hour by Hour</h3>
+<sub>By Mike Baker, Malika Khurana, K.K. Rebecca Lai, Riley Mellen, Natalie Reneau, Bedel Saget, Elena Shao, Anjali Singhvi and Charlie Smart</sub>
+<p>The Times reconstructed the day of the Lahaina wildfire, tracing the path of the blaze and the failures that left so many people trapped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Kelly Johnson Embodies the Hard-Line Views She Shares With the Speaker</h3>
 <sub>By Annie Karni</sub>
 <p>The wife of Mike Johnson, the new speaker, has rallied opposition to abortion rights and used her pastoral counseling business to condemn homosexuality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Her Livelihood? Hunting Pythons in the Dead of Night.</h3>
-<sub>By Patricia Mazzei</sub>
-<p>Amy Siewe teaches people how to find and euthanize invasive Burmese pythons, which have been so successful at adapting to Florida that they appear here to stay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,11 +116,11 @@ There is a lot happening right now in the world. In the Occupied West Bank, ther
 <p>The commander of Ukraine’s Navy said in a rare interview that the Russian naval blockade of Odesa had been broken. He also described how the war is transforming naval tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘The Climate’s No Good’: The Hunt for White Truffles Gets Pricier</h3>
-<sub>By Bernhard Warner</sub>
-<p>Climate change in Italy has come for one of the world’s most sought-after delicacies. Foodies will probably see the impact when the check comes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Gene Editing Treatment Cuts Dangerous Cholesterol in Small Study</h3>
+<sub>By Gina Kolata</sub>
+<p>The trial involved only 10 patients, but it suggests cholesterol can be permanently reduced with a single treatment for patients at risk of heart disease.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
