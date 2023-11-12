@@ -60,55 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-Right now there is tension between Iran and Saudi Arabia, which are regional rivals, but have recently come together to call for a cease-fire in Gaza, after heavy shelling from Israel. In the US, Donald Trump has plans to extend and toughen immigration policies if he regains power. He also recently gave a Veterans Day speech, vowing to “root out” leftists. He asked a judge to televise a federal election trial, but it&#39;s not likely that request will be granted. 
-
-In Russia, there is a man going around to try to give decent burials to soldiers who died in WWII and were left on the battlefields. He even had to bury his own son as he fought in a war his father hates. In relation to Ukraine, Russia has recently launched missiles at Kyiv for the first time in weeks, as they seem to be testing their air defenses. 
-
-A former Goldman Sachs trader is now causing stirrings in Greece&#39;s political sphere — Stefanos Kasselakis is the nation&#39;s first openly gay political leader, and people aren&#39;t sure whether his leadership will help or hurt the main opposition party. In the US, Senator Johnson is trying to pass a bill that would extend government funding until late January or early February, however it omits aid for countries such as Ukraine or Israel. 
-
-Over in Delhi people are still being encouraged by local authorities to go out and exercise despite the toxic air levels — joggers and yoga fans aren&#39;t willing to miss out on their social routines. Finally, tropical birds have taken over Brussels, bringing a “splash of color” back into the city after they were once released from zoos in 1970s. And football is gaining more and more popularity across Europe — especially in Germany due to influence from U.S. troops after WWII, and an N.F.L game held there last year . There are also mentoring programs helping people who just started caring for family members with dementia understand everything they are going through emotionally, together with long-time caregivers</p>
+There has been a surge in mass shootings across the US, and it appears that they are linked to an ammunition plant that is selling rounds with little accountability to potentially dangerous buyers. In Israel, fear and violence have reached a boiling point between Israelis and Palestinians. In South Africa, job seekers are spending their days desperately searching for gainful employment. Meanwhile, Africa is poised to become the most populous continent on Earth by 2050. Back in the US, people are looking into taxation of land amid a crisis of affordable housing. Additionally, there is a woman hunting pythons at night in Florida and the commander of Ukraine&#39;s Navy is discussing how Russia is blockading Odessa. The climate change is hitting us where it hurts as white truffles from Italy have become more expensive to acquire. Finally, here in New York we can enjoy drive-throughs, an interview with Barbra Streisand and a guide to looking at the universe.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran and Saudi Arabia, Regional Rivals, Call for Gaza Cease-Fire</h3>
-<sub>By Ahmed Al Omran and Yara Bayoumy</sub>
-<p>The leaders of both Islamic countries appeared to put aside their historical animosities at a summit to present a united stand against Israel’s bombardment of the strip after Hamas’s attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Army Ammunition Plant Is Tied to Mass Shootings Across the U.S.</h3>
+<sub>By Ben Dooley and Emily Rhyne</sub>
+<p>The site was built for the military, but commercial sales are booming with little public accountability. Rounds have been bought by murderers, antigovernment groups and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sweeping Raids, Giant Camps and Mass Deportations: Inside Trump’s 2025 Immigration Plans</h3>
-<sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
-<p>If he regains power, Donald Trump wants not only to revive some of the immigration policies criticized as draconian during his presidency, but expand and toughen them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Inside the Army Factory That Makes AR-15 Ammunition: 4 Takeaways</h3>
+<sub>By Ben Dooley</sub>
+<p>Commercial rounds are being manufactured on government property. Some have been used in violent crimes, including mass shootings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Occupied West Bank: Divided by Faith, United by Fear</h3>
+<sub>By Jeffrey Gettleman</sub>
+<p>As bloodshed surges around them, an Israeli settler and a Palestinian tour guide search for answers — and a shred of hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>One Year in the Infuriating and Humiliating Search for a Job in South Africa</h3>
+<sub>By Lynsey Chutel and Gulshan Khan</sub>
+<p>Portia Stafford has a high school diploma in hospitality and three certificates from job training programs. She is among a generation of ambitious Africans who spend their days chasing an elusive opening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The World Is Becoming More African</h3>
+<sub>By Declan Walsh and Hannah Reyes Morales</sub>
+<p>Africa has the fastest growing, youngest population of any continent. By 2050, one in four people on the planet will be African. Early tremors of this seismic change are already registering around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The ‘Georgists’ Are Out There, and They Want to Tax Your Land</h3>
+<sub>By Conor Dougherty</sub>
+<p>Amid a crisis in affordable housing, the century-old ideas of Henry George have gained a new currency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Veterans Day Speech, Trump Promises to ‘Root Out’ the Left</h3>
-<sub>By Michael Gold</sub>
-<p>The former president said that threats from abroad were less concerning than liberal “threats from within” and that he was a “very proud election denier.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Judge to Televise Federal Election Trial</h3>
-<sub>By Alan Feuer and Maggie Haberman</sub>
-<p>The request to Judge Tanya Chutkan was short on legal arguments and long on bluster, and it faces an uphill battle as federal courts generally prohibit cameras.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Glorifies Its World War II Dead. He Tries to Give Them Decent Burials.</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>Konstantin Dobrovolsky searches for the remains of soldiers left to rot on the battlefield almost 80 years ago. Then he had to bury his own son, who fought in a war he despises.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Launches Missile at Kyiv for First Time in Weeks, Ukraine Says</h3>
-<sub>By Constant Méheut</sub>
-<p>The attack was part of an overnight barrage that suggested Moscow was testing air defenses before another potential winter campaign against Ukraine’s energy infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He’s Gone From Miami, to Celebrity, to Upending Greek Politics</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>The rapid ascent of Stefanos Kasselakis, a former Goldman Sachs trader and Greece’s first openly gay party leader, has gripped the nation. But his leadership is dividing the country’s main opposition party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<h3>Kelly Johnson Embodies the Hard-Line Views She Shares With the Speaker</h3>
+<sub>By Annie Karni</sub>
+<p>The wife of Mike Johnson, the new speaker, has rallied opposition to abortion rights and used her pastoral counseling business to condemn homosexuality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Johnson Pitches Bill to Avert Government Shutdown That Faces an Uncertain Fate</h3>
@@ -116,29 +110,29 @@ Over in Delhi people are still being encouraged by local authorities to go out a
 <p>The measure would extend funding for some agencies through late January, and for others until early February. It omits funding for Ukraine or Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Toxic Air Is No Reason to Stay Inside for Delhi’s Joggers and Yoga Fans</h3>
-<sub>By Sameer Yasir</sub>
-<p>In India’s capital, skipping exercise and the social routines that often come with it is seen as worse than going out and breathing poison.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Her Livelihood? Hunting Pythons in the Dead of Night.</h3>
+<sub>By Patricia Mazzei</sub>
+<p>Amy Siewe teaches people how to find and euthanize invasive Burmese pythons, which have been so successful at adapting to Florida that they appear here to stay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Tropical Birds Took Over This European Capital, Bringing a ‘Splash of Color’</h3>
-<sub>By Jenny Gross</sub>
-<p>After a small group of parakeets were released from a zoo in Brussels in the 1970s, their numbers soared. A population increase has also occurred across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<h3>How Ukraine, With No Warships, Is Thwarting Russia’s Navy</h3>
+<sub>By Marc Santora</sub>
+<p>The commander of Ukraine’s Navy said in a rare interview that the Russian naval blockade of Odesa had been broken. He also described how the war is transforming naval tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>N.F.L., on Lookout for Growth, Finds Open Arms in Germany</h3>
-<sub>By Ken Belson</sub>
-<p>Football was introduced to the country by U.S. soldiers after World War II, but interests soared when the N.F.L. played its first regular-season game there last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>The Only People Who Understand What a Caregiver Goes Through</h3>
-<sub>By Paula Span</sub>
-<p>Mentoring programs bring together those just starting to care for family members with dementia and those who have been coping for some time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘The Climate’s No Good’: The Hunt for White Truffles Gets Pricier</h3>
+<sub>By Bernhard Warner</sub>
+<p>Climate change in Italy has come for one of the world’s most sought-after delicacies. Foodies will probably see the impact when the check comes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>A national surge in drive-throughs, an interview with Barbra Streisand and a beginner’s guide to looking at the universe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
