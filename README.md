@@ -58,14 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, November 11, Central Standard Time</p>
+<p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-Right now, the US is preparing for what could be an even stricter immigration policy if Donald Trump wins back power in the upcoming election. There have also been talks about televising a federal election trial. Meanwhile, Iran and Saudi Arabia, two countries that usually don&#39;t see eye-to-eye, have been calling for a cease-fire in Gaza. 
-In Russia, people are honoring World War II dead by trying to give them decent burials while Moscow launches missiles into Ukraine. On another note, a new insulated group of wealthy New Yorkers are creating their own world with private services.
-
-In Greece, there&#39;s been a political shift after the ascent of Stefanos Kasselakis, Greece&#39;s first openly gay party leader. And over in Brussels, high numbers of tropical birds can be seen around the area due to an increase in population since their release from a zoo in the 1970s.
-Finally, here in the US, lawmakers are trying to pass a bill that could help avoid a government shutdown while Texas bishop Joseph Strickland was removed after speaking out against Pope Francis&#39; liberal ideologies. Caregivers are also finding ways to better support each other through mentoring programs that help those just starting out and those who have had experience with dementia patients.</p>
+There is a lot of tension in the world right now, especially between Iran and Saudi Arabia. The two countries, which are usually rivals, have agreed to call for a cease-fire in Gaza following Hamas&#39; attack. Meanwhile, in the US, Former President Trump has recently given a speech promising to &quot;root out&quot; the left and has asked a judge to televise a federal election trial. Also in the US, Congress is deciding whether or not to pass a bill aimed at avoiding a government shutdown. In Europe, Brussels is being overtaken by tropical birds and Germany is becoming increasingly more accepting of American football. Finally, there are new mentoring programs being offered that bring together caregivers with dementia and those just starting to care for family members.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iran and Saudi Arabia, Regional Rivals, Call for Gaza Cease-Fire</h3>
+<sub>By Ahmed Al Omran and Yara Bayoumy</sub>
+<p>The leaders of both Islamic countries appeared to put aside their historical animosities at a summit to present a united stand against Israel’s bombardment of the strip after Hamas’s attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sweeping Raids, Giant Camps and Mass Deportations: Inside Trump’s 2025 Immigration Plans</h3>
 <sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
@@ -73,7 +75,7 @@ Finally, here in the US, lawmakers are trying to pass a bill that could help avo
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Takes Veterans Day Speech in a Very Different Direction</h3>
+<h3>In Veterans Day Speech, Trump Promises to ‘Root Out’ the Left</h3>
 <sub>By Michael Gold</sub>
 <p>The former president said that threats from abroad were less concerning than liberal “threats from within” and that he was a “very proud election denier.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
@@ -82,12 +84,6 @@ Finally, here in the US, lawmakers are trying to pass a bill that could help avo
 <h3>Trump Asks Judge to Televise Federal Election Trial</h3>
 <sub>By Alan Feuer and Maggie Haberman</sub>
 <p>The request to Judge Tanya Chutkan was short on legal arguments and long on bluster, and it faces an uphill battle as federal courts generally prohibit cameras.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran and Saudi Arabia, Regional Rivals, Call for Gaza Cease-Fire</h3>
-<sub>By Ahmed Al Omran and Yara Bayoumy</sub>
-<p>The leaders of both Islamic countries appeared to put aside their historical animosities at a summit to present a united stand against Israel’s bombardment of the strip after Hamas’s attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -102,11 +98,11 @@ Finally, here in the US, lawmakers are trying to pass a bill that could help avo
 <p>The attack was part of an overnight barrage that suggested Moscow was testing air defenses before another potential winter campaign against Ukraine’s energy infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Behind the Gates of a Private World for Only the Wealthiest New Yorkers</h3>
-<sub>By Eliza Shapiro</sub>
-<p>Although everyday life has become increasingly unaffordable for almost everyone, a new class of private, members-only and concierge services is emerging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He’s Gone From Miami, to Celebrity, to Upending Greek Politics</h3>
+<sub>By Niki Kitsantonis</sub>
+<p>The rapid ascent of Stefanos Kasselakis, a former Goldman Sachs trader and Greece’s first openly gay party leader, has gripped the nation. But his leadership is dividing the country’s main opposition party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Johnson Pitches Bill to Avert Government Shutdown That Faces an Uncertain Fate</h3>
@@ -115,22 +111,22 @@ Finally, here in the US, lawmakers are trying to pass a bill that could help avo
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Texas Bishop Loudly Critical of the Pope Is Removed</h3>
-<sub>By Ruth Graham and Jason Horowitz</sub>
-<p>Bishop Joseph Strickland was a highly prominent figure among traditionalist American Catholics who see Pope Francis as too liberal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He’s Gone From Miami, to Celebrity, to Upending Greek Politics</h3>
-<sub>By Niki Kitsantonis</sub>
-<p>The rapid ascent of Stefanos Kasselakis, a former Goldman Sachs trader and Greece’s first openly gay party leader, has gripped the nation. But his leadership is dividing the country’s main opposition party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<h3>Toxic Air Is No Reason to Stay Inside for Delhi’s Joggers and Yoga Fans</h3>
+<sub>By Sameer Yasir</sub>
+<p>In India’s capital, skipping exercise and the social routines that often come with it is seen as worse than going out and breathing poison.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Tropical Birds Took Over This European Capital, Bringing a ‘Splash of Color’</h3>
 <sub>By Jenny Gross</sub>
 <p>After a small group of parakeets were released from a zoo in Brussels in the 1970s, their numbers soared. A population increase has also occurred across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>N.F.L., on Lookout for Growth, Finds Open Arms in Germany</h3>
+<sub>By Ken Belson</sub>
+<p>Football was introduced to the country by U.S. soldiers after World War II, but interests soared when the N.F.L. played its first regular-season game there last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>The Only People Who Understand What a Caregiver Goes Through</h3>
