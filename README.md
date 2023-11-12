@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 11, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Iran and Saudi Arabia, two regional rivals, recently put aside their historical animosity to work together for a Gaza Cease-Fire after Israel&#39;s bombardment of the strip. There are also politics in play here in the U.S. as two young Democratic stars, Alexandria Ocasio-Cortez and Ritchie Torres, debate over the Israel-Hamas war. Donald Trump is still at it too. He just recently asked a judge to televise the upcoming Federal Election trial and released his 2025 immigration plans that involve sweeping raids, giant camps and mass deportations if he regains power. In other news, there&#39;s a story out of Russia about Konstantin Dobrovolsky trying to give decent burials to WWII dead that Russia has glorified for decades. Bishop Joseph Strickland was removed from his position as he had been critical of Pope Francis&#39; too liberal views. Additionally, Black women recently convened forty years ago to discuss how race affects their health which has inspired many changes in medical care since then. Lastly, there’s an issue with a decaying warship beached on a tiny shoal that has been provoking China&#39;s ire. Meanwhile, here in the states, Biden is still trying to manage to cancel student loan debt worth around $127 billion for millions of borrowers despite the Supreme Court blocking him from canceling it for tens of millions more borrowers.</p>
+There is a lot going on in the world right now! In the US, former President Donald Trump wants to revive and expand some of the immigration policies criticized during his presidency. He also has asked a judge to televise his federal election trial, though it faces an uphill battle. Meanwhile, Iran and Saudi Arabia are trying to unite against Israel&#39;s bombardment of Gaza - quite surprising since they&#39;re normally rivals. On top of all that, Russia has launched missiles at Ukraine and is glorifying WWII dead; Texas has removed a Bishop who was too critical of Pope Francis; and there&#39;s a bill before Congress that could avert a government shutdown but excludes aid for Ukraine and Israel. There&#39;s also some incredible stories about tropical birds taking over European cities, and how Black women convened 40 years ago to rethink medical care. Plus, there are now mentoring programs for those caring for family members with dementia.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran and Saudi Arabia, Regional Rivals, Call for Gaza Cease-Fire</h3>
-<sub>By Ahmed Al Omran and Yara Bayoumy</sub>
-<p>The leaders of both Islamic countries appeared to put aside their historical animosities at a summit to present a united stand against Israel’s bombardment of the strip after Hamas’s attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Two Young Democratic Stars Collide Over Israel and Their Party’s Future</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Representing neighboring districts in the Bronx, Alexandria Ocasio-Cortez and Ritchie Torres have staked sharply divergent positions on the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sweeping Raids, Giant Camps and Mass Deportations: Inside Trump’s 2025 Immigration Plans</h3>
 <sub>By Charlie Savage, Maggie Haberman and Jonathan Swan</sub>
 <p>If he regains power, Donald Trump wants not only to revive some of the immigration policies criticized as draconian during his presidency, but expand and toughen them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Takes Veterans Day Speech in a Very Different Direction</h3>
+<sub>By Michael Gold</sub>
+<p>The former president said that threats from abroad were less concerning than liberal “threats from within” and that he was a “very proud election denier.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,16 +81,10 @@ There is a lot going on in the world right now. Iran and Saudi Arabia, two regio
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chapter 4: The Wedding</h3>
-<sub>By Emily Schmall, Amanda Taub, Shalini Venugopal Bhagat and Andrea Bruce</sub>
-<p>It was the moment two families had long waited for. But Arti feared it could be the end of her dreams for a career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Iran and Saudi Arabia, Regional Rivals, Call for Gaza Cease-Fire</h3>
+<sub>By Ahmed Al Omran and Yara Bayoumy</sub>
+<p>The leaders of both Islamic countries appeared to put aside their historical animosities at a summit to present a united stand against Israel’s bombardment of the strip after Hamas’s attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>F.B.I. Seizes Eric Adams’s Phones as Campaign Investigation Intensifies</h3>
-<sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
-<p>Days after a raid at Mr. Adams’s chief fund-raiser’s home, federal agents took the mayor’s phones and iPad, two people with knowledge of the matter said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Glorifies Its World War II Dead. He Tries to Give Them Decent Burials.</h3>
@@ -110,10 +98,22 @@ There is a lot going on in the world right now. Iran and Saudi Arabia, two regio
 <p>The attack was part of an overnight barrage that suggested Moscow was testing air defenses before another potential winter campaign against Ukraine’s energy infrastructure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Behind the Gates of a Private World for Only the Wealthiest New Yorkers</h3>
+<sub>By Eliza Shapiro</sub>
+<p>Although everyday life has become increasingly unaffordable for almost everyone, a new class of private, members-only and concierge services is emerging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Texas Bishop Loudly Critical of the Pope Is Removed</h3>
 <sub>By Ruth Graham and Jason Horowitz</sub>
 <p>Bishop Joseph Strickland was a highly prominent figure among traditionalist American Catholics who see Pope Francis as too liberal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson Pitches Bill to Avert Government Shutdown That Faces an Uncertain Fate</h3>
+<sub>By Catie Edmondson</sub>
+<p>The measure would extend funding for some agencies through late January, and for others until early February. It omits funding for Ukraine or Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
@@ -123,15 +123,15 @@ There is a lot going on in the world right now. Iran and Saudi Arabia, two regio
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Decaying Warship Beached on a Tiny Shoal Provoked China’s Ire</h3>
-<sub>By Camille Elemia</sub>
-<p>After multiple maritime clashes, the Philippines invited journalists on a mission to resupply the Sierra Madre. A reporter for The Times was given rare access.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<h3>How Tropical Birds Took Over This European Capital, Bringing a ‘Splash of Color’</h3>
+<sub>By Jenny Gross</sub>
+<p>After a small group of parakeets were released from a zoo in Brussels in the 1970s, their numbers soared. A population increase has also occurred across the continent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Millions of Borrowers Got $127 Billion in Student Loans Canceled</h3>
-<sub>By Stacy Cowley</sub>
-<p>The Biden administration may have been blocked from canceling debt for tens of millions of borrowers by the Supreme Court, but it has still managed to eliminate billions in education debt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>The Only People Who Understand What a Caregiver Goes Through</h3>
+<sub>By Paula Span</sub>
+<p>Mentoring programs bring together those just starting to care for family members with dementia and those who have been coping for some time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
