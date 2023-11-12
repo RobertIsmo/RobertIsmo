@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-Right now the world is experiencing a lot of conflict and unrest. In the Middle East, there has been a resurgence of violence between Israelis and Palestinians in the occupied West Bank. In the US, the state of Florida is grappling with an influx of non-native Burmese pythons while opposition to abortion rights and homosexuality is being championed by a wife of one of the new Speakers. In Ukraine, tensions have heightened between Russia and its navy that are trying to block Odessa. Africa as a continent is seeing its population growing faster than anywhere else and this has begun registering around the world. Climate change has also gotten to Italy, making it harder to find white truffles that can be very expensive when you get them.</p>
+There is a lot happening right now in the world. In the Occupied West Bank, there is fear and division among different religious groups. In Israel, Prime Minister Netanyahu is pushing back on the idea of Palestinian authority running Gaza following the war. Over 100,000 people marched in France in protest against antisemitism, which has been on the rise since the Gaza war. F.B.I. is looking into allegations that Eric Adams, the 2021 Democratic mayoral primary winner, pressured city officials to open a high-rise building housing the Turkish Consulate General in Manhattan. In South Africa, an entire generation of ambitious Africans is struggling to find employment, as climate change prices out white truffles in Italy. Ukraine is thwarting Russian Navy&#39;s blockade of Odesa with no warships, and a look at Barbra Streisand and a beginner&#39;s guide to space are making rounds among weekend activities in New York region. Meanwhile, fans of The New York Times can take their News Quiz for a chance to see how well they followed this week&#39;s news compared to other readers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Occupied West Bank: Divided by Faith, United by Fear</h3>
 <sub>By Jeffrey Gettleman</sub>
 <p>As bloodshed surges around them, an Israeli settler and a Palestinian tour guide search for answers — and a shred of hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Netanyahu Pushes Back on Idea of Palestinian Authority Running Gaza</h3>
+<sub>By Isabel Kershner</sub>
+<p>The Israeli prime minister went further than he had before in publicly laying out his vision for Gaza after the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Over 100,000 March in France Against Antisemitism</h3>
+<sub>By Catherine Porter and Liz Alderman</sub>
+<p>The demonstrations in Paris and other cities came amid a rise in tensions in France over the Gaza war and a surge in antisemitic incidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -79,12 +91,6 @@ Right now the world is experiencing a lot of conflict and unrest. In the Middle 
 <sub>By Lynsey Chutel and Gulshan Khan</sub>
 <p>Portia Stafford has a high school diploma in hospitality and three certificates from job training programs. She is among a generation of ambitious Africans who spend their days chasing an elusive opening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The World Is Becoming More African</h3>
-<sub>By Declan Walsh and Hannah Reyes Morales</sub>
-<p>Africa has the fastest growing, youngest population of any continent. By 2050, one in four people on the planet will be African. Early tremors of this seismic change are already registering around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The ‘Georgists’ Are Out There, and They Want to Tax Your Land</h3>
@@ -126,12 +132,6 @@ Right now the world is experiencing a lot of conflict and unrest. In the Middle 
 <h3>The New York Times News Quiz, Nov. 10, 2023</h3>
 <sub></sub>
 <p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Flashback: Your Weekly History Quiz, November 12, 2023</h3>
-<sub>By</sub>
-<p>Can you sort 8 historical events?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
