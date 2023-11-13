@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-There are some major events going on around the world. Chinese leader Xi Jinping has been offering public assurances and has privately been preparing for an intensifying rivalry with the US. President Biden and Xi Jinping will be meeting soon amid ongoing trade tensions. Meanwhile, Xi has returned China to one-man rule by dismantling institutional barriers. Over 125,000 Israelis are being resettled due to border attacks and a nearby hospital is suspected of housing a Hamas complex. In Israel, former New Jersey Governor Chris Christie criticized Trump for his rhetoric and lack of ambition in the Israeli-Palestinian conflict. David Cameron, former Prime Minister of the UK, faces an uncertain record during this time of war. On the brighter side, there are signs of progress as Black women have been able to make strides in architecture and the US is experimenting with small nuclear reactors to hopefully solve a huge climate problem. Additionally, unfortunately, there is an even bigger drug crisis than opioids that people are becoming increasingly addicted to, making it difficult to treat.</p>
+There has been a lot going on around the world lately! Chinese President Xi Jinping and US President Biden are set to meet soon despite growing trade tensions, while Israel is dealing with the largest internal displacement in its history with 125,000 evacuees having to leave home. In the US, the drug crisis is becoming increasingly complex with people now being addicted to multiple substances, and Vermont is seeing a long-term labor shortage with older populations. Meanwhile, start-ups are looking to commercialize advances in fusion energy as a way to address climate change. Plus, US Senator Tim Scott has recently suspended his campaign for president due to failing to resonate with voters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Public Assurances, Xi Jinping Spread Grim Views on U.S.</h3>
+<h3>Behind Public Assurances, Xi Jinping Has Spread Grim Views on U.S.</h3>
 <sub>By Chris Buckley</sub>
 <p>Speeches by the Chinese leader show how he was bracing for an intensifying rivalry with the United States from early in his rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
@@ -75,46 +75,22 @@ There are some major events going on around the world. Chinese leader Xi Jinping
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Xi Returned China to One-Man Rule</h3>
-<sub>By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles</sub>
-<p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Tourist Hotels, Israeli Evacuees Plan for Long Stays to Escape Border Attacks</h3>
 <sub>By Mark Landler, Adam Goldman and Avishag Shaar-Yashuv</sub>
 <p>More than 125,000 Israeli evacuees have been resettled from their communities along the dangerous borders with Lebanon and Gaza in the largest internal displacement in the country’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Forces Near a Struggling Hospital They Say Covers a Hamas Complex</h3>
-<sub>By Matthew Rosenberg, Ronen Bergman, Aaron Boxerman and Vivian Yee</sub>
-<p>Israeli officials say that Hamas has built a complex under Al Shifa, a major Gaza hospital. Hamas denies it is operating from beneath the hospital, whose patients face dire conditions amid power cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Israel, Christie Says Trump Ducked Mideast Progress and Fueled Bigotry</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The former New Jersey governor and chief G.O.P. antagonist to the former president cited Mr. Trump’s rhetoric of intolerance and faulted him for a lack of ambition on the Israeli-Palestinian conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Crisis at Gaza’s Main Hospital, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Tim Scott suspends his campaign for the 2024 Republican presidential nomination, and a rise in reports of cognitive difficulties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Look at Suella Braverman’s Turbulent Time as Home Secretary.</h3>
+<sub>By Megan Specia</sub>
+<p>Ms. Braverman, who is no stranger to controversy, has now been fired from the post of home secretary twice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At a time of war, Cameron brings experience but also an uneven record.</h3>
-<sub>By Mark Landler</sub>
-<p>As former prime minister, David  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>With Diana’s Death, ‘The Crown’ Enters Its Most Evocative Era</h3>
+<sub>By Sarah Lyall</sub>
+<p>The final season of Netflix’s royal drama opens in 1997, on the cusp of one of the most analyzed periods in recent British history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Black Woman’s Rise in Architecture Shows How Far Is Left to Go</h3>
-<sub>By Jane Margolies</sub>
-<p>They have worked for decades to make their way in a profession that remains overwhelmingly white and male, but there are signs of change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>‘A Monster’: Super Meth and Other Drugs Push Crisis Beyond Opioids</h3>
@@ -128,10 +104,34 @@ There are some major events going on around the world. Chinese leader Xi Jinping
 <p>The crisis increasingly involves drugs besides opioids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Russell Brand’s Alternate Reality</h3>
+<sub>By Matt Flegenheimer</sub>
+<p>The British entertainer built an army of fans with his conspiracy-minded podcast. Now, amid sex-assault claims against him, they’ve become his whole world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Vermont May Be the Face of a Long-Term U.S. Labor Shortage</h3>
+<sub>By Ben Casselman, Jeanna Smialek and Hilary Swift</sub>
+<p>Employers are pulling out all the stops to attract workers as the state’s population grows older, offering a likely glimpse of the country’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>U.S. Bets on Small Nuclear Reactors to Help Fix a Huge Climate Problem</h3>
 <sub>By Brad Plumer and Ivan Penn</sub>
 <p>The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Start-Ups With Laser Beams: The Companies Trying to Ignite Fusion Energy</h3>
+<sub>By Kenneth Chang</sub>
+<p>Companies are looking to commercialize advances made by federally supported research labs in the quest for boundless energy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
