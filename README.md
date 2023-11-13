@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. In Israel, Israeli forces are close to a major hospital in Gaza that they think is covering a Hamas complex. There have been over 100,000 marches in France against antisemitism due to tensions surrounding the Gaza conflict. In the US, Christie has blamed Trump for a lack of ambition on the Israeli-Palestinian conflict and also for rhetoric of intolerance. Additionally, Tim Scott has suspended his presidential campaign because his message wasn&#39;t resonating. The US also carried out airstrikes on targets that it believes are linked to Iran. There&#39;s been tragedy in Alabama as the mayor committed suicide beneath certain circumstances. In Myanmar, a National Unity Government is fighting for recognition as they were formed as an alternative to the junta resulting from their 2021 coup. The FBI is examining whether Eric Adams cleared red tape for the Turkish government after he won the 2021 Democratic mayoral primary in NYC. In Hawaii, there was an intense fire and multiple failures contributed to people being trapped during the difficult journey ahead of them. In medical news, there&#39;s been a new gene editing treatment that cuts dangerous cholesterol in small studies so far. Lastly, shrimpers in Texas are struggling with the decline of their industry and having to consider other options as a result.</p>
+It looks like a lot is happening in the world right now. In Israel, Israeli officials are claiming Hamas has built a complex under a major Gaza hospital and tensions from the Gaza war have risen in France, sparking over 100,000 to march against antisemitism. In the US, former New Jersey governor Chris Christie says Trump has fueled bigotry and a presidential candidate Tim Scott has suspended his campaign after struggling to break out of the pack of Trump challengers. In addition, there was an unexpected suicide of the mayor of an Alabama city after news of him writing erotic fiction came out and an FBI investigation of Eric Adams is underway for his efforts to allow the opening of a Manhattan high-rise housing the Turkish Consulate General. Meanwhile, a gene editing treatment was able to cut dangerous cholesterol in just 10 patients and Vietnamese American shrimpers in Texas are having to find new ways to succeed amid industry decline. Lastly, remote work has allowed for more women to stay in the work force but may make it harder for them to get ahead and with pro-life leaders like Trump, the pro-life movement may not prevail.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Forces Near a Struggling Hospital They Say Covers a Hamas Complex</h3>
 <sub>By Matthew Rosenberg, Ronen Bergman, Aaron Boxerman and Vivian Yee</sub>
 <p>Israeli officials say that Hamas has built a complex under Al Shifa, a major Gaza hospital. Hamas denies it is operating from beneath the hospital, whose patients face dire conditions amid power cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Israel, Christie Says Trump Ducked Mideast Progress and Fueled Bigotry</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The former New Jersey governor and chief G.O.P. antagonist to the former president cited Mr. Trump’s rhetoric of intolerance and faulted him for a lack of ambition on the Israeli-Palestinian conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,21 +81,9 @@ There are a lot of things happening in the world right now. In Israel, Israeli f
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Israel, Christie Says Trump Ducked Mideast Progress and Fueled Bigotry</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The former New Jersey governor and chief G.O.P. antagonist to the former president cited Mr. Trump’s rhetoric of intolerance and faulted him for a lack of ambition on the Israeli-Palestinian conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
 <sub>By Maggie Haberman and Shane Goldmacher</sub>
 <p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Carries Out Another Round of Airstrikes on Targets Tied to Iran</h3>
-<sub>By Eric Schmitt</sub>
-<p>Airstrikes hit two facilities in eastern Syria, most likely killing or injuring Iran-backed militia personnel. The U.S. has blamed such groups for recent attacks against American troops.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There are a lot of things happening in the world right now. In Israel, Israeli f
 <h3>Is Remote Work the Answer to Women’s Prayers, or a New ‘Mommy Track’?</h3>
 <sub>By Sarah Kessler</sub>
 <p>Post-pandemic work-from-home norms allowed more women to stay in the work force than ever before. Remote work could also make it harder to get ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The New Republican Party Isn’t Ready for the Post-Roe World</h3>
+<sub>By David French</sub>
+<p>With leaders like Trump, the pro-life movement can’t prevail.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
