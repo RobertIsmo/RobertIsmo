@@ -60,24 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-There have been large demonstrations in France against antisemitism, while the Israeli Prime Minister has stated that there is no role for the Palestinian Authority in Gaza for now. In the West Bank, tensions between Israelis and Palestinians are high with a surge in violence being reported. The FBI is examining if a New York Democratic primary victor pushed to allow the opening of a high-rise housing the Turkish Consulate General. A single year-long job search in South Africa exposes how difficult the job market is for ambitious African youth. There is renewed interest in taxing land amid an affordable housing crisis. In the US, there was a deadly wildfire in Maui where many people were trapped due to failures and the wife of the new Speaker is rallying opposition against abortion rights and homosexuality. Ukraine has successfully broken Russia&#39;s naval blockade of Odesa, and a gene editing treatment was trialled which significantly cuts down cholesterol for ten patients. Finally, drive-throughs, Barbra Streisand interviews and astronomy opportunities were discussed as part of The Weekender and The Times released a news quiz this week.</p>
+Currently, there is a lot of tension in the Middle East due to the conflict between Israel and Hamas. In France, there was a huge march against antisemitism recently to address the rise in tensions. In the US, Chris Christie recently spoke out about President Trump&#39;s rhetoric of intolerance and lack of ambition in regards to resolving the Israeli-Palestinian conflict. The FBI is also currently assessing whether a 2021 Democratic mayoral primary winner has been cutting red tape for the Turkish government. Additionally, the US has been carrying out airstrikes on Iran-linked targets in Syria. 
+
+On the domestic front, there are &#39;Georgists&#39; advocating for a tax on land to address the crisis in affordable housing, while President Biden is pushing to fulfill some of his 2020 campaign promises like stopping border wall construction and allowing Medicare to negotiate drug prices. Furthermore, tragedy struck in Alabama when the mayor committed suicide after being accused of writing erotic fiction and posts featuring local people including a minor. In Maui, they are still trying to make sense of an inferno that left many people trapped. 
+
+Finally, a new gene-editing treatment that could significantly reduce cholesterol levels for patients at risk of heart disease has had promising results in a small study. Vietnamese American shrimpers in Texas are having to look for new opportunities as their industry continues its decline. Lastly, remote work has been seen as advantageous for women who can still stay in the workforce but could potentially lead to less advancement opportunities than before.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Forces Near a Struggling Hospital They Say Covers a Hamas Complex</h3>
+<sub>By Matthew Rosenberg, Ronen Bergman, Aaron Boxerman and Vivian Yee</sub>
+<p>Israeli officials say that Hamas has built a complex under Al Shifa, a major Gaza hospital. Hamas denies it is operating from beneath the hospital, whose patients face dire conditions amid power cuts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Over 100,000 March in France Against Antisemitism</h3>
 <sub>By Catherine Porter and Liz Alderman</sub>
 <p>The demonstrations in Paris and other cities came amid a rise in tensions in France over the Gaza war and a surge in antisemitic incidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu says he sees no role for the Palestinian Authority in Gaza, for now.</h3>
-<sub>By Isabel Kershner</sub>
-<p>The Israeli prime minister went further than he had before in publicly laying out his vision for Gaza after the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Occupied West Bank: Divided by Faith, United by Fear</h3>
-<sub>By Jeffrey Gettleman</sub>
-<p>As bloodshed surges around them, an Israeli settler and a Palestinian tour guide search for answers — and a shred of hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Israel, Christie Says Trump Ducked Mideast Progress and Fueled Bigotry</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The former New Jersey governor and chief G.O.P. antagonist to the former president cited Mr. Trump’s rhetoric of intolerance and faulted him for a lack of ambition on the Israeli-Palestinian conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -86,11 +90,11 @@ There have been large demonstrations in France against antisemitism, while the I
 <p>After winning the 2021 Democratic mayoral primary, Eric Adams successfully pressed city officials to allow the opening of a Manhattan high-rise housing the Turkish Consulate General.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>One Year in the Infuriating and Humiliating Search for a Job in South Africa</h3>
-<sub>By Lynsey Chutel and Gulshan Khan</sub>
-<p>Portia Stafford has a high school diploma in hospitality and three certificates from job training programs. She is among a generation of ambitious Africans who spend their days chasing an elusive opening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Carries Out Another Round of Airstrikes on Iran-Linked Targets</h3>
+<sub>By Eric Schmitt</sub>
+<p>The United States conducted airstrikes against two facilities in eastern Syria. American officials said that the strikes in recent weeks have been in proportion to attacks by Iran-backed militias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The ‘Georgists’ Are Out There, and They Want to Tax Your Land</h3>
@@ -99,22 +103,22 @@ There have been large demonstrations in France against antisemitism, while the I
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Has Biden Done on His 2020 Campaign Promises?</h3>
+<sub>By Angelo Fichera</sub>
+<p>President Biden campaigned on stopping construction of the border wall, allowing Medicare to negotiate drug prices and ending the death penalty.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Mayor’s Suicide Leaves an Alabama City Seeking Answers</h3>
+<sub>By Rick Rojas, Alessandro Marazzi Sassoon and Colbi Edmonds</sub>
+<p>The mayor fatally shot himself after a news site published a photo of him in makeup and said he had written erotic fiction and posts using names and photos of local residents, including a minor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Deadly Maui Inferno, Hour by Hour</h3>
 <sub>By Mike Baker, Malika Khurana, K.K. Rebecca Lai, Riley Mellen, Natalie Reneau, Bedel Saget, Elena Shao, Anjali Singhvi and Charlie Smart</sub>
 <p>The Times reconstructed the day of the Lahaina wildfire, tracing the path of the blaze and the failures that left so many people trapped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kelly Johnson Embodies the Hard-Line Views She Shares With the Speaker</h3>
-<sub>By Annie Karni</sub>
-<p>The wife of Mike Johnson, the new speaker, has rallied opposition to abortion rights and used her pastoral counseling business to condemn homosexuality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Ukraine, With No Warships, Is Thwarting Russia’s Navy</h3>
-<sub>By Marc Santora</sub>
-<p>The commander of Ukraine’s Navy said in a rare interview that the Russian naval blockade of Odesa had been broken. He also described how the war is transforming naval tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>New Gene Editing Treatment Cuts Dangerous Cholesterol in Small Study</h3>
@@ -122,17 +126,17 @@ There have been large demonstrations in France against antisemitism, while the I
 <p>The trial involved only 10 patients, but it suggests cholesterol can be permanently reduced with a single treatment for patients at risk of heart disease.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>A national surge in drive-throughs, an interview with Barbra Streisand and a beginner’s guide to looking at the universe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Texas, Vietnamese American Shrimpers Must Forge a New Path Again</h3>
+<sub>By Amy Qin and Callaghan O’Hare</sub>
+<p>They overcame the trauma of war, language barriers and prejudice to become successful shrimpers. But the decline of the industry in America is forcing them to consider other options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Nov. 10, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is Remote Work the Answer to Women’s Prayers, or a New ‘Mommy Track’?</h3>
+<sub>By Sarah Kessler</sub>
+<p>Post-pandemic work-from-home norms allowed more women to stay in the work force than ever before. Remote work could also make it harder to get ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
