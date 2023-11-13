@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-There are many significant current events taking place across the world. In Israel, more than 125,000 people are evacuating their homes near the borders with Lebanon and Gaza due to dangerous attacks. Israeli officials also suspect a Hamas complex lies beneath a major hospital in Gaza, which has caused dire conditions due to power cuts. Meanwhile, the Chinese leader, Xi Jinping, has been bracing for an intensifying rivalry with the US from early in his rule. Elsewhere, former US president Donald Trump Jr. is being called to the witness stand for a second time in a fraud trial and Tim Scott has suspended his campaign for the 2024 Republican presidential nomination. Additionally, there is a growing drug crisis beyond opioids in the US and there are efforts underway to revive nuclear power through smaller reactors. Lastly, demographics are changing significantly in Texas as white people become a declining minority among even those born in the state—Asian, Black and Hispanic people are moving in instead.</p>
+There are some major events going on around the world. Chinese leader Xi Jinping has been offering public assurances and has privately been preparing for an intensifying rivalry with the US. President Biden and Xi Jinping will be meeting soon amid ongoing trade tensions. Meanwhile, Xi has returned China to one-man rule by dismantling institutional barriers. Over 125,000 Israelis are being resettled due to border attacks and a nearby hospital is suspected of housing a Hamas complex. In Israel, former New Jersey Governor Chris Christie criticized Trump for his rhetoric and lack of ambition in the Israeli-Palestinian conflict. David Cameron, former Prime Minister of the UK, faces an uncertain record during this time of war. On the brighter side, there are signs of progress as Black women have been able to make strides in architecture and the US is experimenting with small nuclear reactors to hopefully solve a huge climate problem. Additionally, unfortunately, there is an even bigger drug crisis than opioids that people are becoming increasingly addicted to, making it difficult to treat.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Behind Public Assurances, Xi Jinping Spread Grim Views on U.S.</h3>
+<sub>By Chris Buckley</sub>
+<p>Speeches by the Chinese leader show how he was bracing for an intensifying rivalry with the United States from early in his rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s at Stake in the Biden-Xi Meeting</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced</sub>
+<p>President Biden and his Chinese counterpart, Xi Jinping, are set to meet on Wednesday, as the two seek to maintain ties despite trade tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Xi Returned China to One-Man Rule</h3>
+<sub>By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles</sub>
+<p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Tourist Hotels, Israeli Evacuees Plan for Long Stays to Escape Border Attacks</h3>
 <sub>By Mark Landler, Adam Goldman and Avishag Shaar-Yashuv</sub>
@@ -87,21 +105,9 @@ There are many significant current events taking place across the world. In Isra
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Public Assurances, Xi Jinping Spread Grim Views on U.S.</h3>
-<sub>By Chris Buckley</sub>
-<p>Speeches by the Chinese leader show how he was bracing for an intensifying rivalry with the United States from early in his rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Xi Returned China to One-Man Rule</h3>
-<sub>By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles</sub>
-<p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Jr. Makes a 2nd Visit to Witness Stand in Fraud Trial</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>The former president’s son will testify again in the family’s civil fraud case. This time he was called by defense lawyers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At a time of war, Cameron brings experience but also an uneven record.</h3>
+<sub>By Mark Landler</sub>
+<p>As former prime minister, David  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -127,12 +133,6 @@ There are many significant current events taking place across the world. In Isra
 <sub>By Brad Plumer and Ivan Penn</sub>
 <p>The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What It Means to Be a Texan Is Changing in Surprising Ways</h3>
-<sub>By J. David Goodman, Edgar Sandoval and Robert Gebeloff</sub>
-<p>White people make up a declining minority in Texas, even among those born in the state. And all those people moving in? They’re as likely to be Black, Hispanic or Asian.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
