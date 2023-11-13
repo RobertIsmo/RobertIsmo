@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 12, Central Standard Time</p>
 <p>
-Currently, there is a lot of tension in the Middle East due to the conflict between Israel and Hamas. In France, there was a huge march against antisemitism recently to address the rise in tensions. In the US, Chris Christie recently spoke out about President Trump&#39;s rhetoric of intolerance and lack of ambition in regards to resolving the Israeli-Palestinian conflict. The FBI is also currently assessing whether a 2021 Democratic mayoral primary winner has been cutting red tape for the Turkish government. Additionally, the US has been carrying out airstrikes on Iran-linked targets in Syria. 
-
-On the domestic front, there are &#39;Georgists&#39; advocating for a tax on land to address the crisis in affordable housing, while President Biden is pushing to fulfill some of his 2020 campaign promises like stopping border wall construction and allowing Medicare to negotiate drug prices. Furthermore, tragedy struck in Alabama when the mayor committed suicide after being accused of writing erotic fiction and posts featuring local people including a minor. In Maui, they are still trying to make sense of an inferno that left many people trapped. 
-
-Finally, a new gene-editing treatment that could significantly reduce cholesterol levels for patients at risk of heart disease has had promising results in a small study. Vietnamese American shrimpers in Texas are having to look for new opportunities as their industry continues its decline. Lastly, remote work has been seen as advantageous for women who can still stay in the workforce but could potentially lead to less advancement opportunities than before.</p>
+Right now, there&#39;s a lot going on around the world. In Israel, clashes are occurring as Israeli forces are located close to a Gaza hospital that they say is connected to Hamas. Over 100,000 people marched in France recently in opposition to increasing antisemitism. In the US, the FBI is currently examining the actions of mayoral candidate Eric Adams and whether he cleared red tape in order to help the Turkish government. Additionally, the US has been carrying out airstrikes against Iran-tied targets in Syria. There&#39;s also a century-old movement gaining support that would tax people based on their land holdings. Tragedy has struck Alabama when its mayor committed suicide after being accused of writing erotic fiction featuring local residents, including minors. There have also been reports of Tim Scott suspending his presidential campaign due to lack of recognition among voters. As for disasters, Hawaii experienced an Inferno recently that left many people trapped, and a new gene editing treatment trial has offered new hope for reducing cholesterol levels. Lastly, Vietnam American shrimpers in Texas are again considering alternate paths due to decreasing success in shrimp fishing. All throughout this, women have faced struggles with remote work post-pandemic which has allowed more people to stay in the work force than ever before but could also make it harder to get ahead.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Forces Near a Struggling Hospital They Say Covers a Hamas Complex</h3>
@@ -91,9 +87,9 @@ Finally, a new gene-editing treatment that could significantly reduce cholestero
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Carries Out Another Round of Airstrikes on Iran-Linked Targets</h3>
+<h3>U.S. Carries Out Another Round of Airstrikes on Targets Tied to Iran</h3>
 <sub>By Eric Schmitt</sub>
-<p>The United States conducted airstrikes against two facilities in eastern Syria. American officials said that the strikes in recent weeks have been in proportion to attacks by Iran-backed militias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Airstrikes hit two facilities in eastern Syria, most likely killing or injuring Iran-backed militia personnel. The U.S. has blamed such groups for recent attacks against American troops.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -103,15 +99,15 @@ Finally, a new gene-editing treatment that could significantly reduce cholestero
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Has Biden Done on His 2020 Campaign Promises?</h3>
-<sub>By Angelo Fichera</sub>
-<p>President Biden campaigned on stopping construction of the border wall, allowing Medicare to negotiate drug prices and ending the death penalty.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Mayor’s Suicide Leaves an Alabama City Seeking Answers</h3>
 <sub>By Rick Rojas, Alessandro Marazzi Sassoon and Colbi Edmonds</sub>
 <p>The mayor fatally shot himself after a news site published a photo of him in makeup and said he had written erotic fiction and posts using names and photos of local residents, including a minor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
