@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the world right now. In Israel, Israeli officials are claiming Hamas has built a complex under a major Gaza hospital and tensions from the Gaza war have risen in France, sparking over 100,000 to march against antisemitism. In the US, former New Jersey governor Chris Christie says Trump has fueled bigotry and a presidential candidate Tim Scott has suspended his campaign after struggling to break out of the pack of Trump challengers. In addition, there was an unexpected suicide of the mayor of an Alabama city after news of him writing erotic fiction came out and an FBI investigation of Eric Adams is underway for his efforts to allow the opening of a Manhattan high-rise housing the Turkish Consulate General. Meanwhile, a gene editing treatment was able to cut dangerous cholesterol in just 10 patients and Vietnamese American shrimpers in Texas are having to find new ways to succeed amid industry decline. Lastly, remote work has allowed for more women to stay in the work force but may make it harder for them to get ahead and with pro-life leaders like Trump, the pro-life movement may not prevail.</p>
+There are many significant current events taking place across the world. In Israel, more than 125,000 people are evacuating their homes near the borders with Lebanon and Gaza due to dangerous attacks. Israeli officials also suspect a Hamas complex lies beneath a major hospital in Gaza, which has caused dire conditions due to power cuts. Meanwhile, the Chinese leader, Xi Jinping, has been bracing for an intensifying rivalry with the US from early in his rule. Elsewhere, former US president Donald Trump Jr. is being called to the witness stand for a second time in a fraud trial and Tim Scott has suspended his campaign for the 2024 Republican presidential nomination. Additionally, there is a growing drug crisis beyond opioids in the US and there are efforts underway to revive nuclear power through smaller reactors. Lastly, demographics are changing significantly in Texas as white people become a declining minority among even those born in the state—Asian, Black and Hispanic people are moving in instead.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Tourist Hotels, Israeli Evacuees Plan for Long Stays to Escape Border Attacks</h3>
+<sub>By Mark Landler, Adam Goldman and Avishag Shaar-Yashuv</sub>
+<p>More than 125,000 Israeli evacuees have been resettled from their communities along the dangerous borders with Lebanon and Gaza in the largest internal displacement in the country’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Forces Near a Struggling Hospital They Say Covers a Hamas Complex</h3>
 <sub>By Matthew Rosenberg, Ronen Bergman, Aaron Boxerman and Vivian Yee</sub>
@@ -74,65 +80,59 @@ It looks like a lot is happening in the world right now. In Israel, Israeli offi
 <p>The former New Jersey governor and chief G.O.P. antagonist to the former president cited Mr. Trump’s rhetoric of intolerance and faulted him for a lack of ambition on the Israeli-Palestinian conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Over 100,000 March in France Against Antisemitism</h3>
-<sub>By Catherine Porter and Liz Alderman</sub>
-<p>The demonstrations in Paris and other cities came amid a rise in tensions in France over the Gaza war and a surge in antisemitic incidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Mayor’s Suicide Leaves an Alabama City Seeking Answers</h3>
-<sub>By Rick Rojas, Alessandro Marazzi Sassoon and Colbi Edmonds</sub>
-<p>The mayor fatally shot himself after a news site published a photo of him in makeup and said he had written erotic fiction and posts using names and photos of local residents, including a minor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<h3>Crisis at Gaza’s Main Hospital, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Tim Scott suspends his campaign for the 2024 Republican presidential nomination, and a rise in reports of cognitive difficulties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fighting to Govern Myanmar, From a Teeny Office in Washington</h3>
-<sub>By Hannah Beech</sub>
-<p>The National Unity Government of Myanmar, formed as an alternative to the junta that orchestrated a 2021 coup, has to battle global apathy and ignorance as it struggles for recognition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<h3>Behind Public Assurances, Xi Jinping Spread Grim Views on U.S.</h3>
+<sub>By Chris Buckley</sub>
+<p>Speeches by the Chinese leader show how he was bracing for an intensifying rivalry with the United States from early in his rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Xi Returned China to One-Man Rule</h3>
+<sub>By Weiyi Cai, Aaron Byrd, Chris Buckley and Pablo Robles</sub>
+<p>For decades, China built guardrails to prevent another Mao. Here’s how Xi Jinping has dismantled them and created his own machinery of power.  <a href="https://nyti.ms/3qWcLCb"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, September 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>F.B.I. Examining Whether Adams Cleared Red Tape for Turkish Government</h3>
-<sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
-<p>After winning the 2021 Democratic mayoral primary, Eric Adams successfully pressed city officials to allow the opening of a Manhattan high-rise housing the Turkish Consulate General.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Donald Trump Jr. Makes a 2nd Visit to Witness Stand in Fraud Trial</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>The former president’s son will testify again in the family’s civil fraud case. This time he was called by defense lawyers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Black Woman’s Rise in Architecture Shows How Far Is Left to Go</h3>
+<sub>By Jane Margolies</sub>
+<p>They have worked for decades to make their way in a profession that remains overwhelmingly white and male, but there are signs of change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘A Monster’: Super Meth and Other Drugs Push Crisis Beyond Opioids</h3>
+<sub>By Jan Hoffman and Hilary Swift</sub>
+<p>Millions of U.S. drug users now are addicted to several substances, not just opioids like fentanyl and heroin. The shift is making treatment far more difficult.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>America’s Other Drug Problem</h3>
+<sub>By German Lopez</sub>
+<p>The crisis increasingly involves drugs besides opioids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>U.S. Bets on Small Nuclear Reactors to Help Fix a Huge Climate Problem</h3>
+<sub>By Brad Plumer and Ivan Penn</sub>
+<p>The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Deadly Maui Inferno, Hour by Hour</h3>
-<sub>By Mike Baker, Malika Khurana, K.K. Rebecca Lai, Riley Mellen, Natalie Reneau, Bedel Saget, Elena Shao, Anjali Singhvi and Charlie Smart</sub>
-<p>The Times reconstructed the day of the Lahaina wildfire, tracing the path of the blaze and the failures that left so many people trapped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Gene Editing Treatment Cuts Dangerous Cholesterol in Small Study</h3>
-<sub>By Gina Kolata</sub>
-<p>The trial involved only 10 patients, but it suggests cholesterol can be permanently reduced with a single treatment for patients at risk of heart disease.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Texas, Vietnamese American Shrimpers Must Forge a New Path Again</h3>
-<sub>By Amy Qin and Callaghan O’Hare</sub>
-<p>They overcame the trauma of war, language barriers and prejudice to become successful shrimpers. But the decline of the industry in America is forcing them to consider other options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is Remote Work the Answer to Women’s Prayers, or a New ‘Mommy Track’?</h3>
-<sub>By Sarah Kessler</sub>
-<p>Post-pandemic work-from-home norms allowed more women to stay in the work force than ever before. Remote work could also make it harder to get ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The New Republican Party Isn’t Ready for the Post-Roe World</h3>
-<sub>By David French</sub>
-<p>With leaders like Trump, the pro-life movement can’t prevail.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<h3>What It Means to Be a Texan Is Changing in Surprising Ways</h3>
+<sub>By J. David Goodman, Edgar Sandoval and Robert Gebeloff</sub>
+<p>White people make up a declining minority in Texas, even among those born in the state. And all those people moving in? They’re as likely to be Black, Hispanic or Asian.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
