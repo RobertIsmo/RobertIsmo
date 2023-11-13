@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-There has been a lot going on around the world lately! Chinese President Xi Jinping and US President Biden are set to meet soon despite growing trade tensions, while Israel is dealing with the largest internal displacement in its history with 125,000 evacuees having to leave home. In the US, the drug crisis is becoming increasingly complex with people now being addicted to multiple substances, and Vermont is seeing a long-term labor shortage with older populations. Meanwhile, start-ups are looking to commercialize advances in fusion energy as a way to address climate change. Plus, US Senator Tim Scott has recently suspended his campaign for president due to failing to resonate with voters.</p>
+There is a lot going on the world right now. The US Supreme Court has adopted an ethics code for its justices in response to some questionable deals and gifts being disclosed. Congress has seen some of its aides break with their bosses over their views on the Israel-Hamas war. House Democrats have recently censured one of their members Rashida Tlaib, while in Israel, more than 125,000 people have been evacuated from their communities due to border attacks. In the US, Federal Prosecutors objected to a request from Trump to have an election trial broadcast. Donald Trump Jr. defended his father at court which was found to be inflating their series values. In Britain, Rishi Sunak, Prime Minister attempted a reset by swaying more towards the center politically but chose someone from a troubled past to fill the Foreign Secretary position. Research shows that trees can significantly fight climate change but need other methods to assist it as well. Lastly, Netflix&#39;s show &#39;The Crown&#39; is doing its final season focusing on the beloved Princess Diana&#39;s death in 1997.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Behind Public Assurances, Xi Jinping Has Spread Grim Views on U.S.</h3>
-<sub>By Chris Buckley</sub>
-<p>Speeches by the Chinese leader show how he was bracing for an intensifying rivalry with the United States from early in his rule.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Announces Ethics Code for Justices</h3>
+<sub>By Abbie VanSickle and Adam Liptak</sub>
+<p>The decision comes after revelations about undisclosed property deals and gifts have intensified pressure on the court to adopt such a code.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s at Stake in the Biden-Xi Meeting</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler and Michael J. de la Merced</sub>
-<p>President Biden and his Chinese counterpart, Xi Jinping, are set to meet on Wednesday, as the two seek to maintain ties despite trade tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Supreme Court’s Ethics Rules</h3>
+<sub></sub>
+<p>The Supreme Court announced on Monday that it had issued an ethics code for the justices after a series of revelations about undisclosed property deals and gifts intensified pressure on the court to adopt one. Here are the ethics rules.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
+<sub>By Jo Becker and Julie Tate</sub>
+<p>The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.  <a href="https://nyti.ms/47lDJn9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democratic Aides in Congress Break With Their Bosses on Israel-Hamas War</h3>
+<sub>By Kayla Guo</sub>
+<p>A wave of current and former staff members, mostly of a younger generation, are agitating for a cease-fire and speaking out against their bosses’ positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rashida Tlaib, Censured by the House, Is Praised and Condemned at Home</h3>
+<sub>By Charles Homans</sub>
+<p>The Democratic congresswoman from the Detroit area and the only Palestinian-American in the House faces a complicated landscape in her district.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,10 +98,34 @@ There has been a lot going on around the world lately! Chinese President Xi Jinp
 <p>More than 125,000 Israeli evacuees have been resettled from their communities along the dangerous borders with Lebanon and Gaza in the largest internal displacement in the country’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Prosecutors Object to Trump Request for Broadcast of Election Trial</h3>
+<sub>By Alan Feuer</sub>
+<p>The office of the special counsel said that televising the proceeding would create a “carnival atmosphere” and allow the former president to divert attention from the charges he faces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Donald Trump Jr. Says Family Properties Show His Father’s Brilliance</h3>
+<sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
+<p>In his second appearance in court, Donald J. Trump’s eldest son testified that the company’s assets were extremely valuable. A judge has found their values were inflated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Look at Suella Braverman’s Turbulent Time as Home Secretary.</h3>
-<sub>By Megan Specia</sub>
-<p>Ms. Braverman, who is no stranger to controversy, has now been fired from the post of home secretary twice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Under Pressure, Britain’s Leader Tries Another Reset With a Swerve to Center</h3>
+<sub>By Stephen Castle</sub>
+<p>After more than a year as prime minister, Rishi Sunak, a Conservative, has failed to close a yawning gap in the polls. On Monday he did something new.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Change-Oriented Prime Minister Chooses a Link to a Troubled Past</h3>
+<sub>By Mark Landler</sub>
+<p>Prime Minister Rishi Sunak, who has presented himself as a change agent, chose a predecessor, David Cameron, as his foreign secretary. But Mr. Cameron comes with political baggage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Much Can Trees Fight Climate Change? Massively, but Not Alone, Study Finds.</h3>
+<sub>By Catrin Einhorn</sub>
+<p>The research, which comes with important caveats, was partly an effort to address the scientific uproar surrounding an earlier paper.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -91,48 +133,6 @@ There has been a lot going on around the world lately! Chinese President Xi Jinp
 <sub>By Sarah Lyall</sub>
 <p>The final season of Netflix’s royal drama opens in 1997, on the cusp of one of the most analyzed periods in recent British history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘A Monster’: Super Meth and Other Drugs Push Crisis Beyond Opioids</h3>
-<sub>By Jan Hoffman and Hilary Swift</sub>
-<p>Millions of U.S. drug users now are addicted to several substances, not just opioids like fentanyl and heroin. The shift is making treatment far more difficult.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>America’s Other Drug Problem</h3>
-<sub>By German Lopez</sub>
-<p>The crisis increasingly involves drugs besides opioids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Russell Brand’s Alternate Reality</h3>
-<sub>By Matt Flegenheimer</sub>
-<p>The British entertainer built an army of fans with his conspiracy-minded podcast. Now, amid sex-assault claims against him, they’ve become his whole world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Vermont May Be the Face of a Long-Term U.S. Labor Shortage</h3>
-<sub>By Ben Casselman, Jeanna Smialek and Hilary Swift</sub>
-<p>Employers are pulling out all the stops to attract workers as the state’s population grows older, offering a likely glimpse of the country’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>U.S. Bets on Small Nuclear Reactors to Help Fix a Huge Climate Problem</h3>
-<sub>By Brad Plumer and Ivan Penn</sub>
-<p>The dream of reviving nuclear power in the U.S. rests on a new generation of smaller reactors meant to be easier to build. But major obstacles loom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Start-Ups With Laser Beams: The Companies Trying to Ignite Fusion Energy</h3>
-<sub>By Kenneth Chang</sub>
-<p>Companies are looking to commercialize advances made by federally supported research labs in the quest for boundless energy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
