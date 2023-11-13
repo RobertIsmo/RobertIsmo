@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, November 12, Central Standard Time</p>
+<p>It is Monday, November 13, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on around the world. In Israel, clashes are occurring as Israeli forces are located close to a Gaza hospital that they say is connected to Hamas. Over 100,000 people marched in France recently in opposition to increasing antisemitism. In the US, the FBI is currently examining the actions of mayoral candidate Eric Adams and whether he cleared red tape in order to help the Turkish government. Additionally, the US has been carrying out airstrikes against Iran-tied targets in Syria. There&#39;s also a century-old movement gaining support that would tax people based on their land holdings. Tragedy has struck Alabama when its mayor committed suicide after being accused of writing erotic fiction featuring local residents, including minors. There have also been reports of Tim Scott suspending his presidential campaign due to lack of recognition among voters. As for disasters, Hawaii experienced an Inferno recently that left many people trapped, and a new gene editing treatment trial has offered new hope for reducing cholesterol levels. Lastly, Vietnam American shrimpers in Texas are again considering alternate paths due to decreasing success in shrimp fishing. All throughout this, women have faced struggles with remote work post-pandemic which has allowed more people to stay in the work force than ever before but could also make it harder to get ahead.</p>
+There are a lot of things happening in the world right now. In Israel, Israeli forces are close to a major hospital in Gaza that they think is covering a Hamas complex. There have been over 100,000 marches in France against antisemitism due to tensions surrounding the Gaza conflict. In the US, Christie has blamed Trump for a lack of ambition on the Israeli-Palestinian conflict and also for rhetoric of intolerance. Additionally, Tim Scott has suspended his presidential campaign because his message wasn&#39;t resonating. The US also carried out airstrikes on targets that it believes are linked to Iran. There&#39;s been tragedy in Alabama as the mayor committed suicide beneath certain circumstances. In Myanmar, a National Unity Government is fighting for recognition as they were formed as an alternative to the junta resulting from their 2021 coup. The FBI is examining whether Eric Adams cleared red tape for the Turkish government after he won the 2021 Democratic mayoral primary in NYC. In Hawaii, there was an intense fire and multiple failures contributed to people being trapped during the difficult journey ahead of them. In medical news, there&#39;s been a new gene editing treatment that cuts dangerous cholesterol in small studies so far. Lastly, shrimpers in Texas are struggling with the decline of their industry and having to consider other options as a result.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Forces Near a Struggling Hospital They Say Covers a Hamas Complex</h3>
@@ -80,10 +80,10 @@ Right now, there&#39;s a lot going on around the world. In Israel, clashes are o
 <p>The former New Jersey governor and chief G.O.P. antagonist to the former president cited Mr. Trump’s rhetoric of intolerance and faulted him for a lack of ambition on the Israeli-Palestinian conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>F.B.I. Examining Whether Adams Cleared Red Tape for Turkish Government</h3>
-<sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
-<p>After winning the 2021 Democratic mayoral primary, Eric Adams successfully pressed city officials to allow the opening of a Manhattan high-rise housing the Turkish Consulate General.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,22 +92,22 @@ Right now, there&#39;s a lot going on around the world. In Israel, clashes are o
 <p>Airstrikes hit two facilities in eastern Syria, most likely killing or injuring Iran-backed militia personnel. The U.S. has blamed such groups for recent attacks against American troops.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The ‘Georgists’ Are Out There, and They Want to Tax Your Land</h3>
-<sub>By Conor Dougherty</sub>
-<p>Amid a crisis in affordable housing, the century-old ideas of Henry George have gained a new currency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Mayor’s Suicide Leaves an Alabama City Seeking Answers</h3>
 <sub>By Rick Rojas, Alessandro Marazzi Sassoon and Colbi Edmonds</sub>
 <p>The mayor fatally shot himself after a news site published a photo of him in makeup and said he had written erotic fiction and posts using names and photos of local residents, including a minor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott Suspends ’24 Campaign, as His Sunny Message Failed to Resonate</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>He entered the Republican presidential race as a rising star with substantial financial resources, but struggled to break out of the pack of Trump challengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fighting to Govern Myanmar, From a Teeny Office in Washington</h3>
+<sub>By Hannah Beech</sub>
+<p>The National Unity Government of Myanmar, formed as an alternative to the junta that orchestrated a 2021 coup, has to battle global apathy and ignorance as it struggles for recognition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>F.B.I. Examining Whether Adams Cleared Red Tape for Turkish Government</h3>
+<sub>By William K. Rashbaum, Dana Rubinstein and Michael Rothfeld</sub>
+<p>After winning the 2021 Democratic mayoral primary, Eric Adams successfully pressed city officials to allow the opening of a Manhattan high-rise housing the Turkish Consulate General.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
