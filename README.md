@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! The U.S. is managing expectations of a breakthrough before Biden and Xi Jinping meet at the Asia-Pacific Economic Cooperation summit, after tensions had been bubbling between them for the last year. There is also a decline in economic integration between China and the U.S., along with over 400 U.S. officials who signed a letter protesting Biden&#39;s Israel policy. Jewish groups are rallying for Israel on the National Mall, and Israeli farmers are calling for volunteers due to a hard-hit from the loss of Thai and Palestinian workers. Airfares are sharply dropping, which is amazing news for inflation-weary travelers. We are also getting closer to Thanksgiving, and there&#39;s yet another report on climate change giving us insight into the terrible effects it&#39;s having across the U.S. as well as potential solutions we can reach for! Lastly, in Arizona some voters are souring on Biden due to feeling bad about how the economy is doing, while Trump campaign officials are trying to play down contentious 2025 plans even though they&#39;re based off Trump&#39;s own words. And Democrats might try to pass a plan to avert a shutdown, as long as Republicans cooperate. Phew!</p>
+It looks like the airlines are starting to offer much lower airfare prices in an attempt to fill up planes, and President Biden is set to meet with the Chinese President Xi Jinping, hoping to ease some tensions between the two countries. There&#39;s also been a report showing how both China and America have benefited from their economic integration and now that they&#39;re pulling apart, it won&#39;t be easy for either side to replace the other. On another note, the US has seen more than 400 officials sign a letter protesting Biden&#39;s current policy on Israel. Lastly, there is currently a House bill being proposed to prevent a government shutdown in the US, which needs backing from both Democrats and Republicans.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sharp Drop in Airfares Cheers Inflation-Weary Travelers</h3>
+<sub>By Niraj Chokshi</sub>
+<p>Airlines are starting to offer bargain prices, including to popular overseas destinations like Paris, a sign that they are fighting to fill planes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Manages Expectations of a Breakthrough Before Biden and Xi Meet</h3>
 <sub>By Katie Rogers and David E. Sanger</sub>
@@ -74,34 +80,22 @@ There is a lot happening in the world right now! The U.S. is managing expectatio
 <p>China and the U.S. both gained from their economic integration. As they pull apart, each is finding it will be hard to fully replace the other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Xi Heads to San Francisco, Chinese Propaganda Embraces America</h3>
+<sub>By Vivian Wang and Joy Dong</sub>
+<p>After years of anti-American propaganda, the softer, warmer depiction of relations with the United States has left some Chinese social media users confused or amused.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>More Than 400 U.S. Officials Sign Letter Protesting Biden’s Israel Policy</h3>
 <sub>By Maria Abi-Habib, Michael Crowley and Edward Wong</sub>
 <p>The signers, representing some 40 government agencies, reflect growing internal dissent over the administration’s support of Israel’s military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jewish Groups to Rally for Israel on National Mall</h3>
-<sub>By Campbell Robertson</sub>
-<p>Educators, artists, students and relatives of some of the hundreds of hostages seized by Hamas are scheduled to appear, along with top U.S. lawmakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hard Hit by Loss of Thai and Palestinian Workers, Israeli Farmers Call for Volunteers</h3>
-<sub>By Miriam Jordan</sub>
-<p>After the Oct. 7 terror attack, Israel banned Gazan farm workers, and many other foreign laborers returned to their home countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Growing Dissent Against Biden’s Israel Policy, and More</h3>
 <sub>By New York Times Audio</sub>
 <p>Plus, an ethics code for the Supreme Court and a new report on climate change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sharp Drop in Airfares Cheers Inflation-Weary Travelers</h3>
-<sub>By Niraj Chokshi</sub>
-<p>Airlines are starting to offer bargain prices, including to popular overseas destinations like Paris, a sign that they are fighting to fill planes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -111,9 +105,15 @@ There is a lot happening in the world right now! The U.S. is managing expectatio
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Change’s Effects Are Worsening Across U.S., but Solutions Are in Reach</h3>
+<h3>The Toll of Climate Disasters Is Rising. But a U.S. Report Has Good News, Too.</h3>
 <sub>By Raymond Zhong</sub>
-<p>A major report from the federal government lays out both the far-reaching perils of global warming and the cost-effective fixes that are available today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A major government assessment lays out both the far-reaching perils of global warming and the cost-effective fixes that are available today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In a Report Card on Global Warming, Nations Get a Very Poor Grade</h3>
+<sub>By Somini Sengupta</sub>
+<p>Countries are taking “baby steps,” a U.N. official said. In a separate study, Saudi researchers warned of an “existential crisis” for their nation from rising temperatures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
