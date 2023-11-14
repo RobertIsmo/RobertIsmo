@@ -58,17 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, November 13, Central Standard Time</p>
+<p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Democratic aides in Congress are breaking with their bosses on the Israel-Hamas war and are agitating for a cease-fire. Meanwhile, House Democrats and Republicans seem to be open to a plan to avert a government shutdown, but the vote was blocked after an attempt to immediately impeach Homeland Security Secretary Alejandro Mayorkas failed. The Supreme Court has also adopted an ethics code that does not specify how it will be enforced or by whom. 
+There is a lot happening in the world right now. In the U.S., Democratic aides in Congress are breaking with their bosses on the Israel-Hamas war, and Democrats are signaling openness to a plan to avert a government shutdown as Republicans balk. Moreover, the Supreme Court has adopted an ethics code following reports of undisclosed gifts and travel, and federal prosecutors have objected to former President Trump&#39;s request for broadcast of his election trial.
 
-Donald Trump&#39;s former aide has revealed that shortly after the 2020 election, Donald told her that he was not going to leave office. On top of this, federal prosecutors have objected to Trump&#39;s request for his election trial be broadcasted on television. 
-
-Donald Trump Jr., the former president&#39;s son, testified in court that Trump family properties show his father&#39;s brilliance, but a judge found their values were inflated. Netflix&#39;s royal drama, The Crown, is currently entering its final season which focuses on Diana&#39;s death and subsequent events in British history. 
-
-In Anchorage, Alaska the temperature is plummeting, and homelessness is causing an &#39;unimaginable&#39; death toll among homeless residents. Tim Scott&#39;s campaign for office has collapsed due to debate flops, mistrust and an AWOL billionaire donor. Lastly, Donald Trump recently used language similar to those dictators like Hitler and Mussolini have used while speaking at a Veterans Day speech - telling his opponents they would be &quot;crushed&quot;. 
-
-Lastly, scientists have reported on climate change research saying that while trees can massively help fight climate change, they cannot do it alone.</p>
+Meanwhile, Donald Trump Jr. has testified about the value of his family properties, while Netflix&#39;s royal drama &#39;The Crown&#39; has entered its most evocative era with Diana&#39;s death. In Alaska, meanwhile, there has been an &quot;unimaginable&quot; death toll among homeless people due to cold temperatures, and Tim Scott’s campaign has collapsed due to debate flops, mistrust and an AWOL billionaire. Finally, research on how much trees can fight climate change suggests they can make a huge difference -- but not alone.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democratic Aides in Congress Break With Their Bosses on Israel-Hamas War</h3>
