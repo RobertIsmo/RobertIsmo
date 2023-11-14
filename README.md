@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-It looks like the airlines are starting to offer much lower airfare prices in an attempt to fill up planes, and President Biden is set to meet with the Chinese President Xi Jinping, hoping to ease some tensions between the two countries. There&#39;s also been a report showing how both China and America have benefited from their economic integration and now that they&#39;re pulling apart, it won&#39;t be easy for either side to replace the other. On another note, the US has seen more than 400 officials sign a letter protesting Biden&#39;s current policy on Israel. Lastly, there is currently a House bill being proposed to prevent a government shutdown in the US, which needs backing from both Democrats and Republicans.</p>
+In the world right now, there is a lot of uncertainty and change. The Fed is facing pressure to raise rates after an optimistic inflation report from October was released. Airfares are dropping due to airlines fighting for customers, and more than 400 U.S. officials have signed a letter protesting Biden&#39;s Israel policy. In addition, some Democratic lawmakers have voiced support for Johnson&#39;s plan to avoid a government shutdown, despite his previous comments about Trump being unfit for presidency in 2015. In Ukraine, officials have been indicted for levying efforts against the Bidens. Moreover, refugees returning for medical care could be taking a risky trip home from Russia, and a man convicted of journalist Anna Politkovskaya&#39;s murder was recently pardoned by Putin. Lastly, Americans are struggling with the consequences of aging and rising elder care costs with limited helpful resources available.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>An Optimistic Inflation Report Reduces Pressure on the Fed to Raise Rates</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers have been debating whether a final rate move is needed. A cooler-than-expected October inflation report may take the heat off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Sharp Drop in Airfares Cheers Inflation-Weary Travelers</h3>
 <sub>By Niraj Chokshi</sub>
 <p>Airlines are starting to offer bargain prices, including to popular overseas destinations like Paris, a sign that they are fighting to fill planes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Manages Expectations of a Breakthrough Before Biden and Xi Meet</h3>
-<sub>By Katie Rogers and David E. Sanger</sub>
-<p>President Biden and President Xi Jinping of China will try to defuse a year of bubbling tensions on Wednesday at the Asia-Pacific Economic Cooperation summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Rise and Fall of the World’s Most Successful Joint Venture</h3>
-<sub>By Peter S. Goodman</sub>
-<p>China and the U.S. both gained from their economic integration. As they pull apart, each is finding it will be hard to fully replace the other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Xi Heads to San Francisco, Chinese Propaganda Embraces America</h3>
-<sub>By Vivian Wang and Joy Dong</sub>
-<p>After years of anti-American propaganda, the softer, warmer depiction of relations with the United States has left some Chinese social media users confused or amused.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +80,34 @@ It looks like the airlines are starting to offer much lower airfare prices in an
 <p>The signers, representing some 40 government agencies, reflect growing internal dissent over the administration’s support of Israel’s military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Growing Dissent Against Biden’s Israel Policy, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, an ethics code for the Supreme Court and a new report on climate change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Signal Support for Johnson’s Plan to Avoid Shutdown Ahead of Vote</h3>
+<sub>By Catie Edmondson</sub>
+<p>An increasing number of Democrats privately indicated that they would support the Republican speaker’s measure to extend government funding. A vote is expected Tuesday afternoon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President</h3>
+<sub>By Annie Karni and Steve Eder</sub>
+<p>Speaker Mike Johnson, then a Republican state lawmaker, posted on social media that Donald J. Trump lacked the character and morality to be president and could be vindictive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Indicts Officials Linked to Efforts to Investigate the Bidens</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Three officials were accused of operating at the behest of Russian intelligence when they aligned with efforts by Rudolph W. Giuliani to tie the Biden family to corruption in Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Ukrainian Refugees, Seeing the Doctor Can Be Worth a Risky Trip Home</h3>
+<sub>By Constant Méheut</sub>
+<p>Hundreds of thousands who fled after Russia invaded make brief visits back, often to reconnect with family but also for health care that can be cheaper and more familiar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Man Convicted in Russian Journalist’s Murder Is Pardoned After Serving in Ukraine</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The lawyer of Sergei G. Khadzhikurbanov, who was sentenced to 20 years in prison for helping to organize the killing of Anna Politkovskaya, said he had been pardoned by President Vladimir V. Putin.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -104,35 +116,23 @@ It looks like the airlines are starting to offer much lower airfare prices in an
 <p>We&#39;ll get you through the day, one decision at a time: how to cook the turkey, which sides to serve, what to make ahead and how to end the meal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Toll of Climate Disasters Is Rising. But a U.S. Report Has Good News, Too.</h3>
-<sub>By Raymond Zhong</sub>
-<p>A major government assessment lays out both the far-reaching perils of global warming and the cost-effective fixes that are available today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Facing Financial Ruin as Costs Soar for Elder Care</h3>
+<sub>By Reed Abelson and Jordan Rau</sub>
+<p>The United States has no coherent system for providing long-term care, leading many who are aging to struggle to stay independent or to rely on a patchwork of solutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In a Report Card on Global Warming, Nations Get a Very Poor Grade</h3>
-<sub>By Somini Sengupta</sub>
-<p>Countries are taking “baby steps,” a U.N. official said. In a separate study, Saudi researchers warned of an “existential crisis” for their nation from rising temperatures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>‘I Wish I Had Known That No One Was Going to Help Me’</h3>
+<sub>By Reed Abelson and Jordan Rau</sub>
+<p>Adult children discuss the trials of caring for their aging parents: unreliable agencies, a lack of help and dwindling financial resources.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Arizona, Bad Feelings About the Economy Sour Some Voters on Biden</h3>
-<sub>By Jack Healy</sub>
-<p>The White House has hailed new investments and new jobs, yet many voters in a battleground state are chafing at inflation and housing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What Long-Term Care Looks Like Around the World</h3>
+<sub>By Jordan Rau</sub>
+<p>Most countries spend more than the United States on care, but middle class and affluent people still bear a substantial portion of the costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Campaign Officials Try to Play Down Contentious 2025 Plans</h3>
-<sub>By Maggie Haberman, Jonathan Swan and Charlie Savage</sub>
-<p>But many aspects of those blueprints are based on Donald Trump’s own words, his campaign website and an adviser whom the campaign asked to speak.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Signal Openness to Plan to Avert Shutdown as Republicans Balk</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>The House could take up the proposal as early as Tuesday. With growing opposition from House Republicans, it will need Democrats’ backing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
