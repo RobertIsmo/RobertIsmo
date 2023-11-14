@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-In the world right now, there is a lot of uncertainty and change. The Fed is facing pressure to raise rates after an optimistic inflation report from October was released. Airfares are dropping due to airlines fighting for customers, and more than 400 U.S. officials have signed a letter protesting Biden&#39;s Israel policy. In addition, some Democratic lawmakers have voiced support for Johnson&#39;s plan to avoid a government shutdown, despite his previous comments about Trump being unfit for presidency in 2015. In Ukraine, officials have been indicted for levying efforts against the Bidens. Moreover, refugees returning for medical care could be taking a risky trip home from Russia, and a man convicted of journalist Anna Politkovskaya&#39;s murder was recently pardoned by Putin. Lastly, Americans are struggling with the consequences of aging and rising elder care costs with limited helpful resources available.</p>
+The world is in a rather volatile state right now. In the U.S., there are desperate efforts to evacuate young cancer patients from Gaza. Meanwhile, the U.S. has said Hamas operates within and beneath hospitals, endorsing Israel’s allegations. Inflation reports are affecting the Fed&#39;s decisions on whether or not to raise rates, and airfares have dropped sharply for travelers looking for a break from rising prices. Stocks have rallied since then due to the cooling-than-expected inflation report and Democrats are backing Johnson&#39;s plan to avoid a government shutdown. On top of this, Johnson was apparently against Donald Trump&#39;s presidency in 2015, citing he lacked the character and morality to be President. On Capitol Hill, there are fight clubs erupting and Ukrainian officials have been charged with efforts to investigate the Bidens. Additionally thousands of refugees are leaving Ukraine as they risk a trip home for cheaper health care back home and one of those accused of involvement in a murder case was pardoned after serving his time in Ukraine. Lastly, people aging in the U.S. lack a coherent system for providing long-term care, leading many to struggle financially for eldercare costs.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The U.S. says Hamas operates within and beneath hospitals, endorsing Israel’s allegations.</h3>
+<sub>By Michael D. Shear</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Desperate Effort to Evacuate Young Cancer Patients From Gaza</h3>
+<sub>By Sharon LaFraniere and Erica L. Green</sub>
+<p>A mission to rescue cancer-stricken children from the violence in Gaza has involved multiple countries and last-minute connections in the chaos of war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>An Optimistic Inflation Report Reduces Pressure on the Fed to Raise Rates</h3>
 <sub>By Jeanna Smialek</sub>
@@ -74,10 +86,10 @@ In the world right now, there is a lot of uncertainty and change. The Fed is fac
 <p>Airlines are starting to offer bargain prices, including to popular overseas destinations like Paris, a sign that they are fighting to fill planes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>More Than 400 U.S. Officials Sign Letter Protesting Biden’s Israel Policy</h3>
-<sub>By Maria Abi-Habib, Michael Crowley and Edward Wong</sub>
-<p>The signers, representing some 40 government agencies, reflect growing internal dissent over the administration’s support of Israel’s military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Rally as Inflation Report Cements View the Fed Is Done With Raising Rates</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 was on track for its biggest gain of the year, while shares of smaller companies surged.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,6 +102,12 @@ In the world right now, there is a lot of uncertainty and change. The Fed is fac
 <h3>Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President</h3>
 <sub>By Annie Karni and Steve Eder</sub>
 <p>Speaker Mike Johnson, then a Republican state lawmaker, posted on social media that Donald J. Trump lacked the character and morality to be president and could be vindictive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fight Club Erupts on Capitol Hill</h3>
+<sub>By Robert Jimison</sub>
+<p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +128,10 @@ In the world right now, there is a lot of uncertainty and change. The Fed is fac
 <p>The lawyer of Sergei G. Khadzhikurbanov, who was sentenced to 20 years in prison for helping to organize the killing of Anna Politkovskaya, said he had been pardoned by President Vladimir V. Putin.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>The Ultimate Guide to Thanksgiving</h3>
-<sub>By Tanya Sichynsky, Leo Dominguez and Eden Weingart</sub>
-<p>We&#39;ll get you through the day, one decision at a time: how to cook the turkey, which sides to serve, what to make ahead and how to end the meal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Facing Financial Ruin as Costs Soar for Elder Care</h3>
 <sub>By Reed Abelson and Jordan Rau</sub>
 <p>The United States has no coherent system for providing long-term care, leading many who are aging to struggle to stay independent or to rely on a patchwork of solutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>‘I Wish I Had Known That No One Was Going to Help Me’</h3>
-<sub>By Reed Abelson and Jordan Rau</sub>
-<p>Adult children discuss the trials of caring for their aging parents: unreliable agencies, a lack of help and dwindling financial resources.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What Long-Term Care Looks Like Around the World</h3>
-<sub>By Jordan Rau</sub>
-<p>Most countries spend more than the United States on care, but middle class and affluent people still bear a substantial portion of the costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
