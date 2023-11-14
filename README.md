@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-There is a lot going on the world right now. The US Supreme Court has adopted an ethics code for its justices in response to some questionable deals and gifts being disclosed. Congress has seen some of its aides break with their bosses over their views on the Israel-Hamas war. House Democrats have recently censured one of their members Rashida Tlaib, while in Israel, more than 125,000 people have been evacuated from their communities due to border attacks. In the US, Federal Prosecutors objected to a request from Trump to have an election trial broadcast. Donald Trump Jr. defended his father at court which was found to be inflating their series values. In Britain, Rishi Sunak, Prime Minister attempted a reset by swaying more towards the center politically but chose someone from a troubled past to fill the Foreign Secretary position. Research shows that trees can significantly fight climate change but need other methods to assist it as well. Lastly, Netflix&#39;s show &#39;The Crown&#39; is doing its final season focusing on the beloved Princess Diana&#39;s death in 1997.</p>
+There is a lot going on in the world right now! In the US, Democratic aides in Congress are breaking with their bosses on the Israel-Hamas war, while Democrats and Republicans are trying to reach an agreement to avoid a government shutdown. The Supreme Court has just adopted an ethics code after news of gifts and travel were exposed. Current and former staff members are calling for a cease-fire in the war.            Elsewhere, Donald Trump Jr. was speaking in court about his father&#39;s properties value being inflated, and research is being done on how trees can fight climate change. Meanwhile, Tim Scott&#39;s campaign is struggling due to missteps and a missing billionaire donor, and there is pressure from former president Trump&#39;s &#39;vermin&#39; comment. In Alaska, the homeless crisis has led to an &#39;unimaginable&#39; death toll in Anchorage. Finally, Netflix&#39;s show &#39;The Crown&#39; is entering its most evocative era as it follows Diana&#39;s death in 1997.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Announces Ethics Code for Justices</h3>
+<h3>Democratic Aides in Congress Break With Their Bosses on Israel-Hamas War</h3>
+<sub>By Kayla Guo</sub>
+<p>A wave of current and former staff members, mostly of a younger generation, are agitating for a cease-fire and speaking out against their bosses’ positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Signal Openness to Plan to Avert Shutdown as Republicans Balk</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>The House could take up the proposal as early as Tuesday. With growing opposition from House Republicans, it will need Democrats’ backing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Adopts Ethics Code After Reports of Undisclosed Gifts and Travel</h3>
 <sub>By Abbie VanSickle and Adam Liptak</sub>
-<p>The decision comes after revelations about undisclosed property deals and gifts have intensified pressure on the court to adopt such a code.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The code does not specify how the rules would be enforced or by whom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,24 +93,6 @@ There is a lot going on the world right now. The US Supreme Court has adopted an
 <sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democratic Aides in Congress Break With Their Bosses on Israel-Hamas War</h3>
-<sub>By Kayla Guo</sub>
-<p>A wave of current and former staff members, mostly of a younger generation, are agitating for a cease-fire and speaking out against their bosses’ positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rashida Tlaib, Censured by the House, Is Praised and Condemned at Home</h3>
-<sub>By Charles Homans</sub>
-<p>The Democratic congresswoman from the Detroit area and the only Palestinian-American in the House faces a complicated landscape in her district.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Tourist Hotels, Israeli Evacuees Plan for Long Stays to Escape Border Attacks</h3>
-<sub>By Mark Landler, Adam Goldman and Avishag Shaar-Yashuv</sub>
-<p>More than 125,000 Israeli evacuees have been resettled from their communities along the dangerous borders with Lebanon and Gaza in the largest internal displacement in the country’s history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Prosecutors Object to Trump Request for Broadcast of Election Trial</h3>
 <sub>By Alan Feuer</sub>
 <p>The office of the special counsel said that televising the proceeding would create a “carnival atmosphere” and allow the former president to divert attention from the charges he faces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,22 +104,28 @@ There is a lot going on the world right now. The US Supreme Court has adopted an
 <p>In his second appearance in court, Donald J. Trump’s eldest son testified that the company’s assets were extremely valuable. A judge has found their values were inflated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under Pressure, Britain’s Leader Tries Another Reset With a Swerve to Center</h3>
-<sub>By Stephen Castle</sub>
-<p>After more than a year as prime minister, Rishi Sunak, a Conservative, has failed to close a yawning gap in the polls. On Monday he did something new.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Change-Oriented Prime Minister Chooses a Link to a Troubled Past</h3>
-<sub>By Mark Landler</sub>
-<p>Prime Minister Rishi Sunak, who has presented himself as a change agent, chose a predecessor, David Cameron, as his foreign secretary. But Mr. Cameron comes with political baggage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How Much Can Trees Fight Climate Change? Massively, but Not Alone, Study Finds.</h3>
 <sub>By Catrin Einhorn</sub>
 <p>The research, which comes with important caveats, was partly an effort to address the scientific uproar surrounding an earlier paper.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tim Scott’s Campaign Collapse: Debate Flops, Mistrust and an AWOL Billionaire</h3>
+<sub>By Shane Goldmacher and Maya King</sub>
+<p>Externally, Mr. Scott’s brand of relentless optimism never found traction. Internally, his campaign was plagued by missteps, and a huge sum expected from a key donor never materialized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Calling Foes ‘Vermin,’ Trump Campaign Warns Its Critics Will Be ‘Crushed’</h3>
+<sub>By Michael Gold</sub>
+<p>The former president’s Veterans Day speech used language similar to the dehumanizing rhetoric wielded by dictators like Hitler and Mussolini.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An ‘Unimaginable’ Death Toll Among Anchorage’s Homeless Residents</h3>
+<sub>By Mike Baker</sub>
+<p>With hundreds living outdoors and temperatures plummeting, Alaska’s largest city is struggling to halt a rising death toll among homeless residents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
