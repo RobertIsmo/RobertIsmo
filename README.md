@@ -60,78 +60,78 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-Right now, there is a lot of political turmoil in the US. Democratic aides in Congress are breaking with their bosses on the Israel-Hamas war, and even President Trump&#39;s own advisors and staff have spoken out against him during his final days in office. There is hope of avoiding a government shutdown soon, but not without both Republicans and Democrats alike backing the proposal, while House Republicans have blocked a vote to impeach Homeland Security Secretary Mayorkas despite some GOP votes for it. The Supreme Court has adopted an ethics code in the wake of reports about undisclosed gifts and travel to certain justices. Trump&#39;s legal team is objecting to broadcasting his trial, while his son Donald Trump Jr. testified that company assets were vastly undervalued though a judge ruled otherwise. Netflix has released the final season of &quot;The Crown,&quot; which touches on Princess Diana&#39;s death in 1997. Anchorage is dealing with unprecedented death tolls among its homeless population due to colder weather and political inaction. Finally, a new report stated that planting more trees could have a significant effect on reducing climate change, although more work needs to be done.</p>
+There is a lot happening in the world right now! The U.S. is managing expectations of a breakthrough before Biden and Xi Jinping meet at the Asia-Pacific Economic Cooperation summit, after tensions had been bubbling between them for the last year. There is also a decline in economic integration between China and the U.S., along with over 400 U.S. officials who signed a letter protesting Biden&#39;s Israel policy. Jewish groups are rallying for Israel on the National Mall, and Israeli farmers are calling for volunteers due to a hard-hit from the loss of Thai and Palestinian workers. Airfares are sharply dropping, which is amazing news for inflation-weary travelers. We are also getting closer to Thanksgiving, and there&#39;s yet another report on climate change giving us insight into the terrible effects it&#39;s having across the U.S. as well as potential solutions we can reach for! Lastly, in Arizona some voters are souring on Biden due to feeling bad about how the economy is doing, while Trump campaign officials are trying to play down contentious 2025 plans even though they&#39;re based off Trump&#39;s own words. And Democrats might try to pass a plan to avert a shutdown, as long as Republicans cooperate. Phew!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democratic Aides in Congress Break With Their Bosses on Israel-Hamas War</h3>
-<sub>By Kayla Guo</sub>
-<p>A wave of current and former staff members, mostly of a younger generation, are agitating for a cease-fire and speaking out against their bosses’ positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>U.S. Manages Expectations of a Breakthrough Before Biden and Xi Meet</h3>
+<sub>By Katie Rogers and David E. Sanger</sub>
+<p>President Biden and President Xi Jinping of China will try to defuse a year of bubbling tensions on Wednesday at the Asia-Pacific Economic Cooperation summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Rise and Fall of the World’s Most Successful Joint Venture</h3>
+<sub>By Peter S. Goodman</sub>
+<p>China and the U.S. both gained from their economic integration. As they pull apart, each is finding it will be hard to fully replace the other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>More Than 400 U.S. Officials Sign Letter Protesting Biden’s Israel Policy</h3>
+<sub>By Maria Abi-Habib, Michael Crowley and Edward Wong</sub>
+<p>The signers, representing some 40 government agencies, reflect growing internal dissent over the administration’s support of Israel’s military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jewish Groups to Rally for Israel on National Mall</h3>
+<sub>By Campbell Robertson</sub>
+<p>Educators, artists, students and relatives of some of the hundreds of hostages seized by Hamas are scheduled to appear, along with top U.S. lawmakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hard Hit by Loss of Thai and Palestinian Workers, Israeli Farmers Call for Volunteers</h3>
+<sub>By Miriam Jordan</sub>
+<p>After the Oct. 7 terror attack, Israel banned Gazan farm workers, and many other foreign laborers returned to their home countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Growing Dissent Against Biden’s Israel Policy, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, an ethics code for the Supreme Court and a new report on climate change.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sharp Drop in Airfares Cheers Inflation-Weary Travelers</h3>
+<sub>By Niraj Chokshi</sub>
+<p>Airlines are starting to offer bargain prices, including to popular overseas destinations like Paris, a sign that they are fighting to fill planes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>The Ultimate Guide to Thanksgiving</h3>
+<sub>By Tanya Sichynsky, Leo Dominguez and Eden Weingart</sub>
+<p>We&#39;ll get you through the day, one decision at a time: how to cook the turkey, which sides to serve, what to make ahead and how to end the meal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Change’s Effects Are Worsening Across U.S., but Solutions Are in Reach</h3>
+<sub>By Raymond Zhong</sub>
+<p>A major report from the federal government lays out both the far-reaching perils of global warming and the cost-effective fixes that are available today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Arizona, Bad Feelings About the Economy Sour Some Voters on Biden</h3>
+<sub>By Jack Healy</sub>
+<p>The White House has hailed new investments and new jobs, yet many voters in a battleground state are chafing at inflation and housing costs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Campaign Officials Try to Play Down Contentious 2025 Plans</h3>
+<sub>By Maggie Haberman, Jonathan Swan and Charlie Savage</sub>
+<p>But many aspects of those blueprints are based on Donald Trump’s own words, his campaign website and an adviser whom the campaign asked to speak.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats Signal Openness to Plan to Avert Shutdown as Republicans Balk</h3>
 <sub>By Carl Hulse and Catie Edmondson</sub>
 <p>The House could take up the proposal as early as Tuesday. With growing opposition from House Republicans, it will need Democrats’ backing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Blocks Snap Mayorkas Impeachment Vote as Inquiry Continues</h3>
-<sub>By Luke Broadwater</sub>
-<p>A small group of Republicans joined Democrats in voting to defeat a motion by Representative Marjorie Taylor Greene of Georgia to immediately impeach the homeland security secretary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Adopts Ethics Code After Reports of Undisclosed Gifts and Travel</h3>
-<sub>By Abbie VanSickle and Adam Liptak</sub>
-<p>The code does not specify how the rules would be enforced or by whom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lawyer Says Trump Aide Told Her After 2020 Election: ‘The Boss Is Not Going to Leave’</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>The revelation came in a statement that the lawyer, Jenna Ellis, gave to prosecutors in Fulton County, Ga., after she pleaded guilty in the election interference case there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Prosecutors Object to Trump Request for Broadcast of Election Trial</h3>
-<sub>By Alan Feuer</sub>
-<p>The office of the special counsel said that televising the proceeding would create a “carnival atmosphere” and allow the former president to divert attention from the charges he faces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Donald Trump Jr. Says Family Properties Show His Father’s Brilliance</h3>
-<sub>By Jonah E. Bromwich, Ben Protess and Kate Christobek</sub>
-<p>In his second appearance in court, Donald J. Trump’s eldest son testified that the company’s assets were extremely valuable. A judge has found their values were inflated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>With Diana’s Death, ‘The Crown’ Enters Its Most Evocative Era</h3>
-<sub>By Sarah Lyall</sub>
-<p>The final season of Netflix’s royal drama opens in 1997, on the cusp of one of the most analyzed periods in recent British history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An ‘Unimaginable’ Death Toll Among Anchorage’s Homeless Residents</h3>
-<sub>By Mike Baker</sub>
-<p>With hundreds living outdoors and temperatures plummeting, Alaska’s largest city is struggling to halt a rising death toll among homeless residents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tim Scott’s Campaign Collapse: Debate Flops, Mistrust and an AWOL Billionaire</h3>
-<sub>By Shane Goldmacher and Maya King</sub>
-<p>Externally, Mr. Scott’s brand of relentless optimism never found traction. Internally, his campaign was plagued by missteps, and a huge sum expected from a key donor never materialized.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Calling Foes ‘Vermin,’ Trump Campaign Warns Its Critics Will Be ‘Crushed’</h3>
-<sub>By Michael Gold</sub>
-<p>The former president’s Veterans Day speech used language similar to the dehumanizing rhetoric wielded by dictators like Hitler and Mussolini.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Much Can Trees Fight Climate Change? Massively, but Not Alone, Study Finds.</h3>
-<sub>By Catrin Einhorn</sub>
-<p>The research, which comes with important caveats, was partly an effort to address the scientific uproar surrounding an earlier paper.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
