@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 13, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In the US, Democratic aides in Congress are breaking with their bosses on the Israel-Hamas war, while Democrats and Republicans are trying to reach an agreement to avoid a government shutdown. The Supreme Court has just adopted an ethics code after news of gifts and travel were exposed. Current and former staff members are calling for a cease-fire in the war.            Elsewhere, Donald Trump Jr. was speaking in court about his father&#39;s properties value being inflated, and research is being done on how trees can fight climate change. Meanwhile, Tim Scott&#39;s campaign is struggling due to missteps and a missing billionaire donor, and there is pressure from former president Trump&#39;s &#39;vermin&#39; comment. In Alaska, the homeless crisis has led to an &#39;unimaginable&#39; death toll in Anchorage. Finally, Netflix&#39;s show &#39;The Crown&#39; is entering its most evocative era as it follows Diana&#39;s death in 1997.</p>
+There is a lot going on in the world right now. In the US, Democratic aides in Congress are breaking with their bosses on the Israel-Hamas war and are agitating for a cease-fire. Meanwhile, House Democrats and Republicans seem to be open to a plan to avert a government shutdown, but the vote was blocked after an attempt to immediately impeach Homeland Security Secretary Alejandro Mayorkas failed. The Supreme Court has also adopted an ethics code that does not specify how it will be enforced or by whom. 
+
+Donald Trump&#39;s former aide has revealed that shortly after the 2020 election, Donald told her that he was not going to leave office. On top of this, federal prosecutors have objected to Trump&#39;s request for his election trial be broadcasted on television. 
+
+Donald Trump Jr., the former president&#39;s son, testified in court that Trump family properties show his father&#39;s brilliance, but a judge found their values were inflated. Netflix&#39;s royal drama, The Crown, is currently entering its final season which focuses on Diana&#39;s death and subsequent events in British history. 
+
+In Anchorage, Alaska the temperature is plummeting, and homelessness is causing an &#39;unimaginable&#39; death toll among homeless residents. Tim Scott&#39;s campaign for office has collapsed due to debate flops, mistrust and an AWOL billionaire donor. Lastly, Donald Trump recently used language similar to those dictators like Hitler and Mussolini have used while speaking at a Veterans Day speech - telling his opponents they would be &quot;crushed&quot;. 
+
+Lastly, scientists have reported on climate change research saying that while trees can massively help fight climate change, they cannot do it alone.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democratic Aides in Congress Break With Their Bosses on Israel-Hamas War</h3>
@@ -75,22 +83,22 @@ There is a lot going on in the world right now! In the US, Democratic aides in C
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Blocks Snap Mayorkas Impeachment Vote as Inquiry Continues</h3>
+<sub>By Luke Broadwater</sub>
+<p>A small group of Republicans joined Democrats in voting to defeat a motion by Representative Marjorie Taylor Greene of Georgia to immediately impeach the homeland security secretary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Adopts Ethics Code After Reports of Undisclosed Gifts and Travel</h3>
 <sub>By Abbie VanSickle and Adam Liptak</sub>
 <p>The code does not specify how the rules would be enforced or by whom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Supreme Court’s Ethics Rules</h3>
-<sub></sub>
-<p>The Supreme Court announced on Monday that it had issued an ethics code for the justices after a series of revelations about undisclosed property deals and gifts intensified pressure on the court to adopt one. Here are the ethics rules.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Lawyer Says Trump Aide Told Her After 2020 Election: ‘The Boss Is Not Going to Leave’</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>The revelation came in a statement that the lawyer, Jenna Ellis, gave to prosecutors in Fulton County, Ga., after she pleaded guilty in the election interference case there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clarence Thomas’s $267,230 R.V. and the Friend Who Financed It</h3>
-<sub>By Jo Becker and Julie Tate</sub>
-<p>The vehicle is a key part of the justice’s just-folks persona. It’s also a luxury motor coach that was funded by someone else’s money.  <a href="https://nyti.ms/47lDJn9"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, August 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Prosecutors Object to Trump Request for Broadcast of Election Trial</h3>
@@ -104,10 +112,16 @@ There is a lot going on in the world right now! In the US, Democratic aides in C
 <p>In his second appearance in court, Donald J. Trump’s eldest son testified that the company’s assets were extremely valuable. A judge has found their values were inflated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Much Can Trees Fight Climate Change? Massively, but Not Alone, Study Finds.</h3>
-<sub>By Catrin Einhorn</sub>
-<p>The research, which comes with important caveats, was partly an effort to address the scientific uproar surrounding an earlier paper.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>With Diana’s Death, ‘The Crown’ Enters Its Most Evocative Era</h3>
+<sub>By Sarah Lyall</sub>
+<p>The final season of Netflix’s royal drama opens in 1997, on the cusp of one of the most analyzed periods in recent British history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An ‘Unimaginable’ Death Toll Among Anchorage’s Homeless Residents</h3>
+<sub>By Mike Baker</sub>
+<p>With hundreds living outdoors and temperatures plummeting, Alaska’s largest city is struggling to halt a rising death toll among homeless residents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +136,10 @@ There is a lot going on in the world right now! In the US, Democratic aides in C
 <p>The former president’s Veterans Day speech used language similar to the dehumanizing rhetoric wielded by dictators like Hitler and Mussolini.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An ‘Unimaginable’ Death Toll Among Anchorage’s Homeless Residents</h3>
-<sub>By Mike Baker</sub>
-<p>With hundreds living outdoors and temperatures plummeting, Alaska’s largest city is struggling to halt a rising death toll among homeless residents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>With Diana’s Death, ‘The Crown’ Enters Its Most Evocative Era</h3>
-<sub>By Sarah Lyall</sub>
-<p>The final season of Netflix’s royal drama opens in 1997, on the cusp of one of the most analyzed periods in recent British history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Much Can Trees Fight Climate Change? Massively, but Not Alone, Study Finds.</h3>
+<sub>By Catrin Einhorn</sub>
+<p>The research, which comes with important caveats, was partly an effort to address the scientific uproar surrounding an earlier paper.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
