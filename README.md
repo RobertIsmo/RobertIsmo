@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-Right now, the global news is very intense! In Gaza, a hospital is running out of resources and there is increasing rhetoric about erasing Gaza and causing harm to civilians. In the U.S., Biden and Xi Jinping are meeting to discuss climate change, while President Biden faces Speaker Mike Johnson in his first confrontation. Additionally, Trump and his allies are working towards an agenda should he gain a second term. Elsewhere, FIFA&#39;s president has been quietly steering the World Cup to Saudi Arabia. On the brighter side, residents in Kyiv have been experiencing a respite from bombing.</p>
+There is currently some turmoil in the world. In Gaza, there is chaos in a hospital as resources are running low and Israel is unleashing incendiary rhetoric against the region. Meanwhile, Biden and Xi Jinping are meeting to work on climate change, specifically increasing renewable energies and avoiding spiraling conflict. In the U.S., the current buzz surrounds a showdown between House Speaker Mike Johnson and a battle he had with an abortion clinic, and there&#39;s talk of plans for a potential second Trump presidency. Lastly, thieves are targeting catalytic converters for their metals for recycling, while Ukrainians in Kyiv are experiencing an unusually long lull of bombing that has left them feeling more rested.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What One Photo Shows About a Gaza Hospital in Chaos</h3>
@@ -71,7 +71,7 @@ Right now, the global news is very intense! In Gaza, a hospital is running out o
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Erase Gaza’: War Unleashes Incendiary Rhetoric in Israel</h3>
 <sub>By Mark Landler</sub>
-<p>Experts say that inflammatory statements by prominent Israelis are normalizing once-taboo ideas such as the killing of civilians and mass deportations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Experts say that inflammatory statements by prominent Israelis are normalizing ideas like the killing of civilians and mass deportations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
