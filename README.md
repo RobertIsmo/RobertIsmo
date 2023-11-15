@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-There is currently some turmoil in the world. In Gaza, there is chaos in a hospital as resources are running low and Israel is unleashing incendiary rhetoric against the region. Meanwhile, Biden and Xi Jinping are meeting to work on climate change, specifically increasing renewable energies and avoiding spiraling conflict. In the U.S., the current buzz surrounds a showdown between House Speaker Mike Johnson and a battle he had with an abortion clinic, and there&#39;s talk of plans for a potential second Trump presidency. Lastly, thieves are targeting catalytic converters for their metals for recycling, while Ukrainians in Kyiv are experiencing an unusually long lull of bombing that has left them feeling more rested.</p>
+Right now, there is escalating conflict between Israel and Gaza, with hate speech and violence spiking across the internet. There are dire reports coming from Gaza about the situation in hospitals due to shortages of essential materials. In Israel, the war has resulted in dangerous rhetoric making inflammatory statements about the killings of civilians and mass deportations seem more normal. In the US, there is division and power struggles over fiscal issues, as well as a long-running abortion case that had significant repercussions in conservative politics and affected who was appointed speaker of the house. Meanwhile, the US and China have just agreed on ramping up use of renewables in order to displace fossil fuels, giving hope that it could lead to greater international environmental action. Finally, there is a variety of stories emerging involving international players; FIFA guided the World Cup to Saudi Arabia, thieves are stealing catalytic converters across the US that often end up overseas, and a major merger has put a cable executive in charge of Hollywood&#39;s largest studio.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Antisemitic and Anti-Muslim Hate Speech Surges Across the Internet</h3>
+<sub>By Sheera Frenkel and Steven Lee Myers</sub>
+<p>Fueled by the conflict between Israel and Gaza and stoked by extremists, hate speech has spiked on social media platforms such as X, Facebook and Instagram, researchers said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What One Photo Shows About a Gaza Hospital in Chaos</h3>
 <sub>By Samar Abu Elouf</sub>
@@ -72,12 +78,6 @@ There is currently some turmoil in the world. In Gaza, there is chaos in a hospi
 <h3>‘Erase Gaza’: War Unleashes Incendiary Rhetoric in Israel</h3>
 <sub>By Mark Landler</sub>
 <p>Experts say that inflammatory statements by prominent Israelis are normalizing ideas like the killing of civilians and mass deportations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israeli Troops Enter Gaza Hospital, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Biden and Xi Jinping prepare to meet and the House passes a plan to avoid a shutdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,8 +98,20 @@ There is currently some turmoil in the world. In Gaza, there is chaos in a hospi
 <p>The climate agreement between the two countries is seen as a bright spot as President Biden prepares to meet President Xi Jinping.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>What a U.S.-China Climate Deal Means for COP28</h3>
+<sub>By David Gelles</sub>
+<p>It could deliver a jolt of ambition ahead of the global talks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. to Press China to Stop Flow of Fentanyl</h3>
+<sub>By Ana Swanson and Keith Bradsher</sub>
+<p>President Biden will put pressure on Xi Jinping to crack down on the Chinese facilities that make chemical compounds used in potent drugs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Goal in Meeting With Xi: Avoid a Spiraling Conflict</h3>
+<h3>Here’s the latest on the meeting.</h3>
 <sub>By David E. Sanger and Katie Rogers</sub>
 <p>Hints of how the two leaders will try to nudge toward agreements on some issues have emerged, even as officials have tried to lower expectations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
@@ -116,23 +128,11 @@ There is currently some turmoil in the world. In Gaza, there is chaos in a hospi
 <p>FIFA’s president, Gianni Infantino, cheered a plan to take soccer’s richest event to the kingdom. He has said little about his years of work to make that happen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wary Kyiv Residents Rediscover the Joys of a Good Night’s Sleep</h3>
-<sub>By Constant Méheut and Daria Mitiuk</sub>
-<p>An unusually long lull in Russian bombing has left people in the Ukrainian capital feeling well-rested, healthier and more productive, at least for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>How David Zaslav Blew Up Hollywood</h3>
+<sub>By Jonathan Mahler, James B. Stewart and Benjamin Mullin</sub>
+<p>A merger put him in the driver’s seat at Warner Brothers, one of the industry’s biggest studios. It has been a wild ride.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump and His Allies Plan to Wield Power in 2025</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
-<p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Trump Seems Less Vulnerable on Abortion Than Other Republicans</h3>
-<sub>By Ruth Igielnik</sub>
-<p>He appointed judges who overturned Roe, but his vague statements on the issue may give him some leeway with voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
