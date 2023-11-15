@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, November 14, Central Standard Time</p>
+<p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Gaza, evidence is pointing to Israeli shells being fired at the largest hospital there. Meanwhile, the UN agency that helps Palestinian refugees is struggling to provide aid after 102 workers were killed. 
-
-In the US, the House has passed a plan to avert a government shutdown with bipartisan support. Speaker Mike Johnson was involved in a big showdown and yielded his stance on fiscal conservatism for the sake of avoiding a shutdown. There was also some drama on Capitol Hill, with tempers flaring as the government shutdown deadline approached. Donald Trump has gotten a victory in Michigan when a judge ruled he can stay on the GOP primary ballot. A prosecutor in Georgia has said they expect Trump&#39;s criminal case to be stretched into 2025 while federal prosecutors are trying to pursue a gag order on him regarding his trial over allegedly trying to overturn an election result. 
-
-Climate change is having serious repercussions with experts warning of increased health risks around the world linked to it. In New York, Eric Adams is facing an FBI investigation due to his travel and donations related to Turkey and his meeting with President Erdogan. George Santos&#39;s campaign aide Samuel Miele has also plead guilty to wire fraud and the Supreme Court recently released an ethics code which experts think is toothless due to lack of enforcement mechanisms and judicial review of themselves by individual justices.</p>
+There is a lot happening in the world right now. In the Middle East, there is evidence that shows Israel was responsible for the recent strikes on Gaza’s largest hospital, and the U.N. agency providing aid in Gaza is struggling after 102 of its workers were killed. Here in the US, the House recently passed a bill to avert a government shutdown and avoid confrontation with conservatives. Meanwhile, fight club has broken out on Capitol Hill as tempers have flared ahead of the deadline. There&#39;s also been a historic climate agreement between the US and China to reduce emissions by expanding renewable energy sources, but experts are concerned that health risks linked to climate change are already getting worse. On top of all that, Trump was recently victorious in Michigan in terms of being allowed to stay on the GOP primary ballot, while federal prosecutors seek a gag order on him for his trial involving overturning the 2020 election—which could stretch until 2025 according to one prosecutor. Finally, there&#39;s an FBI investigation underway into New York Mayor Eric Adams&#39; relationship with Turkey and connections with Turkish Community—and here at home, Supreme Court appointed an ethics code that experts say is too toothless to be effective.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Evidence Points to Israeli Shells in Strikes on Gaza’s Largest Hospital</h3>
@@ -96,6 +92,18 @@ Climate change is having serious repercussions with experts warning of increased
 <p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>U.S. and China Agree to Displace Fossil Fuels by Ramping Up Renewables</h3>
+<sub>By Lisa Friedman</sub>
+<p>The climate agreement between the two countries is seen as a bright spot as President Biden prepares to meet President Xi Jinping.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Health Risks Linked to Climate Change Are Getting Worse, Experts Warn</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>The 8th update to a major international report shows more people are getting sick and dying from extreme heat, drought and other climate problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Can Stay on G.O.P. Primary Ballot in Michigan, Judge Rules</h3>
 <sub>By Chris Cameron</sub>
@@ -114,12 +122,6 @@ Climate change is having serious repercussions with experts warning of increased
 <p>The filing was the latest volley in the fight over whether the former president should be limited in what he can say about his trial on charges of seeking to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Health Risks Linked to Climate Change Are Getting Worse, Experts Warn</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>The 8th update to a major international report shows more people are getting sick and dying from extreme heat, drought and other climate problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Eric Adams’s Turkey Ties: Travel, Donations and a Meeting With Erdogan</h3>
 <sub>By Emma G. Fitzsimmons</sub>
@@ -130,12 +132,6 @@ Climate change is having serious repercussions with experts warning of increased
 <h3>Supreme Court’s New Ethics Code Is Toothless, Experts Say</h3>
 <sub>By Adam Liptak</sub>
 <p>The code of conduct issued on Monday, following reports of undisclosed travel and gifts, includes no enforcement mechanism and lets individual justices decide ethics questions for themselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos’s Campaign Aide Pleads Guilty to Wire Fraud</h3>
-<sub>By Grace Ashford and Nate Schweber</sub>
-<p>Samuel Miele is the second person who worked on Representative George Santos’s House election campaigns to plead guilty to federal charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
