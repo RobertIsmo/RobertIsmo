@@ -60,26 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-In the US, Congress recently passed a plan to avert a government shutdown in a bipartisan vote. However, there has been some fighting on Capitol Hill as tempers flare ahead of the holiday break. Additionally, former US President Donald Trump is facing renewed legal scrutiny for things like seeking to overturn the 2020 election. In other news, evidence is pointing towards Israeli shelling in a recent strike on one of Gaza&#39;s largest hospitals, and three Ukrainian officials were indicted related to efforts to investigate the Bidens. There have also been stock market rallies as inflation data cements the idea that the Federal Reserve is done raising rates. Lastly, Russian President Vladimir Putin recently pardoned a convict who was sentenced for organizing the murder of a journalist.</p>
+There is a lot happening in the world right now. In Gaza, evidence is pointing to Israeli shells being fired at the largest hospital there. Meanwhile, the UN agency that helps Palestinian refugees is struggling to provide aid after 102 workers were killed. 
+
+In the US, the House has passed a plan to avert a government shutdown with bipartisan support. Speaker Mike Johnson was involved in a big showdown and yielded his stance on fiscal conservatism for the sake of avoiding a shutdown. There was also some drama on Capitol Hill, with tempers flaring as the government shutdown deadline approached. Donald Trump has gotten a victory in Michigan when a judge ruled he can stay on the GOP primary ballot. A prosecutor in Georgia has said they expect Trump&#39;s criminal case to be stretched into 2025 while federal prosecutors are trying to pursue a gag order on him regarding his trial over allegedly trying to overturn an election result. 
+
+Climate change is having serious repercussions with experts warning of increased health risks around the world linked to it. In New York, Eric Adams is facing an FBI investigation due to his travel and donations related to Turkey and his meeting with President Erdogan. George Santos&#39;s campaign aide Samuel Miele has also plead guilty to wire fraud and the Supreme Court recently released an ethics code which experts think is toothless due to lack of enforcement mechanisms and judicial review of themselves by individual justices.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Passes Johnson’s Plan to Avert Shutdown in Bipartisan Vote</h3>
-<sub>By Catie Edmondson</sub>
-<p>With many Republicans refusing to back more government spending, Democrats supplied the bulk of the votes to extend federal funding through early 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fight Club Erupts on Capitol Hill</h3>
-<sub>By Robert Jimison</sub>
-<p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President</h3>
-<sub>By Annie Karni and Steve Eder</sub>
-<p>Speaker Mike Johnson, then a Republican state lawmaker, posted on social media that Donald J. Trump lacked the character and morality to be president and could be vindictive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Evidence Points to Israeli Shells in Strikes on Gaza’s Largest Hospital</h3>
 <sub>By Malachy Browne and Neil Collier</sub>
@@ -92,28 +78,22 @@ In the US, Congress recently passed a plan to avert a government shutdown in a b
 <p>Even before the war, the U.N. agency that helps Palestinian refugees was struggling financially. Now, it faces an even bigger crisis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>An Optimistic Inflation Report Reduces Pressure on the Fed to Raise Rates</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers have been debating whether a final rate move is needed. A cooler-than-expected October inflation report may take the heat off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Passes Johnson’s Plan to Avert Shutdown in Bipartisan Vote</h3>
+<sub>By Catie Edmondson</sub>
+<p>With many Republicans refusing to back more government spending, Democrats supplied the bulk of the votes for the speaker’s bill to extend federal funding through early 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Rally as Inflation Data Cements View the Fed Is Done Raising Rates</h3>
-<sub>By Joe Rennison</sub>
-<p>Shares of smaller companies surged as yields on government bonds tumbled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In His First Big Showdown, an Unyielding Conservative Yields</h3>
+<sub>By Carl Hulse</sub>
+<p>Speaker Mike Johnson chose avoiding a shutdown over a fiscal confrontation that Representative Mike Johnson might have welcomed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Indicts Officials Linked to Efforts to Investigate the Bidens</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>Three officials were accused of operating at the behest of Russian intelligence when they aligned with efforts by Rudolph W. Giuliani to tie the Biden family to corruption in Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Man Convicted in Russian Journalist’s Murder Is Pardoned After Serving in Ukraine</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The lawyer of Sergei G. Khadzhikurbanov, who was sentenced to 20 years in prison for helping to organize the killing of Anna Politkovskaya, said he had been pardoned by President Vladimir V. Putin.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fight Club Erupts on Capitol Hill</h3>
+<sub>By Robert Jimison</sub>
+<p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +112,30 @@ In the US, Congress recently passed a plan to avert a government shutdown in a b
 <h3>Federal Prosecutors Make Their Case for Gag Order on Trump</h3>
 <sub>By Alan Feuer</sub>
 <p>The filing was the latest volley in the fight over whether the former president should be limited in what he can say about his trial on charges of seeking to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Health Risks Linked to Climate Change Are Getting Worse, Experts Warn</h3>
+<sub>By Delger Erdenesanaa</sub>
+<p>The 8th update to a major international report shows more people are getting sick and dying from extreme heat, drought and other climate problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Eric Adams’s Turkey Ties: Travel, Donations and a Meeting With Erdogan</h3>
+<sub>By Emma G. Fitzsimmons</sub>
+<p>Eric Adams, who says he has visited Turkey at least six times, has longstanding ties to the Turkish community. The F.B.I. is now investigating those connections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court’s New Ethics Code Is Toothless, Experts Say</h3>
+<sub>By Adam Liptak</sub>
+<p>The code of conduct issued on Monday, following reports of undisclosed travel and gifts, includes no enforcement mechanism and lets individual justices decide ethics questions for themselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos’s Campaign Aide Pleads Guilty to Wire Fraud</h3>
+<sub>By Grace Ashford and Nate Schweber</sub>
+<p>Samuel Miele is the second person who worked on Representative George Santos’s House election campaigns to plead guilty to federal charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
