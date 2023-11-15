@@ -60,26 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Gaza, evidence points to Israeli forces being responsible for an attack on one of the largest hospitals in the area. Meanwhile, The UN agency providing aid to Palestinian refugees has suffered 102 worker casualties. In the US, House representatives recently passed a plan to avoid a government shutdown before Thanksgiving and there have been several fights breaking out in Congress. The US and China made an agreement to reduce fossil fuel usage in favor of renewable energy, and climate change scientists are warning of health risks that are getting worse due to global warming. 
-Former President Donald Trump is currently fighting for eligibility to be on the ballot for the GOP primaries in Michigan and has been issued a gag order by federal prosecutors in light of ongoing legal scrutiny. New York&#39;s mayor Eric Adams is also under investigation by the FBI due to his financial ties with Turkey. Finally, there was a new Supreme Court code of ethics issued which experts say lacks proper enforcement. </p>
+Right now, the global news is very intense! In Gaza, a hospital is running out of resources and there is increasing rhetoric about erasing Gaza and causing harm to civilians. In the U.S., Biden and Xi Jinping are meeting to discuss climate change, while President Biden faces Speaker Mike Johnson in his first confrontation. Additionally, Trump and his allies are working towards an agenda should he gain a second term. Elsewhere, FIFA&#39;s president has been quietly steering the World Cup to Saudi Arabia. On the brighter side, residents in Kyiv have been experiencing a respite from bombing.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Evidence Points to Israeli Shells in Strikes on Gaza’s Largest Hospital</h3>
-<sub>By Malachy Browne and Neil Collier</sub>
-<p>Israel said Palestinian militants had misfired projectiles, but an analysis of photos and videos of Friday’s strikes shows that some of the munitions were likely fired by Israeli forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<h3>What One Photo Shows About a Gaza Hospital in Chaos</h3>
+<sub>By Samar Abu Elouf</sub>
+<p>A single photograph captures the horror of a hospital in Gaza that is running out of everything but patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With 102 Workers Killed, U.N. Agency in Gaza Struggles to Provide Aid</h3>
-<sub>By Ben Hubbard</sub>
-<p>Even before the war, the U.N. agency that helps Palestinian refugees was struggling financially. Now, it faces an even bigger crisis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<h3>‘Erase Gaza’: War Unleashes Incendiary Rhetoric in Israel</h3>
+<sub>By Mark Landler</sub>
+<p>Experts say that inflammatory statements by prominent Israelis are normalizing once-taboo ideas such as the killing of civilians and mass deportations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Passes Johnson’s Plan to Avert Shutdown in Bipartisan Vote</h3>
-<sub>By Catie Edmondson</sub>
-<p>With many Republicans refusing to back more government spending, Democrats supplied the bulk of the votes for the speaker’s bill to extend federal funding through early 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israeli Troops Enter Gaza Hospital, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Biden and Xi Jinping prepare to meet and the House passes a plan to avoid a shutdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In His First Big Showdown, an Unyielding Conservative Yields</h3>
@@ -88,9 +87,9 @@ Former President Donald Trump is currently fighting for eligibility to be on the
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fight Club Erupts on Capitol Hill</h3>
-<sub>By Robert Jimison</sub>
-<p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How an Abortion Case Shaped Mike Johnson’s Path to the Speakership</h3>
+<sub>By Nicholas Confessore, Steve Eder and Julie Tate</sub>
+<p>Battling a Louisiana abortion clinic was a career-making move for a young lawyer with conservative bona fides. And it was only the beginning.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -99,40 +98,40 @@ Former President Donald Trump is currently fighting for eligibility to be on the
 <p>The climate agreement between the two countries is seen as a bright spot as President Biden prepares to meet President Xi Jinping.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Health Risks Linked to Climate Change Are Getting Worse, Experts Warn</h3>
-<sub>By Delger Erdenesanaa</sub>
-<p>The 8th update to a major international report shows more people are getting sick and dying from extreme heat, drought and other climate problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Goal in Meeting With Xi: Avoid a Spiraling Conflict</h3>
+<sub>By David E. Sanger and Katie Rogers</sub>
+<p>Hints of how the two leaders will try to nudge toward agreements on some issues have emerged, even as officials have tried to lower expectations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Can Stay on G.O.P. Primary Ballot in Michigan, Judge Rules</h3>
-<sub>By Chris Cameron</sub>
-<p>The ruling notches a preliminary victory for Donald Trump in a nationwide battle over his eligibility to run for president again, even as he faces a wave of legal scrutiny in other cases.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>So Thieves Nabbed Your Catalytic Converter. Here’s Where It Ended Up.</h3>
+<sub>By Walt Bogdanich, Isak Hüllert and Eli Tan</sub>
+<p>The pollution control devices contain valuable metals, making them a hot commodity for recycling. Some beneficiaries of the thefts look the other way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Inside Man: How FIFA Guided the World Cup to Saudi Arabia</h3>
+<sub>By Tariq Panja</sub>
+<p>FIFA’s president, Gianni Infantino, cheered a plan to take soccer’s richest event to the kingdom. He has said little about his years of work to make that happen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Wary Kyiv Residents Rediscover the Joys of a Good Night’s Sleep</h3>
+<sub>By Constant Méheut and Daria Mitiuk</sub>
+<p>An unusually long lull in Russian bombing has left people in the Ukrainian capital feeling well-rested, healthier and more productive, at least for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Prosecutor Sees Trump Case Stretching Into 2025</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>As the prosecutor, Fani T. Willis, discussed the case at a conference, her office sought an emergency protective order to prevent more leaks of discovery materials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<h3>How Trump and His Allies Plan to Wield Power in 2025</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
+<p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Prosecutors Make Their Case for Gag Order on Trump</h3>
-<sub>By Alan Feuer</sub>
-<p>The filing was the latest volley in the fight over whether the former president should be limited in what he can say about his trial on charges of seeking to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Eric Adams’s Turkey Ties: Travel, Donations and a Meeting With Erdogan</h3>
-<sub>By Emma G. Fitzsimmons</sub>
-<p>Eric Adams, who says he has visited Turkey at least six times, has longstanding ties to the Turkish community. The F.B.I. is now investigating those connections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court’s New Ethics Code Is Toothless, Experts Say</h3>
-<sub>By Adam Liptak</sub>
-<p>The code of conduct issued on Monday, following reports of undisclosed travel and gifts, includes no enforcement mechanism and lets individual justices decide ethics questions for themselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Trump Seems Less Vulnerable on Abortion Than Other Republicans</h3>
+<sub>By Ruth Igielnik</sub>
+<p>He appointed judges who overturned Roe, but his vague statements on the issue may give him some leeway with voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
