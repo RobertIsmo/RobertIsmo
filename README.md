@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 14, Central Standard Time</p>
 <p>
-The world is in a rather volatile state right now. In the U.S., there are desperate efforts to evacuate young cancer patients from Gaza. Meanwhile, the U.S. has said Hamas operates within and beneath hospitals, endorsing Israel’s allegations. Inflation reports are affecting the Fed&#39;s decisions on whether or not to raise rates, and airfares have dropped sharply for travelers looking for a break from rising prices. Stocks have rallied since then due to the cooling-than-expected inflation report and Democrats are backing Johnson&#39;s plan to avoid a government shutdown. On top of this, Johnson was apparently against Donald Trump&#39;s presidency in 2015, citing he lacked the character and morality to be President. On Capitol Hill, there are fight clubs erupting and Ukrainian officials have been charged with efforts to investigate the Bidens. Additionally thousands of refugees are leaving Ukraine as they risk a trip home for cheaper health care back home and one of those accused of involvement in a murder case was pardoned after serving his time in Ukraine. Lastly, people aging in the U.S. lack a coherent system for providing long-term care, leading many to struggle financially for eldercare costs.</p>
+In the US, Congress recently passed a plan to avert a government shutdown in a bipartisan vote. However, there has been some fighting on Capitol Hill as tempers flare ahead of the holiday break. Additionally, former US President Donald Trump is facing renewed legal scrutiny for things like seeking to overturn the 2020 election. In other news, evidence is pointing towards Israeli shelling in a recent strike on one of Gaza&#39;s largest hospitals, and three Ukrainian officials were indicted related to efforts to investigate the Bidens. There have also been stock market rallies as inflation data cements the idea that the Federal Reserve is done raising rates. Lastly, Russian President Vladimir Putin recently pardoned a convict who was sentenced for organizing the murder of a journalist.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The U.S. says Hamas operates within and beneath hospitals, endorsing Israel’s allegations.</h3>
-<sub>By Michael D. Shear</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Passes Johnson’s Plan to Avert Shutdown in Bipartisan Vote</h3>
+<sub>By Catie Edmondson</sub>
+<p>With many Republicans refusing to back more government spending, Democrats supplied the bulk of the votes to extend federal funding through early 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Desperate Effort to Evacuate Young Cancer Patients From Gaza</h3>
-<sub>By Sharon LaFraniere and Erica L. Green</sub>
-<p>A mission to rescue cancer-stricken children from the violence in Gaza has involved multiple countries and last-minute connections in the chaos of war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Fight Club Erupts on Capitol Hill</h3>
+<sub>By Robert Jimison</sub>
+<p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President</h3>
+<sub>By Annie Karni and Steve Eder</sub>
+<p>Speaker Mike Johnson, then a Republican state lawmaker, posted on social media that Donald J. Trump lacked the character and morality to be president and could be vindictive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Evidence Points to Israeli Shells in Strikes on Gaza’s Largest Hospital</h3>
+<sub>By Malachy Browne and Neil Collier</sub>
+<p>Israel said Palestinian militants had misfired projectiles, but an analysis of photos and videos of Friday’s strikes shows that some of the munitions were likely fired by Israeli forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With 102 Workers Killed, U.N. Agency in Gaza Struggles to Provide Aid</h3>
+<sub>By Ben Hubbard</sub>
+<p>Even before the war, the U.N. agency that helps Palestinian refugees was struggling financially. Now, it faces an even bigger crisis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -81,33 +99,9 @@ The world is in a rather volatile state right now. In the U.S., there are desper
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sharp Drop in Airfares Cheers Inflation-Weary Travelers</h3>
-<sub>By Niraj Chokshi</sub>
-<p>Airlines are starting to offer bargain prices, including to popular overseas destinations like Paris, a sign that they are fighting to fill planes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Rally as Inflation Report Cements View the Fed Is Done With Raising Rates</h3>
+<h3>Stocks Rally as Inflation Data Cements View the Fed Is Done Raising Rates</h3>
 <sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 was on track for its biggest gain of the year, while shares of smaller companies surged.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Signal Support for Johnson’s Plan to Avoid Shutdown Ahead of Vote</h3>
-<sub>By Catie Edmondson</sub>
-<p>An increasing number of Democrats privately indicated that they would support the Republican speaker’s measure to extend government funding. A vote is expected Tuesday afternoon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Said in 2015 Trump Was Unfit and Could Be ‘Dangerous’ as President</h3>
-<sub>By Annie Karni and Steve Eder</sub>
-<p>Speaker Mike Johnson, then a Republican state lawmaker, posted on social media that Donald J. Trump lacked the character and morality to be president and could be vindictive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fight Club Erupts on Capitol Hill</h3>
-<sub>By Robert Jimison</sub>
-<p>A number of skirmishes unfolded in Congress as tempers flared ahead of a government shutdown deadline and Thanksgiving holiday break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Shares of smaller companies surged as yields on government bonds tumbled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -117,21 +111,27 @@ The world is in a rather volatile state right now. In the U.S., there are desper
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Ukrainian Refugees, Seeing the Doctor Can Be Worth a Risky Trip Home</h3>
-<sub>By Constant Méheut</sub>
-<p>Hundreds of thousands who fled after Russia invaded make brief visits back, often to reconnect with family but also for health care that can be cheaper and more familiar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Man Convicted in Russian Journalist’s Murder Is Pardoned After Serving in Ukraine</h3>
 <sub>By Ivan Nechepurenko</sub>
 <p>The lawyer of Sergei G. Khadzhikurbanov, who was sentenced to 20 years in prison for helping to organize the killing of Anna Politkovskaya, said he had been pardoned by President Vladimir V. Putin.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Facing Financial Ruin as Costs Soar for Elder Care</h3>
-<sub>By Reed Abelson and Jordan Rau</sub>
-<p>The United States has no coherent system for providing long-term care, leading many who are aging to struggle to stay independent or to rely on a patchwork of solutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Can Stay on G.O.P. Primary Ballot in Michigan, Judge Rules</h3>
+<sub>By Chris Cameron</sub>
+<p>The ruling notches a preliminary victory for Donald Trump in a nationwide battle over his eligibility to run for president again, even as he faces a wave of legal scrutiny in other cases.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Prosecutor Sees Trump Case Stretching Into 2025</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>As the prosecutor, Fani T. Willis, discussed the case at a conference, her office sought an emergency protective order to prevent more leaks of discovery materials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Prosecutors Make Their Case for Gag Order on Trump</h3>
+<sub>By Alan Feuer</sub>
+<p>The filing was the latest volley in the fight over whether the former president should be limited in what he can say about his trial on charges of seeking to overturn the 2020 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
