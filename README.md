@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-Right now, there is escalating conflict between Israel and Gaza, with hate speech and violence spiking across the internet. There are dire reports coming from Gaza about the situation in hospitals due to shortages of essential materials. In Israel, the war has resulted in dangerous rhetoric making inflammatory statements about the killings of civilians and mass deportations seem more normal. In the US, there is division and power struggles over fiscal issues, as well as a long-running abortion case that had significant repercussions in conservative politics and affected who was appointed speaker of the house. Meanwhile, the US and China have just agreed on ramping up use of renewables in order to displace fossil fuels, giving hope that it could lead to greater international environmental action. Finally, there is a variety of stories emerging involving international players; FIFA guided the World Cup to Saudi Arabia, thieves are stealing catalytic converters across the US that often end up overseas, and a major merger has put a cable executive in charge of Hollywood&#39;s largest studio.</p>
+Things have been pretty crazy all over the world lately. In the US, President Biden has been discussing potential actions against China with their leader, Xi Jinping. Meanwhile, hate speech among extremist groups has been surging both online and IRL, and university protests have broken out over the suspension of certain pro-Palestinian student groups. In Israel, inflammatory rhetoric has become more prominent due to escalating conflict between them and Gaza. Conservatives in the US are rebelling against spending bills, although they eventually backed down in one tense situation. GM workers are also protesting a tentative new contract for lacking sufficient retirement benefits. Finally, there&#39;s some shady dealings going on with FIFA and Saudi Arabia regarding a potential World Cup hosted in the kingdom, and Israeli and Palestinian teens had to put their swim club activities on hold due to the war. To top it all off, Trump is already making plans for a possible second run for president in 2025!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden and Xi Meet at a Backdrop for Hollywood and Tech-Titan Weddings</h3>
+<sub>By Katie Rogers and David E. Sanger</sub>
+<p>The meeting took place at a giant 20th century estate built by a family that made its fortune in the gold boom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. to Press China to Stop Flow of Fentanyl</h3>
+<sub>By Ana Swanson and Keith Bradsher</sub>
+<p>President Biden will put pressure on Xi Jinping to crack down on the Chinese facilities that make chemical compounds used in potent drugs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Antisemitic and Anti-Muslim Hate Speech Surges Across the Internet</h3>
 <sub>By Sheera Frenkel and Steven Lee Myers</sub>
 <p>Fueled by the conflict between Israel and Gaza and stoked by extremists, hate speech has spiked on social media platforms such as X, Facebook and Instagram, researchers said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What One Photo Shows About a Gaza Hospital in Chaos</h3>
-<sub>By Samar Abu Elouf</sub>
-<p>A single photograph captures the horror of a hospital in Gaza that is running out of everything but patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Columbia Faces Protests After Suspending 2 Pro-Palestinian Groups</h3>
+<sub>By Liset Cruz and Claire Fahy</sub>
+<p>Students rallied after the university barred two groups from holding campus events until the end of the semester, and faculty members walked out in protest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,45 +93,27 @@ Right now, there is escalating conflict between Israel and Gaza, with hate speec
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Conservatives Rebel Again Over Spending in the House</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>Irate over a bipartisan measure to prevent a government shutdown, far-right Republicans blocked a separate spending bill, forcing the House to leave for Thanksgiving without finishing its work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In His First Big Showdown, an Unyielding Conservative Yields</h3>
 <sub>By Carl Hulse</sub>
 <p>Speaker Mike Johnson chose avoiding a shutdown over a fiscal confrontation that Representative Mike Johnson might have welcomed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How an Abortion Case Shaped Mike Johnson’s Path to the Speakership</h3>
-<sub>By Nicholas Confessore, Steve Eder and Julie Tate</sub>
-<p>Battling a Louisiana abortion clinic was a career-making move for a young lawyer with conservative bona fides. And it was only the beginning.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>U.S. and China Agree to Displace Fossil Fuels by Ramping Up Renewables</h3>
-<sub>By Lisa Friedman</sub>
-<p>The climate agreement between the two countries is seen as a bright spot as President Biden prepares to meet President Xi Jinping.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>What a U.S.-China Climate Deal Means for COP28</h3>
-<sub>By David Gelles</sub>
-<p>It could deliver a jolt of ambition ahead of the global talks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. to Press China to Stop Flow of Fentanyl</h3>
-<sub>By Ana Swanson and Keith Bradsher</sub>
-<p>President Biden will put pressure on Xi Jinping to crack down on the Chinese facilities that make chemical compounds used in potent drugs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here’s the latest on the meeting.</h3>
-<sub>By David E. Sanger and Katie Rogers</sub>
-<p>Hints of how the two leaders will try to nudge toward agreements on some issues have emerged, even as officials have tried to lower expectations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>So Thieves Nabbed Your Catalytic Converter. Here’s Where It Ended Up.</h3>
 <sub>By Walt Bogdanich, Isak Hüllert and Eli Tan</sub>
 <p>The pollution control devices contain valuable metals, making them a hot commodity for recycling. Some beneficiaries of the thefts look the other way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>G.M.’s New Contract With U.A.W. Faces Surprisingly Stiff Opposition</h3>
+<sub>By Neal E. Boudette</sub>
+<p>Many longstanding General Motors workers have been voting against the tentative accord, which they feel insufficiently improves retirement benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +122,16 @@ Right now, there is escalating conflict between Israel and Gaza, with hate speec
 <p>FIFA’s president, Gianni Infantino, cheered a plan to take soccer’s richest event to the kingdom. He has said little about his years of work to make that happen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How David Zaslav Blew Up Hollywood</h3>
-<sub>By Jonathan Mahler, James B. Stewart and Benjamin Mullin</sub>
-<p>A merger put him in the driver’s seat at Warner Brothers, one of the industry’s biggest studios. It has been a wild ride.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Palestinian and Israeli Teens Swam in the Same Pool. Then Came Oct. 7.</h3>
+<sub>By Miriam Jordan and Afif Amireh</sub>
+<p>The teenagers in the Greater Jerusalem swim club made a point of not focusing on their differences. That changed with the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump and His Allies Plan to Wield Power in 2025</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
+<p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
