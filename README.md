@@ -60,18 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-A lot of news is emerging from the US right now. President Biden had a meeting with Chinese president Xi Jinping at a large estate with a history of gold boom fortune. As tensions between countries like the US and China remain high, the US is pressing China to stop making drugs like Fentanyl. Social media has also seen a significantly rise in antisemetic and anti-muslim hate speech due to recent international conflicts. FBI director Christopher A. Wray has revealed the agency is ramping up investigations into Hamas, and Republican conservatives have rebelled against spending plans in the House. Columbia university was met with protests after they suspended 2 pro-Palestinian student groups. In Greater Jerusalem, Palestinian and Israeli teens, who ignored their differences and swam in the same pool, are experiencing conflict since Hamas&#39;s attack on southern Israel last month. Donald Trump and his allies are beginning to make plans for an extreme agenda in 2025 in case he runs for a second term - despite the Democratic National Committee&#39;s decision to have South Carolina vote first in the New Hampshire Primary on January 23rd.</p>
+There has been a lot of news lately about international relations and conflicts around the world. President Biden recently met with Chinese president Xi Jinping to put pressure on him to stop the production of fentanyl in Chinese factories. Israel recently seized a Gaza hospital that had become symbolic of the war that has put the Middle East on edge. There has also been an increase in antisemitic and anti-Muslim hate speech across the internet fueled by recent international conflict. The FBI is now ramping up investigations of Hamas following their attack on southern Israel.
+
+On a domestic front, Columbia University faced protests after suspending two pro-Palestinian student groups from campus events for the rest of the semester. Likewise, conservatives have been rebelling against spending measures in the House, leading to one Representative Mike Johnson avoiding a potential government shutdown. Elsewhere, GM workers have been voting against a tentative contract accord they believe does not sufficiently improve retirement benefits, while some thieves have been targeting catalytic converters for their valuable metals and reselling them with little consequence. Finally, there&#39;s also an interesting story about a fired Catholic Bishop who is trying to deliver his message to the public despite tensions between Pope Francis and conservative American Catholics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and Xi Meet at a Backdrop for Hollywood and Tech-Titan Weddings</h3>
 <sub>By Katie Rogers and David E. Sanger</sub>
-<p>The meeting took place at a giant 20th century estate built by a family that made its fortune in the gold boom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The meeting took place at a giant 20th century estate built by a family that made its fortune in the gold rush.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. to Press China to Stop Flow of Fentanyl</h3>
+<h3>U.S. Presses China to Stop Flow of Fentanyl</h3>
 <sub>By Ana Swanson and Keith Bradsher</sub>
-<p>President Biden will put pressure on Xi Jinping to crack down on the Chinese facilities that make chemical compounds used in potent drugs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden put pressure on Xi Jinping to crack down on the Chinese facilities that make chemical compounds used in potent drugs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Seizes Gaza Hospital That Became Symbol of the War Itself</h3>
+<sub>By Patrick Kingsley and Iyad Abuheweila</sub>
+<p>A raid of a hospital that Israel asserts is a base for Hamas is shaping up as a watershed moment in a conflict that has put the Mideast on edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -123,15 +131,9 @@ A lot of news is emerging from the US right now. President Biden had a meeting w
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump and His Allies Plan to Wield Power in 2025</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
-<p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The New Hampshire Primary Will Be Jan. 23</h3>
-<sub>By Maggie Astor</sub>
-<p>The date, announced by state officials, defies the Democratic National Committee’s decision to have South Carolina vote first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Catholic Leaders Met, Fired Bishop Took His Message to the Street</h3>
+<sub>By Ruth Graham</sub>
+<p>The meeting opened with a call for unity, but clerics are navigating a contentious relationship between Pope Francis and conservative American Catholics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
