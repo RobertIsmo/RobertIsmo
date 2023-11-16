@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension between the US and China as Biden and Xi had a meeting and the progress made was not what both countries were hoping for. In the US on a more local level, the Senate had just passed a bill that prevents a government shutdown but resulted in some hard-liners rebelling in the House. There have been numerous protests here too, such as at Columbia University after two pro-Palestinian groups were suspended until the end of the semester. 
-
-Globally, more news includes a raid on a Gaza hospital by Israel which many consider to be a watershed moment in an increasingly intensified conflict, and the United Nations Security Council imploring for the implementation of humanitarian pauses. 
-
-Finally, there are some slightly less daunting stories such as one about catalytic converters being stolen and sold to third parties and another about someone who thought they had a painting worth 10 million dollars but it ended up selling for far less than anticipated.</p>
+Hello there! There have been some big developments all over the world – from the US and Israel to Columbia and GM. US President Biden and Chinese President Xi recently held a meeting but their talks didn&#39;t lead to many practical results on the issues that have caused tension between their countries. In Israel, there was a raid on a Gaza hospital that has become a symbol of the war in the Middle East, while the UN Security Council called for humanitarian pauses. On top of that, Columbia University recently suspended 2 pro-Palestinian groups, leading to protests from students and faculty. General Motors&#39; labor deal with its workers is also facing stiff opposition, and an interesting story unfolded in New York City involving a fake painting supposedly worth millions of dollars. Lastly, Justin Torres won the National Book Award for Fiction, which is a cool accomplishment!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden-Xi Talks Lead to Little but a Promise to Keep Talking</h3>
