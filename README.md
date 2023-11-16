@@ -58,52 +58,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, November 15, Central Standard Time</p>
+<p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-There has been a lot of news lately about international relations and conflicts around the world. President Biden recently met with Chinese president Xi Jinping to put pressure on him to stop the production of fentanyl in Chinese factories. Israel recently seized a Gaza hospital that had become symbolic of the war that has put the Middle East on edge. There has also been an increase in antisemitic and anti-Muslim hate speech across the internet fueled by recent international conflict. The FBI is now ramping up investigations of Hamas following their attack on southern Israel.
+Right now, there is a lot of tension between the US and China as Biden and Xi had a meeting and the progress made was not what both countries were hoping for. In the US on a more local level, the Senate had just passed a bill that prevents a government shutdown but resulted in some hard-liners rebelling in the House. There have been numerous protests here too, such as at Columbia University after two pro-Palestinian groups were suspended until the end of the semester. 
 
-On a domestic front, Columbia University faced protests after suspending two pro-Palestinian student groups from campus events for the rest of the semester. Likewise, conservatives have been rebelling against spending measures in the House, leading to one Representative Mike Johnson avoiding a potential government shutdown. Elsewhere, GM workers have been voting against a tentative contract accord they believe does not sufficiently improve retirement benefits, while some thieves have been targeting catalytic converters for their valuable metals and reselling them with little consequence. Finally, there&#39;s also an interesting story about a fired Catholic Bishop who is trying to deliver his message to the public despite tensions between Pope Francis and conservative American Catholics.</p>
+Globally, more news includes a raid on a Gaza hospital by Israel which many consider to be a watershed moment in an increasingly intensified conflict, and the United Nations Security Council imploring for the implementation of humanitarian pauses. 
+
+Finally, there are some slightly less daunting stories such as one about catalytic converters being stolen and sold to third parties and another about someone who thought they had a painting worth 10 million dollars but it ended up selling for far less than anticipated.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden-Xi Talks Lead to Little but a Promise to Keep Talking</h3>
+<sub>By David E. Sanger and Katie Rogers</sub>
+<p>Both American and Chinese accounts of the meeting indicated scant progress on the issues that have pushed the two nations to the edge of conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and Xi Meet at a Backdrop for Hollywood and Tech-Titan Weddings</h3>
 <sub>By Katie Rogers and David E. Sanger</sub>
-<p>The meeting took place at a giant 20th century estate built by a family that made its fortune in the gold rush.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Presses China to Stop Flow of Fentanyl</h3>
-<sub>By Ana Swanson and Keith Bradsher</sub>
-<p>President Biden put pressure on Xi Jinping to crack down on the Chinese facilities that make chemical compounds used in potent drugs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Seizes Gaza Hospital That Became Symbol of the War Itself</h3>
-<sub>By Patrick Kingsley and Iyad Abuheweila</sub>
-<p>A raid of a hospital that Israel asserts is a base for Hamas is shaping up as a watershed moment in a conflict that has put the Mideast on edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Antisemitic and Anti-Muslim Hate Speech Surges Across the Internet</h3>
-<sub>By Sheera Frenkel and Steven Lee Myers</sub>
-<p>Fueled by the conflict between Israel and Gaza and stoked by extremists, hate speech has spiked on social media platforms such as X, Facebook and Instagram, researchers said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The meeting took place at a giant 20th-century estate built by a family that made its fortune in the gold rush.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F.B.I. Ramps Up Investigations of Hamas</h3>
-<sub>By Adam Goldman and Eileen Sullivan</sub>
-<p>Christopher A. Wray, the F.B.I. director, made the disclosure in testifying about threats to the United States after Hamas’s surprise attack on southern Israel last month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Columbia Faces Protests After Suspending 2 Pro-Palestinian Groups</h3>
-<sub>By Liset Cruz and Claire Fahy</sub>
-<p>Students rallied after the university barred two groups from holding campus events until the end of the semester, and faculty members walked out in protest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Conservatives Rebel Again Over Spending in the House</h3>
+<h3>Senate Sends Biden Stopgap Funding Bill, Averting a Government Shutdown</h3>
 <sub>By Carl Hulse and Catie Edmondson</sub>
-<p>Irate over a bipartisan measure to prevent a government shutdown, far-right Republicans blocked a separate spending bill, forcing the House to leave for Thanksgiving without finishing its work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>But Republican hard-liners rebelled again in the House, underscoring serious difficulties ahead for a long-term federal funding deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,6 +89,24 @@ On a domestic front, Columbia University faced protests after suspending two pro
 <sub>By Carl Hulse</sub>
 <p>Speaker Mike Johnson chose avoiding a shutdown over a fiscal confrontation that Representative Mike Johnson might have welcomed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Seizes Gaza Hospital That Became Symbol of the War Itself</h3>
+<sub>By Patrick Kingsley and Iyad Abuheweila</sub>
+<p>A raid of a hospital that Israel asserts is a base for Hamas is shaping up as a watershed moment in a conflict that has put the Mideast on edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. Security Council Calls for Dayslong Humanitarian Pauses in Gaza</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>After weeks of division, the Council adopted a resolution that stopped short of calling for a cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Columbia Faces Protests After Suspending 2 Pro-Palestinian Groups</h3>
+<sub>By Liset Cruz and Claire Fahy</sub>
+<p>Students rallied after the university barred two groups from holding campus events until the end of the semester, and faculty members walked out in protest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>So Thieves Nabbed Your Catalytic Converter. Here’s Where It Ended Up.</h3>
@@ -124,16 +120,22 @@ On a domestic front, Columbia University faced protests after suspending two pro
 <p>Many longstanding General Motors workers have been voting against the tentative accord, which they feel insufficiently improves retirement benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Palestinian and Israeli Teens Swam in the Same Pool. Then Came Oct. 7.</h3>
-<sub>By Miriam Jordan and Afif Amireh</sub>
-<p>The teenagers in the Greater Jerusalem swim club made a point of not focusing on their differences. That changed with the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Catholic Leaders Met, Fired Bishop Took His Message to the Street</h3>
 <sub>By Ruth Graham</sub>
 <p>The meeting opened with a call for unity, but clerics are navigating a contentious relationship between Pope Francis and conservative American Catholics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Justin Torres, Author of ‘Blackouts,’ Wins National Book Award for Fiction</h3>
+<sub>By Elizabeth A. Harris and Alexandra Alter</sub>
+<p>Ned Blackhawk received the nonfiction award, with “The Rediscovery of America: Native Peoples and the Unmaking of U.S. History.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Thought His Chuck Close Painting Was Worth $10 Million. Not Quite.</h3>
+<sub>By John Leland</sub>
+<p>A bittersweet ending for Mark Herman, the dog walker who was given the painting: It finally sold, but for far less than he had envisioned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
