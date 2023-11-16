@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension in the world - particularly between the US and China. President Biden recently had four-hour talks with Chinese leader Xi Jinping, but resulted in few breakthroughs. Meanwhile, China has been taking control of the South China Sea and bringing a strong military presence to the region. In Israel and Palestine, there is a war going on, and a younger generation of peacemakers are hoping for a solution that creates two real states. Sadly, humanitarian crises are developing around the world, from Sudan to Gaza. However, African artists are driving a cultural renaissance as digital connections unite them with the African Diaspora.</p>
+The world is currently in a state of fluctuation and strife. On one hand, Chinese president Xi Jinping is engaging with the United States in an attempt to navigate frosty relations between the two countries - while also trying to assert strength. Additionally, China has strong-armed its way into dominating the South China Sea. Meanwhile, in the domestic U.S. context, House Republicans are weaponizing their spending power to try to punish the Biden administration. Further, there are tensions in Israel regarding a group of younger activists who want to be part of the discussion about peace while Israel has started blocking some Palestinian Americans from entering its borders from the West Bank.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Talks With Biden, Xi Seeks to Assure and Assert at the Same Time</h3>
@@ -80,10 +80,22 @@ Right now, there is a lot of tension in the world - particularly between the US 
 <p>Amid frosty U.S.-China relations, Xi Jinping emphasized friendship in an address to executives from Apple, Boeing, Nike and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What the Biden-Xi Talks Accomplished (and Didn&#39;t)</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Wednesday’s four-hour meeting in San Francisco resulted in few breakthroughs. But C.E.O.s gave the Chinese leader a standing ovation at a banquet afterward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos Won’t Seek Re-election After House Panel Finds Evidence of Crimes</h3>
+<sub>By Grace Ashford</sub>
+<p>The findings, which were referred to prosecutors, are likely to prompt another attempt to expel the embattled congressman from the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans, Stalled on Spending, Weaponize the Power of the Purse</h3>
+<sub>By Robert Jimison</sub>
+<p>As Congress struggles to do the bare minimum of keeping the government funded, House Republicans are using the annual federal spending bills to try to punish the Biden administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Is Arrested in Death of Jewish Protester After California Altercation</h3>
+<sub>By Victor Mather</sub>
+<p>The authorities said a man was booked on a charge of involuntary manslaughter in connection with the death of a 69-year-old pro-Israel protester  in Thousand Oaks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,34 +104,22 @@ Right now, there is a lot of tension in the world - particularly between the US 
 <p>A younger generation of Israeli and Palestinian peacemakers want to be part of the dialogue about the “day after” the war, when Israelis and Palestinians must grapple again with how to live side by side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Seizes Gaza Hospital That Became Symbol of the War Itself</h3>
-<sub>By Patrick Kingsley and Iyad Abuheweila</sub>
-<p>A raid of a hospital that Israel asserts is a base for Hamas is shaping up as a watershed moment in a conflict that has put the Mideast on edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Says a ‘Real’ Palestinian State Must Come After War</h3>
-<sub>By Edward Wong</sub>
-<p>President Biden emphasized that the Israeli-Palestinian conflict will not end without a two-state solution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel and Hamas Near a Hostage Deal, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, scant progress in Biden-Xi talks and opposition to the deal between G.M. and the autoworkers’ union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Blocks Some Palestinian Americans From Entering From West Bank</h3>
+<sub>By Eileen Sullivan, Edward Wong and Patrick Kingsley</sub>
+<p>The move is an apparent violation of a recent agreement that says citizens from the United States and Israel can travel to the other nation without a visa.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>A Homeless Man Attacked Him. But Was There More to the Story?</h3>
+<sub>By Jesse Barron</sub>
+<p>An altercation in San Francisco has raised fears about the city’s future — but also questions about what really happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Sends Biden Stopgap Funding Bill, Averting a Government Shutdown</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>But Republican hard-liners rebelled again in the House, underscoring serious difficulties ahead for a long-term federal funding deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Meet the African Artists Driving a Cultural Renaissance</h3>
-<sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
-<p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Haley Tussles With DeSantis, Aiming to Prove Herself in Iowa</h3>
+<sub>By Jazmine Ulloa and Nicholas Nehamas</sub>
+<p>Nikki Haley is vying for a matchup with Donald Trump in her home state. The calculus is similar for Ron DeSantis, who has stepped up his attacks on his rival for second place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +128,11 @@ Right now, there is a lot of tension in the world - particularly between the US 
 <p>The causes Robert F. Kennedy Jr. has championed have brought him admiration, criticism — and tens of millions of dollars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Seizing Darfur Region, Paramilitary Forces Are Accused of Atrocities</h3>
-<sub>By Declan Walsh and Abdi Latif Dahir</sub>
-<p>Seven months into Sudan’s civil war, the paramilitary Rapid Support Forces and its allies are ransacking and capturing the Darfur region. An aid worker said, “People are dying like insects.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>We Talked to Some Kamala-but-Not-Joe Voters. Here’s What They Said.</h3>
+<sub>By Claire Cain Miller and Nate Cohn</sub>
+<p>A slice of voters would vote for Vice President Harris but not President Biden, reflecting his challenges and opportunities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
