@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 15, Central Standard Time</p>
 <p>
-Things have been pretty crazy all over the world lately. In the US, President Biden has been discussing potential actions against China with their leader, Xi Jinping. Meanwhile, hate speech among extremist groups has been surging both online and IRL, and university protests have broken out over the suspension of certain pro-Palestinian student groups. In Israel, inflammatory rhetoric has become more prominent due to escalating conflict between them and Gaza. Conservatives in the US are rebelling against spending bills, although they eventually backed down in one tense situation. GM workers are also protesting a tentative new contract for lacking sufficient retirement benefits. Finally, there&#39;s some shady dealings going on with FIFA and Saudi Arabia regarding a potential World Cup hosted in the kingdom, and Israeli and Palestinian teens had to put their swim club activities on hold due to the war. To top it all off, Trump is already making plans for a possible second run for president in 2025!</p>
+A lot of news is emerging from the US right now. President Biden had a meeting with Chinese president Xi Jinping at a large estate with a history of gold boom fortune. As tensions between countries like the US and China remain high, the US is pressing China to stop making drugs like Fentanyl. Social media has also seen a significantly rise in antisemetic and anti-muslim hate speech due to recent international conflicts. FBI director Christopher A. Wray has revealed the agency is ramping up investigations into Hamas, and Republican conservatives have rebelled against spending plans in the House. Columbia university was met with protests after they suspended 2 pro-Palestinian student groups. In Greater Jerusalem, Palestinian and Israeli teens, who ignored their differences and swam in the same pool, are experiencing conflict since Hamas&#39;s attack on southern Israel last month. Donald Trump and his allies are beginning to make plans for an extreme agenda in 2025 in case he runs for a second term - despite the Democratic National Committee&#39;s decision to have South Carolina vote first in the New Hampshire Primary on January 23rd.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden and Xi Meet at a Backdrop for Hollywood and Tech-Titan Weddings</h3>
@@ -80,16 +80,16 @@ Things have been pretty crazy all over the world lately. In the US, President Bi
 <p>Fueled by the conflict between Israel and Gaza and stoked by extremists, hate speech has spiked on social media platforms such as X, Facebook and Instagram, researchers said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F.B.I. Ramps Up Investigations of Hamas</h3>
+<sub>By Adam Goldman and Eileen Sullivan</sub>
+<p>Christopher A. Wray, the F.B.I. director, made the disclosure in testifying about threats to the United States after Hamas’s surprise attack on southern Israel last month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Columbia Faces Protests After Suspending 2 Pro-Palestinian Groups</h3>
 <sub>By Liset Cruz and Claire Fahy</sub>
 <p>Students rallied after the university barred two groups from holding campus events until the end of the semester, and faculty members walked out in protest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Erase Gaza’: War Unleashes Incendiary Rhetoric in Israel</h3>
-<sub>By Mark Landler</sub>
-<p>Experts say that inflammatory statements by prominent Israelis are normalizing ideas like the killing of civilians and mass deportations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,16 +111,10 @@ Things have been pretty crazy all over the world lately. In the US, President Bi
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>G.M.’s New Contract With U.A.W. Faces Surprisingly Stiff Opposition</h3>
+<h3>G.M.’s Contract Deal With U.A.W. Faces Surprisingly Stiff Opposition</h3>
 <sub>By Neal E. Boudette</sub>
 <p>Many longstanding General Motors workers have been voting against the tentative accord, which they feel insufficiently improves retirement benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Inside Man: How FIFA Guided the World Cup to Saudi Arabia</h3>
-<sub>By Tariq Panja</sub>
-<p>FIFA’s president, Gianni Infantino, cheered a plan to take soccer’s richest event to the kingdom. He has said little about his years of work to make that happen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Palestinian and Israeli Teens Swam in the Same Pool. Then Came Oct. 7.</h3>
@@ -132,6 +126,12 @@ Things have been pretty crazy all over the world lately. In the US, President Bi
 <h3>How Trump and His Allies Plan to Wield Power in 2025</h3>
 <sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
 <p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The New Hampshire Primary Will Be Jan. 23</h3>
+<sub>By Maggie Astor</sub>
+<p>The date, announced by state officials, defies the Democratic National Committee’s decision to have South Carolina vote first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
