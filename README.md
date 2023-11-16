@@ -60,31 +60,29 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-Hello there! There have been some big developments all over the world – from the US and Israel to Columbia and GM. US President Biden and Chinese President Xi recently held a meeting but their talks didn&#39;t lead to many practical results on the issues that have caused tension between their countries. In Israel, there was a raid on a Gaza hospital that has become a symbol of the war in the Middle East, while the UN Security Council called for humanitarian pauses. On top of that, Columbia University recently suspended 2 pro-Palestinian groups, leading to protests from students and faculty. General Motors&#39; labor deal with its workers is also facing stiff opposition, and an interesting story unfolded in New York City involving a fake painting supposedly worth millions of dollars. Lastly, Justin Torres won the National Book Award for Fiction, which is a cool accomplishment!</p>
+There is a lot going on around the world right now. In talks with US President Biden, China&#39;s leader Xi Jinping is trying to project both strength and a willingness to engage. Meanwhile in the South China Sea, China has been using force to gain control. In Israel and Palestine, there is a younger generation of peacemakers who are part of the dialogue about what comes after the war and how Israelis and Palestinians can live side by side. 
+
+In Gaza, Israel recently seized a hospital that was being used by Hamas that has put the Middle East on edge. The UN Security Council is trying to help by calling for dayslong humanitarian pauses in Gaza. In Russia and Ukraine, many Ukrainians are leaving Russian occupation to go back into Ukraine, bringing stories of repression. 
+
+Closer to home, there is progress on averting a government shutdown in the US with the Senate passing a bill for stopgap funding. There has also been opposition to the deal between GM and the autoworkers&#39; union and Robert Kennedy Jr. has come under fire for turning some of his crusades into a private windfall. Lastly, African artists are spearheading a cultural Renaissance during this time with digital connections bringing many African diasporas together.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden-Xi Talks Lead to Little but a Promise to Keep Talking</h3>
-<sub>By David E. Sanger and Katie Rogers</sub>
-<p>Both American and Chinese accounts of the meeting indicated scant progress on the issues that have pushed the two nations to the edge of conflict.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Talks With Biden, Xi Seeks to Assure and Assert at the Same Time</h3>
+<sub>By Vivian Wang and David Pierson</sub>
+<p>China’s depiction of Xi Jinping’s U.S. visit reflected his sometimes-contradictory priorities: to project both strength and a willingness to engage with Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden and Xi Meet at a Backdrop for Hollywood and Tech-Titan Weddings</h3>
-<sub>By Katie Rogers and David E. Sanger</sub>
-<p>The meeting took place at a giant 20th-century estate built by a family that made its fortune in the gold rush.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fleets of Force</h3>
+<sub>By Agnes Chang and Hannah Beech</sub>
+<p>How China strong-armed its way into dominating the South China Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Sends Biden Stopgap Funding Bill, Averting a Government Shutdown</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>But Republican hard-liners rebelled again in the House, underscoring serious difficulties ahead for a long-term federal funding deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Five Miles and a World Apart, Younger Activists Dream of a New Peace Process</h3>
+<sub>By Mark Landler</sub>
+<p>A younger generation of Israeli and Palestinian peacemakers want to be part of the dialogue about the “day after” the war, when Israelis and Palestinians must grapple again with how to live side by side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In His First Big Showdown, an Unyielding Conservative Yields</h3>
-<sub>By Carl Hulse</sub>
-<p>Speaker Mike Johnson chose avoiding a shutdown over a fiscal confrontation that Representative Mike Johnson might have welcomed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Seizes Gaza Hospital That Became Symbol of the War Itself</h3>
@@ -98,41 +96,47 @@ Hello there! There have been some big developments all over the world – from t
 <p>After weeks of division, the Council adopted a resolution that stopped short of calling for a cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Columbia Faces Protests After Suspending 2 Pro-Palestinian Groups</h3>
-<sub>By Liset Cruz and Claire Fahy</sub>
-<p>Students rallied after the university barred two groups from holding campus events until the end of the semester, and faculty members walked out in protest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israel and Hamas Near a Hostage Deal, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, scant progress in Biden-Xi talks and opposition to the deal between G.M. and the autoworkers’ union.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Sends Biden Stopgap Funding Bill, Averting a Government Shutdown</h3>
+<sub>By Carl Hulse and Catie Edmondson</sub>
+<p>But Republican hard-liners rebelled again in the House, underscoring serious difficulties ahead for a long-term federal funding deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Meet the African Artists Driving a Cultural Renaissance</h3>
+<sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
+<p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How R.F.K. Jr. Has Turned His Public Crusades Into a Private Windfall</h3>
+<sub>By Susanne Craig</sub>
+<p>The causes Robert F. Kennedy Jr. has championed have brought him admiration, criticism — and tens of millions of dollars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Seizing Darfur Region, Paramilitary Forces Are Accused of Atrocities</h3>
+<sub>By Declan Walsh and Abdi Latif Dahir</sub>
+<p>Seven months into Sudan’s civil war, the paramilitary Rapid Support Forces and its allies are ransacking and capturing the Darfur region. An aid worker said, “People are dying like insects.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>So Thieves Nabbed Your Catalytic Converter. Here’s Where It Ended Up.</h3>
-<sub>By Walt Bogdanich, Isak Hüllert and Eli Tan</sub>
-<p>The pollution control devices contain valuable metals, making them a hot commodity for recycling. Some beneficiaries of the thefts look the other way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<h3>Why Georgia Republicans Are Protecting the D.A. Who Indicted Trump</h3>
+<sub>By Richard Fausset</sub>
+<p>G.O.P. leaders, including Gov. Brian Kemp, are shielding Fani T. Willis from political threats, not so much to protect her, as to protect the image of the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>G.M.’s Contract Deal With U.A.W. Faces Surprisingly Stiff Opposition</h3>
-<sub>By Neal E. Boudette</sub>
-<p>Many longstanding General Motors workers have been voting against the tentative accord, which they feel insufficiently improves retirement benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Catholic Leaders Met, Fired Bishop Took His Message to the Street</h3>
-<sub>By Ruth Graham</sub>
-<p>The meeting opened with a call for unity, but clerics are navigating a contentious relationship between Pope Francis and conservative American Catholics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Justin Torres, Author of ‘Blackouts,’ Wins National Book Award for Fiction</h3>
-<sub>By Elizabeth A. Harris and Alexandra Alter</sub>
-<p>Ned Blackhawk received the nonfiction award, with “The Rediscovery of America: Native Peoples and the Unmaking of U.S. History.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Thought His Chuck Close Painting Was Worth $10 Million. Not Quite.</h3>
-<sub>By John Leland</sub>
-<p>A bittersweet ending for Mark Herman, the dog walker who was given the painting: It finally sold, but for far less than he had envisioned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>They Trudge From Russia Into Ukraine, Fleeing Life Under Occupation</h3>
+<sub>By Andrew E. Kramer, Maria Varenikova, Matthew Mpoke Bigg and Tyler Hicks</sub>
+<p>About 100 Ukrainians a day travel back into Ukraine at an unofficial border crossing, bringing tales of repression and fear about life in Russian-controlled territories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
