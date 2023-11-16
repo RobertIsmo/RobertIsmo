@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In talks with US President Biden, China&#39;s leader Xi Jinping is trying to project both strength and a willingness to engage. Meanwhile in the South China Sea, China has been using force to gain control. In Israel and Palestine, there is a younger generation of peacemakers who are part of the dialogue about what comes after the war and how Israelis and Palestinians can live side by side. 
-
-In Gaza, Israel recently seized a hospital that was being used by Hamas that has put the Middle East on edge. The UN Security Council is trying to help by calling for dayslong humanitarian pauses in Gaza. In Russia and Ukraine, many Ukrainians are leaving Russian occupation to go back into Ukraine, bringing stories of repression. 
-
-Closer to home, there is progress on averting a government shutdown in the US with the Senate passing a bill for stopgap funding. There has also been opposition to the deal between GM and the autoworkers&#39; union and Robert Kennedy Jr. has come under fire for turning some of his crusades into a private windfall. Lastly, African artists are spearheading a cultural Renaissance during this time with digital connections bringing many African diasporas together.</p>
+Right now, there is a lot of tension in the world - particularly between the US and China. President Biden recently had four-hour talks with Chinese leader Xi Jinping, but resulted in few breakthroughs. Meanwhile, China has been taking control of the South China Sea and bringing a strong military presence to the region. In Israel and Palestine, there is a war going on, and a younger generation of peacemakers are hoping for a solution that creates two real states. Sadly, humanitarian crises are developing around the world, from Sudan to Gaza. However, African artists are driving a cultural renaissance as digital connections unite them with the African Diaspora.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Talks With Biden, Xi Seeks to Assure and Assert at the Same Time</h3>
@@ -76,6 +72,18 @@ Closer to home, there is progress on averting a government shutdown in the US wi
 <h3>Fleets of Force</h3>
 <sub>By Agnes Chang and Hannah Beech</sub>
 <p>How China strong-armed its way into dominating the South China Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Pandas, Ping-Pong and Profits: Chinese Leader Woos U.S. C.E.O.s</h3>
+<sub>By Ana Swanson</sub>
+<p>Amid frosty U.S.-China relations, Xi Jinping emphasized friendship in an address to executives from Apple, Boeing, Nike and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What the Biden-Xi Talks Accomplished (and Didn&#39;t)</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Wednesday’s four-hour meeting in San Francisco resulted in few breakthroughs. But C.E.O.s gave the Chinese leader a standing ovation at a banquet afterward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -91,9 +99,9 @@ Closer to home, there is progress on averting a government shutdown in the US wi
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Security Council Calls for Dayslong Humanitarian Pauses in Gaza</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>After weeks of division, the Council adopted a resolution that stopped short of calling for a cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Says a ‘Real’ Palestinian State Must Come After War</h3>
+<sub>By Edward Wong</sub>
+<p>President Biden emphasized that the Israeli-Palestinian conflict will not end without a two-state solution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -125,18 +133,6 @@ Closer to home, there is progress on averting a government shutdown in the US wi
 <sub>By Declan Walsh and Abdi Latif Dahir</sub>
 <p>Seven months into Sudan’s civil war, the paramilitary Rapid Support Forces and its allies are ransacking and capturing the Darfur region. An aid worker said, “People are dying like insects.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Georgia Republicans Are Protecting the D.A. Who Indicted Trump</h3>
-<sub>By Richard Fausset</sub>
-<p>G.O.P. leaders, including Gov. Brian Kemp, are shielding Fani T. Willis from political threats, not so much to protect her, as to protect the image of the state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>They Trudge From Russia Into Ukraine, Fleeing Life Under Occupation</h3>
-<sub>By Andrew E. Kramer, Maria Varenikova, Matthew Mpoke Bigg and Tyler Hicks</sub>
-<p>About 100 Ukrainians a day travel back into Ukraine at an unofficial border crossing, bringing tales of repression and fear about life in Russian-controlled territories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
