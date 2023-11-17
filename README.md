@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-Right now, there is a subtle shift in the power balance between US President Biden and Chinese leader Xi Jinping, with Xi desperately needing things from the US for the first time in years. China is attempting to prove its good will by saying they may continue to send giant pandas to America. There was also a trial of a man obsessed with online conspiracy theories who broke into Nancy Pelosi&#39;s house and assaulted her husband with a hammer. Across the US, there&#39;s a lot of activity happening around politicians - Representative George Santos won&#39;t be seeking re-election after House panel evidence of crimes, and he had been using donor money on expensive items for himself like Ferragamo shoes. Meanwhile, House Republicans have been weaponizing their power of the purse as Covid relief bills get passed. In terms of tech platforms, Jewish celebrities and influencers are confronted TikTok executives in a private call about pro-Palestinian, anti-Israel content appearing on the site. Videos about Osama bin Laden’s criticism of the US have become popular on the same platform. On another platform, X (which is owned by Elon Musk) is facing backlash after he endorsed an antisemitic post, leading IBM to pull its advertising from that website and employees struggling over what to tell other advertisers. In entertainment news, Sean Combs has been accused by singer Cassie of rape and years of abuse in a lawsuit, while the FBI ran raids at homes belonging to an Adams aide and former Turkish airline official. Finally, there are more seniors than ever before choosing pot over pills due to suggestion of medicinal benefits from cannabis use as we age.</p>
+It looks like there has been a lot going on in the world recently! President Biden has had a subtle shift in the power balance with China&#39;s President Xi Jinping, and they have agreed to resume military-to-military communication. Meanwhile, Congress is weaponizing the power of the purse to try to punish the Biden administration as it struggles to keep the government funded. On top of that, TikTok is facing accusations of promoting anti-Israel content, and IBM has pulled its spending from the platform as a result. Lastly, Sean Combs is being accused of rape and years of abuse and the FBI has raided homes of Mayor Adams&#39; chief fundraiser and two other people related to Turkey.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
@@ -69,9 +69,15 @@ Right now, there is a subtle shift in the power balance between US President Bid
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Panda Diplomacy Might Not Be Dead Just Yet</h3>
-<sub>By Edward Wong</sub>
-<p>President Xi Jinping of China said his country may keep sending giant pandas to the United States. The National Zoo in Washington sent three of them back to China last week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Car Talk and Birthday Wishes Punctuate Biden’s ‘Trust but Verify’ Diplomacy</h3>
+<sub>By Katie Rogers</sub>
+<p>Despite simmering tensions, President Biden and President Xi Jinping exchanged the kind of pleasantries that adversarial leaders deploy when they are trying to make nice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Day After Xi Meeting, Biden Says U.S. Has ‘Real Differences’ With China</h3>
+<sub>By Katie Rogers</sub>
+<p>Mr. Biden won applause when he noted that he and Mr. Xi had agreed to resume military-to-military communication to “reduce the risk of miscalculation.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ Right now, there is a subtle shift in the power balance between US President Bid
 <h3>F.B.I. Raided Homes of Second Adams Aide and Ex-Turkish Airline Official</h3>
 <sub>By William K. Rashbaum, Michael Rothfeld, Dana Rubinstein and Nicole Hong</sub>
 <p>On the same day the federal authorities raided the home of Mayor Eric Adams’s chief fund-raiser, they also searched the residences of two people with ties to Turkey.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Why Some Seniors Are Choosing Pot Over Pills</h3>
-<sub>By Christina Caron</sub>
-<p>Older people are using cannabis more than ever. Here’s what to know about its potential medicinal benefits and side effects as we age.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
