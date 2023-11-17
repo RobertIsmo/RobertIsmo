@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
 <p>
-There&#39;s been a lot happening in the world lately! President Biden has been engaging with China&#39;s president Xi Jinping to try to build trust between the two countries. There was also some news recently about US congressman George Santos, who is facing serious charges and won&#39;t be running for re-election. On the tech side of things, TikTok is being accused of promoting pro-Palestinian and anti-Israel content, and there is controversy regarding a post from Elon Musk on a social media platform, X. And finally, Sean Combs is being accused of rape and years of abuse in a lawsuit by singer Cassie.</p>
+There has been a lot of news lately about the Israel-Palestine conflict, with Israeli and Palestinian activists asking Americans to take sides for peace and Jewish celebrities and influencers confronting TikTok executives over promoting anti-Israel content. In addition, US President Joe Biden and Chinese President Xi Jinping have been cautiously cordial in their diplomatic visits, while researchers have discovered a disturbing rise in young victims of football-related chronic traumatic encephalopathy (CTE). On a brighter note, Jezebel has put out an oral history reflecting on a feminist era in people&#39;s lives and Gen Z content creators are the latest generation to be championing progressive causes. To end the update, there has recently been a resolution to the long-running Nagorno-Karabakh conflict, but time will tell if it will be long-lasting or not.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli and Palestinian Activists Ask Americans to Take Side of Peace</h3>
+<sub>By Talya Minsberg</sub>
+<p>Sally Abed, a Palestinian citizen of Israel, and Alon-Lee Green, a Jewish Israeli, found polarization in America over the war in Gaza. They also found longing for a new approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Jewish Celebrities and Influencers Confront TikTok Executives in Private Call</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>TikTok faces escalating accusations that it promotes pro-Palestinian, anti-Israel content. “Shame on you,” Sacha Baron Cohen said on the call.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>X Races to Contain Damage After Elon Musk Endorses Antisemitic Post</h3>
+<sub>By Ryan Mac</sub>
+<p>IBM, a major advertiser on X, has pulled its spending from the social media platform, whose employees are grappling with what to tell its other advertisers, according to internal messages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israeli Army Escorts Journalists to Gaza Hospital, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, George Santos won’t seek re-election and Sean Combs is accused of rape in a lawsuit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
 <sub>By David E. Sanger</sub>
@@ -74,64 +98,40 @@ There&#39;s been a lot happening in the world lately! President Biden has been e
 <p>Despite simmering tensions, President Biden and President Xi Jinping exchanged the kind of pleasantries that adversarial leaders deploy when they are trying to make nice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Day After Xi Meeting, Biden Says U.S. Has ‘Real Differences’ With China</h3>
-<sub>By Katie Rogers</sub>
-<p>Mr. Biden won applause when he noted that he and Mr. Xi had agreed to resume military-to-military communication to “reduce the risk of miscalculation.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Obsessed With Online Conspiracy Theories Convicted in Paul Pelosi Attack</h3>
-<sub>By Holly Secon, Tim Arango and Soumya Karlamangla</sub>
-<p>San Francisco jurors convicted David DePape, 43, of federal crimes for breaking into the home of Nancy Pelosi and striking her husband with a hammer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos Won’t Seek Re-election After House Panel Finds Evidence of Crimes</h3>
-<sub>By Grace Ashford</sub>
-<p>The findings, which were referred to prosecutors, are likely to prompt another attempt to expel the embattled congressman from the House.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Santos Spent Donors’ Money: Ferragamo, OnlyFans and Botox</h3>
-<sub>By Nicholas Fandos</sub>
-<p>House ethics investigators found that Representative George Santos used campaign money on personal spending splurges in the Hamptons and Atlantic City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans, Stalled on Spending, Weaponize the Power of the Purse</h3>
-<sub>By Robert Jimison</sub>
-<p>As Congress struggles to do the bare minimum of keeping the government funded, House Republicans are using the annual federal spending bills to try to punish the Biden administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Signs Spending Bill, Staving Off a Government Shutdown</h3>
-<sub>By Lisa Friedman</sub>
-<p>The bill sidesteps an immediate crisis, but the path to a longer-term agreement on government spending is unclear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Two Superpowers Walk Into a Garden</h3>
+<sub>By Sabrina Tavernise, Shannon Lin, Luke Vander Ploeg, Sydney Harper, M.J. Davis Lin, Brendan Klinkenberg, Marion Lozano, Dan Powell and Alyssa Moxley</sub>
+<p>President Biden and Xi Jinping, China’s top leader, met at a moment of tension between their two countries. Here’s how it went.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Jewish Celebrities and Influencers Confront TikTok Executives in Private Call</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>TikTok faces escalating accusations that it promotes pro-Palestinian, anti-Israel content. “Shame on you,” Sacha Baron Cohen said on the call.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Started Playing Football as Young as 6. They Died in Their Teens and Twenties With C.T.E.</h3>
+<sub>By Kassie Bracken, John Branch, Ben Laffin, Rebecca Lieberman and Joe Ward</sub>
+<p>They started playing football as kids, began to suffer mentally and died before 30. Researchers found they had C.T.E., the brain disease linked to hits to the head. If their families could go back, would they still let them play?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Videos About Bin Laden’s Criticism of U.S. Surge in Popularity on TikTok</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>The videos discuss a letter the former Al Qaeda leader wrote in 2002 in which he defended the Sept. 11 attacks and said Americans had become “servants” to Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Football’s Young Victims</h3>
+<sub>By David Leonhardt</sub>
+<p>Figuring out how to make the sport safer remains an urgent matter of public health.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>X Races to Contain Damage After Elon Musk Endorses Antisemitic Post</h3>
-<sub>By Ryan Mac</sub>
-<p>IBM, a major advertiser on X, has pulled its spending from the social media platform, whose employees are grappling with what to tell its other advertisers, according to internal messages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Jezebel, the Oral History: ‘There Was This Riotous Sense of Fun’</h3>
+<sub>By Kate Dwyer</sub>
+<p>The site defined an era of feminism for millions of readers. According to its editors and writers, it was also an exhilarating place to work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Sean Combs Is Accused by Cassie of Rape and Years of Abuse in Lawsuit</h3>
-<sub>By Ben Sisario</sub>
-<p>In the suit, the singer says Mr. Combs, known as Puff Daddy or Diddy, subjected her to a pattern of control and abuse over about a decade. Mr. Combs “vehemently” denied the allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Goodbye, Feminist Blogs. Hello, Gen Z Content Creators?</h3>
+<sub>By Emma Goldberg</sub>
+<p>Young women are more feminist than ever, as are big brands and Hollywood franchises. But what happened to the online community blogs and zines once offered?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What’s Left When a Long War Suddenly Ends</h3>
+<sub>By Ivan Nechepurenko and Sergey Ponomarev</sub>
+<p>While the conflict over the breakaway region of Nagorno-Karabakh concluded with an Azerbaijani victory, resentments simmer on both sides, creating fertile ground for new violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
