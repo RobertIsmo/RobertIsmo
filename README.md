@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 16, Central Standard Time</p>
 <p>
-Currently, pandas may still come to the United States from China, and a man has been arrested in California in connection to the death of a Jewish protester. In addition, there have been some federal criminal cases involving conspiracy theorists. On another note, a congressman from New York is not seeking re-election due to evidence of possible crimes, and he was found to have been spending donor money for personal items like Ferragamo shoes. On the government front, there is political tension as House Republicans are trying to punish the Biden administration through spending bills while Congress works to avoid another government shutdown. Also, an altercation in San Francisco has been raising questions about what actually occurred. Furthermore, there is an election going on in Iowa between Nikki Haley and Ron DeSantis, and voters have been discussing Kamala Harris (but not Joe Biden). Lastly, a major surge in cryptocurrency prices is being driven by speculation about a Bitcoin exchange traded fund.</p>
+Right now, there is a subtle shift in the power balance between US President Biden and Chinese leader Xi Jinping, with Xi desperately needing things from the US for the first time in years. China is attempting to prove its good will by saying they may continue to send giant pandas to America. There was also a trial of a man obsessed with online conspiracy theories who broke into Nancy Pelosi&#39;s house and assaulted her husband with a hammer. Across the US, there&#39;s a lot of activity happening around politicians - Representative George Santos won&#39;t be seeking re-election after House panel evidence of crimes, and he had been using donor money on expensive items for himself like Ferragamo shoes. Meanwhile, House Republicans have been weaponizing their power of the purse as Covid relief bills get passed. In terms of tech platforms, Jewish celebrities and influencers are confronted TikTok executives in a private call about pro-Palestinian, anti-Israel content appearing on the site. Videos about Osama bin Laden’s criticism of the US have become popular on the same platform. On another platform, X (which is owned by Elon Musk) is facing backlash after he endorsed an antisemitic post, leading IBM to pull its advertising from that website and employees struggling over what to tell other advertisers. In entertainment news, Sean Combs has been accused by singer Cassie of rape and years of abuse in a lawsuit, while the FBI ran raids at homes belonging to an Adams aide and former Turkish airline official. Finally, there are more seniors than ever before choosing pot over pills due to suggestion of medicinal benefits from cannabis use as we age.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
+<sub>By David E. Sanger</sub>
+<p>For the first time in years, a Chinese leader desperately needed a few things from the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Panda Diplomacy Might Not Be Dead Just Yet</h3>
 <sub>By Edward Wong</sub>
 <p>President Xi Jinping of China said his country may keep sending giant pandas to the United States. The National Zoo in Washington sent three of them back to China last week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Is Arrested in Death of Jewish Protester After California Altercation</h3>
-<sub>By Corina Knoll and Victor Mather</sub>
-<p>The authorities said the man was being held on suspicion of involuntary manslaughter in the death of a 69-year-old Jewish protester in Thousand Oaks this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +98,40 @@ Currently, pandas may still come to the United States from China, and a man has 
 <p>As Congress struggles to do the bare minimum of keeping the government funded, House Republicans are using the annual federal spending bills to try to punish the Biden administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Prevented a Shutdown, but the Spending Fight Is Far From Over</h3>
-<sub>By Carl Hulse and Catie Edmondson</sub>
-<p>Lawmakers bought time for talks, but heading off another shutdown threat early next year will be difficult. And a separate funding measure for Israel, Ukraine and the border remains unaddressed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>A Homeless Man Attacked Him. But Was There More to the Story?</h3>
-<sub>By Jesse Barron</sub>
-<p>An altercation in San Francisco has raised fears about the city’s future — but also questions about what really happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Haley Tussles With DeSantis, Aiming to Prove Herself in Iowa</h3>
-<sub>By Jazmine Ulloa and Nicholas Nehamas</sub>
-<p>Nikki Haley is vying for a matchup with Donald Trump in her home state. The calculus is similar for Ron DeSantis, who has stepped up his attacks on his rival for second place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>We Talked to Some Kamala-but-Not-Joe Voters. Here’s What They Said.</h3>
-<sub>By Claire Cain Miller and Nate Cohn</sub>
-<p>A slice of voters would vote for Vice President Harris but not President Biden, reflecting his challenges and opportunities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Jewish Celebrities and Influencers Confront TikTok Executives in Private Call</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>TikTok faces escalating accusations that it promotes pro-Palestinian, anti-Israel content. “Shame on you,” Sacha Baron Cohen said on the call.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Cryptocurrency Prices Surge, Driven by a Potential Bitcoin Fund</h3>
-<sub>By David Yaffe-Bellany</sub>
-<p>Investors anticipate regulatory approval of an exchange traded fund linked directly to Bitcoin, which they hope will encourage more people to invest in the digital asset.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Videos About Bin Laden’s Criticism of U.S. Surge in Popularity on TikTok</h3>
+<sub>By Sapna Maheshwari</sub>
+<p>The videos discuss a letter the former Al Qaeda leader wrote in 2002 in which he defended the Sept. 11 attacks and said Americans had become “servants” to Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retailers Wary of Squeeze on Shoppers Ahead of Key Holiday Season</h3>
-<sub>By J. Edward Moreno and Jordyn Holman</sub>
-<p>Consumers have bucked expectations despite high inflation and interest rates, but retailers worry whether they can keep it up through the end of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>X Races to Contain Damage After Elon Musk Endorses Antisemitic Post</h3>
+<sub>By Ryan Mac</sub>
+<p>IBM, a major advertiser on X, has pulled its spending from the social media platform, whose employees are grappling with what to tell its other advertisers, according to internal messages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Sean Combs Is Accused by Cassie of Rape and Years of Abuse in Lawsuit</h3>
+<sub>By Ben Sisario</sub>
+<p>In the suit, the singer says Mr. Combs, known as Puff Daddy or Diddy, subjected her to a pattern of control and abuse over about a decade. Mr. Combs “vehemently” denied the allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>F.B.I. Raided Homes of Second Adams Aide and Ex-Turkish Airline Official</h3>
+<sub>By William K. Rashbaum, Michael Rothfeld, Dana Rubinstein and Nicole Hong</sub>
+<p>On the same day the federal authorities raided the home of Mayor Eric Adams’s chief fund-raiser, they also searched the residences of two people with ties to Turkey.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Why Some Seniors Are Choosing Pot Over Pills</h3>
+<sub>By Christina Caron</sub>
+<p>Older people are using cannabis more than ever. Here’s what to know about its potential medicinal benefits and side effects as we age.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
