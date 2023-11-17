@@ -60,52 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension between Israel and Palestine that is escalating, and two activists from the region have asked Americans to pick a side of peace. There is controversy over some content shared on TikTok being anti-Israel, and people like Sacha Baron Cohen are speaking out against it. On top of this, Elon Musk recently posted an antisemitic post, leading IBM and other companies to pull advertising from the platform. 
+Right now, there are a lot of economic, political, and social changes happening around the world. In the US, some people are worried about the lack of evidence for the US government’s insistence that Hamas was operating under Al-Shifa. Meanwhile, young people are facing economic despair and it could have implications for the 2024 US election. One family in Gaza had to fight to escape the war and a different congressman is pushing to expel Santos after a damning report. 
 
-President Biden had a meeting with Xi Jinping, the top leader in China, where both countries discussed their differences and how to move forward in a positive way. China is also trying to revive its economy by bulldozing old neighborhoods, which could be financially beneficial but would displace many people.
-
-Football has been linked to brain diseases like CTE because of hits to the head, so there&#39;s now research going into how to make the sport safer for players. In NYC, some empty office buildings are being converted into housing in a financial district to house many families. Universities like Johns Hopkins University are also taking notes from this idea and transforming museums into modern centers for students. Finally, Congressman George Santos has been accused of using campaign money on personal indulgences like Ferragamo clothing and Botox treatments in Hamptons and Atlantic City.</p>
+Across the world, Israeli and Palestinian activists have asked Americans to take their side in peace efforts. On top of that, China has been bulldozing old neighborhoods to revive their economy, along with having a subtle shift in the power balance with their leader Xi Jinping. There have also been attempts to fill up empty offices with housing in NYC’s financial district. In terms of sports, football has been facing safety concerns since researchers found that young players had CTE from head hits. And universities have been moving into empty buildings like John Hopkins University Bloomberg Center in order to become hubs for communities.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Want to Know What’s Bedeviling Biden? TikTok Economics May Hold Clues.</h3>
+<sub>By Jeanna Smialek and Jim Tankersley</sub>
+<p>Economic despair dominates social media as young people fret about the cost of living. It offers a snapshot of the challenges facing Democrats ahead of the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fed’s Decisions Now Could Alter the 2024 Elections</h3>
+<sub>By Jeff Sommer</sub>
+<p>The state of the economy will affect voting next November, and the Federal Reserve may find itself in a delicate position, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli and Palestinian Activists Ask Americans to Take Side of Peace</h3>
 <sub>By Talya Minsberg</sub>
 <p>Sally Abed, a Palestinian citizen of Israel, and Alon-Lee Green, a Jewish Israeli, found polarization in America over the war in Gaza. They also found longing for a new approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Jewish Celebrities and Influencers Confront TikTok Executives in Private Call</h3>
-<sub>By Sapna Maheshwari</sub>
-<p>TikTok faces escalating accusations that it promotes pro-Palestinian, anti-Israel content. “Shame on you,” Sacha Baron Cohen said on the call.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>X Races to Contain Damage After Elon Musk Endorses Antisemitic Post</h3>
-<sub>By Ryan Mac</sub>
-<p>IBM, a major advertiser on X, has pulled its spending from the social media platform, whose employees are grappling with what to tell its other advertisers, according to internal messages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israeli Army Escorts Journalists to Gaza Hospital, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, George Santos won’t seek re-election and Sean Combs is accused of rape in a lawsuit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
-<sub>By David E. Sanger</sub>
-<p>For the first time in years, a Chinese leader desperately needed a few things from the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Two Superpowers Walk Into a Garden</h3>
-<sub>By Sabrina Tavernise, Shannon Lin, Luke Vander Ploeg, Sydney Harper, M.J. Davis Lin, Brendan Klinkenberg, Marion Lozano, Dan Powell and Alyssa Moxley</sub>
-<p>President Biden and Xi Jinping, China’s top leader, met at a moment of tension between their two countries. Here’s how it went.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Despite lack of evidence, U.S. insists Hamas was operating under Al-Shifa.</h3>
+<sub>By Helene Cooper and Julian E. Barnes</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Wants to Bulldoze Old Neighborhoods to Revive the Economy</h3>
-<sub>By Daisuke Wakabayashi, Claire Fu and Keith Bradsher</sub>
-<p>The halting revitalization of one “urban village” in Shenzhen shows the challenges of fixing a national property crisis after years of overborrowing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Santos Faces New Expulsion Push Led by His Own Party After Damning Report</h3>
+<sub>By Nicholas Fandos, Grace Ashford and Michael Gold</sub>
+<p>The resolution from Representative Michael Guest, a Republican, sets the stage for a vote shortly after Thanksgiving.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,6 +106,24 @@ Football has been linked to brain diseases like CTE because of hits to the head,
 <p>Figuring out how to make the sport safer remains an urgent matter of public health.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘We’ll Never Get Out of Hell’: One American Family’s Escape From Gaza</h3>
+<sub>By Anna Betts and Vivian Yee</sub>
+<p>Lena Beseiso was visiting family with her children and grandson when the war broke out and thrust them into a fight for survival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
+<sub>By David E. Sanger</sub>
+<p>For the first time in years, a Chinese leader desperately needed a few things from the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Wants to Bulldoze Old Neighborhoods to Revive the Economy</h3>
+<sub>By Daisuke Wakabayashi, Claire Fu and Keith Bradsher</sub>
+<p>The halting revitalization of one “urban village” in Shenzhen shows the challenges of fixing a national property crisis after years of overborrowing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The N.Y.C. Neighborhood Where Families Are Filling Up Empty Offices</h3>
 <sub>By Matthew Haag</sub>
@@ -131,12 +135,6 @@ Football has been linked to brain diseases like CTE because of hits to the head,
 <sub>By Michael Kimmelman</sub>
 <p>The stylish new Johns Hopkins University Bloomberg Center took over a former museum in Washington. It’s got potential to become a community hub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Santos Spent Donors’ Money: Ferragamo, OnlyFans and Botox</h3>
-<sub>By Nicholas Fandos</sub>
-<p>House ethics investigators found that Representative George Santos used campaign money on personal spending splurges in the Hamptons and Atlantic City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
