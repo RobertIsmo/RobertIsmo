@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
 <p>
-Right now, there are a lot of economic, political, and social changes happening around the world. In the US, some people are worried about the lack of evidence for the US government’s insistence that Hamas was operating under Al-Shifa. Meanwhile, young people are facing economic despair and it could have implications for the 2024 US election. One family in Gaza had to fight to escape the war and a different congressman is pushing to expel Santos after a damning report. 
-
-Across the world, Israeli and Palestinian activists have asked Americans to take their side in peace efforts. On top of that, China has been bulldozing old neighborhoods to revive their economy, along with having a subtle shift in the power balance with their leader Xi Jinping. There have also been attempts to fill up empty offices with housing in NYC’s financial district. In terms of sports, football has been facing safety concerns since researchers found that young players had CTE from head hits. And universities have been moving into empty buildings like John Hopkins University Bloomberg Center in order to become hubs for communities.</p>
+There&#39;s a lot going on in the world right now. In the business realm, young people are struggling to make ends meet and it appears to be affecting how they will vote in 2024. The Federal Reserve is also influencing how this election cycles outcome could look. Internationally, Israel&#39;s government is coming under fire with new reports of hostages found near one of their military hospitals. Closer to home, a prominent Congressman is introducing legislation to possibly expel Santos from his seat. In other politics news, an election for Speaker revealed some controversial views. Meanwhile, an American family in Gaza was forced to fight for survival amid war and turmoil in the country. For a more uplifting story, New York City is converting office spaces into homes for families who need them and universities are taking advantage of empty buildings too. Unfortunately, football players have been dying younger and younger due to CTE caused by hits made while playing sports early on. In the literary world, renown British novelist A.S. Byatt passed away at age 87 and a case by former singer Cassie against Sean Combs might change how we view her music career. Lastly, OpenAI&#39;s CEO has been removed and replaced with a new interim CEO following company changes.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Want to Know What’s Bedeviling Biden? TikTok Economics May Hold Clues.</h3>
@@ -77,14 +75,8 @@ Across the world, Israeli and Palestinian activists have asked Americans to take
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli and Palestinian Activists Ask Americans to Take Side of Peace</h3>
-<sub>By Talya Minsberg</sub>
-<p>Sally Abed, a Palestinian citizen of Israel, and Alon-Lee Green, a Jewish Israeli, found polarization in America over the war in Gaza. They also found longing for a new approach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Despite lack of evidence, U.S. insists Hamas was operating under Al-Shifa.</h3>
-<sub>By Helene Cooper and Julian E. Barnes</sub>
+<h3>Israel says a 2nd hostage’s body was found near Al-Shifa, as pressure grows over the captives.</h3>
+<sub>By Aaron Boxerman</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
@@ -95,33 +87,15 @@ Across the world, Israeli and Palestinian activists have asked Americans to take
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Started Playing Football as Young as 6. They Died in Their Teens and Twenties With C.T.E.</h3>
-<sub>By Kassie Bracken, John Branch, Ben Laffin, Rebecca Lieberman and Joe Ward</sub>
-<p>They started playing football as kids, began to suffer mentally and died before 30. Researchers found they had C.T.E., the brain disease linked to hits to the head. If their families could go back, would they still let them play?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Football’s Young Victims</h3>
-<sub>By David Leonhardt</sub>
-<p>Figuring out how to make the sport safer remains an urgent matter of public health.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Weeks Before Election as Speaker, Johnson Lamented ‘Dark and Depraved’ Culture</h3>
+<sub>By Annie Karni</sub>
+<p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>‘We’ll Never Get Out of Hell’: One American Family’s Escape From Gaza</h3>
 <sub>By Anna Betts and Vivian Yee</sub>
 <p>Lena Beseiso was visiting family with her children and grandson when the war broke out and thrust them into a fight for survival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
-<sub>By David E. Sanger</sub>
-<p>For the first time in years, a Chinese leader desperately needed a few things from the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Wants to Bulldoze Old Neighborhoods to Revive the Economy</h3>
-<sub>By Daisuke Wakabayashi, Claire Fu and Keith Bradsher</sub>
-<p>The halting revitalization of one “urban village” in Shenzhen shows the challenges of fixing a national property crisis after years of overborrowing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -134,6 +108,30 @@ Across the world, Israeli and Palestinian activists have asked Americans to take
 <h3>Downtowns Are Full of Empty Buildings. Universities Are Moving In.</h3>
 <sub>By Michael Kimmelman</sub>
 <p>The stylish new Johns Hopkins University Bloomberg Center took over a former museum in Washington. It’s got potential to become a community hub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Started Playing Football as Young as 6. They Died in Their Teens and Twenties With C.T.E.</h3>
+<sub>By Kassie Bracken, John Branch, Ben Laffin, Rebecca Lieberman and Joe Ward</sub>
+<p>They started playing football as kids, began to suffer mentally and died before 30. Researchers found they had C.T.E., the brain disease linked to hits to the head. If their families could go back, would they still let them play?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>A.S. Byatt, Scholar Who Found Literary Fame With Fiction, Dies at 87</h3>
+<sub>By Rebecca Chace</sub>
+<p>One of Britain’s most ambitious and intellectual novelists, she won the Booker Prize with “Possession,” her 1990 tale of illicit love spanning two centuries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
+<sub>By Cade Metz</sub>
+<p>Mira Murati, who previously served as chief technology officer, has been named interim chief executive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Cassie’s Suit Against Sean Combs May Cast Her Career in a New Light</h3>
+<sub>By Joe Coscarelli</sub>
+<p>The R&amp;B singer was poised for a big breakout after her 2006 hit song “Me &amp; U.” But her second album never arrived.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
