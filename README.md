@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on right now! President Biden has been meeting with China&#39;s leader, Xi Jinping, and while the two countries have real differences, they&#39;ve agreed to communicate more to reduce the risk of miscalculation. The US House of Representatives also just found evidence of some congressman committing crimes, resulting in calls for his expulsion. There&#39;s been some tension between Jews and TikTok lately as well, since the social media platform has been promoting some anti-Israel content. Last but not least, Sean Combs (aka P. Diddy), is being accused of rape and years of abuse by singer Cassie and the FBI just raided the homes of Eric Adams&#39; chief fundraiser and a former Turkish airline official.</p>
+There&#39;s been a lot happening in the world lately! President Biden has been engaging with China&#39;s president Xi Jinping to try to build trust between the two countries. There was also some news recently about US congressman George Santos, who is facing serious charges and won&#39;t be running for re-election. On the tech side of things, TikTok is being accused of promoting pro-Palestinian and anti-Israel content, and there is controversy regarding a post from Elon Musk on a social media platform, X. And finally, Sean Combs is being accused of rape and years of abuse in a lawsuit by singer Cassie.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
@@ -104,6 +104,12 @@ There&#39;s a lot going on right now! President Biden has been meeting with Chin
 <p>As Congress struggles to do the bare minimum of keeping the government funded, House Republicans are using the annual federal spending bills to try to punish the Biden administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Signs Spending Bill, Staving Off a Government Shutdown</h3>
+<sub>By Lisa Friedman</sub>
+<p>The bill sidesteps an immediate crisis, but the path to a longer-term agreement on government spending is unclear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Jewish Celebrities and Influencers Confront TikTok Executives in Private Call</h3>
 <sub>By Sapna Maheshwari</sub>
@@ -126,12 +132,6 @@ There&#39;s a lot going on right now! President Biden has been meeting with Chin
 <h3>Sean Combs Is Accused by Cassie of Rape and Years of Abuse in Lawsuit</h3>
 <sub>By Ben Sisario</sub>
 <p>In the suit, the singer says Mr. Combs, known as Puff Daddy or Diddy, subjected her to a pattern of control and abuse over about a decade. Mr. Combs “vehemently” denied the allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>F.B.I. Raided Homes of Second Adams Aide and Ex-Turkish Airline Official</h3>
-<sub>By William K. Rashbaum, Michael Rothfeld, Dana Rubinstein and Nicole Hong</sub>
-<p>On the same day the federal authorities raided the home of Mayor Eric Adams’s chief fund-raiser, they also searched the residences of two people with ties to Turkey.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
