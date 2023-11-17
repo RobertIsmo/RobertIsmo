@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, November 16, Central Standard Time</p>
+<p>It is Friday, November 17, Central Standard Time</p>
 <p>
-It looks like there has been a lot going on in the world recently! President Biden has had a subtle shift in the power balance with China&#39;s President Xi Jinping, and they have agreed to resume military-to-military communication. Meanwhile, Congress is weaponizing the power of the purse to try to punish the Biden administration as it struggles to keep the government funded. On top of that, TikTok is facing accusations of promoting anti-Israel content, and IBM has pulled its spending from the platform as a result. Lastly, Sean Combs is being accused of rape and years of abuse and the FBI has raided homes of Mayor Adams&#39; chief fundraiser and two other people related to Turkey.</p>
+There&#39;s a lot going on right now! President Biden has been meeting with China&#39;s leader, Xi Jinping, and while the two countries have real differences, they&#39;ve agreed to communicate more to reduce the risk of miscalculation. The US House of Representatives also just found evidence of some congressman committing crimes, resulting in calls for his expulsion. There&#39;s been some tension between Jews and TikTok lately as well, since the social media platform has been promoting some anti-Israel content. Last but not least, Sean Combs (aka P. Diddy), is being accused of rape and years of abuse by singer Cassie and the FBI just raided the homes of Eric Adams&#39; chief fundraiser and a former Turkish airline official.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Biden, a Subtle Shift in the Power Balance With China’s Xi Jinping</h3>
