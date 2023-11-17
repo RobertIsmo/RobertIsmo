@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
 <p>
-There has been a lot of news lately about the Israel-Palestine conflict, with Israeli and Palestinian activists asking Americans to take sides for peace and Jewish celebrities and influencers confronting TikTok executives over promoting anti-Israel content. In addition, US President Joe Biden and Chinese President Xi Jinping have been cautiously cordial in their diplomatic visits, while researchers have discovered a disturbing rise in young victims of football-related chronic traumatic encephalopathy (CTE). On a brighter note, Jezebel has put out an oral history reflecting on a feminist era in people&#39;s lives and Gen Z content creators are the latest generation to be championing progressive causes. To end the update, there has recently been a resolution to the long-running Nagorno-Karabakh conflict, but time will tell if it will be long-lasting or not.</p>
+Right now, there&#39;s a lot of tension between Israel and Palestine that is escalating, and two activists from the region have asked Americans to pick a side of peace. There is controversy over some content shared on TikTok being anti-Israel, and people like Sacha Baron Cohen are speaking out against it. On top of this, Elon Musk recently posted an antisemitic post, leading IBM and other companies to pull advertising from the platform. 
+
+President Biden had a meeting with Xi Jinping, the top leader in China, where both countries discussed their differences and how to move forward in a positive way. China is also trying to revive its economy by bulldozing old neighborhoods, which could be financially beneficial but would displace many people.
+
+Football has been linked to brain diseases like CTE because of hits to the head, so there&#39;s now research going into how to make the sport safer for players. In NYC, some empty office buildings are being converted into housing in a financial district to house many families. Universities like Johns Hopkins University are also taking notes from this idea and transforming museums into modern centers for students. Finally, Congressman George Santos has been accused of using campaign money on personal indulgences like Ferragamo clothing and Botox treatments in Hamptons and Atlantic City.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli and Palestinian Activists Ask Americans to Take Side of Peace</h3>
@@ -92,16 +96,16 @@ There has been a lot of news lately about the Israel-Palestine conflict, with Is
 <p>For the first time in years, a Chinese leader desperately needed a few things from the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Car Talk and Birthday Wishes Punctuate Biden’s ‘Trust but Verify’ Diplomacy</h3>
-<sub>By Katie Rogers</sub>
-<p>Despite simmering tensions, President Biden and President Xi Jinping exchanged the kind of pleasantries that adversarial leaders deploy when they are trying to make nice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Two Superpowers Walk Into a Garden</h3>
 <sub>By Sabrina Tavernise, Shannon Lin, Luke Vander Ploeg, Sydney Harper, M.J. Davis Lin, Brendan Klinkenberg, Marion Lozano, Dan Powell and Alyssa Moxley</sub>
 <p>President Biden and Xi Jinping, China’s top leader, met at a moment of tension between their two countries. Here’s how it went.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Wants to Bulldoze Old Neighborhoods to Revive the Economy</h3>
+<sub>By Daisuke Wakabayashi, Claire Fu and Keith Bradsher</sub>
+<p>The halting revitalization of one “urban village” in Shenzhen shows the challenges of fixing a national property crisis after years of overborrowing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +120,22 @@ There has been a lot of news lately about the Israel-Palestine conflict, with Is
 <p>Figuring out how to make the sport safer remains an urgent matter of public health.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Jezebel, the Oral History: ‘There Was This Riotous Sense of Fun’</h3>
-<sub>By Kate Dwyer</sub>
-<p>The site defined an era of feminism for millions of readers. According to its editors and writers, it was also an exhilarating place to work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The N.Y.C. Neighborhood Where Families Are Filling Up Empty Offices</h3>
+<sub>By Matthew Haag</sub>
+<p>Five financial district buildings are being turned into housing, including the country’s largest such conversion. Will it work elsewhere in Manhattan?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Goodbye, Feminist Blogs. Hello, Gen Z Content Creators?</h3>
-<sub>By Emma Goldberg</sub>
-<p>Young women are more feminist than ever, as are big brands and Hollywood franchises. But what happened to the online community blogs and zines once offered?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Downtowns Are Full of Empty Buildings. Universities Are Moving In.</h3>
+<sub>By Michael Kimmelman</sub>
+<p>The stylish new Johns Hopkins University Bloomberg Center took over a former museum in Washington. It’s got potential to become a community hub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What’s Left When a Long War Suddenly Ends</h3>
-<sub>By Ivan Nechepurenko and Sergey Ponomarev</sub>
-<p>While the conflict over the breakaway region of Nagorno-Karabakh concluded with an Azerbaijani victory, resentments simmer on both sides, creating fertile ground for new violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Santos Spent Donors’ Money: Ferragamo, OnlyFans and Botox</h3>
+<sub>By Nicholas Fandos</sub>
+<p>House ethics investigators found that Representative George Santos used campaign money on personal spending splurges in the Hamptons and Atlantic City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
