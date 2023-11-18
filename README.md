@@ -60,12 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 18, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Gaza, the war has taken an especially hard toll on children, making it like a graveyard for them. Northern Gaza has been left with devastation and disfigurement due to the conflict. In Israel, there is debate over how long it will take for the military to present definitive proof of something they have accused a hospital of. 
-
-In tech news, Sam Altman stepped down as CEO of OpenAI and Mira Murati has been named interim CEO. There has also been a lot of controversy surrounding Elon Musk&#39;s endorsement of an antisemitic post leading major corporations to stop advertising on his social media platform X (formerly Twitter).
-
-On a more lighthearted note, R&amp;B singer Cassie Ventura settled her lawsuit alleging rape and abuse by Sean Combs. Additionally, sex workers have been struggling to gain access to financial services because many banks deem the industry too high-risk. An article was even published discussing ways to keep your bank from suddenly closing your accounts.</p>
+There is a lot going on in the world right now. In Israel, military operations have been underway for weeks to try to gain ground on Gaza and free hostages. Sadly, there have been reports of many civilian casualties, mostly children. In India, women are still facing patriarchy and restrictions on their lives, and many choose to marry someone who helps them challenge that system. In space news, SpaceX made progress with its giant rocket designed to send astronauts to the moon and Mars--both attempts ended differently, though. There&#39;s also been a lot of drama in the tech world--Sam Altman was abruptly ousted as CEO of OpenAI and Mira Murati stepped up as the interim CEO. And Elon Musk is facing a serious backlash after endorsing an antisemitic post on X, which caused some advertisers like Apple and Disney to pull their marketing.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Is Israel’s Military Strategy to Eradicate Hamas Working?</h3>
+<sub>By Eric Schmitt, Ronen Bergman and Adam Goldman</sub>
+<p>Israel is making progress in ground control of Gaza, but it has not vanquished Hamas or freed most of the hostages. And international condemnation of civilian casualties is growing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The War Turns Gaza Into a ‘Graveyard’ for Children</h3>
 <sub></sub>
@@ -75,14 +77,14 @@ On a more lighthearted note, R&amp;B singer Cassie Ventura settled her lawsuit a
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</h3>
 <sub>By Patrick Kingsley and Daniel Berehulak</sub>
-<p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions inside wartime Gaza. They saw houses flattened like playing cards, and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions in wartime Gaza. They saw houses flattened like playing cards and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel Says Hospital Held Hamas Command Center: How Long Could It Take for Proof?</h3>
-<sub>By Helene Cooper</sub>
-<p>Military experts say it could take days, weeks or months for Israel to make a definitive case. Or it might never come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Many Details of Sam Altman’s Ouster Are Murky. But Some Things Are Clear.</h3>
+<sub>By Kevin Roose</sub>
+<p>Everything seemed to be going his way. Then his time at OpenAI was over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
@@ -114,6 +116,12 @@ On a more lighthearted note, R&amp;B singer Cassie Ventura settled her lawsuit a
 <p>Here was the paradox of being a woman in modern India. Sometimes a path from the oppression of patriarchy was marriage to a man willing to help challenge that system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>SpaceX Makes Progress in 2nd Launch of Giant Moon and Mars Rocket</h3>
+<sub>By Kenneth Chang</sub>
+<p>The journeys of Starship’s two parts ended in separate explosions. But the engineers at Elon Musk’s spaceflight company overcame problems that marred the rocket’s first flight in April.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Cassie Settles Lawsuit Accusing Sean Combs of Rape and Abuse</h3>
 <sub>By Ben Sisario</sub>
@@ -125,18 +133,6 @@ On a more lighthearted note, R&amp;B singer Cassie Ventura settled her lawsuit a
 <sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
 <p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Sex Workers Have Been Shunned by Banks, Even When Their Work Is Legal</h3>
-<sub>By Tara Siegel Bernard</sub>
-<p>Financial service companies often avoid what they deem high-risk industries like adult entertainment. When workers lose their accounts, they are left with few options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How to Keep Your Bank From Closing All Your Accounts</h3>
-<sub>By Ron Lieber</sub>
-<p>Banks have suddenly shut down the accounts of scores of customers. Here’s how you can avoid becoming one of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
