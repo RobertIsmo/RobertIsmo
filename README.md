@@ -58,8 +58,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, November 17, Central Standard Time</p>
-<p>There&#39;s been a lot of news about the Middle East, particularly in regards to the conflict between Israel and Gaza. There have been huge protests around the world, particularly in NYC in support of Palestine. Technology news has been dominated by a shakeup at OpenAI, a tech company, and there&#39;s concern about increasing antisemitism online. In other news, a US judge ruled that former President Donald Trump had engaged in insurrection and there are investigations into colleges for dealing with complaints of antisemitism and Islamophobia. Finally, there&#39;s been controversy over a sideline reporter making up reports during an NFL game.</p>
+<p>It is Saturday, November 18, Central Standard Time</p>
+<p>In the world, there is a lot going on right now. OpenAI recently changed leaders, with Mira Murati taking over as interim C.E.O. Meanwhile, advertisers have been fleeing a certain platform after Elon Musk faced public outcry over an antisemitic post and Israel has discovered a tunnel shaft at Gaza hospital that Hamas may be using for weapon hiding and command centers. Additionally, the conflict between Israel and Hamas has driven more attention to online antisemitism, and thousands of people are coming together in protests across New York City supporting Palestine. There is also a curious exhibition in Rome dedicated to J.R.R Tolkien that has some wondering if it&#39;s become part of the culture wars, and Nikki Haley has said she would sign a six-week abortion ban as governor if she was still in office. Finally, there is a pro-Palestinian organization at college campuses that some say has caused intimidation and antisemitism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
@@ -109,6 +109,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Says She Would Have Signed Six-Week Abortion Ban as Governor</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The former governor of South Carolina, who has tried to thread the needle on abortion in the G.O.P. race, made a gesture of support for stricter limits on the procedure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Exhibition of Orcs and Elves Has Rome Abuzz, and Bewildered</h3>
+<sub>By Jason Horowitz</sub>
+<p>Italy’s Culture Ministry has opened a curious show dedicated to the life and works of J.R.R. Tolkien — and perhaps a new front in the culture wars. It’s “beautiful.” Just ask the prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Thousands Gather in Pro-Palestinian Protests Across New York City</h3>
 <sub>By Claire Fahy, Erin Nolan and Olivia Bensimon</sub>
@@ -119,18 +131,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h3>Inside the Pro-Palestinian Group Protesting Across College Campuses</h3>
 <sub>By Alan Blinder</sub>
 <p>Students for Justice in Palestine, which was founded at Berkeley, has fueled activism, and, critics say, intimidation and antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Investigates Colleges for Antisemitism and Islamophobia Complaints</h3>
-<sub>By Hurubie Meko</sub>
-<p>Columbia, Cooper Union, Cornell and University of Pennsylvania were among half a dozen universities under investigation for harassment complaints on campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Often Dismissed, Sideline Reporters Now Deal With Fabrication Fallout</h3>
-<sub>By Jenny Vrentas and Kevin Draper</sub>
-<p>Charissa Thompson’s statement that she had made up reports during N.F.L. games on Fox left many of her counterparts aghast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
