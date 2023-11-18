@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, military operations have been underway for weeks to try to gain ground on Gaza and free hostages. Sadly, there have been reports of many civilian casualties, mostly children. In India, women are still facing patriarchy and restrictions on their lives, and many choose to marry someone who helps them challenge that system. In space news, SpaceX made progress with its giant rocket designed to send astronauts to the moon and Mars--both attempts ended differently, though. There&#39;s also been a lot of drama in the tech world--Sam Altman was abruptly ousted as CEO of OpenAI and Mira Murati stepped up as the interim CEO. And Elon Musk is facing a serious backlash after endorsing an antisemitic post on X, which caused some advertisers like Apple and Disney to pull their marketing.</p>
+There is a lot happening in the world right now. In Israel, there&#39;s a military strategy to eradicate Hamas that has been making progress but international condemnation over civilian casualties is growing. Meanwhile in Gaza, there have been thousands of children killed in the current conflict, with the Israeli military claiming to take &quot;all feasible precautions&quot; to avoid more deaths. On the technology front, Sam Altman recently left his post at OpenAI after everything seemed to be going his way. He does however have plans for potentially changing the world as we know it. In education, the American College Board is trying to increase access to advanced placement tests even though many students failed them, often leaving taxpayers to foot the bill. In India, some people are finding unlikely ways out of oppressive patriarchal systems through marriage. Space X has been attempting launches of giant moon and mars rockets with varying success, and banks have been shunning sex workers despite their work being legal, leaving many without accounts. In Las Vegas, they&#39;re hosting F1 events accompanied by long-term nuisances for locals, while Pablo Escobar&#39;s cocaine hippos are now being sterilized in Colombia to protect the country&#39;s ecosystem.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Is Israel’s Military Strategy to Eradicate Hamas Working?</h3>
@@ -74,12 +74,6 @@ There is a lot going on in the world right now. In Israel, military operations h
 <p>Thousands of children have been killed in the enclave since the Israeli assault began, officials in Gaza say. The Israeli military says it takes “all feasible precautions” to avoid civilian deaths.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</h3>
-<sub>By Patrick Kingsley and Daniel Berehulak</sub>
-<p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions in wartime Gaza. They saw houses flattened like playing cards and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Many Details of Sam Altman’s Ouster Are Murky. But Some Things Are Clear.</h3>
 <sub>By Kevin Roose</sub>
@@ -87,22 +81,10 @@ There is a lot going on in the world right now. In Israel, military operations h
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
+<h3>The ChatGPT King Isn’t Worried, but He Knows You Might Be</h3>
 <sub>By Cade Metz</sub>
-<p>Mira Murati, who previously served as chief technology officer, has been named interim chief executive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meet Mira Murati, the Engineer Now Leading OpenAI</h3>
-<sub>By Tripp Mickle and Cade Metz</sub>
-<p>The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Emergency Pod: Sam Altman is Out at Open AI</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Corey Schreppel, Dan Powell and Marion Lozano</sub>
-<p>“Probably the most shocking tech story of the year.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<p>Sam Altman sees the pros and cons of totally changing the world as we know it. And if he does make human intelligence useless, he has a plan to fix it.  <a href="https://nyti.ms/3M30jJ6"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, March 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why Is the College Board Pushing to Expand Advanced Placement?</h3>
@@ -122,17 +104,35 @@ There is a lot going on in the world right now. In Israel, military operations h
 <p>The journeys of Starship’s two parts ended in separate explosions. But the engineers at Elon Musk’s spaceflight company overcame problems that marred the rocket’s first flight in April.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Cassie Settles Lawsuit Accusing Sean Combs of Rape and Abuse</h3>
-<sub>By Ben Sisario</sub>
-<p>The R&amp;B singer Casandra Ventura and the music mogul did not disclose terms of the settlement, which came one day after Ms. Ventura filed an explosive complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Sex Workers Have Been Shunned by Banks, Even When Their Work Is Legal</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Financial service companies often avoid what they deem high-risk industries like adult entertainment. When workers lose their accounts, they are left with few options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How to Keep Your Bank From Closing All Your Accounts</h3>
+<sub>By Ron Lieber</sub>
+<p>Banks have suddenly shut down the accounts of scores of customers. Here’s how you can avoid becoming one of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>After a Landmark Verdict, Realtors Ask, ‘What’s Next?’</h3>
+<sub>By Ronda Kaysen</sub>
+<p>A recent ruling has the potential to transform the way Americans buy and sell homes — and many real estate agents are feeling a sense of foreboding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
-<sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
-<p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F1 in Las Vegas: A Roaring Spectacle for Fans, but a Huge Headache for Locals</h3>
+<sub>By Jack Healy</sub>
+<p>The flashy adult playground shrouds itself in black tarp to block views of the racing spectacle from prying (unticketed) eyes. Its transformation has become a long-term, costly nuisance for locals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Colombia to Sterilize Pablo Escobar’s ‘Cocaine Hippos’</h3>
+<sub>By Michael Levenson</sub>
+<p>The drug kingpin brought four hippos to his estate in the 1980s. Officials estimate that about 170 now roam Colombia, and say the population must be controlled to protect the country’s ecosystem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
