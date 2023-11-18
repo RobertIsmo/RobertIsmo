@@ -60,13 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 18, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world recently! In the tech space, there&#39;s been a big shake-up at OpenAI. Sam Altman, the high-profile CEO there, has been replaced by Mira Murati who was previously their CTO. There was also controversy surrounding tech mogul Elon Musk after he endorsed an antisemitic post, leading to major advertisers such as Apple and Disney cutting ties with his platform X. 
+It looks like there&#39;s a lot of interesting and important news happening around the world right now! In tech, the high-profile CEO of OpenAI, Sam Altman, has been replaced with interim CEO Mira Murati. There’s a lot of conversation about Israel in the news right now too; they’ve said a hospital in Gaza was being used as a Hamas command center and military experts are hesitant to come to any conclusions about it. The College Board is pushing to expand Advanced Placement offerings, which taxpayers are paying at least $90 million for. Advertisers have also pulled out from a formerly-Twitter platform after Elon Musk made an endorsement of an antisemitic post. 
 
-In the Middle East, New York Times journalists have recently reported on the destructive aftermath of the Israel-Hamas war in Northern Gaza. The destruction is described as houses flattened &quot;like playing cards&quot;. This has resulted in pro-Palestinian protests across New York City to call for a ceasefire. 
-
-Back in the US, former president Donald Trump was successfully kept on the ballot despite being accused of insurrection during a district court ruling. Meanwhile Mike Johnson, who is running for Speaker of the House in the US, has been under scrutiny recently for comments he made on a prayer call where he criticized L.G.B.T.Q youth and church attendance. Additionally, Nikki Haley recently announced her support for stricter limits on abortion access during a G.O.P debate - something that could cause further polarized views in the area of abortion rights.
-
-Finally some lighter news - Italy&#39;s Culture Ministry just opened an exhibition dedicated to JRR Tolkien with some art and acreations inspired by his works. It&#39;s certainly proving to be popular given it has even caught the interest of Prime Minister Mario Draghi! Not sure if we need any more proof that Tolkien is beloved around the world! As well as this, there was also news about singer&#x2F;songwriter Casandra Ventura reaching a settlement with music mogul Sean Combs after accusing him of rape and abuse - though terms were not disclosed. Lastly sideline reporters everywhere have been left reeling after Charrisa Thompson publicly admitted to fabricating reports during N.F.L games on Fox Sports - something which none of them expected to hear!</p>
+On the music side of things, R&amp;B singer Cassie has settled a lawsuit against Sean Combs for rape and abuse. Additionally, sex workers have found it hard to access banking services because companies consider their work high-risk. There’s also the story of F-1 in Las Vegas; despite fans loving the spectacle, it can be a hassle for locals because of all the costs and tarping up that&#39;s required.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
@@ -86,46 +82,34 @@ Finally some lighter news - Italy&#39;s Culture Ministry just opened an exhibiti
 <p>“Probably the most shocking tech story of the year.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
-<sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
-<p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</h3>
 <sub>By Patrick Kingsley and Daniel Berehulak</sub>
 <p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions inside wartime Gaza. They saw houses flattened like playing cards, and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Thousands Gather in Pro-Palestinian Protests Across New York City</h3>
-<sub>By Claire Fahy, Erin Nolan and Olivia Bensimon</sub>
-<p>In Brooklyn and in Manhattan, multiple rallies drew large crowds calling for a cease-fire in the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Judge Keeps Trump on Ballot but Finds He ‘Engaged in Insurrection’</h3>
-<sub>By Maggie Astor</sub>
-<p>A district court judge ruled that former President Donald J. Trump “engaged in insurrection” but said the disqualification clause of the 14th Amendment did not apply to him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Weeks Before Election as Speaker, Johnson Lamented ‘Dark and Depraved’ Culture</h3>
-<sub>By Annie Karni</sub>
-<p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Says She Would Have Signed Six-Week Abortion Ban as Governor</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The former governor of South Carolina, who has tried to thread the needle on abortion in the G.O.P. race, made a gesture of support for stricter limits on the procedure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Says Hospital Held Hamas Command Center: How Long Could It Take for Proof?</h3>
+<sub>By Helene Cooper</sub>
+<p>Military experts say it could take days, weeks or months for Israel to make a definitive case. Or it might never come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Exhibition of Orcs and Elves Has Rome Abuzz, and Bewildered</h3>
-<sub>By Jason Horowitz</sub>
-<p>Italy’s Culture Ministry has opened a curious show dedicated to the life and works of J.R.R. Tolkien — and perhaps a new front in the culture wars. It’s “beautiful.” Just ask the prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chapter 5: An Unlikely Escape Route</h3>
+<sub>By Emily Schmall, Amanda Taub, Shalini Venugopal Bhagat and Saumya Khandelwal</sub>
+<p>Here was the paradox of being a woman in modern India. Sometimes a path from the oppression of patriarchy was marriage to a man willing to help challenge that system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Is the College Board Pushing to Expand Advanced Placement?</h3>
+<sub>By Dana Goldstein</sub>
+<p>This year, taxpayers paid the nonprofit at least $90 million for A.P. tests that many students failed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
+<sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
+<p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -135,10 +119,22 @@ Finally some lighter news - Italy&#39;s Culture Ministry just opened an exhibiti
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Often Dismissed, Sideline Reporters Now Deal With Fabrication Fallout</h3>
-<sub>By Jenny Vrentas and Kevin Draper</sub>
-<p>Charissa Thompson’s statement that she had made up reports during N.F.L. games on Fox left many of her counterparts aghast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<h3>Sex Workers Have Been Shunned by Banks, Even When Their Work Is Legal</h3>
+<sub>By Tara Siegel Bernard</sub>
+<p>Financial service companies often avoid what they deem high-risk industries like adult entertainment. When workers lose their accounts, they are left with few options.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>How to Keep Your Bank From Closing All Your Accounts</h3>
+<sub>By Ron Lieber</sub>
+<p>Banks have suddenly shut down the accounts of scores of customers. Here’s how you can avoid becoming one of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>F-1 in Las Vegas: A Roaring Spectacle for Fans, but a Huge Headache for Locals</h3>
+<sub>By Jack Healy</sub>
+<p>The flashy adult playground shrouds itself in black tarp to block views of the racing spectacle from prying (unticketed) eyes. Its transformation has become a long-term, costly nuisance for locals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
