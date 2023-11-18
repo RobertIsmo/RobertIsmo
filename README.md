@@ -59,7 +59,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 18, Central Standard Time</p>
-<p>In the world, there is a lot going on right now. OpenAI recently changed leaders, with Mira Murati taking over as interim C.E.O. Meanwhile, advertisers have been fleeing a certain platform after Elon Musk faced public outcry over an antisemitic post and Israel has discovered a tunnel shaft at Gaza hospital that Hamas may be using for weapon hiding and command centers. Additionally, the conflict between Israel and Hamas has driven more attention to online antisemitism, and thousands of people are coming together in protests across New York City supporting Palestine. There is also a curious exhibition in Rome dedicated to J.R.R Tolkien that has some wondering if it&#39;s become part of the culture wars, and Nikki Haley has said she would sign a six-week abortion ban as governor if she was still in office. Finally, there is a pro-Palestinian organization at college campuses that some say has caused intimidation and antisemitism.</p>
+<p>
+There&#39;s been a lot going on in the world recently! In the tech space, there&#39;s been a big shake-up at OpenAI. Sam Altman, the high-profile CEO there, has been replaced by Mira Murati who was previously their CTO. There was also controversy surrounding tech mogul Elon Musk after he endorsed an antisemitic post, leading to major advertisers such as Apple and Disney cutting ties with his platform X. 
+
+In the Middle East, New York Times journalists have recently reported on the destructive aftermath of the Israel-Hamas war in Northern Gaza. The destruction is described as houses flattened &quot;like playing cards&quot;. This has resulted in pro-Palestinian protests across New York City to call for a ceasefire. 
+
+Back in the US, former president Donald Trump was successfully kept on the ballot despite being accused of insurrection during a district court ruling. Meanwhile Mike Johnson, who is running for Speaker of the House in the US, has been under scrutiny recently for comments he made on a prayer call where he criticized L.G.B.T.Q youth and church attendance. Additionally, Nikki Haley recently announced her support for stricter limits on abortion access during a G.O.P debate - something that could cause further polarized views in the area of abortion rights.
+
+Finally some lighter news - Italy&#39;s Culture Ministry just opened an exhibition dedicated to JRR Tolkien with some art and acreations inspired by his works. It&#39;s certainly proving to be popular given it has even caught the interest of Prime Minister Mario Draghi! Not sure if we need any more proof that Tolkien is beloved around the world! As well as this, there was also news about singer&#x2F;songwriter Casandra Ventura reaching a settlement with music mogul Sean Combs after accusing him of rape and abuse - though terms were not disclosed. Lastly sideline reporters everywhere have been left reeling after Charrisa Thompson publicly admitted to fabricating reports during N.F.L games on Fox Sports - something which none of them expected to hear!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
@@ -73,16 +80,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Emergency Pod: Sam Altman is Out at Open AI</h3>
+<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Corey Schreppel, Dan Powell and Marion Lozano</sub>
+<p>“Probably the most shocking tech story of the year.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
 <sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
 <p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Bad Is Antisemitism Online? It’s Increasingly Hard to Know.</h3>
-<sub>By Tiffany Hsu and Sapna Maheshwari</sub>
-<p>People who study social media say the conflict between Israel and Hamas has underscored the need for better data transparency from platforms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -91,10 +98,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions inside wartime Gaza. They saw houses flattened like playing cards, and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Displays Tunnel Shaft at Gaza Hospital and Says It Will Let In Some Fuel</h3>
-<sub>By Philip P. Pan, Patrick Kingsley and Thomas Fuller</sub>
-<p>The discovery at Al-Shifa Hospital did not seem to settle the question of whether Hamas has been using the complex to hide weapons and command centers, as Israel has said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Thousands Gather in Pro-Palestinian Protests Across New York City</h3>
+<sub>By Claire Fahy, Erin Nolan and Olivia Bensimon</sub>
+<p>In Brooklyn and in Manhattan, multiple rallies drew large crowds calling for a cease-fire in the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -121,16 +128,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Italy’s Culture Ministry has opened a curious show dedicated to the life and works of J.R.R. Tolkien — and perhaps a new front in the culture wars. It’s “beautiful.” Just ask the prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Thousands Gather in Pro-Palestinian Protests Across New York City</h3>
-<sub>By Claire Fahy, Erin Nolan and Olivia Bensimon</sub>
-<p>In Brooklyn and in Manhattan, multiple rallies drew large crowds calling for a cease-fire in the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Cassie Settles Lawsuit Accusing Sean Combs of Rape and Abuse</h3>
+<sub>By Ben Sisario</sub>
+<p>The R&amp;B singer Casandra Ventura and the music mogul did not disclose terms of the settlement, which came one day after Ms. Ventura filed an explosive complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Pro-Palestinian Group Protesting Across College Campuses</h3>
-<sub>By Alan Blinder</sub>
-<p>Students for Justice in Palestine, which was founded at Berkeley, has fueled activism, and, critics say, intimidation and antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Often Dismissed, Sideline Reporters Now Deal With Fabrication Fallout</h3>
+<sub>By Jenny Vrentas and Kevin Draper</sub>
+<p>Charissa Thompson’s statement that she had made up reports during N.F.L. games on Fox left many of her counterparts aghast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
