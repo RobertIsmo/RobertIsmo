@@ -60,66 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the business realm, young people are struggling to make ends meet and it appears to be affecting how they will vote in 2024. The Federal Reserve is also influencing how this election cycles outcome could look. Internationally, Israel&#39;s government is coming under fire with new reports of hostages found near one of their military hospitals. Closer to home, a prominent Congressman is introducing legislation to possibly expel Santos from his seat. In other politics news, an election for Speaker revealed some controversial views. Meanwhile, an American family in Gaza was forced to fight for survival amid war and turmoil in the country. For a more uplifting story, New York City is converting office spaces into homes for families who need them and universities are taking advantage of empty buildings too. Unfortunately, football players have been dying younger and younger due to CTE caused by hits made while playing sports early on. In the literary world, renown British novelist A.S. Byatt passed away at age 87 and a case by former singer Cassie against Sean Combs might change how we view her music career. Lastly, OpenAI&#39;s CEO has been removed and replaced with a new interim CEO following company changes.</p>
+There is a lot going on in the world right now that is impacting many people around the world. First, in China President Xi Jinping is revealing very little about his personal life. Also, New York Times journalists traveled to Northern Gaza and saw a war-torn landscape filled with destruction and darkness. In Israel, The military has reported finding a tunnel shaft at Al-Shifa Hospital but it is unclear if Hamas had been using it or not. They also are investigating multiple universities for antisemitism and Islamophobia complaints. In the technology space, OpenAI pushed out Sam Altman as C.E.O. and replaced him with Mira Murati who previously served as its chief technology officer. On social media platforms like X (formerly Twitter), advertisers are pulling their campaigns after Elon Musk&#39;s endorsement of an antisemitic post caused outrage. And in journalism, sideline reporters are dealing with repercussions after Charissa Thompson admitted she made up reports during N.F.L games on Fox. Finally, before he was elected speaker of the House, Mike Johnson expressed his views on L.G.B.T.Q youth during a prayer call which brought up negative commentary from some circles.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Want to Know What’s Bedeviling Biden? TikTok Economics May Hold Clues.</h3>
-<sub>By Jeanna Smialek and Jim Tankersley</sub>
-<p>Economic despair dominates social media as young people fret about the cost of living. It offers a snapshot of the challenges facing Democrats ahead of the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fed’s Decisions Now Could Alter the 2024 Elections</h3>
-<sub>By Jeff Sommer</sub>
-<p>The state of the economy will affect voting next November, and the Federal Reserve may find itself in a delicate position, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Rare Opportunity to See China’s Leader Up Close and (Sort of) Personal</h3>
+<sub>By David Pierson, Ana Swanson and David E. Sanger</sub>
+<p>President Xi Jinping of China is one of the most self-contained Chinese leaders in decades, who reveals next to nothing about his personal life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel says a 2nd hostage’s body was found near Al-Shifa, as pressure grows over the captives.</h3>
-<sub>By Aaron Boxerman</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</h3>
+<sub>By Patrick Kingsley and Daniel Berehulak</sub>
+<p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions inside wartime Gaza. They saw houses flattened like playing cards, and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Santos Faces New Expulsion Push Led by His Own Party After Damning Report</h3>
-<sub>By Nicholas Fandos, Grace Ashford and Michael Gold</sub>
-<p>The resolution from Representative Michael Guest, a Republican, sets the stage for a vote shortly after Thanksgiving.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Weeks Before Election as Speaker, Johnson Lamented ‘Dark and Depraved’ Culture</h3>
-<sub>By Annie Karni</sub>
-<p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Displays Tunnel Shaft at Gaza Hospital and Says It Will Let In Some Fuel</h3>
+<sub>By Philip P. Pan, Patrick Kingsley and Thomas Fuller</sub>
+<p>The discovery at Al-Shifa Hospital did not seem to settle the question of whether Hamas has been using the complex to hide weapons and command centers, as Israel has said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘We’ll Never Get Out of Hell’: One American Family’s Escape From Gaza</h3>
-<sub>By Anna Betts and Vivian Yee</sub>
-<p>Lena Beseiso was visiting family with her children and grandson when the war broke out and thrust them into a fight for survival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The N.Y.C. Neighborhood Where Families Are Filling Up Empty Offices</h3>
-<sub>By Matthew Haag</sub>
-<p>Five financial district buildings are being turned into housing, including the country’s largest such conversion. Will it work elsewhere in Manhattan?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Downtowns Are Full of Empty Buildings. Universities Are Moving In.</h3>
-<sub>By Michael Kimmelman</sub>
-<p>The stylish new Johns Hopkins University Bloomberg Center took over a former museum in Washington. It’s got potential to become a community hub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Started Playing Football as Young as 6. They Died in Their Teens and Twenties With C.T.E.</h3>
-<sub>By Kassie Bracken, John Branch, Ben Laffin, Rebecca Lieberman and Joe Ward</sub>
-<p>They started playing football as kids, began to suffer mentally and died before 30. Researchers found they had C.T.E., the brain disease linked to hits to the head. If their families could go back, would they still let them play?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>A.S. Byatt, Scholar Who Found Literary Fame With Fiction, Dies at 87</h3>
-<sub>By Rebecca Chace</sub>
-<p>One of Britain’s most ambitious and intellectual novelists, she won the Booker Prize with “Possession,” her 1990 tale of illicit love spanning two centuries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Says Hospital Held Hamas Command Center: How Long Could It Take for Proof?</h3>
+<sub>By Helene Cooper</sub>
+<p>Military experts say it could take days, weeks or months for Israel to make a definitive case. Or it might never come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -128,10 +92,46 @@ There&#39;s a lot going on in the world right now. In the business realm, young 
 <p>Mira Murati, who previously served as chief technology officer, has been named interim chief executive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Cassie’s Suit Against Sean Combs May Cast Her Career in a New Light</h3>
-<sub>By Joe Coscarelli</sub>
-<p>The R&amp;B singer was poised for a big breakout after her 2006 hit song “Me &amp; U.” But her second album never arrived.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meet Mira Murati, the Engineer Now Leading OpenAI</h3>
+<sub>By Tripp Mickle and Cade Metz</sub>
+<p>The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Pro-Palestinian Group Protesting Across College Campuses</h3>
+<sub>By Alan Blinder</sub>
+<p>Students for Justice in Palestine, which was founded at Berkeley, has fueled activism, and, critics say, intimidation and antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Investigates Colleges for Antisemitism and Islamophobia Complaints</h3>
+<sub>By Hurubie Meko</sub>
+<p>Columbia, Cooper Union, Cornell and University of Pennsylvania were among half a dozen universities under investigation for harassment complaints on campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
+<sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
+<p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Bad Is Antisemitism Online? It’s Increasingly Hard to Know.</h3>
+<sub>By Tiffany Hsu and Sapna Maheshwari</sub>
+<p>People who study social media say the conflict between Israel and Hamas has underscored the need for better data transparency from platforms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Often Dismissed, Sideline Reporters Now Deal With Fabrication Fallout</h3>
+<sub>By Jenny Vrentas and Kevin Draper</sub>
+<p>Charissa Thompson’s statement that she had made up reports during N.F.L. games on Fox left many of her counterparts aghast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Weeks Before Election as Speaker, Johnson Lamented ‘Dark and Depraved’ Culture</h3>
+<sub>By Annie Karni</sub>
+<p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
