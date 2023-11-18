@@ -59,13 +59,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 17, Central Standard Time</p>
-<p>
-There is a lot going on in the world right now that is impacting many people around the world. First, in China President Xi Jinping is revealing very little about his personal life. Also, New York Times journalists traveled to Northern Gaza and saw a war-torn landscape filled with destruction and darkness. In Israel, The military has reported finding a tunnel shaft at Al-Shifa Hospital but it is unclear if Hamas had been using it or not. They also are investigating multiple universities for antisemitism and Islamophobia complaints. In the technology space, OpenAI pushed out Sam Altman as C.E.O. and replaced him with Mira Murati who previously served as its chief technology officer. On social media platforms like X (formerly Twitter), advertisers are pulling their campaigns after Elon Musk&#39;s endorsement of an antisemitic post caused outrage. And in journalism, sideline reporters are dealing with repercussions after Charissa Thompson admitted she made up reports during N.F.L games on Fox. Finally, before he was elected speaker of the House, Mike Johnson expressed his views on L.G.B.T.Q youth during a prayer call which brought up negative commentary from some circles.</p>
+<p>There&#39;s been a lot of news about the Middle East, particularly in regards to the conflict between Israel and Gaza. There have been huge protests around the world, particularly in NYC in support of Palestine. Technology news has been dominated by a shakeup at OpenAI, a tech company, and there&#39;s concern about increasing antisemitism online. In other news, a US judge ruled that former President Donald Trump had engaged in insurrection and there are investigations into colleges for dealing with complaints of antisemitism and Islamophobia. Finally, there&#39;s been controversy over a sideline reporter making up reports during an NFL game.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Rare Opportunity to See China’s Leader Up Close and (Sort of) Personal</h3>
-<sub>By David Pierson, Ana Swanson and David E. Sanger</sub>
-<p>President Xi Jinping of China is one of the most self-contained Chinese leaders in decades, who reveals next to nothing about his personal life.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
+<sub>By Cade Metz</sub>
+<p>Mira Murati, who previously served as chief technology officer, has been named interim chief executive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Meet Mira Murati, the Engineer Now Leading OpenAI</h3>
+<sub>By Tripp Mickle and Cade Metz</sub>
+<p>The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
+<sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
+<p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Bad Is Antisemitism Online? It’s Increasingly Hard to Know.</h3>
+<sub>By Tiffany Hsu and Sapna Maheshwari</sub>
+<p>People who study social media say the conflict between Israel and Hamas has underscored the need for better data transparency from platforms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,21 +98,21 @@ There is a lot going on in the world right now that is impacting many people aro
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel Says Hospital Held Hamas Command Center: How Long Could It Take for Proof?</h3>
-<sub>By Helene Cooper</sub>
-<p>Military experts say it could take days, weeks or months for Israel to make a definitive case. Or it might never come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Colorado Judge Keeps Trump on Ballot but Finds He ‘Engaged in Insurrection’</h3>
+<sub>By Maggie Astor</sub>
+<p>A district court judge ruled that former President Donald J. Trump “engaged in insurrection” but said the disqualification clause of the 14th Amendment did not apply to him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
-<sub>By Cade Metz</sub>
-<p>Mira Murati, who previously served as chief technology officer, has been named interim chief executive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Weeks Before Election as Speaker, Johnson Lamented ‘Dark and Depraved’ Culture</h3>
+<sub>By Annie Karni</sub>
+<p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Meet Mira Murati, the Engineer Now Leading OpenAI</h3>
-<sub>By Tripp Mickle and Cade Metz</sub>
-<p>The company’s interim C.E.O. has been managing the development and distribution of ChatGPT and DALL-E for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Thousands Gather in Pro-Palestinian Protests Across New York City</h3>
+<sub>By Claire Fahy, Erin Nolan and Olivia Bensimon</sub>
+<p>In Brooklyn and in Manhattan, multiple rallies drew large crowds calling for a cease-fire in the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +127,10 @@ There is a lot going on in the world right now that is impacting many people aro
 <p>Columbia, Cooper Union, Cornell and University of Pennsylvania were among half a dozen universities under investigation for harassment complaints on campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
-<sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
-<p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Bad Is Antisemitism Online? It’s Increasingly Hard to Know.</h3>
-<sub>By Tiffany Hsu and Sapna Maheshwari</sub>
-<p>People who study social media say the conflict between Israel and Hamas has underscored the need for better data transparency from platforms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Often Dismissed, Sideline Reporters Now Deal With Fabrication Fallout</h3>
 <sub>By Jenny Vrentas and Kevin Draper</sub>
 <p>Charissa Thompson’s statement that she had made up reports during N.F.L. games on Fox left many of her counterparts aghast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Weeks Before Election as Speaker, Johnson Lamented ‘Dark and Depraved’ Culture</h3>
-<sub>By Annie Karni</sub>
-<p>Mike Johnson’s comments on a prayer call in October, during which he talked about church attendance and L.G.B.T.Q. youth, offered an up-to-date distillation of his views.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
