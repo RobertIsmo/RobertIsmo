@@ -60,10 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 18, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of interesting and important news happening around the world right now! In tech, the high-profile CEO of OpenAI, Sam Altman, has been replaced with interim CEO Mira Murati. There’s a lot of conversation about Israel in the news right now too; they’ve said a hospital in Gaza was being used as a Hamas command center and military experts are hesitant to come to any conclusions about it. The College Board is pushing to expand Advanced Placement offerings, which taxpayers are paying at least $90 million for. Advertisers have also pulled out from a formerly-Twitter platform after Elon Musk made an endorsement of an antisemitic post. 
+There is a lot going on around the world right now. In Gaza, the war has taken an especially hard toll on children, making it like a graveyard for them. Northern Gaza has been left with devastation and disfigurement due to the conflict. In Israel, there is debate over how long it will take for the military to present definitive proof of something they have accused a hospital of. 
 
-On the music side of things, R&amp;B singer Cassie has settled a lawsuit against Sean Combs for rape and abuse. Additionally, sex workers have found it hard to access banking services because companies consider their work high-risk. There’s also the story of F-1 in Las Vegas; despite fans loving the spectacle, it can be a hassle for locals because of all the costs and tarping up that&#39;s required.</p>
+In tech news, Sam Altman stepped down as CEO of OpenAI and Mira Murati has been named interim CEO. There has also been a lot of controversy surrounding Elon Musk&#39;s endorsement of an antisemitic post leading major corporations to stop advertising on his social media platform X (formerly Twitter).
+
+On a more lighthearted note, R&amp;B singer Cassie Ventura settled her lawsuit alleging rape and abuse by Sean Combs. Additionally, sex workers have been struggling to gain access to financial services because many banks deem the industry too high-risk. An article was even published discussing ways to keep your bank from suddenly closing your accounts.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The War Turns Gaza Into a ‘Graveyard’ for Children</h3>
+<sub></sub>
+<p>Thousands of children have been killed in the enclave since the Israeli assault began, officials in Gaza say. The Israeli military says it takes “all feasible precautions” to avoid civilian deaths.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</h3>
+<sub>By Patrick Kingsley and Daniel Berehulak</sub>
+<p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions inside wartime Gaza. They saw houses flattened like playing cards, and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Israel Says Hospital Held Hamas Command Center: How Long Could It Take for Proof?</h3>
+<sub>By Helene Cooper</sub>
+<p>Military experts say it could take days, weeks or months for Israel to make a definitive case. Or it might never come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>OpenAI’s Board Pushes Out Sam Altman, Its High-Profile C.E.O.</h3>
 <sub>By Cade Metz</sub>
@@ -82,17 +102,11 @@ On the music side of things, R&amp;B singer Cassie has settled a lawsuit against
 <p>“Probably the most shocking tech story of the year.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</h3>
-<sub>By Patrick Kingsley and Daniel Berehulak</sub>
-<p>New York Times journalists traveled with an Israeli military convoy to catch a rare glimpse of conditions inside wartime Gaza. They saw houses flattened like playing cards, and a city utterly disfigured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Israel Says Hospital Held Hamas Command Center: How Long Could It Take for Proof?</h3>
-<sub>By Helene Cooper</sub>
-<p>Military experts say it could take days, weeks or months for Israel to make a definitive case. Or it might never come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<h3>Why Is the College Board Pushing to Expand Advanced Placement?</h3>
+<sub>By Dana Goldstein</sub>
+<p>This year, taxpayers paid the nonprofit at least $90 million for A.P. tests that many students failed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Chapter 5: An Unlikely Escape Route</h3>
@@ -100,22 +114,16 @@ On the music side of things, R&amp;B singer Cassie has settled a lawsuit against
 <p>Here was the paradox of being a woman in modern India. Sometimes a path from the oppression of patriarchy was marriage to a man willing to help challenge that system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Is the College Board Pushing to Expand Advanced Placement?</h3>
-<sub>By Dana Goldstein</sub>
-<p>This year, taxpayers paid the nonprofit at least $90 million for A.P. tests that many students failed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Cassie Settles Lawsuit Accusing Sean Combs of Rape and Abuse</h3>
+<sub>By Ben Sisario</sub>
+<p>The R&amp;B singer Casandra Ventura and the music mogul did not disclose terms of the settlement, which came one day after Ms. Ventura filed an explosive complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Advertisers Flee X as Outcry Over Musk’s Endorsement of Antisemitic Post Grows</h3>
 <sub>By Ryan Mac, Brooks Barnes and Tiffany Hsu</sub>
 <p>Disney, Apple, Paramount and Lionsgate halted marketing on X, formerly Twitter, as Elon Musk faced a furor over antisemitic abuse on his social media platform.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Cassie Settles Lawsuit Accusing Sean Combs of Rape and Abuse</h3>
-<sub>By Ben Sisario</sub>
-<p>The R&amp;B singer Casandra Ventura and the music mogul did not disclose terms of the settlement, which came one day after Ms. Ventura filed an explosive complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,12 +136,6 @@ On the music side of things, R&amp;B singer Cassie has settled a lawsuit against
 <h3>How to Keep Your Bank From Closing All Your Accounts</h3>
 <sub>By Ron Lieber</sub>
 <p>Banks have suddenly shut down the accounts of scores of customers. Here’s how you can avoid becoming one of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>F-1 in Las Vegas: A Roaring Spectacle for Fans, but a Huge Headache for Locals</h3>
-<sub>By Jack Healy</sub>
-<p>The flashy adult playground shrouds itself in black tarp to block views of the racing spectacle from prying (unticketed) eyes. Its transformation has become a long-term, costly nuisance for locals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
