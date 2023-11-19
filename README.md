@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-In the world, tensions remain high between Israel and Palestine after one of the key peace negotiators was removed from their role. Meanwhile, in the tech world, a power struggle has erupted at OpenAI over the company leadership as tensions between investors and supporters of the former boss continue to grow. The healthcare industry is facing criticism for excessive fees that families must pay for assisted living services while many find them out of reach. In the US, a mother is searching for her son after he was fatally struck by an SUV driven by an off-duty police officer on the day she last saw him. Additionally, Ukraine and Russia are engaged in a conflict being fought over radio frequencies, while McDonald&#39;s is getting into fashion, and NYT readers can take a quiz to show how well they follow current events.</p>
+In the world, there is a lot going on. Technology is advancing and many companies are continuing to develop new artificial intelligence systems. There is continued conflict in the Middle East and Ukraine, as well as new discussions taking place around abortion and abortion laws in the US. In terms of health, there&#39;s been discussion about extra fees at assisted living facilities and what people should know about them. McDonald&#39;s is getting into fashion and there&#39;s a New York Times News Quiz to test readers in how up to date they are with the news.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Years, Two Men Shuttled Messages Between Israel and Hamas. No Longer.</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Since 2006, Gershon Baskin, an Israeli peace activist, and Ghazi Hamad, a Hamas official, maintained a secret back channel between Gaza and Israel. Then Oct. 7 happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
 <sub>By Cade Metz</sub>
@@ -79,6 +73,12 @@ In the world, tensions remain high between Israel and Palestine after one of the
 <sub>By Cade Metz, Mike Isaac and Erin Griffith</sub>
 <p>Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Years, Two Men Shuttled Messages Between Israel and Hamas. No Longer.</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Since 2006, Gershon Baskin, an Israeli peace activist, and Ghazi Hamad, a Hamas official, maintained a secret back channel between Gaza and Israel. Then Oct. 7 happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Extra Fees Drive Assisted-Living Profits</h3>
