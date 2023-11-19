@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-Right now, a lot is happening around the world. In San Francisco, there&#39;s been a lot of attention drawn to OpenAI due to the ousting of its CEO, Sam Altman. Now, it seems that he may be returning to the company. Israel is making progress in ground control of Gaza, and there&#39;s a lot of international scrutiny for civilian casualties. There&#39;s also been a huge backlash against Elon Musk after he endorsed an antisemitic post online, with many advertisers halting their spending. Moving away from tech, African artists are driving a global movement towards cultural renaissance. On the political side of things, there’s Trump in Iowa trying to win over the Republican ticket and some convicted criminals are attempting to get pardoned by using his own legislation as leverage. Lastly, in Acapulco, Hurricane Otis left destruction and death in its wake especially for the yacht crew and other boat workers that are such a big part of their tourism industry.</p>
+In the world, tensions remain high between Israel and Palestine after one of the key peace negotiators was removed from their role. Meanwhile, in the tech world, a power struggle has erupted at OpenAI over the company leadership as tensions between investors and supporters of the former boss continue to grow. The healthcare industry is facing criticism for excessive fees that families must pay for assisted living services while many find them out of reach. In the US, a mother is searching for her son after he was fatally struck by an SUV driven by an off-duty police officer on the day she last saw him. Additionally, Ukraine and Russia are engaged in a conflict being fought over radio frequencies, while McDonald&#39;s is getting into fashion, and NYT readers can take a quiz to show how well they follow current events.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Years, Two Men Shuttled Messages Between Israel and Hamas. No Longer.</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Since 2006, Gershon Baskin, an Israeli peace activist, and Ghazi Hamad, a Hamas official, maintained a secret back channel between Gaza and Israel. Then Oct. 7 happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
 <sub>By Cade Metz</sub>
@@ -74,29 +80,29 @@ Right now, a lot is happening around the world. In San Francisco, there&#39;s be
 <p>Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Is Israel’s Military Strategy to Eradicate Hamas Working?</h3>
-<sub>By Eric Schmitt, Ronen Bergman and Adam Goldman</sub>
-<p>Israel is making progress in ground control of Gaza, but it has not vanquished Hamas or freed most of the hostages. And international condemnation of civilian casualties is growing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Extra Fees Drive Assisted-Living Profits</h3>
+<sub>By Jordan Rau</sub>
+<p>The add-ons pile up: $93 for medications, $50 for cable TV. Prices soar as the industry leaves no service unbilled. The housing option is out of reach for many families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>More Advertisers Halt Spending on X in Growing Backlash Against Musk</h3>
-<sub>By Kate Conger and Tiffany Hsu</sub>
-<p>Warner Bros. and Sony have joined other companies in pausing spending on X, formerly Twitter, over Elon Musk’s endorsement of an antisemitic post.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What to Know About Assisted Living</h3>
+<sub>By Jordan Rau</sub>
+<p>The facilities can look like luxury apartments or modest group homes, and can vary in pricing structures. Here’s a guide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Meet the African Artists Driving a Cultural Renaissance</h3>
-<sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
-<p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Jan. 6 Defendant Pleads His Case to the Son Who Turned Him In</h3>
+<sub>By Eli Saslow and Erin Schaff</sub>
+<p>The Capitol attacks ruptured their mutual trust. In the weeks before Brian Mock’s sentencing, could he mend the divide with his son A.J.?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It’s Like I Am Blind’: Waiting for Asylum in a British Hotel</h3>
-<sub>By Megan Specia</sub>
-<p>With the contentious Rwanda plan in disarray, experts say the U.K. government should focus on a huge backlog of asylum cases, including 50,000 people in hotels.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis’s Two-Pronged Approach in Iowa: Hit Trump on Abortion, and Get Personal</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The Florida governor is courting white evangelicals by using Donald J. Trump’s criticisms of hard-line abortion restrictions against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Focuses on Iowa as He Looks to Close Out the Republican Race</h3>
@@ -105,16 +111,10 @@ Right now, a lot is happening around the world. In San Francisco, there&#39;s be
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pardon Recipients Seek to Sell Trump on His Own Sentencing Law</h3>
-<sub>By Maggie Haberman</sub>
-<p>The Republican front-runner has a history of making racist statements, but some advisers think highlighting his signature law could help increase support among Black voters and potentially swing the election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>After a Landmark Verdict, Realtors Ask, ‘What’s Next?’</h3>
-<sub>By Ronda Kaysen</sub>
-<p>A recent ruling has the potential to transform the way Americans buy and sell homes — and many real estate agents are feeling a sense of foreboding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
+<h3>A Mother’s Search for Her Son Leads to a Pauper’s Grave and More Questions</h3>
+<sub>By Rick Rojas</sub>
+<p>Bettersten Wade spent months calling the police for help finding her son, without being told that an off-duty officer driving an SUV had fatally struck him on the same day she last saw him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Invisible War in Ukraine Being Fought Over Radio Waves</h3>
@@ -122,17 +122,17 @@ Right now, a lot is happening around the world. In San Francisco, there&#39;s be
 <p>Using electromagnetic waves to flummox and follow smarter weapons has become a critical part of the cat-and-mouse game between Ukraine and Russia. The United States, China and others have taken note.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Hurricane’s Sudden Fury, Acapulco’s Yacht Crews Went Down With Their Ships</h3>
-<sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
-<p>Hurricane Otis left a trail of destruction and death but inflicted its worst blow on the yacht crews and other boat workers who are a pillar of the tourism industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>McDonald’s is getting into fashion. Plus, we take a look at fake online reviews and Russell Brand’s alternate reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Las tripulaciones de los yates de Acapulco se hundieron con sus barcos</h3>
-<sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
-<p>El huracán Otis dejó a su paso un rastro de muerte y destrucción en Acapulco. El peor impacto lo sufrieron los trabajadores de embarcaciones, pilar de la industria turística.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Nov. 17, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
