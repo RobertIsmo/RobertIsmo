@@ -58,9 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, November 18, Central Standard Time</p>
+<p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-Right now, there seems to be a lot happening in the world. There was an uproar over the ousting of Sam Altman as the head of OpenAI, an artificial intelligence start-up, and talks of his return are underway. In Israel, officials have been trying to end Hamas&#39; control using a military strategy and international condemnation for civilian casualties is rising. There&#39;s also a lot happening in Gaza where thousands of children have been killed since Israel launched its assault. Moreover, companies are boycotting X for its endorsement of an antisemitic post and African artists are driving a cultural renaissance. In the US, Pardon Recipients are trying to involve Trump in his own sentencing law to boost Black voter support. In the real estate sector, a recent ruling has potential to transform home buying and selling. In Colombia, they&#39;re sterilizing Pablo Escobar&#39;s &quot;cocaine hippos&quot; since his drug empire brought around 170 now roaming the country. Finally, McDonald&#39;s is getting into fashion and there&#39;s been an investigation into fake online reviews and Russell Brand&#39;s alternate reality antics. It&#39;s been an eventful week!</p>
+There is a lot going on in the world right now. In technology, there has been tension and controversy surrounding the ousting of Sam Altman from his position at OpenAI. Advertisers are also boycotting X platform due to comments made by Elon Musk. 
+In the international arena, people are questioning Israel&#39;s current military strategy against Hamas, while in Africa a cultural renaissance is being driven by creatives. Immigrants and asylum seekers in the U.K. are stuck in hotels awaiting decisions on their cases, while a landmark verdict in the U.S is beginning to change how Americans buy and sell homes. Ukraine has also been receiving attention for an invisible battle against Russia fought with radio waves. Finally, Hurricane Otis has recently swept through Latin America, causing extreme destruction and death especially among yacht crews and other boatworkers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
@@ -80,12 +81,6 @@ Right now, there seems to be a lot happening in the world. There was an uproar o
 <p>Israel is making progress in ground control of Gaza, but it has not vanquished Hamas or freed most of the hostages. And international condemnation of civilian casualties is growing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The War Turns Gaza Into a ‘Graveyard’ for Children</h3>
-<sub></sub>
-<p>Thousands of children have been killed in the enclave since the Israeli assault began, officials in Gaza say. The Israeli military says it takes “all feasible precautions” to avoid civilian deaths.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>More Advertisers Halt Spending on X in Growing Backlash Against Musk</h3>
 <sub>By Kate Conger and Tiffany Hsu</sub>
@@ -97,6 +92,18 @@ Right now, there seems to be a lot happening in the world. There was an uproar o
 <sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
 <p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘It’s Like I Am Blind’: Waiting for Asylum in a British Hotel</h3>
+<sub>By Megan Specia</sub>
+<p>With the contentious Rwanda plan in disarray, experts say the U.K. government should focus on a huge backlog of asylum cases, including 50,000 people in hotels.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Focuses on Iowa as He Looks to Close Out the Republican Race</h3>
+<sub>By Michael Gold</sub>
+<p>The former president has made Iowa his priority, hoping to thin the field and turn his attention to a campaign against President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pardon Recipients Seek to Sell Trump on His Own Sentencing Law</h3>
@@ -110,6 +117,12 @@ Right now, there seems to be a lot happening in the world. There was an uproar o
 <p>A recent ruling has the potential to transform the way Americans buy and sell homes — and many real estate agents are feeling a sense of foreboding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Invisible War in Ukraine Being Fought Over Radio Waves</h3>
+<sub>By Paul Mozur and Aaron Krolik</sub>
+<p>Using electromagnetic waves to flummox and follow smarter weapons has become a critical part of the cat-and-mouse game between Ukraine and Russia. The United States, China and others have taken note.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Hurricane’s Sudden Fury, Acapulco’s Yacht Crews Went Down With Their Ships</h3>
 <sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
@@ -121,18 +134,6 @@ Right now, there seems to be a lot happening in the world. There was an uproar o
 <sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
 <p>El huracán Otis dejó a su paso un rastro de muerte y destrucción en Acapulco. El peor impacto lo sufrieron los trabajadores de embarcaciones, pilar de la industria turística.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Colombia to Sterilize Pablo Escobar’s ‘Cocaine Hippos’</h3>
-<sub>By Michael Levenson</sub>
-<p>The drug kingpin brought four hippos to his estate in the 1980s. Officials estimate that about 170 now roam Colombia, and say the population must be controlled to protect the country’s ecosystem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>McDonald’s is getting into fashion. Plus, we take a look at fake online reviews and Russell Brand’s alternate reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
