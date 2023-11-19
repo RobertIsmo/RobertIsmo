@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-It&#39;s been a really busy week around the world. In technology, the high-profile boss of an artificial intelligence start-up was forced out of his job but is now reportedly discussing their return with the company&#39;s board. In the US, there have been some interesting initiatives; one involving using artificial intelligence to build and fix roads and bridges, and another about a cancer patient whose dying wish was to pay off medical debt for others. From the world news, there&#39;s a story about two men who shuttled messages between Israel and Hamas for years, but they can no longer do so. There have also been other stories such as McDonalds entering the fashion market, fake online reviews, and Russell Brand&#39;s alternate reality.</p>
+There&#39;s been a lot of news in the tech world recently. The high-profile boss of OpenAI stepped down after philosophical differences arose among the company&#39;s leadership. He is now in talks to return. AI is also being used more and more to improve existing infrastructure in places like Pennsylvania, but some experts are wary of this transition. 
+
+In other news, Rosalynn Carter, the former First Lady, passed away at 96 after a long and successful public life. And increasing numbers of athletes are turning their attention towards the art market and collecting contemporary art pieces as well as works from artists who are underrepresented. 
+
+The NY Police department is investing $500 million in a new radio system that won&#39;t be accessible to the public, while Dubai is spending millions trying to provide fresh water to its citizens. On a more uplifting note, a cancer patient recently orchestrated an effort to pay off her own medical debt plus millions of dollars&#39; worth of medical debt from others&#39; bills that she wasn&#39;t even responsible for. Finally, McDonald&#39;s is entering into the fashion industry, and you should check out this week&#39;s edition of The Weekender for more updates like fake online reviews and actionable insight on Russell Brand&#39;s alternate reality.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
@@ -80,22 +84,28 @@ It&#39;s been a really busy week around the world. In technology, the high-profi
 <p>In Pennsylvania and elsewhere, A.I. is being applied to the nation’s aging infrastructure. Is that wise?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rosalynn Carter, Politically Active First Lady, Dies at 96</h3>
+<sub>By Katharine Q. Seelye</sub>
+<p>A full 16 years before Bill and Hillary Clinton offered themselves to the nation as a package deal, she and Jimmy Carter worked as near co-presidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Years, Two Men Shuttled Messages Between Israel and Hamas. No Longer.</h3>
 <sub>By Patrick Kingsley</sub>
 <p>Since 2006, Gershon Baskin, an Israeli peace activist, and Ghazi Hamad, a Hamas official, maintained a secret back channel between Gaza and Israel. Then Oct. 7 happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Extra Fees Drive Assisted-Living Profits</h3>
-<sub>By Jordan Rau</sub>
-<p>The add-ons pile up: $93 for medications, $50 for cable TV. Prices soar as the industry leaves no service unbilled. The housing option is out of reach for many families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Jan. 6 Defendant Pleads His Case to the Son Who Turned Him In</h3>
 <sub>By Eli Saslow and Erin Schaff</sub>
 <p>The Capitol attacks ruptured their mutual trust. In the weeks before Brian Mock’s sentencing, could he mend the divide with his son A.J.?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Extra Fees Drive Assisted-Living Profits</h3>
+<sub>By Jordan Rau</sub>
+<p>The add-ons pile up: $93 for medications, $50 for cable TV. Prices soar as the industry leaves no service unbilled. The housing option is out of reach for many families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -110,11 +120,11 @@ It&#39;s been a really busy week around the world. In technology, the high-profi
 <p>The New York Police Department is spending $500 million on a new radio system it calls more reliable and secure. But the public will no longer be able to monitor what officers are doing minute to minute.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Mother’s Search for Her Son Leads to a Pauper’s Grave and More Questions</h3>
-<sub>By Rick Rojas</sub>
-<p>Bettersten Wade spent months calling the police for help finding her son, without being told that an off-duty officer driving an SUV had fatally struck him on the same day she last saw him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Dubai’s Costly Water World</h3>
+<sub>By Arielle Paul</sub>
+<p>The city has spent billions of dollars to provide fresh water to its residents and tourist attractions, but experts say the efforts are straining the Persian Gulf’s natural resources.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Cancer Patient’s Last Wish: To Pay Off the Medical Debt of Others</h3>
@@ -126,12 +136,6 @@ It&#39;s been a really busy week around the world. In technology, the high-profi
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>McDonald’s is getting into fashion. Plus, we take a look at fake online reviews and Russell Brand’s alternate reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Nov. 17, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
