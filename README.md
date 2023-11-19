@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 18, Central Standard Time</p>
 <p>
-It looks like there&#39;s been a lot of upheaval recently in the world. There have been some serious tensions in technology due to the departure of high-profile boss, Sam Altman, from OpenAI which has been drawing attention. In Israel there are questions over whether their military strategy to eradicate Hamas is working and civilian casualties have been reported in Gaza. Meanwhile, here in the US we&#39;re seeing the College Board trying to expand advanced placement tests while also dealing with Republican presidential candidate Donald Trump&#39;s racist statements and his own sentencing law. Elon Musk has also made some progress in launching a moon and mars rocket and Hurricane Otis recently made landfall in Acapulco leaving destruction and death in its wake. Finally, there’s a landmark real estate verdict that has the potential to transform home buying and selling and it&#39;s leaving real estate agents feeling uneasy.</p>
+Right now, there seems to be a lot happening in the world. There was an uproar over the ousting of Sam Altman as the head of OpenAI, an artificial intelligence start-up, and talks of his return are underway. In Israel, officials have been trying to end Hamas&#39; control using a military strategy and international condemnation for civilian casualties is rising. There&#39;s also a lot happening in Gaza where thousands of children have been killed since Israel launched its assault. Moreover, companies are boycotting X for its endorsement of an antisemitic post and African artists are driving a cultural renaissance. In the US, Pardon Recipients are trying to involve Trump in his own sentencing law to boost Black voter support. In the real estate sector, a recent ruling has potential to transform home buying and selling. In Colombia, they&#39;re sterilizing Pablo Escobar&#39;s &quot;cocaine hippos&quot; since his drug empire brought around 170 now roaming the country. Finally, McDonald&#39;s is getting into fashion and there&#39;s been an investigation into fake online reviews and Russell Brand&#39;s alternate reality antics. It&#39;s been an eventful week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
@@ -71,13 +71,7 @@ It looks like there&#39;s been a lot of upheaval recently in the world. There ha
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board</h3>
 <sub>By Cade Metz, Mike Isaac and Erin Griffith</sub>
-<p>Mr. Altman was forced out of OpenAI on Friday, leading to an outcry from his supporters and the company’s investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Many Details of Sam Altman’s Ouster Are Murky. But Some Things Are Clear.</h3>
-<sub>By Kevin Roose</sub>
-<p>Everything seemed to be going his way. Then his time at OpenAI was over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,34 +86,22 @@ It looks like there&#39;s been a lot of upheaval recently in the world. There ha
 <p>Thousands of children have been killed in the enclave since the Israeli assault began, officials in Gaza say. The Israeli military says it takes “all feasible precautions” to avoid civilian deaths.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Is the College Board Pushing to Expand Advanced Placement?</h3>
-<sub>By Dana Goldstein</sub>
-<p>This year, taxpayers paid the nonprofit at least $90 million for A.P. tests that many students failed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chapter 5: An Unlikely Escape Route</h3>
-<sub>By Emily Schmall, Amanda Taub, Shalini Venugopal Bhagat and Saumya Khandelwal</sub>
-<p>Here was the paradox of being a woman in modern India. Sometimes a path from the oppression of patriarchy was marriage to a man willing to help challenge that system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>More Advertisers Halt Spending on X in Growing Backlash Against Musk</h3>
 <sub>By Kate Conger and Tiffany Hsu</sub>
 <p>Warner Bros. and Sony have joined other companies in pausing spending on X, formerly Twitter, over Elon Musk’s endorsement of an antisemitic post.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Meet the African Artists Driving a Cultural Renaissance</h3>
+<sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
+<p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Pardon Recipients Seek to Sell Trump on His Own Sentencing Law</h3>
 <sub>By Maggie Haberman</sub>
 <p>The Republican front-runner has a history of making racist statements, but some advisers think highlighting his signature law could help increase support among Black voters and potentially swing the election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>SpaceX Makes Progress in 2nd Launch of Giant Moon and Mars Rocket</h3>
-<sub>By Kenneth Chang</sub>
-<p>The journeys of Starship’s two parts ended in separate explosions. But the engineers at Elon Musk’s spaceflight company overcame problems that marred the rocket’s first flight in April.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -133,6 +115,24 @@ It looks like there&#39;s been a lot of upheaval recently in the world. There ha
 <sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
 <p>Hurricane Otis left a trail of destruction and death but inflicted its worst blow on the yacht crews and other boat workers who are a pillar of the tourism industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Las tripulaciones de los yates de Acapulco se hundieron con sus barcos</h3>
+<sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
+<p>El huracán Otis dejó a su paso un rastro de muerte y destrucción en Acapulco. El peor impacto lo sufrieron los trabajadores de embarcaciones, pilar de la industria turística.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Colombia to Sterilize Pablo Escobar’s ‘Cocaine Hippos’</h3>
+<sub>By Michael Levenson</sub>
+<p>The drug kingpin brought four hippos to his estate in the 1980s. Officials estimate that about 170 now roam Colombia, and say the population must be controlled to protect the country’s ecosystem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>McDonald’s is getting into fashion. Plus, we take a look at fake online reviews and Russell Brand’s alternate reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
