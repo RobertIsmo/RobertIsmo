@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-In the world, there is a lot going on. Technology is advancing and many companies are continuing to develop new artificial intelligence systems. There is continued conflict in the Middle East and Ukraine, as well as new discussions taking place around abortion and abortion laws in the US. In terms of health, there&#39;s been discussion about extra fees at assisted living facilities and what people should know about them. McDonald&#39;s is getting into fashion and there&#39;s a New York Times News Quiz to test readers in how up to date they are with the news.</p>
+It&#39;s been a really busy week around the world. In technology, the high-profile boss of an artificial intelligence start-up was forced out of his job but is now reportedly discussing their return with the company&#39;s board. In the US, there have been some interesting initiatives; one involving using artificial intelligence to build and fix roads and bridges, and another about a cancer patient whose dying wish was to pay off medical debt for others. From the world news, there&#39;s a story about two men who shuttled messages between Israel and Hamas for years, but they can no longer do so. There have also been other stories such as McDonalds entering the fashion market, fake online reviews, and Russell Brand&#39;s alternate reality.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
@@ -74,6 +74,12 @@ In the world, there is a lot going on. Technology is advancing and many companie
 <p>Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Tool for Building and Fixing Roads and Bridges: Artificial Intelligence</h3>
+<sub>By Colbi Edmonds</sub>
+<p>In Pennsylvania and elsewhere, A.I. is being applied to the nation’s aging infrastructure. Is that wise?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>For Years, Two Men Shuttled Messages Between Israel and Hamas. No Longer.</h3>
 <sub>By Patrick Kingsley</sub>
@@ -86,29 +92,23 @@ In the world, there is a lot going on. Technology is advancing and many companie
 <p>The add-ons pile up: $93 for medications, $50 for cable TV. Prices soar as the industry leaves no service unbilled. The housing option is out of reach for many families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What to Know About Assisted Living</h3>
-<sub>By Jordan Rau</sub>
-<p>The facilities can look like luxury apartments or modest group homes, and can vary in pricing structures. Here’s a guide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Jan. 6 Defendant Pleads His Case to the Son Who Turned Him In</h3>
 <sub>By Eli Saslow and Erin Schaff</sub>
 <p>The Capitol attacks ruptured their mutual trust. In the weeks before Brian Mock’s sentencing, could he mend the divide with his son A.J.?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis’s Two-Pronged Approach in Iowa: Hit Trump on Abortion, and Get Personal</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The Florida governor is courting white evangelicals by using Donald J. Trump’s criticisms of hard-line abortion restrictions against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Off the Court and Field, Top Athletes Become Players in the Art Market</h3>
+<sub>By Robin Pogrebin and Emmanuel Morgan</sub>
+<p>Sports figures are increasingly becoming serious collectors, helping drive interest in contemporary art and particularly in artists of color.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Focuses on Iowa as He Looks to Close Out the Republican Race</h3>
-<sub>By Michael Gold</sub>
-<p>The former president has made Iowa his priority, hoping to thin the field and turn his attention to a campaign against President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The N.Y.P.D. Is Upgrading Its Radios. The Public Won’t Be Able to Tune In.</h3>
+<sub>By Chelsia Rose Marcius</sub>
+<p>The New York Police Department is spending $500 million on a new radio system it calls more reliable and secure. But the public will no longer be able to monitor what officers are doing minute to minute.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Mother’s Search for Her Son Leads to a Pauper’s Grave and More Questions</h3>
@@ -116,11 +116,11 @@ In the world, there is a lot going on. Technology is advancing and many companie
 <p>Bettersten Wade spent months calling the police for help finding her son, without being told that an off-duty officer driving an SUV had fatally struck him on the same day she last saw him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Invisible War in Ukraine Being Fought Over Radio Waves</h3>
-<sub>By Paul Mozur and Aaron Krolik</sub>
-<p>Using electromagnetic waves to flummox and follow smarter weapons has become a critical part of the cat-and-mouse game between Ukraine and Russia. The United States, China and others have taken note.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Cancer Patient’s Last Wish: To Pay Off the Medical Debt of Others</h3>
+<sub>By Lola Fadulu</sub>
+<p>Casey McIntyre organized a campaign that has raised nearly $220,000 since she died a week ago. The funds are expected to pay off more than $20 million in debt, an official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
