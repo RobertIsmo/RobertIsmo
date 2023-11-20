@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot happening around the world. In Gaza, 24 people have been killed in a strike on a United Nations school. Argentina recently elected Javier Milei as president, marking a victory for the far right. In Africa, several creatives and artists are leading a cultural renaissance thanks to digital connections between the African diaspora. Back here in the US, former First Lady Rosalynn Carter died at 96. Her service and contribution to the country was widely recognized by people from both sides of the aisle. Not too long ago, former President Jimmy Carter and his wife celebrated their 75th wedding anniversary! Additionally, cancer patient Casey McIntyre ran a campaign to pay off other&#39;s medical debt before she passed away, raising nearly $220,000 - enough to pay off more than $20 million in debt. Lastly, Microsoft has hired tech billionaire Sam Altman after OpenAI rejected his return as CEO of their artificial intelligence company.</p>
+In the world right now, some pretty big news has erupted. Microsoft hired Sam Altman, the CEO of OpenAI, after the company rejected his return. Meanwhile, Argentina just elected a far-right president, and the former first lady Rosalynn Carter recently passed away at 96.  Along with these larger news stories, there are some smaller scale things happening in terms of human rights - U.S. businesses are making workers sign contracts that require them to pay up if they decide to quit their jobs. As for climate change, renewable energy is rising quickly while the energy mix still favours fossil fuels. Lastly, President Biden&#39;s upcoming 81st birthday has people on both sides of the aisle reflecting on plans for next year&#39;s election. </p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return</h3>
@@ -68,11 +68,47 @@ Right now, there&#39;s a lot happening around the world. In Gaza, 24 people have
 <p>The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 24 Killed in Strike on Gaza School Run by the U.N.</h3>
-<sub>By Hiba Yazbek</sub>
-<p>Nearly 7,000 people were sheltering at the school, according to the United Nations. Another school had been struck on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Microsoft Hires OpenAI’s Ousted C.E.O., and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Argentina elects a far-right president and Rosalynn Carter dies at 96.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Behind 94 Acts of Shocking Violence, Years of Glaring Mistakes</h3>
+<sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
+<p>New York officials have escaped scrutiny for repeated failures to help homeless mentally ill people, a New York Times investigation has found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Between Israelis and Palestinians, a Lethal Psychological Chasm Grows</h3>
+<sub>By Roger Cohen</sub>
+<p>In a conflict marked by complete incomprehension on both sides, the ability to see each other as human has been lost.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>‘A Beautiful Place That Has a Dragon’: Where Hurricane Risk Meets Booming Growth</h3>
+<sub>By Aatish Bhatia, K.K. Rebecca Lai, Josh Katz and Erin Schaff</sub>
+<p>The combined threat of climate change and development in risky areas is making it a big challenge to keep coastal Carolina residents safe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Electricity Is Changing Around the World</h3>
+<sub>By Nadja Popovich</sub>
+<p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For an Aging President, a Birthday With a Bite</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden has no plans for a lavish public celebration when he turns 81 on Monday, even as Democrats search for a strategy to assuage voters’ concerns about his age by next year’s election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>The Crisis in Issue Polling, and What We’re Doing About It</h3>
+<sub>By Nate Cohn</sub>
+<p>A poll can be very close to the actual result but miss the key story line. We’ll try new question forms; we might even try an experiment or two.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rosalynn Carter, First Lady and a Political Partner, Dies at 96</h3>
@@ -86,53 +122,17 @@ Right now, there&#39;s a lot happening around the world. In Gaza, 24 people have
 <p>Politicians from both sides of the aisle and other notable figures paid tribute to the former first lady, who died on Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jimmy and Rosalynn Carter Reflect on 75 Years of Marriage</h3>
-<sub>By Rick Rojas</sub>
-<p>Their relationship has been a constant through wins and losses, reinvention and raising a family. At 96 and 93, they have come to rely on their bond more now than ever.  <a href="https://nyti.ms/3AnGUKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, July 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Argentina Elects Javier Milei in Victory for Far Right</h3>
 <sub>By Jack Nicas</sub>
 <p>Argentina’s next president is a libertarian economist whose brash style and embrace of conspiracy theories has parallels with those of Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-espanol-blue" alt="">
-<h3>Javier Milei gana la presidencia de Argentina, una victoria para la ultraderecha mundial</h3>
-<sub>By Jack Nicas</sub>
-<p>El próximo presidente del país es un economista libertario cuyo estilo osado y proclividad a las teorías conspirativas le ha valido comparaciones con Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Meet the African Artists Driving a Cultural Renaissance</h3>
-<sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
-<p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The White House May Condemn Musk, but the Government Is Addicted to Him</h3>
-<sub>By David E. Sanger and Eric Lipton</sub>
-<p>Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Cancer Patient’s Last Wish: To Pay Off the Medical Debt of Others</h3>
-<sub>By Lola Fadulu</sub>
-<p>Casey McIntyre organized a campaign that has raised nearly $220,000 since she died a week ago. The funds are expected to pay off more than $20 million in debt, an official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Dubai’s Costly Water World</h3>
-<sub>By Arielle Paul</sub>
-<p>The city has spent billions of dollars to provide fresh water to its residents and tourist attractions, but experts say the efforts are straining the Persian Gulf’s natural resources.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Aging President, a Birthday With a Bite</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden has no plans for a lavish public celebration when he turns 81 on Monday, even as Democrats search for a strategy to assuage voters’ concerns about his age by next year’s election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Pay Thousands to Quit Your Job? Some Employers Say So.</h3>
+<sub>By Robin Kaiser-Schatzlein</sub>
+<p>Some U.S. businesses are forcing workers to sign contracts that demand steep “reimbursements” if they leave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
