@@ -58,32 +58,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, November 19, Central Standard Time</p>
+<p>It is Monday, November 20, Central Standard Time</p>
 <p>
-It&#39;s been a volatile couple of days on the world news front. There was a deadly strike on a U.N. school in Gaza that left over 24 killed, and nearly 7000 people displaced. In Argentina, Javier Milei was elected president in a victory for the far right. Over in Dubai, their costly water world has been straining its natural resources in an effort to supply fresh water to residents and tourists alike. Meanwhile back here in the US, we&#39;ve got a new tool to help with building and sustaining roads and bridges using A.I., and President Biden is turning 81 this coming Monday--but no lavish celebration planned just yet! To round things out, we&#39;ve got an inspirational story about one cancer patient&#39;s parting gift-- she&#39;s managed to raise $220K to pay off medical debts of other patients before her passing last week!</p>
+There&#39;s a lot going on in the world right now. In technology, OpenAI recently forced its CEO Sam Altman out of his role after 48 hours of intense negotiations. In world news, there&#39;s been a strike on a United Nations-run school in Gaza that killed at least 24 people. Closer to home, Rosalynn Carter, the former US First Lady and political partner to her husband Jimmy Carter, passed away at age 96 and is being remembered for her humanitarian work and mental health advocacy. Overseas, Argentina recently elected Javier Milei from the far right in what many are calling a global victory for the ultraderechta. At the same time, African artists are driving a cultural renaissance through digital connections with their diaspora. In the US, people are questioning why the government is so addicted to technology by Elon Musk despite declaring his views as repugnant. There&#39;s also an incredible story of a cancer patient who passed away but managed to raise nearly $220,000 in her last wish to pay off $20 million in medical debt from others. And finally, Dubai is expending billions of dollars to provide fresh water to its residents and tourist attractions but experts think it&#39;s straining the Persian Gulf&#39;s natural resources. Meanwhile here, Joe Biden is about to turn 81 and there&#39;s no plans for any public celebration, as Democrats strategize for how to keep voters from worrying too much about his age by next year’s election.</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>OpenAI Board Stands by Decision to Force Sam Altman Out of C.E.O. Role</h3>
+<sub>By Mike Isaac, Kevin Roose and Cade Metz</sub>
+<p>After 48 hours of furious negotiations, the A.I. company said Mr. Altman would not return to his job and that former Twitch C.E.O. Emmett Shear would be its interim boss.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Least 24 Killed in Strike on Gaza School Run by the U.N.</h3>
 <sub>By Hiba Yazbek</sub>
 <p>Nearly 7,000 people were sheltering at the school, according to the United Nations. Another school had been struck on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Talks to Bring Sam Altman Back to OpenAI Stretch Through Weekend</h3>
-<sub>By Mike Isaac, Cade Metz and Tripp Mickle</sub>
-<p>Disagreements over the board’s makeup appear to be a reason for the delay. Mr. Altman was forced out as chief executive by the company’s board on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Tool for Building and Fixing Roads and Bridges: Artificial Intelligence</h3>
-<sub>By Colbi Edmonds</sub>
-<p>In Pennsylvania and elsewhere, A.I. is being applied to the nation’s aging infrastructure. Is that wise?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rosalynn Carter, First Lady and a Political Partner, Dies at 96</h3>
 <sub>By Katharine Q. Seelye</sub>
 <p>She helped propel Jimmy Carter from rural Georgia to the White House and became the most politically active first lady since Eleanor Roosevelt  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rosalynn Carter Lauded for Humanitarian Work, Mental Health Advocacy</h3>
+<sub>By Rebecca Carballo</sub>
+<p>Politicians from both sides of the aisle and other notable figures paid tribute to the former first lady, who died on Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,11 +104,11 @@ It&#39;s been a volatile couple of days on the world news front. There was a dea
 <p>El próximo presidente del país es un economista libertario cuyo estilo osado y proclividad a las teorías conspirativas le ha valido comparaciones con Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Jan. 6 Defendant Pleads His Case to the Son Who Turned Him In</h3>
-<sub>By Eli Saslow and Erin Schaff</sub>
-<p>The Capitol attacks ruptured their mutual trust. In the weeks before Brian Mock’s sentencing, could he mend the divide with his son A.J.?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Meet the African Artists Driving a Cultural Renaissance</h3>
+<sub>By Abdi Latif Dahir, Charlie Brinkhurst-Cuff, Desiree Ibekwe, Elizabeth Paton, Lynsey Chutel and Precious Adesina</sub>
+<p>As digital connections bring the African diaspora together, these 12 creatives are at the center of a global shift.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The White House May Condemn Musk, but the Government Is Addicted to Him</h3>
