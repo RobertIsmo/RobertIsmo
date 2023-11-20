@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-There have been a lot of tragic world events recently. In Gaza, at least 24 people were killed in a strike on a school run by the U.N. while nearly 7,000 people were sheltering there. Meanwhile in Argentina, the far right has just taken the presidential election with Javier Milei as their victor. Additionally, the N.Y.P.D is investing $500 million to upgrade their radios, but this means that the public won&#39;t be able to tune in anymore. On a brighter note, Dubai is spending billions of dollars to provide fresh water it citizens alongside tourist attractions and a cancer patient has organized a campaign that raised nearly $220,000 since her death to pay off other people&#39;s medical debt that is estimated to be around $20 million.</p>
+It&#39;s been a volatile couple of days on the world news front. There was a deadly strike on a U.N. school in Gaza that left over 24 killed, and nearly 7000 people displaced. In Argentina, Javier Milei was elected president in a victory for the far right. Over in Dubai, their costly water world has been straining its natural resources in an effort to supply fresh water to residents and tourists alike. Meanwhile back here in the US, we&#39;ve got a new tool to help with building and sustaining roads and bridges using A.I., and President Biden is turning 81 this coming Monday--but no lavish celebration planned just yet! To round things out, we&#39;ve got an inspirational story about one cancer patient&#39;s parting gift-- she&#39;s managed to raise $220K to pay off medical debts of other patients before her passing last week!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Least 24 Killed in Strike on Gaza School Run by the U.N.</h3>
@@ -95,7 +95,7 @@ There have been a lot of tragic world events recently. In Gaza, at least 24 peop
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Argentina Elects Javier Milei in Victory for Far Right</h3>
 <sub>By Jack Nicas</sub>
-<p>Argentina’s next president is a libertarian economist whose brash style and embrace of conspiracy theories has parallels with Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Argentina’s next president is a libertarian economist whose brash style and embrace of conspiracy theories has parallels with those of Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-espanol-blue" alt="">
@@ -110,16 +110,16 @@ There have been a lot of tragic world events recently. In Gaza, at least 24 peop
 <p>The Capitol attacks ruptured their mutual trust. In the weeks before Brian Mock’s sentencing, could he mend the divide with his son A.J.?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The N.Y.P.D. Is Upgrading Its Radios. The Public Won’t Be Able to Tune In.</h3>
-<sub>By Chelsia Rose Marcius</sub>
-<p>The New York Police Department is spending $500 million on a new radio system it calls more reliable and secure. But the public will no longer be able to monitor what officers are doing minute to minute.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The White House May Condemn Musk, but the Government Is Addicted to Him</h3>
 <sub>By David E. Sanger and Eric Lipton</sub>
 <p>Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Cancer Patient’s Last Wish: To Pay Off the Medical Debt of Others</h3>
+<sub>By Lola Fadulu</sub>
+<p>Casey McIntyre organized a campaign that has raised nearly $220,000 since she died a week ago. The funds are expected to pay off more than $20 million in debt, an official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -129,9 +129,9 @@ There have been a lot of tragic world events recently. In Gaza, at least 24 peop
 <sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Cancer Patient’s Last Wish: To Pay Off the Medical Debt of Others</h3>
-<sub>By Lola Fadulu</sub>
-<p>Casey McIntyre organized a campaign that has raised nearly $220,000 since she died a week ago. The funds are expected to pay off more than $20 million in debt, an official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>For an Aging President, a Birthday With a Bite</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden has no plans for a lavish public celebration when he turns 81 on Monday, even as Democrats search for a strategy to assuage voters’ concerns about his age by next year’s election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
