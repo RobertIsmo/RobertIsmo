@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 19, Central Standard Time</p>
 <p>
-There&#39;s been a lot of news in the tech world recently. The high-profile boss of OpenAI stepped down after philosophical differences arose among the company&#39;s leadership. He is now in talks to return. AI is also being used more and more to improve existing infrastructure in places like Pennsylvania, but some experts are wary of this transition. 
-
-In other news, Rosalynn Carter, the former First Lady, passed away at 96 after a long and successful public life. And increasing numbers of athletes are turning their attention towards the art market and collecting contemporary art pieces as well as works from artists who are underrepresented. 
-
-The NY Police department is investing $500 million in a new radio system that won&#39;t be accessible to the public, while Dubai is spending millions trying to provide fresh water to its citizens. On a more uplifting note, a cancer patient recently orchestrated an effort to pay off her own medical debt plus millions of dollars&#39; worth of medical debt from others&#39; bills that she wasn&#39;t even responsible for. Finally, McDonald&#39;s is entering into the fashion industry, and you should check out this week&#39;s edition of The Weekender for more updates like fake online reviews and actionable insight on Russell Brand&#39;s alternate reality.</p>
+There have been a lot of tragic world events recently. In Gaza, at least 24 people were killed in a strike on a school run by the U.N. while nearly 7,000 people were sheltering there. Meanwhile in Argentina, the far right has just taken the presidential election with Javier Milei as their victor. Additionally, the N.Y.P.D is investing $500 million to upgrade their radios, but this means that the public won&#39;t be able to tune in anymore. On a brighter note, Dubai is spending billions of dollars to provide fresh water it citizens alongside tourist attractions and a cancer patient has organized a campaign that raised nearly $220,000 since her death to pay off other people&#39;s medical debt that is estimated to be around $20 million.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Fear and Tension That Led to Sam Altman’s Ouster at OpenAI</h3>
-<sub>By Cade Metz</sub>
-<p>The departure of the high-profile boss of the San Francisco company drew attention to a philosophical rift among the people building new A.I. systems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At Least 24 Killed in Strike on Gaza School Run by the U.N.</h3>
+<sub>By Hiba Yazbek</sub>
+<p>Nearly 7,000 people were sheltering at the school, according to the United Nations. Another school had been struck on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Altman Is Said to Be Discussing Return to OpenAI With Company’s Board</h3>
-<sub>By Cade Metz, Mike Isaac and Erin Griffith</sub>
-<p>Mr. Altman was forced out of the artificial intelligence start-up on Friday, leading to an outcry from his supporters and the company’s investors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 18, Central Standard Time</sub></sub>
+<h3>Talks to Bring Sam Altman Back to OpenAI Stretch Through Weekend</h3>
+<sub>By Mike Isaac, Cade Metz and Tripp Mickle</sub>
+<p>Disagreements over the board’s makeup appear to be a reason for the delay. Mr. Altman was forced out as chief executive by the company’s board on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Tool for Building and Fixing Roads and Bridges: Artificial Intelligence</h3>
@@ -85,15 +81,27 @@ The NY Police department is investing $500 million in a new radio system that wo
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter, Politically Active First Lady, Dies at 96</h3>
+<h3>Rosalynn Carter, First Lady and a Political Partner, Dies at 96</h3>
 <sub>By Katharine Q. Seelye</sub>
-<p>A full 16 years before Bill and Hillary Clinton offered themselves to the nation as a package deal, she and Jimmy Carter worked as near co-presidents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>She helped propel Jimmy Carter from rural Georgia to the White House and became the most politically active first lady since Eleanor Roosevelt  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jimmy and Rosalynn Carter Reflect on 75 Years of Marriage</h3>
+<sub>By Rick Rojas</sub>
+<p>Their relationship has been a constant through wins and losses, reinvention and raising a family. At 96 and 93, they have come to rely on their bond more now than ever.  <a href="https://nyti.ms/3AnGUKN"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, July 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Years, Two Men Shuttled Messages Between Israel and Hamas. No Longer.</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Since 2006, Gershon Baskin, an Israeli peace activist, and Ghazi Hamad, a Hamas official, maintained a secret back channel between Gaza and Israel. Then Oct. 7 happened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Argentina Elects Javier Milei in Victory for Far Right</h3>
+<sub>By Jack Nicas</sub>
+<p>Argentina’s next president is a libertarian economist whose brash style and embrace of conspiracy theories has parallels with Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-espanol-blue" alt="">
+<h3>Javier Milei gana la presidencia de Argentina, una victoria para la ultraderecha mundial</h3>
+<sub>By Jack Nicas</sub>
+<p>El próximo presidente del país es un economista libertario cuyo estilo osado y proclividad a las teorías conspirativas le ha valido comparaciones con Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,22 +110,16 @@ The NY Police department is investing $500 million in a new radio system that wo
 <p>The Capitol attacks ruptured their mutual trust. In the weeks before Brian Mock’s sentencing, could he mend the divide with his son A.J.?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Extra Fees Drive Assisted-Living Profits</h3>
-<sub>By Jordan Rau</sub>
-<p>The add-ons pile up: $93 for medications, $50 for cable TV. Prices soar as the industry leaves no service unbilled. The housing option is out of reach for many families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Off the Court and Field, Top Athletes Become Players in the Art Market</h3>
-<sub>By Robin Pogrebin and Emmanuel Morgan</sub>
-<p>Sports figures are increasingly becoming serious collectors, helping drive interest in contemporary art and particularly in artists of color.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The N.Y.P.D. Is Upgrading Its Radios. The Public Won’t Be Able to Tune In.</h3>
 <sub>By Chelsia Rose Marcius</sub>
 <p>The New York Police Department is spending $500 million on a new radio system it calls more reliable and secure. But the public will no longer be able to monitor what officers are doing minute to minute.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The White House May Condemn Musk, but the Government Is Addicted to Him</h3>
+<sub>By David E. Sanger and Eric Lipton</sub>
+<p>Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -131,12 +133,6 @@ The NY Police department is investing $500 million in a new radio system that wo
 <sub>By Lola Fadulu</sub>
 <p>Casey McIntyre organized a campaign that has raised nearly $220,000 since she died a week ago. The funds are expected to pay off more than $20 million in debt, an official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>McDonald’s is getting into fashion. Plus, we take a look at fake online reviews and Russell Brand’s alternate reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
