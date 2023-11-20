@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 20, Central Standard Time</p>
 <p>
-Right now, there are a lot of issues happening in the world that are making headlines. In the U.S., a federal court is attempting to weaken the Voting Rights Act, which would make it harder for private citizens and civil rights groups to challenge laws that could disenfranchise minorities. Meanwhile in Ukraine, tensions between Russia and their forces have stopped but deaths are still occurring every day due to military assaults, and the U.S. has sent a defense secretary to show support. And in Gaza, mothers are facing dire consequences for trying to give birth during a war zone. But there&#39;s some good news - Death Valley National Park is having visitors flock to it because of water! And Rosalynn Carter is finally getting recognition for her contributions as first lady of the White House.</p>
+There is a lot going on in the world right now. In business news, the future of the A.I. start-up OpenAI is uncertain due to a large number of their staff members saying they may leave and go to Microsoft. In tech news, Microsoft hired Sam Altman after OpenAI rejected his push to become the C.E.O. There is a deadly psychological chasm growing between Israelis and Palestinians, as well as a lot of difficulty for pregnant women in Gaza caused by the current conflict. In terms of nature, visitors have been flocking to Death Valley National Park this fall due to a rare lake that has come alive there recently. Climate activists are still being remembered five years after one passed away, and U.S voting rights have been weakened by a federal court ruling. A new group linked to Florida governor Ron DeSantis has popped up in Iowa ahead of the caucuses there, presidential debate dates and locations have been announced for 2024, some U.S businesses are forcing workers to pay thousands if they quit their jobs, and a gag order for Trump&#39;s election case is being considered by a court which may limit his free speech rights. Finally, former first lady Rosalynn Carter is being remembered for how she helped shape the role of modern first ladies today.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Court Moves to Drastically Weaken Voting Rights Act</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The ruling, which is almost certain to be appealed to the Supreme Court, would effectively bar private citizens and civil rights groups from suing under a key provision of the landmark law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Threat of OpenAI Staff Exodus Leaves Its Future Uncertain</h3>
+<sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
+<p>With more than 700 of OpenAI’s nearly 800 staff members saying they might head to Microsoft, prospects for the A.I. start-up aren’t rosy. The industry could experience second-order effects, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -98,6 +98,24 @@ Right now, there are a lot of issues happening in the world that are making head
 <p>Five years ago, David Buckel violently ended his life in a public park in Brooklyn. People who knew him were shocked and angry. Yet they refused to give up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Court Moves to Drastically Weaken Voting Rights Act</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The ruling, which is almost certain to be appealed to the Supreme Court, would effectively bar private citizens and civil rights groups from suing under a key provision of the landmark law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Group Linked to DeSantis Allies Pops Up in Iowa</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The group, Fight Right, was registered in recent days as Gov. Ron DeSantis tries to boost his momentum heading into the Iowa caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>2024 Presidential Debate Dates and Locations Are Announced</h3>
+<sub>By Maggie Astor</sub>
+<p>The Commission on Presidential Debates will host three general election forums on Sept. 16, Oct. 1 and Oct. 9.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Pay Thousands to Quit Your Job? Some Employers Say So.</h3>
 <sub>By Robin Kaiser-Schatzlein</sub>
@@ -110,28 +128,10 @@ Right now, there are a lot of issues happening in the world that are making head
 <p>A federal appeals court panel is weighing how to balance the former president’s free-speech rights against insulating prosecutors, court personnel and potential witnesses from intimidation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Ukraine’s Slowed-Down War, Death Comes as Quickly as Ever</h3>
-<sub>By Marc Santora and Tyler Hicks</sub>
-<p>Ukraine is facing continual eastern assaults from Russian forces at a bloody cost for both sides, even as the lines on the map barely move.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Defense Secretary Visits Ukraine in Show of Support</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Lloyd J. Austin III’s trip was a gesture of solidarity when progress in the war against Russia has stalled and there are concerns about U.S. military aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Rosalynn Carter Helped Shape the Role of the Modern First Lady</h3>
 <sub>By Peter Baker</sub>
 <p>Mrs. Carter transformed the unelected, unpaid and sometimes unappreciated position of first lady in ways that reverberate to this day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Rosalynn Carter, White House Trendsetter</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Her style contribution as first lady deserves a reassessment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
