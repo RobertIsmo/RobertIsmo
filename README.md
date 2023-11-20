@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 20, Central Standard Time</p>
 <p>
-In the world right now, some pretty big news has erupted. Microsoft hired Sam Altman, the CEO of OpenAI, after the company rejected his return. Meanwhile, Argentina just elected a far-right president, and the former first lady Rosalynn Carter recently passed away at 96.  Along with these larger news stories, there are some smaller scale things happening in terms of human rights - U.S. businesses are making workers sign contracts that require them to pay up if they decide to quit their jobs. As for climate change, renewable energy is rising quickly while the energy mix still favours fossil fuels. Lastly, President Biden&#39;s upcoming 81st birthday has people on both sides of the aisle reflecting on plans for next year&#39;s election. </p>
+There is a lot happening globally. Microsoft recently hired the former CEO of OpenAI, an artificial intelligence company. In Argentina, a far-right president has recently been elected and Rosalynn Carter has passed away at 96. In America, the government is becoming increasingly dependent on the technology provided by a single technologist even though they have publicly announced their disapproval of his views. Meanwhile, relations between Israelis and Palestinians are worsening, leading to conflicts over hostages taken in recent attacks. Governments around the world are also starting to recognize climate change as an issue, although much more needs to be done to address it in order to keep temperatures relatively safe. Lastly, U.S. Defense Secretary Lloyd J Jamala recently visited Ukraine as a gesture of solidarity despite concerns about military aid.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return</h3>
@@ -74,10 +74,10 @@ In the world right now, some pretty big news has erupted. Microsoft hired Sam Al
 <p>Plus, Argentina elects a far-right president and Rosalynn Carter dies at 96.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Behind 94 Acts of Shocking Violence, Years of Glaring Mistakes</h3>
-<sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
-<p>New York officials have escaped scrutiny for repeated failures to help homeless mentally ill people, a New York Times investigation has found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The White House May Condemn Musk, but the Government Is Addicted to Him</h3>
+<sub>By David E. Sanger and Eric Lipton</sub>
+<p>Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -86,11 +86,41 @@ In the world right now, some pretty big news has erupted. Microsoft hired Sam Al
 <p>In a conflict marked by complete incomprehension on both sides, the ability to see each other as human has been lost.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About the Hostage Negotiations Between Israel and Hamas</h3>
+<sub>By Patrick Kingsley</sub>
+<p>As Israel and Hamas negotiate over the release of some 240 hostages taken in the armed group’s Oct. 7 attacks, the outlines of a possible deal are taking shape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Pay Thousands to Quit Your Job? Some Employers Say So.</h3>
+<sub>By Robin Kaiser-Schatzlein</sub>
+<p>Some U.S. businesses are forcing workers to sign contracts that demand steep “reimbursements” if they leave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>‘A Beautiful Place That Has a Dragon’: Where Hurricane Risk Meets Booming Growth</h3>
 <sub>By Aatish Bhatia, K.K. Rebecca Lai, Josh Katz and Erin Schaff</sub>
 <p>The combined threat of climate change and development in risky areas is making it a big challenge to keep coastal Carolina residents safe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Ukraine’s Slowed-Down War, Death Comes as Quickly as Ever</h3>
+<sub>By Marc Santora and Tyler Hicks</sub>
+<p>Ukraine is facing continual eastern assaults from Russian forces at a bloody cost for both sides, even as the lines on the map barely move.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Defense Secretary Visits Ukraine in Show of Support</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Lloyd J. Austin III’s trip was a gesture of solidarity when progress in the war against Russia has stalled and there are concerns about U.S. military aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>She Once Won Eurovision. Now She’s on Russia’s Wanted List.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Jamala, the song contest’s 2016 champion, had been a prominent advocate for Crimea’s Tatar population. The region was annexed from Ukraine by Russia in 2014.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How Electricity Is Changing Around the World</h3>
@@ -98,40 +128,10 @@ In the world right now, some pretty big news has erupted. Microsoft hired Sam Al
 <p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For an Aging President, a Birthday With a Bite</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden has no plans for a lavish public celebration when he turns 81 on Monday, even as Democrats search for a strategy to assuage voters’ concerns about his age by next year’s election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>The Crisis in Issue Polling, and What We’re Doing About It</h3>
-<sub>By Nate Cohn</sub>
-<p>A poll can be very close to the actual result but miss the key story line. We’ll try new question forms; we might even try an experiment or two.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter, First Lady and a Political Partner, Dies at 96</h3>
-<sub>By Katharine Q. Seelye</sub>
-<p>She helped propel Jimmy Carter from rural Georgia to the White House and became the most politically active first lady since Eleanor Roosevelt  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter Lauded for Humanitarian Work, Mental Health Advocacy</h3>
-<sub>By Rebecca Carballo</sub>
-<p>Politicians from both sides of the aisle and other notable figures paid tribute to the former first lady, who died on Sunday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Argentina Elects Javier Milei in Victory for Far Right</h3>
-<sub>By Jack Nicas</sub>
-<p>Argentina’s next president is a libertarian economist whose brash style and embrace of conspiracy theories has parallels with those of Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Pay Thousands to Quit Your Job? Some Employers Say So.</h3>
-<sub>By Robin Kaiser-Schatzlein</sub>
-<p>Some U.S. businesses are forcing workers to sign contracts that demand steep “reimbursements” if they leave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Nations Are Getting Serious About Climate Action. Just Not Serious Enough.</h3>
+<sub>By Brad Plumer</sub>
+<p>There’s a lot more work to do to keep global temperatures at relatively safe levels, according to a U.N. report issued in advance of global climate talks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
