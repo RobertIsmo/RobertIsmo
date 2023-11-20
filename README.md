@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 20, Central Standard Time</p>
 <p>
-There is a lot happening globally. Microsoft recently hired the former CEO of OpenAI, an artificial intelligence company. In Argentina, a far-right president has recently been elected and Rosalynn Carter has passed away at 96. In America, the government is becoming increasingly dependent on the technology provided by a single technologist even though they have publicly announced their disapproval of his views. Meanwhile, relations between Israelis and Palestinians are worsening, leading to conflicts over hostages taken in recent attacks. Governments around the world are also starting to recognize climate change as an issue, although much more needs to be done to address it in order to keep temperatures relatively safe. Lastly, U.S. Defense Secretary Lloyd J Jamala recently visited Ukraine as a gesture of solidarity despite concerns about military aid.</p>
+Right now, there are a lot of issues happening in the world that are making headlines. In the U.S., a federal court is attempting to weaken the Voting Rights Act, which would make it harder for private citizens and civil rights groups to challenge laws that could disenfranchise minorities. Meanwhile in Ukraine, tensions between Russia and their forces have stopped but deaths are still occurring every day due to military assaults, and the U.S. has sent a defense secretary to show support. And in Gaza, mothers are facing dire consequences for trying to give birth during a war zone. But there&#39;s some good news - Death Valley National Park is having visitors flock to it because of water! And Rosalynn Carter is finally getting recognition for her contributions as first lady of the White House.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Court Moves to Drastically Weaken Voting Rights Act</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The ruling, which is almost certain to be appealed to the Supreme Court, would effectively bar private citizens and civil rights groups from suing under a key provision of the landmark law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return</h3>
 <sub>By Mike Isaac, Kevin Roose and Cade Metz</sub>
 <p>The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Microsoft Hires OpenAI’s Ousted C.E.O., and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Argentina elects a far-right president and Rosalynn Carter dies at 96.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The White House May Condemn Musk, but the Government Is Addicted to Him</h3>
-<sub>By David E. Sanger and Eric Lipton</sub>
-<p>Rarely has the U.S. government so depended on the technology provided by a single technologist with views that it has so publicly declared repugnant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,10 +81,22 @@ There is a lot happening globally. Microsoft recently hired the former CEO of Op
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About the Hostage Negotiations Between Israel and Hamas</h3>
-<sub>By Patrick Kingsley</sub>
-<p>As Israel and Hamas negotiate over the release of some 240 hostages taken in the armed group’s Oct. 7 attacks, the outlines of a possible deal are taking shape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘A Horror Film’: Mothers in Gaza on Giving Birth in a War Zone</h3>
+<sub>By Neil Collier</sub>
+<p>The U.N. says that an estimated 50,000 pregnant women are caught up in the conflict in Gaza. Palestinian officials warn that the health care system has collapsed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Death Valley, a Rare Lake Comes Alive</h3>
+<sub>By Jill Cowan and Mette Lampcov</sub>
+<p>Visitors normally flock to Death Valley National Park to feel the searing heat and take in the barren landscape. This fall, they’ve been drawn by a different natural feature: water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Endures After a Climate Activist’s Suicide: Grief, Anger and Hope</h3>
+<sub>By John Leland</sub>
+<p>Five years ago, David Buckel violently ended his life in a public park in Brooklyn. People who knew him were shocked and angry. Yet they refused to give up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Pay Thousands to Quit Your Job? Some Employers Say So.</h3>
@@ -98,11 +104,11 @@ There is a lot happening globally. Microsoft recently hired the former CEO of Op
 <p>Some U.S. businesses are forcing workers to sign contracts that demand steep “reimbursements” if they leave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>‘A Beautiful Place That Has a Dragon’: Where Hurricane Risk Meets Booming Growth</h3>
-<sub>By Aatish Bhatia, K.K. Rebecca Lai, Josh Katz and Erin Schaff</sub>
-<p>The combined threat of climate change and development in risky areas is making it a big challenge to keep coastal Carolina residents safe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Court Signals It Could Keep but Narrow Trump Election Case Gag Order</h3>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>A federal appeals court panel is weighing how to balance the former president’s free-speech rights against insulating prosecutors, court personnel and potential witnesses from intimidation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Ukraine’s Slowed-Down War, Death Comes as Quickly as Ever</h3>
@@ -116,22 +122,16 @@ There is a lot happening globally. Microsoft recently hired the former CEO of Op
 <p>Lloyd J. Austin III’s trip was a gesture of solidarity when progress in the war against Russia has stalled and there are concerns about U.S. military aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>She Once Won Eurovision. Now She’s on Russia’s Wanted List.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Jamala, the song contest’s 2016 champion, had been a prominent advocate for Crimea’s Tatar population. The region was annexed from Ukraine by Russia in 2014.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rosalynn Carter Helped Shape the Role of the Modern First Lady</h3>
+<sub>By Peter Baker</sub>
+<p>Mrs. Carter transformed the unelected, unpaid and sometimes unappreciated position of first lady in ways that reverberate to this day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Electricity Is Changing Around the World</h3>
-<sub>By Nadja Popovich</sub>
-<p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Nations Are Getting Serious About Climate Action. Just Not Serious Enough.</h3>
-<sub>By Brad Plumer</sub>
-<p>There’s a lot more work to do to keep global temperatures at relatively safe levels, according to a U.N. report issued in advance of global climate talks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Rosalynn Carter, White House Trendsetter</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Her style contribution as first lady deserves a reassessment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
