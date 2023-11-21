@@ -60,30 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 20, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In business news, the future of the A.I. start-up OpenAI is uncertain due to a large number of their staff members saying they may leave and go to Microsoft. In tech news, Microsoft hired Sam Altman after OpenAI rejected his push to become the C.E.O. There is a deadly psychological chasm growing between Israelis and Palestinians, as well as a lot of difficulty for pregnant women in Gaza caused by the current conflict. In terms of nature, visitors have been flocking to Death Valley National Park this fall due to a rare lake that has come alive there recently. Climate activists are still being remembered five years after one passed away, and U.S voting rights have been weakened by a federal court ruling. A new group linked to Florida governor Ron DeSantis has popped up in Iowa ahead of the caucuses there, presidential debate dates and locations have been announced for 2024, some U.S businesses are forcing workers to pay thousands if they quit their jobs, and a gag order for Trump&#39;s election case is being considered by a court which may limit his free speech rights. Finally, former first lady Rosalynn Carter is being remembered for how she helped shape the role of modern first ladies today.</p>
+There have been a lot of developments in the world recently. Former US President Trump is now attacking his domestic political opponents with particularly hostile rhetoric, which is raising alarm bells about his authoritarian tendencies. On the business front, OpenAI staff are threatening to leave the company due to one board member&#39;s involvement in Sam Altman&#39;s ouster as chief executive, making the company&#39;s future uncertain. Microsoft&#39;s CEO, Satya Nadella, has saved the &#39;best bromance in tech&#39; by hiring Altman soon after his exit from OpenAI. In addition, US Courts have moved to drastically weaken the Voting Rights Act, and hostage families in Gaza are desperate for news of their loved ones. Meanwhile, satellite analysis shows that half of all buildings in northern Gaza have been destroyed or damaged since recent escalation of tensions in Israel and Gaza. Academics and writers at University of Arkansas must sign a pledge that they will not participate in any anti-Israel boycotts if they want to receive payment for speaking on campus. In Death Valley National Park, an incredibly rare lake has miraculously come to life. An investigation by The New York Times uncovered a series of disturbing failures relating to homeless mentally ill people that contributed to 94 acts of shocking violence across the state. Finally, citizens of Argentina are bracing themselves for their new &#39;anarcho-capitalist&#39; president Javier Milei - who has said society should be without government!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Dire Words Raise New Fears About His Authoritarian Bent</h3>
+<sub>By Michael C. Bender and Michael Gold</sub>
+<p>The former president is focusing his most vicious attacks on domestic political opponents, setting off fresh worries among autocracy experts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Threat of OpenAI Staff Exodus Leaves Its Future Uncertain</h3>
+<h3>OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future</h3>
 <sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
-<p>With more than 700 of OpenAI’s nearly 800 staff members saying they might head to Microsoft, prospects for the A.I. start-up aren’t rosy. The industry could experience second-order effects, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Microsoft Hires Sam Altman Hours After OpenAI Rejects His Return</h3>
-<sub>By Mike Isaac, Kevin Roose and Cade Metz</sub>
-<p>The announcement capped a tumultuous weekend for OpenAI, after Mr. Altman made a push to reclaim his job as C.E.O. of the artificial intelligence company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<h3>How Microsoft’s Satya Nadella Kept the ‘Best Bromance in Tech’ Alive</h3>
+<sub>By Karen Weise</sub>
+<p>Mr. Nadella moved fast to hire Sam Altman, who was pushed out of OpenAI on Friday, and asserted his company’s role in its partnership with the A.I. start-up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Between Israelis and Palestinians, a Lethal Psychological Chasm Grows</h3>
-<sub>By Roger Cohen</sub>
-<p>In a conflict marked by complete incomprehension on both sides, the ability to see each other as human has been lost.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Mayhem at OpenAI + Our Interview With Sam Altman</h3>
+<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Rowan Niemisto, Dan Powell and Marion Lozano</sub>
+<p>Tech’s wildest weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Court Moves to Drastically Weaken Voting Rights Act</h3>
+<sub>By Nick Corasaniti</sub>
+<p>The ruling, which is almost certain to be appealed to the Supreme Court, would effectively bar private citizens and civil rights groups from suing under a key provision of the landmark law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Families of Hostages in Gaza Are Desperate for Proof of Life</h3>
+<sub>By Michael D. Shear</sub>
+<p>Hamas has offered no information about the nearly 240 hostages, including children, who are said to be held in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘A Horror Film’: Mothers in Gaza on Giving Birth in a War Zone</h3>
-<sub>By Neil Collier</sub>
-<p>The U.N. says that an estimated 50,000 pregnant women are caught up in the conflict in Gaza. Palestinian officials warn that the health care system has collapsed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>Half of all buildings in northern Gaza are damaged or destroyed, according to satellite analysis estimates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At University of Arkansas, a State Law Stifles Pro-Palestinian Speakers</h3>
+<sub>By Vimal Patel</sub>
+<p>To receive a modest speaker’s fee, academics and writers must sign a pledge that they will not participate in anti-Israel boycotts. The author Nathan Thrall said no thank you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,45 +117,21 @@ There is a lot going on in the world right now. In business news, the future of 
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Behind 94 Acts of Shocking Violence, Years of Glaring Mistakes</h3>
+<sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
+<p>New York officials have escaped scrutiny for repeated failures to help homeless mentally ill people, a New York Times investigation has found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What Endures After a Climate Activist’s Suicide: Grief, Anger and Hope</h3>
 <sub>By John Leland</sub>
 <p>Five years ago, David Buckel violently ended his life in a public park in Brooklyn. People who knew him were shocked and angry. Yet they refused to give up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Court Moves to Drastically Weaken Voting Rights Act</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The ruling, which is almost certain to be appealed to the Supreme Court, would effectively bar private citizens and civil rights groups from suing under a key provision of the landmark law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Group Linked to DeSantis Allies Pops Up in Iowa</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The group, Fight Right, was registered in recent days as Gov. Ron DeSantis tries to boost his momentum heading into the Iowa caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>2024 Presidential Debate Dates and Locations Are Announced</h3>
-<sub>By Maggie Astor</sub>
-<p>The Commission on Presidential Debates will host three general election forums on Sept. 16, Oct. 1 and Oct. 9.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Pay Thousands to Quit Your Job? Some Employers Say So.</h3>
-<sub>By Robin Kaiser-Schatzlein</sub>
-<p>Some U.S. businesses are forcing workers to sign contracts that demand steep “reimbursements” if they leave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Court Signals It Could Keep but Narrow Trump Election Case Gag Order</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>A federal appeals court panel is weighing how to balance the former president’s free-speech rights against insulating prosecutors, court personnel and potential witnesses from intimidation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter Helped Shape the Role of the Modern First Lady</h3>
-<sub>By Peter Baker</sub>
-<p>Mrs. Carter transformed the unelected, unpaid and sometimes unappreciated position of first lady in ways that reverberate to this day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Argentina Braces Itself for Its New ‘Anarcho-Capitalist’ President</h3>
+<sub>By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera</sub>
+<p>Javier Milei has said that society is better without government. Now he is about to run Argentina’s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
