@@ -60,25 +60,43 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 21, Central Standard Time</p>
 <p>
-Right now, former President Trump is coming under fire by experts for his increasingly authoritarian tone and behavior towards domestic political opponents. This has caused fear among many people across the US. In tech news, OpenAI staff are threatening to leave in protest of the dismissal of their chief executive Sam Altman, putting its future at risk. Microsoft was then quick to hire Sam Altman after he was pushed out of OpenAI, showing support for the &#39;best bromance in tech&#39;. Meanwhile, The US Federal Court is attempting to weaken the Voting Rights Act, while families of hostages held in Gaza struggle for information from Hamas. Elsewhere, conflict in Israel and Gaza have left half of buildings in northern Gaza damaged or destroyed, and Argentinian Javier Milei was elected president with a background in &#39;anarcho-capitalist&#39; beliefs. On the environment side of things, Death Valley is seeing rare lakes come alive thanks to recent rains, yet indoor air pollution remains a burden on human health despite recent pandemics and wildfires.</p>
+There is a lot going on in the world right now. In the Middle East and Ukraine, electronic warfare has complicated civilian air travel by causing inaccurate onboard alerts and diverting flights. This is part of an ongoing conflict between Israel and Palestine that has been intractable for decades. Families of Israelis held hostage by Hamas are worried about their health as they need medical care urgently. In the tech industry, Steve Jobs&#39; legacy continues to affect OpenAI, as founder Sam Altman has struggled to keep up with the progress of artificial intelligence. Nations are considering legal limits on AI-powered drones which have become a reality and raise potential issues with autonomous arms. On top of this, thousands of migrants come to the United States looking for safety every day, often to be turned away without proper resources or support. New York State is currently doing their best to mitigate some of these issues by increasing communication between shelters, hospitals and care teams.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Dire Words Raise New Fears About His Authoritarian Bent</h3>
-<sub>By Michael C. Bender and Michael Gold</sub>
-<p>The former president is focusing his most vicious attacks on domestic political opponents, setting off fresh worries among autocracy experts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Electronic Warfare Confounds Civilian Pilots, Far From Any Battlefield</h3>
+<sub>By Selam Gebrekidan</sub>
+<p>Planes were built to trust GPS signals. Jamming and spoofing in the Middle East and Ukraine have diverted flights and caused inaccurate onboard alerts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>OpenAI Staff Threatens Exodus, Jeopardizing Company’s Future</h3>
-<sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
-<p>A board member who was part of Sam Altman’s ouster as chief executive joined a majority of the company’s staff in calling for the decision’s reversal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Was Peace Ever Possible?</h3>
+<sub>Moderated by Emily Bazelon</sub>
+<p>Thirty years ago, a negotiated settlement of the Israeli-Palestinian conflict seemed achievable. The story of how it fell apart reveals why the fight remains so intractable today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Families Fear for the Health of Ailing, Frail Israelis Held Hostage</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Many of the more than 200 people seized by Hamas when it raided Israel had serious medical conditions. Some were badly injured in the attack. Doctors say they need medical care urgently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>A Crisis at Gaza’s Hospitals, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a federal court moves to weaken the Voting Rights Act and cities stress over driverless taxis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Microsoft’s Satya Nadella Kept the ‘Best Bromance in Tech’ Alive</h3>
-<sub>By Karen Weise</sub>
-<p>Mr. Nadella moved fast to hire Sam Altman, who was pushed out of OpenAI on Friday, and asserted his company’s role in its partnership with the A.I. start-up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<h3>The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI</h3>
+<sub>By David Streitfeld</sub>
+<p>Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Chaos at OpenAI, Explained</h3>
+<sub>By Kevin Roose</sub>
+<p>How fears over the future led to a tech-world coup.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Mayhem at OpenAI + Our Interview With Sam Altman</h3>
@@ -87,52 +105,34 @@ Right now, former President Trump is coming under fire by experts for his increa
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Court Moves to Drastically Weaken Voting Rights Act</h3>
-<sub>By Nick Corasaniti</sub>
-<p>The ruling, which is almost certain to be appealed to the Supreme Court, would effectively bar private citizens and civil rights groups from suing under a key provision of the landmark law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<h3>As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits</h3>
+<sub>By Eric Lipton</sub>
+<p>Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Families of Hostages in Gaza Are Desperate for Proof of Life</h3>
-<sub>By Michael D. Shear</sub>
-<p>Hamas has offered no information about the nearly 240 hostages, including children, who are said to be held in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<h3>From Land Mines to Drones, Tech Has Driven Fears About Autonomous Arms</h3>
+<sub>By Eric Lipton</sub>
+<p>Concern about weapons that can kill without a human decision is not entirely new.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>Half of all buildings in northern Gaza are damaged or destroyed, according to satellite analysis estimates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At University of Arkansas, a State Law Stifles Pro-Palestinian Speakers</h3>
-<sub>By Vimal Patel</sub>
-<p>To receive a modest speaker’s fee, academics and writers must sign a pledge that they will not participate in anti-Israel boycotts. The author Nathan Thrall said no thank you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities</h3>
-<sub>By Yiwen Lu</sub>
-<p>In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Making a Home and Avoiding Deportation in New York City</h3>
+<sub>By Keith Collins, Raúl Vilchis and Olivia Bensimon</sub>
+<p>More than 200,000 migrants have come to New York in the last 18 months. Five of them told us how they have found shelter, earned money and looked for legal ways to stay here.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Death Valley, a Rare Lake Comes Alive</h3>
-<sub>By Jill Cowan and Mette Lampcov</sub>
-<p>Visitors normally flock to Death Valley National Park to feel the searing heat and take in the barren landscape. This fall, they’ve been drawn by a different natural feature: water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<h3>Asylum in America, by the Numbers</h3>
+<sub>By Eileen Sullivan</sub>
+<p>A migration crisis is overwhelming government resources as thousands of people come to the United States looking for safety every day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Argentina Braces Itself for Its New ‘Anarcho-Capitalist’ President</h3>
-<sub>By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera</sub>
-<p>Javier Milei has said that society is better without government. Now he is about to run Argentina’s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why We’re Still Breathing Dirty Indoor Air</h3>
-<sub>By Apoorva Mandavilli</sub>
-<p>The pandemic and recent wildfires have shown how unhealthy indoor air can be. But scientific and governmental inertia have slowed the necessary remedies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York State Leans on Hospitals to Close Gaps in Social Safety Net</h3>
+<sub>By Amy Julia Harris and Jan Ransom</sub>
+<p>Amid a drumbeat of preventable errors by shelters, hospitals and care teams, state officials issued guidance to increase communication.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
