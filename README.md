@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 21, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the world right now. For example, there&#39;s still a lot of tension between Israel and Palestine after 30 years of fighting, which experts say will remain intractable. We&#39;ve also seen tech tycoon Steve Jobs&#39; legacy continue to influence companies like OpenAI and how they are run. On the other hand, more countries are debating about the limits and risks of using autonomous weapons like killer drones, and people continue to worry about the safety of AI-controlled technology. People are also moving to the U.S. to seek refuge and asylum but are facing lots of new legal constraints under President Biden&#39;s administration. Additionally, art and photography have become increasingly popular but it remains to be seen if this trend will continue in the future. Lastly, we can look forward to lots of new book releases from The New York Times Book Reviews over the coming year, and scientists continue to study the evolution of different variants of coronavirus.</p>
+Right now, there are some tense international relationships, with the Israeli-Palestinian conflict still ongoing, and nations debating limits on A.I.-controlled weapons like killer drones. Technology is making waves, from Binance&#39;s founder being fined to predictions for what books may come out in 2023. In the US, former President Trump is back in the news lately, with Democrats hoping for his return to their favor and Johnson visiting him recently. On a lighter note, an overlooked photograph is getting a lot of attention and money.</p>
 <ol>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Was Peace Ever Possible?</h3>
 <sub>Moderated by Emily Bazelon</sub>
 <p>Thirty years ago, a negotiated settlement of the Israeli-Palestinian conflict seemed achievable. The story of how it fell apart reveals why the fight remains so intractable today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Families Fear for the Health of Ailing, Frail Israelis Held Hostage</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Many of the more than 200 people seized by Hamas when it raided Israel had serious medical conditions. Some were badly injured in the attack. Doctors say they need medical care urgently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Binance Founder Pleads Guilty to Violating Money Laundering Rules</h3>
+<sub>By David Yaffe-Bellany, Emily Flitter, Matthew Goldstein and Glenn Thrush</sub>
+<p>Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI</h3>
@@ -93,21 +105,9 @@ It looks like a lot is happening in the world right now. For example, there&#39;
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is This the World’s Highest Grossing Photograph?</h3>
+<h3>Is This the World’s Highest-Grossing Photograph?</h3>
 <sub>By David Segal</sub>
 <p>“Girls in the Windows” wasn’t made by an art world giant, but people keep buying it. And buying it. And buying it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Making a Home and Avoiding Deportation in New York City</h3>
-<sub>By Keith Collins, Raúl Vilchis and Olivia Bensimon</sub>
-<p>More than 200,000 migrants have come to New York in the last 18 months. Five of them told us how they have found shelter, earned money and looked for legal ways to stay here.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Asylum in America, by the Numbers</h3>
-<sub>By Eileen Sullivan</sub>
-<p>A migration crisis is overwhelming government resources as thousands of people come to the United States looking for safety every day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +122,16 @@ It looks like a lot is happening in the world right now. For example, there&#39;
 <p>It was the speaker’s first trip to see the former president since he won his post, and it came as he faced anger from right-wing lawmakers for moving to fund the government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Georgia Judge Weighs Revoking a Trump Co-Defendant’s Bail</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>Prosecutors say the defendant, Harrison Floyd, has been intimidating potential witnesses in the case with his social media posts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>100 Notable Books of 2023</h3>
 <sub>By The New York Times Books Staff</sub>
 <p>Here are the year’s notable fiction, poetry and nonfiction, chosen by the staff of The New York Times Book Review.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Omicron, Now 2 Years Old, Is Not Done With Us Yet</h3>
-<sub>By Carl Zimmer</sub>
-<p>The dominant variant of the coronavirus has proved to be not only staggeringly infectious, but an evolutionary marvel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
