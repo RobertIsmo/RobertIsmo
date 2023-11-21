@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the Middle East and Ukraine, electronic warfare has complicated civilian air travel by causing inaccurate onboard alerts and diverting flights. This is part of an ongoing conflict between Israel and Palestine that has been intractable for decades. Families of Israelis held hostage by Hamas are worried about their health as they need medical care urgently. In the tech industry, Steve Jobs&#39; legacy continues to affect OpenAI, as founder Sam Altman has struggled to keep up with the progress of artificial intelligence. Nations are considering legal limits on AI-powered drones which have become a reality and raise potential issues with autonomous arms. On top of this, thousands of migrants come to the United States looking for safety every day, often to be turned away without proper resources or support. New York State is currently doing their best to mitigate some of these issues by increasing communication between shelters, hospitals and care teams.</p>
+There&#39;s a lot happening in the world right now. In some parts of the world, people are dealing with electronic warfare that is confusing civilian pilots and causing problems with GPS signals. There is also the ongoing Israeli-Palestinian Conflict, which has been going for years and has led to a breakdown in communication between both sides. High tech companies are in the midst of turmoil due to concerns about the future of Artificial Intelligence, leading to big changes in leadership within these organizations. On a larger scale, nations are discussing limits on AI-controlled killer drones and debating over the use of autonomous arms. Meanwhile, there are massive numbers of migrants making their way to New York City and many other parts of the United States - seeking safety and trying to find ways to remain in the country legally. It&#39;s all very complicated and constantly changing, but the news continues to bring attention to all of these stories.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Electronic Warfare Confounds Civilian Pilots, Far From Any Battlefield</h3>
@@ -75,10 +75,10 @@ There is a lot going on in the world right now. In the Middle East and Ukraine, 
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Families Fear for the Health of Ailing, Frail Israelis Held Hostage</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Many of the more than 200 people seized by Hamas when it raided Israel had serious medical conditions. Some were badly injured in the attack. Doctors say they need medical care urgently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<h3>Between Israelis and Palestinians, a Lethal Psychological Chasm Grows</h3>
+<sub>By Roger Cohen</sub>
+<p>In a conflict marked by complete incomprehension on both sides, the ability to see each other as human has been lost.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>A Crisis at Gaza’s Hospitals, and More</h3>
@@ -92,17 +92,23 @@ There is a lot going on in the world right now. In the Middle East and Ukraine, 
 <p>Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Mayhem at OpenAI + Our Interview With Sam Altman</h3>
+<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Rowan Niemisto, Dan Powell and Marion Lozano</sub>
+<p>Tech’s wildest weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Chaos at OpenAI, Explained</h3>
 <sub>By Kevin Roose</sub>
 <p>How fears over the future led to a tech-world coup.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Mayhem at OpenAI + Our Interview With Sam Altman</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Rowan Niemisto, Dan Powell and Marion Lozano</sub>
-<p>Tech’s wildest weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Does A.I. Have an Inherent Governance Problem?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>OpenAI’s intricate structure, which contributed to the ouster of Sam Altman, is complex by design.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits</h3>
@@ -126,12 +132,6 @@ There is a lot going on in the world right now. In the Middle East and Ukraine, 
 <h3>Asylum in America, by the Numbers</h3>
 <sub>By Eileen Sullivan</sub>
 <p>A migration crisis is overwhelming government resources as thousands of people come to the United States looking for safety every day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York State Leans on Hospitals to Close Gaps in Social Safety Net</h3>
-<sub>By Amy Julia Harris and Jan Ransom</sub>
-<p>Amid a drumbeat of preventable errors by shelters, hospitals and care teams, state officials issued guidance to increase communication.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
