@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 20, Central Standard Time</p>
 <p>
-There have been a lot of developments in the world recently. Former US President Trump is now attacking his domestic political opponents with particularly hostile rhetoric, which is raising alarm bells about his authoritarian tendencies. On the business front, OpenAI staff are threatening to leave the company due to one board member&#39;s involvement in Sam Altman&#39;s ouster as chief executive, making the company&#39;s future uncertain. Microsoft&#39;s CEO, Satya Nadella, has saved the &#39;best bromance in tech&#39; by hiring Altman soon after his exit from OpenAI. In addition, US Courts have moved to drastically weaken the Voting Rights Act, and hostage families in Gaza are desperate for news of their loved ones. Meanwhile, satellite analysis shows that half of all buildings in northern Gaza have been destroyed or damaged since recent escalation of tensions in Israel and Gaza. Academics and writers at University of Arkansas must sign a pledge that they will not participate in any anti-Israel boycotts if they want to receive payment for speaking on campus. In Death Valley National Park, an incredibly rare lake has miraculously come to life. An investigation by The New York Times uncovered a series of disturbing failures relating to homeless mentally ill people that contributed to 94 acts of shocking violence across the state. Finally, citizens of Argentina are bracing themselves for their new &#39;anarcho-capitalist&#39; president Javier Milei - who has said society should be without government!</p>
+Right now, there&#39;s a lot going on in the world. In the US, ex-President Trump is attacking domestic opponents and it&#39;s raising concerns about him being authoritarian. There was also drama at open-AI, a tech company, where a board member got involved in a dispute with the CEO which could affect the company&#39;s future. Microsoft&#39;s Mr. Nadella moved quickly to hire Sam Altman who was pushed out of OpenAI recently. Additionally, a federal court ruling has weakened voting rights and people are worried about hostages held in Gaza. And in Arkansas, academics and writers are being asked to sign strange pledges if they want to receive speaker fees from universities. In Death Valley National Park there is unusual water that has attracted visitors, and Argentina is preparing for their new president Javier Milei who is an anarcho-capitalist. Lastly, the pandemic and recent wildfires have revealed how our indoor air can be really unhealthy, but progress is slow in changing that.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Dire Words Raise New Fears About His Authoritarian Bent</h3>
@@ -110,28 +110,28 @@ There have been a lot of developments in the world recently. Former US President
 <p>To receive a modest speaker’s fee, academics and writers must sign a pledge that they will not participate in anti-Israel boycotts. The author Nathan Thrall said no thank you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities</h3>
+<sub>By Yiwen Lu</sub>
+<p>In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Death Valley, a Rare Lake Comes Alive</h3>
 <sub>By Jill Cowan and Mette Lampcov</sub>
 <p>Visitors normally flock to Death Valley National Park to feel the searing heat and take in the barren landscape. This fall, they’ve been drawn by a different natural feature: water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Behind 94 Acts of Shocking Violence, Years of Glaring Mistakes</h3>
-<sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
-<p>New York officials have escaped scrutiny for repeated failures to help homeless mentally ill people, a New York Times investigation has found.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Endures After a Climate Activist’s Suicide: Grief, Anger and Hope</h3>
-<sub>By John Leland</sub>
-<p>Five years ago, David Buckel violently ended his life in a public park in Brooklyn. People who knew him were shocked and angry. Yet they refused to give up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Argentina Braces Itself for Its New ‘Anarcho-Capitalist’ President</h3>
 <sub>By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera</sub>
 <p>Javier Milei has said that society is better without government. Now he is about to run Argentina’s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why We’re Still Breathing Dirty Indoor Air</h3>
+<sub>By Apoorva Mandavilli</sub>
+<p>The pandemic and recent wildfires have shown how unhealthy indoor air can be. But scientific and governmental inertia have slowed the necessary remedies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
