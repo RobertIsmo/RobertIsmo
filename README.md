@@ -60,31 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 21, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In some parts of the world, people are dealing with electronic warfare that is confusing civilian pilots and causing problems with GPS signals. There is also the ongoing Israeli-Palestinian Conflict, which has been going for years and has led to a breakdown in communication between both sides. High tech companies are in the midst of turmoil due to concerns about the future of Artificial Intelligence, leading to big changes in leadership within these organizations. On a larger scale, nations are discussing limits on AI-controlled killer drones and debating over the use of autonomous arms. Meanwhile, there are massive numbers of migrants making their way to New York City and many other parts of the United States - seeking safety and trying to find ways to remain in the country legally. It&#39;s all very complicated and constantly changing, but the news continues to bring attention to all of these stories.</p>
+It looks like a lot is happening in the world right now. For example, there&#39;s still a lot of tension between Israel and Palestine after 30 years of fighting, which experts say will remain intractable. We&#39;ve also seen tech tycoon Steve Jobs&#39; legacy continue to influence companies like OpenAI and how they are run. On the other hand, more countries are debating about the limits and risks of using autonomous weapons like killer drones, and people continue to worry about the safety of AI-controlled technology. People are also moving to the U.S. to seek refuge and asylum but are facing lots of new legal constraints under President Biden&#39;s administration. Additionally, art and photography have become increasingly popular but it remains to be seen if this trend will continue in the future. Lastly, we can look forward to lots of new book releases from The New York Times Book Reviews over the coming year, and scientists continue to study the evolution of different variants of coronavirus.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Electronic Warfare Confounds Civilian Pilots, Far From Any Battlefield</h3>
-<sub>By Selam Gebrekidan</sub>
-<p>Planes were built to trust GPS signals. Jamming and spoofing in the Middle East and Ukraine have diverted flights and caused inaccurate onboard alerts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Was Peace Ever Possible?</h3>
 <sub>Moderated by Emily Bazelon</sub>
 <p>Thirty years ago, a negotiated settlement of the Israeli-Palestinian conflict seemed achievable. The story of how it fell apart reveals why the fight remains so intractable today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Between Israelis and Palestinians, a Lethal Psychological Chasm Grows</h3>
-<sub>By Roger Cohen</sub>
-<p>In a conflict marked by complete incomprehension on both sides, the ability to see each other as human has been lost.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>A Crisis at Gaza’s Hospitals, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, a federal court moves to weaken the Voting Rights Act and cities stress over driverless taxis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI</h3>
@@ -93,22 +75,10 @@ There&#39;s a lot happening in the world right now. In some parts of the world, 
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Mayhem at OpenAI + Our Interview With Sam Altman</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Rowan Niemisto, Dan Powell and Marion Lozano</sub>
-<p>Tech’s wildest weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Chaos at OpenAI, Explained</h3>
+<h3>‘I Think We’re Heading Toward the Best World Ever’: An Interview With Sam Altman</h3>
 <sub>By Kevin Roose</sub>
-<p>How fears over the future led to a tech-world coup.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Does A.I. Have an Inherent Governance Problem?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>OpenAI’s intricate structure, which contributed to the ouster of Sam Altman, is complex by design.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<p>We spoke to the OpenAI founder just two days before he was ousted by his company’s board in a surprise coup. To him, the future seemed bright.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits</h3>
@@ -122,6 +92,12 @@ There&#39;s a lot happening in the world right now. In some parts of the world, 
 <p>Concern about weapons that can kill without a human decision is not entirely new.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is This the World’s Highest Grossing Photograph?</h3>
+<sub>By David Segal</sub>
+<p>“Girls in the Windows” wasn’t made by an art world giant, but people keep buying it. And buying it. And buying it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Making a Home and Avoiding Deportation in New York City</h3>
 <sub>By Keith Collins, Raúl Vilchis and Olivia Bensimon</sub>
@@ -132,6 +108,30 @@ There&#39;s a lot happening in the world right now. In some parts of the world, 
 <h3>Asylum in America, by the Numbers</h3>
 <sub>By Eileen Sullivan</sub>
 <p>A migration crisis is overwhelming government resources as thousands of people come to the United States looking for safety every day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ignore Trump? Democrats Now Want Him Plastered All Over the News.</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The former president has been relatively quiet, out of the headlines and off mainstream social media. Democrats are hoping that more attention on him can help turn around President Biden’s fortunes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson Pays Trump Visit as He Faces Mounting Criticism from the Right</h3>
+<sub>By Annie Karni</sub>
+<p>It was the speaker’s first trip to see the former president since he won his post, and it came as he faced anger from right-wing lawmakers for moving to fund the government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>100 Notable Books of 2023</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>Here are the year’s notable fiction, poetry and nonfiction, chosen by the staff of The New York Times Book Review.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Omicron, Now 2 Years Old, Is Not Done With Us Yet</h3>
+<sub>By Carl Zimmer</sub>
+<p>The dominant variant of the coronavirus has proved to be not only staggeringly infectious, but an evolutionary marvel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
