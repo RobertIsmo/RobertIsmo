@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-Right now, there is an ongoing conflict between Israel and Palestine that has been going on for the past 30 years. It looks like a cease-fire is set to take place soon and hopefully bring peace, however families of hostages are still left in limbo wondering if their loved ones will be returned. Additionally, the U.S. is dealing with former President Trump&#39;s 14th Amendment case and the bail conditions of co-defendant Harrison Floyd who is accused of intimidating potential witnesses in a racketeering case. 
-
-In other news, A.I.-controlled killer drones are becoming more of reality which has sparked international debates about legal limits. Here in the U.S., airfare and gas prices are dropping so Thanksgiving travel days are expected to be the busiest in nearly 20 years although rain and cold could still pose some obstacles through Wednesday.</p>
+Right now, there is a lot of tension between Israel and Hamas that&#39;s been going on for a while, and negotiations are in the works for a cease-fire. Meanwhile, in the tech world, Sam Altman is back as the CEO of OpenAI but it wasn&#39;t smooth sailing to get there. Binance founder Changpeng Zhao just pled guilty to money laundering violations, too. On the US front, Democrats are trying to draw attention to Donald Trump even though he&#39;s been relatively quiet since leaving office. The Colorado Supreme Court also recently heard a case related to Trump&#39;s 14th Amendment rights. In AI news, nations are debating whether there should be legal limits for killer drones controlled by machines. Plus, The New York Times Book Review just released their list of 100 Notable Books from 2023! Finally, scientists have been studying the Omicron variant of Covid-19 which has proven both incredibly infectious and an evolutionary marvel.</p>
 <ol>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Was Peace Ever Possible?</h3>
@@ -74,6 +72,18 @@ In other news, A.I.-controlled killer drones are becoming more of reality which 
 <h3>As Israel and Hamas Move Toward Hostages’ Release, Families Wait With Hope and Fear</h3>
 <sub>By Alexandra Eaton and Aaron Boxerman</sub>
 <p>Families don’t yet know if their loved ones will be returned when the planned cease-fire takes effect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Sam Altman Is Reinstated as OpenAI’s Chief Executive</h3>
+<sub>By Cade Metz, Mike Isaac, Tripp Mickle, Karen Weise and Kevin Roose</sub>
+<p>The move capped a chaotic five days at the artificial intelligence company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding</h3>
+<sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
+<p>Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -122,18 +132,6 @@ In other news, A.I.-controlled killer drones are becoming more of reality which 
 <h3>Two Years With America’s Elite Firefighters</h3>
 <sub>By Max Whittaker and Thomas Fuller</sub>
 <p>Hotshot fire crews work on the front lines of the biggest wildfires in the American West. We rode along with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Thanksgiving Travel Days Expected to Be Busiest in Nearly 20 Years</h3>
-<sub>By Ana Ley</sub>
-<p>More people are expected to travel during the holiday weekend as airfare and gas prices drop. But rain and cold could pose obstacles through early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Rescuers</h3>
-<sub>By Thomas L. Friedman</sub>
-<p>Chasing some rays of hope in this dark moment for Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
