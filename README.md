@@ -60,37 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-Right now, the world is enduring a tumultuous time. In the US, there are political pressures on President Biden from Democrats who disagree with his embrace of Israel, as the civilian toll in Gaza continues to rise. In Israel, families of hostages are anxiously awaiting news while in Gaza citizens feel that an announced cease-fire won&#39;t bring an end to the war. Meanwhile, tensions in the world of artificial intelligence have been boiling over with Sam Altman suddenly being reinstated as OpenAI&#39;s chief executive. In the health sector, long-term care insurance is proving inadequate in providing financial security for older Americans. On a lighter note, in New York City preparations are underway for the Macy&#39;s Thanksgiving Day Parade. Finally, in light of all these events, one expert is urging us all to take time and be thankful for the contributions of those around us who help feed us.</p>
+There have been a lot of tensions and conflicts in the world between countries, but some recent news focuses on the increased violence between Israel and Palestine. The US is pressing Israel to take measures to reduce civilian death tolls and to restore services. Meanwhile, negotiations are underway for a possible hostage deal between Hamas and Israel, with each side making difficult choices and struggling to trust one another. In other news, newly elected US House Speaker Johnson has been met with criticism from members of his own party due to his leadership style. Additionally, there are financial discussions about long-term care insurance falling short for many elderly Americans, and the US is taking action against crypto exchanges that have knowledge about criminal activity. Lastly, some opinion pieces offering insight into the situation have been written as well.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Political Pressures on Biden Helped Drive ‘Secret Cell’ of Aides in Hostage Talks</h3>
-<sub>By Michael D. Shear</sub>
-<p>The deal came as Democrats are increasingly divided over Mr. Biden’s embrace of Israel, particularly as the civilian toll in Gaza grows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<h3>U.S. Presses Israel to Set Up Safe Areas During Pause in Gaza Fighting</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>Biden administration officials are trying to get Israel to take measures that would reduce the civilian death toll in Gaza and to restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Israel, Families of Hostages Wait Anxiously for News</h3>
-<sub>By Isabel Kershner and Adam Sella</sub>
-<p>Hours after the cease-fire deal was announced, some relatives of hostages held in Gaza said they had received no official information from the Israeli authorities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
+<sub>By Peter Baker</sub>
+<p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Gaza, Cease-Fire Deal Brings ‘Little Bit of Relief’</h3>
-<sub>By Hiba Yazbek and Abu Bakr Bashir</sub>
-<p>Residents of the enclave expressed hope about a pause in Israel’s bombardment but felt that the agreement would not bring an end to the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Before a Truce, Israeli Officials Debated Whether a Pause Would Help Hamas</h3>
+<sub>By Ronen Bergman, Patrick Kingsley, Adam Sella and Aaron Boxerman</sub>
+<p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Sam Altman Is Reinstated as OpenAI’s Chief Executive</h3>
-<sub>By Cade Metz, Mike Isaac, Tripp Mickle, Karen Weise and Kevin Roose</sub>
-<p>The move capped a chaotic five days at the artificial intelligence company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson Learns on the Job, Drawing the Ire of the Republican Right</h3>
+<sub>By Annie Karni</sub>
+<p>The new House speaker is facing complaints from his members that his leadership is no different from his predecessor’s. His style, however, is in stark contrast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Happened in the World of Artificial Intelligence?</h3>
-<sub>By John Koblin, Kevin Granville and Jason Karaian</sub>
-<p>Sam Altman’s abrupt ouster from OpenAI highlighted deep divisions in the A.I. world and culminated in his surprise return to the start-up he founded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<h3>U.S. Case Details Binance’s Knowledge About Criminal Users</h3>
+<sub>By Emily Flitter</sub>
+<p>The crypto exchange treated them as essential customers, the government said. U.S. authorities want the industry to understand how bad that is for business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Why Long-Term Care Insurance Falls Short for So Many</h3>
@@ -104,22 +104,16 @@ Right now, the world is enduring a tumultuous time. In the US, there are politic
 <p>Deciding when, or whether, to buy long-term care insurance can be complex. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What It Takes for Snoopy and Friends to Soar in the Macy’s Parade</h3>
-<sub>By Winnie Hu and Emma Rose Milligan</sub>
-<p>Behind the city’s painstaking operation to test balloons and clear streets for Macy’s Thanksgiving Day Parade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Strange $55 Million Saga of a Netflix Series You’ll Never See</h3>
+<sub>By John Carreyrou</sub>
+<p>After suitors flocked to a sci-fi project by Carl Rinsch, director of a single movie, the winner handed over money and control. They’re still fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How to Watch the Macy’s Thanksgiving Day Parade</h3>
-<sub>By Claire Fahy</sub>
-<p>Stepping off a half-hour earlier than usual, this year’s parade will include 31 floats, 25 balloons and performances by Jon Batiste and Cher.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>When Does Life Stop? A New Way of Harvesting Organs Divides Doctors.</h3>
-<sub>By Joseph Goldstein</sub>
-<p>The technique restarts circulation after an organ donor is declared dead. But first surgeons cut off blood flow to the brain. One surgeon called it “creepy.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Plying Voters With Free Food, Ramaswamy Struggles to Win Them Over</h3>
+<sub>By Anjali Huynh</sub>
+<p>The political newcomer’s surge over the summer has fizzled. But Vivek Ramaswamy is still spending freely to keep up a breakneck pace in Iowa and New Hampshire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -128,10 +122,16 @@ Right now, the world is enduring a tumultuous time. In the US, there are politic
 <p>A Thanksgiving lesson about grace, and the many people who feed us.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Many Abortions Did the Post-Roe Bans Prevent?</h3>
-<sub>By Margot Sanger-Katz and Claire Cain Miller</sub>
-<p>The first estimate of births since Dobbs found that almost a quarter of women who would have gotten abortions carried their pregnancies to term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Rescuers</h3>
+<sub>By Thomas L. Friedman</sub>
+<p>Chasing some rays of hope in this dark moment for Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Bernie Sanders: Justice for the Palestinians and Security for Israel</h3>
+<sub>By Bernie Sanders</sub>
+<p>How do we balance our desire to stop the fighting with the need to address the roots of the conflict?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
