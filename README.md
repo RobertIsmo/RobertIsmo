@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, political pressures are pushing President Biden to drive a &#39;secret cell&#39; of aides to carry out negotiations with hostages. In Israel, families of hostages are waiting anxiously for news. In Gaza, there is a cease-fire deal bringing some relief and hope that this might bring an end to the war. On the tech side, the AI company OpenAI had a chaotic few days when their CEO was ousted and then reinstated. For those considering long-term care insurance, it&#39;s important to know how it works and why it falls short for so many. And finally, here in the US there are preparations to go ahead with traditional Thanksgiving festivities despite the rain and snow in some parts - but thankfully nothing that will ground the parade balloons!</p>
+Right now, the world is enduring a tumultuous time. In the US, there are political pressures on President Biden from Democrats who disagree with his embrace of Israel, as the civilian toll in Gaza continues to rise. In Israel, families of hostages are anxiously awaiting news while in Gaza citizens feel that an announced cease-fire won&#39;t bring an end to the war. Meanwhile, tensions in the world of artificial intelligence have been boiling over with Sam Altman suddenly being reinstated as OpenAI&#39;s chief executive. In the health sector, long-term care insurance is proving inadequate in providing financial security for older Americans. On a lighter note, in New York City preparations are underway for the Macy&#39;s Thanksgiving Day Parade. Finally, in light of all these events, one expert is urging us all to take time and be thankful for the contributions of those around us who help feed us.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Political Pressures on Biden Helped Drive ‘Secret Cell’ of Aides in Hostage Talks</h3>
@@ -80,35 +80,17 @@ There&#39;s a lot going on in the world right now. In the US, political pressure
 <p>Residents of the enclave expressed hope about a pause in Israel’s bombardment but felt that the agreement would not bring an end to the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel and Hamas Agree to a Cease-Fire, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, the founder of Binance pleads guilty to money laundering violations, and why Thanksgiving weekend travel is expected to be the busiest in 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Sam Altman Is Reinstated as OpenAI’s Chief Executive</h3>
 <sub>By Cade Metz, Mike Isaac, Tripp Mickle, Karen Weise and Kevin Roose</sub>
 <p>The move capped a chaotic five days at the artificial intelligence company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding</h3>
-<sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
-<p>Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Happened in the World of Artificial Intelligence?</h3>
 <sub>By John Koblin, Kevin Granville and Jason Karaian</sub>
 <p>Sam Altman’s abrupt ouster from OpenAI highlighted deep divisions in the A.I. world and culminated in his surprise return to the start-up he founded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Inside the Coup at OpenAI</h3>
-<sub>By Michael Barbaro, Olivia Natt, Will Reid, Lisa Chow, Brendan Klinkenberg, Marion Lozano, Dan Powell, Rowan Niemisto and Chris Wood</sub>
-<p>After a chaotic week at the artificial intelligence company, Sam Altman was reinstated as C.E.O.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Why Long-Term Care Insurance Falls Short for So Many</h3>
@@ -128,10 +110,28 @@ There&#39;s a lot going on in the world right now. In the US, political pressure
 <p>Behind the city’s painstaking operation to test balloons and clear streets for Macy’s Thanksgiving Day Parade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Rain and Snow in the Eastern U.S., a Thanksgiving Free of Weather Stress</h3>
-<sub>By John Keefe and Judson Jones</sub>
-<p>Breezes in New York City on Thursday are not expected to be strong enough to ground the parade balloons, according to forecasts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How to Watch the Macy’s Thanksgiving Day Parade</h3>
+<sub>By Claire Fahy</sub>
+<p>Stepping off a half-hour earlier than usual, this year’s parade will include 31 floats, 25 balloons and performances by Jon Batiste and Cher.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>When Does Life Stop? A New Way of Harvesting Organs Divides Doctors.</h3>
+<sub>By Joseph Goldstein</sub>
+<p>The technique restarts circulation after an organ donor is declared dead. But first surgeons cut off blood flow to the brain. One surgeon called it “creepy.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>I Never Said Thanks for the Meal. Sister Agnes Taught Me How.</h3>
+<sub>By Rosie Schaap</sub>
+<p>A Thanksgiving lesson about grace, and the many people who feed us.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Many Abortions Did the Post-Roe Bans Prevent?</h3>
+<sub>By Margot Sanger-Katz and Claire Cain Miller</sub>
+<p>The first estimate of births since Dobbs found that almost a quarter of women who would have gotten abortions carried their pregnancies to term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
