@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 21, Central Standard Time</p>
 <p>
-There was a time when a peaceful settlement of the Israeli-Palestinian conflict seemed possible, but now it seems out of reach due to recent developments. As Israeli and Hamas are negotiating a hostage exchange, families of those involved have been living in hope and fear. Meanwhile, legal issues relating to money laundering have put a stop to the ambitions of Binance founder Changpeng Zhao. At OpenAI, turmoil has been stirred up by differences between directors over who should fill the board vacancies. This has put the spotlight back on Steve Jobs whose long shadow continues to loom large. Meanwhile, Democrats are looking for ways to get the former president Donald Trump back into the news headlines. Johnson is also visiting Trump despite criticism from right-wingers about the funding of the government. A judge has imposed bail conditions on one of Trump&#39;s associates over allegations of witness intimidation. It turns out that one photo is now the world&#39;s highest-grossing photograph due to continued sales and purchases. Nations are debating limits around killer drones that are being controlled by AI while The New York Times Book Review has announced its picks for 100 Notable Books this year. Finally, Omicron, a dominant strain of coronavirus, is two years old and has proved to be an evolutionary marvel as well as being extremely infectious.</p>
+It seems like a lot is happening in the world right now. In terms of politics, there&#39;s the Israeli-Palestinian conflict that&#39;s been going on for a while and may never be solved. There are talks about exchanging hostages between Israel and Hamas, and the former US President Trump has been visiting to try to work out a deal. In the US, President Biden is getting some attention because Democrats want more focus on him in the news. On top of all that, concerns are being raised about AI-controlled drones and their use in warfare, potentially leading to more legal constraints across countries. On a lighter note, there&#39;s a photo being sold that&#39;s seen remarkable success, and the New York Times is even advertising notable books for this year. And last but not least, Thanksgiving travel is expected to be really busy this year despite weather conditions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Was Peace Ever Possible?</h3>
@@ -69,27 +69,15 @@ There was a time when a peaceful settlement of the Israeli-Palestinian conflict 
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Hostage Deal Nears, Families Wait With Hope and Fear</h3>
+<h3>As Israel and Hamas Move Toward Hostages’ Release, Families Wait With Hope and Fear</h3>
 <sub>By Alexandra Eaton and Aaron Boxerman</sub>
-<p>As Israel and Hamas negotiate a hostage exchange deal, families have been waiting to hear if their loved ones will be returned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Families don’t yet know if their loved ones will be returned when the planned cease-fire takes effect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Binance Founder Pleads Guilty to Violating Money Laundering Rules</h3>
 <sub>By David Yaffe-Bellany, Emily Flitter, Matthew Goldstein and Glenn Thrush</sub>
 <p>Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding</h3>
-<sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
-<p>Sam Altman attacked a member over a research paper that discussed the company, while directors disagreed about who should fill board vacancies open for months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI</h3>
-<sub>By David Streitfeld</sub>
-<p>Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +120,18 @@ There was a time when a peaceful settlement of the Israeli-Palestinian conflict 
 <h3>Omicron, Now 2 Years Old, Is Not Done With Us Yet</h3>
 <sub>By Carl Zimmer</sub>
 <p>The dominant variant of the coronavirus has proved to be not only staggeringly infectious, but an evolutionary marvel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Two Years With America’s Elite Firefighters</h3>
+<sub>By Max Whittaker and Thomas Fuller</sub>
+<p>Hotshot fire crews work on the front lines of the biggest wildfires in the American West. We rode along with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Thanksgiving Travel Days Expected to Be Busiest in Nearly 20 Years</h3>
+<sub>By Ana Ley</sub>
+<p>More people are expected to travel during the holiday weekend as airfare and gas prices drop. But rain and cold could pose obstacles through early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
