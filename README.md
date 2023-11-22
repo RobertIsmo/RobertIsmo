@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, November 21, Central Standard Time</p>
+<p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-It seems like a lot is happening in the world right now. In terms of politics, there&#39;s the Israeli-Palestinian conflict that&#39;s been going on for a while and may never be solved. There are talks about exchanging hostages between Israel and Hamas, and the former US President Trump has been visiting to try to work out a deal. In the US, President Biden is getting some attention because Democrats want more focus on him in the news. On top of all that, concerns are being raised about AI-controlled drones and their use in warfare, potentially leading to more legal constraints across countries. On a lighter note, there&#39;s a photo being sold that&#39;s seen remarkable success, and the New York Times is even advertising notable books for this year. And last but not least, Thanksgiving travel is expected to be really busy this year despite weather conditions.</p>
+Right now, there is an ongoing conflict between Israel and Palestine that has been going on for the past 30 years. It looks like a cease-fire is set to take place soon and hopefully bring peace, however families of hostages are still left in limbo wondering if their loved ones will be returned. Additionally, the U.S. is dealing with former President Trump&#39;s 14th Amendment case and the bail conditions of co-defendant Harrison Floyd who is accused of intimidating potential witnesses in a racketeering case. 
+
+In other news, A.I.-controlled killer drones are becoming more of reality which has sparked international debates about legal limits. Here in the U.S., airfare and gas prices are dropping so Thanksgiving travel days are expected to be the busiest in nearly 20 years although rain and cold could still pose some obstacles through Wednesday.</p>
 <ol>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Was Peace Ever Possible?</h3>
@@ -87,21 +89,15 @@ It seems like a lot is happening in the world right now. In terms of politics, t
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Pays Trump Visit as He Faces Mounting Criticism from the Right</h3>
-<sub>By Annie Karni</sub>
-<p>It was the speaker’s first trip to see the former president since he won his post, and it came as he faced anger from right-wing lawmakers for moving to fund the government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Colorado Supreme Court Agrees to Take Up Trump’s 14th Amendment Case</h3>
+<sub>By Chris Cameron</sub>
+<p>A state judge ruled last week that the former president had engaged in insurrection on Jan. 6, 2021, but allowed him to remain on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia Judge Modifies a Trump Co-Defendant’s Bail Conditions</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
 <p>Prosecutors say the defendant, Harrison Floyd, has been intimidating potential witnesses in the racketeering case with his social media posts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is This the World’s Highest-Grossing Photograph?</h3>
-<sub>By David Segal</sub>
-<p>“Girls in the Windows” wasn’t made by an art world giant, but people keep buying it. And buying it. And buying it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +128,12 @@ It seems like a lot is happening in the world right now. In terms of politics, t
 <h3>Thanksgiving Travel Days Expected to Be Busiest in Nearly 20 Years</h3>
 <sub>By Ana Ley</sub>
 <p>More people are expected to travel during the holiday weekend as airfare and gas prices drop. But rain and cold could pose obstacles through early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Rescuers</h3>
+<sub>By Thomas L. Friedman</sub>
+<p>Chasing some rays of hope in this dark moment for Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
