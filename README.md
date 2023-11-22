@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 21, Central Standard Time</p>
 <p>
-Right now, there are some tense international relationships, with the Israeli-Palestinian conflict still ongoing, and nations debating limits on A.I.-controlled weapons like killer drones. Technology is making waves, from Binance&#39;s founder being fined to predictions for what books may come out in 2023. In the US, former President Trump is back in the news lately, with Democrats hoping for his return to their favor and Johnson visiting him recently. On a lighter note, an overlooked photograph is getting a lot of attention and money.</p>
+There was a time when a peaceful settlement of the Israeli-Palestinian conflict seemed possible, but now it seems out of reach due to recent developments. As Israeli and Hamas are negotiating a hostage exchange, families of those involved have been living in hope and fear. Meanwhile, legal issues relating to money laundering have put a stop to the ambitions of Binance founder Changpeng Zhao. At OpenAI, turmoil has been stirred up by differences between directors over who should fill the board vacancies. This has put the spotlight back on Steve Jobs whose long shadow continues to loom large. Meanwhile, Democrats are looking for ways to get the former president Donald Trump back into the news headlines. Johnson is also visiting Trump despite criticism from right-wingers about the funding of the government. A judge has imposed bail conditions on one of Trump&#39;s associates over allegations of witness intimidation. It turns out that one photo is now the world&#39;s highest-grossing photograph due to continued sales and purchases. Nations are debating limits around killer drones that are being controlled by AI while The New York Times Book Review has announced its picks for 100 Notable Books this year. Finally, Omicron, a dominant strain of coronavirus, is two years old and has proved to be an evolutionary marvel as well as being extremely infectious.</p>
 <ol>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Was Peace Ever Possible?</h3>
@@ -69,9 +69,9 @@ Right now, there are some tense international relationships, with the Israeli-Pa
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Families Fear for the Health of Ailing, Frail Israelis Held Hostage</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Many of the more than 200 people seized by Hamas when it raided Israel had serious medical conditions. Some were badly injured in the attack. Doctors say they need medical care urgently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Hostage Deal Nears, Families Wait With Hope and Fear</h3>
+<sub>By Alexandra Eaton and Aaron Boxerman</sub>
+<p>As Israel and Hamas negotiate a hostage exchange deal, families have been waiting to hear if their loved ones will be returned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -81,33 +81,15 @@ Right now, there are some tense international relationships, with the Israeli-Pa
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Before Altman’s Ouster, OpenAI’s Board Was Divided and Feuding</h3>
+<sub>By Cade Metz, Tripp Mickle and Mike Isaac</sub>
+<p>Sam Altman attacked a member over a research paper that discussed the company, while directors disagreed about who should fill board vacancies open for months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>The Long Shadow of Steve Jobs Looms Over the Turmoil at OpenAI</h3>
 <sub>By David Streitfeld</sub>
 <p>Sam Altman, the most prominent promoter of artificial intelligence, learned that it’s hard to be a visionary founder like the Apple legend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>‘I Think We’re Heading Toward the Best World Ever’: An Interview With Sam Altman</h3>
-<sub>By Kevin Roose</sub>
-<p>We spoke to the OpenAI founder just two days before he was ousted by his company’s board in a surprise coup. To him, the future seemed bright.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits</h3>
-<sub>By Eric Lipton</sub>
-<p>Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Land Mines to Drones, Tech Has Driven Fears About Autonomous Arms</h3>
-<sub>By Eric Lipton</sub>
-<p>Concern about weapons that can kill without a human decision is not entirely new.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is This the World’s Highest-Grossing Photograph?</h3>
-<sub>By David Segal</sub>
-<p>“Girls in the Windows” wasn’t made by an art world giant, but people keep buying it. And buying it. And buying it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,15 +105,33 @@ Right now, there are some tense international relationships, with the Israeli-Pa
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Weighs Revoking a Trump Co-Defendant’s Bail</h3>
+<h3>Georgia Judge Modifies a Trump Co-Defendant’s Bail Conditions</h3>
 <sub>By Danny Hakim and Richard Fausset</sub>
-<p>Prosecutors say the defendant, Harrison Floyd, has been intimidating potential witnesses in the case with his social media posts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Prosecutors say the defendant, Harrison Floyd, has been intimidating potential witnesses in the racketeering case with his social media posts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Is This the World’s Highest-Grossing Photograph?</h3>
+<sub>By David Segal</sub>
+<p>“Girls in the Windows” wasn’t made by an art world giant, but people keep buying it. And buying it. And buying it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits</h3>
+<sub>By Eric Lipton</sub>
+<p>Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>100 Notable Books of 2023</h3>
 <sub>By The New York Times Books Staff</sub>
 <p>Here are the year’s notable fiction, poetry and nonfiction, chosen by the staff of The New York Times Book Review.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Omicron, Now 2 Years Old, Is Not Done With Us Yet</h3>
+<sub>By Carl Zimmer</sub>
+<p>The dominant variant of the coronavirus has proved to be not only staggeringly infectious, but an evolutionary marvel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
