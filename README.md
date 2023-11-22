@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-Right now, there is a lot of tension between Israel and Hamas that&#39;s been going on for a while, and negotiations are in the works for a cease-fire. Meanwhile, in the tech world, Sam Altman is back as the CEO of OpenAI but it wasn&#39;t smooth sailing to get there. Binance founder Changpeng Zhao just pled guilty to money laundering violations, too. On the US front, Democrats are trying to draw attention to Donald Trump even though he&#39;s been relatively quiet since leaving office. The Colorado Supreme Court also recently heard a case related to Trump&#39;s 14th Amendment rights. In AI news, nations are debating whether there should be legal limits for killer drones controlled by machines. Plus, The New York Times Book Review just released their list of 100 Notable Books from 2023! Finally, scientists have been studying the Omicron variant of Covid-19 which has proven both incredibly infectious and an evolutionary marvel.</p>
+There&#39;s a lot of political tension in the US right now regarding President Biden&#39;s support for Israel, especially in light of the growing civilian death toll in Gaza. In terms of technology, Sam Altman has been reinstated as OpenAI&#39;s chief executive after a tumultuous five-day period. Meanwhile, OpenAI&#39;s board had been divided and feuding for months, leading to Altman&#39;s ouster.
+
+On the health front, many are discussing the inadequacy of long-term care insurance to protect older Americans and provide financial security.
+
+With Thanksgiving just around the corner, travel is expected to be more popular than it has been in nearly 20 years as airfare and gas prices drop. Not to be outdone, Macy&#39;s Thanksgiving Day parade looks like it&#39;ll be just as spectacular as ever with the immense amounts of work put into testing balloons and ensuring safety on the streets. 
+
+Finally, there are interesting developments in other fields such as artificial intelligence and aviation. Regarding AI, there are deep divisions among experts in the field right now, while Chinse-American relations might help Boeing sell more aircraft if they can finally deliver planes ordered years ago.</p>
 <ol>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Was Peace Ever Possible?</h3>
-<sub>Moderated by Emily Bazelon</sub>
-<p>Thirty years ago, a negotiated settlement of the Israeli-Palestinian conflict seemed achievable. The story of how it fell apart reveals why the fight remains so intractable today.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Israel and Hamas Move Toward Hostages’ Release, Families Wait With Hope and Fear</h3>
-<sub>By Alexandra Eaton and Aaron Boxerman</sub>
-<p>Families don’t yet know if their loved ones will be returned when the planned cease-fire takes effect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Political Pressures on Biden Helped Drive ‘Secret Cell’ of Aides in Hostage Talks</h3>
+<sub>By Michael D. Shear</sub>
+<p>The deal came as Democrats are increasingly divided over Mr. Biden’s embrace of Israel, particularly as the civilian toll in Gaza grows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel and Hamas Agree to a Cease-Fire, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, the founder of Binance pleads guilty to money laundering violations, and why Thanksgiving weekend travel is expected to be the busiest in 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Sam Altman Is Reinstated as OpenAI’s Chief Executive</h3>
@@ -86,53 +92,53 @@ Right now, there is a lot of tension between Israel and Hamas that&#39;s been go
 <p>Sam Altman confronted a member over a research paper that discussed the company, while directors disagreed for months about who should fill board vacancies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Binance Founder Pleads Guilty to Violating Money Laundering Rules</h3>
-<sub>By David Yaffe-Bellany, Emily Flitter, Matthew Goldstein and Glenn Thrush</sub>
-<p>Changpeng Zhao will pay a $50 million fine and step down as chief executive of the company he created, the latest blow to the crypto world since the implosion of FTX last year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Happened in the World of Artificial Intelligence?</h3>
+<sub>By John Koblin, Kevin Granville and Jason Karaian</sub>
+<p>Sam Altman’s abrupt ouster from OpenAI highlighted deep divisions in the A.I. world and culminated in his surprise return to the start-up he founded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Inside the Coup at OpenAI</h3>
+<sub>By Michael Barbaro, Olivia Natt, Will Reid, Lisa Chow, Brendan Klinkenberg, Marion Lozano, Dan Powell, Rowan Niemisto and Chris Wood</sub>
+<p>After a chaotic week at the artificial intelligence company, Sam Altman was reinstated as C.E.O.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Why Long-Term Care Insurance Falls Short for So Many</h3>
+<sub>By Jordan Rau and JoNel Aleccia</sub>
+<p>The private insurance market has proved wildly inadequate in providing financial security for millions of older Americans, in part by underestimating how many policyholders would use their coverage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>A Guide to Long-Term Care Insurance</h3>
+<sub>By Jordan Rau</sub>
+<p>Deciding when, or whether, to buy long-term care insurance can be complex. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What It Takes for Snoopy and Friends to Soar in the Macy’s Parade</h3>
+<sub>By Winnie Hu and Emma Rose Milligan</sub>
+<p>Behind the city’s painstaking operation to test balloons and clear streets for Macy’s Thanksgiving Day Parade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Thanksgiving Travel Days Expected to Be Busiest in Nearly 20 Years</h3>
+<sub>By Ana Ley</sub>
+<p>More people are expected to travel during the holiday weekend as airfare and gas prices drop. But rain and cold could pose obstacles through early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ignore Trump? Democrats Now Want Him Plastered All Over the News.</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The former president has been relatively quiet, out of the headlines and off mainstream social media. Democrats are hoping that more attention on him can help turn around President Biden’s fortunes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Many Abortions Did the Post-Roe Bans Prevent?</h3>
+<sub>By Margot Sanger-Katz and Claire Cain Miller</sub>
+<p>The first estimate of births since Dobbs found that almost a quarter of women who would have gotten abortions carried their pregnancies to term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Supreme Court Agrees to Take Up Trump’s 14th Amendment Case</h3>
-<sub>By Chris Cameron</sub>
-<p>A state judge ruled last week that the former president had engaged in insurrection on Jan. 6, 2021, but allowed him to remain on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia Judge Modifies a Trump Co-Defendant’s Bail Conditions</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>Prosecutors say the defendant, Harrison Floyd, has been intimidating potential witnesses in the racketeering case with his social media posts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As A.I.-Controlled Killer Drones Become Reality, Nations Debate Limits</h3>
-<sub>By Eric Lipton</sub>
-<p>Worried about the risks of robot warfare, some countries want new legal constraints, but the U.S. and other major powers are resistant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>100 Notable Books of 2023</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>Here are the year’s notable fiction, poetry and nonfiction, chosen by the staff of The New York Times Book Review.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Omicron, Now 2 Years Old, Is Not Done With Us Yet</h3>
-<sub>By Carl Zimmer</sub>
-<p>The dominant variant of the coronavirus has proved to be not only staggeringly infectious, but an evolutionary marvel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two Years With America’s Elite Firefighters</h3>
-<sub>By Max Whittaker and Thomas Fuller</sub>
-<p>Hotshot fire crews work on the front lines of the biggest wildfires in the American West. We rode along with them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why China and Boeing Still Need Each Other</h3>
+<sub>By Niraj Chokshi and Keith Bradsher</sub>
+<p>A thaw in relations between the U.S. and China may help the manufacturer sell more planes — and finally deliver aircraft ordered years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
