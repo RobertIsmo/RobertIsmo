@@ -60,19 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-There&#39;s a lot of political tension in the US right now regarding President Biden&#39;s support for Israel, especially in light of the growing civilian death toll in Gaza. In terms of technology, Sam Altman has been reinstated as OpenAI&#39;s chief executive after a tumultuous five-day period. Meanwhile, OpenAI&#39;s board had been divided and feuding for months, leading to Altman&#39;s ouster.
-
-On the health front, many are discussing the inadequacy of long-term care insurance to protect older Americans and provide financial security.
-
-With Thanksgiving just around the corner, travel is expected to be more popular than it has been in nearly 20 years as airfare and gas prices drop. Not to be outdone, Macy&#39;s Thanksgiving Day parade looks like it&#39;ll be just as spectacular as ever with the immense amounts of work put into testing balloons and ensuring safety on the streets. 
-
-Finally, there are interesting developments in other fields such as artificial intelligence and aviation. Regarding AI, there are deep divisions among experts in the field right now, while Chinse-American relations might help Boeing sell more aircraft if they can finally deliver planes ordered years ago.</p>
+There&#39;s a lot going on in the world right now. In the US, political pressures are pushing President Biden to drive a &#39;secret cell&#39; of aides to carry out negotiations with hostages. In Israel, families of hostages are waiting anxiously for news. In Gaza, there is a cease-fire deal bringing some relief and hope that this might bring an end to the war. On the tech side, the AI company OpenAI had a chaotic few days when their CEO was ousted and then reinstated. For those considering long-term care insurance, it&#39;s important to know how it works and why it falls short for so many. And finally, here in the US there are preparations to go ahead with traditional Thanksgiving festivities despite the rain and snow in some parts - but thankfully nothing that will ground the parade balloons!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Political Pressures on Biden Helped Drive ‘Secret Cell’ of Aides in Hostage Talks</h3>
 <sub>By Michael D. Shear</sub>
 <p>The deal came as Democrats are increasingly divided over Mr. Biden’s embrace of Israel, particularly as the civilian toll in Gaza grows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Israel, Families of Hostages Wait Anxiously for News</h3>
+<sub>By Isabel Kershner and Adam Sella</sub>
+<p>Hours after the cease-fire deal was announced, some relatives of hostages held in Gaza said they had received no official information from the Israeli authorities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Gaza, Cease-Fire Deal Brings ‘Little Bit of Relief’</h3>
+<sub>By Hiba Yazbek and Abu Bakr Bashir</sub>
+<p>Residents of the enclave expressed hope about a pause in Israel’s bombardment but felt that the agreement would not bring an end to the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Israel and Hamas Agree to a Cease-Fire, and More</h3>
@@ -122,22 +128,10 @@ Finally, there are interesting developments in other fields such as artificial i
 <p>Behind the city’s painstaking operation to test balloons and clear streets for Macy’s Thanksgiving Day Parade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Thanksgiving Travel Days Expected to Be Busiest in Nearly 20 Years</h3>
-<sub>By Ana Ley</sub>
-<p>More people are expected to travel during the holiday weekend as airfare and gas prices drop. But rain and cold could pose obstacles through early Wednesday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Many Abortions Did the Post-Roe Bans Prevent?</h3>
-<sub>By Margot Sanger-Katz and Claire Cain Miller</sub>
-<p>The first estimate of births since Dobbs found that almost a quarter of women who would have gotten abortions carried their pregnancies to term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why China and Boeing Still Need Each Other</h3>
-<sub>By Niraj Chokshi and Keith Bradsher</sub>
-<p>A thaw in relations between the U.S. and China may help the manufacturer sell more planes — and finally deliver aircraft ordered years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Rain and Snow in the Eastern U.S., a Thanksgiving Free of Weather Stress</h3>
+<sub>By John Keefe and Judson Jones</sub>
+<p>Breezes in New York City on Thursday are not expected to be strong enough to ground the parade balloons, according to forecasts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
