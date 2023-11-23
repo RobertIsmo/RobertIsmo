@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Gaza, families abroad are suffering guilt and fear as residents in the Gaza Strip endure hardship. There has been a glimmer of hope recently as a deal between Israel and Hamas has been made to free child hostages taken to the enclave. In the US, the Biden administration has proposed massive changes to climate regulation that may be beneficial to the green energy sector. AI is becoming a powerful force in business, raising questions about who will benefit from its advances. In terms of international relations, Vladimir Putin is currently facing criticism from other world leaders about Russia&#39;s aggression in Ukraine. To the east, Finland is stepping up border closings and increasing security measures due to disputes with Russia. Meanwhile, there are still things to be thankful for this Thanksgiving, and suggestions on how to clean up after a big dinner!</p>
+It seems like a lot is going on in the world right now. In Gaza, families are living in fear and guilt knowing their loved ones are suffering as a result of the siege there. Retailers are getting nervous ahead of Black Friday because people could be in a sour mood due to the higher prices and waning savings. On the topic of holidays, we have instructions for how to clean up after Thanksgiving dinner like a pro. Financially speaking, the US and Canada have responded with alarm after two people died in an intense car crash at the Canadian border. In a dispute with Russia, Finland has dramatically closed its borders. As for politics, Putin is due for reelection next year as he continues to lead task forces towards Ukraine; while his march towards power appears certain, other parts of the world are in turmoil with no end in sight.  That&#39;s not all though: India is reportedly attempting assassinations abroad, while the Netherlands has seen an extreme political shift towards far-right parties like Geert Wilders&#39;. There&#39;s also this new movie about Napoleon coming out which Joaquin Phoenix stars in—at least there&#39;s something entertaining to come out of this news dump!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Gaza Residents Suffer, Guilt and Fear Stalk Their Families Abroad</h3>
@@ -68,35 +68,11 @@ There is a lot going on in the world right now. In Gaza, families abroad are suf
 <p>“When it comes to food, when it comes to freedom,” said one Washington resident whose brother is trapped in the besieged enclave, “the feeling of guilt is killing me.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Deal to Free Child Hostages in Gaza Inspires Hope and Anguish</h3>
-<sub>By Isabel Kershner</sub>
-<p>Some or all of the at least 36 children taken to the enclave as captives on Oct. 7 are expected to be freed. But the announcement raised anxieties about who might make it out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
-<sub>By Peter Baker</sub>
-<p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Biden’s Climate Law, a Boon for Green Energy, and Wall Street</h3>
-<sub>By Jim Tankersley and Lauren Hirsch</sub>
-<p>The law has effectively created a new marketplace that helps smaller companies gain access to funding, with banks taking a cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
+<sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
+<p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Five Days of Chaos: How Sam Altman Returned to OpenAI</h3>
-<sub>By Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose</sub>
-<p>On Friday, Mr. Altman was pushed out of the hot A.I. start-up he ran. But an intense pressure campaign and negotiations brought him back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>A.I. Belongs to the Capitalists Now</h3>
-<sub>By Kevin Roose</sub>
-<p>The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-crosswords-blue" alt="">
 <h3>Turkey Doesn’t Have to Be the Only Game at the Table</h3>
@@ -117,10 +93,10 @@ There is a lot going on in the world right now. In Gaza, families abroad are suf
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Bristles as Other Leaders Criticize Russia’s Aggression in Ukraine</h3>
-<sub>By Ivan Nechepurenko and Mujib Mashal</sub>
-<p>For Mr. Putin, it was a rare interaction with Western leaders since the start of the war last year. It was also the first time he had to listen to direct public criticism at an international event.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<h3>Finland Steps Up Border Closings in Dispute With Russia</h3>
+<sub>By Johanna Lemola and Emma Bubola</sub>
+<p>The escalation comes as Finland tries to address a rise in the arrivals of migrants and asylum seekers that officials blame on Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Certainties of a Putin Election Meet the Uncertainties of War</h3>
@@ -129,10 +105,34 @@ There is a lot going on in the world right now. In Gaza, families abroad are suf
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Steps Up Border Closings in Dispute With Russia</h3>
-<sub>By Johanna Lemola and Emma Bubola</sub>
-<p>The escalation comes as Finland tries to address a rise in the arrivals of migrants and asylum seekers that officials blame on Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>World Peace in 2024? The Olympics Has a Plan but Not Much Hope.</h3>
+<sub>By Andrew Keh</sub>
+<p>Amid two prominent wars and other conflicts around the globe, a biennial call at the United Nations for peace during the Games felt even more symbolic than usual.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Saving Praise Houses Before Their African Lineage Is Forgotten</h3>
+<sub>By Patricia Leigh Brown</sub>
+<p>The Gullah Geechee fight to preserve the tiny structures, a cradle of the Black church, before they’re erased by sprawl, climate change and fading memories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Faces Questions About Another Reported Foreign Assassination Plot</h3>
+<sub>By Mujib Mashal</sub>
+<p>The U.S., while not publicly accusing New Delhi of trying to orchestrate a killing on American soil, said it had expressed concern to Indian officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Long a Bastion of Liberalism, the Netherlands Takes a Sharp Right Turn</h3>
+<sub>By Claire Moses</sub>
+<p>In an election result that sent shock waves across Europe, Geert Wilders, a longtime far-right provocateur, is closer than ever to becoming prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Napoleon’ Review: A Lumpy, Grumpy Little Man</h3>
+<sub>By Manohla Dargis</sub>
+<p>Joaquin Phoenix is oddly mesmerizing as the French emperor in Ridley Scott’s historical epic charting his rise and ruin.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
