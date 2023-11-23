@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-There are a number of international issues happening right now. In Gaza, residents are suffering and their families abroad feel guilt and fear. There has been a deal reached to free child hostages in Gaza, however that is causing anguish as no one knows which children will make it out. In Russia, there is tension because other leaders are criticizing Putin&#39;s aggression in Ukraine. Putin is expected to run in March&#39;s election, the first since their invasion of Ukraine last year. In terms of US news, the Biden administration has created a new green energy marketplace, while off the east coast African Americans are fighting to preserve a Gullah Geechee tradition before it is erased by climate change and development.</p>
+There is a lot going on in the world right now. In Gaza, families abroad are suffering guilt and fear as residents in the Gaza Strip endure hardship. There has been a glimmer of hope recently as a deal between Israel and Hamas has been made to free child hostages taken to the enclave. In the US, the Biden administration has proposed massive changes to climate regulation that may be beneficial to the green energy sector. AI is becoming a powerful force in business, raising questions about who will benefit from its advances. In terms of international relations, Vladimir Putin is currently facing criticism from other world leaders about Russia&#39;s aggression in Ukraine. To the east, Finland is stepping up border closings and increasing security measures due to disputes with Russia. Meanwhile, there are still things to be thankful for this Thanksgiving, and suggestions on how to clean up after a big dinner!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Gaza Residents Suffer, Guilt and Fear Stalk Their Families Abroad</h3>
@@ -128,10 +128,10 @@ There are a number of international issues happening right now. In Gaza, residen
 <p>There is little doubt about the outcome, should he run, but the election in March carries more significance as the first one since the invasion of Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Saving Praise Houses Before Their African Lineage Is Forgotten</h3>
-<sub>By Patricia Leigh Brown</sub>
-<p>The Gullah Geechee fight to preserve the tiny structures, a cradle of the Black church, before they’re erased by sprawl, climate change and fading memories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland Steps Up Border Closings in Dispute With Russia</h3>
+<sub>By Johanna Lemola and Emma Bubola</sub>
+<p>The escalation comes as Finland tries to address a rise in the arrivals of migrants and asylum seekers that officials blame on Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
