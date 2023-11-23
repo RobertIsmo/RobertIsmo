@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-There seems to be a lot of turmoil occurring in the world right now. In technology, the head of a hot AI start-up was pushed out only to be reinstated five days later after intense pressure and negotiations. There is also a debate about whether AI should be exploited by capitalists or not. In the US, there was recently a hostage deal made between Israel and Hamas that required difficult negotiations. Additionally, leaders in the US are trying to get Israel to impement measures that would reduce Palestinian civilian deaths and restore services. Elsewhere in the world, Russian aggression in Ukraine is receiving public criticism at an international event from other foreign leaders. Lastly, back in the US, a Senatorial candidate in Michigan says he was offered twenty million dollars to challenge Representative Tlaib, who has been very vocal about her support of Palestinians after Israel&#39;s invasion of Gaza.</p>
+Right now, there is a lot going on in the world. In Gaza, there is an agreement between Israel and Hamas to secure the release of hostages in exchange for a temporary cease-fire. In Ukraine, Russian aggression has sparked international criticism from leaders such as President Biden and other Western powers. Meanwhile in the U.S., House Speaker Johnson is facing ire from Republican Right after taking up the position, while in Michigan, Senate candidate Tlaib has been subject to a willing monetary offer of $20 million for her challenge. Finally, artificial intelligence start-up OpenAI has gone through some major board shake-ups and alterations in its current structure.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
+<sub>By Peter Baker</sub>
+<p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Presses Israel to Set Up Safe Areas During Coming Pause in Gaza War</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>President Biden and his aides are trying to get Israel to take measures that would reduce Palestinian civilian deaths and restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Before a Truce, Israeli Officials Debated Whether a Pause Would Help Hamas</h3>
+<sub>By Ronen Bergman, Patrick Kingsley, Adam Sella and Aaron Boxerman</sub>
+<p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Five Days of Chaos: How Sam Altman Returned to OpenAI</h3>
 <sub>By Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose</sub>
@@ -84,24 +102,6 @@ There seems to be a lot of turmoil occurring in the world right now. In technolo
 <h3>Explaining OpenAI’s Board Shake-Up</h3>
 <sub>By Tripp Mickle, Mike Isaac, Karen Weise, Cade Metz and Kevin Roose</sub>
 <p>Who is off, and who is on? For now there are three members, including one holdover from the board that ousted Sam Altman as C.E.O. last week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
-<sub>By Peter Baker</sub>
-<p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Presses Israel to Set Up Safe Areas During Coming Pause in Gaza War</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>President Biden and his aides are trying to get Israel to take measures that would reduce Palestinian civilian deaths and restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Before a Truce, Israeli Officials Debated Whether a Pause Would Help Hamas</h3>
-<sub>By Ronen Bergman, Patrick Kingsley, Adam Sella and Aaron Boxerman</sub>
-<p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
