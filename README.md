@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-It seems like a lot is going on in the world right now. In Gaza, families are living in fear and guilt knowing their loved ones are suffering as a result of the siege there. Retailers are getting nervous ahead of Black Friday because people could be in a sour mood due to the higher prices and waning savings. On the topic of holidays, we have instructions for how to clean up after Thanksgiving dinner like a pro. Financially speaking, the US and Canada have responded with alarm after two people died in an intense car crash at the Canadian border. In a dispute with Russia, Finland has dramatically closed its borders. As for politics, Putin is due for reelection next year as he continues to lead task forces towards Ukraine; while his march towards power appears certain, other parts of the world are in turmoil with no end in sight.  That&#39;s not all though: India is reportedly attempting assassinations abroad, while the Netherlands has seen an extreme political shift towards far-right parties like Geert Wilders&#39;. There&#39;s also this new movie about Napoleon coming out which Joaquin Phoenix stars in—at least there&#39;s something entertaining to come out of this news dump!</p>
+There is a lot going on in the world right now. There is a deal between Israel and Hamas that involve hostages being released. Israeli forces have detained the head of Al-Shifa Hospital as he was evacuating to the south. And there are families abroad who are worried and feeling guilty about their relatives living in the Gaza Strip. In addition, retailers are having mixed feelings heading into Black Friday. We&#39;re also seeing a lot of far-right conspiracy theories circling around from the video feeds from January 6th Capitol attack. However, Thanksgiving is still around the corner and there are still puzzles and ways to clean up afterwards like a pro. On top of all that, Finland is tightening border restrictions with Russia due to more migrants and asylum seekers arriving, while Putin&#39;s upcoming election starts to become more significant since the invasion of Ukraine. Lastly, there is a generous man in New Hampshire who left millions of dollars to his hometown in his will.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s What We Know About the Israel-Hamas Deal</h3>
+<sub>By Karen Zraick, Aaron Boxerman and Isabel Kershner</sub>
+<p>Officials in Qatar, which helped broker the deal, said 13 hostages were expected to be released on Friday. An Israeli official said Palestinians in Israel’s custody would be freed first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli forces detained the head of Al-Shifa Hospital as he was evacuating to the south.</h3>
+<sub>By Hiba Yazbek</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Gaza Residents Suffer, Guilt and Fear Stalk Their Families Abroad</h3>
 <sub>By Rachel Abrams</sub>
@@ -72,6 +84,12 @@ It seems like a lot is going on in the world right now. In Gaza, families are li
 <h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
 <sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
 <p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson’s Release of Jan. 6 Video Feeds Right-Wing Conspiracy Theories</h3>
+<sub>By Luke Broadwater, Alan Feuer and Angelo Fichera</sub>
+<p>The speaker fulfilled a demand of the far right, which has sought thousands of hours of footage to try to rewrite the history of the Capitol attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-crosswords-blue" alt="">
@@ -87,10 +105,10 @@ It seems like a lot is going on in the world right now. In Gaza, families are li
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Fiery Crash at Canadian Border Kills 2, Alarming Washington and Ottawa</h3>
-<sub>By Hurubie Meko, Paul Lane and Ashley Southall</sub>
-<p>A speeding car hit a median, took flight, then burst into flames. Bridges closed down and trains stopped running as authorities raced to investigate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<h3>After Couple’s Fatal Bridge Crash, Investigators Search for Reason</h3>
+<sub>By Ashley Southall and Jesse McKinley</sub>
+<p>The explosion at the Rainbow Bridge in Niagara Falls sparked fears of terror. The car’s occupants were local residents, and the authorities said there was no threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Finland Steps Up Border Closings in Dispute With Russia</h3>
@@ -110,29 +128,11 @@ It seems like a lot is going on in the world right now. In Gaza, families are li
 <p>Amid two prominent wars and other conflicts around the globe, a biennial call at the United Nations for peace during the Games felt even more symbolic than usual.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Saving Praise Houses Before Their African Lineage Is Forgotten</h3>
-<sub>By Patricia Leigh Brown</sub>
-<p>The Gullah Geechee fight to preserve the tiny structures, a cradle of the Black church, before they’re erased by sprawl, climate change and fading memories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Lived a Frugal Life. Then He Left Millions to His New Hampshire Town.</h3>
+<sub>By Sopan Deb</sub>
+<p>When Geoffrey Holt died in June, his will revealed a secret: He had $3.8 million, and he was leaving all of it to the town of Hinsdale, where he had been living quietly in a trailer park.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Faces Questions About Another Reported Foreign Assassination Plot</h3>
-<sub>By Mujib Mashal</sub>
-<p>The U.S., while not publicly accusing New Delhi of trying to orchestrate a killing on American soil, said it had expressed concern to Indian officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Long a Bastion of Liberalism, the Netherlands Takes a Sharp Right Turn</h3>
-<sub>By Claire Moses</sub>
-<p>In an election result that sent shock waves across Europe, Geert Wilders, a longtime far-right provocateur, is closer than ever to becoming prime minister.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Napoleon’ Review: A Lumpy, Grumpy Little Man</h3>
-<sub>By Manohla Dargis</sub>
-<p>Joaquin Phoenix is oddly mesmerizing as the French emperor in Ridley Scott’s historical epic charting his rise and ruin.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
