@@ -60,25 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In Gaza, there is an agreement between Israel and Hamas to secure the release of hostages in exchange for a temporary cease-fire. In Ukraine, Russian aggression has sparked international criticism from leaders such as President Biden and other Western powers. Meanwhile in the U.S., House Speaker Johnson is facing ire from Republican Right after taking up the position, while in Michigan, Senate candidate Tlaib has been subject to a willing monetary offer of $20 million for her challenge. Finally, artificial intelligence start-up OpenAI has gone through some major board shake-ups and alterations in its current structure.</p>
+There are a number of international issues happening right now. In Gaza, residents are suffering and their families abroad feel guilt and fear. There has been a deal reached to free child hostages in Gaza, however that is causing anguish as no one knows which children will make it out. In Russia, there is tension because other leaders are criticizing Putin&#39;s aggression in Ukraine. Putin is expected to run in March&#39;s election, the first since their invasion of Ukraine last year. In terms of US news, the Biden administration has created a new green energy marketplace, while off the east coast African Americans are fighting to preserve a Gullah Geechee tradition before it is erased by climate change and development.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Gaza Residents Suffer, Guilt and Fear Stalk Their Families Abroad</h3>
+<sub>By Rachel Abrams</sub>
+<p>“When it comes to food, when it comes to freedom,” said one Washington resident whose brother is trapped in the besieged enclave, “the feeling of guilt is killing me.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Deal to Free Child Hostages in Gaza Inspires Hope and Anguish</h3>
+<sub>By Isabel Kershner</sub>
+<p>Some or all of the at least 36 children taken to the enclave as captives on Oct. 7 are expected to be freed. But the announcement raised anxieties about who might make it out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
 <sub>By Peter Baker</sub>
 <p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Presses Israel to Set Up Safe Areas During Coming Pause in Gaza War</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>President Biden and his aides are trying to get Israel to take measures that would reduce Palestinian civilian deaths and restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Before a Truce, Israeli Officials Debated Whether a Pause Would Help Hamas</h3>
-<sub>By Ronen Bergman, Patrick Kingsley, Adam Sella and Aaron Boxerman</sub>
-<p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Biden’s Climate Law, a Boon for Green Energy, and Wall Street</h3>
+<sub>By Jim Tankersley and Lauren Hirsch</sub>
+<p>The law has effectively created a new marketplace that helps smaller companies gain access to funding, with banks taking a cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Five Days of Chaos: How Sam Altman Returned to OpenAI</h3>
@@ -92,17 +98,17 @@ Right now, there is a lot going on in the world. In Gaza, there is an agreement 
 <p>The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>(Yet Another) Emergency Pod: Sam Altman Is Back</h3>
-<sub>By Kevin Roose, Casey Newton, Rachel Cohn, Jen Poyant, Daniel Ramirez, Corey Schreppel and Dan Powell</sub>
-<p>Fired, then hired to the same post.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-crosswords-blue" alt="">
+<h3>Turkey Doesn’t Have to Be the Only Game at the Table</h3>
+<sub>By New York Times Games</sub>
+<p>NYT Games has made puzzles to play with your family before, during or after the Thanksgiving meal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Explaining OpenAI’s Board Shake-Up</h3>
-<sub>By Tripp Mickle, Mike Isaac, Karen Weise, Cade Metz and Kevin Roose</sub>
-<p>Who is off, and who is on? For now there are three members, including one holdover from the board that ousted Sam Altman as C.E.O. last week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>How to Clean Up After Thanksgiving Dinner Like a Pro</h3>
+<sub>By Genevieve Ko</sub>
+<p>Getting a handle on the cleaning that comes with cooking is about more than just dishwashing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Fiery Crash at Canadian Border Kills 2, Alarming Washington and Ottawa</h3>
@@ -110,29 +116,23 @@ Right now, there is a lot going on in the world. In Gaza, there is an agreement 
 <p>A speeding car hit a median, took flight, then burst into flames. Bridges closed down and trains stopped running as authorities raced to investigate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Learns on the Job, Drawing the Ire of the Republican Right</h3>
-<sub>By Annie Karni</sub>
-<p>The new House speaker is facing complaints from his members that his leadership is no different from his predecessor’s. His style, however, is in stark contrast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Super PAC C.E.O. Resigns</h3>
-<sub>By Maggie Haberman and Shane Goldmacher</sub>
-<p>Chris Jankowski, the chief executive of the Never Back Down super PAC, stepped down as internal disputes among supporters of Ron DeSantis intensified.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Candidate in Michigan Says He Was Offered $20 Million to Challenge Tlaib</h3>
-<sub>By Chris Cameron</sub>
-<p>Rashida Tlaib, a member of the progressive “squad” in the House, has been one of the most outspoken supporters of the Palestinian cause, particularly after Israel’s invasion of Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Bristles as Other Leaders Criticize Russia’s Aggression in Ukraine</h3>
 <sub>By Ivan Nechepurenko and Mujib Mashal</sub>
 <p>For Mr. Putin, it was a rare interaction with Western leaders since the start of the war last year. It was also the first time he had to listen to direct public criticism at an international event.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Certainties of a Putin Election Meet the Uncertainties of War</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>There is little doubt about the outcome, should he run, but the election in March carries more significance as the first one since the invasion of Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Saving Praise Houses Before Their African Lineage Is Forgotten</h3>
+<sub>By Patricia Leigh Brown</sub>
+<p>The Gullah Geechee fight to preserve the tiny structures, a cradle of the Black church, before they’re erased by sprawl, climate change and fading memories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
