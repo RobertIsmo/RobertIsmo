@@ -60,32 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-There have been some tense political situations that have been making headlines lately. In the US, Ron DeSantis&#39; Never Back Down super PAC C.E.O. recently resigned due to internal disputes. There is also a political newcomer in the US running for a Senate seat in Michigan who says he was offered $20 million to challenge Rashida Tlaib. On the international stage, intense negotiations between Israel and Hamas have been taking place in order to reach an agreement for a hostage deal and temporary cease-fire, and the US is pressing Israel to set up safe areas for Palestinians during this pause in war. Additionally, there has been a fiery crash at the Canadian border that has alarmed both Ottawa and Washington. Lastly, OpenAI made news when their C.E.O., Sam Altman was pushed out of the company then rehired shortly after, prompting discussions from both tech leaders and press as well as a podcast titled &quot;(Yet Another) Emergency Pod: Sam Altman is Back&quot;.</p>
+There has been a lot of news lately regarding technology, US politics, and international affairs. Sam Altman from OpenAI had a five-day turmoil, where he was initially fired before being reinstalled as the CEO after an intense pressure campaign. There is also increasing debate between those supporting artificial intelligence with capitalistic means and those who are against it. In the US, President Biden is pushing for Israel to set up safe areas during a coming cease-fire in the Gaza War and House Speaker Johnson is receiving criticism from members of his party. In Michigan, a political newcomer named Vivek Ramaswamy is having trouble winning voters over despite providing free food to potential voters. Additionally, a Senate Candidate in Michigan was offered $20 million to challenge Rashida Tlaib.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
-<sub>By Peter Baker</sub>
-<p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Presses Israel to Set Up Safe Areas During Coming Pause in Gaza War</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>President Biden and his aides are trying to get Israel to take measures that would reduce Palestinian civilian deaths and restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Before a Truce, Israeli Officials Debated Whether a Pause Would Help Hamas</h3>
-<sub>By Ronen Bergman, Patrick Kingsley, Adam Sella and Aaron Boxerman</sub>
-<p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Fiery Crash at Canadian Border Kills 2, Alarming Washington and Ottawa</h3>
-<sub>By Hurubie Meko, Paul Lane and Ashley Southall</sub>
-<p>A speeding car hit a median, took flight, then burst into flames. Bridges closed down and trains stopped running as authorities raced to investigate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Five Days of Chaos: How Sam Altman Returned to OpenAI</h3>
 <sub>By Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose</sub>
@@ -108,6 +84,30 @@ There have been some tense political situations that have been making headlines 
 <h3>Explaining OpenAI’s Board Shake-Up</h3>
 <sub>By Tripp Mickle, Mike Isaac, Karen Weise, Cade Metz and Kevin Roose</sub>
 <p>Who is off, and who is on? For now there are three members, including one holdover from the board that ousted Sam Altman as C.E.O. last week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
+<sub>By Peter Baker</sub>
+<p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Presses Israel to Set Up Safe Areas During Coming Pause in Gaza War</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>President Biden and his aides are trying to get Israel to take measures that would reduce Palestinian civilian deaths and restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Before a Truce, Israeli Officials Debated Whether a Pause Would Help Hamas</h3>
+<sub>By Ronen Bergman, Patrick Kingsley, Adam Sella and Aaron Boxerman</sub>
+<p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Fiery Crash at Canadian Border Kills 2, Alarming Washington and Ottawa</h3>
+<sub>By Hurubie Meko, Paul Lane and Ashley Southall</sub>
+<p>A speeding car hit a median, took flight, then burst into flames. Bridges closed down and trains stopped running as authorities raced to investigate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
