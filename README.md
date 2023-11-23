@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, November 22, Central Standard Time</p>
+<p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-There has been a lot of news lately regarding technology, US politics, and international affairs. Sam Altman from OpenAI had a five-day turmoil, where he was initially fired before being reinstalled as the CEO after an intense pressure campaign. There is also increasing debate between those supporting artificial intelligence with capitalistic means and those who are against it. In the US, President Biden is pushing for Israel to set up safe areas during a coming cease-fire in the Gaza War and House Speaker Johnson is receiving criticism from members of his party. In Michigan, a political newcomer named Vivek Ramaswamy is having trouble winning voters over despite providing free food to potential voters. Additionally, a Senate Candidate in Michigan was offered $20 million to challenge Rashida Tlaib.</p>
+There seems to be a lot of turmoil occurring in the world right now. In technology, the head of a hot AI start-up was pushed out only to be reinstated five days later after intense pressure and negotiations. There is also a debate about whether AI should be exploited by capitalists or not. In the US, there was recently a hostage deal made between Israel and Hamas that required difficult negotiations. Additionally, leaders in the US are trying to get Israel to impement measures that would reduce Palestinian civilian deaths and restore services. Elsewhere in the world, Russian aggression in Ukraine is receiving public criticism at an international event from other foreign leaders. Lastly, back in the US, a Senatorial candidate in Michigan says he was offered twenty million dollars to challenge Representative Tlaib, who has been very vocal about her support of Palestinians after Israel&#39;s invasion of Gaza.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Five Days of Chaos: How Sam Altman Returned to OpenAI</h3>
@@ -123,15 +123,15 @@ There has been a lot of news lately regarding technology, US politics, and inter
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Plying Voters With Free Food, Ramaswamy Struggles to Win Them Over</h3>
-<sub>By Anjali Huynh</sub>
-<p>The political newcomer’s surge over the summer has fizzled. But Vivek Ramaswamy is still spending freely to keep up a breakneck pace in Iowa and New Hampshire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Senate Candidate in Michigan Says He Was Offered $20 Million to Challenge Tlaib</h3>
 <sub>By Chris Cameron</sub>
 <p>Rashida Tlaib, a member of the progressive “squad” in the House, has been one of the most outspoken supporters of the Palestinian cause, particularly after Israel’s invasion of Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Bristles as Other Leaders Criticize Russia’s Aggression in Ukraine</h3>
+<sub>By Ivan Nechepurenko and Mujib Mashal</sub>
+<p>For Mr. Putin, it was a rare interaction with Western leaders since the start of the war last year. It was also the first time he had to listen to direct public criticism at an international event.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
