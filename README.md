@@ -60,18 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 22, Central Standard Time</p>
 <p>
-There have been a lot of tensions and conflicts in the world between countries, but some recent news focuses on the increased violence between Israel and Palestine. The US is pressing Israel to take measures to reduce civilian death tolls and to restore services. Meanwhile, negotiations are underway for a possible hostage deal between Hamas and Israel, with each side making difficult choices and struggling to trust one another. In other news, newly elected US House Speaker Johnson has been met with criticism from members of his own party due to his leadership style. Additionally, there are financial discussions about long-term care insurance falling short for many elderly Americans, and the US is taking action against crypto exchanges that have knowledge about criminal activity. Lastly, some opinion pieces offering insight into the situation have been written as well.</p>
+There have been some tense political situations that have been making headlines lately. In the US, Ron DeSantis&#39; Never Back Down super PAC C.E.O. recently resigned due to internal disputes. There is also a political newcomer in the US running for a Senate seat in Michigan who says he was offered $20 million to challenge Rashida Tlaib. On the international stage, intense negotiations between Israel and Hamas have been taking place in order to reach an agreement for a hostage deal and temporary cease-fire, and the US is pressing Israel to set up safe areas for Palestinians during this pause in war. Additionally, there has been a fiery crash at the Canadian border that has alarmed both Ottawa and Washington. Lastly, OpenAI made news when their C.E.O., Sam Altman was pushed out of the company then rehired shortly after, prompting discussions from both tech leaders and press as well as a podcast titled &quot;(Yet Another) Emergency Pod: Sam Altman is Back&quot;.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Presses Israel to Set Up Safe Areas During Pause in Gaza Fighting</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>Biden administration officials are trying to get Israel to take measures that would reduce the civilian death toll in Gaza and to restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Terrible Choices and Deep Distrust: The Path to the Hostage Deal</h3>
 <sub>By Peter Baker</sub>
 <p>The agreement between Israel and Hamas required painful negotiations, but if carried out successfully, it could lead to the release of more hostages and extend the temporary cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Presses Israel to Set Up Safe Areas During Coming Pause in Gaza War</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>President Biden and his aides are trying to get Israel to take measures that would reduce Palestinian civilian deaths and restore services.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,34 +80,46 @@ There have been a lot of tensions and conflicts in the world between countries, 
 <p>For weeks, senior Israeli leaders were divided about whether a temporary cease-fire might help Hamas regroup and endanger the remaining hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Fiery Crash at Canadian Border Kills 2, Alarming Washington and Ottawa</h3>
+<sub>By Hurubie Meko, Paul Lane and Ashley Southall</sub>
+<p>A speeding car hit a median, took flight, then burst into flames. Bridges closed down and trains stopped running as authorities raced to investigate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Five Days of Chaos: How Sam Altman Returned to OpenAI</h3>
+<sub>By Cade Metz, Tripp Mickle, Mike Isaac, Karen Weise and Kevin Roose</sub>
+<p>On Friday, Mr. Altman was pushed out of the hot A.I. start-up he ran. But an intense pressure campaign and negotiations brought him back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>A.I. Belongs to the Capitalists Now</h3>
+<sub>By Kevin Roose</sub>
+<p>The fight over OpenAI was at least partly about dueling visions of artificial intelligence. One side clearly won out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>(Yet Another) Emergency Pod: Sam Altman Is Back</h3>
+<sub>By Kevin Roose, Casey Newton, Rachel Cohn, Jen Poyant, Daniel Ramirez, Corey Schreppel and Dan Powell</sub>
+<p>Fired, then hired to the same post.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Explaining OpenAI’s Board Shake-Up</h3>
+<sub>By Tripp Mickle, Mike Isaac, Karen Weise, Cade Metz and Kevin Roose</sub>
+<p>Who is off, and who is on? For now there are three members, including one holdover from the board that ousted Sam Altman as C.E.O. last week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Johnson Learns on the Job, Drawing the Ire of the Republican Right</h3>
 <sub>By Annie Karni</sub>
 <p>The new House speaker is facing complaints from his members that his leadership is no different from his predecessor’s. His style, however, is in stark contrast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Case Details Binance’s Knowledge About Criminal Users</h3>
-<sub>By Emily Flitter</sub>
-<p>The crypto exchange treated them as essential customers, the government said. U.S. authorities want the industry to understand how bad that is for business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Why Long-Term Care Insurance Falls Short for So Many</h3>
-<sub>By Jordan Rau and JoNel Aleccia</sub>
-<p>The private insurance market has proved wildly inadequate in providing financial security for millions of older Americans, in part by underestimating how many policyholders would use their coverage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>A Guide to Long-Term Care Insurance</h3>
-<sub>By Jordan Rau</sub>
-<p>Deciding when, or whether, to buy long-term care insurance can be complex. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Strange $55 Million Saga of a Netflix Series You’ll Never See</h3>
-<sub>By John Carreyrou</sub>
-<p>After suitors flocked to a sci-fi project by Carl Rinsch, director of a single movie, the winner handed over money and control. They’re still fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Super PAC C.E.O. Resigns</h3>
+<sub>By Maggie Haberman and Shane Goldmacher</sub>
+<p>Chris Jankowski, the chief executive of the Never Back Down super PAC, stepped down as internal disputes among supporters of Ron DeSantis intensified.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +128,10 @@ There have been a lot of tensions and conflicts in the world between countries, 
 <p>The political newcomer’s surge over the summer has fizzled. But Vivek Ramaswamy is still spending freely to keep up a breakneck pace in Iowa and New Hampshire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>I Never Said Thanks for the Meal. Sister Agnes Taught Me How.</h3>
-<sub>By Rosie Schaap</sub>
-<p>A Thanksgiving lesson about grace, and the many people who feed us.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Rescuers</h3>
-<sub>By Thomas L. Friedman</sub>
-<p>Chasing some rays of hope in this dark moment for Israelis and Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Bernie Sanders: Justice for the Palestinians and Security for Israel</h3>
-<sub>By Bernie Sanders</sub>
-<p>How do we balance our desire to stop the fighting with the need to address the roots of the conflict?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Candidate in Michigan Says He Was Offered $20 Million to Challenge Tlaib</h3>
+<sub>By Chris Cameron</sub>
+<p>Rashida Tlaib, a member of the progressive “squad” in the House, has been one of the most outspoken supporters of the Palestinian cause, particularly after Israel’s invasion of Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
