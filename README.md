@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In Israel, Hamas and Israel have agreed to a cease-fire after prodding from the US. There has also been a fatal bridge crash in Niagara Falls, sparking fears of terror which turned out to be unfounded. Meanwhile, in Russia, Finland has closed its borders in response to an influx of migrants and asylum seekers. On a more positive note, one man left his town millions of dollars in his will after living a frugal life. All in all, it&#39;s been an interesting mix of news!</p>
+There has been a lot going on in the world recently. In Israel and Gaza, the two sides have agreed to a cease-fire and 150 Palestinian prisoners are being released in exchange for 50 hostages held in Gaza. In Ireland, riots broke out after a knife attack left three children and a woman injured. In the U.S., Speaker Nancy Pelosi released a video feed of the Capitol attack which has been fueling far-right conspiracy theories. And retailers are worried about shoppers&#39; moods heading into Black Friday due to higher prices and waning savings.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel, Hamas Agree to Begin Cease-Fire Friday Morning</h3>
@@ -116,10 +116,10 @@ Right now, there is a lot going on in the world. In Israel, Hamas and Israel hav
 <p>A suspect was in custody after a woman and three children were injured in the Irish capital. After the incident, riots that the police said were driven by “misinformation” about the attack erupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Steps Up Border Closings in Dispute With Russia</h3>
-<sub>By Johanna Lemola and Emma Bubola</sub>
-<p>The escalation comes as Finland tries to address a rise in the arrivals of migrants and asylum seekers that officials blame on Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Charles Peters, Neoliberal Founder of The Washington Monthly, Dies at 96</h3>
+<sub>By Robert D. McFadden</sub>
+<p>His political journal challenged liberal and conservative orthodoxies for decades and added an important perspective for Washington’s cognoscenti.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
