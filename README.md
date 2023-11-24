@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 24, Central Standard Time</p>
 <p>
-There are a lot of news articles about what is happening in the world right now. In Palestine, the Palestinian Authority is attempting to govern Gaza after the war. Qatar and Egypt have been negotiating for the release of Thai hostages. People in Gaza are trying to return home during a ceasefire. On Black Friday, discounts are offered online and retail workers have to work hard to make holiday shopping possible. There are also some great travel deals on offer. Some powerful players are preventing efforts to conserve dwindling groundwater and more Chinese migrants than ever before are crossing into the US from Mexico. In Ireland recently there were riots in Dublin which were condemned and Nikki Haley, the former ambassador to the UN, is being discussed as a potential threat to President Trump in an upcoming election. Lastly, in Argentina, a far-right populist just won the presidency and is promising to sweepingly change the economy there.</p>
+There has been a lot going on in the world recently! In Middle Eastern countries, Qatar and Egypt have been working together to secure the release of Thai hostages. In Israel, a group of 18 hostages — all women and children — have been released or rescued. Meanwhile, Gazans who had fled during recent fighting are attempting to return home against Israel&#39;s warnings. In terms of business news, Black Friday sales are starting earlier and earlier every year, and retail workers across the globe are working hard to make our holiday shopping sprees possible. On a more somber note, there is growing concern over the depletion of groundwater in the United States, as powerful players continue to block any legislation that would help conserve it. Further abroad, there has been an increase in Chinese citizens crossing the U.S.-Mexico border and violence in Dublin that was sparked by far-right activists and rumors spread online. Finally, some powerful business figures in America are daring to dream that former U.S. Ambassador Nikki Haley could beat President Trump in the next election — but Georgia’s liberal organizers sure aren’t counting on it any time soon.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can the Palestinian Authority Really Govern Gaza After the War?</h3>
-<sub>By Steven Erlanger</sub>
-<p>Considered authoritarian and corrupt, the Palestinian Authority is still Washington’s choice to run the enclave. But many believe it can be credible now only if it includes Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In separate talks, Qatar and Egypt negotiated for release of Thai hostages.</h3>
 <sub>By Sui-Lee Wee, Edward Wong and Yara Bayoumy</sub>
@@ -75,9 +69,33 @@ There are a lot of news articles about what is happening in the world right now.
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s what we know about the released Israeli hostages.</h3>
+<sub>By Nadav Gavrielov, Isabel Kershner, Adam Sella, Gaya Gupta, Talya Minsberg and Patrick Kingsley</sub>
+<p>The first group of 13 Israeli hostages — all women and children — were handed over to Israeli officials on Friday, joining five others released or rescued earlier in the fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Cease-Fire Takes Hold, Some Gazans Attempt a Treacherous Return Home</h3>
 <sub>By Raja Abdulrahim and Ameera Harouda</sub>
 <p>Israel had warned Gazans not to move from the south to the north during the cessation of hostilities, feeding their fears of permanent displacement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Bentley in Border Bridge Crash Was a Luxury Car Packed With Power</h3>
+<sub>By Ashley Southall and Jesse McKinley</sub>
+<p>The 2022 Flying Spur could reach 60 miles per hour in four seconds. The couple who died inside were business owners from a town near Niagara Falls, N.Y.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>As Groundwater Dwindles, Powerful Players Block Change</h3>
+<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
+<p>Here are some of the people fighting efforts to conserve a vital resource that’s disappearing across the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Growing Numbers of Chinese Migrants Are Crossing the Southern Border</h3>
+<sub>By Eileen Sullivan</sub>
+<p>More than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,28 +116,10 @@ There are a lot of news articles about what is happening in the world right now.
 <p>Bargain shoppers will find discounts on hotels, resorts, far-flung tours and cruises. The key is to act quickly before they disappear.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>As Groundwater Dwindles, Powerful Players Block Change</h3>
-<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
-<p>Here are some of the people fighting efforts to conserve a vital resource that’s disappearing across the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Growing Numbers of Chinese Migrants Are Crossing the Southern Border</h3>
-<sub>By Eileen Sullivan</sub>
-<p>More than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Riots in Dublin Bring ‘Shame’ on Ireland, Prime Minister Says</h3>
+<h3>‘It Snowballed:’ How a Knife Attack in Dublin Led to a Riot</h3>
 <sub>By Isabella Kwai and Adam Satariano</sub>
-<p>Officials have condemned violence that broke out in the capital after a knife attack. The police said 34 people were arrested and a police officer was seriously injured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Could Haley Really Beat Trump? Big Donors Are Daring to Dream.</h3>
-<sub>By Kate Kelly and Rebecca Davis O’Brien</sub>
-<p>Powerful players in the business world have gravitated toward Nikki Haley, aware that she remains an underdog but beginning to believe she has a chance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The violence in Ireland’s capital on Thursday night was fueled by far-right agitators who spread rumors online about an attack on three children earlier that day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +128,10 @@ There are a lot of news articles about what is happening in the world right now.
 <p>Cost-conscious shifts in strategy and a changed political landscape have stoked fears about the groups’ ability to keep delivering victories for Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Country Where Houses Are Bought in $100 Bills, Plans for Sweeping Change</h3>
-<sub>By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera</sub>
-<p>Years of economic quagmire created an upside-down economy in Argentina. Javier Milei, a far-right populist, won the presidency this week by promising to blow it all up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Could Haley Really Beat Trump? Big Donors Are Daring to Dream.</h3>
+<sub>By Kate Kelly and Rebecca Davis O’Brien</sub>
+<p>Powerful players in the business world have gravitated toward Nikki Haley, aware that she remains an underdog but beginning to believe she has a chance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
