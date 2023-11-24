@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 23, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. There is a deal between Israel and Hamas that involve hostages being released. Israeli forces have detained the head of Al-Shifa Hospital as he was evacuating to the south. And there are families abroad who are worried and feeling guilty about their relatives living in the Gaza Strip. In addition, retailers are having mixed feelings heading into Black Friday. We&#39;re also seeing a lot of far-right conspiracy theories circling around from the video feeds from January 6th Capitol attack. However, Thanksgiving is still around the corner and there are still puzzles and ways to clean up afterwards like a pro. On top of all that, Finland is tightening border restrictions with Russia due to more migrants and asylum seekers arriving, while Putin&#39;s upcoming election starts to become more significant since the invasion of Ukraine. Lastly, there is a generous man in New Hampshire who left millions of dollars to his hometown in his will.</p>
+Right now, there is a lot going on in the world. In Israel, Hamas and Israel have agreed to a cease-fire after prodding from the US. There has also been a fatal bridge crash in Niagara Falls, sparking fears of terror which turned out to be unfounded. Meanwhile, in Russia, Finland has closed its borders in response to an influx of migrants and asylum seekers. On a more positive note, one man left his town millions of dollars in his will after living a frugal life. All in all, it&#39;s been an interesting mix of news!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel, Hamas Agree to Begin Cease-Fire Friday Morning</h3>
+<sub>By Aaron Boxerman, Hiba Yazbek and Jason Horowitz</sub>
+<p>Prodded by the U.S., Israel agreed to the pause in hostilities and the release of 150 imprisoned Palestinians in exchange for 50 hostages held in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Israel-Hamas Deal</h3>
 <sub>By Karen Zraick, Aaron Boxerman and Isabel Kershner</sub>
@@ -74,16 +80,10 @@ There is a lot going on in the world right now. There is a deal between Israel a
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Gaza Residents Suffer, Guilt and Fear Stalk Their Families Abroad</h3>
-<sub>By Rachel Abrams</sub>
-<p>“When it comes to food, when it comes to freedom,” said one Washington resident whose brother is trapped in the besieged enclave, “the feeling of guilt is killing me.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
-<sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
-<p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>After Couple’s Fatal Bridge Crash, Investigators Search for Reason</h3>
+<sub>By Ashley Southall and Jesse McKinley</sub>
+<p>The explosion at the Rainbow Bridge in Niagara Falls sparked fears of terror. The car’s occupants were local residents, and the authorities said there was no threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,22 +92,28 @@ There is a lot going on in the world right now. There is a deal between Israel a
 <p>The speaker fulfilled a demand of the far right, which has sought thousands of hours of footage to try to rewrite the history of the Capitol attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
+<sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
+<p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-crosswords-blue" alt="">
 <h3>Turkey Doesn’t Have to Be the Only Game at the Table</h3>
 <sub>By New York Times Games</sub>
 <p>NYT Games has made puzzles to play with your family before, during or after the Thanksgiving meal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>How to Clean Up After Thanksgiving Dinner Like a Pro</h3>
-<sub>By Genevieve Ko</sub>
-<p>Getting a handle on the cleaning that comes with cooking is about more than just dishwashing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Lived a Frugal Life. Then He Left Millions to His New Hampshire Town.</h3>
+<sub>By Sopan Deb</sub>
+<p>When Geoffrey Holt died in June, his will revealed a secret: He had $3.8 million, and he was leaving all of it to the town of Hinsdale, where he had been living quietly in a trailer park.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Couple’s Fatal Bridge Crash, Investigators Search for Reason</h3>
-<sub>By Ashley Southall and Jesse McKinley</sub>
-<p>The explosion at the Rainbow Bridge in Niagara Falls sparked fears of terror. The car’s occupants were local residents, and the authorities said there was no threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rioters Clash With Police in Dublin After Children Hurt in Knife Attack</h3>
+<sub>By Emma Bubola</sub>
+<p>A suspect was in custody after a woman and three children were injured in the Irish capital. After the incident, riots that the police said were driven by “misinformation” about the attack erupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,22 +122,16 @@ There is a lot going on in the world right now. There is a deal between Israel a
 <p>The escalation comes as Finland tries to address a rise in the arrivals of migrants and asylum seekers that officials blame on Moscow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Certainties of a Putin Election Meet the Uncertainties of War</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>There is little doubt about the outcome, should he run, but the election in March carries more significance as the first one since the invasion of Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The 25 Things I’m Thankful for in American Politics</h3>
+<sub>By Michelle Cottle</sub>
+<p>Or 26, if you count not sharing the stuffing with George Santos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>World Peace in 2024? The Olympics Has a Plan but Not Much Hope.</h3>
-<sub>By Andrew Keh</sub>
-<p>Amid two prominent wars and other conflicts around the globe, a biennial call at the United Nations for peace during the Games felt even more symbolic than usual.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Lived a Frugal Life. Then He Left Millions to His New Hampshire Town.</h3>
-<sub>By Sopan Deb</sub>
-<p>When Geoffrey Holt died in June, his will revealed a secret: He had $3.8 million, and he was leaving all of it to the town of Hinsdale, where he had been living quietly in a trailer park.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Why Is Everyone So Grumpy?</h3>
+<sub>By Binyamin Appelbaum and Peter Coy</sub>
+<p>About the economy, that is.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
