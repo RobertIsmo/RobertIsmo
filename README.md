@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 24, Central Standard Time</p>
 <p>
-Right now, there is a lot happening in the world. In the Middle East, tensions are growing between the Palestinian Authority and Hamas, with the former being accused of authoritarianism and corruption. Closer to home, powerful business players are considering supporting Nikki Haley&#39;s seemingly unlikely bid to challenge President Trump for an election. Meanwhile, in South America, the Argentinian economy has gone into a tailspin due to years of economic turmoil, prompting Javier Milei to be elected president on a platform of blowing up the system. On top of this, Venezuelans are fleeing their homeland and using baseball as a way to maintain their culture in Colombia. Finally, closer to home here in the US, we have seen some incredible acts of giving and generosity from people such as Geoffrey Holt who left his life savings to his town of Hinsdale.</p>
+Right now, there&#39;s a lot going on in the world! In Israel and the Palestinian territories, leaders are debating how to rebuild and govern Gaza after a war. Here in the U.S., powerful players like business donors are starting to support Nikki Haley in case she challenges current President Donald Trump. Meanwhile, in Colombia&#39;s capital city of Bogotá there&#39;s an unexpected surge of baseball popularity that has been heavily fueled by Venezuelan immigrants who have brought their culture with them. Lastly, here at home we have some heartwarming news from New Hampshire - a frugal man left his entire $3.8 million estate to his town!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Can the Palestinian Authority Really Govern Gaza After the War?</h3>
 <sub>By Steven Erlanger</sub>
-<p>Considered authoritarian and corrupt, the Palestinian Authority is still Washington’s choice to run the enclave. But many believe it can only be credible now if it includes Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Considered authoritarian and corrupt, the Palestinian Authority is still Washington’s choice to run the enclave. But many believe it can be credible now only if it includes Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,6 +92,12 @@ Right now, there is a lot happening in the world. In the Middle East, tensions a
 <p>Here are some of the people fighting efforts to conserve a vital resource that’s disappearing across the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Riots in Dublin Bring ‘Shame’ on Ireland, Prime Minister Says</h3>
+<sub>By Isabella Kwai</sub>
+<p>Officials have condemned violence that broke out in the capital after a knife attack. The police said 34 people were arrested and a police officer was seriously injured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Could Haley Really Beat Trump? Big Donors Are Daring to Dream.</h3>
 <sub>By Kate Kelly and Rebecca Davis O’Brien</sub>
@@ -105,21 +111,15 @@ Right now, there is a lot happening in the world. In the Middle East, tensions a
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Russia’s Pop Star Exiles, a Moral Stand and a Creative Climb</h3>
-<sub>By Paul Sonne and Alex Marshall</sub>
-<p>Monetochka was one of Russia’s most discussed pop stars. Now, like other antiwar acts in exile, she’s having to retool her career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Oscar Pistorius, Olympic Athlete Convicted of Murder, Will Be Released on Parole</h3>
+<sub>By Lynsey Chutel</sub>
+<p>The South African sprinter, who garnered global headlines after killing his girlfriend in 2013, will be released in January after meeting the requirements for parole.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-sports-blue" alt="">
 <h3>Baseball Flourishes in Colombia’s Capital. But Not Because of Colombians.</h3>
 <sub>By James Wagner</sub>
 <p>In a Bogotá league, Venezuelans who fled their homeland have carried on their culture in a country surrounded by soccer — and have built a support system. “It’s like having a piece of Venezuela here.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Oscar Pistorius, Olympic Athlete Convicted of Murder, Will Be Released on Parole</h3>
-<sub>By Lynsey Chutel</sub>
-<p>The South African sprinter, who garnered global headlines after killing his girlfriend in 2013, will be released in January.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
