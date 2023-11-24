@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 24, Central Standard Time</p>
 <p>
-Right now, there are a few different things happening in the world. First, Israel and Hamas have recently reached a deal that could involve the release of 13 hostages. In Dublin, a knife attack injured a woman and three children, and afterwards riots broke out due to &quot;misinformation&quot; about the attack. Also, in the U.S., Speaker Johnson released footage from the Capitol attack back in January as demanded by far-right groups, who are trying to rewrite its history. On a lighter note, retailers are worried about consumers&#39; moods heading into Black Friday, Thanksgiving is just around the corner, and one man left $3.8 million to his New Hampshire town after his death. Finally, The New York Times recently published its picks for the 100 Notable Books of 2023.</p>
+Right now, there is a lot going on around the world. In the Middle East, Israel and Hamas have reached an agreement and 13 hostages are expected to be released soon. Meanwhile in Ireland, an attack on a woman and her three children has led to riots being sparked in Dublin. In the United States, the right-wing are trying to rewrite history after an attack on Congress by trying to get access to video footage of the event. Retailers in America seem cautious heading into Black Friday due to worries about consumer spending. Finally, notable books from 2023 have been named by The New York Times Book Review team!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Israel-Hamas Deal</h3>
@@ -86,10 +86,10 @@ Right now, there are a few different things happening in the world. First, Israe
 <p>The speaker fulfilled a demand of the far right, which has sought thousands of hours of footage to try to rewrite the history of the Capitol attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
-<sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
-<p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Rioters Clash With Police in Dublin After Children Hurt in Knife Attack</h3>
+<sub>By Emma Bubola</sub>
+<p>A suspect was in custody after a woman and three children were injured in the Irish capital. After the incident, riots that the police said were driven by “misinformation” about the attack erupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-crosswords-blue" alt="">
@@ -104,16 +104,16 @@ Right now, there are a few different things happening in the world. First, Israe
 <p>When Geoffrey Holt died in June, his will revealed a secret: He had $3.8 million, and he was leaving all of it to the town of Hinsdale, where he had been living quietly in a trailer park.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rioters Clash With Police in Dublin After Children Hurt in Knife Attack</h3>
-<sub>By Emma Bubola</sub>
-<p>A suspect was in custody after a woman and three children were injured in the Irish capital. After the incident, riots that the police said were driven by “misinformation” about the attack erupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
+<sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
+<p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Charles Peters, Neoliberal Founder of The Washington Monthly, Dies at 96</h3>
+<h3>Charles Peters, Founder of The Washington Monthly, Dies at 96</h3>
 <sub>By Robert D. McFadden</sub>
-<p>His political journal challenged liberal and conservative orthodoxies for decades and added an important perspective for Washington’s cognoscenti.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>His political journal challenged liberal and conservative orthodoxies for decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
