@@ -58,16 +58,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, November 23, Central Standard Time</p>
+<p>It is Friday, November 24, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. In Israel and Gaza, the two sides have agreed to a cease-fire and 150 Palestinian prisoners are being released in exchange for 50 hostages held in Gaza. In Ireland, riots broke out after a knife attack left three children and a woman injured. In the U.S., Speaker Nancy Pelosi released a video feed of the Capitol attack which has been fueling far-right conspiracy theories. And retailers are worried about shoppers&#39; moods heading into Black Friday due to higher prices and waning savings.</p>
+Right now, there are a few different things happening in the world. First, Israel and Hamas have recently reached a deal that could involve the release of 13 hostages. In Dublin, a knife attack injured a woman and three children, and afterwards riots broke out due to &quot;misinformation&quot; about the attack. Also, in the U.S., Speaker Johnson released footage from the Capitol attack back in January as demanded by far-right groups, who are trying to rewrite its history. On a lighter note, retailers are worried about consumers&#39; moods heading into Black Friday, Thanksgiving is just around the corner, and one man left $3.8 million to his New Hampshire town after his death. Finally, The New York Times recently published its picks for the 100 Notable Books of 2023.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel, Hamas Agree to Begin Cease-Fire Friday Morning</h3>
-<sub>By Aaron Boxerman, Hiba Yazbek and Jason Horowitz</sub>
-<p>Prodded by the U.S., Israel agreed to the pause in hostilities and the release of 150 imprisoned Palestinians in exchange for 50 hostages held in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Israel-Hamas Deal</h3>
 <sub>By Karen Zraick, Aaron Boxerman and Isabel Kershner</sub>
@@ -121,6 +115,12 @@ There has been a lot going on in the world recently. In Israel and Gaza, the two
 <sub>By Robert D. McFadden</sub>
 <p>His political journal challenged liberal and conservative orthodoxies for decades and added an important perspective for Washington’s cognoscenti.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>100 Notable Books of 2023</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>Here are the year’s notable fiction, poetry and nonfiction, chosen by the staff of The New York Times Book Review.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-opinion-blue" alt="">
 <h3>The 25 Things I’m Thankful for in American Politics</h3>
