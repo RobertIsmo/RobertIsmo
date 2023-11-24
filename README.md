@@ -60,43 +60,67 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 24, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world. In the Middle East, Israel and Hamas have reached an agreement and 13 hostages are expected to be released soon. Meanwhile in Ireland, an attack on a woman and her three children has led to riots being sparked in Dublin. In the United States, the right-wing are trying to rewrite history after an attack on Congress by trying to get access to video footage of the event. Retailers in America seem cautious heading into Black Friday due to worries about consumer spending. Finally, notable books from 2023 have been named by The New York Times Book Review team!</p>
+Right now, there is a lot happening in the world. In the Middle East, tensions are growing between the Palestinian Authority and Hamas, with the former being accused of authoritarianism and corruption. Closer to home, powerful business players are considering supporting Nikki Haley&#39;s seemingly unlikely bid to challenge President Trump for an election. Meanwhile, in South America, the Argentinian economy has gone into a tailspin due to years of economic turmoil, prompting Javier Milei to be elected president on a platform of blowing up the system. On top of this, Venezuelans are fleeing their homeland and using baseball as a way to maintain their culture in Colombia. Finally, closer to home here in the US, we have seen some incredible acts of giving and generosity from people such as Geoffrey Holt who left his life savings to his town of Hinsdale.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s What We Know About the Israel-Hamas Deal</h3>
-<sub>By Karen Zraick, Aaron Boxerman and Isabel Kershner</sub>
-<p>Officials in Qatar, which helped broker the deal, said 13 hostages were expected to be released on Friday. An Israeli official said Palestinians in Israel’s custody would be freed first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli forces detained the head of Al-Shifa Hospital as he was evacuating to the south.</h3>
-<sub>By Hiba Yazbek</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<h3>Can the Palestinian Authority Really Govern Gaza After the War?</h3>
+<sub>By Steven Erlanger</sub>
+<p>Considered authoritarian and corrupt, the Palestinian Authority is still Washington’s choice to run the enclave. But many believe it can only be credible now if it includes Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>After Couple’s Fatal Bridge Crash, Investigators Search for Reason</h3>
-<sub>By Ashley Southall and Jesse McKinley</sub>
-<p>The explosion at the Rainbow Bridge in Niagara Falls sparked fears of terror. The car’s occupants were local residents, and the authorities said there was no threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<h3>NYU Langone Fired Him for His Anti-Hamas Posts. He’s Suing.</h3>
+<sub>By Joseph Goldstein</sub>
+<p>The lawsuit, filed by the director of a cancer center, comes amid debate over how companies handle employees’ public remarks about the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>These Retail Workers Make Your Holiday Shopping Spree Possible</h3>
+<sub>By Jordyn Holman and Julie Creswell</sub>
+<p>It’s the busiest time of year in the retail and logistics industries. Here’s how employees at four of the biggest retailers pull it off.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Black Friday Isn’t What It Used to Be</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Big discounts, many of them online only, start appearing well before Thanksgiving and will run long after. Some people still go to the mall, though.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>As Groundwater Dwindles, Powerful Players Block Change</h3>
+<sub>By Christopher Flavelle and Mira Rojanasakul</sub>
+<p>Here are some of the people fighting efforts to conserve a vital resource that’s disappearing across the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson’s Release of Jan. 6 Video Feeds Right-Wing Conspiracy Theories</h3>
-<sub>By Luke Broadwater, Alan Feuer and Angelo Fichera</sub>
-<p>The speaker fulfilled a demand of the far right, which has sought thousands of hours of footage to try to rewrite the history of the Capitol attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<h3>Could Haley Really Beat Trump? Big Donors Are Daring to Dream.</h3>
+<sub>By Kate Kelly and Rebecca Davis O’Brien</sub>
+<p>Powerful players in the business world have gravitated toward Nikki Haley, aware that she remains an underdog but beginning to believe she has a chance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Rioters Clash With Police in Dublin After Children Hurt in Knife Attack</h3>
-<sub>By Emma Bubola</sub>
-<p>A suspect was in custody after a woman and three children were injured in the Irish capital. After the incident, riots that the police said were driven by “misinformation” about the attack erupted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<h3>The Country Where Houses Are Bought in $100 Bills</h3>
+<sub>By Jack Nicas, Natalie Alcoba and Lucía Cholakian Herrera</sub>
+<p>Years of economic quagmire created an upside-down economy in Argentina. Javier Milei won the presidency by promising to blow it all up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-crosswords-blue" alt="">
-<h3>Turkey Doesn’t Have to Be the Only Game at the Table</h3>
-<sub>By New York Times Games</sub>
-<p>NYT Games has made puzzles to play with your family before, during or after the Thanksgiving meal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Russia’s Pop Star Exiles, a Moral Stand and a Creative Climb</h3>
+<sub>By Paul Sonne and Alex Marshall</sub>
+<p>Monetochka was one of Russia’s most discussed pop stars. Now, like other antiwar acts in exile, she’s having to retool her career.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-sports-blue" alt="">
+<h3>Baseball Flourishes in Colombia’s Capital. But Not Because of Colombians.</h3>
+<sub>By James Wagner</sub>
+<p>In a Bogotá league, Venezuelans who fled their homeland have carried on their culture in a country surrounded by soccer — and have built a support system. “It’s like having a piece of Venezuela here.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Oscar Pistorius, Olympic Athlete Convicted of Murder, Will Be Released on Parole</h3>
+<sub>By Lynsey Chutel</sub>
+<p>The South African sprinter, who garnered global headlines after killing his girlfriend in 2013, will be released in January.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Lived a Frugal Life. Then He Left Millions to His New Hampshire Town.</h3>
@@ -104,35 +128,11 @@ Right now, there is a lot going on around the world. In the Middle East, Israel 
 <p>When Geoffrey Holt died in June, his will revealed a secret: He had $3.8 million, and he was leaving all of it to the town of Hinsdale, where he had been living quietly in a trailer park.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Retailers Worry About Shoppers’ Mood This Holiday Season</h3>
-<sub>By Julie Creswell, Jeanna Smialek and Jordyn Holman</sub>
-<p>Consumer spending has been strong in 2023 despite higher prices and waning savings. But some retailers have jitters heading into Black Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Charles Peters, Founder of The Washington Monthly, Dies at 96</h3>
-<sub>By Robert D. McFadden</sub>
-<p>His political journal challenged liberal and conservative orthodoxies for decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>100 Notable Books of 2023</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>Here are the year’s notable fiction, poetry and nonfiction, chosen by the staff of The New York Times Book Review.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The 25 Things I’m Thankful for in American Politics</h3>
-<sub>By Michelle Cottle</sub>
-<p>Or 26, if you count not sharing the stuffing with George Santos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Why Is Everyone So Grumpy?</h3>
-<sub>By Binyamin Appelbaum and Peter Coy</sub>
-<p>About the economy, that is.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Keep Thanksgiving Going With This Leftover Turkey Soup</h3>
+<sub>By Melissa Clark</sub>
+<p>This fragrant recipe filled with chickpeas and farro is a cozy destination for the last of the holiday’s spread.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
