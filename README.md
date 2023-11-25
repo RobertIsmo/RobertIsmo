@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 25, Central Standard Time</p>
 <p>
-There is a tense, temporary truce between Israel and Hamas right now after seven weeks of war. As part of the truce, Hamas had freed two dozen hostages and Israel released 39 imprisoned Palestinians, with more than 130 aid trucks reaching Gaza as well. In the West Bank, families waited outside a prison to welcome their loved ones who were detained by Israel during the conflict in Gaza. Meanwhile, Israelis welcomed 13 Israeli hostages home from Hamas with some hope for the nation. Those hostages were all women and children, and we know that five others have been released or rescued earlier in the fighting as well. 
-
-In other news, former Minneapolis police officer Derek Chauvin was recently sentenced to more than 20 years in prison for murdering George Floyd and was stabbed in Federal prison recently. The jury deliberated for just over 10 hours before pronouncing him guilty on all three charges: second-degree murder, third-degree murder and second-degree manslaughter. 
-
-X may potentially lose up to $75 million in revenue as more advertisers are pulling out due to Elon Musk’s endorsement of an antisemitic conspiracy theory. Acapulco is also facing a huge problem after a hurricane passed through - 666,000 tons of garbage are overwhelming the city are causing residents to suffer from rashes and stomach illnesses related to unsanitary conditions. North Korean soccer prodigy Han Kwang-song has recently re-emerged and played in World Cup qualifiers since U.N sanctions caused him an involuntary career break last year. 
-
-Finally, a Bentley luxury car packed with power was involved in a deadly border bridge crash that killed two business owners near Niagara Falls in New York. To wrap it up with immigration news: growing numbers of Chinese migrants have been crossing the southern border into the United States over the past year - 24,000 citizens have been apprehended so far which is way more than in the preceding 10 years combined. Georgia&#39;s liberal organizers have also expressed concern over their strategy shifting due to budget issues and apathy mainly coming from political changes.</p>
+There&#39;s been a lot of important events going on lately around the world. In the West Bank, people who had been detained by Israel were released, with families waiting outside a prison to celebrate but with the conflict in Gaza and rising death toll casting a pall over any celebration. 13 Israeli hostages were also welcomed home after being freed following a Hamas assault. In other news, Chinese citizens have been apprehended crossing into the US from Mexico in record numbers, and there has been severe flooding in Acapulco after a hurricane that has led to 666,000 tons of garbage overwhelming the city. Closer to home, Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd in 2020 was reportedly stabbed in federal prison and some major companies like Airbnb, Coca-Cola, and Microsoft have pulled their ads from X after Elon Musk&#39;s endorsement of an antisemitic conspiracy theory. Finally, Dean Phillips, a congressman from Minnesota and Democrat challenging Joe Biden in his re-election campaign recently announced he will not be seeking re-election himself.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>First Captives Freed in Tense Gaza Truce Between Israel and Hamas</h3>
-<sub>By Patrick Kingsley, Christina Goldbaum, Rami Nazzal and Alan Yuhas</sub>
-<p>Hamas freed two dozen hostages, Israel released 39 imprisoned Palestinians, and more than 130 aid trucks reached Gaza over the first day of a tense, temporary truce after seven weeks of war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In West Bank, Cheers and Worries After Prisoners Are Released</h3>
 <sub>By Christina Goldbaum and Rami Nazzal</sub>
@@ -138,6 +126,12 @@ Finally, a Bentley luxury car packed with power was involved in a deadly border 
 <h3>Georgia’s Liberal Organizers Warn of a Cash Crunch and Apathy</h3>
 <sub>By Maya King and Nick Corasaniti</sub>
 <p>Cost-conscious shifts in strategy and a changed political landscape have stoked fears about the groups’ ability to keep delivering victories for Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Dean Phillips, Democrat Challenging Biden, Won’t Seek Re-election</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Mr. Phillips, 54, a congressman from Minnesota, has called for a new generation of leadership in Washington as he mounts a long-shot bid against his party’s incumbent president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
