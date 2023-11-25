@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 25, Central Standard Time</p>
 <p>
-There&#39;s been a lot of important events going on lately around the world. In the West Bank, people who had been detained by Israel were released, with families waiting outside a prison to celebrate but with the conflict in Gaza and rising death toll casting a pall over any celebration. 13 Israeli hostages were also welcomed home after being freed following a Hamas assault. In other news, Chinese citizens have been apprehended crossing into the US from Mexico in record numbers, and there has been severe flooding in Acapulco after a hurricane that has led to 666,000 tons of garbage overwhelming the city. Closer to home, Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd in 2020 was reportedly stabbed in federal prison and some major companies like Airbnb, Coca-Cola, and Microsoft have pulled their ads from X after Elon Musk&#39;s endorsement of an antisemitic conspiracy theory. Finally, Dean Phillips, a congressman from Minnesota and Democrat challenging Joe Biden in his re-election campaign recently announced he will not be seeking re-election himself.</p>
+There&#39;s been a lot going on in the world lately. Recently, a group of 13 Israeli hostages returned home after being taken by Hamas. Unfortunately, Gaza civilians are being killed at an unprecedented rate as a result of an Israeli barrage. On a more positive note, Derek Chauvin was convicted for murdering George Floyd and sentenced to over 20 years in prison, marking a rare rebuke of police misconduct. In other news, companies like Airbnb and Coca-Cola have pulled their ads from X due to Elon Musk promoting antisemitic conspiracy theories. In Europe, disabled women are still facing sterilization despite bans prohibiting the practice. To top it all off, there was a military-style drone attack in Kyiv, Ukraine this past Saturday. All in all, it&#39;s been quite a month for news!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In West Bank, Cheers and Worries After Prisoners Are Released</h3>
-<sub>By Christina Goldbaum and Rami Nazzal</sub>
-<p>Families that waited outside a prison for the release of people detained by Israel said the conflict in Gaza and the rising death toll had cast a pall over any celebration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Poignant Moment, Israelis Welcome Some Hostages Home</h3>
 <sub>By Isabel Kershner</sub>
@@ -75,10 +69,10 @@ There&#39;s been a lot of important events going on lately around the world. In 
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s what we know about the released Israeli hostages.</h3>
-<sub>By Nadav Gavrielov, Isabel Kershner, Adam Sella, Gaya Gupta, Talya Minsberg and Patrick Kingsley</sub>
-<p>The first group of 13 Israeli hostages — all women and children — were handed over to Israeli officials on Friday, joining five others released or rescued earlier in the fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<h3>Gaza Civilians, Under Israeli Barrage, Are Being Killed at Historic Pace</h3>
+<sub>By Lauren Leatherby</sub>
+<p>In less than two months, more than twice as many women and children have been reported killed in Gaza than in Ukraine after two years of war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Derek Chauvin Is Said to Have Been Stabbed in Federal Prison</h3>
@@ -92,6 +86,12 @@ There&#39;s been a lot of important events going on lately around the world. In 
 <p>A jury deliberated for just over 10 hours before pronouncing Mr. Chauvin guilty on all three charges: second-degree murder, third-degree murder and second-degree manslaughter.  <a href="https://nyti.ms/3sFuUz0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, April 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Would Donald Trump Choose as His Running Mate?</h3>
+<sub>By Michael C. Bender and Rebecca Lieberman</sub>
+<p>While voting has yet to begin for the G.O.P. primary, Donald Trump has casually weighed the pros and cons of some contenders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>X May Lose Up to $75 Million in Revenue as More Advertisers Pull Out</h3>
 <sub>By Ryan Mac and Kate Conger</sub>
@@ -99,40 +99,40 @@ There&#39;s been a lot of important events going on lately around the world. In 
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cockroaches and Mountains of Trash Plague Acapulco After Hurricane</h3>
-<sub>By Zolan Kanno-Youngs and Emiliano Rodríguez Mega</sub>
-<p>Residents complain of rashes and stomach ailments as 666,000 tons of garbage overwhelm the city. Uncollected waste after natural disasters can lead to illnesses, experts said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Despite Bans, Disabled Women Are Still Being Sterilized in Europe</h3>
+<sub>By Sarah Hurtes</sub>
+<p>Governments have declared the practice a human rights violation. But they have made exceptions that are divisive among parents, doctors and social workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Þrátt fyrir bönn eru ófrjósemisaðgerðir enn gerðar á fötluðum konum í Evrópu</h3>
+<sub>By Sarah Hurtes</sub>
+<p>Ríki hafa lýst því yfir að slíkt sé mannréttindabrot. Engu að síður hafa verið gerðar undantekningar sem eru umdeildar meðal foreldra, lækna og félagsráðgjafa.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Chapter 6: Struggle and Hope</h3>
+<sub>By Emily Schmall, Amanda Taub, Shalini Venugopal Bhagat, Andrea Bruce and Saumya Khandelwal</sub>
+<p>Arti passed every test for her government job but still faced disappointment and a new set of challenges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Surviving Winter in a Decimated Ukrainian Village</h3>
+<sub>By Emile Ducke and Thomas Gibbons-Neff</sub>
+<p>Winter in Ukraine’s eastern steppe brings an inescapable cold. The wind blowing through damaged homes, the shattered windows, the chill in your bones — it feels as if it will be permanent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a North Korean Soccer Prodigy Vanished, and Re-emerged</h3>
-<sub>By Mike Ives and John Yoon</sub>
-<p>Han Kwang-song’s recent appearances in World Cup qualifiers were his first ones overseas since 2020, when U.N. sanctions led to an involuntary career break.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
+<h3>Attack Drones Bombard Kyiv</h3>
+<sub>By Marc Santora</sub>
+<p>The aerial assault, with what Ukrainian officials called a record number of drones, began early Saturday and continued past sunrise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Bentley in Border Bridge Crash Was a Luxury Car Packed With Power</h3>
-<sub>By Ashley Southall and Jesse McKinley</sub>
-<p>The 2022 Flying Spur could reach 60 miles per hour in four seconds. The couple who died inside were business owners from a town near Niagara Falls, N.Y.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Growing Numbers of Chinese Migrants Are Crossing the Southern Border</h3>
-<sub>By Eileen Sullivan</sub>
-<p>More than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Georgia’s Liberal Organizers Warn of a Cash Crunch and Apathy</h3>
-<sub>By Maya King and Nick Corasaniti</sub>
-<p>Cost-conscious shifts in strategy and a changed political landscape have stoked fears about the groups’ ability to keep delivering victories for Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Dean Phillips, Democrat Challenging Biden, Won’t Seek Re-election</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Mr. Phillips, 54, a congressman from Minnesota, has called for a new generation of leadership in Washington as he mounts a long-shot bid against his party’s incumbent president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Rust’ Killing Forces Hollywood to Make Choices on Guns</h3>
+<sub>By Julia Jacobs</sub>
+<p>Real guns or replicas? Blank fire or special effects? The killing of a cinematographer on a film set has some in the industry rethinking their approach to firearms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
