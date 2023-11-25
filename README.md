@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, November 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Between Israel and Hamas, there has been tension and conflict, which resulted in dozens of hostages being released. In the West Bank, families who have been waiting outside prisons for people detained by Israel had to deal with the rising death toll. Some hope has come when Israeli officials received over 200 hostages, including 13 women and children. There are also struggles going on within businesses -- companies like Airbnb, Coca-Cola, and Microsoft are withdrawing their ads from social media platforms due to their endorsement of antisemitic conspiracy theories. Moving on to the environment, powerful players are blocking efforts to conserve groundwater resources. Also here in the US, Chinese migrants are crossing the southern border in much larger numbers than they used to. In Ireland&#39;s capital, rumors online about an attack on children led to rioting, and North Korean soccer prodigy Han Kwang-song recently appeared in World Cup qualifiers after an involuntary career break due to UN sanctions. Lastly, French critics have called out Ridley Scott&#39;s new biopic about Napoleon as lazy, pointless, boring, migraine-inducing, too short and historically inaccurate.</p>
+There is currently a tense truce between Israel and Hamas following seven weeks of war. As part of the truce, Hamas has released two dozen hostages and Israel has released 39 imprisoned Palestinians. Over 130 aid trucks have reached Gaza on the first day of the truce. In West Bank, families waited outside a prison for the release of people detained by Israel while in Israel 13 Israeli hostages were released back home. Meanwhile in the business world, several companies are facing huge financial losses due to one CEO&#39;s endorsement of an antisemitic conspiracy theory. In the US, more and more Chinese citizens are crossing into the US from Mexico and in Georgia liberal organizers are struggling to keep organized efforts going amid a changed political landscape. Additionally, a North Korean soccer prodigy recently made an international appearance for the first time since 2020 when UN sanctions led to his career break. Finally, a new biopic about Napoleon has recently been released to mixed reviews from French critics.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>First Captives Freed in Tense Gaza Truce Between Israel and Hamas</h3>
@@ -110,12 +110,6 @@ There is a lot happening in the world right now. Between Israel and Hamas, there
 <p>More than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘It Snowballed:’ How a Knife Attack in Dublin Led to a Riot</h3>
-<sub>By Isabella Kwai and Adam Satariano</sub>
-<p>The violence in Ireland’s capital on Thursday night was fueled by far-right agitators who spread rumors online about an attack on three children earlier that day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Georgia’s Liberal Organizers Warn of a Cash Crunch and Apathy</h3>
 <sub>By Maya King and Nick Corasaniti</sub>
@@ -132,6 +126,12 @@ There is a lot happening in the world right now. Between Israel and Hamas, there
 <h3>France Scoffs at an Englishman’s ‘Napoleon’</h3>
 <sub>By Catherine Porter</sub>
 <p>French critics considered Ridley Scott’s new biopic lazy, pointless, boring, migraine-inducing, too short and historically inaccurate. And that’s just to start.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Very Good Reason People Like George Santos Lie About Nonsense</h3>
+<sub>By Elizabeth Spiers</sub>
+<p>If you’re laughing, it’s working.   <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
