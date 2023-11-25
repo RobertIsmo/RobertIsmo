@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 25, Central Standard Time</p>
 <p>
-There have been several major news stories lately. In Israel, there was a glimmer of hope when thirteen hostages were returned out of more than two hundred after a Hamas assault. Meanwhile, in the United States, Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd in 2020, was reportedly stabbed in federal prison while serving a sentence of more than 20 years. There&#39;s also been some controversy surrounding Elon Musk for promoting an anti-Semitic conspiracy theory which is causing companies such as Airbnb to pull their advertising from his platform. 
-
-In Europe, disabled women are still being sterilized despite bans on the practice being in effect which has led to divisions amongst parents, doctors and social workers. Over in Ukraine, they are facing freezing temperatures with many people living in damaged homes due to the ongoing conflict there. Russia has allegedly bombarded Kiev with the largest drone assault seen so far this year and Hollywood has had to reevaluate the use of firearms on set following the death of a cinematographer due to an accident with one. 
-
-Finally here in the US, an Atlanta suburb (Peachtree City) has become well known for its recreational use of golf carts by teens who are able to experience freedom by taking life by the wheel.</p>
+There is a moment of hope in Israel as some hostages have been welcomed home out of more than 200 taken during an assault. In the US, Derek Chauvin, a former Minneapolis police officer convicted of murdering George Floyd last year, has been reportedly attacked in federal prison. Donald Trump is considering choosing a running mate for his re-election bid. In Europe, disabled women are still being sterilized despite bans on it called a human rights violation. In Ukraine, villages are decimated by an onslaught of drones and harsh winter conditions. Meanwhile in the US, mainstream Republican leaders have been overrun by far-right populists. The film industry is rethinking its use of guns after a cinematographer was killed on set due to negligence with firearms. Meanwhile teens in Peachtree City, Ga., take life into their own hands by driving golf carts at 10mph. And finally there&#39;s an oral history of Jezebel and a list of 100 notable books coming out this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Poignant Moment, Israelis Welcome Some Hostages Home</h3>
@@ -84,12 +80,6 @@ Finally here in the US, an Atlanta suburb (Peachtree City) has become well known
 <p>While voting has yet to begin for the G.O.P. primary, Donald Trump has casually weighed the pros and cons of some contenders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>X May Lose Up to $75 Million in Revenue as More Advertisers Pull Out</h3>
-<sub>By Ryan Mac and Kate Conger</sub>
-<p>Internal documents show companies like Airbnb, Coca-Cola and Microsoft have halted ads, or may do so, after Elon Musk’s endorsement of an antisemitic conspiracy theory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Despite Bans, Disabled Women Are Still Being Sterilized in Europe</h3>
 <sub>By Sarah Hurtes</sub>
@@ -106,6 +96,12 @@ Finally here in the US, an Atlanta suburb (Peachtree City) has become well known
 <h3>Chapter 6: Struggle and Hope</h3>
 <sub>By Emily Schmall, Amanda Taub, Shalini Venugopal Bhagat, Andrea Bruce and Saumya Khandelwal</sub>
 <p>Arti passed every test for her government job but still faced disappointment and a new set of challenges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Behind Johnson’s Rise, a G.O.P. Consumed by the Far Right</h3>
+<sub>By Carl Hulse</sub>
+<p>After their party was decimated in the 2008 elections, mainstream Republican leaders believed they could harness rising far-right populist forces. Instead, they were overrun by them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
