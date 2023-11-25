@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 25, Central Standard Time</p>
 <p>
-There is a moment of hope in Israel as some hostages have been welcomed home out of more than 200 taken during an assault. In the US, Derek Chauvin, a former Minneapolis police officer convicted of murdering George Floyd last year, has been reportedly attacked in federal prison. Donald Trump is considering choosing a running mate for his re-election bid. In Europe, disabled women are still being sterilized despite bans on it called a human rights violation. In Ukraine, villages are decimated by an onslaught of drones and harsh winter conditions. Meanwhile in the US, mainstream Republican leaders have been overrun by far-right populists. The film industry is rethinking its use of guns after a cinematographer was killed on set due to negligence with firearms. Meanwhile teens in Peachtree City, Ga., take life into their own hands by driving golf carts at 10mph. And finally there&#39;s an oral history of Jezebel and a list of 100 notable books coming out this year.</p>
+There is a lot going on in the world right now. In Israel, 13 hostages were released after being held for months by Hamas, providing the nation with hope during a difficult time. In Minnesota, convicted murderer Derek Chauvin was attacked while in federal prison, giving rise to new questions about security procedures. Meanwhile, in Europe, despite bans on the practice, disabled women are still being sterilized. Here in the US, questions have been raised about who Donald Trump might choose as a running mate, and how right-wing populist forces have taken over mainstream Republican politics. Hollywood has also started to reevaluate its approach to guns following a fatal shooting on a film set. And finally, teen freedom is alive and well in one Atlanta suburb — but only if they&#39;re driving at 10 mph!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Poignant Moment, Israelis Welcome Some Hostages Home</h3>
@@ -69,15 +69,27 @@ There is a moment of hope in Israel as some hostages have been welcomed home out
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Derek Chauvin Is Said to Have Been Stabbed in Federal Prison</h3>
+<h3>Derek Chauvin Is Stabbed in Federal Prison, Minnesota Attorney General Says</h3>
 <sub>By Glenn Thrush and Nicholas Bogel-Burroughs</sub>
 <p>Mr. Chauvin, a former Minneapolis police officer who was convicted of murdering George Floyd during a 2020 arrest, was serving a sentence of more than 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Stabbing of Derek Chauvin: What We Know</h3>
+<sub>By Colbi Edmonds, Glenn Thrush and Nicholas Bogel-Burroughs</sub>
+<p>The attack in an Arizona prison was the latest violent episode involving a high-profile inmate at a federal correctional facility.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Would Donald Trump Choose as His Running Mate?</h3>
 <sub>By Michael C. Bender and Rebecca Lieberman</sub>
 <p>While voting has yet to begin for the G.O.P. primary, Donald Trump has casually weighed the pros and cons of some contenders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Behind Johnson’s Rise, a G.O.P. Consumed by the Far Right</h3>
+<sub>By Carl Hulse</sub>
+<p>After their party was decimated in the 2008 elections, mainstream Republican leaders believed they could harness rising far-right populist forces. Instead, they were overrun by them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,22 +110,10 @@ There is a moment of hope in Israel as some hostages have been welcomed home out
 <p>Arti passed every test for her government job but still faced disappointment and a new set of challenges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind Johnson’s Rise, a G.O.P. Consumed by the Far Right</h3>
-<sub>By Carl Hulse</sub>
-<p>After their party was decimated in the 2008 elections, mainstream Republican leaders believed they could harness rising far-right populist forces. Instead, they were overrun by them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Surviving Winter in a Decimated Ukrainian Village</h3>
-<sub>By Emile Ducke and Thomas Gibbons-Neff</sub>
-<p>Winter in Ukraine’s eastern steppe brings an inescapable cold. The wind blowing through damaged homes, the shattered windows, the chill in your bones — it feels as if it will be permanent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Bombards Kyiv With ‘Record’ Drone Assault, Ukraine Says</h3>
-<sub>By Marc Santora</sub>
-<p>The aerial assault began early Saturday and continued past sunrise. Ukraine said its air defense teams had shot down nearly all of the explosive-laden attack drones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>At Meta, Millions of Underage Users Were an ‘Open Secret,’ States Say</h3>
+<sub>By Natasha Singer</sub>
+<p>Meta “routinely documented” children under 13 on Instagram and “unlawfully” collected their data, according to a newly unsealed complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
