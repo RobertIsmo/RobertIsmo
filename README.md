@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 25, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world lately. Recently, a group of 13 Israeli hostages returned home after being taken by Hamas. Unfortunately, Gaza civilians are being killed at an unprecedented rate as a result of an Israeli barrage. On a more positive note, Derek Chauvin was convicted for murdering George Floyd and sentenced to over 20 years in prison, marking a rare rebuke of police misconduct. In other news, companies like Airbnb and Coca-Cola have pulled their ads from X due to Elon Musk promoting antisemitic conspiracy theories. In Europe, disabled women are still facing sterilization despite bans prohibiting the practice. To top it all off, there was a military-style drone attack in Kyiv, Ukraine this past Saturday. All in all, it&#39;s been quite a month for news!</p>
+There have been several major news stories lately. In Israel, there was a glimmer of hope when thirteen hostages were returned out of more than two hundred after a Hamas assault. Meanwhile, in the United States, Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd in 2020, was reportedly stabbed in federal prison while serving a sentence of more than 20 years. There&#39;s also been some controversy surrounding Elon Musk for promoting an anti-Semitic conspiracy theory which is causing companies such as Airbnb to pull their advertising from his platform. 
+
+In Europe, disabled women are still being sterilized despite bans on the practice being in effect which has led to divisions amongst parents, doctors and social workers. Over in Ukraine, they are facing freezing temperatures with many people living in damaged homes due to the ongoing conflict there. Russia has allegedly bombarded Kiev with the largest drone assault seen so far this year and Hollywood has had to reevaluate the use of firearms on set following the death of a cinematographer due to an accident with one. 
+
+Finally here in the US, an Atlanta suburb (Peachtree City) has become well known for its recreational use of golf carts by teens who are able to experience freedom by taking life by the wheel.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In a Poignant Moment, Israelis Welcome Some Hostages Home</h3>
@@ -68,23 +72,11 @@ There&#39;s been a lot going on in the world lately. Recently, a group of 13 Isr
 <p>The return of 13 Israeli hostages out of more than 200 provided a glimmer of hope for a nation still traumatized by the Hamas assault of Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza Civilians, Under Israeli Barrage, Are Being Killed at Historic Pace</h3>
-<sub>By Lauren Leatherby</sub>
-<p>In less than two months, more than twice as many women and children have been reported killed in Gaza than in Ukraine after two years of war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Derek Chauvin Is Said to Have Been Stabbed in Federal Prison</h3>
 <sub>By Glenn Thrush and Nicholas Bogel-Burroughs</sub>
 <p>Mr. Chauvin, a former Minneapolis police officer who was convicted of murdering George Floyd during a 2020 arrest, was serving a sentence of more than 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Derek Chauvin Verdict Brings a Rare Rebuke of Police Misconduct</h3>
-<sub>By John Eligon, Tim Arango, Shaila Dewan and Nicholas Bogel-Burroughs</sub>
-<p>A jury deliberated for just over 10 hours before pronouncing Mr. Chauvin guilty on all three charges: second-degree murder, third-degree murder and second-degree manslaughter.  <a href="https://nyti.ms/3sFuUz0"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, April 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Would Donald Trump Choose as His Running Mate?</h3>
@@ -123,9 +115,9 @@ There&#39;s been a lot going on in the world lately. Recently, a group of 13 Isr
 <sub><sub>Friday, November 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Attack Drones Bombard Kyiv</h3>
+<h3>Russia Bombards Kyiv With ‘Record’ Drone Assault, Ukraine Says</h3>
 <sub>By Marc Santora</sub>
-<p>The aerial assault, with what Ukrainian officials called a record number of drones, began early Saturday and continued past sunrise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The aerial assault began early Saturday and continued past sunrise. Ukraine said its air defense teams had shot down nearly all of the explosive-laden attack drones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -133,6 +125,18 @@ There&#39;s been a lot going on in the world lately. Recently, a group of 13 Isr
 <sub>By Julia Jacobs</sub>
 <p>Real guns or replicas? Blank fire or special effects? The killing of a cinematographer on a film set has some in the industry rethinking their approach to firearms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In This Atlanta Suburb, Teens Taste Freedom at 10 M.P.H.</h3>
+<sub>By Rick Rojas and Gabriela Bhaskar</sub>
+<p>In Peachtree City, Ga., golf carts are everywhere, giving young people in particular an early chance to take life by the wheel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>An oral history of Jezebel. Also: Rosalynn Carter’s style and 100 notable books of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
