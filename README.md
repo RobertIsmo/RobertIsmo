@@ -60,12 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Gaza, families are struggling to find food and water, and burning furniture for fuel because there is no coal or fuel available. Meanwhile, reports have emerged about Donald Trump&#39;s questionable use of presidential pardons connected to the Kushner family. U.S. troops are being exposed to weapons with known risks of brain injury despite safety warnings. Phil Klay, an acclaimed author and military veteran, has commented on finding a moral center in this era of war. The current migrant crisis has been compared to the experience of Jewish refugees fleeing Europe after WWII, while more than three dozen incumbents of Congress have announced they will not seek re-election next year, which could influence the fight for control of Congress in 2024. In West Africa therapy is being provided by hairdressers due to lack of access to other mental health services. Finally, there are some notable books out right now, as well as an oral history of Jezebel and a quiz on historical events.</p>
+In the US, there are reports of troops being exposed to weapons that could cause serious brain injuries, and a commutation for a drug smuggler that may have connections to the Trump family. There&#39;s also an investigation into Trump&#39;s pardon for Jonathan Braun. Meanwhile, life in Gaza is incredibly tough due to practically no fuel or coal, and Hamas has declared a commander dead.
+
+On the international front, there are stories about finding moral centers during war times and the experience of a Holocaust refugee coming to New York City. In West Africa, a program is providing access to mental health counseling by training hairdressers. 
+
+Finally, there is news about members of the US Congress heading for the exits, setting up fights for 2024 control, and Johnson&#39;s rise with the GOP becoming more right-wing than expected.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
+<sub>By Dave Philipps</sub>
+<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Went Back to the Stone Age’</h3>
 <sub>By Matina Stevis-Gridneff, Hiba Yazbek, Abu Bakr Bashir, Ameera Harouda, Samar Abu Elouf and Yousef Masoud</sub>
 <p>Life in besieged Gaza revolves around a daily struggle to find food and water. With practically no fuel or coal, families are burning doors and window frames to cook what they can scrounge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hamas Says Commander of Its Northern Gaza Brigade Is Dead</h3>
+<sub>By Iyad Abuheweila</sub>
+<p>The group’s military wing, the Qassam Brigades, announced that Abu Anas al-Ghandour and three others had been killed. It did not say when.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -78,12 +94,6 @@ There is a lot going on in the world right now. In Gaza, families are struggling
 <h3>3 Takeaways From the Investigation Into Trump’s Pardon of Jonathan Braun</h3>
 <sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
 <p>Mr. Braun was still under investigation by the Justice Department at the time of his pardon. Here are some key points about the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
-<sub>By Dave Philipps</sub>
-<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -127,12 +137,6 @@ There is a lot going on in the world right now. In Gaza, families are struggling
 <sub>By The New York Times</sub>
 <p>An oral history of Jezebel. Also: Rosalynn Carter’s style and 100 notable books of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Flashback: Your Weekly History Quiz, November 26, 2023</h3>
-<sub></sub>
-<p>Can you sort 8 historical events? Credit cards, white wedding dresses, and corporate boards.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
