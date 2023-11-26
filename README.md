@@ -60,31 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-There are a lot of interesting news stories around the world happening right now. In Israel, hostages were released on Saturday. In the US, there were questions raised about inmate safety after the stabbing of a former police officer in prison. Also in the US, people are speculating about who Donald Trump may choose to run as his Vice President. On the other side of the world, South Korea is celebrating books and showing their commitment to them with something called Paju Book City. Additionally, recently 60 million children have been identified as having not received any vaccines at all and need protection from deadly outbreaks. There&#39;s also interesting stories about soccer fans watching watchalongs instead broadcasts, how electricity is changing per country, Hollywood making choices on guns in movie productions, and finally a report from The Weekender covering the oral history of Jezebel and more!</p>
+There is a lot going on in the world right now. In Gaza, families are struggling to find food and water, and burning furniture for fuel because there is no coal or fuel available. Meanwhile, reports have emerged about Donald Trump&#39;s questionable use of presidential pardons connected to the Kushner family. U.S. troops are being exposed to weapons with known risks of brain injury despite safety warnings. Phil Klay, an acclaimed author and military veteran, has commented on finding a moral center in this era of war. The current migrant crisis has been compared to the experience of Jewish refugees fleeing Europe after WWII, while more than three dozen incumbents of Congress have announced they will not seek re-election next year, which could influence the fight for control of Congress in 2024. In West Africa therapy is being provided by hairdressers due to lack of access to other mental health services. Finally, there are some notable books out right now, as well as an oral history of Jezebel and a quiz on historical events.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s what we know about the Israeli hostages released on Saturday.</h3>
-<sub>By Isabel Kershner, Gaya Gupta and Nadav Gavrielov</sub>
-<p>A second group of 13 included six members of an extended family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<h3>‘We Went Back to the Stone Age’</h3>
+<sub>By Matina Stevis-Gridneff, Hiba Yazbek, Abu Bakr Bashir, Ameera Harouda, Samar Abu Elouf and Yousef Masoud</sub>
+<p>Life in besieged Gaza revolves around a daily struggle to find food and water. With practically no fuel or coal, families are burning doors and window frames to cook what they can scrounge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stabbing of Derek Chauvin Raises Questions About Inmate Safety</h3>
-<sub>By Glenn Thrush and Serge F. Kovaleski</sub>
-<p>The former police officer was being held in a specialized federal facility for high-profile inmates. He is said to be likely to survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<h3>A Troubling Trump Pardon and a Link to the Kushners</h3>
+<sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>A commutation for a drug smuggler named Jonathan Braun had broader implications than previously known. It puts new focus on how Donald Trump would use his clemency powers in a second term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Stabbing of Derek Chauvin: What We Know</h3>
-<sub>By Colbi Edmonds, Glenn Thrush and Nicholas Bogel-Burroughs</sub>
-<p>The attack in an Arizona prison was the latest violent episode involving a high-profile inmate at a federal correctional facility.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<h3>3 Takeaways From the Investigation Into Trump’s Pardon of Jonathan Braun</h3>
+<sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
+<p>Mr. Braun was still under investigation by the Justice Department at the time of his pardon. Here are some key points about the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Would Donald Trump Choose as His Running Mate?</h3>
-<sub>By Michael C. Bender and Rebecca Lieberman</sub>
-<p>While voting has yet to begin for the G.O.P. primary, Donald Trump has casually weighed the pros and cons of some contenders.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
+<sub>By Dave Philipps</sub>
+<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Finding a Moral Center in This Era of War</h3>
+<sub>By David Marchese</sub>
+<p>“The idea that we must close our eyes to suffering that is not ideologically useful is morally degrading,” says the acclaimed author and military veteran Phil Klay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What Today’s Migrant Crisis Looks Like to a Holocaust Refugee</h3>
+<sub>By Joseph Berger</sub>
+<p>A firsthand account of arriving to New York City as one of the 140,000 Jewish refugees who fled postwar Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Members of Congress Head for the Exits, Many Citing Dysfunction</h3>
+<sub>By Kayla Guo</sub>
+<p>More than three dozen incumbents have announced they will not seek re-election next year. Some are running for other offices, while others intend to leave Congress altogether.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the Members of Congress Giving Up Their Seats, Setting Up a 2024 Fight</h3>
+<sub>By Robert Jimison</sub>
+<p>The fight for control of Congress could be heavily influenced by the already large number of members retiring or seeking higher office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Behind Johnson’s Rise, a G.O.P. Consumed by the Far Right</h3>
@@ -92,47 +116,23 @@ There are a lot of interesting news stories around the world happening right now
 <p>After their party was decimated in the 2008 elections, mainstream Republican leaders believed they could harness rising far-right populist forces. Instead, they were overrun by them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>At Meta, Millions of Underage Users Were an ‘Open Secret,’ States Say</h3>
-<sub>By Natasha Singer</sub>
-<p>Meta “routinely documented” children under 13 on Instagram and collected their data, according to a newly unsealed complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>South Korea’s City of Books</h3>
-<sub>By Chang W. Lee and Jin Yu Young</sub>
-<p>With some 900 book-related businesses, Paju Book City, northwest of Seoul, is an intentional and euphoric celebration of books and the bookmaking process.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks</h3>
-<sub>By Stephanie Nolen</sub>
-<p>About 60 million “zero-dose children” have not received any vaccines and have aged out of routine immunization programs. Protecting them will require a costly vaccination blitz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Watching People Watch a Game. With 100,000 Friends.</h3>
-<sub>By Rory Smith</sub>
-<p>Soccer fans are tuning out broadcasts in favor of watchalongs: streaming parties where you hear what you want to hear and see everything except the game.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Electricity Is Changing, Country by Country</h3>
-<sub>By Nadja Popovich</sub>
-<p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Rust’ Killing Forces Hollywood to Make Choices on Guns</h3>
-<sub>By Julia Jacobs</sub>
-<p>Real guns or replicas? Blank fire or special effects? The killing of a cinematographer on a film set has some in the industry rethinking their approach to firearms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Need Therapy? In West Africa, Hairdressers Can Help.</h3>
+<sub>By Elian Peltier</sub>
+<p>An initiative to train hairdressers in mental health counseling is providing relief to hundreds of clients in a region with the world’s least access to therapy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>An oral history of Jezebel. Also: Rosalynn Carter’s style and 100 notable books of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Flashback: Your Weekly History Quiz, November 26, 2023</h3>
+<sub></sub>
+<p>Can you sort 8 historical events? Credit cards, white wedding dresses, and corporate boards.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
