@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-This week has been incredibly newsworthy, with a lot of developments all over the world. In Israel, a group of hostages were released on Saturday after a long standoff. Here in the US, there were questions about inmate safety raised following an attack on former police officer Derek Chauvin in an Arizona prison. Donald Trump has also started considering potential running mates for the upcoming G.O.P. primary. 
-
-In other news, South Korea is celebrating books with their annual Paju Book City festival, while millions of unvaccinated children around the world remain vulnerable to deadly outbreaks. We&#39;re also seeing changes in electricity usage across countries, with some areas transitioning to more renewable sources. Finally, Hollywood is having to make tough choices when it comes to firearms usage following a fatal shooting on a film set.</p>
+There are a lot of interesting news stories around the world happening right now. In Israel, hostages were released on Saturday. In the US, there were questions raised about inmate safety after the stabbing of a former police officer in prison. Also in the US, people are speculating about who Donald Trump may choose to run as his Vice President. On the other side of the world, South Korea is celebrating books and showing their commitment to them with something called Paju Book City. Additionally, recently 60 million children have been identified as having not received any vaccines at all and need protection from deadly outbreaks. There&#39;s also interesting stories about soccer fans watching watchalongs instead broadcasts, how electricity is changing per country, Hollywood making choices on guns in movie productions, and finally a report from The Weekender covering the oral history of Jezebel and more!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s what we know about the Israeli hostages released on Saturday.</h3>
