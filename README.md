@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-In the US, there are reports of troops being exposed to weapons that could cause serious brain injuries, and a commutation for a drug smuggler that may have connections to the Trump family. There&#39;s also an investigation into Trump&#39;s pardon for Jonathan Braun. Meanwhile, life in Gaza is incredibly tough due to practically no fuel or coal, and Hamas has declared a commander dead.
-
-On the international front, there are stories about finding moral centers during war times and the experience of a Holocaust refugee coming to New York City. In West Africa, a program is providing access to mental health counseling by training hairdressers. 
-
-Finally, there is news about members of the US Congress heading for the exits, setting up fights for 2024 control, and Johnson&#39;s rise with the GOP becoming more right-wing than expected.</p>
+There are some major developments going on internationally. Israeli hostages recently released from captivity have recounted their harrowing experiences with being cut off from the outside world completely. In Gaza, desperate people are struggling to find food and water and have even resorted to burning their door and window frames in order to cook what little they can find. Hamas has confirmed the death of its northern Gaza brigade commander. Over in the US, military members continue to be exposed to brain injuries due to weapons that are still in wide use by the Pentagon despite safety concerns. There&#39;s also been a commutation of pardon for a drug smuggler named Jonathan Braun, which has raised questions about how Donald Trump would use his clemency powers if he wins reelection. Central African Republic is also seeing some heavy action as Western powers try to influence geopolitical affairs after the death of a mercenary leader there. Finally in Ukraine, a recent attack on Kyiv&#39;s energy infrastructure has led to widespread outages in Russian-occupied areas.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
-<sub>By Dave Philipps</sub>
-<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Freed Israeli Hostages Share Details of Captivity, Relatives Say</h3>
+<sub>By Isabel Kershner</sub>
+<p>Two days after the first batch of hostages was released, relatives who have spoken or met with them said they seemed to have been totally cut off from the outside world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -82,6 +78,12 @@ Finally, there is news about members of the US Congress heading for the exits, s
 <h3>Hamas Says Commander of Its Northern Gaza Brigade Is Dead</h3>
 <sub>By Iyad Abuheweila</sub>
 <p>The group’s military wing, the Qassam Brigades, announced that Abu Anas al-Ghandour and three others had been killed. It did not say when.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
+<sub>By Dave Philipps and Kenny Holston</sub>
+<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,12 +104,6 @@ Finally, there is news about members of the US Congress heading for the exits, s
 <p>“The idea that we must close our eyes to suffering that is not ideologically useful is morally degrading,” says the acclaimed author and military veteran Phil Klay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What Today’s Migrant Crisis Looks Like to a Holocaust Refugee</h3>
-<sub>By Joseph Berger</sub>
-<p>A firsthand account of arriving to New York City as one of the 140,000 Jewish refugees who fled postwar Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Members of Congress Head for the Exits, Many Citing Dysfunction</h3>
 <sub>By Kayla Guo</sub>
@@ -121,22 +117,22 @@ Finally, there is news about members of the US Congress heading for the exits, s
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind Johnson’s Rise, a G.O.P. Consumed by the Far Right</h3>
-<sub>By Carl Hulse</sub>
-<p>After their party was decimated in the 2008 elections, mainstream Republican leaders believed they could harness rising far-right populist forces. Instead, they were overrun by them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Need Therapy? In West Africa, Hairdressers Can Help.</h3>
-<sub>By Elian Peltier</sub>
-<p>An initiative to train hairdressers in mental health counseling is providing relief to hundreds of clients in a region with the world’s least access to therapy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>To Beat Trump, Nikki Haley Is Trying to Speak to All Sides of a Fractured G.O.P.</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Her campaign will test what political strategists and observers of her rise in politics have said is among her greatest political skills: an ability to massage her message to the moment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>An oral history of Jezebel. Also: Rosalynn Carter’s style and 100 notable books of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Battle for Influence Rages in Heart of Wagner’s Operations in Africa</h3>
+<sub>By Elian Peltier and Jim Huylebroek</sub>
+<p>The death of the mercenary group’s leader has created a window of opportunity in the Central African Republic for Western powers to offer an alternative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Attack Cuts Power to Some Russian-Occupied Areas</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The assault on energy infrastructure, a significant theater in the war, followed a large-scale Russian drone attack on Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
