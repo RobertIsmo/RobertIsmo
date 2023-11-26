@@ -60,30 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-There are some major developments going on internationally. Israeli hostages recently released from captivity have recounted their harrowing experiences with being cut off from the outside world completely. In Gaza, desperate people are struggling to find food and water and have even resorted to burning their door and window frames in order to cook what little they can find. Hamas has confirmed the death of its northern Gaza brigade commander. Over in the US, military members continue to be exposed to brain injuries due to weapons that are still in wide use by the Pentagon despite safety concerns. There&#39;s also been a commutation of pardon for a drug smuggler named Jonathan Braun, which has raised questions about how Donald Trump would use his clemency powers if he wins reelection. Central African Republic is also seeing some heavy action as Western powers try to influence geopolitical affairs after the death of a mercenary leader there. Finally in Ukraine, a recent attack on Kyiv&#39;s energy infrastructure has led to widespread outages in Russian-occupied areas.</p>
+There have been some weather tragedies around the world that have devastated human lives. For example, there was a four-year-old hostage released in Israel who had been held captive since her parents were murdered in an attack. In northern Gaza, impactful aid arrived from the Red Crescent for those affected by the conflict.
+
+In the US, there has been news of a Trump pardon connected to the Kushners and an investigation into it. There are also reports of US troops training on weapons with a risk of brain injury, despite regulations against it. Additionally, many congressional members have decided not to seek re-election in 2024 due to dysfunction and Nikki Haley is attempting to speak to all sides of a fractured GOP. 
+
+Finally, abroad there is a battle for control over Wagner’s operations in Africa as well as a Ukrainian attack that cut power to Russian-occupied areas.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Freed Israeli Hostages Share Details of Captivity, Relatives Say</h3>
-<sub>By Isabel Kershner</sub>
-<p>Two days after the first batch of hostages was released, relatives who have spoken or met with them said they seemed to have been totally cut off from the outside world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>After 4-Year-Old Hostage Is Freed, Her Family Breathes a Sigh of Relief</h3>
+<sub>By Anna Betts</sub>
+<p>Avigail Idan, a dual citizen of Israel and the United States, spent her fourth birthday as a captive after her parents were murdered in the Oct. 7 attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Went Back to the Stone Age’</h3>
-<sub>By Matina Stevis-Gridneff, Hiba Yazbek, Abu Bakr Bashir, Ameera Harouda, Samar Abu Elouf and Yousef Masoud</sub>
-<p>Life in besieged Gaza revolves around a daily struggle to find food and water. With practically no fuel or coal, families are burning doors and window frames to cook what they can scrounge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Here’s What We Know About the Hostages Released on Sunday</h3>
+<sub>By Isabel Kershner, Nadav Gavrielov and Katherine Rosman</sub>
+<p>The group included several children, including a 4-year-old Israeli-American girl, and a Russian-Israeli who is the first man to be released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas Says Commander of Its Northern Gaza Brigade Is Dead</h3>
-<sub>By Iyad Abuheweila</sub>
-<p>The group’s military wing, the Qassam Brigades, announced that Abu Anas al-Ghandour and three others had been killed. It did not say when.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
-<sub>By Dave Philipps and Kenny Holston</sub>
-<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Northern Gaza is getting an influx of aid, the Red Crescent says.</h3>
+<sub>By Vivian Yee</sub>
+<p>The aid group said 100 trucks of food, water, emergency medical supplies, medications and other items had arrived.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,6 +94,12 @@ There are some major developments going on internationally. Israeli hostages rec
 <h3>3 Takeaways From the Investigation Into Trump’s Pardon of Jonathan Braun</h3>
 <sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
 <p>Mr. Braun was still under investigation by the Justice Department at the time of his pardon. Here are some key points about the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
+<sub>By Dave Philipps and Kenny Holston</sub>
+<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
