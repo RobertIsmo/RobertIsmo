@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, November 25, Central Standard Time</p>
+<p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-Right now, a lot is happening around the world. In Israel, hostages were recently released. In the US, former police officer Derek Chauvin was attacked in an Arizona prison, raising questions about inmate safety. There are also rumors circulating about who Donald Trump may choose as his running mate for the G.O.P. primary election. South Korea has a city dedicated to books, while millions of unvaccinated children globally have put them at risk of contracting infectious diseases. Soccer fans are now organizing watchalongs on streaming services rather than tuning into broadcasts for their games. The world&#39;s power mix is still heavily reliant on fossil fuels but renewable energy is quickly rising in many countries. Hollywood has been making changes to their gun laws in response to the death of a cinematographer on a film set and noteworthy books slated for next year are being announced.</p>
+This week has been incredibly newsworthy, with a lot of developments all over the world. In Israel, a group of hostages were released on Saturday after a long standoff. Here in the US, there were questions about inmate safety raised following an attack on former police officer Derek Chauvin in an Arizona prison. Donald Trump has also started considering potential running mates for the upcoming G.O.P. primary. 
+
+In other news, South Korea is celebrating books with their annual Paju Book City festival, while millions of unvaccinated children around the world remain vulnerable to deadly outbreaks. We&#39;re also seeing changes in electricity usage across countries, with some areas transitioning to more renewable sources. Finally, Hollywood is having to make tough choices when it comes to firearms usage following a fatal shooting on a film set.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s what we know about the Israeli hostages released on Saturday.</h3>
