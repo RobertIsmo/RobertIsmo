@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, November 25, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, 13 hostages were released after being held for months by Hamas, providing the nation with hope during a difficult time. In Minnesota, convicted murderer Derek Chauvin was attacked while in federal prison, giving rise to new questions about security procedures. Meanwhile, in Europe, despite bans on the practice, disabled women are still being sterilized. Here in the US, questions have been raised about who Donald Trump might choose as a running mate, and how right-wing populist forces have taken over mainstream Republican politics. Hollywood has also started to reevaluate its approach to guns following a fatal shooting on a film set. And finally, teen freedom is alive and well in one Atlanta suburb — but only if they&#39;re driving at 10 mph!</p>
+In the world right now, Israel has released hostages including a family of six. Derek Chauvin, the former police officer who was found guilty of murdering George Floyd, was recently stabbed in an Arizona prison, which has raised questions about inmate safety. Meanwhile, Donald Trump is considering potential running mates for his upcoming reelection bid. In addition, there is a surge of deadly outbreaks due to 60 million children not receiving any vaccinations worldwide. On top of that, streaming parties have become popular among soccer fans who would rather watch the game with 100,000 friends than tune in to the broadcast. We are also seeing countries switch from traditional energy sources to renewable electricity, while Hollywood is rethinking its approach to firearms following the death of a cinematographer on a film set. Finally, this week Jezebel had an oral history and people remembered Rosalynn Carter’s style as well as recognizing 100 notable books set in 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Poignant Moment, Israelis Welcome Some Hostages Home</h3>
-<sub>By Isabel Kershner</sub>
-<p>The return of 13 Israeli hostages out of more than 200 provided a glimmer of hope for a nation still traumatized by the Hamas assault of Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<h3>Here’s what we know about the Israeli hostages released on Saturday.</h3>
+<sub>By Isabel Kershner, Gaya Gupta and Nadav Gavrielov</sub>
+<p>A second group of 13 included six members of an extended family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Derek Chauvin Is Stabbed in Federal Prison, Minnesota Attorney General Says</h3>
-<sub>By Glenn Thrush and Nicholas Bogel-Burroughs</sub>
-<p>Mr. Chauvin, a former Minneapolis police officer who was convicted of murdering George Floyd during a 2020 arrest, was serving a sentence of more than 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<h3>Stabbing of Derek Chauvin Raises Questions About Inmate Safety</h3>
+<sub>By Glenn Thrush and Serge F. Kovaleski</sub>
+<p>The former police officer was being held in a specialized federal facility for high-profile inmates. He is said to be likely to survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Stabbing of Derek Chauvin: What We Know</h3>
@@ -92,40 +92,40 @@ There is a lot going on in the world right now. In Israel, 13 hostages were rele
 <p>After their party was decimated in the 2008 elections, mainstream Republican leaders believed they could harness rising far-right populist forces. Instead, they were overrun by them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Despite Bans, Disabled Women Are Still Being Sterilized in Europe</h3>
-<sub>By Sarah Hurtes</sub>
-<p>Governments have declared the practice a human rights violation. But they have made exceptions that are divisive among parents, doctors and social workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Þrátt fyrir bönn eru ófrjósemisaðgerðir enn gerðar á fötluðum konum í Evrópu</h3>
-<sub>By Sarah Hurtes</sub>
-<p>Ríki hafa lýst því yfir að slíkt sé mannréttindabrot. Engu að síður hafa verið gerðar undantekningar sem eru umdeildar meðal foreldra, lækna og félagsráðgjafa.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Chapter 6: Struggle and Hope</h3>
-<sub>By Emily Schmall, Amanda Taub, Shalini Venugopal Bhagat, Andrea Bruce and Saumya Khandelwal</sub>
-<p>Arti passed every test for her government job but still faced disappointment and a new set of challenges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>At Meta, Millions of Underage Users Were an ‘Open Secret,’ States Say</h3>
 <sub>By Natasha Singer</sub>
-<p>Meta “routinely documented” children under 13 on Instagram and “unlawfully” collected their data, according to a newly unsealed complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Meta “routinely documented” children under 13 on Instagram and collected their data, according to a newly unsealed complaint.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>South Korea’s City of Books</h3>
+<sub>By Chang W. Lee and Jin Yu Young</sub>
+<p>With some 900 book-related businesses, Paju Book City, northwest of Seoul, is an intentional and euphoric celebration of books and the bookmaking process.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Unvaccinated and Vulnerable: Children Drive Surge in Deadly Outbreaks</h3>
+<sub>By Stephanie Nolen</sub>
+<p>About 60 million “zero-dose children” have not received any vaccines and have aged out of routine immunization programs. Protecting them will require a costly vaccination blitz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Watching People Watch a Game. With 100,000 Friends.</h3>
+<sub>By Rory Smith</sub>
+<p>Soccer fans are tuning out broadcasts in favor of watchalongs: streaming parties where you hear what you want to hear and see everything except the game.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, November 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Electricity Is Changing, Country by Country</h3>
+<sub>By Nadja Popovich</sub>
+<p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>‘Rust’ Killing Forces Hollywood to Make Choices on Guns</h3>
 <sub>By Julia Jacobs</sub>
 <p>Real guns or replicas? Blank fire or special effects? The killing of a cinematographer on a film set has some in the industry rethinking their approach to firearms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In This Atlanta Suburb, Teens Taste Freedom at 10 M.P.H.</h3>
-<sub>By Rick Rojas and Gabriela Bhaskar</sub>
-<p>In Peachtree City, Ga., golf carts are everywhere, giving young people in particular an early chance to take life by the wheel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
