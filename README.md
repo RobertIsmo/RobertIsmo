@@ -60,13 +60,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 27, Central Standard Time</p>
 <p>
-There have been some really heartbreaking stories in the news recently; for example, a 4-year-old Israeli-American girl was recently released from captivity after her parents were killed in an attack. On the other hand, police recently arrested a suspect in the shooting of three Palestinian college students in Vermont. Closer to home, President Trump recently gave a pardon to a drug smuggler, and there are some troubling questions being raised about it. This week also marks the beginning of an important UN Climate Summit, which Biden will be skipping. In overseas news, teams of female rangers have been tasked with protecting a tropical rainforest in Indonesia using dialogue rather than confrontation. Meanwhile, many members of Congress are calling it quits due to its dysfunction and political alliances could be heavily influenced by this in 2024. Finally, Ukraine launched an attack on Russian energy infrastructure that cut power to some occupied areas.</p>
+There are a lot of news stories to keep track of right now. In the US, Donald Trump is coasting ahead of the Iowa caucuses, while former Governor Nikki Haley and current Governor Ron DeSantis are clashing. Meanwhile, Joe Biden is having trouble connecting with young voters. On another front, police have arrested a suspect in the shooting of three Palestinian students in Vermont. In other international news, there have been several hostages released, including a 4-year-old Israeli-American girl and a Russian-Israeli man. And in Russia, women are protesting against long deployments for soldiers in Ukraine. 
+
+At home, former President Trump&#39;s pardon of a drug smuggler is raising some eyebrows - though it may be related to the Kushners. On the environment front, Biden will not be attending the UN Climate Summit. Finally, car crash victims in New York are seeking justice through a new approach - talking to drivers directly about taking responsibility for their actions.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After 4-Year-Old Hostage Is Freed, Her Family Breathes a Sigh of Relief</h3>
-<sub>By Anna Betts and Katherine Rosman</sub>
-<p>Avigail Idan, a dual citizen of Israel and the United States, spent her fourth birthday as a captive after her parents were murdered in the Oct. 7 attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Countdown to Iowa, Trump Is Coasting, as DeSantis and Haley Clash</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The former president’s chief rivals are running low on time to make a statement in Iowa’s caucuses, which could determine whether the Republicans’ nominating contest is seriously contested at all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Biden’s Weakness Among Young Voters Should Be Taken Seriously</h3>
+<sub>By Nate Cohn</sub>
+<p>Almost all the polling shows the same pattern. Could the coming campaign restore Democrats’ usual advantage?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Hostages Released on Sunday</h3>
@@ -80,22 +88,40 @@ There have been some really heartbreaking stories in the news recently; for exam
 <p>The three college students were on their way to dinner on Saturday night when the shooting occurred.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Hamas Releases More Hostages, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, a shooting wounds three Palestinian men in Vermont, and Young Thug’s lyrics are allowed as trial evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Your Child’s Online Mistake Can Ruin Your Digital Life</h3>
+<sub>By Kashmir Hill</sub>
+<p>Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Why Warblers Flock to Wealthier Neighborhoods</h3>
+<sub>By Hillary Rosner</sub>
+<p>In the unequal distribution of birds and other species, ecologists are tracing the impact of bigoted urban policies adopted decades ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Women Protest Long Deployments for Soldiers in Ukraine</h3>
+<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
+<p>“Make way for someone else,” a new grass-roots movement demands as women challenge the official argument that the mobilized troops are needed in combat indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Final Wave of Sex-Abuse Lawsuits as One-Year Window Closes in New York</h3>
+<sub>By Hurubie Meko</sub>
+<p>Since the Adult Survivors Act was passed, more than 3,000 civil suits have been filed, some aimed at politicians and others at institutions including hospitals and jails.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A Troubling Trump Pardon and a Link to the Kushners</h3>
 <sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
 <p>A commutation for a drug smuggler named Jonathan Braun had broader implications than previously known. It puts new focus on how Donald Trump would use his clemency powers in a second term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Takeaways From the Investigation Into Trump’s Pardon of Jonathan Braun</h3>
-<sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>Mr. Braun was still under investigation by the Justice Department at the time of his pardon. Here are some key points about the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Troops Still Train on Weapons With Known Risk of Brain Injury</h3>
-<sub>By Dave Philipps and Kenny Holston</sub>
-<p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -104,35 +130,11 @@ There have been some really heartbreaking stories in the news recently; for exam
 <p>He has attended the past two summits and calls climate change “the ultimate threat” but will miss the talks that are set to begin in Dubai on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Female Rangers ‘Don’t Go All Alpha Like the Men’ to Protect a Forest</h3>
-<sub>By Muktita Suhartono and Ulet Ifansasti</sub>
-<p>Rather than take a confrontational approach with trespassers looking to farm or log in a tropical rainforest in Indonesia, teams of women rangers try dialogue first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Members of Congress Head for the Exits, Many Citing Dysfunction</h3>
-<sub>By Kayla Guo</sub>
-<p>More than three dozen incumbents have announced they will not seek re-election next year. Some are running for other offices, while others intend to leave Congress altogether.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Members of Congress Giving Up Their Seats, Setting Up a 2024 Fight</h3>
-<sub>By Robert Jimison</sub>
-<p>The fight for control of Congress could be heavily influenced by the already large number of members retiring or seeking higher office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Battle for Influence Rages in Heart of Wagner’s Operations in Africa</h3>
-<sub>By Elian Peltier and Jim Huylebroek</sub>
-<p>The death of the mercenary group’s leader has created a window of opportunity in the Central African Republic for Western powers to offer an alternative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Attack Cuts Power to Some Russian-Occupied Areas</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The assault on energy infrastructure, a significant theater in the war, followed a large-scale Russian drone attack on Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Car Crash Victims Seek Justice in a New Way: Talking to the Drivers</h3>
+<sub>By Hurubie Meko</sub>
+<p>Circles for Safe Streets encourages New York drivers who hit people to take responsibility. Those who were injured can speak directly to those at fault.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
