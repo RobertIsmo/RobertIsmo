@@ -60,15 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-There have been some weather tragedies around the world that have devastated human lives. For example, there was a four-year-old hostage released in Israel who had been held captive since her parents were murdered in an attack. In northern Gaza, impactful aid arrived from the Red Crescent for those affected by the conflict.
-
-In the US, there has been news of a Trump pardon connected to the Kushners and an investigation into it. There are also reports of US troops training on weapons with a risk of brain injury, despite regulations against it. Additionally, many congressional members have decided not to seek re-election in 2024 due to dysfunction and Nikki Haley is attempting to speak to all sides of a fractured GOP. 
-
-Finally, abroad there is a battle for control over Wagner’s operations in Africa as well as a Ukrainian attack that cut power to Russian-occupied areas.</p>
+There is a lot happening in the world right now. In the Middle East, Hamas has released a group of hostages, including a 4-year-old dual American-Israeli citizen whose parents were killed in an attack, and their family is relieved. In the US, there is an investigation into the shooting of three Palestinian men as a possible hate crime, and President Trump is being scrutinized for his controversial pardon of a drug smuggler linked to Jared and Ivanka Kushner. Additionally, US troops are still training on high risk weapons with reports of brain injuries. Finally, a battle for influence is occurring in Wagner&#39;s operations in Africa following their leader&#39;s death.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Hamas Releases More Hostages, Longer Cease-Fire Appears Possible</h3>
+<sub>By Vivian Yee, Isabel Kershner and Aaron Boxerman</sub>
+<p>A third group of captives released from Gaza included a 4-year-old dual American-Israeli citizen whose parents were killed in the Hamas attack on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After 4-Year-Old Hostage Is Freed, Her Family Breathes a Sigh of Relief</h3>
-<sub>By Anna Betts</sub>
+<sub>By Anna Betts and Katherine Rosman</sub>
 <p>Avigail Idan, a dual citizen of Israel and the United States, spent her fourth birthday as a captive after her parents were murdered in the Oct. 7 attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
@@ -78,10 +80,10 @@ Finally, abroad there is a battle for control over Wagner’s operations in Afri
 <p>The group included several children, including a 4-year-old Israeli-American girl, and a Russian-Israeli who is the first man to be released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Northern Gaza is getting an influx of aid, the Red Crescent says.</h3>
-<sub>By Vivian Yee</sub>
-<p>The aid group said 100 trucks of food, water, emergency medical supplies, medications and other items had arrived.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Shooting of 3 Palestinian Men in Vermont Investigated as Possible Hate Crime</h3>
+<sub>By Emma Bubola and Amanda Holpuch</sub>
+<p>The three college students were on their way to dinner on Saturday night. The police have yet to identify a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -130,12 +132,6 @@ Finally, abroad there is a battle for control over Wagner’s operations in Afri
 <h3>Battle for Influence Rages in Heart of Wagner’s Operations in Africa</h3>
 <sub>By Elian Peltier and Jim Huylebroek</sub>
 <p>The death of the mercenary group’s leader has created a window of opportunity in the Central African Republic for Western powers to offer an alternative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Attack Cuts Power to Some Russian-Occupied Areas</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>The assault on energy infrastructure, a significant theater in the war, followed a large-scale Russian drone attack on Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
