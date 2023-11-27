@@ -60,42 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 27, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. In the US, Donald Trump is still in the lead for the Republican party nomination in Iowa, but his rivals are trying to make some last-minute statements. Joe Biden is also having difficulty among younger voters. In Israel, tech entrepreneur Elon Musk recently visited after endorsing a post with antisemitic content. And in Ukraine, there was a storm that battered civilians and soldiers while Russian women are protesting lengthy deployments for troops. New York is facing a final wave of sex abuse lawsuits too. In addition, there&#39;s a troubling Trump pardon going on that could have links to the Kushner family.</p>
+It looks like some big things are going on around the world! President Biden is focusing on ending the war between Israel and Hamas, Elon Musk recently visited Israel despite some backlash against him, and Russian women are rising up to challenge their government. In the U.S., a man was charged with shooting 3 college students of Palestinian descent in Vermont, the government is trying to untangle the ties between Chinese tech companies and an Emirati firm called G42, Trump is coasting ahead of Iowa&#39;s caucuses, kids&#39; online activities can lead to digital life problems, and we now know what Cookie Monster has been eating all this time. There are also new treatments for menopausal weight gain and certain foods that may reduce cancer risks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Countdown to Iowa, Trump Is Coasting, as DeSantis and Haley Clash</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The former president’s chief rivals are running low on time to make a statement in Iowa’s caucuses, which could determine whether the Republicans’ nominating contest is seriously contested at all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Biden’s Weakness Among Young Voters Should Be Taken Seriously</h3>
-<sub>By Nate Cohn</sub>
-<p>Almost all the polling shows the same pattern. Could the coming campaign restore Democrats’ usual advantage?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Hopes to Alter the Trajectory of the War as Hostages Are Released</h3>
+<sub>By Peter Baker</sub>
+<p>At the president’s urging, the temporary truce between Israel and Hamas was extended two more days. The challenge is what comes next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Elon Musk Visits Israel Amid Backlash Against His Endorsement of Antisemitic Post</h3>
-<sub>By Matthew Mpoke Bigg</sub>
-<p>Alongside President Benjamin Netanyahu of Israel, Mr. Musk toured an Israeli village where dozens of people were killed in the Hamas-led Oct. 7 attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Matthew Mpoke Bigg and Ryan Mac</sub>
+<p>Alongside Prime Minister Benjamin Netanyahu of Israel, Mr. Musk toured an Israeli village where dozens of people were killed in the Hamas-led Oct. 7 attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Police Arrest Suspect in Shooting of 3 Palestinian Students in Vermont</h3>
-<sub>By Emma Bubola, Amanda Holpuch and Rebecca Carballo</sub>
-<p>The three college students were on their way to dinner on Saturday night when the shooting occurred.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<h3>Suspect in Vermont Shootings Arraigned on Charges of Attempted Murder</h3>
+<sub>By Jenna Russell and Tik Root</sub>
+<p>Jason J. Eaton, 48, of Burlington, was charged with shooting three college students of Palestinian descent on Saturday outside the building where the police said he lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s What We Know About the Hostages Released on Sunday</h3>
-<sub>By Isabel Kershner, Nadav Gavrielov and Katherine Rosman</sub>
-<p>The group included several children, including a 4-year-old Israeli-American girl, and a Russian-Israeli who is the first man to be released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside U.S. Efforts to Untangle an A.I. Giant’s Ties to China</h3>
+<sub>By Mark Mazzetti and Edward Wong</sub>
+<p>American spy agencies have warned about the Emirati firm G42 and its work with large Chinese companies that U.S. officials consider security threats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Hamas Releases More Hostages, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, a shooting wounds three Palestinian men in Vermont, and Young Thug’s lyrics are allowed as trial evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Countdown to Iowa, Trump Is Coasting, as DeSantis and Haley Clash</h3>
+<sub>By Shane Goldmacher</sub>
+<p>The former president’s chief rivals are running low on time to make a statement in Iowa’s caucuses, which could determine whether the Republicans’ nominating contest is seriously contested at all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -104,35 +98,41 @@ There&#39;s a lot going on around the world right now. In the US, Donald Trump i
 <p>Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Why Warblers Flock to Wealthier Neighborhoods</h3>
-<sub>By Hillary Rosner</sub>
-<p>In the unequal distribution of birds and other species, ecologists are tracing the impact of bigoted urban policies adopted decades ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Nom Nom Nom. What’s the Deal With Cookie Monster’s Cookies?</h3>
+<sub>By Sopan Deb</sub>
+<p>If you have ever wondered what the “Sesame Street” muppet is really eating, we have the answer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Former Coal Towns Get Money for Clean-Energy Factories</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>An Energy Department program designed to create jobs and manufacturing in communities reliant on fossil fuels is backing projects in West Virginia, Colorado and elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Could Biden’s Clean Energy Push Be a Victim of Its Success?</h3>
+<sub>By Jonathan Weisman and Christian Monterrosa</sub>
+<p>Thanks to the president’s signature legislation, solar energy manufacturing is booming in Georgia, a key state in the 2024 election. But the industry now worries that it could be too much and too fast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>A New Match for Menopausal Weight Gain: Ozempic</h3>
+<sub>By Alisha Haridasani Gupta and Dani Blum</sub>
+<p>Weight gain is one of the most common concerns among women going through menopause. New drugs could change that.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Can Certain Foods Really Reduce Your Cancer Risk?</h3>
+<sub>By Nikki Campo</sub>
+<p>You won’t find a silver bullet in a single food, experts say, but there are some that may help you build the best defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russian Women Protest Long Deployments for Soldiers in Ukraine</h3>
 <sub>By Neil MacFarquhar and Milana Mazaeva</sub>
 <p>“Make way for someone else,” a new grass-roots movement demands as women challenge the official argument that the mobilized troops are needed in combat indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Storm Batters Southern Ukraine, Spreading Misery for Civilians and Soldiers</h3>
-<sub>Marc Santora</sub>
-<p>Violent waves stirred by hurricane-force winds threatened to tear maritime mines from their moorings in the Sea of Azov and the Black Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Final Wave of Sex-Abuse Lawsuits as One-Year Window Closes in New York</h3>
-<sub>By Hurubie Meko</sub>
-<p>Since the Adult Survivors Act was passed, more than 3,000 civil suits have been filed, some aimed at politicians and others at institutions including hospitals and jails.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Troubling Trump Pardon and a Link to the Kushners</h3>
-<sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
-<p>A commutation for a drug smuggler named Jonathan Braun had broader implications than previously known. It puts new focus on how Donald Trump would use his clemency powers in a second term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
