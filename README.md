@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, November 26, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the Middle East, Hamas has released a group of hostages, including a 4-year-old dual American-Israeli citizen whose parents were killed in an attack, and their family is relieved. In the US, there is an investigation into the shooting of three Palestinian men as a possible hate crime, and President Trump is being scrutinized for his controversial pardon of a drug smuggler linked to Jared and Ivanka Kushner. Additionally, US troops are still training on high risk weapons with reports of brain injuries. Finally, a battle for influence is occurring in Wagner&#39;s operations in Africa following their leader&#39;s death.</p>
+There is a lot happening in the world right now. In Gaza, Hamas has released multiple groups of hostages, including a 4-year-old dual American-Israeli citizen whose parents were killed in the October 7th attack. In Vermont, there is an investigation into the shooting of three Palestinian men as a possible hate crime - no suspects have been identified yet. In the United States, a pardon for a drug smuggler named Jonathan Braun has recently put a new focus on the potential implications of Donald Trump’s use of his clemency powers in a second term. Additionally, U.S. troops are still training on weapons that could cause brain injuries to the people using them. Lastly, there is an ongoing battle for influence between Western powers and the mercenary group Wagner’s operations in Africa since the death of its leader.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Hamas Releases More Hostages, Longer Cease-Fire Appears Possible</h3>
@@ -104,6 +104,12 @@ There is a lot happening in the world right now. In the Middle East, Hamas has r
 <p>Pentagon researchers say weapons like shoulder-fired rockets expose troops who fire them to blast waves far above safety limits, but they remain in wide use.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden to Skip U.N. Climate Summit, White House Official Says</h3>
+<sub>By Lisa Friedman and Jim Tankersley</sub>
+<p>He has attended the past two summits and calls climate change “the ultimate threat” but will miss the talks that are set to begin in Dubai on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Finding a Moral Center in This Era of War</h3>
 <sub>By David Marchese</sub>
@@ -120,12 +126,6 @@ There is a lot happening in the world right now. In the Middle East, Hamas has r
 <h3>Here Are the Members of Congress Giving Up Their Seats, Setting Up a 2024 Fight</h3>
 <sub>By Robert Jimison</sub>
 <p>The fight for control of Congress could be heavily influenced by the already large number of members retiring or seeking higher office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Beat Trump, Nikki Haley Is Trying to Speak to All Sides of a Fractured G.O.P.</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Her campaign will test what political strategists and observers of her rise in politics have said is among her greatest political skills: an ability to massage her message to the moment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
