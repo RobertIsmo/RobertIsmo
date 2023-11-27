@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, November 26, Central Standard Time</p>
+<p>It is Monday, November 27, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Gaza, Hamas has released multiple groups of hostages, including a 4-year-old dual American-Israeli citizen whose parents were killed in the October 7th attack. In Vermont, there is an investigation into the shooting of three Palestinian men as a possible hate crime - no suspects have been identified yet. In the United States, a pardon for a drug smuggler named Jonathan Braun has recently put a new focus on the potential implications of Donald Trump’s use of his clemency powers in a second term. Additionally, U.S. troops are still training on weapons that could cause brain injuries to the people using them. Lastly, there is an ongoing battle for influence between Western powers and the mercenary group Wagner’s operations in Africa since the death of its leader.</p>
+A cease-fire appears to be possible in Gaza after several hostages have been released, including a 4-year-old dual Israeli-American citizen who was being held captive after her parents were killed. In the United States, Vermont is investigating a possible hate crime after three Palestinian men were shot while on their way to dinner, and Donald Trump&#39;s recent pardon of a drug smuggler has revealed broader implications for how he could use his clemency powers in a second term. U.S. troops are still using weapons known to cause brain injuries, and Joe Biden won&#39;t be attending the upcoming United Nations summit on climate change. Meanwhile, female rangers in Indonesia are trying to protect a tropical rainforest through dialogue rather than confrontation with trespassers. Lastly, several members of Congress have announced they won&#39;t be seeking re-election next year due to political dysfunction, setting up a potential fight for control of Congress in 2024.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Hamas Releases More Hostages, Longer Cease-Fire Appears Possible</h3>
@@ -110,10 +110,10 @@ There is a lot happening in the world right now. In Gaza, Hamas has released mul
 <p>He has attended the past two summits and calls climate change “the ultimate threat” but will miss the talks that are set to begin in Dubai on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Finding a Moral Center in This Era of War</h3>
-<sub>By David Marchese</sub>
-<p>“The idea that we must close our eyes to suffering that is not ideologically useful is morally degrading,” says the acclaimed author and military veteran Phil Klay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Female Rangers ‘Don’t Go All Alpha Like the Men’ to Protect a Forest</h3>
+<sub>By Muktita Suhartono and Ulet Ifansasti</sub>
+<p>Rather than take a confrontational approach with trespassers looking to farm or log in a tropical rainforest in Indonesia, teams of women rangers try dialogue first.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
