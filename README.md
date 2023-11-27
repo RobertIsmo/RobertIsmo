@@ -60,14 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 27, Central Standard Time</p>
 <p>
-A cease-fire appears to be possible in Gaza after several hostages have been released, including a 4-year-old dual Israeli-American citizen who was being held captive after her parents were killed. In the United States, Vermont is investigating a possible hate crime after three Palestinian men were shot while on their way to dinner, and Donald Trump&#39;s recent pardon of a drug smuggler has revealed broader implications for how he could use his clemency powers in a second term. U.S. troops are still using weapons known to cause brain injuries, and Joe Biden won&#39;t be attending the upcoming United Nations summit on climate change. Meanwhile, female rangers in Indonesia are trying to protect a tropical rainforest through dialogue rather than confrontation with trespassers. Lastly, several members of Congress have announced they won&#39;t be seeking re-election next year due to political dysfunction, setting up a potential fight for control of Congress in 2024.</p>
+There have been some really heartbreaking stories in the news recently; for example, a 4-year-old Israeli-American girl was recently released from captivity after her parents were killed in an attack. On the other hand, police recently arrested a suspect in the shooting of three Palestinian college students in Vermont. Closer to home, President Trump recently gave a pardon to a drug smuggler, and there are some troubling questions being raised about it. This week also marks the beginning of an important UN Climate Summit, which Biden will be skipping. In overseas news, teams of female rangers have been tasked with protecting a tropical rainforest in Indonesia using dialogue rather than confrontation. Meanwhile, many members of Congress are calling it quits due to its dysfunction and political alliances could be heavily influenced by this in 2024. Finally, Ukraine launched an attack on Russian energy infrastructure that cut power to some occupied areas.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Hamas Releases More Hostages, Longer Cease-Fire Appears Possible</h3>
-<sub>By Vivian Yee, Isabel Kershner and Aaron Boxerman</sub>
-<p>A third group of captives released from Gaza included a 4-year-old dual American-Israeli citizen whose parents were killed in the Hamas attack on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After 4-Year-Old Hostage Is Freed, Her Family Breathes a Sigh of Relief</h3>
 <sub>By Anna Betts and Katherine Rosman</sub>
@@ -81,9 +75,9 @@ A cease-fire appears to be possible in Gaza after several hostages have been rel
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Shooting of 3 Palestinian Men in Vermont Investigated as Possible Hate Crime</h3>
-<sub>By Emma Bubola and Amanda Holpuch</sub>
-<p>The three college students were on their way to dinner on Saturday night. The police have yet to identify a suspect.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Police Arrest Suspect in Shooting of 3 Palestinian Students in Vermont</h3>
+<sub>By Emma Bubola, Amanda Holpuch and Rebecca Carballo</sub>
+<p>The three college students were on their way to dinner on Saturday night when the shooting occurred.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ A cease-fire appears to be possible in Gaza after several hostages have been rel
 <h3>Battle for Influence Rages in Heart of Wagner’s Operations in Africa</h3>
 <sub>By Elian Peltier and Jim Huylebroek</sub>
 <p>The death of the mercenary group’s leader has created a window of opportunity in the Central African Republic for Western powers to offer an alternative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Attack Cuts Power to Some Russian-Occupied Areas</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>The assault on energy infrastructure, a significant theater in the war, followed a large-scale Russian drone attack on Kyiv.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
