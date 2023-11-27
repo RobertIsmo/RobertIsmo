@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 27, Central Standard Time</p>
 <p>
-There are a lot of news stories to keep track of right now. In the US, Donald Trump is coasting ahead of the Iowa caucuses, while former Governor Nikki Haley and current Governor Ron DeSantis are clashing. Meanwhile, Joe Biden is having trouble connecting with young voters. On another front, police have arrested a suspect in the shooting of three Palestinian students in Vermont. In other international news, there have been several hostages released, including a 4-year-old Israeli-American girl and a Russian-Israeli man. And in Russia, women are protesting against long deployments for soldiers in Ukraine. 
-
-At home, former President Trump&#39;s pardon of a drug smuggler is raising some eyebrows - though it may be related to the Kushners. On the environment front, Biden will not be attending the UN Climate Summit. Finally, car crash victims in New York are seeking justice through a new approach - talking to drivers directly about taking responsibility for their actions.</p>
+There&#39;s a lot going on around the world right now. In the US, Donald Trump is still in the lead for the Republican party nomination in Iowa, but his rivals are trying to make some last-minute statements. Joe Biden is also having difficulty among younger voters. In Israel, tech entrepreneur Elon Musk recently visited after endorsing a post with antisemitic content. And in Ukraine, there was a storm that battered civilians and soldiers while Russian women are protesting lengthy deployments for troops. New York is facing a final wave of sex abuse lawsuits too. In addition, there&#39;s a troubling Trump pardon going on that could have links to the Kushner family.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Countdown to Iowa, Trump Is Coasting, as DeSantis and Haley Clash</h3>
@@ -77,15 +75,21 @@ At home, former President Trump&#39;s pardon of a drug smuggler is raising some 
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s What We Know About the Hostages Released on Sunday</h3>
-<sub>By Isabel Kershner, Nadav Gavrielov and Katherine Rosman</sub>
-<p>The group included several children, including a 4-year-old Israeli-American girl, and a Russian-Israeli who is the first man to be released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<h3>Elon Musk Visits Israel Amid Backlash Against His Endorsement of Antisemitic Post</h3>
+<sub>By Matthew Mpoke Bigg</sub>
+<p>Alongside President Benjamin Netanyahu of Israel, Mr. Musk toured an Israeli village where dozens of people were killed in the Hamas-led Oct. 7 attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Police Arrest Suspect in Shooting of 3 Palestinian Students in Vermont</h3>
 <sub>By Emma Bubola, Amanda Holpuch and Rebecca Carballo</sub>
 <p>The three college students were on their way to dinner on Saturday night when the shooting occurred.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s What We Know About the Hostages Released on Sunday</h3>
+<sub>By Isabel Kershner, Nadav Gavrielov and Katherine Rosman</sub>
+<p>The group included several children, including a 4-year-old Israeli-American girl, and a Russian-Israeli who is the first man to be released.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -112,6 +116,12 @@ At home, former President Trump&#39;s pardon of a drug smuggler is raising some 
 <p>“Make way for someone else,” a new grass-roots movement demands as women challenge the official argument that the mobilized troops are needed in combat indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Storm Batters Southern Ukraine, Spreading Misery for Civilians and Soldiers</h3>
+<sub>Marc Santora</sub>
+<p>Violent waves stirred by hurricane-force winds threatened to tear maritime mines from their moorings in the Sea of Azov and the Black Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>A Final Wave of Sex-Abuse Lawsuits as One-Year Window Closes in New York</h3>
 <sub>By Hurubie Meko</sub>
@@ -123,18 +133,6 @@ At home, former President Trump&#39;s pardon of a drug smuggler is raising some 
 <sub>By Michael S. Schmidt, Maggie Haberman, Jonathan Swan and Alan Feuer</sub>
 <p>A commutation for a drug smuggler named Jonathan Braun had broader implications than previously known. It puts new focus on how Donald Trump would use his clemency powers in a second term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden to Skip U.N. Climate Summit, White House Official Says</h3>
-<sub>By Lisa Friedman and Jim Tankersley</sub>
-<p>He has attended the past two summits and calls climate change “the ultimate threat” but will miss the talks that are set to begin in Dubai on Thursday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Car Crash Victims Seek Justice in a New Way: Talking to the Drivers</h3>
-<sub>By Hurubie Meko</sub>
-<p>Circles for Safe Streets encourages New York drivers who hit people to take responsibility. Those who were injured can speak directly to those at fault.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
