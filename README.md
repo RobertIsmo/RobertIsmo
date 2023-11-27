@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 27, Central Standard Time</p>
 <p>
-It looks like some big things are going on around the world! President Biden is focusing on ending the war between Israel and Hamas, Elon Musk recently visited Israel despite some backlash against him, and Russian women are rising up to challenge their government. In the U.S., a man was charged with shooting 3 college students of Palestinian descent in Vermont, the government is trying to untangle the ties between Chinese tech companies and an Emirati firm called G42, Trump is coasting ahead of Iowa&#39;s caucuses, kids&#39; online activities can lead to digital life problems, and we now know what Cookie Monster has been eating all this time. There are also new treatments for menopausal weight gain and certain foods that may reduce cancer risks.</p>
+There is a lot of news lately dealing with issues all over the world! In the US, President Biden is hoping to alter the trajectory of the war and a truce between Israel and Hamas was extended. Meanwhile, Elon Musk visited Israel and received backlash for endorsing an antisemitic post. On the crime front, a Vermont man was charged for shooting Palestinian students and a Supreme Court ruling means Arizona legislators must testify about voting laws. 
+
+On the tech side, American spy agencies have flagged an Emirati firm for working with companies deemed security threats by US officials. Meanwhile, the Supreme Court justices are looking for middle ground regarding mandatory sentences for gun crimes. 
+
+In other news happening around the world, former coal towns are getting funding for clean energy factories and food experts are discussing which foods may reduce cancer risk. Finally, there&#39;s some new developments in menopause weight gain treatment too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Hopes to Alter the Trajectory of the War as Hostages Are Released</h3>
@@ -75,7 +79,7 @@ It looks like some big things are going on around the world! President Biden is 
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Suspect in Vermont Shootings Arraigned on Charges of Attempted Murder</h3>
+<h3>Vermont Man Charged With Attempted Murder for Shootings of Palestinian Students</h3>
 <sub>By Jenna Russell and Tik Root</sub>
 <p>Jason J. Eaton, 48, of Burlington, was charged with shooting three college students of Palestinian descent on Saturday outside the building where the police said he lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
@@ -87,9 +91,15 @@ It looks like some big things are going on around the world! President Biden is 
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Countdown to Iowa, Trump Is Coasting, as DeSantis and Haley Clash</h3>
-<sub>By Shane Goldmacher</sub>
-<p>The former president’s chief rivals are running low on time to make a statement in Iowa’s caucuses, which could determine whether the Republicans’ nominating contest is seriously contested at all.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justices Search for Middle Ground on Mandatory Sentences for Gun Crimes</h3>
+<sub>By Adam Liptak</sub>
+<p>A federal law imposes a mandatory 15-year sentence for possessing a gun after committing three serious drug offenses. But which offenses count?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Arizona Legislators Must Testify About Voting Laws, Supreme Court Rules</h3>
+<sub>By Adam Liptak</sub>
+<p>Two Republican lawmakers had argued that they could not be questioned about their motives for supporting the laws, which require proof of citizenship to vote in federal elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -126,12 +136,6 @@ It looks like some big things are going on around the world! President Biden is 
 <h3>Can Certain Foods Really Reduce Your Cancer Risk?</h3>
 <sub>By Nikki Campo</sub>
 <p>You won’t find a silver bullet in a single food, experts say, but there are some that may help you build the best defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Women Protest Long Deployments for Soldiers in Ukraine</h3>
-<sub>By Neil MacFarquhar and Milana Mazaeva</sub>
-<p>“Make way for someone else,” a new grass-roots movement demands as women challenge the official argument that the mobilized troops are needed in combat indefinitely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
