@@ -60,61 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-Currently, there is a lot happening in the world. Hamas attacked an Israeli village known as Nir Oz, resulting in the release of hostages comprised of women and children. Elon Musk visited Israel and toured the same village alongside Prime Minister Benjamin Netanyahu of Israel on Oct. 7. In Vermont, a man was charged with attempted murder for shooting three college students of Palestinian descent, highlighting tensions in the US. President Biden is facing pressure to focus on oil drilling and gas prices while also upholding his commitment to fighting climate change. Former coal towns are receiving financial backing for clean-energy factories in places like West Virginia and Colorado, while Biden&#39;s clean energy push could face consequences from its own success as solar energy manufacturing booms in Georgia. American spy agencies have begun working to untangle ties between artificial intelligence giant G42 and certain large Chinese companies deemed security threats. Additionally, the Supreme Court is considering mandatory sentences for gun crimes. Lastly, pets now have access to potential drugs that allow them to live longer as well as new match treatments for menopausal weight gain. Unfortunately, online mistakes made by children can wrongly end up tarring innocent individuals as abusers due to Google&#39;s zero-tolerance policy for child abuse content.</p>
+It looks like there&#39;s a lot happening in the world right now! China is facing economic and political uncertainty, causing many families to send money overseas. There&#39;s also tension between the US and China concerning student exchanges. In Gaza, people are desperate and fearful due to the conflict between Israel and Hamas. The CIA director and an Israeli spy service head are negotiating for hostage releases with the help of Qatar. Meanwhile, the US has warned Israel to take a more measured approach to its military actions in Gaza. On the economic front, even most Biden voters aren&#39;t convinced the economy is thriving. Scientists may have created a drug that can extend lifespans in dogs, but it raises questions of success. Additionally, climate refugees seeking asylum are having trouble finding help as existing laws weren&#39;t designed to address global warming issues. In Vietnam international relations have been strained due to a crackdown on environmental activists. Finally, former First Lady Rosalynn Carter was recently honored by presidents and fellow first ladies after her passing at 96 years old.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s What We Know About the Hostages Released on Monday</h3>
-<sub>By Talya Minsberg, Traci Carl, Gaya Gupta, Katherine Rosman and Roni Rabin</sub>
-<p>The group comprised women and children only, all of them taken from Nir Oz during Hamas’s attack on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Gold Bars and Tokyo Apartments: How Money Is Flowing Out of China.</h3>
+<sub>By Keith Bradsher and Joy Dong</sub>
+<p>Chinese families are sending money overseas, a sign of worry about the country’s economic and political future. But a cheaper currency is also helping exports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Elon Musk Visits Israel Amid Backlash Against His Endorsement of Antisemitic Post</h3>
-<sub>By Matthew Mpoke Bigg and Ryan Mac</sub>
-<p>Alongside Prime Minister Benjamin Netanyahu of Israel, Mr. Musk toured an Israeli village where dozens of people were killed in the Hamas-led Oct. 7 attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<h3>Can U.S.-China Student Exchanges Survive Geopolitics?</h3>
+<sub>By Vivian Wang</sub>
+<p>The flow of students between the countries has been a mainstay of their relationship, even when ties have soured. Now these exchanges, too, are under threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fearful, Humiliated and Desperate: Gazans Heading South Face Horrors</h3>
+<sub>By Yara Bayoumy, Samar Abu Elouf and Iyad Abuheweila</sub>
+<p>Tens of thousands of Gazans are making the most difficult of choices, leaving their homes behind to survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>C.I.A. Director Arrives in Qatar for Talks on Hostage Releases</h3>
+<sub>By Julian E. Barnes</sub>
+<p>William J. Burns, the C.I.A. head, and David Barnea, who leads the Mossad, Israel’s spy service, are scheduled to meet with officials in Qatar, which has been mediating talks between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vermont Man Charged With Attempted Murder for Shootings of Palestinian Students</h3>
-<sub>By Jenna Russell and Tik Root</sub>
-<p>Jason J. Eaton, 48, of Burlington, was charged with shooting three college students of Palestinian descent on Saturday outside the building where the police said he lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<h3>U.S. Has Warned Israel to Fight More Surgically in Gaza, Officials Say</h3>
+<sub>By Erica L. Green</sub>
+<p>American officials have told the Israelis that a major bombardment risks sparking a humanitarian crisis that overwhelms the world’s capacity to respond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden’s Absence at Climate Summit Highlights His Fossil Fuel Conundrum</h3>
-<sub>By Jim Tankersley and Lisa Friedman</sub>
-<p>The president is facing some pressure to focus on oil drilling and gas prices at home, while boosting climate ambition on the world stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel-Hamas Truce Appears to Enter Another Day, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, how money is flowing out of China and scientists are one step closer to a drug extending the lives of dogs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Former Coal Towns Get Money for Clean-Energy Factories</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>An Energy Department program designed to create jobs and manufacturing in communities reliant on fossil fuels is backing projects in West Virginia, Colorado and elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Could Biden’s Clean Energy Push Be a Victim of Its Success?</h3>
-<sub>By Jonathan Weisman and Christian Monterrosa</sub>
-<p>Thanks to the president’s signature legislation, solar energy manufacturing is booming in Georgia, a key state in the 2024 election. But the industry now worries that it could be too much and too fast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside U.S. Efforts to Untangle an A.I. Giant’s Ties to China</h3>
-<sub>By Mark Mazzetti and Edward Wong</sub>
-<p>American spy agencies have warned about the Emirati firm G42 and its work with large Chinese companies that U.S. officials consider security threats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices Search for Middle Ground on Mandatory Sentences for Gun Crimes</h3>
-<sub>By Adam Liptak</sub>
-<p>A federal law imposes a mandatory 15-year sentence for possessing a gun after committing three serious drug offenses. But which offenses count?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Arizona Legislators Must Testify About Voting Laws, Supreme Court Rules</h3>
-<sub>By Adam Liptak</sub>
-<p>Two Republican lawmakers had argued that they could not be questioned about their motives for supporting the laws, which require proof of citizenship to vote in federal elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Even Most Biden Voters Don’t See a Thriving Economy</h3>
+<sub>By Lydia DePillis</sub>
+<p>A majority of those who backed President Biden in 2020 say today’s economy is fair or poor, ordinarily a bad omen for incumbents seeking re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>Could a Drug Give Your Pet More Dog Years?</h3>
@@ -122,17 +110,29 @@ Currently, there is a lot happening in the world. Hamas attacked an Israeli vill
 <p>Longevity drugs for our canine companions are moving closer to reality. They also raise questions about what it might mean to succeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Your Child’s Online Mistake Can Ruin Your Digital Life</h3>
-<sub>By Kashmir Hill</sub>
-<p>Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>They Fled Climate Chaos. Asylum Law Made Decades Ago Might Not Help</h3>
+<sub>By Miriam Jordan</sub>
+<p>“We need protection,” one migrant at the U.S. border said. But the legal system for refugees never envisioned the millions displaced by global warming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>A New Match for Menopausal Weight Gain: Ozempic</h3>
-<sub>By Alisha Haridasani Gupta and Dani Blum</sub>
-<p>Weight gain is one of the most common concerns among women going through menopause. New drugs could change that.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Vietnam Relied on Environmentalists to Secure Billions. Then It Jailed Them.</h3>
+<sub>By Sui-Lee Wee</sub>
+<p>The government is preparing to present its energy transition plan at the U.N. climate talks as it intensifies a crackdown on environmental advocates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rosalynn Carter to Be Honored by Presidents and Fellow First Ladies</h3>
+<sub>By Peter Baker</sub>
+<p>Former President Jimmy Carter will emerge from hospice care to join a cast of political heavyweights paying tribute on Tuesday to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Rosalynn Carter, First Lady and a Political Partner, Dies at 96</h3>
+<sub>By Katharine Q. Seelye</sub>
+<p>She helped propel Jimmy Carter from rural Georgia to the White House and became the most politically active first lady since Eleanor Roosevelt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
