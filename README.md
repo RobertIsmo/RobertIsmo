@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-There&#39;s a lot of troublesome and heartbreaking stories happening in the world right now. In Gaza, tens of thousands of people are being forced to leave their homes due to a violent conflict between Israel and Hamas. Meanwhile in China, people are worried about their economy and political system, and sending money overseas as a precaution. In the US, CIA Director William J Burns and leaders of Mossad have been meeting in Qatar for talks on hostage releases. On the political front, the Koch network has endorsed Nikki Haley in her bid to succeed Donald Trump as president, while Florida Governor Ron DeSantis is debating California Governor Gavin Newsom as part of his own presidential campaign. And to honor the late former First Lady Rosalynn Carter, Republicans and Democrats have come together to celebrate her 77-year marriage with former President Jimmy Carter.</p>
+Hello! I&#39;m catching you up on some of the big news stories happening around the world. President Biden is facing divisions inside the White House and beyond over his solidarity with Israel, but Hamas has released another group of 12 hostages and a fragile cease-fire continues. Malawi is sending thousands of farmworkers to Israel and Chinese families are sending money overseas as a sign of worry about their economic and political future. In addition, US-China student exchanges are under threat due to geopolitics, former California Governor Gavin Newsom is debating current Florida Governor Ron DeSantis, who is vying for the No. 2 position in the Republican presidential race, Koch Network has endorsed Nikki Haley as they try to push the GOP past Trump, The New York Times Book Review has chosen its 10 best books of 2023, and Rosalynn Carter was honored at her memorial service by presidents and first ladies. Finally, NATO leaders are concerned about US aid for Ukraine as American funding is running down and a counteroffensive appears stalled. Wow, that&#39;s a lot of news!</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fearful, Humiliated and Desperate: Gazans Heading South Face Horrors</h3>
-<sub>By Yara Bayoumy, Samar Abu Elouf and Iyad Abuheweila</sub>
-<p>Tens of thousands of Gazans are making the most difficult of choices, leaving their homes behind to survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>C.I.A. Director Arrives in Qatar for Talks on Hostage Releases</h3>
-<sub>By Julian E. Barnes</sub>
-<p>William J. Burns, the C.I.A. head, and David Barnea, who leads the Mossad, Israel’s spy service, are scheduled to meet with officials in Qatar, which has been mediating talks between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Has Warned Israel to Fight More Surgically in Gaza, Officials Say</h3>
+<h3>Biden Navigates Divisions Over Gaza Inside the White House and Beyond</h3>
 <sub>By Erica L. Green</sub>
-<p>American officials have told the Israelis that a major bombardment risks sparking a humanitarian crisis that overwhelms the world’s capacity to respond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden is facing deep anger over his solidarity with Israel among supporters and even from some staff members who have said they feel disenchanted with the president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hamas has released another group of 12 hostages, Israel says.</h3>
+<sub>By Talya Minsberg</sub>
+<p>The hostages released on Tuesday, the fifth day of a fragile cease-fire, included three members of one family, according to a list released by the Israeli prime minister’s office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Malawi plans to send thousands of farmworkers to Israel.</h3>
+<sub>By Golden Matonga and John Eligon</sub>
+<p>Opposition p  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -93,12 +93,6 @@ There&#39;s a lot of troublesome and heartbreaking stories happening in the worl
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Koch Network Endorses Nikki Haley in Bid to Push G.O.P. Past Trump</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The support will give Ms. Haley more organizational strength in the field as she battles Gov. Ron DeSantis of Florida for the No. 2 spot in the Republican presidential race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Gavin Newsom Wants Fox News Viewers to Hear Him Out</h3>
 <sub>By Adam Nagourney</sub>
 <p>After sparring twice with Sean Hannity, Gov. Gavin Newsom of California will jump into the ring this week with Gov. Ron DeSantis of Florida. The stakes are high for both men.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -110,22 +104,22 @@ There&#39;s a lot of troublesome and heartbreaking stories happening in the worl
 <p>The unusual event, between a Republican presidential candidate and a high-profile Democratic governor who has been a surrogate for the Biden administration, will be moderated by Sean Hannity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Even Most Biden Voters Don’t See a Thriving Economy</h3>
-<sub>By Lydia DePillis</sub>
-<p>A majority of those who backed President Biden in 2020 say today’s economy is fair or poor, ordinarily a bad omen for incumbents seeking re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Koch Network Endorses Nikki Haley in Bid to Push G.O.P. Past Trump</h3>
+<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
+<p>The support will give Ms. Haley more organizational strength in the field as she battles Gov. Ron DeSantis of Florida for the No. 2 spot in the Republican presidential race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>I Wanna Be Curated: Can You Really Put Punk in a Museum?</h3>
-<sub>By Brett Martin</sub>
-<p>In Las Vegas, the answer is a resounding yes — and why not throw in a wedding chapel and a bar, too?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>The 10 Best Books of 2023</h3>
+<sub>By The New York Times Books Staff</sub>
+<p>The staff of The New York Times Book Review choose the year’s standout fiction and nonfiction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter to Be Honored by Presidents and Fellow First Ladies</h3>
+<h3>Rosalynn Carter Honored by Presidents and Fellow First Ladies</h3>
 <sub>By Peter Baker</sub>
-<p>Former President Jimmy Carter will emerge from hospice care to join a cast of political heavyweights paying tribute on Tuesday to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Former President Jimmy Carter emerged from hospice care to join a cast of political heavyweights paying tribute to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -133,6 +127,12 @@ There&#39;s a lot of troublesome and heartbreaking stories happening in the worl
 <sub>By Rick Rojas</sub>
 <p>Their marriage was admired for its endurance — 77 years — and for the affection between the two people in it. “It radiated,” one acquaintance said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>NATO Leaders Try to Pin Down U.S. on Ukraine Aid as Republicans Waver</h3>
+<sub>By Lara Jakes</sub>
+<p>Continued American funding for Ukraine was a key concern for leaders in the military alliance, who met as the current allocation was running down and a Ukrainian counteroffensive appeared stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
