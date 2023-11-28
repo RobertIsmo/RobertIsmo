@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot happening in the world right now! China is facing economic and political uncertainty, causing many families to send money overseas. There&#39;s also tension between the US and China concerning student exchanges. In Gaza, people are desperate and fearful due to the conflict between Israel and Hamas. The CIA director and an Israeli spy service head are negotiating for hostage releases with the help of Qatar. Meanwhile, the US has warned Israel to take a more measured approach to its military actions in Gaza. On the economic front, even most Biden voters aren&#39;t convinced the economy is thriving. Scientists may have created a drug that can extend lifespans in dogs, but it raises questions of success. Additionally, climate refugees seeking asylum are having trouble finding help as existing laws weren&#39;t designed to address global warming issues. In Vietnam international relations have been strained due to a crackdown on environmental activists. Finally, former First Lady Rosalynn Carter was recently honored by presidents and fellow first ladies after her passing at 96 years old.</p>
+There is a lot happening in the world right now: the US and China are at odds over student exchanges, thousands of people from Gaza are fleeing their homes due to conflict, CIA and Mossad heads are engaging in talks with Qatar to secure hostage releases, Biden voters are not seeing a thriving economy yet, scientists are working to extend the lives of dogs, Vietnam is jailing environmentalists, former first lady Rosalynn Carter has passed away, and people in China are spending money overseas due to worries about their economic and political future.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Gold Bars and Tokyo Apartments: How Money Is Flowing Out of China.</h3>
@@ -98,17 +98,17 @@ It looks like there&#39;s a lot happening in the world right now! China is facin
 <p>Plus, how money is flowing out of China and scientists are one step closer to a drug extending the lives of dogs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Koch Network Endorses Nikki Haley in Bid to Push G.O.P. Past Trump</h3>
+<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
+<p>The support will give Ms. Haley more organizational strength in the field as she battles Gov. Ron DeSantis of Florida for the No. 2 spot in the Republican presidential race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Even Most Biden Voters Don’t See a Thriving Economy</h3>
 <sub>By Lydia DePillis</sub>
 <p>A majority of those who backed President Biden in 2020 say today’s economy is fair or poor, ordinarily a bad omen for incumbents seeking re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Could a Drug Give Your Pet More Dog Years?</h3>
-<sub>By Emily Anthes</sub>
-<p>Longevity drugs for our canine companions are moving closer to reality. They also raise questions about what it might mean to succeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>They Fled Climate Chaos. Asylum Law Made Decades Ago Might Not Help</h3>
