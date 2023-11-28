@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, November 27, Central Standard Time</p>
 <p>
-There is a lot of news lately dealing with issues all over the world! In the US, President Biden is hoping to alter the trajectory of the war and a truce between Israel and Hamas was extended. Meanwhile, Elon Musk visited Israel and received backlash for endorsing an antisemitic post. On the crime front, a Vermont man was charged for shooting Palestinian students and a Supreme Court ruling means Arizona legislators must testify about voting laws. 
-
-On the tech side, American spy agencies have flagged an Emirati firm for working with companies deemed security threats by US officials. Meanwhile, the Supreme Court justices are looking for middle ground regarding mandatory sentences for gun crimes. 
-
-In other news happening around the world, former coal towns are getting funding for clean energy factories and food experts are discussing which foods may reduce cancer risk. Finally, there&#39;s some new developments in menopause weight gain treatment too!</p>
+There are a lot of things going on in the world right now. On Monday, some hostages taken during Hamas&#39; attack in October were released. Elon Musk visited Israel despite a controversy over an endorsement he made and there was shooting of Palestinian students in Vermont with the shooter being charged with attempted murder. Biden was absent from a climate summit and communities reliant on fossil fuels have been given money for clean energy factories. In the US, Google has zero-tolerance policy for child abuse content while the Supreme Court ruled that Arizona legislators must testify about voting laws. Lastly, new drugs may help tackle weight gain which is a common concern menopausal women have.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Hopes to Alter the Trajectory of the War as Hostages Are Released</h3>
-<sub>By Peter Baker</sub>
-<p>At the president’s urging, the temporary truce between Israel and Hamas was extended two more days. The challenge is what comes next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s What We Know About the Hostages Released on Monday</h3>
+<sub>By Talya Minsberg, Traci Carl, Gaya Gupta, Katherine Rosman and Roni Rabin</sub>
+<p>The group comprised women and children only, all of them taken from Nir Oz during Hamas’s attack on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -82,6 +78,24 @@ In other news happening around the world, former coal towns are getting funding 
 <h3>Vermont Man Charged With Attempted Murder for Shootings of Palestinian Students</h3>
 <sub>By Jenna Russell and Tik Root</sub>
 <p>Jason J. Eaton, 48, of Burlington, was charged with shooting three college students of Palestinian descent on Saturday outside the building where the police said he lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden’s Absence at Climate Summit Highlights His Fossil Fuel Conundrum</h3>
+<sub>By Jim Tankersley and Lisa Friedman</sub>
+<p>The president is facing some pressure to focus on oil drilling and gas prices at home, while boosting climate ambition on the world stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Former Coal Towns Get Money for Clean-Energy Factories</h3>
+<sub>By Hiroko Tabuchi</sub>
+<p>An Energy Department program designed to create jobs and manufacturing in communities reliant on fossil fuels is backing projects in West Virginia, Colorado and elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Could Biden’s Clean Energy Push Be a Victim of Its Success?</h3>
+<sub>By Jonathan Weisman and Christian Monterrosa</sub>
+<p>Thanks to the president’s signature legislation, solar energy manufacturing is booming in Georgia, a key state in the 2024 election. But the industry now worries that it could be too much and too fast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -102,40 +116,22 @@ In other news happening around the world, former coal towns are getting funding 
 <p>Two Republican lawmakers had argued that they could not be questioned about their motives for supporting the laws, which require proof of citizenship to vote in federal elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Your Child’s Online Mistake Can Ruin Your Digital Life</h3>
-<sub>By Kashmir Hill</sub>
-<p>Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Nom Nom Nom. What’s the Deal With Cookie Monster’s Cookies?</h3>
 <sub>By Sopan Deb</sub>
 <p>If you have ever wondered what the “Sesame Street” muppet is really eating, we have the answer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Former Coal Towns Get Money for Clean-Energy Factories</h3>
-<sub>By Hiroko Tabuchi</sub>
-<p>An Energy Department program designed to create jobs and manufacturing in communities reliant on fossil fuels is backing projects in West Virginia, Colorado and elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Could Biden’s Clean Energy Push Be a Victim of Its Success?</h3>
-<sub>By Jonathan Weisman and Christian Monterrosa</sub>
-<p>Thanks to the president’s signature legislation, solar energy manufacturing is booming in Georgia, a key state in the 2024 election. But the industry now worries that it could be too much and too fast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Your Child’s Online Mistake Can Ruin Your Digital Life</h3>
+<sub>By Kashmir Hill</sub>
+<p>Google has a zero-tolerance policy for child abuse content. The scanning process can sometimes go awry and tar innocent individuals as abusers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>A New Match for Menopausal Weight Gain: Ozempic</h3>
 <sub>By Alisha Haridasani Gupta and Dani Blum</sub>
 <p>Weight gain is one of the most common concerns among women going through menopause. New drugs could change that.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Can Certain Foods Really Reduce Your Cancer Risk?</h3>
-<sub>By Nikki Campo</sub>
-<p>You won’t find a silver bullet in a single food, experts say, but there are some that may help you build the best defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
