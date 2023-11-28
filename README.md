@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now: the US and China are at odds over student exchanges, thousands of people from Gaza are fleeing their homes due to conflict, CIA and Mossad heads are engaging in talks with Qatar to secure hostage releases, Biden voters are not seeing a thriving economy yet, scientists are working to extend the lives of dogs, Vietnam is jailing environmentalists, former first lady Rosalynn Carter has passed away, and people in China are spending money overseas due to worries about their economic and political future.</p>
+There&#39;s a lot of troublesome and heartbreaking stories happening in the world right now. In Gaza, tens of thousands of people are being forced to leave their homes due to a violent conflict between Israel and Hamas. Meanwhile in China, people are worried about their economy and political system, and sending money overseas as a precaution. In the US, CIA Director William J Burns and leaders of Mossad have been meeting in Qatar for talks on hostage releases. On the political front, the Koch network has endorsed Nikki Haley in her bid to succeed Donald Trump as president, while Florida Governor Ron DeSantis is debating California Governor Gavin Newsom as part of his own presidential campaign. And to honor the late former First Lady Rosalynn Carter, Republicans and Democrats have come together to celebrate her 77-year marriage with former President Jimmy Carter.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fearful, Humiliated and Desperate: Gazans Heading South Face Horrors</h3>
+<sub>By Yara Bayoumy, Samar Abu Elouf and Iyad Abuheweila</sub>
+<p>Tens of thousands of Gazans are making the most difficult of choices, leaving their homes behind to survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>C.I.A. Director Arrives in Qatar for Talks on Hostage Releases</h3>
+<sub>By Julian E. Barnes</sub>
+<p>William J. Burns, the C.I.A. head, and David Barnea, who leads the Mossad, Israel’s spy service, are scheduled to meet with officials in Qatar, which has been mediating talks between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Has Warned Israel to Fight More Surgically in Gaza, Officials Say</h3>
+<sub>By Erica L. Green</sub>
+<p>American officials have told the Israelis that a major bombardment risks sparking a humanitarian crisis that overwhelms the world’s capacity to respond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Gold Bars and Tokyo Apartments: How Money Is Flowing Out of China.</h3>
 <sub>By Keith Bradsher and Joy Dong</sub>
@@ -74,34 +92,22 @@ There is a lot happening in the world right now: the US and China are at odds ov
 <p>The flow of students between the countries has been a mainstay of their relationship, even when ties have soured. Now these exchanges, too, are under threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fearful, Humiliated and Desperate: Gazans Heading South Face Horrors</h3>
-<sub>By Yara Bayoumy, Samar Abu Elouf and Iyad Abuheweila</sub>
-<p>Tens of thousands of Gazans are making the most difficult of choices, leaving their homes behind to survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>C.I.A. Director Arrives in Qatar for Talks on Hostage Releases</h3>
-<sub>By Julian E. Barnes</sub>
-<p>William J. Burns, the C.I.A. head, and David Barnea, who leads the Mossad, Israel’s spy service, are scheduled to meet with officials in Qatar, which has been mediating talks between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Has Warned Israel to Fight More Surgically in Gaza, Officials Say</h3>
-<sub>By Erica L. Green</sub>
-<p>American officials have told the Israelis that a major bombardment risks sparking a humanitarian crisis that overwhelms the world’s capacity to respond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel-Hamas Truce Appears to Enter Another Day, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, how money is flowing out of China and scientists are one step closer to a drug extending the lives of dogs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Koch Network Endorses Nikki Haley in Bid to Push G.O.P. Past Trump</h3>
 <sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
 <p>The support will give Ms. Haley more organizational strength in the field as she battles Gov. Ron DeSantis of Florida for the No. 2 spot in the Republican presidential race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Gavin Newsom Wants Fox News Viewers to Hear Him Out</h3>
+<sub>By Adam Nagourney</sub>
+<p>After sparring twice with Sean Hannity, Gov. Gavin Newsom of California will jump into the ring this week with Gov. Ron DeSantis of Florida. The stakes are high for both men.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Watch the DeSantis-Newsom Debate</h3>
+<sub>By Chris Cameron</sub>
+<p>The unusual event, between a Republican presidential candidate and a high-profile Democratic governor who has been a surrogate for the Biden administration, will be moderated by Sean Hannity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,16 +116,10 @@ There is a lot happening in the world right now: the US and China are at odds ov
 <p>A majority of those who backed President Biden in 2020 say today’s economy is fair or poor, ordinarily a bad omen for incumbents seeking re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They Fled Climate Chaos. Asylum Law Made Decades Ago Might Not Help</h3>
-<sub>By Miriam Jordan</sub>
-<p>“We need protection,” one migrant at the U.S. border said. But the legal system for refugees never envisioned the millions displaced by global warming.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Vietnam Relied on Environmentalists to Secure Billions. Then It Jailed Them.</h3>
-<sub>By Sui-Lee Wee</sub>
-<p>The government is preparing to present its energy transition plan at the U.N. climate talks as it intensifies a crackdown on environmental advocates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>I Wanna Be Curated: Can You Really Put Punk in a Museum?</h3>
+<sub>By Brett Martin</sub>
+<p>In Las Vegas, the answer is a resounding yes — and why not throw in a wedding chapel and a bar, too?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,10 +129,10 @@ There is a lot happening in the world right now: the US and China are at odds ov
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter, First Lady and a Political Partner, Dies at 96</h3>
-<sub>By Katharine Q. Seelye</sub>
-<p>She helped propel Jimmy Carter from rural Georgia to the White House and became the most politically active first lady since Eleanor Roosevelt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, November 19, Central Standard Time</sub></sub>
+<h3>The Carters’ Hometown Mourns for the Love of a Lifetime</h3>
+<sub>By Rick Rojas</sub>
+<p>Their marriage was admired for its endurance — 77 years — and for the affection between the two people in it. “It radiated,” one acquaintance said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
