@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, November 27, Central Standard Time</p>
+<p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. On Monday, a group of women and children were released from captivity by Hamas in Israel. Elon Musk recently visited Israel amidst criticism for his endorsement of an antisemitic post. In the US, a Vermont man was charged with attempted murder for shooting three college students of Palestinian descent. Biden&#39;s absence from the Climate Summit spotlighted his controversy over oil drilling and gas prices at home, yet he still backed programs for clean-energy factories in former coal towns. His clean energy push potentially brings success to solar energy manufacturing in Georgia, but also worries about it going too fast. US efforts to unravel A.I. giant G42’s ties to China worry us as well. Supreme Court justices are frequenting searching for balance on mandatory sentences for gun crimes and required proof of citizenship to vote in federal elections. The beloved Cookie Monster from Sesame Street has revealed what he eats- cookies! Finally, Ozempic is a new potential match for menopausal weight gain.</p>
+There is a lot happening in the world right now. In Israel, Elon Musk recently visited amid public backlash against his endorsement of an antisemitic post, while a Vermont man was charged with attempted murder for shooting Palestinian students outside of his building. 
+On the climate front, President Biden&#39;s absence at a recent Climate Summit has highlighted his struggle between focusing on oil drilling and gas prices in the US and boosting climate ambition abroad. Former coal towns are receiving money for clean-energy factories too. 
+Finally, back in the US, new A.I. legislation has raised security concerns and Supreme Court rulings require Arizona legislators to testify about voting laws. Additionally, scientists are researching drugs that could give a pet more dog years, while tech companies are struggling with how to protect innocent individuals from mistaken online mistakes by their children. In related news, a new drug has been released to combat menopausal weight gain.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Hostages Released on Monday</h3>
@@ -116,10 +118,10 @@ There is a lot happening in the world right now. On Monday, a group of women and
 <p>Two Republican lawmakers had argued that they could not be questioned about their motives for supporting the laws, which require proof of citizenship to vote in federal elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Nom Nom Nom. What’s the Deal With Cookie Monster’s Cookies?</h3>
-<sub>By Sopan Deb</sub>
-<p>If you have ever wondered what the “Sesame Street” muppet is really eating, we have the answer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Could a Drug Give Your Pet More Dog Years?</h3>
+<sub>By Emily Anthes</sub>
+<p>Longevity drugs for our canine companions are moving closer to reality. They also raise questions about what it might mean to succeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
