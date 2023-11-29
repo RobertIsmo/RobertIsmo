@@ -59,19 +59,50 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 29, Central Standard Time</p>
-<p>There is a lot going on in the world right now. In the US, President Biden is facing deep anger over his solidarity with Israel among supporters and even from some staff members. In the Middle East, there is a ceasefire between Israel and Hamas that is benefiting both sides. The Vatican is in the news too, as reports say Pope Francis is evicting a U.S. cardinal from his Vatican home and canceling a trip to the U.N. climate summit due to illness. On a lighter note, there was recently a rare gathering of former first ladies that showed their style and subtle differences. Further abroad, the wife of Ukraine&#39;s spy chief was reportedly poisoned, but she is recovering in the hospital after long claiming her husband was being targeted by Russia. And finally, in business news, corporate America has successfully dodged costs imposed by high rates for now, while Federal Reserve officials have hinted that rate increases may be over - news that investors are celebrating.</p>
+<p>
+Right now, things are heating up across the world. In the US, Congress is in the midst of debating whether to send aid to Israel without attaching strings, such as measures to protect civilian casualties. In the West Bank, people are expressing support for Hamas in response to mass prisoner releases. 
+
+Oil markets are struggling due to predictions of a drop in demand for 2024, and OPEC countries like Saudi Arabia are looking for a way to reduce supply. Meanwhile, a federal law prohibiting medical marijuana users from buying or owning firearms has sparked legal challenges across the country. 
+
+The past year was filled with amazing TV shows like &quot;The Bear,&quot; &quot;Beef,&quot; &quot;Happy Valley,&quot; and &quot;Succession&quot;, and now there&#39;s even talk that Pope Francis is preparing to evict Cardinal Raymond Burke from his Vatican home due to critiques against the reform-minded pope. 
+
+Back in the US, former South Carolina governor Nikki Haley is gaining more voter enthusiasm for her presidential candidacy while Rosalynn Carter&#39;s life is being celebrated in photos. And in a rare gathering of former first ladies, their distinct styles were on full display as they attended a memorial service for Mrs. Carter. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Navigates Divisions Over Gaza Inside the White House and Beyond</h3>
-<sub>By Erica L. Green</sub>
-<p>President Biden is facing deep anger over his solidarity with Israel among supporters and even from some staff members who have said they feel disenchanted with the president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<h3>As Congress Weighs Aid to Israel, Some Democrats Want Strings Attached</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Democrats are clashing with each other and the Biden administration over whether to attach conditions, including measures to avoid civilian casualties, to a major infusion of security assistance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Gaza Truce Aids Both Sides. Until the Calculus Changes.</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Both Israel and Hamas are reaping benefits from the cease-fire, but as the hostage-for-prisoner exchanges continue, Israeli leaders may feel growing pressure to resume the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<h3>In the West Bank, Release of Prisoners Deepens Support for Hamas</h3>
+<sub>By Christina Goldbaum and Hiba Yazbek</sub>
+<p>Some people in the West Bank, where frustration with the Palestinian Authority has been simmering for years, believe Hamas and other armed groups are the only ones they can trust to protect them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An Endorsement for Nikki Haley, and More</h3>
+<sub>By New York Times Audio</sub>
+<p>Plus, Hamas releases 12 more hostages, the true cost of avocados and Google says it will start purging accounts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In a Shaky Oil Market, OPEC Has Bitter Decisions to Make</h3>
+<sub>By Stanley Reed</sub>
+<p>Anticipating a drop in demand for 2024, major producers, led by Saudi Arabia, are trying to reduce supply.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Law Requires a Choice: Marijuana or a Gun?</h3>
+<sub>By Serge F. Kovaleski</sub>
+<p>Legal challenges are pending across the country against a federal law that prevents medical marijuana users from buying or owning firearms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Best TV Shows of 2023</h3>
+<sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
+<p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Reports Say Pope Francis Is Evicting U.S. Cardinal From His Vatican Home</h3>
@@ -79,29 +110,23 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Word of the action against Cardinal Raymond Burke came after the prelate’s increasingly pointed critiques of the reform-minded pope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Francis Cancels Trip to U.N. Climate Summit on Doctor’s Orders</h3>
-<sub>By Elisabetta Povoledo</sub>
-<p>Days after the pontiff was forced to slow down because of a flu, his doctors advised him to not travel to Dubai for COP28. Francis has made climate activism a hallmark of his papacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Haley, Rise in Polls Feeds Voter Enthusiasm on Trail</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>The crowds are her biggest yet, and voters are warming up to her candidacy, but Nikki Haley still faces a daunting task in taking down the front-runner, Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Charles T. Munger, Much More Than Warren Buffett’s No. 2, Dies at 99</h3>
-<sub>By Andrew Ross Sorkin and Robert D. Hershey Jr.</sub>
-<p>A billionaire himself, he was the witty vice chairman of Mr. Buffett’s powerhouse investment firm Berkshire Hathaway. But he had far more influence than his title suggested.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>The 10 Best Books of 2023</h3>
-<sub>By The New York Times Books Staff</sub>
-<p>The staff of The New York Times Book Review choose the year’s standout fiction and nonfiction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Chicken Tycoons vs. the Antitrust Hawks</h3>
+<sub>By H. Claire Brown</sub>
+<p>As part of a broader campaign against anticompetitive practices, the Biden administration has taken on the chicken industry. Why have the results been so paltry?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Memorial Celebrates Rosalynn Carter’s Life, a ‘Public Love Story’</h3>
-<sub>By Peter Baker</sub>
-<p>Former President Jimmy Carter emerged from hospice care to join a cast of political heavyweights paying tribute to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<h3>Rosalynn Carter’s Life in Photos</h3>
+<sub>By Rick Rojas</sub>
+<p>She rose to become the most politically active first lady since Eleanor Roosevelt. Yet her life began and ended dozens of miles from any interstate highway or even a stoplight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Americans Glimpse Jimmy Carter’s Frailty and His Resolve</h3>
@@ -113,24 +138,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h3>Rare Gathering of Former First Ladies Shows Style, and Subtle Differences</h3>
 <sub>By Vanessa Friedman</sub>
 <p>United (mostly) in black, their differences were in the details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Wife of Ukraine’s Spy Chief Was Poisoned, Officials Say</h3>
-<sub>By Marc Santora and Maria Varenikova</sub>
-<p>Marianna Budanova, whose husband is the director of military intelligence, is recovering in a hospital, the officials said. Her husband has long accused Russia of trying to kill him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Corporate America Has Dodged the Damage of High Rates. For Now.</h3>
-<sub>By Talmon Joseph Smith and Joe Rennison</sub>
-<p>Small businesses and risky borrowers face rising costs from the Federal Reserve’s moves, but the biggest companies have avoided taking a hit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Officials Hint That Rate Increases Are Over, and Investors Celebrate</h3>
-<sub>By Jeanna Smialek and Joe Rennison</sub>
-<p>Stocks and bonds were buoyed after even inflation-focused Federal Reserve officials suggested that rates may stay steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
