@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, November 28, Central Standard Time</p>
+<p>It is Wednesday, November 29, Central Standard Time</p>
 <p>
-There&#39;s been a lot going on in the world recently. In the Middle East, President Biden is dealing with inner divisions over the conflict in Gaza, but there&#39;s been a ceasefire that has benefited both sides, at least for now. The Pope has had to cancel his trip to the UN Climate Summit, and he&#39;s also evicted an American Cardinal from his Vatican home after some pointed criticism of the Pope. 
-
-In other news, Charles T. Munger (one of Warren Buffett&#39;s right-hand men) recently passed away, and Rosalynn Carter was honored for her public service after her death at 96 years old. Former first ladies recently had a rare gathering that showed style and subtle differences. Additionally, the wife of Ukraine&#39;s Spy Chief was poisoned, though she is recovering in the hospital.
-
-On the business side of news, Corporate America luckily managed to dodge damage from high rates for now while Federal Officials have hinted that rate increases may be over and investors are cheering-- boosting stocks and bonds alike!</p>
+In the US, President Biden is facing deep divisions as he shows solidarity with Israel. Meanwhile, a cease-fire in Gaza is benefiting both sides, and Pope Francis is taking action against a critical cardinal. On a lighter note, former first ladies came together for a memorial celebrating Rosalynn Carter&#39;s life. Overseas, Ukraine&#39;s spy chief&#39;s wife was reportedly poisoned by Russia, while the Federal Reserve has suggested they won&#39;t raise interest rates anymore. Corporate America is doing well despite this news, and investors are excited about the potential for more stability in their portfolios. Finally, The New York Times Book Review released their picks for the 10 best books of 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Navigates Divisions Over Gaza Inside the White House and Beyond</h3>
@@ -103,7 +99,7 @@ On the business side of news, Corporate America luckily managed to dodge damage 
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter Honored for Her ‘Tireless Dedication’ to Public Service</h3>
+<h3>Memorial Celebrates Rosalynn Carter’s Life, a ‘Public Love Story’</h3>
 <sub>By Peter Baker</sub>
 <p>Former President Jimmy Carter emerged from hospice care to join a cast of political heavyweights paying tribute to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
