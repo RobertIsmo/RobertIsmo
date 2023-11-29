@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 29, Central Standard Time</p>
 <p>
-There are a lot of international events taking place right now. In the US, Congress is discussing aid to Israel, while Democrats argue for things like civilian security measures. Meanwhile in Israel, Prime Minister Netanyahu&#39;s government is pushing him to continue the ceasefire following fighting with Hamas militants. Elsewhere, India is facing accusations for not taking warnings seriously after a tunnel collapse trapped 41 men. Outside of politics, there have been developments on the health front with life expectancy increasing and some incredible TV shows this year. Lastly, in the US we&#39;re seeing a trial beginning for the death of Elijah McClain and celebrating the life of Rosalynn Carter.</p>
+In the world today, there are a lot of issues to be aware of. U.S.-Iranian relations have become increasingly strained as both sides have been exchanging tit-for-tat attacks. In New York, an Indian man was arrested for plotting to kill a Sikh activist, which is concerning as it parallels a similar incident from June in Canada. On a brighter note, life expectancy in the U.S. has improved since COVID-19 deaths have been dropping, but health has not fully recovered yet. For entertainment, Maria Callas&#39; 100th birthday has been a reminder of her profound and radical career as a defining diva in the world of opera. In legal news, the Supreme Court is thinking about whether the SEC should be able to pursue enforcement actions before its own judges instead of in federal courts. The UAW is also making strides to push for nonunion plants in the auto industry. To top it off, tensions remain as criminal trials are being opened in the death of Elijah McClain, and abortion rights could potentially help red-state Democrats secure their senate seats again during re-elections this year. Apple seems to be doing its part to reduce green bubble shaming with its new name drop feature and tech experts say that users shouldn&#39;t be afraid to take advantage of it either. Lastly, Donald Trump&#39;s tenure in office is being examined and what he has done throughout his time in office continues to stir debate over why certain aspects remain relevant today.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Congress Weighs Aid to Israel, Some Democrats Want Strings Attached</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Democrats are clashing with each other and the Biden administration over whether to attach conditions, including measures to avoid civilian casualties, to a major infusion of security assistance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Some in Netanyahu’s Government Pressure Him to Reject Longer Cease-Fire</h3>
-<sub>By Sheera Frenkel</sub>
-<p>“Stopping the war &#x3D; breaking apart the government,” said Itamar Ben-Gvir, Israel’s far-right national security minister, who threatened to leave the governing coalition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fears Grow Over Fate of Bibas Family in Gaza</h3>
-<sub>By Talya Minsberg</sub>
-<p>Hamas’s armed wing said the hostages — a mother and her two young children — had been killed in Israeli airstrikes. Israel’s military said it was assessing the claim.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A U.S.-Iranian Miscalculation Could Lead to a Larger War, Officials Say</h3>
+<sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
+<p>U.S. forces and militias backed by Iran have launched tit-for-tat attacks, fueling concerns as Israeli forces have also clashed with Iranian-backed groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Charges Indian Man With Plotting to Kill Sikh Activist in New York</h3>
-<sub>By Jesse McKinley</sub>
-<p>American officials had expressed concerns to New Delhi about the thwarted plan to kill the man, who is a U.S. citizen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Jesse McKinley and Julian E. Barnes</sub>
+<p>American officials had expressed concerns to New Delhi about the thwarted plan to kill the man, who is a U.S. citizen. The plot that prosecutors described resembled a June assassination in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -92,34 +80,28 @@ There are a lot of international events taking place right now. In the US, Congr
 <p>But the country’s health has not fully rebounded from the pandemic, according to new data from the C.D.C.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In a Shaky Oil Market, OPEC Has Bitter Decisions to Make</h3>
-<sub>By Stanley Reed</sub>
-<p>Anticipating a drop in demand for 2024, major producers, led by Saudi Arabia, are trying to reduce supply.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Reports Say Pope Francis Is Evicting U.S. Cardinal From His Vatican Home</h3>
-<sub>By Jason Horowitz and Ruth Graham</sub>
-<p>Word of the action against Cardinal Raymond Burke came after the prelate’s increasingly pointed critiques of the reform-minded pope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Maria Callas Was Opera’s Defining Diva. She Still Is.</h3>
 <sub>By Zachary Woolfe</sub>
 <p>Callas would have turned 100 on Dec. 2. She and her flash of a career remain beacons of artistic integrity and profundity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>India Ignored Repeated Warnings Before Tunnel Trapped 41 Men</h3>
-<sub>By Mujib Mashal and Suhasini Raj</sub>
-<p>Environmentalists argued that a road project was destabilizing the fragile Himalayan landscape. The government maneuvered to continue it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Seems Wary of In-House S.E.C. Tribunals</h3>
+<sub>By Adam Liptak</sub>
+<p>The justices heard arguments over whether the Constitution allows the agency to pursue enforcement actions before its own judges instead of in federal courts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best TV Shows of 2023</h3>
 <sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
 <p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.A.W. Announces Drive to Organize Nonunion Plants</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The United Automobile Workers’ effort, with a long-elusive goal, follows its success in securing big raises in contracts with the Detroit automakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -129,9 +111,27 @@ There are a lot of international events taking place right now. In the US, Congr
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter’s Life in Photos</h3>
-<sub>By Rick Rojas</sub>
-<p>She rose to become the most politically active first lady since Eleanor Roosevelt. Yet her life began and ended dozens of miles from any interstate highway or even a stoplight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Could Abortion Rights Rescue Red-State Democrats in the Senate?</h3>
+<sub>By Michael C. Bender and Anjali Huynh</sub>
+<p>Senator Sherrod Brown is betting that the issue will aid his re-election bid in Ohio, which recently upheld abortion rights. Allies of Senator Jon Tester of Montana are also hoping it helps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Apple Is Doing Its Part to End Green Bubble Shaming. It’s Our Turn.</h3>
+<sub>By Brian X. Chen</sub>
+<p>While texting technology will soon get better, the “blue versus green bubble” disparity is far from over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Don’t Be Afraid of the iPhone’s NameDrop Feature, Experts Say</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Police departments have issued warnings about a new Apple setting that lets users exchange contact information by bringing their devices together. Tech experts say the fears are overblown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Donald Trump and the Jefferson Davis Problem</h3>
+<sub>By Mark A. Graber</sub>
+<p>Why Section 3 of the 14th Amendment was added to the Constitution and remains relevant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
