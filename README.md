@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 29, Central Standard Time</p>
 <p>
-Right now, things are heating up across the world. In the US, Congress is in the midst of debating whether to send aid to Israel without attaching strings, such as measures to protect civilian casualties. In the West Bank, people are expressing support for Hamas in response to mass prisoner releases. 
+There is a lot happening in the world right now. In the US, Congress is considering providing aid to Israel, and some Democrats are attaching strings to the aid. In the West Bank, people are increasingly supporting Hamas after prisoners were released. Meanwhile, in Israel, there is internal pressure on Prime Minister Netanyahu to reject longer ceasefire terms with Hamas. 
 
-Oil markets are struggling due to predictions of a drop in demand for 2024, and OPEC countries like Saudi Arabia are looking for a way to reduce supply. Meanwhile, a federal law prohibiting medical marijuana users from buying or owning firearms has sparked legal challenges across the country. 
+Internationally, OPEC is trying to reduce supply due to an anticipated drop in demand in 2024. Federal law in the US forces a choice between marijuana use and owning firearms. In entertainment, TV shows had a noteworthy year despite many difficulties caused by the coronavirus pandemic. 
 
-The past year was filled with amazing TV shows like &quot;The Bear,&quot; &quot;Beef,&quot; &quot;Happy Valley,&quot; and &quot;Succession&quot;, and now there&#39;s even talk that Pope Francis is preparing to evict Cardinal Raymond Burke from his Vatican home due to critiques against the reform-minded pope. 
-
-Back in the US, former South Carolina governor Nikki Haley is gaining more voter enthusiasm for her presidential candidacy while Rosalynn Carter&#39;s life is being celebrated in photos. And in a rare gathering of former first ladies, their distinct styles were on full display as they attended a memorial service for Mrs. Carter. </p>
+In news about Pope Francis, reports say he is evicting a US cardinal from his Vatican home because of disagreements with him. There is also an increasing level of enthusiasm for Haley&#39;s candidacy for president as she looks to take down current front-runner Donald Trump. Red-state Democrats in the Senate may be counting on abortion rights to help their re-election bids as well. Lastly, there are intense conflicts between chicken tycoons and antitrust hawks that President Biden&#39;s administration has failed to bridge satisfactorily.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Congress Weighs Aid to Israel, Some Democrats Want Strings Attached</h3>
@@ -78,6 +76,12 @@ Back in the US, former South Carolina governor Nikki Haley is gaining more voter
 <h3>In the West Bank, Release of Prisoners Deepens Support for Hamas</h3>
 <sub>By Christina Goldbaum and Hiba Yazbek</sub>
 <p>Some people in the West Bank, where frustration with the Palestinian Authority has been simmering for years, believe Hamas and other armed groups are the only ones they can trust to protect them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Some in Netanyahu’s Government Pressure Him to Reject Longer Cease-Fire</h3>
+<sub>By Sheera Frenkel</sub>
+<p>“Stopping the war &#x3D; breaking apart the government,” said Itamar Ben-Gvir, Israel’s far-right national security minister, who threatened to leave the governing coalition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,6 +120,12 @@ Back in the US, former South Carolina governor Nikki Haley is gaining more voter
 <p>The crowds are her biggest yet, and voters are warming up to her candidacy, but Nikki Haley still faces a daunting task in taking down the front-runner, Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Could Abortion Rights Rescue Red-State Democrats in the Senate?</h3>
+<sub>By Michael C. Bender and Anjali Huynh</sub>
+<p>Senator Sherrod Brown is betting that the issue will aid his re-election bid in Ohio, which recently upheld abortion rights. Allies of Senator Jon Tester of Montana are also hoping it helps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>The Chicken Tycoons vs. the Antitrust Hawks</h3>
 <sub>By H. Claire Brown</sub>
@@ -127,18 +137,6 @@ Back in the US, former South Carolina governor Nikki Haley is gaining more voter
 <sub>By Rick Rojas</sub>
 <p>She rose to become the most politically active first lady since Eleanor Roosevelt. Yet her life began and ended dozens of miles from any interstate highway or even a stoplight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Americans Glimpse Jimmy Carter’s Frailty and His Resolve</h3>
-<sub>By Rick Rojas and Jacey Fortin</sub>
-<p>“Come hell or high water, Jimmy Carter was going to use his inner resources to be there,” the presidential historian Douglas Brinkley said of Mr. Carter’s emerging from hospice care for his wife’s memorial service.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Rare Gathering of Former First Ladies Shows Style, and Subtle Differences</h3>
-<sub>By Vanessa Friedman</sub>
-<p>United (mostly) in black, their differences were in the details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
