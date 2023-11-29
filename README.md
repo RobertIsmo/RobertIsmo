@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 29, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, Congress is considering providing aid to Israel, and some Democrats are attaching strings to the aid. In the West Bank, people are increasingly supporting Hamas after prisoners were released. Meanwhile, in Israel, there is internal pressure on Prime Minister Netanyahu to reject longer ceasefire terms with Hamas. 
-
-Internationally, OPEC is trying to reduce supply due to an anticipated drop in demand in 2024. Federal law in the US forces a choice between marijuana use and owning firearms. In entertainment, TV shows had a noteworthy year despite many difficulties caused by the coronavirus pandemic. 
-
-In news about Pope Francis, reports say he is evicting a US cardinal from his Vatican home because of disagreements with him. There is also an increasing level of enthusiasm for Haley&#39;s candidacy for president as she looks to take down current front-runner Donald Trump. Red-state Democrats in the Senate may be counting on abortion rights to help their re-election bids as well. Lastly, there are intense conflicts between chicken tycoons and antitrust hawks that President Biden&#39;s administration has failed to bridge satisfactorily.</p>
+There are a lot of international events taking place right now. In the US, Congress is discussing aid to Israel, while Democrats argue for things like civilian security measures. Meanwhile in Israel, Prime Minister Netanyahu&#39;s government is pushing him to continue the ceasefire following fighting with Hamas militants. Elsewhere, India is facing accusations for not taking warnings seriously after a tunnel collapse trapped 41 men. Outside of politics, there have been developments on the health front with life expectancy increasing and some incredible TV shows this year. Lastly, in the US we&#39;re seeing a trial beginning for the death of Elijah McClain and celebrating the life of Rosalynn Carter.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Congress Weighs Aid to Israel, Some Democrats Want Strings Attached</h3>
@@ -73,21 +69,27 @@ In news about Pope Francis, reports say he is evicting a US cardinal from his Va
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In the West Bank, Release of Prisoners Deepens Support for Hamas</h3>
-<sub>By Christina Goldbaum and Hiba Yazbek</sub>
-<p>Some people in the West Bank, where frustration with the Palestinian Authority has been simmering for years, believe Hamas and other armed groups are the only ones they can trust to protect them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Some in Netanyahu’s Government Pressure Him to Reject Longer Cease-Fire</h3>
 <sub>By Sheera Frenkel</sub>
 <p>“Stopping the war &#x3D; breaking apart the government,” said Itamar Ben-Gvir, Israel’s far-right national security minister, who threatened to leave the governing coalition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>An Endorsement for Nikki Haley, and More</h3>
-<sub>By New York Times Audio</sub>
-<p>Plus, Hamas releases 12 more hostages, the true cost of avocados and Google says it will start purging accounts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fears Grow Over Fate of Bibas Family in Gaza</h3>
+<sub>By Talya Minsberg</sub>
+<p>Hamas’s armed wing said the hostages — a mother and her two young children — had been killed in Israeli airstrikes. Israel’s military said it was assessing the claim.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Charges Indian Man With Plotting to Kill Sikh Activist in New York</h3>
+<sub>By Jesse McKinley</sub>
+<p>American officials had expressed concerns to New Delhi about the thwarted plan to kill the man, who is a U.S. citizen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>U.S. Life Expectancy Creeps Up as Covid Deaths Fall</h3>
+<sub>By Emily Anthes and Benjamin Mueller</sub>
+<p>But the country’s health has not fully rebounded from the pandemic, according to new data from the C.D.C.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -96,10 +98,22 @@ In news about Pope Francis, reports say he is evicting a US cardinal from his Va
 <p>Anticipating a drop in demand for 2024, major producers, led by Saudi Arabia, are trying to reduce supply.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Law Requires a Choice: Marijuana or a Gun?</h3>
-<sub>By Serge F. Kovaleski</sub>
-<p>Legal challenges are pending across the country against a federal law that prevents medical marijuana users from buying or owning firearms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Reports Say Pope Francis Is Evicting U.S. Cardinal From His Vatican Home</h3>
+<sub>By Jason Horowitz and Ruth Graham</sub>
+<p>Word of the action against Cardinal Raymond Burke came after the prelate’s increasingly pointed critiques of the reform-minded pope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Maria Callas Was Opera’s Defining Diva. She Still Is.</h3>
+<sub>By Zachary Woolfe</sub>
+<p>Callas would have turned 100 on Dec. 2. She and her flash of a career remain beacons of artistic integrity and profundity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>India Ignored Repeated Warnings Before Tunnel Trapped 41 Men</h3>
+<sub>By Mujib Mashal and Suhasini Raj</sub>
+<p>Environmentalists argued that a road project was destabilizing the fragile Himalayan landscape. The government maneuvered to continue it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -108,28 +122,10 @@ In news about Pope Francis, reports say he is evicting a US cardinal from his Va
 <p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Reports Say Pope Francis Is Evicting U.S. Cardinal From His Vatican Home</h3>
-<sub>By Jason Horowitz and Ruth Graham</sub>
-<p>Word of the action against Cardinal Raymond Burke came after the prelate’s increasingly pointed critiques of the reform-minded pope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Haley, Rise in Polls Feeds Voter Enthusiasm on Trail</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>The crowds are her biggest yet, and voters are warming up to her candidacy, but Nikki Haley still faces a daunting task in taking down the front-runner, Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Could Abortion Rights Rescue Red-State Democrats in the Senate?</h3>
-<sub>By Michael C. Bender and Anjali Huynh</sub>
-<p>Senator Sherrod Brown is betting that the issue will aid his re-election bid in Ohio, which recently upheld abortion rights. Allies of Senator Jon Tester of Montana are also hoping it helps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Chicken Tycoons vs. the Antitrust Hawks</h3>
-<sub>By H. Claire Brown</sub>
-<p>As part of a broader campaign against anticompetitive practices, the Biden administration has taken on the chicken industry. Why have the results been so paltry?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Criminal Trial of Paramedics Opens in the Death of Elijah McClain</h3>
+<sub>By Audra D. S. Burch and Kelley Manley</sub>
+<p>The third and final trial over Mr. McClain’s 2019 death examines the role of medics who responded while the young Black man was in police custody.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
