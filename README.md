@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the United States, President Biden is facing deep anger over his solidarity with Israel from both supporters and staff members. Elsewhere in the world, a cease-fire between Israel and Hamas is aiding both sides, while Pope Francis has been making changes to the Vatican and had to cancel a trip on doctor&#39;s orders. In the business world, Charles T. Munger, the wealthy vice chairman of Berkshire Hathaway, passed away at 99 years old. Political heavyweights gathered together to honor Rosalynn Carter for her public service after she died last week. In Ukraine, officials say that the wife of their spy chief was poisoned but is recovering in hospital.</p>
+There&#39;s been a lot going on in the world recently. In the Middle East, President Biden is dealing with inner divisions over the conflict in Gaza, but there&#39;s been a ceasefire that has benefited both sides, at least for now. The Pope has had to cancel his trip to the UN Climate Summit, and he&#39;s also evicted an American Cardinal from his Vatican home after some pointed criticism of the Pope. 
+
+In other news, Charles T. Munger (one of Warren Buffett&#39;s right-hand men) recently passed away, and Rosalynn Carter was honored for her public service after her death at 96 years old. Former first ladies recently had a rare gathering that showed style and subtle differences. Additionally, the wife of Ukraine&#39;s Spy Chief was poisoned, though she is recovering in the hospital.
+
+On the business side of news, Corporate America luckily managed to dodge damage from high rates for now while Federal Officials have hinted that rate increases may be over and investors are cheering-- boosting stocks and bonds alike!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Navigates Divisions Over Gaza Inside the White House and Beyond</h3>
@@ -92,24 +96,6 @@ There is a lot going on in the world right now. In the United States, President 
 <p>A billionaire himself, he was the witty vice chairman of Mr. Buffett’s powerhouse investment firm Berkshire Hathaway. But he had far more influence than his title suggested.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Gavin Newsom Wants Fox News Viewers to Hear Him Out</h3>
-<sub>By Adam Nagourney</sub>
-<p>After sparring twice with Sean Hannity, Gov. Gavin Newsom of California will jump into the ring this week with Gov. Ron DeSantis of Florida. The stakes are high for both men.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Watch the DeSantis-Newsom Debate</h3>
-<sub>By Chris Cameron</sub>
-<p>The unusual event, between a Republican presidential candidate and a high-profile Democratic governor who has been a surrogate for the Biden administration, will be moderated by Sean Hannity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Koch Network Endorses Nikki Haley in Bid to Push G.O.P. Past Trump</h3>
-<sub>By Maggie Haberman, Shane Goldmacher and Jonathan Swan</sub>
-<p>The support will give Ms. Haley more organizational strength in the field as she battles Gov. Ron DeSantis of Florida for the No. 2 spot in the Republican presidential race.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>The 10 Best Books of 2023</h3>
 <sub>By The New York Times Books Staff</sub>
@@ -122,6 +108,12 @@ There is a lot going on in the world right now. In the United States, President 
 <p>Former President Jimmy Carter emerged from hospice care to join a cast of political heavyweights paying tribute to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Americans Glimpse Jimmy Carter’s Frailty and His Resolve</h3>
+<sub>By Rick Rojas and Jacey Fortin</sub>
+<p>“Come hell or high water, Jimmy Carter was going to use his inner resources to be there,” the presidential historian Douglas Brinkley said of Mr. Carter’s emerging from hospice care for his wife’s memorial service.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Rare Gathering of Former First Ladies Shows Style, and Subtle Differences</h3>
 <sub>By Vanessa Friedman</sub>
@@ -132,6 +124,18 @@ There is a lot going on in the world right now. In the United States, President 
 <h3>Wife of Ukraine’s Spy Chief Was Poisoned, Officials Say</h3>
 <sub>By Marc Santora and Maria Varenikova</sub>
 <p>Marianna Budanova, whose husband is the director of military intelligence, is recovering in a hospital, the officials said. Her husband has long accused Russia of trying to kill him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Corporate America Has Dodged the Damage of High Rates. For Now.</h3>
+<sub>By Talmon Joseph Smith and Joe Rennison</sub>
+<p>Small businesses and risky borrowers face rising costs from the Federal Reserve’s moves, but the biggest companies have avoided taking a hit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fed Officials Hint That Rate Increases Are Over, and Investors Celebrate</h3>
+<sub>By Jeanna Smialek and Joe Rennison</sub>
+<p>Stocks and bonds were buoyed after even inflation-focused Federal Reserve officials suggested that rates may stay steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
