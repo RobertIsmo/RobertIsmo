@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, November 28, Central Standard Time</p>
 <p>
-Hello! I&#39;m catching you up on some of the big news stories happening around the world. President Biden is facing divisions inside the White House and beyond over his solidarity with Israel, but Hamas has released another group of 12 hostages and a fragile cease-fire continues. Malawi is sending thousands of farmworkers to Israel and Chinese families are sending money overseas as a sign of worry about their economic and political future. In addition, US-China student exchanges are under threat due to geopolitics, former California Governor Gavin Newsom is debating current Florida Governor Ron DeSantis, who is vying for the No. 2 position in the Republican presidential race, Koch Network has endorsed Nikki Haley as they try to push the GOP past Trump, The New York Times Book Review has chosen its 10 best books of 2023, and Rosalynn Carter was honored at her memorial service by presidents and first ladies. Finally, NATO leaders are concerned about US aid for Ukraine as American funding is running down and a counteroffensive appears stalled. Wow, that&#39;s a lot of news!</p>
+There is a lot going on in the world right now. In the United States, President Biden is facing deep anger over his solidarity with Israel from both supporters and staff members. Elsewhere in the world, a cease-fire between Israel and Hamas is aiding both sides, while Pope Francis has been making changes to the Vatican and had to cancel a trip on doctor&#39;s orders. In the business world, Charles T. Munger, the wealthy vice chairman of Berkshire Hathaway, passed away at 99 years old. Political heavyweights gathered together to honor Rosalynn Carter for her public service after she died last week. In Ukraine, officials say that the wife of their spy chief was poisoned but is recovering in hospital.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Navigates Divisions Over Gaza Inside the White House and Beyond</h3>
@@ -69,27 +69,27 @@ Hello! I&#39;m catching you up on some of the big news stories happening around 
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hamas has released another group of 12 hostages, Israel says.</h3>
-<sub>By Talya Minsberg</sub>
-<p>The hostages released on Tuesday, the fifth day of a fragile cease-fire, included three members of one family, according to a list released by the Israeli prime minister’s office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Gaza Truce Aids Both Sides. Until the Calculus Changes.</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Both Israel and Hamas are reaping benefits from the cease-fire, but as the hostage-for-prisoner exchanges continue, Israeli leaders may feel growing pressure to resume the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Malawi plans to send thousands of farmworkers to Israel.</h3>
-<sub>By Golden Matonga and John Eligon</sub>
-<p>Opposition p  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Reports Say Pope Francis Is Evicting U.S. Cardinal From His Vatican Home</h3>
+<sub>By Jason Horowitz and Ruth Graham</sub>
+<p>Word of the action against Cardinal Raymond Burke came after the prelate’s increasingly pointed critiques of the reform-minded pope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Francis Cancels Trip to U.N. Climate Summit on Doctor’s Orders</h3>
+<sub>By Elisabetta Povoledo</sub>
+<p>Days after the pontiff was forced to slow down because of a flu, his doctors advised him to not travel to Dubai for COP28. Francis has made climate activism a hallmark of his papacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Gold Bars and Tokyo Apartments: How Money Is Flowing Out of China.</h3>
-<sub>By Keith Bradsher and Joy Dong</sub>
-<p>Chinese families are sending money overseas, a sign of worry about the country’s economic and political future. But a cheaper currency is also helping exports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Can U.S.-China Student Exchanges Survive Geopolitics?</h3>
-<sub>By Vivian Wang</sub>
-<p>The flow of students between the countries has been a mainstay of their relationship, even when ties have soured. Now these exchanges, too, are under threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Charles T. Munger, Much More Than Warren Buffett’s No. 2, Dies at 99</h3>
+<sub>By Andrew Ross Sorkin and Robert D. Hershey Jr.</sub>
+<p>A billionaire himself, he was the witty vice chairman of Mr. Buffett’s powerhouse investment firm Berkshire Hathaway. But he had far more influence than his title suggested.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,21 +117,21 @@ Hello! I&#39;m catching you up on some of the big news stories happening around 
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter Honored by Presidents and Fellow First Ladies</h3>
+<h3>Rosalynn Carter Honored for Her ‘Tireless Dedication’ to Public Service</h3>
 <sub>By Peter Baker</sub>
 <p>Former President Jimmy Carter emerged from hospice care to join a cast of political heavyweights paying tribute to Mrs. Carter, who died at 96 last week at her home in Plains, Ga.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Carters’ Hometown Mourns for the Love of a Lifetime</h3>
-<sub>By Rick Rojas</sub>
-<p>Their marriage was admired for its endurance — 77 years — and for the affection between the two people in it. “It radiated,” one acquaintance said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Rare Gathering of Former First Ladies Shows Style, and Subtle Differences</h3>
+<sub>By Vanessa Friedman</sub>
+<p>United (mostly) in black, their differences were in the details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>NATO Leaders Try to Pin Down U.S. on Ukraine Aid as Republicans Waver</h3>
-<sub>By Lara Jakes</sub>
-<p>Continued American funding for Ukraine was a key concern for leaders in the military alliance, who met as the current allocation was running down and a Ukrainian counteroffensive appeared stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wife of Ukraine’s Spy Chief Was Poisoned, Officials Say</h3>
+<sub>By Marc Santora and Maria Varenikova</sub>
+<p>Marianna Budanova, whose husband is the director of military intelligence, is recovering in a hospital, the officials said. Her husband has long accused Russia of trying to kill him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
