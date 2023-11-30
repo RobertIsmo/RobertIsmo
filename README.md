@@ -58,25 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, November 29, Central Standard Time</p>
-<p>There has been a lot going on in the world lately. Former Secretary of State Henry Kissinger passed away at the age of 100. There were also US charges against an Indian official for directing an assassination plot linked to a killing in Canada. Furthermore, there have been hostage exchanges around the world, including releases of activists like Ahed Tamimi, who had been arrested without being charged. Elon Musk has been involved in controversies related to advertiser boycotts, and Pope Francis is cracking down on those trying to derail his agenda for the Catholic Church. Finally, Maria Callas was celebrated on the occasion of her 100th birthday, and several top TV series from this year were recognized.</p>
+<p>It is Thursday, November 30, Central Standard Time</p>
+<p>
+There has been a lot of news in the world lately. Henry Kissinger, one of the most influential secretaries of state since World War II, died at age 100 earlier this week. There have also been recent hostage releases in the Middle East involving Israelis, Thai citizens, and Israeli-Russian dual citizens. Activist Ahed Tamimi was among those released. The United States recently charged an Indian official for allegedly orchestrating an assassination plot in New York City. To further complicate matters, Elon Musk is in the middle of a dispute with advertisers and companies for his company X. On a more positive note, there are some great new TV shows out this year that are getting lots of buzz. Finally, New York is about to implement its firstever congestion pricing program to discourage drivers from contributing to traffic congestion.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Henry Kissinger Is Dead at 100; Shaped Nation’s Cold War History</h3>
 <sub>By David E. Sanger</sub>
 <p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Says Indian Official Directed Assassination Plot in New York</h3>
-<sub>By Jesse McKinley, Julian E. Barnes and Ian Austen</sub>
-<p>A Manhattan indictment says the agent orchestrated an unsuccessful plot against a Sikh separatist, a plan linked to a killing in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>5 Takeaways From U.S. Charges of Failed Plot to Kill Sikh Activist</h3>
-<sub>By Ed Shanahan</sub>
-<p>The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -89,6 +78,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h3>The activist Ahed Tamimi is among the Palestinians freed in the latest exchange.</h3>
 <sub>By Anushka Patil</sub>
 <p>The 22-year-old activist was jailed for three weeks without being charged. Her arrest was one of thousands made during the Israeli military’s crackdown in the occupied West Bank after the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Says Indian Official Directed Assassination Plot in New York</h3>
+<sub>By Jesse McKinley, Julian E. Barnes and Ian Austen</sub>
+<p>A Manhattan indictment says the agent orchestrated an unsuccessful plot against a Sikh separatist, a plan linked to a killing in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>5 Takeaways From U.S. Charges of Failed Plot to Kill Sikh Activist</h3>
+<sub>By Ed Shanahan</sub>
+<p>The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,21 +117,21 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Maria Callas Was Opera’s Defining Diva. She Still Is.</h3>
-<sub>By Zachary Woolfe</sub>
-<p>Callas would have turned 100 on Dec. 2. She and her flash of a career remain beacons of artistic integrity and profundity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best TV Shows of 2023</h3>
 <sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
 <p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Rosalynn Carter Returns for a Final Time to the Place She Found Most Comfort</h3>
-<sub>By Rick Rojas</sub>
-<p>A simple red brick church where Mrs. Carter had worshiped for decades was filled on Wednesday with the people who had known her best.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>$15 Tolls Likely for Nation’s First Congestion Pricing Program</h3>
+<sub>By Ana Ley</sub>
+<p>New York wants to discourage drivers from contributing to some of the world’s heaviest traffic. After decades of delays, the plan is nearly a reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What to Know About Congestion Pricing</h3>
+<sub>By Claire Fahy</sub>
+<p>The M.T.A. board regulating congestion pricing has detailed recommendations for the program, including how much drivers should pay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
