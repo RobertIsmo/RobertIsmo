@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-There has been a lot of news in the world lately. Henry Kissinger, one of the most influential secretaries of state since World War II, died at age 100 earlier this week. There have also been recent hostage releases in the Middle East involving Israelis, Thai citizens, and Israeli-Russian dual citizens. Activist Ahed Tamimi was among those released. The United States recently charged an Indian official for allegedly orchestrating an assassination plot in New York City. To further complicate matters, Elon Musk is in the middle of a dispute with advertisers and companies for his company X. On a more positive note, there are some great new TV shows out this year that are getting lots of buzz. Finally, New York is about to implement its firstever congestion pricing program to discourage drivers from contributing to traffic congestion.</p>
+I wanted to catch up and let you know what&#39;s been happening in the news lately. We have experienced a lot of changes in the past few months. Henry Kissinger, one of the most powerful secretaries of state of the postwar era, recently passed away at 100 years old. His impact on Cold War history is still being felt today in international relations with China, Russia, and the Middle East. Another major news event was the hostage exchange between Israel and Palestinians this past week—including the well-known activist Ahed Tamimi. At the same time, an assassination plot has been uncovered in New York that is linked to a killing in Canada and could potentially strain U.S.-India relations. Finally, Elon Musk has stirring up controversy with his opposition to a boycott of his company X, while also making headlines recently by appearing at an exclusive conference about business and politics. On a lighter note, there have been some great new TV shows this year—so if you&#39;re looking for something to watch we have plenty of choices!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Henry Kissinger Is Dead at 100; Shaped Nation’s Cold War History</h3>
 <sub>By David E. Sanger</sub>
 <p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Many Chinese, Kissinger’s Death Ends an Era in U.S.-China Relations</h3>
+<sub>By Keith Bradsher, Siyi Zhao and Amy Chang Chien</sub>
+<p>In Beijing’s praise of his legacy, there is implicit criticism of a U.S. shift in recent years away from cooperation and toward intensifying competition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Hostages Released on Wednesday</h3>
@@ -79,6 +85,12 @@ There has been a lot of news in the world lately. Henry Kissinger, one of the mo
 <sub>By Anushka Patil</sub>
 <p>The 22-year-old activist was jailed for three weeks without being charged. Her arrest was one of thousands made during the Israeli military’s crackdown in the occupied West Bank after the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shooting in Jerusalem Kills at Least 3 People, Israeli Officials Say</h3>
+<sub>By Aaron Boxerman</sub>
+<p>Israel’s Shin Bet security service said the gunmen were Palestinian brothers from East Jerusalem who were affiliated with Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Says Indian Official Directed Assassination Plot in New York</h3>
@@ -120,18 +132,6 @@ There has been a lot of news in the world lately. Henry Kissinger, one of the mo
 <h3>Best TV Shows of 2023</h3>
 <sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
 <p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>$15 Tolls Likely for Nation’s First Congestion Pricing Program</h3>
-<sub>By Ana Ley</sub>
-<p>New York wants to discourage drivers from contributing to some of the world’s heaviest traffic. After decades of delays, the plan is nearly a reality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What to Know About Congestion Pricing</h3>
-<sub>By Claire Fahy</sub>
-<p>The M.T.A. board regulating congestion pricing has detailed recommendations for the program, including how much drivers should pay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
