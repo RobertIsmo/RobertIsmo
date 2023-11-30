@@ -59,37 +59,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 29, Central Standard Time</p>
-<p>
-Right now, some serious and concerning news is happening across the world. In New York, a U.S. Attorney accused an Indian official of directing an assassination plot in Manhattan. In the Middle East, there is fear that a miscommunication between U.S. and Iranian forces could lead to a larger war. There were 10 Israelis and four Thai nationals that were recently released as hostages from an ongoing conflict, and Senate Majority Leader Chuck Schumer warned against any form of antisemitism. On a lighter note, Tesla CEO Elon Musk got feisty with advertisers who tried to pull back from one of his companies. Pope Francis has been cracking down on any critics that attempt to derail his agenda for the Catholic Church. Maria Callas would have turned 100 recently and her life continues to be a beacon of artistic integrity and profundity in opera. Health-wise, U.S. life expectancy is continuing to creep up but there are still those deaths related to Covid-19 that make it difficult for the country’s health to fully recover. In the Supreme Court this week, there is concern over whether certain enforcement actions can be taken before its own judges instead of in federal courts. And finally, looking back at one of the top TV series this past year there was ‘The Bear,’ ‘Beef,’ ‘Happy Valley,’ ‘Reservation Dogs’ and ‘Succession’ that dazzled us while the business was in disarray due to Covid-19. Rosalynn Carter made a final trip back to her home church for her last goodbye with those who had known her best.</p>
+<p>There has been a lot going on in the world lately. Former Secretary of State Henry Kissinger passed away at the age of 100. There were also US charges against an Indian official for directing an assassination plot linked to a killing in Canada. Furthermore, there have been hostage exchanges around the world, including releases of activists like Ahed Tamimi, who had been arrested without being charged. Elon Musk has been involved in controversies related to advertiser boycotts, and Pope Francis is cracking down on those trying to derail his agenda for the Catholic Church. Finally, Maria Callas was celebrated on the occasion of her 100th birthday, and several top TV series from this year were recognized.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Henry Kissinger Is Dead at 100; Shaped Nation’s Cold War History</h3>
+<sub>By David E. Sanger</sub>
+<p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>U.S. Says Indian Official Directed Assassination Plot in New York</h3>
 <sub>By Jesse McKinley, Julian E. Barnes and Ian Austen</sub>
 <p>A Manhattan indictment says the agent orchestrated an unsuccessful plot against a Sikh separatist, a plan linked to a killing in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. v. Gupta Indictment</h3>
-<sub></sub>
-<p>U.S. v. Gupta Indictment  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A U.S.-Iranian Miscalculation Could Lead to a Larger War, Officials Say</h3>
-<sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
-<p>U.S. forces and militias backed by Iran have launched tit-for-tat attacks, fueling concerns as Israeli forces have also clashed with Iranian-backed groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>5 Takeaways From U.S. Charges of Failed Plot to Kill Sikh Activist</h3>
+<sub>By Ed Shanahan</sub>
+<p>The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Here’s What We Know About the Hostages Released on Wednesday</h3>
 <sub>By Roni Rabin, Gaya Gupta, Rachel Abrams and Katherine Rosman</sub>
-<p>The sixth round of hostage releases since the cease-fire began involved 10 Israelis and four Thai nationals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The sixth round of hostage releases since the cease-fire began involved 10 Israelis, four Thai nationals and two Israeli-Russian dual citizens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schumer Condemns Antisemitism, Warning the Left Against Abetting It</h3>
-<sub>By Annie Karni</sub>
-<p>The majority leader and highest-ranking Jewish official in the country cautioned progressives and young people against unwittingly embracing bigotry in the name of social justice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The activist Ahed Tamimi is among the Palestinians freed in the latest exchange.</h3>
+<sub>By Anushka Patil</sub>
+<p>The 22-year-old activist was jailed for three weeks without being charged. Her arrest was one of thousands made during the Israeli military’s crackdown in the occupied West Bank after the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,28 +97,28 @@ Right now, some serious and concerning news is happening across the world. In Ne
 <p>Although Mr. Musk acknowledged that an extended boycott could bankrupt X, he suggested that the public would blame the brands rather than him for its collapse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk, Kamala Harris, Isaac Herzog: Takeaways from the 2023 DealBook Summit</h3>
+<sub>By J. Edward Moreno and Michael J. de la Merced</sub>
+<p>The interviews included a defiant Mr. Musk on an advertiser boycott at X, the vice president on the Biden administration’s challenges reaching voters, and the Israeli president on hostages in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pope’s Critics Feel the Sting After His Patience Runs Out</h3>
 <sub>By Jason Horowitz</sub>
 <p>Vatican observers see a leader more willing to crack down on those seeking to derail his agenda for the Roman Catholic Church.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In the American Church, the Pope Has Critics Among Leaders and Laypeople</h3>
+<sub>By Ruth Graham</sub>
+<p>Pockets of conservative Catholics exist at all levels, and they see the pope’s decision to punish an outspoken cardinal as another move against them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Maria Callas Was Opera’s Defining Diva. She Still Is.</h3>
 <sub>By Zachary Woolfe</sub>
 <p>Callas would have turned 100 on Dec. 2. She and her flash of a career remain beacons of artistic integrity and profundity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>U.S. Life Expectancy Creeps Up as Covid Deaths Fall</h3>
-<sub>By Emily Anthes and Benjamin Mueller</sub>
-<p>But the country’s health has not fully rebounded from the pandemic, according to new data from the C.D.C.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Seems Wary of In-House S.E.C. Tribunals</h3>
-<sub>By Adam Liptak</sub>
-<p>The justices heard arguments over whether the Constitution allows the agency to pursue enforcement actions before its own judges instead of in federal courts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
