@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-Right now, a lot is going on in the world. Henry Kissinger, the famous American diplomat and former Secretary of State, passed away at the age of 100, so we&#39;re experiencing some reflection on his complicated legacy. Also in the US, Bernie Sanders has been facing criticism from progressives for his stance on Israel&#39;s war against Hamas. On the international stage, hostages freed from Gaza have come home with severe physical and psychological trauma. In relation to that, Indian officials have been accused of an assassination plot in New York, which could disrupt India-US relations. 
-
-On top of that, Biden&#39;s administration recently proposed requiring all lead pipes in the US to be replaced within 10 years, a costly measure that would help protect drinking water from contamination. In more uplifting news, there are some great albums that came out this year! Airlines are also looking into powering their jets with biofuels such as corn to fight global warming — but it would require a lot of resources. Last but not least, there is an expose about a group of deputies allegedly getting away with brutality for years and never facing repercussions — many people hope that will change soon.</p>
+There are a number of events happening around the world right now. One of the most recent news stories is the death of Henry Kissinger, a Cold War statesman who played a major role in international relations with China, Russia, and the Middle East. His legacy is still being felt in countries like Vietnam, Cambodia, and elsewhere. In Israel, there&#39;s currently a war going on between Hamas and the country. There&#39;s been a backlash from some progressives against Vermont Senator Bernie Sanders for not calling for an immediate cease-fire in Gaza. In the United States, federal prosecutors have indicted an Indian official in connection with an attempted assassination plot in New York City while President Biden&#39;s administration has proposed replacing nine million lead pipes across the country over the course of 10 years. Finally, airlines around the world are racing to make jet fuel from corn as part of their efforts to fight global warming.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Henry Kissinger Is Dead at 100; Shaped Nation’s Cold War History</h3>
@@ -70,10 +68,16 @@ On top of that, Biden&#39;s administration recently proposed requiring all lead 
 <p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Kissinger’s Legacy Still Ripples Through Vietnam and Cambodia</h3>
+<sub>By Mike Ives</sub>
+<p>His decision to authorize the bombing of Cambodia, efforts to extricate the U.S. from the Vietnam War and role in the rapprochement with China continue to be felt in Southeast Asia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kissinger Left the State Department a Half Century Ago. But He Never Left His Old Job.</h3>
+<h3>Henry Kissinger Always Tended to His Image, Even When It Came to His Obituary</h3>
 <sub>By David E. Sanger</sub>
-<p>Just this summer, the ultimate back-channel diplomat returned to Beijing, where he had negotiated the opening to China.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Interviewing Henry Kissinger was a bit like negotiating an arms control agreement: Full of complexity, nuance, evasion and declarations you had to check. And utterly fascinating.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -128,12 +132,6 @@ On top of that, Biden&#39;s administration recently proposed requiring all lead 
 <h3>Airlines Race Toward a Future of Powering Their Jets With Corn</h3>
 <sub>By Max Bearak, Dionne Searcey and Mira Rojanasakul</sub>
 <p>Carriers want to replace jet fuel with ethanol to fight global warming. That would require lots of corn, and lots of water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a ‘Goon Squad’ of Deputies Got Away With Years of Brutality</h3>
-<sub>By Brian Howey, Nate Rosenfield and Rory Doyle for The New York Times</sub>
-<p>They barged into homes in the middle of the night, then held people down while they beat and choked them, witnesses said. For years, signs of the violence went ignored.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
