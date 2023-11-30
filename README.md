@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-I wanted to catch up and let you know what&#39;s been happening in the news lately. We have experienced a lot of changes in the past few months. Henry Kissinger, one of the most powerful secretaries of state of the postwar era, recently passed away at 100 years old. His impact on Cold War history is still being felt today in international relations with China, Russia, and the Middle East. Another major news event was the hostage exchange between Israel and Palestinians this past week—including the well-known activist Ahed Tamimi. At the same time, an assassination plot has been uncovered in New York that is linked to a killing in Canada and could potentially strain U.S.-India relations. Finally, Elon Musk has stirring up controversy with his opposition to a boycott of his company X, while also making headlines recently by appearing at an exclusive conference about business and politics. On a lighter note, there have been some great new TV shows this year—so if you&#39;re looking for something to watch we have plenty of choices!</p>
+Right now, a lot is going on in the world. Henry Kissinger, the famous American diplomat and former Secretary of State, passed away at the age of 100, so we&#39;re experiencing some reflection on his complicated legacy. Also in the US, Bernie Sanders has been facing criticism from progressives for his stance on Israel&#39;s war against Hamas. On the international stage, hostages freed from Gaza have come home with severe physical and psychological trauma. In relation to that, Indian officials have been accused of an assassination plot in New York, which could disrupt India-US relations. 
+
+On top of that, Biden&#39;s administration recently proposed requiring all lead pipes in the US to be replaced within 10 years, a costly measure that would help protect drinking water from contamination. In more uplifting news, there are some great albums that came out this year! Airlines are also looking into powering their jets with biofuels such as corn to fight global warming — but it would require a lot of resources. Last but not least, there is an expose about a group of deputies allegedly getting away with brutality for years and never facing repercussions — many people hope that will change soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Henry Kissinger Is Dead at 100; Shaped Nation’s Cold War History</h3>
@@ -69,27 +71,33 @@ I wanted to catch up and let you know what&#39;s been happening in the news late
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Many Chinese, Kissinger’s Death Ends an Era in U.S.-China Relations</h3>
-<sub>By Keith Bradsher, Siyi Zhao and Amy Chang Chien</sub>
-<p>In Beijing’s praise of his legacy, there is implicit criticism of a U.S. shift in recent years away from cooperation and toward intensifying competition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Kissinger Left the State Department a Half Century Ago. But He Never Left His Old Job.</h3>
+<sub>By David E. Sanger</sub>
+<p>Just this summer, the ultimate back-channel diplomat returned to Beijing, where he had negotiated the opening to China.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>An Extended Truce, and Kissinger’s Complicated Legacy</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here’s What We Know About the Hostages Released on Wednesday</h3>
-<sub>By Roni Rabin, Gaya Gupta, Rachel Abrams and Katherine Rosman</sub>
-<p>The sixth round of hostage releases since the cease-fire began involved 10 Israelis, four Thai nationals and two Israeli-Russian dual citizens.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<h3>Hostages Freed From Gaza Recount Violence, Hunger and Fear</h3>
+<sub>By Katherine Rosman, Emma Bubola, Rachel Abrams and Russell Goldman</sub>
+<p>Hostages who have returned to Israel in the past week have come home malnourished, ill, injured and bearing psychological wounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The activist Ahed Tamimi is among the Palestinians freed in the latest exchange.</h3>
-<sub>By Anushka Patil</sub>
-<p>The 22-year-old activist was jailed for three weeks without being charged. Her arrest was one of thousands made during the Israeli military’s crackdown in the occupied West Bank after the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>On Israel’s War Against Hamas, Sanders Faces a Backlash From the Left</h3>
+<sub>By Kayla Guo</sub>
+<p>Some progressive activists are deeply disappointed in the Vermont senator, an icon of their movement, for failing to call for a cease-fire in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Shooting in Jerusalem Kills at Least 3 People, Israeli Officials Say</h3>
-<sub>By Aaron Boxerman</sub>
-<p>Israel’s Shin Bet security service said the gunmen were Palestinian brothers from East Jerusalem who were affiliated with Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>What the Polls Say About Gaza</h3>
+<sub>By David Leonhardt</sub>
+<p>Four main findings from recent polls about the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,35 +112,29 @@ I wanted to catch up and let you know what&#39;s been happening in the news late
 <p>The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk Uses a Crude Insult to Slam Advertisers for Pulling Back From X.</h3>
-<sub>By Kate Conger and Remy Tumin</sub>
-<p>Although Mr. Musk acknowledged that an extended boycott could bankrupt X, he suggested that the public would blame the brands rather than him for its collapse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Elon Musk, Kamala Harris, Isaac Herzog: Takeaways from the 2023 DealBook Summit</h3>
-<sub>By J. Edward Moreno and Michael J. de la Merced</sub>
-<p>The interviews included a defiant Mr. Musk on an advertiser boycott at X, the vice president on the Biden administration’s challenges reaching voters, and the Israeli president on hostages in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope’s Critics Feel the Sting After His Patience Runs Out</h3>
-<sub>By Jason Horowitz</sub>
-<p>Vatican observers see a leader more willing to crack down on those seeking to derail his agenda for the Roman Catholic Church.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In the American Church, the Pope Has Critics Among Leaders and Laypeople</h3>
-<sub>By Ruth Graham</sub>
-<p>Pockets of conservative Catholics exist at all levels, and they see the pope’s decision to punish an outspoken cardinal as another move against them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration to Require Replacing of Lead Pipes Within 10 Years</h3>
+<sub>By Coral Davenport</sub>
+<p>The proposal to rip out nine million pipes across the country could cost as much as $30 billion but would nearly eliminate the neurotoxin from drinking water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Best TV Shows of 2023</h3>
-<sub>By James Poniewozik, Mike Hale and Margaret Lyons</sub>
-<p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<h3>Best Albums of 2023</h3>
+<sub>By Jon Pareles, Jon Caramanica and Lindsay Zoladz</sub>
+<p>Many of the LPs that made an impact this year, including SZA’s “SOS” and Olivia Rodrigo’s “Guts,” came from looking inward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Airlines Race Toward a Future of Powering Their Jets With Corn</h3>
+<sub>By Max Bearak, Dionne Searcey and Mira Rojanasakul</sub>
+<p>Carriers want to replace jet fuel with ethanol to fight global warming. That would require lots of corn, and lots of water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a ‘Goon Squad’ of Deputies Got Away With Years of Brutality</h3>
+<sub>By Brian Howey, Nate Rosenfield and Rory Doyle for The New York Times</sub>
+<p>They barged into homes in the middle of the night, then held people down while they beat and choked them, witnesses said. For years, signs of the violence went ignored.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
