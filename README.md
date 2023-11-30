@@ -60,10 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-There are a number of events happening around the world right now. One of the most recent news stories is the death of Henry Kissinger, a Cold War statesman who played a major role in international relations with China, Russia, and the Middle East. His legacy is still being felt in countries like Vietnam, Cambodia, and elsewhere. In Israel, there&#39;s currently a war going on between Hamas and the country. There&#39;s been a backlash from some progressives against Vermont Senator Bernie Sanders for not calling for an immediate cease-fire in Gaza. In the United States, federal prosecutors have indicted an Indian official in connection with an attempted assassination plot in New York City while President Biden&#39;s administration has proposed replacing nine million lead pipes across the country over the course of 10 years. Finally, airlines around the world are racing to make jet fuel from corn as part of their efforts to fight global warming.</p>
+There has been a lot of unrest in the world lately. Hostages in Gaza have been released after facing violence, hunger, and fear, and that has sparked heated debates around the world over how to respond. Meanwhile, on the political front, people are divided on how to handle the Israel-Hamas War. On top of that, we recently lost a major political figure as former Secretary of State Henry Kissinger passed away at the age of 100. His decisions while in office still have effects on global politics today, particularly in Vietnam and Cambodia. There&#39;s also international drama with the alleged plot to assassinate a Sikh activist on U.S. soil and a failed bid by Jeff Zucker (backed by funds from the United Arab Emirates) to buy The Telegraph. Closer to home, divisions between party lines are still causing tensions in towns like Silverton, Colorado. And if you&#39;re looking for some positive news amidst it all, this year&#39;s music scene has some standout albums!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hostages Freed From Gaza Recount Violence, Hunger and Fear</h3>
+<sub>By Katherine Rosman, Emma Bubola, Rachel Abrams and Russell Goldman</sub>
+<p>Hostages who have returned to Israel in the past week have come home malnourished, ill, injured and bearing psychological wounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Henry Kissinger Is Dead at 100; Shaped Nation’s Cold War History</h3>
+<h3>On Israel’s War Against Hamas, Sanders Faces a Backlash From the Left</h3>
+<sub>By Kayla Guo</sub>
+<p>The progressive disappointment with the Vermont senator, a liberal icon, reflects a broader divide among Democrats over the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>What the Polls Say About Gaza</h3>
+<sub>By David Leonhardt</sub>
+<p>Four main findings from recent polls about the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Henry Kissinger Is Dead at 100; Shaped the Nation’s Cold War History</h3>
 <sub>By David E. Sanger</sub>
 <p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
@@ -80,35 +98,11 @@ There are a number of events happening around the world right now. One of the mo
 <p>Interviewing Henry Kissinger was a bit like negotiating an arms control agreement: Full of complexity, nuance, evasion and declarations you had to check. And utterly fascinating.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>An Extended Truce, and Kissinger’s Complicated Legacy</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hostages Freed From Gaza Recount Violence, Hunger and Fear</h3>
-<sub>By Katherine Rosman, Emma Bubola, Rachel Abrams and Russell Goldman</sub>
-<p>Hostages who have returned to Israel in the past week have come home malnourished, ill, injured and bearing psychological wounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An Alleged Plot’s Burning Question: Why Would India Take the Risk?</h3>
+<sub>By Mujib Mashal and Hari Kumar</sub>
+<p>After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On Israel’s War Against Hamas, Sanders Faces a Backlash From the Left</h3>
-<sub>By Kayla Guo</sub>
-<p>Some progressive activists are deeply disappointed in the Vermont senator, an icon of their movement, for failing to call for a cease-fire in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>What the Polls Say About Gaza</h3>
-<sub>By David Leonhardt</sub>
-<p>Four main findings from recent polls about the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Says Indian Official Directed Assassination Plot in New York</h3>
-<sub>By Jesse McKinley, Julian E. Barnes and Ian Austen</sub>
-<p>A Manhattan indictment says the agent orchestrated an unsuccessful plot against a Sikh separatist, a plan linked to a killing in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>5 Takeaways From U.S. Charges of Failed Plot to Kill Sikh Activist</h3>
@@ -116,22 +110,28 @@ There are a number of events happening around the world right now. One of the mo
 <p>The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration to Require Replacing of Lead Pipes Within 10 Years</h3>
-<sub>By Coral Davenport</sub>
-<p>The proposal to rip out nine million pipes across the country could cost as much as $30 billion but would nearly eliminate the neurotoxin from drinking water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best Albums of 2023</h3>
 <sub>By Jon Pareles, Jon Caramanica and Lindsay Zoladz</sub>
 <p>Many of the LPs that made an impact this year, including SZA’s “SOS” and Olivia Rodrigo’s “Guts,” came from looking inward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Airlines Race Toward a Future of Powering Their Jets With Corn</h3>
-<sub>By Max Bearak, Dionne Searcey and Mira Rojanasakul</sub>
-<p>Carriers want to replace jet fuel with ethanol to fight global warming. That would require lots of corn, and lots of water.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Divided by Politics, a Colorado Town Mends Its Broken Bones</h3>
+<sub>By Jonathan Weisman and Benjamin Rasmussen</sub>
+<p>Two years after death threats and aspersions roiled little Silverton, the town has found a semblance of peace and a lesson for a ruptured nation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Book Publishing ‘Mistake’ Reignited the U.K.’s Royal Racism Furor</h3>
+<sub>By Mark Landler</sub>
+<p>The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.K. Opens Inquiry Into Jeff Zucker’s Emirati-Backed Bid for The Telegraph</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>British regulators announced a review into whether the bid, backed mostly by funds from the United Arab Emirates, could result in adverse foreign influence over the British press.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
