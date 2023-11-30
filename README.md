@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-There has been a lot of unrest in the world lately. Hostages in Gaza have been released after facing violence, hunger, and fear, and that has sparked heated debates around the world over how to respond. Meanwhile, on the political front, people are divided on how to handle the Israel-Hamas War. On top of that, we recently lost a major political figure as former Secretary of State Henry Kissinger passed away at the age of 100. His decisions while in office still have effects on global politics today, particularly in Vietnam and Cambodia. There&#39;s also international drama with the alleged plot to assassinate a Sikh activist on U.S. soil and a failed bid by Jeff Zucker (backed by funds from the United Arab Emirates) to buy The Telegraph. Closer to home, divisions between party lines are still causing tensions in towns like Silverton, Colorado. And if you&#39;re looking for some positive news amidst it all, this year&#39;s music scene has some standout albums!</p>
+I&#39;ve recently been catching up with the news and there&#39;s a lot of activity happening around the world right now. In Gaza, hostages have been released but they have returned to Israel malnourished and psychologically affected by their experience. Tourism in the Middle East has been suffering due to the conflict between Israel and Hamas. On a sadder note, Henry Kissinger, one of most powerful secretaries of state of the postwar era, passed away at 100. 
+
+On a lighter note, America has been focused on two events: the DeSantis-Newsom debate between a Republican presidential candidate and a high-profile Democratic governor, and the albums that made an impact this year in music. 
+
+Finally, India is under scrutiny due to an assassination on U.S. soil allegedly ordered by a government official, and then there&#39;s also the U.K.&#39;s royal racism furor after a &quot;mistake&quot; in book publishing reignited some old tensions there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hostages Freed From Gaza Recount Violence, Hunger and Fear</h3>
@@ -68,16 +72,10 @@ There has been a lot of unrest in the world lately. Hostages in Gaza have been r
 <p>Hostages who have returned to Israel in the past week have come home malnourished, ill, injured and bearing psychological wounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On Israel’s War Against Hamas, Sanders Faces a Backlash From the Left</h3>
-<sub>By Kayla Guo</sub>
-<p>The progressive disappointment with the Vermont senator, a liberal icon, reflects a broader divide among Democrats over the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>What the Polls Say About Gaza</h3>
-<sub>By David Leonhardt</sub>
-<p>Four main findings from recent polls about the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>War-Inflicted Slowdown Ends Robust Year for Tourism in Middle East</h3>
+<sub>By Christine Chung</sub>
+<p>Amid security concerns brought on by the Israel-Hamas conflict, international travel has shuddered to a halt in Israel and is falling in neighboring Jordan, Lebanon and Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,16 +84,10 @@ There has been a lot of unrest in the world lately. Hostages in Gaza have been r
 <p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Kissinger’s Legacy Still Ripples Through Vietnam and Cambodia</h3>
-<sub>By Mike Ives</sub>
-<p>His decision to authorize the bombing of Cambodia, efforts to extricate the U.S. from the Vietnam War and role in the rapprochement with China continue to be felt in Southeast Asia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Henry Kissinger Always Tended to His Image, Even When It Came to His Obituary</h3>
-<sub>By David E. Sanger</sub>
-<p>Interviewing Henry Kissinger was a bit like negotiating an arms control agreement: Full of complexity, nuance, evasion and declarations you had to check. And utterly fascinating.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Kissinger Met with Xi and Other Powerful Figures into His 100th Year</h3>
+<sub>By Edward Wong</sub>
+<p>Even after becoming a centenarian, he traveled the globe to try to show he still had influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,10 +97,10 @@ There has been a lot of unrest in the world lately. Hostages in Gaza have been r
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>5 Takeaways From U.S. Charges of Failed Plot to Kill Sikh Activist</h3>
-<sub>By Ed Shanahan</sub>
-<p>The scheme described by federal prosecutors could upset a key element of President Biden’s foreign policy agenda: bolstering ties with India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<h3>Sikh Activist Named as Assassination Target Says India Wanted Him Dead</h3>
+<sub>By Jesse McKinley</sub>
+<p>A U.S. indictment says an Indian government official tried to have a hit man kill Gurpatwant Singh Pannun in New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best Albums of 2023</h3>
@@ -128,11 +120,23 @@ There has been a lot of unrest in the world lately. Hostages in Gaza have been r
 <p>The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.K. Opens Inquiry Into Jeff Zucker’s Emirati-Backed Bid for The Telegraph</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>British regulators announced a review into whether the bid, backed mostly by funds from the United Arab Emirates, could result in adverse foreign influence over the British press.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Clash Over Move to Add Asylum Changes to War Funding Bill</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Democrats and the White House have agreed in principle to raise the threshold for asylum claims as part of the bill to fund wars in Israel and Ukraine, but liberals are livid — and Republicans want more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis-Newsom Debate: A Campaign Sideshow in the Spotlight</h3>
+<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
+<p>The stakes are high for the governor of Florida as his polling sags fewer than seven weeks out from the Iowa caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Watch the DeSantis-Newsom Debate</h3>
+<sub>By Chris Cameron</sub>
+<p>The unusual event, between a Republican presidential candidate and a high-profile Democratic governor who has been a surrogate for the Biden administration, will be moderated by Sean Hannity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
