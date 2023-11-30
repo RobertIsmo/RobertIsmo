@@ -60,30 +60,60 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, November 29, Central Standard Time</p>
 <p>
-In the world today, there are a lot of issues to be aware of. U.S.-Iranian relations have become increasingly strained as both sides have been exchanging tit-for-tat attacks. In New York, an Indian man was arrested for plotting to kill a Sikh activist, which is concerning as it parallels a similar incident from June in Canada. On a brighter note, life expectancy in the U.S. has improved since COVID-19 deaths have been dropping, but health has not fully recovered yet. For entertainment, Maria Callas&#39; 100th birthday has been a reminder of her profound and radical career as a defining diva in the world of opera. In legal news, the Supreme Court is thinking about whether the SEC should be able to pursue enforcement actions before its own judges instead of in federal courts. The UAW is also making strides to push for nonunion plants in the auto industry. To top it off, tensions remain as criminal trials are being opened in the death of Elijah McClain, and abortion rights could potentially help red-state Democrats secure their senate seats again during re-elections this year. Apple seems to be doing its part to reduce green bubble shaming with its new name drop feature and tech experts say that users shouldn&#39;t be afraid to take advantage of it either. Lastly, Donald Trump&#39;s tenure in office is being examined and what he has done throughout his time in office continues to stir debate over why certain aspects remain relevant today.</p>
+Right now, some serious and concerning news is happening across the world. In New York, a U.S. Attorney accused an Indian official of directing an assassination plot in Manhattan. In the Middle East, there is fear that a miscommunication between U.S. and Iranian forces could lead to a larger war. There were 10 Israelis and four Thai nationals that were recently released as hostages from an ongoing conflict, and Senate Majority Leader Chuck Schumer warned against any form of antisemitism. On a lighter note, Tesla CEO Elon Musk got feisty with advertisers who tried to pull back from one of his companies. Pope Francis has been cracking down on any critics that attempt to derail his agenda for the Catholic Church. Maria Callas would have turned 100 recently and her life continues to be a beacon of artistic integrity and profundity in opera. Health-wise, U.S. life expectancy is continuing to creep up but there are still those deaths related to Covid-19 that make it difficult for the country’s health to fully recover. In the Supreme Court this week, there is concern over whether certain enforcement actions can be taken before its own judges instead of in federal courts. And finally, looking back at one of the top TV series this past year there was ‘The Bear,’ ‘Beef,’ ‘Happy Valley,’ ‘Reservation Dogs’ and ‘Succession’ that dazzled us while the business was in disarray due to Covid-19. Rosalynn Carter made a final trip back to her home church for her last goodbye with those who had known her best.</p>
 <ol>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>U.S. Says Indian Official Directed Assassination Plot in New York</h3>
+<sub>By Jesse McKinley, Julian E. Barnes and Ian Austen</sub>
+<p>A Manhattan indictment says the agent orchestrated an unsuccessful plot against a Sikh separatist, a plan linked to a killing in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. v. Gupta Indictment</h3>
+<sub></sub>
+<p>U.S. v. Gupta Indictment  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A U.S.-Iranian Miscalculation Could Lead to a Larger War, Officials Say</h3>
 <sub>By Helene Cooper, Eric Schmitt and Julian E. Barnes</sub>
 <p>U.S. forces and militias backed by Iran have launched tit-for-tat attacks, fueling concerns as Israeli forces have also clashed with Iranian-backed groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>U.S. Charges Indian Man With Plotting to Kill Sikh Activist in New York</h3>
-<sub>By Jesse McKinley and Julian E. Barnes</sub>
-<p>American officials had expressed concerns to New Delhi about the thwarted plan to kill the man, who is a U.S. citizen. The plot that prosecutors described resembled a June assassination in Canada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here’s What We Know About the Hostages Released on Wednesday</h3>
+<sub>By Roni Rabin, Gaya Gupta, Rachel Abrams and Katherine Rosman</sub>
+<p>The sixth round of hostage releases since the cease-fire began involved 10 Israelis and four Thai nationals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>U.S. Life Expectancy Creeps Up as Covid Deaths Fall</h3>
-<sub>By Emily Anthes and Benjamin Mueller</sub>
-<p>But the country’s health has not fully rebounded from the pandemic, according to new data from the C.D.C.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schumer Condemns Antisemitism, Warning the Left Against Abetting It</h3>
+<sub>By Annie Karni</sub>
+<p>The majority leader and highest-ranking Jewish official in the country cautioned progressives and young people against unwittingly embracing bigotry in the name of social justice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Elon Musk Uses a Crude Insult to Slam Advertisers for Pulling Back From X.</h3>
+<sub>By Kate Conger and Remy Tumin</sub>
+<p>Although Mr. Musk acknowledged that an extended boycott could bankrupt X, he suggested that the public would blame the brands rather than him for its collapse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope’s Critics Feel the Sting After His Patience Runs Out</h3>
+<sub>By Jason Horowitz</sub>
+<p>Vatican observers see a leader more willing to crack down on those seeking to derail his agenda for the Roman Catholic Church.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Maria Callas Was Opera’s Defining Diva. She Still Is.</h3>
 <sub>By Zachary Woolfe</sub>
 <p>Callas would have turned 100 on Dec. 2. She and her flash of a career remain beacons of artistic integrity and profundity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>U.S. Life Expectancy Creeps Up as Covid Deaths Fall</h3>
+<sub>By Emily Anthes and Benjamin Mueller</sub>
+<p>But the country’s health has not fully rebounded from the pandemic, according to new data from the C.D.C.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +128,10 @@ In the world today, there are a lot of issues to be aware of. U.S.-Iranian relat
 <p>Series like “The Bear,” “Beef,” “Happy Valley,” “Reservation Dogs” and “Succession” dazzled in a year when much of the TV business was in disarray.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.A.W. Announces Drive to Organize Nonunion Plants</h3>
-<sub>By Neal E. Boudette</sub>
-<p>The United Automobile Workers’ effort, with a long-elusive goal, follows its success in securing big raises in contracts with the Detroit automakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Criminal Trial of Paramedics Opens in the Death of Elijah McClain</h3>
-<sub>By Audra D. S. Burch and Kelley Manley</sub>
-<p>The third and final trial over Mr. McClain’s 2019 death examines the role of medics who responded while the young Black man was in police custody.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Could Abortion Rights Rescue Red-State Democrats in the Senate?</h3>
-<sub>By Michael C. Bender and Anjali Huynh</sub>
-<p>Senator Sherrod Brown is betting that the issue will aid his re-election bid in Ohio, which recently upheld abortion rights. Allies of Senator Jon Tester of Montana are also hoping it helps.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Apple Is Doing Its Part to End Green Bubble Shaming. It’s Our Turn.</h3>
-<sub>By Brian X. Chen</sub>
-<p>While texting technology will soon get better, the “blue versus green bubble” disparity is far from over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Don’t Be Afraid of the iPhone’s NameDrop Feature, Experts Say</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Police departments have issued warnings about a new Apple setting that lets users exchange contact information by bringing their devices together. Tech experts say the fears are overblown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Donald Trump and the Jefferson Davis Problem</h3>
-<sub>By Mark A. Graber</sub>
-<p>Why Section 3 of the 14th Amendment was added to the Constitution and remains relevant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Rosalynn Carter Returns for a Final Time to the Place She Found Most Comfort</h3>
+<sub>By Rick Rojas</sub>
+<p>A simple red brick church where Mrs. Carter had worshiped for decades was filled on Wednesday with the people who had known her best.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
