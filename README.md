@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Israel, international officials recently discovered that the government had known about a Hamas-led attack more than a year before it happened, despite officials dismissing it and ignoring warnings. American politics have been in the spotlight as well with the DeSantis-Newsom debate in the US and a spirited debate on George Santos&#39; expulsion in New York. Climate change is another big topic, amidst online influencers, fossil fuel companies, and countries attending COP 28. We&#39;re also seeing challenging diplomatic situations between the US and India over an alleged assassination plot and between the UK and its royal family over recent racism furors. On a different note, we recently lost two major Irish musicians–Shane MacGowan and Sinead O&#39;Connor–who were close friends for many years. These topics are featured in both hard-hitting news coverage as well as opinion pieces discussing Trump&#39;s attempts to kill Obamacare and Hitchcock-inspired references to his terrorizing leadership style.</p>
+There is a lot going on in the world right now. In Israel, there is evidence that authorities had been warned of Hamas&#39;s attack plan more than a year ago but disregarded the warnings. Fighting has resumed in Gaza and TikTok has been blocked in some places. In the US, there is a debate about whether to expel Congressman George Santos for lies and alleged crimes. At a Climate Summit in Dubai, world leaders are dealing with misinformation campaigns by influencers and fossil fuel companies, while British monarch King Charles urges transformational action. The movie industry has seen a great year with art house and mainstream films that reflect pessimism, and Henry Kissinger has been remembered as an influential statesman. Finally, in Russia, a village is mourning a soldier who died in the war in Ukraine and seeking meaning in his death. Closer to home, New Yorkers are learning about what goes into the making of our beloved button-down shirts which help power this very city.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
@@ -68,34 +68,16 @@ There&#39;s a lot happening in the world right now. In Israel, international off
 <p>A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kissinger: A Player on the World Stage Until the Very End</h3>
-<sub>By Peter Baker</sub>
-<p>He traveled the globe when contemporaries had died or retired. Capitals around the world were still open to him. And he remained the toast of Davos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The New York Apartment Where Kissinger Spent His First Years in America</h3>
-<sub>By Claire Fahy</sub>
-<p>When the Kissinger family fled Nazi Germany, they landed in Washington Heights, in a two-bedroom rental where the children slept in the living room.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Fighting Resumes in Gaza, and a Blocked TikTok Ban</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From the DeSantis-Newsom Debate</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Ron DeSantis showed a feistier side, using a friendly moderator to go on offense. Gavin Newsom defended California and President Biden, and jabbed right back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Disinformation Is One of Climate Summit’s Biggest Challenges</h3>
-<sub>By Tiffany Hsu and Steven Lee Myers</sub>
-<p>Online influencers, fossil fuel companies and some of the countries attending COP28 have nourished a feedback loop of falsehoods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Alleged Assassination Plot on U.S. Soil Tests Biden’s Bond With India’s Leader</h3>
-<sub>By Katie Rogers, Julian E. Barnes and Glenn Thrush</sub>
-<p>The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Santos Relishes the Limelight Even as His Show Looks Likely to Close</h3>
+<sub>By Annie Karni</sub>
+<p>Before the debate about his possible expulsion from Congress, George Santos seemed to embrace his starring role in a scandal of his own making.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -104,34 +86,52 @@ There&#39;s a lot happening in the world right now. In Israel, international off
 <p>The House debate on Thursday boiled down to a central question: Should Mr. Santos’s series of lies and alleged crimes outweigh historical precedents?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Book Publishing ‘Mistake’ Reignited the U.K.’s Royal Racism Furor</h3>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Disinformation Is One of Climate Summit’s Biggest Challenges</h3>
+<sub>By Tiffany Hsu and Steven Lee Myers</sub>
+<p>Online influencers, fossil fuel companies and some of the countries attending COP28 have nourished a feedback loop of falsehoods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>King Charles Urges ‘Transformational Action’ at COP28 Climate Summit</h3>
 <sub>By Mark Landler</sub>
-<p>The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>“The hope of the world rests on the decisions you must take,” the British monarch told world leaders at the U.N. climate summit in Dubai.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Best Movies of 2023</h3>
+<sub>By Manohla Dargis and Alissa Wilkinson</sub>
+<p>It was a terrific year for film, whether art house or mainstream, even if the main subject the movies wrestled with was deeply pessimistic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kissinger: A Player on the World Stage Until the Very End</h3>
+<sub>By Peter Baker</sub>
+<p>He traveled the globe when contemporaries had died or retired. Capitals around the world were still open to him. And he remained the toast of Davos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Kissinger Had the Ear of Presidents. He Had Their Awe and Ire, Too.</h3>
+<sub>By Erica L. Green and Kitty Bennett</sub>
+<p>In his decades in politics, the statesman advised many presidents. Here are some of their thoughts from over the years, in their own words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>The Complex, Enduring Friendship of Shane MacGowan and Sinead O’Connor</h3>
-<sub>By Amanda Hess</sub>
-<p>The two Irish singers interacted like siblings, speaking of each other warmly, but needling each other, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When Henry Kissinger Became an Opera Character</h3>
+<sub>By Zachary Woolfe</sub>
+<p>In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Shane MacGowan, Songwriter Who Fused Punk and Irish Rebellion, Is Dead at 65</h3>
-<sub>By Matt Phillips</sub>
-<p>As frontman for the Pogues, he romanticized whiskey-soaked rambles and hard-luck stories of emigration, while providing a musical touchstone for members of the Irish diaspora.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Russian Village Buries a Soldier, and Tries to Make Sense of the War</h3>
+<sub>By Valerie Hopkins and Nanna Heitmann</sub>
+<p>The pain and loss of the war in Ukraine are felt most profoundly in small Russian villages, where a soldier’s burial produces not just grief but a yearning to find meaning in his death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Donald Trump Still Wants to Kill Obamacare. Why?</h3>
-<sub>By Paul Krugman</sub>
-<p>Is this really about policy, or is it personal?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>There’s a Bomb Under the Table</h3>
-<sub>By Pamela Paul</sub>
-<p>Hitchcock knew the terror a threat like Trump could create.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>They Charge $6 to Clean Your Shirt. They Make 13 Cents On It.</h3>
+<sub>By Eliza Shapiro and Lanna Apisukh</sub>
+<p>The humble cotton button-down helps power New York City, through its presence in practically every office in town. But few people understand the shirt’s transformation from dirty to clean, which at Kingbridge Cleaners &amp; Tailors will run you $6.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
