@@ -60,34 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-I&#39;ve recently been catching up with the news and there&#39;s a lot of activity happening around the world right now. In Gaza, hostages have been released but they have returned to Israel malnourished and psychologically affected by their experience. Tourism in the Middle East has been suffering due to the conflict between Israel and Hamas. On a sadder note, Henry Kissinger, one of most powerful secretaries of state of the postwar era, passed away at 100. 
-
-On a lighter note, America has been focused on two events: the DeSantis-Newsom debate between a Republican presidential candidate and a high-profile Democratic governor, and the albums that made an impact this year in music. 
-
-Finally, India is under scrutiny due to an assassination on U.S. soil allegedly ordered by a government official, and then there&#39;s also the U.K.&#39;s royal racism furor after a &quot;mistake&quot; in book publishing reignited some old tensions there.</p>
+In the world, there&#39;s a lot of turmoil right now. In Israel, officials dismissed an attack plan drawn up by Hamas more than a year ago as aspirational, even though it laid out the attack in detail. On the global stage, Henry Kissinger has been remembered for his travels and influence, even after his death. In India and Canada, a Sikh activist was the target of assassination attempts, according to U.S. and Canadian officials. In the United States, George Santos, a congressman from Colorado, faces expulsion from Congress for lies and alleged crimes. There&#39;s also a debate between Florida Governor Ron DeSantis and California Governor Gavin Newsom in the spotlight of the U.S. presidential election race.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hostages Freed From Gaza Recount Violence, Hunger and Fear</h3>
-<sub>By Katherine Rosman, Emma Bubola, Rachel Abrams and Russell Goldman</sub>
-<p>Hostages who have returned to Israel in the past week have come home malnourished, ill, injured and bearing psychological wounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>War-Inflicted Slowdown Ends Robust Year for Tourism in Middle East</h3>
-<sub>By Christine Chung</sub>
-<p>Amid security concerns brought on by the Israel-Hamas conflict, international travel has shuddered to a halt in Israel and is falling in neighboring Jordan, Lebanon and Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
+<sub>By Ronen Bergman and Adam Goldman</sub>
+<p>A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Henry Kissinger Is Dead at 100; Shaped the Nation’s Cold War History</h3>
-<sub>By David E. Sanger</sub>
-<p>The most powerful secretary of state of the postwar era, he was both celebrated and reviled. His complicated legacy still resonates in relations with China, Russia and the Middle East.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 29, Central Standard Time</sub></sub>
+<h3>Kissinger: A Player on the World Stage Until the Very End</h3>
+<sub>By Peter Baker</sub>
+<p>He traveled the globe when contemporaries had died or retired. Capitals around the world were still open to him. And he remained the toast of Davos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kissinger Met with Xi and Other Powerful Figures into His 100th Year</h3>
-<sub>By Edward Wong</sub>
-<p>Even after becoming a centenarian, he traveled the globe to try to show he still had influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The New York Apartment Where Kissinger Spent His First Years in America</h3>
+<sub>By Claire Fahy</sub>
+<p>When the Kissinger family fled Nazi Germany, they landed in Washington Heights, in a two-bedroom rental where the children slept in the living room.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Henry Kissinger, as Seen, and Skewered, by Comics</h3>
+<sub>By Maya Salam</sub>
+<p>Countless depictions on “Saturday Night Live” and beyond cast light on the idiosyncrasies and vanities of this diplomatic hard liner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -96,34 +92,34 @@ Finally, India is under scrutiny due to an assassination on U.S. soil allegedly 
 <p>After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Sikh Activist Named as Assassination Target Says India Wanted Him Dead</h3>
-<sub>By Jesse McKinley</sub>
-<p>A U.S. indictment says an Indian government official tried to have a hit man kill Gurpatwant Singh Pannun in New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Alleged Plot in New York Bolsters Canada’s Accusations Against India</h3>
+<sub>By Norimitsu Onishi</sub>
+<p>An indictment in a plot against a Sikh separatist in the United States provides details in a killing that has strained relations between Canada and India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Best Albums of 2023</h3>
-<sub>By Jon Pareles, Jon Caramanica and Lindsay Zoladz</sub>
-<p>Many of the LPs that made an impact this year, including SZA’s “SOS” and Olivia Rodrigo’s “Guts,” came from looking inward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Timeline of Plots Against Sikh Activists, According to Canada and the U.S.</h3>
+<sub>By Derek M. Norman</sub>
+<p>Officials in the United States and Canada have described two assassination attempts: the killing of a Sikh leader in British Columbia and a plan to murder an activist in New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Spirited Debate, George Santos Dares House Colleagues to Expel Him</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>The House debate on Thursday boiled down to a central question: Should Mr. Santos’s series of lies and alleged crimes outweigh historical precedence?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Santos Relishes the Limelight Even as His Show Looks Likely to Close</h3>
+<sub>By Annie Karni</sub>
+<p>Before the debate about his possible expulsion from Congress, George Santos seemed to embrace his starring role in a scandal of his own making.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided by Politics, a Colorado Town Mends Its Broken Bones</h3>
 <sub>By Jonathan Weisman and Benjamin Rasmussen</sub>
 <p>Two years after death threats and aspersions roiled little Silverton, the town has found a semblance of peace and a lesson for a ruptured nation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Book Publishing ‘Mistake’ Reignited the U.K.’s Royal Racism Furor</h3>
-<sub>By Mark Landler</sub>
-<p>The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Clash Over Move to Add Asylum Changes to War Funding Bill</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Democrats and the White House have agreed in principle to raise the threshold for asylum claims as part of the bill to fund wars in Israel and Ukraine, but liberals are livid — and Republicans want more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
