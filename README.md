@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-It&#39;s been a turbulent week in the news -- the first woman to serve on the Supreme Court, Sandra Day O&#39;Connor, passed away. There&#39;s also been a lot of drama surrounding George Santos and his possible expulsion from Congress, as well as questions concerning his personal finances and campaign fund-raising. In addition, Israel had detailed knowledge of a Hamas attack plan over year ago, which brought up concerns about security and foreign policy. Meanwhile in the U.S., oil production is hitting record levels but this has raised climate worries -- protests have broken out at a climate summit flagged by the Federal Reserve and OPEC has agreed to cut its own production. Lastly, it was quite a year in movies despite its somber themes, and former statesman Henry Kissinger had quite an impact in current politics until his passing.</p>
+Recently, the world has been reacting to the loss of Sandra Day O’Connor, the first female Justice of the Supreme Court. Many public figures from across the political spectrum are honoring her for breaking barriers and striving for unity in our nation’s highest court. On another note, George Santos recently lost his seat in Congress due to charges of lies and financial impropriety, setting the stage for a high-stakes special election early next year. Additionally, tensions are high between Israel and the U.S. concerning Israel&#39;s campaign on Gaza. In other news, U.S. oil production is at an all time high which is bringing down oil prices but also causing undoing concern for environmental goals. This is being discussed at a climate summit taking place in Dubai, with U.S. protesters calling for a rapid transition away from fossil fuels while Climate activists are calling out Federal Banks for their lack of commitment to fighting climate change. Finally, 2023 has proven to be a great year for movies despite its pessimism towards the global climate situation. Lastly, India is facing a dispute involving some Sikhs who are demanding an independent state known as Khalistan in northern India.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
@@ -69,33 +69,45 @@ It&#39;s been a turbulent week in the news -- the first woman to serve on the Su
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Santos Relishes the Limelight Even as His Show Looks Likely to Close</h3>
-<sub>By Annie Karni</sub>
-<p>Before the debate about his possible expulsion from Congress, George Santos seemed to embrace his starring role in a scandal of his own making.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<h3>Sandra Day O’Connor Is Celebrated as a ‘Trailblazer’</h3>
+<sub>By Emily Schmall and Victor Mather</sub>
+<p>Public figures from across the political spectrum heralded the former Supreme Court justice for breaking barriers for women and striving for consensus on the nation’s highest court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
+<h3>George Santos Is Gone. Two Dozen Candidates Want His Seat.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The New York Republican’s expulsion sets the stage for a high-stakes special election early next year to fill his Long Island swing seat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Undoing of George Santos</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Lying is one thing in politics. But lying and stealing for the sake of Ferragamo and Hermès?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Lost His Job. The Lies, Charges and Questions Remaining.</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
-<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>George Santos, who was expelled from Congress, has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
-<sub>By Ronen Bergman and Adam Goldman</sub>
-<p>A blueprint reviewed by The Times laid out the attack in detail. Israeli officials dismissed it as aspirational and ignored specific warnings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Fighting Resumes in Gaza, and a Blocked TikTok Ban</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel’s Next Aim Is Southern Gaza. U.S. Urges Restraint.</h3>
+<sub>By Yara Bayoumy and Ronen Bergman</sub>
+<p>American officials are making clear to Israel that it cannot pursue a campaign in the south that would have the same devastating consequences as in the north.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Surging U.S. Oil Production Brings Down Prices and Raises Climate Fears</h3>
 <sub>By Clifford Krauss</sub>
 <p>American oil production is hitting record levels, delivering economic and foreign policy benefits but putting environmental goals further out of reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Tense Climate Summit Begins Against a Backdrop of War and Record Heat</h3>
+<sub>By David Gelles</sub>
+<p>World leaders at climate talks in Dubai invoked faith, science and economics in their calls for a rapid transition away from fossil fuels.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -116,23 +128,11 @@ It&#39;s been a turbulent week in the news -- the first woman to serve on the Su
 <p>It was a terrific year for film, whether art house or mainstream, even if the main subject the movies wrestled with was deeply pessimistic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kissinger: A Player on the World Stage Until the Very End</h3>
-<sub>By Peter Baker</sub>
-<p>He traveled the globe when contemporaries had died or retired. Capitals around the world were still open to him. And he remained the toast of Davos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Kissinger Had the Ear of Presidents. He Had Their Awe and Ire, Too.</h3>
-<sub>By Erica L. Green and Kitty Bennett</sub>
-<p>In his decades in politics, the statesman advised many presidents. Here are some of their thoughts from over the years, in their own words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>When Henry Kissinger Became an Opera Character</h3>
-<sub>By Zachary Woolfe</sub>
-<p>In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Alleged Plot to Kill Sikh Separatist Highlights Thorn in India’s Side</h3>
+<sub>By Sameer Yasir</sub>
+<p>The charges are rooted in a decades-old dispute over the demand by some Sikhs for a sovereign state known as Khalistan carved out of northern India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
