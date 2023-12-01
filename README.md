@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-Right now, there is a lot going on around the world. In Israel, a blueprint of Hamas&#39;s possible attack plans was exposed by The Times. In the US, former Statesman Henry Kissinger passed away and people all around the world shed light on his idiosyncrasies and how he has influenced global politics. Canada and India have strained relations due to an assassination plot accusation in New York and a killing back in Canada. In Colorado, tensions of political divide made it to a House debate centered around whether the alleged crimes of George Santos should outweigh historical precedents or not. In the UK, a book publishing &quot;mistake&quot; reignited the Royal racism uproar regarding Prince Harry and Meghan&#39;s first son. Finally, songwriter Shane MacGowan passed away at 65, adding to the tragedy of losses faced throughout 2020.</p>
+There&#39;s a lot happening in the world right now. In Israel, international officials recently discovered that the government had known about a Hamas-led attack more than a year before it happened, despite officials dismissing it and ignoring warnings. American politics have been in the spotlight as well with the DeSantis-Newsom debate in the US and a spirited debate on George Santos&#39; expulsion in New York. Climate change is another big topic, amidst online influencers, fossil fuel companies, and countries attending COP 28. We&#39;re also seeing challenging diplomatic situations between the US and India over an alleged assassination plot and between the UK and its royal family over recent racism furors. On a different note, we recently lost two major Irish musicians–Shane MacGowan and Sinead O&#39;Connor–who were close friends for many years. These topics are featured in both hard-hitting news coverage as well as opinion pieces discussing Trump&#39;s attempts to kill Obamacare and Hitchcock-inspired references to his terrorizing leadership style.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
@@ -80,10 +80,16 @@ Right now, there is a lot going on around the world. In Israel, a blueprint of H
 <p>When the Kissinger family fled Nazi Germany, they landed in Washington Heights, in a two-bedroom rental where the children slept in the living room.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Henry Kissinger, as Seen, and Skewered, by Comics</h3>
-<sub>By Maya Salam</sub>
-<p>Countless depictions on “Saturday Night Live” and beyond cast light on the idiosyncrasies and vanities of this diplomatic hard liner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>5 Takeaways From the DeSantis-Newsom Debate</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Ron DeSantis showed a feistier side, using a friendly moderator to go on offense. Gavin Newsom defended California and President Biden, and jabbed right back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Disinformation Is One of Climate Summit’s Biggest Challenges</h3>
+<sub>By Tiffany Hsu and Steven Lee Myers</sub>
+<p>Online influencers, fossil fuel companies and some of the countries attending COP28 have nourished a feedback loop of falsehoods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,28 +98,10 @@ Right now, there is a lot going on around the world. In Israel, a blueprint of H
 <p>The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Alleged Plot in New York Bolsters Canada’s Accusations Against India</h3>
-<sub>By Norimitsu Onishi</sub>
-<p>An indictment in a plot against a Sikh separatist in the United States provides details in a killing that has strained relations between Canada and India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From the DeSantis-Newsom Debate</h3>
-<sub>By Jonathan Weisman</sub>
-<p>Ron DeSantis showed a feistier side, using a friendly moderator to go on offense. Gavin Newsom defended California and President Biden, and jabbed right back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Spirited Debate, George Santos Dares House Colleagues to Expel Him</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
 <p>The House debate on Thursday boiled down to a central question: Should Mr. Santos’s series of lies and alleged crimes outweigh historical precedents?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Divided by Politics, a Colorado Town Mends Its Broken Bones</h3>
-<sub>By Jonathan Weisman and Benjamin Rasmussen</sub>
-<p>Two years after death threats and aspersions roiled little Silverton, the town has found a semblance of peace and a lesson for a ruptured nation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +120,18 @@ Right now, there is a lot going on around the world. In Israel, a blueprint of H
 <h3>Shane MacGowan, Songwriter Who Fused Punk and Irish Rebellion, Is Dead at 65</h3>
 <sub>By Matt Phillips</sub>
 <p>As frontman for the Pogues, he romanticized whiskey-soaked rambles and hard-luck stories of emigration, while providing a musical touchstone for members of the Irish diaspora.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Donald Trump Still Wants to Kill Obamacare. Why?</h3>
+<sub>By Paul Krugman</sub>
+<p>Is this really about policy, or is it personal?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>There’s a Bomb Under the Table</h3>
+<sub>By Pamela Paul</sub>
+<p>Hitchcock knew the terror a threat like Trump could create.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
