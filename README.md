@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, November 30, Central Standard Time</p>
 <p>
-In the world, there&#39;s a lot of turmoil right now. In Israel, officials dismissed an attack plan drawn up by Hamas more than a year ago as aspirational, even though it laid out the attack in detail. On the global stage, Henry Kissinger has been remembered for his travels and influence, even after his death. In India and Canada, a Sikh activist was the target of assassination attempts, according to U.S. and Canadian officials. In the United States, George Santos, a congressman from Colorado, faces expulsion from Congress for lies and alleged crimes. There&#39;s also a debate between Florida Governor Ron DeSantis and California Governor Gavin Newsom in the spotlight of the U.S. presidential election race.</p>
+I wanted to tell you about some of the news going on in the world. It looks like Israel had more information than they initially said about Hamas&#39; attack plans. On the international side, Henry Kissinger had a long career as a political advisor, and now his legacy is being remembered. There was also an alleged assassination plot on U.S. soil that has tested the Biden administration&#39;s bond with India&#39;s leader, and it has caused tensions with Canada. In Colorado, a small town is finding ways to mend its divides after a bout of death threats recently. And lastly, there was controversy around a biography of the British royal family in which they were accused of asking about the skin color of Harry and Meghan&#39;s future son.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
@@ -86,10 +86,10 @@ In the world, there&#39;s a lot of turmoil right now. In Israel, officials dismi
 <p>Countless depictions on “Saturday Night Live” and beyond cast light on the idiosyncrasies and vanities of this diplomatic hard liner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Alleged Plot’s Burning Question: Why Would India Take the Risk?</h3>
-<sub>By Mujib Mashal and Hari Kumar</sub>
-<p>After an indictment accuses an Indian official of ordering an assassination on U.S. soil, diplomats and experts debate how far up the chain the scheme went.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Alleged Assassination Plot on U.S. Soil Tests Biden’s Bond With India’s Leader</h3>
+<sub>By Katie Rogers, Julian E. Barnes and Glenn Thrush</sub>
+<p>The charges illustrate how complicated it can be for American presidents to balance their relationships with deeply imperfect allies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,10 +98,10 @@ In the world, there&#39;s a lot of turmoil right now. In Israel, officials dismi
 <p>An indictment in a plot against a Sikh separatist in the United States provides details in a killing that has strained relations between Canada and India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Timeline of Plots Against Sikh Activists, According to Canada and the U.S.</h3>
-<sub>By Derek M. Norman</sub>
-<p>Officials in the United States and Canada have described two assassination attempts: the killing of a Sikh leader in British Columbia and a plan to murder an activist in New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Ron DeSantis, a Democratic Sparring Partner at a Tenuous Time in His Campaign</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>For Mr. DeSantis, taking on Gavin Newsom is fraught with risks at a time when his presidential campaign seems to be gasping for air.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -111,28 +111,28 @@ In the world, there&#39;s a lot of turmoil right now. In Israel, officials dismi
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Santos Relishes the Limelight Even as His Show Looks Likely to Close</h3>
-<sub>By Annie Karni</sub>
-<p>Before the debate about his possible expulsion from Congress, George Santos seemed to embrace his starring role in a scandal of his own making.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Divided by Politics, a Colorado Town Mends Its Broken Bones</h3>
 <sub>By Jonathan Weisman and Benjamin Rasmussen</sub>
 <p>Two years after death threats and aspersions roiled little Silverton, the town has found a semblance of peace and a lesson for a ruptured nation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis-Newsom Debate: A Campaign Sideshow in the Spotlight</h3>
-<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
-<p>The stakes are high for the governor of Florida as his polling sags fewer than seven weeks out from the Iowa caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Book Publishing ‘Mistake’ Reignited the U.K.’s Royal Racism Furor</h3>
+<sub>By Mark Landler</sub>
+<p>The rollout of “Endgame” caused a scandal after a quickly withdrawn translation named family members said to have asked about the skin color of Prince Harry and Meghan’s future son.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Watch the DeSantis-Newsom Debate</h3>
-<sub>By Chris Cameron</sub>
-<p>The unusual event, between a Republican presidential candidate and a high-profile Democratic governor who has been a surrogate for the Biden administration, will be moderated by Sean Hannity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, November 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Susan Sarandon’s Most Controversial Roles Have Been Offscreen</h3>
+<sub>By Marc Tracy</sub>
+<p>The Academy Award winner’s career thrived even as her progressive politics antagonized some liberals in Hollywood. But her agency dropped her after her remarks at a recent pro-Palestinian rally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Henry Kissinger, the Hypocrite</h3>
+<sub>By Ben Rhodes</sub>
+<p>He was as much a creation of the American national security state as he was its author.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
