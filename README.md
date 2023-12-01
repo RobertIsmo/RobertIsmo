@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-Recently, the world has been reacting to the loss of Sandra Day O’Connor, the first female Justice of the Supreme Court. Many public figures from across the political spectrum are honoring her for breaking barriers and striving for unity in our nation’s highest court. On another note, George Santos recently lost his seat in Congress due to charges of lies and financial impropriety, setting the stage for a high-stakes special election early next year. Additionally, tensions are high between Israel and the U.S. concerning Israel&#39;s campaign on Gaza. In other news, U.S. oil production is at an all time high which is bringing down oil prices but also causing undoing concern for environmental goals. This is being discussed at a climate summit taking place in Dubai, with U.S. protesters calling for a rapid transition away from fossil fuels while Climate activists are calling out Federal Banks for their lack of commitment to fighting climate change. Finally, 2023 has proven to be a great year for movies despite its pessimism towards the global climate situation. Lastly, India is facing a dispute involving some Sikhs who are demanding an independent state known as Khalistan in northern India.</p>
+To catch my friend up on the news, there have been some significant changes in the US law recently. Sandra Day O&#39;Connor, the first female appointed to the US Supreme Court, passed away at 93. Her rulings around abortion, affirmative action and voting rights have since been overturned by a more right-leaning court. There was also a special election in New York due to a Republican being expelled from Congress after lies about his personal finances and campaigns came to light. 
+
+On an international level, Israel has been experiencing conflict in Gaza and there have been calls from the US for restraint. In terms of oil production, the US has hit record levels but it has caused alarm with environmental activists and at a climate summit this month in Dubai. Meanwhile, stocks have found a new high for the year after dropping over summer and there have been several protests against the Federal Reserve Chair for not doing enough to address climate change. Finally, 2023 was probably one of the best years for movies yet, although they all seemed to reflect a pessimistic outlook overall.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
@@ -69,9 +71,9 @@ Recently, the world has been reacting to the loss of Sandra Day O’Connor, the 
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sandra Day O’Connor Is Celebrated as a ‘Trailblazer’</h3>
-<sub>By Emily Schmall and Victor Mather</sub>
-<p>Public figures from across the political spectrum heralded the former Supreme Court justice for breaking barriers for women and striving for consensus on the nation’s highest court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Justice O’Connor’s Judicial Legacy Was Undermined by Court’s Rightward Shift</h3>
+<sub>By Adam Liptak</sub>
+<p>Since her retirement in 2006, the court has dismantled her key rulings on abortion, affirmative action and campaign finance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -92,6 +94,12 @@ Recently, the world has been reacting to the loss of Sandra Day O’Connor, the 
 <p>George Santos, who was expelled from Congress, has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, May 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Hit New High for the Year, Reversing the Summer’s Swoon</h3>
+<sub>By Joe Rennison</sub>
+<p>The S&amp;P 500 has risen over 10 percent from its October low, with November its best month of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Next Aim Is Southern Gaza. U.S. Urges Restraint.</h3>
 <sub>By Yara Bayoumy and Ronen Bergman</sub>
@@ -104,7 +112,7 @@ Recently, the world has been reacting to the loss of Sandra Day O’Connor, the 
 <p>American oil production is hitting record levels, delivering economic and foreign policy benefits but putting environmental goals further out of reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Tense Climate Summit Begins Against a Backdrop of War and Record Heat</h3>
 <sub>By David Gelles</sub>
 <p>World leaders at climate talks in Dubai invoked faith, science and economics in their calls for a rapid transition away from fossil fuels.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -126,12 +134,6 @@ Recently, the world has been reacting to the loss of Sandra Day O’Connor, the 
 <h3>Best Movies of 2023</h3>
 <sub>By Manohla Dargis and Alissa Wilkinson</sub>
 <p>It was a terrific year for film, whether art house or mainstream, even if the main subject the movies wrestled with was deeply pessimistic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Alleged Plot to Kill Sikh Separatist Highlights Thorn in India’s Side</h3>
-<sub>By Sameer Yasir</sub>
-<p>The charges are rooted in a decades-old dispute over the demand by some Sikhs for a sovereign state known as Khalistan carved out of northern India.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
