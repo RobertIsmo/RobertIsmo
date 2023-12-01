@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there is evidence that authorities had been warned of Hamas&#39;s attack plan more than a year ago but disregarded the warnings. Fighting has resumed in Gaza and TikTok has been blocked in some places. In the US, there is a debate about whether to expel Congressman George Santos for lies and alleged crimes. At a Climate Summit in Dubai, world leaders are dealing with misinformation campaigns by influencers and fossil fuel companies, while British monarch King Charles urges transformational action. The movie industry has seen a great year with art house and mainstream films that reflect pessimism, and Henry Kissinger has been remembered as an influential statesman. Finally, in Russia, a village is mourning a soldier who died in the war in Ukraine and seeking meaning in his death. Closer to home, New Yorkers are learning about what goes into the making of our beloved button-down shirts which help power this very city.</p>
+It&#39;s been a turbulent week in the news -- the first woman to serve on the Supreme Court, Sandra Day O&#39;Connor, passed away. There&#39;s also been a lot of drama surrounding George Santos and his possible expulsion from Congress, as well as questions concerning his personal finances and campaign fund-raising. In addition, Israel had detailed knowledge of a Hamas attack plan over year ago, which brought up concerns about security and foreign policy. Meanwhile in the U.S., oil production is hitting record levels but this has raised climate worries -- protests have broken out at a climate summit flagged by the Federal Reserve and OPEC has agreed to cut its own production. Lastly, it was quite a year in movies despite its somber themes, and former statesman Henry Kissinger had quite an impact in current politics until his passing.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
+<sub>By Linda Greenhouse</sub>
+<p>During a crucial period in American law — when abortion, affirmative action, sex discrimination and voting rights were on the docket — she was the most powerful woman in the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Santos Relishes the Limelight Even as His Show Looks Likely to Close</h3>
+<sub>By Annie Karni</sub>
+<p>Before the debate about his possible expulsion from Congress, George Santos seemed to embrace his starring role in a scandal of his own making.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Lies, Charges and Questions Remaining in the George Santos Scandal</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>George Santos has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
 <sub>By Ronen Bergman and Adam Goldman</sub>
@@ -74,28 +92,22 @@ There is a lot going on in the world right now. In Israel, there is evidence tha
 <p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Santos Relishes the Limelight Even as His Show Looks Likely to Close</h3>
-<sub>By Annie Karni</sub>
-<p>Before the debate about his possible expulsion from Congress, George Santos seemed to embrace his starring role in a scandal of his own making.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Spirited Debate, George Santos Dares House Colleagues to Expel Him</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>The House debate on Thursday boiled down to a central question: Should Mr. Santos’s series of lies and alleged crimes outweigh historical precedents?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Disinformation Is One of Climate Summit’s Biggest Challenges</h3>
-<sub>By Tiffany Hsu and Steven Lee Myers</sub>
-<p>Online influencers, fossil fuel companies and some of the countries attending COP28 have nourished a feedback loop of falsehoods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Surging U.S. Oil Production Brings Down Prices and Raises Climate Fears</h3>
+<sub>By Clifford Krauss</sub>
+<p>American oil production is hitting record levels, delivering economic and foreign policy benefits but putting environmental goals further out of reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>King Charles Urges ‘Transformational Action’ at COP28 Climate Summit</h3>
-<sub>By Mark Landler</sub>
-<p>“The hope of the world rests on the decisions you must take,” the British monarch told world leaders at the U.N. climate summit in Dubai.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>So, an Oil Cartel Walks Into a Climate Summit …</h3>
+<sub>By Jim Tankersley</sub>
+<p>OPEC is a participant at COP28. Unlike the United States, it is moving to cut production.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Climate Protesters Get in Fed’s Face as Policy Clash Grows Louder</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Jerome H. Powell, the central bank’s chair, has been interrupted recently by a climate group that thinks disruption will win the day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot going on in the world right now. In Israel, there is evidence tha
 <h3>When Henry Kissinger Became an Opera Character</h3>
 <sub>By Zachary Woolfe</sub>
 <p>In 1987, “Nixon in China” meditated on what was then recent history, depicting Kissinger as a smooth diplomat with a brutal side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Russian Village Buries a Soldier, and Tries to Make Sense of the War</h3>
-<sub>By Valerie Hopkins and Nanna Heitmann</sub>
-<p>The pain and loss of the war in Ukraine are felt most profoundly in small Russian villages, where a soldier’s burial produces not just grief but a yearning to find meaning in his death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>They Charge $6 to Clean Your Shirt. They Make 13 Cents On It.</h3>
-<sub>By Eliza Shapiro and Lanna Apisukh</sub>
-<p>The humble cotton button-down helps power New York City, through its presence in practically every office in town. But few people understand the shirt’s transformation from dirty to clean, which at Kingbridge Cleaners &amp; Tailors will run you $6.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
