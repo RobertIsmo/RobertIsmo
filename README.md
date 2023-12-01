@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, November 30, Central Standard Time</p>
+<p>It is Friday, December 1, Central Standard Time</p>
 <p>
-I wanted to tell you about some of the news going on in the world. It looks like Israel had more information than they initially said about Hamas&#39; attack plans. On the international side, Henry Kissinger had a long career as a political advisor, and now his legacy is being remembered. There was also an alleged assassination plot on U.S. soil that has tested the Biden administration&#39;s bond with India&#39;s leader, and it has caused tensions with Canada. In Colorado, a small town is finding ways to mend its divides after a bout of death threats recently. And lastly, there was controversy around a biography of the British royal family in which they were accused of asking about the skin color of Harry and Meghan&#39;s future son.</p>
+Right now, there is a lot going on around the world. In Israel, a blueprint of Hamas&#39;s possible attack plans was exposed by The Times. In the US, former Statesman Henry Kissinger passed away and people all around the world shed light on his idiosyncrasies and how he has influenced global politics. Canada and India have strained relations due to an assassination plot accusation in New York and a killing back in Canada. In Colorado, tensions of political divide made it to a House debate centered around whether the alleged crimes of George Santos should outweigh historical precedents or not. In the UK, a book publishing &quot;mistake&quot; reignited the Royal racism uproar regarding Prince Harry and Meghan&#39;s first son. Finally, songwriter Shane MacGowan passed away at 65, adding to the tragedy of losses faced throughout 2020.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Knew Hamas’s Attack Plan More Than a Year Ago</h3>
@@ -99,15 +99,15 @@ I wanted to tell you about some of the news going on in the world. It looks like
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Ron DeSantis, a Democratic Sparring Partner at a Tenuous Time in His Campaign</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>For Mr. DeSantis, taking on Gavin Newsom is fraught with risks at a time when his presidential campaign seems to be gasping for air.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>5 Takeaways From the DeSantis-Newsom Debate</h3>
+<sub>By Jonathan Weisman</sub>
+<p>Ron DeSantis showed a feistier side, using a friendly moderator to go on offense. Gavin Newsom defended California and President Biden, and jabbed right back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Spirited Debate, George Santos Dares House Colleagues to Expel Him</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
-<p>The House debate on Thursday boiled down to a central question: Should Mr. Santos’s series of lies and alleged crimes outweigh historical precedence?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The House debate on Thursday boiled down to a central question: Should Mr. Santos’s series of lies and alleged crimes outweigh historical precedents?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,15 +123,15 @@ I wanted to tell you about some of the news going on in the world. It looks like
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Susan Sarandon’s Most Controversial Roles Have Been Offscreen</h3>
-<sub>By Marc Tracy</sub>
-<p>The Academy Award winner’s career thrived even as her progressive politics antagonized some liberals in Hollywood. But her agency dropped her after her remarks at a recent pro-Palestinian rally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Complex, Enduring Friendship of Shane MacGowan and Sinead O’Connor</h3>
+<sub>By Amanda Hess</sub>
+<p>The two Irish singers interacted like siblings, speaking of each other warmly, but needling each other, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Henry Kissinger, the Hypocrite</h3>
-<sub>By Ben Rhodes</sub>
-<p>He was as much a creation of the American national security state as he was its author.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Shane MacGowan, Songwriter Who Fused Punk and Irish Rebellion, Is Dead at 65</h3>
+<sub>By Matt Phillips</sub>
+<p>As frontman for the Pogues, he romanticized whiskey-soaked rambles and hard-luck stories of emigration, while providing a musical touchstone for members of the Irish diaspora.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
