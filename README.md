@@ -60,10 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-To catch my friend up on the news, there have been some significant changes in the US law recently. Sandra Day O&#39;Connor, the first female appointed to the US Supreme Court, passed away at 93. Her rulings around abortion, affirmative action and voting rights have since been overturned by a more right-leaning court. There was also a special election in New York due to a Republican being expelled from Congress after lies about his personal finances and campaigns came to light. 
-
-On an international level, Israel has been experiencing conflict in Gaza and there have been calls from the US for restraint. In terms of oil production, the US has hit record levels but it has caused alarm with environmental activists and at a climate summit this month in Dubai. Meanwhile, stocks have found a new high for the year after dropping over summer and there have been several protests against the Federal Reserve Chair for not doing enough to address climate change. Finally, 2023 was probably one of the best years for movies yet, although they all seemed to reflect a pessimistic outlook overall.</p>
+There has been a lot of news lately in the world. In the US, Congress has made history by ousting Republican politician George Santos in a historic vote. Former Supreme Court Justice Sandra Day O&#39;Connor passed away at 93, leaving behind a judicial legacy that is slowly being eroded by the court’s rightward shift. Israel released 240 Palestinian prisoners and detainees during a week-long pause in hostilities while inmate John Turscak was charged with attempting to murder Derek Chauvin, who is serving prison time for the murder of George Floyd. In terms of politics, questions over staffing the future Republican White House are arising: is it a paleoconservative or moderate? The campaign for second place between DeSantis and Haley is now more intense on the debate stage, while there has also been news of the effort that goes into transforming the White House for the holidays each year. Finally, stocks have hit a new high for the year after a summer swoon, rallying 10 percent from its October low with November its best month of the year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Santos Ouster, a Chaotic Congress Makes History Again</h3>
+<sub>By Luke Broadwater</sub>
+<p>A Republican-led House known for dysfunction managed to purge a serial fabulist from its ranks, but the expulsion threatened to make it even harder for the G.O.P. to govern.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>George Santos Is Kicked Out of Congress in a Historic Vote</h3>
+<sub>By Michael Gold and Grace Ashford</sub>
+<p>Nearly half of the G.O.P. House delegation voted to expel Mr. Santos, a remarkable rebuke of a colleague who had survived two prior expulsion bids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
 <sub>By Linda Greenhouse</sub>
@@ -76,64 +86,52 @@ On an international level, Israel has been experiencing conflict in Gaza and the
 <p>Since her retirement in 2006, the court has dismantled her key rulings on abortion, affirmative action and campaign finance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Is Gone. Two Dozen Candidates Want His Seat.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The New York Republican’s expulsion sets the stage for a high-stakes special election early next year to fill his Long Island swing seat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Freed Palestinians Were Mostly Young and Not Convicted of Crimes</h3>
+<sub>By Elena Shao, Karen Zraick, Anushka Patil and Gaya Gupta</sub>
+<p>Israel has released a total of 240 Palestinian prisoners and detainees during a weeklong pause in hostilities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Undoing of George Santos</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Lying is one thing in politics. But lying and stealing for the sake of Ferragamo and Hermès?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>With the End of the Cease-Fire, Concern Grows Over the Oldest Israeli Hostages Left Behind</h3>
+<sub>By Katherine Rosman</sub>
+<p>Going without medicines, proper nutrition and other necessities leave many especially vulnerable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Lost His Job. The Lies, Charges and Questions Remaining.</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>George Santos, who was expelled from Congress, has told so many stories they can be hard to keep straight. We cataloged them, including major questions about his personal finances and his campaign fund-raising and spending.  <a href="https://nyti.ms/42O9HFB"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, May 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inmate Stabbed Derek Chauvin 22 Times, U.S. Says</h3>
+<sub>By Orlando Mayorquin</sub>
+<p>John Turscak, 52, has been charged with attempting to murder Mr. Chauvin, who is serving more than two decades in prison for the murder of George Floyd.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Paleoconservative or Moderate? Questions for Staffing the Next G.O.P. White House.</h3>
+<sub>By Jonathan Swan</sub>
+<p>The Heritage Foundation asks applicants for a future Republican administration a series of questions about their ideology, showing the extent to which “America First” has shaped the modern G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Questionnaire for Applicants to the Next Conservative White House</h3>
+<sub>By The New York Times</sub>
+<p>The Heritage Foundation, which has been staffing Republican administrations since the Reagan era, has a list of questions for job applicants that shows how Donald Trump has transformed the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Takes Fight for Second Place to Nikki Haley’s Home State</h3>
+<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
+<p>After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What It Takes to Transform the White House for the Holidays</h3>
+<sub>By Katie Rogers and Doug Mills</sub>
+<p>300 volunteers (including the first lady’s twin sisters), 98 Christmas trees and a 300-pound gingerbread house are just the beginning.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Stocks Hit New High for the Year, Reversing the Summer’s Swoon</h3>
 <sub>By Joe Rennison</sub>
 <p>The S&amp;P 500 has risen over 10 percent from its October low, with November its best month of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Next Aim Is Southern Gaza. U.S. Urges Restraint.</h3>
-<sub>By Yara Bayoumy and Ronen Bergman</sub>
-<p>American officials are making clear to Israel that it cannot pursue a campaign in the south that would have the same devastating consequences as in the north.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Surging U.S. Oil Production Brings Down Prices and Raises Climate Fears</h3>
-<sub>By Clifford Krauss</sub>
-<p>American oil production is hitting record levels, delivering economic and foreign policy benefits but putting environmental goals further out of reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Tense Climate Summit Begins Against a Backdrop of War and Record Heat</h3>
-<sub>By David Gelles</sub>
-<p>World leaders at climate talks in Dubai invoked faith, science and economics in their calls for a rapid transition away from fossil fuels.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>So, an Oil Cartel Walks Into a Climate Summit …</h3>
-<sub>By Jim Tankersley</sub>
-<p>OPEC is a participant at COP28. Unlike the United States, it is moving to cut production.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Climate Protesters Get in Fed’s Face as Policy Clash Grows Louder</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Jerome H. Powell, the central bank’s chair, has been interrupted recently by a climate group that thinks disruption will win the day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Best Movies of 2023</h3>
-<sub>By Manohla Dargis and Alissa Wilkinson</sub>
-<p>It was a terrific year for film, whether art house or mainstream, even if the main subject the movies wrestled with was deeply pessimistic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
