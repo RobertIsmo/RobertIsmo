@@ -59,37 +59,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
-<p>There’s a lot going on in the world right now. In the US, there has been a historic vote to oust a serial fabulist from Congress. There have also been court cases involving former president Trump and late Supreme Court justice Sandra Day O’Connor. Elsewhere, there has been an attempt by protesters to set fire to the Israeli Consulate in Atlanta and actress Susan Sarandon recently apologized for comments made at a rally. On the climate front, several countries have pledged to increase their nuclear capacity in order to reduce fossil fuel emissions and the Biden administration is pushing for a powerful regulatory tool aimed at climate change. Lastly, Japan has implemented new regulations to keep people from giving their children unusual names. All in all, it&#39;s an eventful time!</p>
+<p>
+There&#39;s a lot going on in the world right now - nationally and globally. The US government is facing a crisis as a federal judge rejected ex-President Donald Trump&#39;s claim of immunity from election interference charges. And globally, the Biden administration recently announced a plan to cut millions of tons of methane emissions and 22 countries have pledged to triple nuclear capacity in an effort to reduce fossil fuel usage. There are big implications for business, too - a nationwide shortage of air traffic controllers has caused exhaustion and burnout that&#39;s pushing them to make dangerous errors.  On top of all of this, Supreme Court Justice Ruth Bader Ginsburg passed away last week, leaving an incredible legacy behind her that has inspired a generation of women. Finally, there&#39;s cultural news to follow too: Beyoncé released her new film, &#39;Renaissance,&#39; featuring her as an auteur at the center stage.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Santos Ouster, a Chaotic Congress Makes History Again</h3>
-<sub>By Luke Broadwater</sub>
-<p>A Republican-led House known for dysfunction managed to purge a serial fabulist from its ranks, but the expulsion threatened to make it even harder for the G.O.P. to govern.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
+<sub>By Emily Steel and Sydney Ember</sub>
+<p>A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Is Kicked Out of Congress in a Historic Vote</h3>
-<sub>By Michael Gold and Grace Ashford</sub>
-<p>Nearly half of the G.O.P. House delegation voted to expel Mr. Santos, a remarkable rebuke of a colleague who had survived two prior expulsion bids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israelis Are Angry at Netanyahu, but Chances of His Ouster Are Slim</h3>
+<sub>By Sheera Frenkel</sub>
+<p>Many hold Prime Minister Benjamin Netanyahu responsible for his government’s failure to prevent the Oct. 7 attack by Hamas. His legacy could be determined by his actions in the coming days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>What’s Next for George Santos? Court Dates and, Maybe, Reality TV.</h3>
 <sub>By Nicholas Fandos, Grace Ashford and Michael Gold</sub>
 <p>The New York Republican suggested that his future might include a memoir or a reality television show, not to mention the looming criminal trial in federal court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A protester self-immolates outside the Israeli Consulate in Atlanta.</h3>
-<sub>By Colbi Edmonds</sub>
-<p>A security guard tried to intervene but was unsuccessful, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Susan Sarandon Apologizes for Comment About Jews at Rally</h3>
-<sub>By Marc Tracy</sub>
-<p>The Oscar-winning actress said she now regrets “diminishing” the long history of antisemitism in remarks at the rally, which led her agents to part ways with her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Biden Administration Announces Rule to Cut Millions of Tons of Methane Emissions</h3>
@@ -109,12 +98,6 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>The group, including Britain, France and the United States, said the agreement was critical to meeting nations’ climate commitments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Unusual Names Can Complicate Life in Japan. Now Parents Are Being Reined In.</h3>
-<sub>By Hikari Hida</sub>
-<p>As such names have increased, so has media attention to cases of people unhappy with them. But critics say new rules may infringe on the right to be creative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Federal Judge Rejects Trump’s Immunity Claims in Election Case</h3>
 <sub>By Alan Feuer</sub>
@@ -122,16 +105,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
-<sub>By Linda Greenhouse</sub>
-<p>During a crucial period in American law — when abortion, affirmative action, sex discrimination and voting rights were on the docket — she was the most powerful woman in the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Paleoconservative or Moderate? Questions for Staffing the Next G.O.P. White House.</h3>
+<sub>By Jonathan Swan</sub>
+<p>The Heritage Foundation asks applicants for a future Republican administration a series of questions about their ideology, showing the extent to which “America First” has shaped the modern G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sandra O’Connor’s Extraordinary Final Chapter</h3>
-<sub>By Kate Zernike</sub>
-<p>The Supreme Court justice found herself balancing conflicting demands of professional achievement and family expectations to the end.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Takes Fight for Second Place to Nikki Haley’s Home State</h3>
+<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
+<p>After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Beyoncé the Auteur Takes Center Stage in ‘Renaissance’</h3>
+<sub>By Salamishah Tillet</sub>
+<p>She is essentially one on the new film, but she has also demonstrated throughout her career just who is in charge of her art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Renaissance: A Film by Beyoncé’ Review: Peak Performance</h3>
+<sub>By Wesley Morris</sub>
+<p>The concert film offers a comprehensive look at a world-conquering tour and rare insight into the process of one of the world’s biggest stars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In and Out of the Courtroom, O’Connor Inspired a Generation of Women</h3>
+<sub>By Julie Bosman, Emily Cochrane and Nicholas Bogel-Burroughs</sub>
+<p>The Supreme Court justice, who died at 93 on Friday, made a series of influential rulings and inspired women across a range of fields as she cemented her legacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
