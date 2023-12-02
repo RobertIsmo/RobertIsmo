@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 1, Central Standard Time</p>
+<p>It is Saturday, December 2, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world. In the US, former president Donald Trump is facing trial on election interference charges and the Republican party is seeking potential applicants for a future White House staff. On an international level, a cease-fire between Israel and Hamas recently came to an end, resulting in the release of 240 Palestinian prisoners and detainees. Meanwhile, Supreme Court Justice Sandra Day O&#39;Connor, the first woman to serve on the court, recently passed away at age 93. Back at home, Congress made history again by voting to expel serial fabulist George Santos from its ranks.</p>
+Right now, American politics and the world are going through some intense changes. In the US, a Republican-led House just voted to expel a long-time member for lying and fraud. This week, Supreme Court Justice and first woman on the court Sandra Day O&#39;Connor passed away at 93. There&#39;s also been an ongoing battle between politicians for second place in the G.O.P primary race. 
+
+Meanwhile, in the Middle East, there have been recent tensions between Israel and Hamas that recently led to a cease-fire that has since broken down, resulting in prisoners being released back to their countries of origin on both sides.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Santos Ouster, a Chaotic Congress Makes History Again</h3>
@@ -72,12 +74,6 @@ Currently, there is a lot going on in the world. In the US, former president Don
 <h3>George Santos Is Kicked Out of Congress in a Historic Vote</h3>
 <sub>By Michael Gold and Grace Ashford</sub>
 <p>Nearly half of the G.O.P. House delegation voted to expel Mr. Santos, a remarkable rebuke of a colleague who had survived two prior expulsion bids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The Undoing of George Santos</h3>
-<sub>By Vanessa Friedman</sub>
-<p>Lying is one thing in politics. But lying and stealing for the sake of Ferragamo and Hermès?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +128,12 @@ Currently, there is a lot going on in the world. In the US, former president Don
 <h3>A Questionnaire for Applicants to the Next Conservative White House</h3>
 <sub>By The New York Times</sub>
 <p>The Heritage Foundation, which has been staffing Republican administrations since the Reagan era, has a list of questions for job applicants that shows how Donald Trump has transformed the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Takes Fight for Second Place to Nikki Haley’s Home State</h3>
+<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
+<p>After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
