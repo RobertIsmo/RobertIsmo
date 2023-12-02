@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
 <p>
-Right now, there is a nationwide shortage of air traffic controllers in the US that is leading to exhausted and demoralized workers — making them prone to dangerous mistakes on the job. Israelis are showing a lot of anger towards their prime minister Benjamin Netanyahu for failing to prevent an attack by Hamas. In response, the Biden administration has proposed a rule cutting millions of tons of methane emissions. There&#39;s also a financial paradox blocking efforts to fight climate change -- it&#39;s much easier to find money for fossil fuel plants than for clean energy projects. To raise awareness about climate change, Pope Francis sent out a message through a Vatican envoy at the UN Climate Summit. Beyonce also just came out with a new movie&#x2F;concert film called &quot;Renaissance&quot;. It&#39;s become so popular that Houston fans flocked to watch it. Then, there was an unexpected tip about a suspected Indian murder-for-hire plot in the US that was foiled due to urgent action. Also, many families with aging loved ones are desperate to find affordable home care services, but there is a severe shortage and it can be tricky to find the right aide.</p>
+It looks like there&#39;s a lot going on in the world right now. There&#39;s an air traffic controller shortage and reports of exhausted controllers that could be making dangerous mistakes. Israeli generals are being scrutinized after intelligence errors were exposed. There are also repercussions from a major Hamas attack in October, with people angry at Benjamin Netanyahu. In the US, a former congressman was forced out after it was revealed he was breaking campaign finance laws, and there&#39;s a high-stakes election for his seat in New York. Beyoncé also put out an almost three-hour long concert movie. On top of that, Supreme Court Justice Sandra O&#39;Connor sadly passed away, leaving a legacy inspiring women across different fields. Lastly, hurricane season saw an unusually large amount of costly storms that&#39;ve been rapidly intensifying. Finally, desperate families have been struggling to find affordable home care for aging family members.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
@@ -69,34 +69,34 @@ Right now, there is a nationwide shortage of air traffic controllers in the US t
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Intelligence Errors Prompt Scrutiny of Israeli Generals, but Little Backlash</h3>
+<sub>By Patrick Kingsley and Aaron Boxerman</sub>
+<p>The Israeli media and The New York Times published damaging revelations suggesting that senior officers had ignored or dismissed intelligence reports about the likelihood of a major Hamas attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israelis Are Angry at Netanyahu, but Chances of His Ouster Are Slim</h3>
 <sub>By Sheera Frenkel</sub>
 <p>Many hold Prime Minister Benjamin Netanyahu responsible for his government’s failure to prevent the Oct. 7 attack by Hamas. His legacy could be determined by his actions in the coming days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Harris Says U.S. Strongly Opposes ‘Forced Relocation of Palestinians From Gaza’</h3>
+<sub>By Michael D. Shear</sub>
+<p>The vice president’s statement came after a daylong meeting with Arab leaders in Dubai, where she was attending the U.N. climate summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>George Santos Reveals One Truth: It’s Easy to Abuse Campaign Finance Laws</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>The newly ousted congressman, while an extreme case, illustrated the weaknesses of a system that relies on politicians to report their finances in good faith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What’s Next for George Santos? Court Dates and, Maybe, Reality TV.</h3>
-<sub>By Nicholas Fandos, Grace Ashford and Michael Gold</sub>
-<p>The New York Republican suggested that his future might include a memoir or a reality television show, not to mention the looming criminal trial in federal court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Announces Rule to Cut Millions of Tons of Methane Emissions</h3>
-<sub>By Jim Tankersley and Lisa Friedman</sub>
-<p>The measure, which requires oil and gas producers to detect and fix leaks of the greenhouse gas, came as the U.S. vice president spoke at the COP28 climate summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Financial Paradox Blocking Efforts to Fight Climate Change</h3>
-<sub>By David Gelles and Vivienne Walt</sub>
-<p>Finding money for fossil fuel plants is much easier than financing clean energy projects, especially in developing countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Pope Francis Couldn’t Travel to the U.N. Climate Summit, but His Voice Did</h3>
-<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
-<p>A Vatican envoy delivered remarks in which Francis asked world leaders whether they would opt for “a culture of life or a culture of death.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<h3>George Santos Is Gone. Two Dozen Candidates Want His Seat.</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The New York Republican’s expulsion sets the stage for a high-stakes special election early next year to fill his Long Island swing seat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Beyoncé the Auteur Takes Center Stage in ‘Renaissance’</h3>
@@ -104,17 +104,23 @@ Right now, there is a nationwide shortage of air traffic controllers in the US t
 <p>She is essentially one on the new film, but she has also demonstrated throughout her career just who is in charge of her art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Renaissance: A Film by Beyoncé’ Review: Peak Performance</h3>
-<sub>By Wesley Morris</sub>
-<p>The concert film offers a comprehensive look at a world-conquering tour and rare insight into the process of one of the world’s biggest stars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Houston Fans Flock to See Beyoncé, on the Big Screen This Time</h3>
 <sub>By Maria Jimenez Moya</sub>
 <p>Her hometown BeyHive gathered to watch her nearly three-hour concert movie.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In and Out of the Courtroom, O’Connor Inspired a Generation of Women</h3>
+<sub>By Julie Bosman, Emily Cochrane and Nicholas Bogel-Burroughs</sub>
+<p>The Supreme Court justice, who died at 93 on Friday, made a series of influential rulings and inspired women across a range of fields as she cemented her legacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>2023 Hurricane Season Ends, Marked by Storms That ‘Really Rapidly Intensified’</h3>
+<sub>By William B. Davis and Judson Jones</sub>
+<p>There have been a combined 37 named storms this year in the Atlantic and Eastern Pacific basins. A high proportion of those quickly escalated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How a Suspected Indian Murder-for-Hire Plot on U.S. Soil Was Foiled</h3>
@@ -126,12 +132,6 @@ Right now, there is a nationwide shortage of air traffic controllers in the US t
 <h3>Desperate Families Search for Affordable Home Care</h3>
 <sub>By Reed Abelson and Desiree Rios</sub>
 <p>Facing a severe shortage of aides and high costs, people trying to keep aging loved ones at home often cobble together a patchwork of family and friends to help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What to Know About Home Care Services</h3>
-<sub>By Reed Abelson</sub>
-<p>Finding an aide to help an older person stay at home safely takes work. Here’s a guide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
