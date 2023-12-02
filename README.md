@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now - nationally and globally. The US government is facing a crisis as a federal judge rejected ex-President Donald Trump&#39;s claim of immunity from election interference charges. And globally, the Biden administration recently announced a plan to cut millions of tons of methane emissions and 22 countries have pledged to triple nuclear capacity in an effort to reduce fossil fuel usage. There are big implications for business, too - a nationwide shortage of air traffic controllers has caused exhaustion and burnout that&#39;s pushing them to make dangerous errors.  On top of all of this, Supreme Court Justice Ruth Bader Ginsburg passed away last week, leaving an incredible legacy behind her that has inspired a generation of women. Finally, there&#39;s cultural news to follow too: Beyoncé released her new film, &#39;Renaissance,&#39; featuring her as an auteur at the center stage.</p>
+It looks like we&#39;re facing some major challenges lately. A nationwide shortage of air traffic controllers has led to exhaustion, frustration, and dangerous mistakes. There&#39;s also a lot of tension in Israel as Prime Minister Benjamin Netanyahu is being held responsible for an attack by Hamas earlier this month. In the US, we&#39;ve also just lost a trailblazer and Supreme Court justice, Sandra Day O&#39;Connor. On a more positive note, the Biden administration is taking big strides towards reducing methane emissions and harnessing renewable energy sources. And finally, Beyoncé made a spectacular new film that&#39;s been getting lots of praise!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
@@ -82,8 +82,8 @@ There&#39;s a lot going on in the world right now - nationally and globally. The
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Biden Administration Announces Rule to Cut Millions of Tons of Methane Emissions</h3>
-<sub>By Lisa Friedman and Jim Tankersley</sub>
-<p>The measure, announced at the COP28 climate summit in Dubai, requires oil and gas producers to detect and fix leaks of the potent greenhouse gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Jim Tankersley and Lisa Friedman</sub>
+<p>The measure, which requires oil and gas producers to detect and fix leaks of the greenhouse gas, came as the U.S. vice president spoke at the COP28 climate summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -98,24 +98,6 @@ There&#39;s a lot going on in the world right now - nationally and globally. The
 <p>The group, including Britain, France and the United States, said the agreement was critical to meeting nations’ climate commitments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Rejects Trump’s Immunity Claims in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The ruling is likely to spark a series of appeals that the former president’s lawyers hope will push the trial on election interference charges past the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Paleoconservative or Moderate? Questions for Staffing the Next G.O.P. White House.</h3>
-<sub>By Jonathan Swan</sub>
-<p>The Heritage Foundation asks applicants for a future Republican administration a series of questions about their ideology, showing the extent to which “America First” has shaped the modern G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Takes Fight for Second Place to Nikki Haley’s Home State</h3>
-<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
-<p>After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Beyoncé the Auteur Takes Center Stage in ‘Renaissance’</h3>
 <sub>By Salamishah Tillet</sub>
@@ -127,6 +109,24 @@ There&#39;s a lot going on in the world right now - nationally and globally. The
 <sub>By Wesley Morris</sub>
 <p>The concert film offers a comprehensive look at a world-conquering tour and rare insight into the process of one of the world’s biggest stars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How a Suspected Indian Murder-for-Hire Plot on U.S. Soil Was Foiled</h3>
+<sub>By Nicole Hong</sub>
+<p>After a murder in Canada, a sting operation, prompted by an explosive tip through an unexpected channel, rushed to prevent another killing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Desperate Families Search for Affordable Home Care</h3>
+<sub>By Reed Abelson and Desiree Rios</sub>
+<p>Facing a severe shortage of aides and high costs, people trying to keep aging loved ones at home often cobble together a patchwork of family and friends to help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What to Know About Home Care Services</h3>
+<sub>By Reed Abelson</sub>
+<p>Finding an aide to help an older person stay at home safely takes work. Here’s a guide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In and Out of the Courtroom, O’Connor Inspired a Generation of Women</h3>
