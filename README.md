@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
 <p>
-It looks like we&#39;re facing some major challenges lately. A nationwide shortage of air traffic controllers has led to exhaustion, frustration, and dangerous mistakes. There&#39;s also a lot of tension in Israel as Prime Minister Benjamin Netanyahu is being held responsible for an attack by Hamas earlier this month. In the US, we&#39;ve also just lost a trailblazer and Supreme Court justice, Sandra Day O&#39;Connor. On a more positive note, the Biden administration is taking big strides towards reducing methane emissions and harnessing renewable energy sources. And finally, Beyoncé made a spectacular new film that&#39;s been getting lots of praise!</p>
+Right now, there is a nationwide shortage of air traffic controllers in the US that is leading to exhausted and demoralized workers — making them prone to dangerous mistakes on the job. Israelis are showing a lot of anger towards their prime minister Benjamin Netanyahu for failing to prevent an attack by Hamas. In response, the Biden administration has proposed a rule cutting millions of tons of methane emissions. There&#39;s also a financial paradox blocking efforts to fight climate change -- it&#39;s much easier to find money for fossil fuel plants than for clean energy projects. To raise awareness about climate change, Pope Francis sent out a message through a Vatican envoy at the UN Climate Summit. Beyonce also just came out with a new movie&#x2F;concert film called &quot;Renaissance&quot;. It&#39;s become so popular that Houston fans flocked to watch it. Then, there was an unexpected tip about a suspected Indian murder-for-hire plot in the US that was foiled due to urgent action. Also, many families with aging loved ones are desperate to find affordable home care services, but there is a severe shortage and it can be tricky to find the right aide.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
@@ -86,16 +86,16 @@ It looks like we&#39;re facing some major challenges lately. A nationwide shorta
 <p>The measure, which requires oil and gas producers to detect and fix leaks of the greenhouse gas, came as the U.S. vice president spoke at the COP28 climate summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Biden Administration Unleashes Powerful Regulatory Tool Aimed at Climate</h3>
-<sub>By Coral Davenport</sub>
-<p>Its new estimate of the economic impact of climate change could create the legal justification for aggressive new regulations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Financial Paradox Blocking Efforts to Fight Climate Change</h3>
+<sub>By David Gelles and Vivienne Walt</sub>
+<p>Finding money for fossil fuel plants is much easier than financing clean energy projects, especially in developing countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>22 Countries Pledge to Triple Nuclear Capacity in Push to Cut Fossil Fuels</h3>
-<sub>By Jenny Gross</sub>
-<p>The group, including Britain, France and the United States, said the agreement was critical to meeting nations’ climate commitments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Pope Francis Couldn’t Travel to the U.N. Climate Summit, but His Voice Did</h3>
+<sub>By Jason Horowitz and Elisabetta Povoledo</sub>
+<p>A Vatican envoy delivered remarks in which Francis asked world leaders whether they would opt for “a culture of life or a culture of death.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -108,6 +108,12 @@ It looks like we&#39;re facing some major challenges lately. A nationwide shorta
 <h3>‘Renaissance: A Film by Beyoncé’ Review: Peak Performance</h3>
 <sub>By Wesley Morris</sub>
 <p>The concert film offers a comprehensive look at a world-conquering tour and rare insight into the process of one of the world’s biggest stars.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Houston Fans Flock to See Beyoncé, on the Big Screen This Time</h3>
+<sub>By Maria Jimenez Moya</sub>
+<p>Her hometown BeyHive gathered to watch her nearly three-hour concert movie.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -126,12 +132,6 @@ It looks like we&#39;re facing some major challenges lately. A nationwide shorta
 <h3>What to Know About Home Care Services</h3>
 <sub>By Reed Abelson</sub>
 <p>Finding an aide to help an older person stay at home safely takes work. Here’s a guide.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In and Out of the Courtroom, O’Connor Inspired a Generation of Women</h3>
-<sub>By Julie Bosman, Emily Cochrane and Nicholas Bogel-Burroughs</sub>
-<p>The Supreme Court justice, who died at 93 on Friday, made a series of influential rulings and inspired women across a range of fields as she cemented her legacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
