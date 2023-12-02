@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 1, Central Standard Time</p>
 <p>
-There has been a lot of news lately in the world. In the US, Congress has made history by ousting Republican politician George Santos in a historic vote. Former Supreme Court Justice Sandra Day O&#39;Connor passed away at 93, leaving behind a judicial legacy that is slowly being eroded by the court’s rightward shift. Israel released 240 Palestinian prisoners and detainees during a week-long pause in hostilities while inmate John Turscak was charged with attempting to murder Derek Chauvin, who is serving prison time for the murder of George Floyd. In terms of politics, questions over staffing the future Republican White House are arising: is it a paleoconservative or moderate? The campaign for second place between DeSantis and Haley is now more intense on the debate stage, while there has also been news of the effort that goes into transforming the White House for the holidays each year. Finally, stocks have hit a new high for the year after a summer swoon, rallying 10 percent from its October low with November its best month of the year.</p>
+Currently, there is a lot going on in the world. In the US, former president Donald Trump is facing trial on election interference charges and the Republican party is seeking potential applicants for a future White House staff. On an international level, a cease-fire between Israel and Hamas recently came to an end, resulting in the release of 240 Palestinian prisoners and detainees. Meanwhile, Supreme Court Justice Sandra Day O&#39;Connor, the first woman to serve on the court, recently passed away at age 93. Back at home, Congress made history again by voting to expel serial fabulist George Santos from its ranks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Santos Ouster, a Chaotic Congress Makes History Again</h3>
@@ -74,6 +74,12 @@ There has been a lot of news lately in the world. In the US, Congress has made h
 <p>Nearly half of the G.O.P. House delegation voted to expel Mr. Santos, a remarkable rebuke of a colleague who had survived two prior expulsion bids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>The Undoing of George Santos</h3>
+<sub>By Vanessa Friedman</sub>
+<p>Lying is one thing in politics. But lying and stealing for the sake of Ferragamo and Hermès?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
 <sub>By Linda Greenhouse</sub>
@@ -81,9 +87,15 @@ There has been a lot of news lately in the world. In the US, Congress has made h
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice O’Connor’s Judicial Legacy Was Undermined by Court’s Rightward Shift</h3>
-<sub>By Adam Liptak</sub>
-<p>Since her retirement in 2006, the court has dismantled her key rulings on abortion, affirmative action and campaign finance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sandra O’Connor’s Extraordinary Final Chapter</h3>
+<sub>By Kate Zernike</sub>
+<p>The Supreme Court justice found herself balancing conflicting demands of professional achievement and family expectations to the end.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Resumes Offensive in Gaza Strip After Truce With Hamas Ends</h3>
+<sub>By Patrick Kingsley, Ben Hubbard and Thomas Fuller</sub>
+<p>Talks on extending a weeklong cease-fire broke down, with each side blaming the other. The truce had included the release of hostages held in Gaza for people in Israeli prisons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,9 +111,15 @@ There has been a lot of news lately in the world. In the US, Congress has made h
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inmate Stabbed Derek Chauvin 22 Times, U.S. Says</h3>
-<sub>By Orlando Mayorquin</sub>
-<p>John Turscak, 52, has been charged with attempting to murder Mr. Chauvin, who is serving more than two decades in prison for the murder of George Floyd.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Federal Judge Rejects Trump’s Immunity Claims in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The ruling is likely to spark a series of appeals that the former president’s lawyers hope will push the trial on election interference charges past the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Lawyer Tells Judge a Georgia Trial Would Be ‘Election Interference’</h3>
+<sub>By Richard Fausset and Danny Hakim</sub>
+<p>Arguments in court on Friday offered clues to Donald J. Trump’s legal strategy in fighting state charges of conspiracy to overturn the 2020 presidential election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,24 +132,6 @@ There has been a lot of news lately in the world. In the US, Congress has made h
 <h3>A Questionnaire for Applicants to the Next Conservative White House</h3>
 <sub>By The New York Times</sub>
 <p>The Heritage Foundation, which has been staffing Republican administrations since the Reagan era, has a list of questions for job applicants that shows how Donald Trump has transformed the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Takes Fight for Second Place to Nikki Haley’s Home State</h3>
-<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
-<p>After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What It Takes to Transform the White House for the Holidays</h3>
-<sub>By Katie Rogers and Doug Mills</sub>
-<p>300 volunteers (including the first lady’s twin sisters), 98 Christmas trees and a 300-pound gingerbread house are just the beginning.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Hit New High for the Year, Reversing the Summer’s Swoon</h3>
-<sub>By Joe Rennison</sub>
-<p>The S&amp;P 500 has risen over 10 percent from its October low, with November its best month of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
