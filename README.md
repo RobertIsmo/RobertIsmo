@@ -59,10 +59,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
-<p>
-Right now, American politics and the world are going through some intense changes. In the US, a Republican-led House just voted to expel a long-time member for lying and fraud. This week, Supreme Court Justice and first woman on the court Sandra Day O&#39;Connor passed away at 93. There&#39;s also been an ongoing battle between politicians for second place in the G.O.P primary race. 
-
-Meanwhile, in the Middle East, there have been recent tensions between Israel and Hamas that recently led to a cease-fire that has since broken down, resulting in prisoners being released back to their countries of origin on both sides.</p>
+<p>There’s a lot going on in the world right now. In the US, there has been a historic vote to oust a serial fabulist from Congress. There have also been court cases involving former president Trump and late Supreme Court justice Sandra Day O’Connor. Elsewhere, there has been an attempt by protesters to set fire to the Israeli Consulate in Atlanta and actress Susan Sarandon recently apologized for comments made at a rally. On the climate front, several countries have pledged to increase their nuclear capacity in order to reduce fossil fuel emissions and the Biden administration is pushing for a powerful regulatory tool aimed at climate change. Lastly, Japan has implemented new regulations to keep people from giving their children unusual names. All in all, it&#39;s an eventful time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Santos Ouster, a Chaotic Congress Makes History Again</h3>
@@ -76,6 +73,54 @@ Meanwhile, in the Middle East, there have been recent tensions between Israel an
 <p>Nearly half of the G.O.P. House delegation voted to expel Mr. Santos, a remarkable rebuke of a colleague who had survived two prior expulsion bids.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What’s Next for George Santos? Court Dates and, Maybe, Reality TV.</h3>
+<sub>By Nicholas Fandos, Grace Ashford and Michael Gold</sub>
+<p>The New York Republican suggested that his future might include a memoir or a reality television show, not to mention the looming criminal trial in federal court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A protester self-immolates outside the Israeli Consulate in Atlanta.</h3>
+<sub>By Colbi Edmonds</sub>
+<p>A security guard tried to intervene but was unsuccessful, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Susan Sarandon Apologizes for Comment About Jews at Rally</h3>
+<sub>By Marc Tracy</sub>
+<p>The Oscar-winning actress said she now regrets “diminishing” the long history of antisemitism in remarks at the rally, which led her agents to part ways with her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration Announces Rule to Cut Millions of Tons of Methane Emissions</h3>
+<sub>By Lisa Friedman and Jim Tankersley</sub>
+<p>The measure, announced at the COP28 climate summit in Dubai, requires oil and gas producers to detect and fix leaks of the potent greenhouse gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Biden Administration Unleashes Powerful Regulatory Tool Aimed at Climate</h3>
+<sub>By Coral Davenport</sub>
+<p>Its new estimate of the economic impact of climate change could create the legal justification for aggressive new regulations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>22 Countries Pledge to Triple Nuclear Capacity in Push to Cut Fossil Fuels</h3>
+<sub>By Jenny Gross</sub>
+<p>The group, including Britain, France and the United States, said the agreement was critical to meeting nations’ climate commitments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Unusual Names Can Complicate Life in Japan. Now Parents Are Being Reined In.</h3>
+<sub>By Hikari Hida</sub>
+<p>As such names have increased, so has media attention to cases of people unhappy with them. But critics say new rules may infringe on the right to be creative.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Judge Rejects Trump’s Immunity Claims in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The ruling is likely to spark a series of appeals that the former president’s lawyers hope will push the trial on election interference charges past the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sandra Day O’Connor, First Woman on the Supreme Court, Is Dead at 93</h3>
 <sub>By Linda Greenhouse</sub>
@@ -86,54 +131,6 @@ Meanwhile, in the Middle East, there have been recent tensions between Israel an
 <h3>Sandra O’Connor’s Extraordinary Final Chapter</h3>
 <sub>By Kate Zernike</sub>
 <p>The Supreme Court justice found herself balancing conflicting demands of professional achievement and family expectations to the end.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Resumes Offensive in Gaza Strip After Truce With Hamas Ends</h3>
-<sub>By Patrick Kingsley, Ben Hubbard and Thomas Fuller</sub>
-<p>Talks on extending a weeklong cease-fire broke down, with each side blaming the other. The truce had included the release of hostages held in Gaza for people in Israeli prisons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Freed Palestinians Were Mostly Young and Not Convicted of Crimes</h3>
-<sub>By Elena Shao, Karen Zraick, Anushka Patil and Gaya Gupta</sub>
-<p>Israel has released a total of 240 Palestinian prisoners and detainees during a weeklong pause in hostilities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With the End of the Cease-Fire, Concern Grows Over the Oldest Israeli Hostages Left Behind</h3>
-<sub>By Katherine Rosman</sub>
-<p>Going without medicines, proper nutrition and other necessities leave many especially vulnerable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Rejects Trump’s Immunity Claims in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The ruling is likely to spark a series of appeals that the former president’s lawyers hope will push the trial on election interference charges past the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Lawyer Tells Judge a Georgia Trial Would Be ‘Election Interference’</h3>
-<sub>By Richard Fausset and Danny Hakim</sub>
-<p>Arguments in court on Friday offered clues to Donald J. Trump’s legal strategy in fighting state charges of conspiracy to overturn the 2020 presidential election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Paleoconservative or Moderate? Questions for Staffing the Next G.O.P. White House.</h3>
-<sub>By Jonathan Swan</sub>
-<p>The Heritage Foundation asks applicants for a future Republican administration a series of questions about their ideology, showing the extent to which “America First” has shaped the modern G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Questionnaire for Applicants to the Next Conservative White House</h3>
-<sub>By The New York Times</sub>
-<p>The Heritage Foundation, which has been staffing Republican administrations since the Reagan era, has a list of questions for job applicants that shows how Donald Trump has transformed the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Takes Fight for Second Place to Nikki Haley’s Home State</h3>
-<sub>By Jonathan Weisman and Nicholas Nehamas</sub>
-<p>After ignoring each other for much of the campaign, the two candidates now engage in near-daily attacks and have sparred with increasing intensity on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
