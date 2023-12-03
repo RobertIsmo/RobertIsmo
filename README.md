@@ -60,31 +60,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world currently. In Ireland, people are showing strong support for Palestinians affected by the Hamas attacks of Oct. 7 while also condemning the violence. Meanwhile thousands of people in Gaza have been displaced from their homes as Israelis continue to order evacuations, and US Vice President Harris is strongly opposing these &#39;forced relocations&#39;. In the US, President Trump is facing backlash for allegedly being anti-democratic, while Florida governor DeSantis has been campaigning for the Republican primary.  In terms of technology and business, streaming site Twitch has faced criticism for lax moderation and online gambling while air traffic controllers are struggling due to a nationwide shortage of workers resulting in exhausted and demoralized workforces. In Senegal, one individual is making it his mission to persuade young people not to risk dangerous emigration journeys despite witnessing 10 migrants die at sea during one such trip.</p>
+Right now, there are a lot of international issues that are making headlines. In Israel, many mothers are feeling anxious and upset as their sons are being called up to fight in Gaza. Ireland has its own history of a long-running conflict, and they are now expressing sympathy towards the Palestinians and condemning Hamas&#39; attacks on October 7th. 
+
+Closer to home, our government is trying to figure out legal cases involving opioid victims and how to immunize organizations from claims of mass injury in bankruptcy court. The Supreme Court has a lot of power when it comes to determining a solution. With debates over medical mandates for vaccines popping up, we&#39;re seeing activists push for ending anonymous sperm and egg donation--a move that some members of the LGBTQ community oppose. 
+
+On the political front, President Donald Trump is being accused of being anti-democratic; meanwhile, Florida Governor Ron DeSantis is making his way around Iowa trying to get ahead ahead of Trump in upcoming primaries. There&#39;s been some upheaval at the DeSantis super PAC recently as one top official departs. 
+
+Finally, there&#39;s something exciting happening in New York City--the arrival of thousands of Venezuelan migrants is making Roosevelt Avenue in Queens look more like Little Caracas with flags, foods, and accents popping up all over the place!</p>
 <ol>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
+<sub>By Cade Metz, Karen Weise, Nico Grant and Mike Isaac</sub>
+<p>The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The Who’s Who Behind the Modern Artificial Intelligence Movement</h3>
+<sub>By J. Edward Moreno</sub>
+<p>Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Mothers Knew Their Sons Would Serve. But They Didn’t Expect War.</h3>
+<sub>By Miriam Jordan</sub>
+<p>Many mothers are grappling with anxiety as their sons head off to fight in Gaza. “It felt like my children were being taken away, one by one, until no one was left,” one said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Tracing the Deep Roots of Ireland’s Support for Palestinians</h3>
 <sub>By Megan Specia</sub>
 <p>In a country with its own history of a seemingly intractable conflict, the majority of people in Ireland are sympathetic to Palestinian civilians, while also condemning the Hamas attacks of Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What the Scale of Displacement in Gaza Looks Like</h3>
-<sub>By Zach Levitt and Amy Schoenfeld Walker</sub>
-<p>Eighty percent of Gazans are displaced from their homes as Israel orders more evacuations. See where thousands have been sheltering amid the war’s destruction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?</h3>
+<sub>By Abbie VanSickle</sub>
+<p>A broad ruling by the Supreme Court could mean the end of a strategy for resolving claims of mass injury in bankruptcy court in which organizations receive expansive legal protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Harris Says U.S. Strongly Opposes ‘Forced Relocation of Palestinians From Gaza’</h3>
-<sub>By Michael D. Shear</sub>
-<p>The vice president’s statement came after a daylong meeting with Arab leaders in Dubai, where she was attending the U.N. climate summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Fate of Billions for Opioid Victims From Sacklers Rests With Supreme Court</h3>
+<sub>By Jan Hoffman</sub>
+<p>The court will decide whether Purdue’s owners can gain permanent immunity from future opioid lawsuits in exchange for payments up to $6 billion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
-<sub>By Emily Steel and Sydney Ember</sub>
-<p>A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Why Anonymous Sperm Donation Is Over, and Why That Matters</h3>
+<sub>By Emily Bazelon</sub>
+<p>Activists are trying to end secrecy for sperm and egg donors — a campaign that troubles some L.G.B.T.Q. families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>‘Medical Freedom’ Activists Take Aim at New Target: Childhood Vaccine Mandates</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>Mississippi has long had high childhood immunization rates, but a federal judge has ordered the state to allow parents to opt out on religious grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump’s Defense to Charge That He’s Anti-Democratic? Accuse Biden of It</h3>
@@ -104,35 +134,11 @@ There&#39;s a lot going on in the world currently. In Ireland, people are showin
 <p>The firing of the new chief executive creates more uncertainty at the well-funded group that has played a key role in the Florida governor’s effort to win the Republican primary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Before You Buy a Christmas Tree, Can These Converts Sell You on a Fake?</h3>
-<sub>By Alyson Krueger</sub>
-<p>The popularity of faux firs is soaring as the look becomes more convincing. But it isn’t necessarily good news for the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>George Santos Reveals One Truth: It’s Easy to Abuse Campaign Finance Laws</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>The newly ousted congressman, while an extreme case, illustrated the weaknesses of a system that relies on politicians to report their finances in good faith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Gambling, Risky Pranks and Lucrative Contracts: Inside the Streaming Site Kick</h3>
-<sub>By Kellen Browning</sub>
-<p>The Twitch competitor has doled out generous deals to content creators. It has also faced criticism for its lax moderation and embrace of online gambling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Watching 10 Migrants Die at Sea, He Now Pleads: ‘Stay’</h3>
-<sub>By Monika Pronczuk and Carmen Abd Ali</sub>
-<p>Witness to a tragedy on a boat to Spain, Moustapha Diouf has made it his mission to persuade young people not to emigrate from Senegal, but even he concedes that it’s getting harder to make his case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>Meet Progressive’s Flo. Also: Longevity drugs for dogs and the best books of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
+<h3>Venezuelan Migrants Could Soon Create New York’s First ‘Little Caracas’</h3>
+<sub>By Winnie Hu, Raúl Vilchis and Photographs By Todd Heisler</sub>
+<p>Venezuelan flags, foods and accents are spreading along a stretch of Roosevelt Avenue in Queens as thousands of newly arrived migrants make their home in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
