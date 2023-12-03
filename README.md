@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-Hey there friend! Despite the pandemic, a lot of stuff is happening in the world right now. In the tech space, people have been becoming increasingly aware of the risks of artificial intelligence, so much so that some of the same people who were most afraid of it decided they should be the ones to build it. There&#39;s also been a big emphasis on using A.I. to fight climate change - though this comes with its own issues since the energy required to do this could actually end up making matters worse. 
-
-In terms of international conflict, a recent war between Israel and Gaza has been taking place which has had mothers in Israel grappling with anxiety as their sons head off to fight. Meanwhile, Ireland has been displaying a hefty level of support for Palestinians by condemning Hamas attacks and speaking out against the conflict. Stateside we&#39;re seeing a Supreme Court ruling that may determine whether or not organizations get permanent immunity from future opioid lawsuits in exchange for payments up to $6 billion. 
-
-On top of that, President Trump (who is still being charged after trying to overturn an election) is now trying to paint Joe Biden as a bigger threat despite all his anticdemocratic promises in a second term. And lastly, &#39;medical freedom&#39; activists are trying to get rid of childhood vaccine mandates in Mississippi while we&#39;ve seen an influx of Venezuelan migrants creating what could be New York&#39;s first &#39;Little Caracas&#39;. 
-
-That&#39;s all I got!</p>
+Right now, the world is in a bit of an upheaval. We&#39;re seeing a lot of tensions in areas like the Middle East, where US and Israeli forces are clashing with Hamas and there&#39;s growing anxiety among mothers as their children go to fight in Gaza. The climate is also changing rapidly due to global warming and artificial intelligence is emerging as one potential way of mitigating that - although the amount of energy it requires could make things worse. Businesses are struggling with worker discontent and doctors and pharmacists are even starting to revolt against demands on their time. Technology is also advancing at a rapid rate, with venture capitalists, tech execs, and researchers making advances in the field of artificial intelligence that could change our world significantly in the coming years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
@@ -75,7 +69,7 @@ That&#39;s all I got!</p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The Who’s Who Behind the Modern Artificial Intelligence Movement</h3>
+<h3>Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement</h3>
 <sub>By J. Edward Moreno</sub>
 <p>Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
@@ -87,16 +81,16 @@ That&#39;s all I got!</p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Is Pressing Israel and Hamas to Resume Talks, White House Official Says</h3>
+<sub>By Peter Baker and Karoun Demirjian</sub>
+<p>John Kirby said that Hamas was to blame for the breakdown in the negotiations, and that Israel was heeding U.S. advice on limiting civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israeli Mothers Knew Their Sons Would Serve. But They Didn’t Expect War.</h3>
 <sub>By Miriam Jordan</sub>
 <p>Many mothers are grappling with anxiety as their sons head off to fight in Gaza. “It felt like my children were being taken away, one by one, until no one was left,” one said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Tracing the Deep Roots of Ireland’s Support for Palestinians</h3>
-<sub>By Megan Specia</sub>
-<p>In a country with its own history of a seemingly intractable conflict, the majority of people in Ireland are sympathetic to Palestinian civilians, while also condemning the Hamas attacks of Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?</h3>
@@ -123,21 +117,21 @@ That&#39;s all I got!</p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Defense to Charge That He’s Anti-Democratic? Accuse Biden of It</h3>
-<sub>By Michael Gold</sub>
-<p>Indicted over a plot to overturn an election and campaigning on promises to shatter democratic norms in a second term, Donald Trump wants voters to see Joe Biden as the bigger threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Medical Freedom’ Activists Take Aim at New Target: Childhood Vaccine Mandates</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>Mississippi has long had high childhood immunization rates, but a federal judge has ordered the state to allow parents to opt out on religious grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Says He Would Pass a Bill to ‘Supersede’ Obamacare</h3>
+<sub>By Maggie Astor</sub>
+<p>The comments from Florida’s governor on Sunday followed a similar statement by former President Donald J. Trump; Democrats have denounced their stances.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Venezuelan Migrants Could Soon Create New York’s First ‘Little Caracas’</h3>
-<sub>By Winnie Hu, Raúl Vilchis and Photographs By Todd Heisler</sub>
-<p>Venezuelan flags, foods and accents are spreading along a stretch of Roosevelt Avenue in Queens as thousands of newly arrived migrants make their home in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
+<sub>By Emily Steel and Sydney Ember</sub>
+<p>A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Doctors and Pharmacists Are in Revolt</h3>
+<sub>By Noam Scheiber</sub>
+<p>Once accustomed to a status outside the usual management-labor hierarchy, many health professionals now feel as put upon as any clock-punching worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
