@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
 <p>
-There is a lot of unrest in the world right now. In Gaza, Israel is ordering evacuations for thousands of people and 80 percent of Gazans have been displaced from their homes. Meanwhile, in the US, George Santos was recently ousted as Congressman following evidence of abuse of campaign finance laws. On a lighter note, US entertainment streaming services such as Twitch are signing some lucrative contracts with content creators and there are advancements in longevity drugs for dogs!</p>
+There is a lot of displacement happening in Gaza as the result of war between Israel and Hamas. Israeli generals are being heavily scrutinized, particularly after revelations that some senior officers were ignoring intelligence that warned of a potential attack by Hamas. Vice President Harris recently spoke out against the forced relocation of Palestinians from Gaza. 
+
+In the US, Florida governor DeSantis has been touring Iowa in an attempt to boost his chances against Trump in the polls. Trump has been campaigning on promises to break with democratic norms if re-elected, while his opponents accuse him of anti-democratic behavior. 
+
+The fake Christmas tree market is booming as they become more convincing than ever. Recent allegations of abuse towards campaign finance laws by George Santos have also put the system under scrutiny. There&#39;s a new streaming site called Kick that is giving generous contracts to content creators; however, critics argue that regulation is lacking. 
+
+Recently, a tragedy occurred at sea, where 10 migrants died trying to travel from Senegal to Spain. One man who witnessed the tragedy has taken up the mission to make it heard why people shouldn&#39;t emigrate. Longevity drugs for dogs are also moving closer to reality, with implications still unclear as to what kind of success these drugs might bring.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What the Scale of Displacement in Gaza Looks Like</h3>
@@ -87,9 +93,15 @@ There is a lot of unrest in the world right now. In Gaza, Israel is ordering eva
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>George Santos Reveals One Truth: It’s Easy to Abuse Campaign Finance Laws</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>The newly ousted congressman, while an extreme case, illustrated the weaknesses of a system that relies on politicians to report their finances in good faith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Finishes His Iowa 99, Hoping for a Bump Against Trump</h3>
+<sub>By Kellen Browning</sub>
+<p>The Florida governor said his tour of all the state’s counties was evidence of his commitment to Iowa voters, even as he remained far behind Donald Trump in state polls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Defense to Charge That He’s Anti-Democratic? Accuse Biden of It</h3>
+<sub>By Michael Gold</sub>
+<p>Indicted over a plot to overturn an election and campaigning on promises to shatter democratic norms in a second term, Donald Trump wants voters to see Joe Biden as the bigger threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -99,15 +111,9 @@ There is a lot of unrest in the world right now. In Gaza, Israel is ordering eva
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy, Laboring to Adjust to Life After the Speakership, Eyes Exiting Congress</h3>
-<sub>By Annie Karni</sub>
-<p>The California Republican is still angry at his ouster and has struggled to acclimate. His colleagues expect him to retire, but he has taken his time deciding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>2023 Hurricane Season Ends, Marked by Storms That ‘Really Rapidly Intensified’</h3>
-<sub>By William B. Davis and Judson Jones</sub>
-<p>There have been a combined 37 named storms this year in the Atlantic and Eastern Pacific basins. A high proportion of those quickly escalated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>George Santos Reveals One Truth: It’s Easy to Abuse Campaign Finance Laws</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>The newly ousted congressman, while an extreme case, illustrated the weaknesses of a system that relies on politicians to report their finances in good faith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,17 +122,17 @@ There is a lot of unrest in the world right now. In Gaza, Israel is ordering eva
 <p>The Twitch competitor has doled out generous deals to content creators. It has also faced criticism for its lax moderation and embrace of online gambling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Plan to Save a California Island? Shoot All of the Deer.</h3>
-<sub>By Soumya Karlamangla and Sinna Nasseri</sub>
-<p>For decades, nonnative animals have ravaged the rare habitat on Catalina. The proposed solution has infuriated local residents and animal lovers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Watching 10 Migrants Die at Sea, He Now Pleads: ‘Stay’</h3>
 <sub>By Monika Pronczuk and Carmen Abd Ali</sub>
 <p>Witness to a tragedy on a boat to Spain, Moustapha Diouf has made it his mission to persuade young people not to emigrate from Senegal, but even he concedes that it’s getting harder to make his case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>Could a Drug Give Your Pet More Dog Years?</h3>
+<sub>By Emily Anthes</sub>
+<p>Longevity drugs for our canine companions are moving closer to reality. They also raise questions about what it might mean to succeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
