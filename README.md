@@ -58,26 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, December 2, Central Standard Time</p>
+<p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-There is a lot of displacement happening in Gaza as the result of war between Israel and Hamas. Israeli generals are being heavily scrutinized, particularly after revelations that some senior officers were ignoring intelligence that warned of a potential attack by Hamas. Vice President Harris recently spoke out against the forced relocation of Palestinians from Gaza. 
-
-In the US, Florida governor DeSantis has been touring Iowa in an attempt to boost his chances against Trump in the polls. Trump has been campaigning on promises to break with democratic norms if re-elected, while his opponents accuse him of anti-democratic behavior. 
-
-The fake Christmas tree market is booming as they become more convincing than ever. Recent allegations of abuse towards campaign finance laws by George Santos have also put the system under scrutiny. There&#39;s a new streaming site called Kick that is giving generous contracts to content creators; however, critics argue that regulation is lacking. 
-
-Recently, a tragedy occurred at sea, where 10 migrants died trying to travel from Senegal to Spain. One man who witnessed the tragedy has taken up the mission to make it heard why people shouldn&#39;t emigrate. Longevity drugs for dogs are also moving closer to reality, with implications still unclear as to what kind of success these drugs might bring.</p>
+There have been a lot of developments in world news recently. In Ireland, there is a lot of support for Palestinian civilians in the midst of an ongoing conflict with Hamas. In Gaza, thousands are being displaced as Israel orders more evacuations. There has also been criticism of the U.S. for opposing this relocation. Air traffic controllers are being pushed to their limits due to a nationwide shortage while Donald Trump runs a campaign on promises to break democratic norms. Florida Governor DeSantis has gone on an Iowa 99 to try to gain traction in polls against Trump but faces uncertainty after top officials left his Super PAC. Furthermore, fake Christmas trees are becoming increasingly popular as faux firs become convincingly realistic. And, Congress is trying to resolve weaknesses in their campaign finance system. On Twitch, controversy has arisen over lax moderation and online gambling offers from content creators. There is also a tragedy at sea in Senegal as they try to urge young people not to emigrate.- Lastly, Progressive&#39;s Flo has made her debut and there is an influx of longevity drugs for dogs and books coming out soon!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Tracing the Deep Roots of Ireland’s Support for Palestinians</h3>
+<sub>By Megan Specia</sub>
+<p>In a country with its own history of a seemingly intractable conflict, the majority of people in Ireland are sympathetic to Palestinian civilians, while also condemning the Hamas attacks of Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What the Scale of Displacement in Gaza Looks Like</h3>
 <sub>By Zach Levitt and Amy Schoenfeld Walker</sub>
 <p>Eighty percent of Gazans are displaced from their homes as Israel orders more evacuations. See where thousands have been sheltering amid the war’s destruction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Intelligence Errors Prompt Scrutiny of Israeli Generals, but Little Backlash</h3>
-<sub>By Patrick Kingsley and Aaron Boxerman</sub>
-<p>The Israeli media and The New York Times published damaging revelations suggesting that senior officers had ignored or dismissed intelligence reports about the likelihood of a major Hamas attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,15 +87,21 @@ Recently, a tragedy occurred at sea, where 10 migrants died trying to travel fro
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Defense to Charge That He’s Anti-Democratic? Accuse Biden of It</h3>
+<sub>By Michael Gold</sub>
+<p>Indicted over a plot to overturn an election and campaigning on promises to shatter democratic norms in a second term, Donald Trump wants voters to see Joe Biden as the bigger threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Finishes His Iowa 99, Hoping for a Bump Against Trump</h3>
 <sub>By Kellen Browning</sub>
 <p>The Florida governor said his tour of all the state’s counties was evidence of his commitment to Iowa voters, even as he remained far behind Donald Trump in state polls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Defense to Charge That He’s Anti-Democratic? Accuse Biden of It</h3>
-<sub>By Michael Gold</sub>
-<p>Indicted over a plot to overturn an election and campaigning on promises to shatter democratic norms in a second term, Donald Trump wants voters to see Joe Biden as the bigger threat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Upheaval Continues at DeSantis Super PAC as Another Top Official Departs</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The firing of the new chief executive creates more uncertainty at the well-funded group that has played a key role in the Florida governor’s effort to win the Republican primary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -127,12 +127,6 @@ Recently, a tragedy occurred at sea, where 10 migrants died trying to travel fro
 <sub>By Monika Pronczuk and Carmen Abd Ali</sub>
 <p>Witness to a tragedy on a boat to Spain, Moustapha Diouf has made it his mission to persuade young people not to emigrate from Senegal, but even he concedes that it’s getting harder to make his case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>Could a Drug Give Your Pet More Dog Years?</h3>
-<sub>By Emily Anthes</sub>
-<p>Longevity drugs for our canine companions are moving closer to reality. They also raise questions about what it might mean to succeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
