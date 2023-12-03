@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 2, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot going on in the world right now. There&#39;s an air traffic controller shortage and reports of exhausted controllers that could be making dangerous mistakes. Israeli generals are being scrutinized after intelligence errors were exposed. There are also repercussions from a major Hamas attack in October, with people angry at Benjamin Netanyahu. In the US, a former congressman was forced out after it was revealed he was breaking campaign finance laws, and there&#39;s a high-stakes election for his seat in New York. Beyoncé also put out an almost three-hour long concert movie. On top of that, Supreme Court Justice Sandra O&#39;Connor sadly passed away, leaving a legacy inspiring women across different fields. Lastly, hurricane season saw an unusually large amount of costly storms that&#39;ve been rapidly intensifying. Finally, desperate families have been struggling to find affordable home care for aging family members.</p>
+There is a lot of unrest in the world right now. In Gaza, Israel is ordering evacuations for thousands of people and 80 percent of Gazans have been displaced from their homes. Meanwhile, in the US, George Santos was recently ousted as Congressman following evidence of abuse of campaign finance laws. On a lighter note, US entertainment streaming services such as Twitch are signing some lucrative contracts with content creators and there are advancements in longevity drugs for dogs!</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
-<sub>By Emily Steel and Sydney Ember</sub>
-<p>A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What the Scale of Displacement in Gaza Looks Like</h3>
+<sub>By Zach Levitt and Amy Schoenfeld Walker</sub>
+<p>Eighty percent of Gazans are displaced from their homes as Israel orders more evacuations. See where thousands have been sheltering amid the war’s destruction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,15 +75,15 @@ It looks like there&#39;s a lot going on in the world right now. There&#39;s an 
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Are Angry at Netanyahu, but Chances of His Ouster Are Slim</h3>
-<sub>By Sheera Frenkel</sub>
-<p>Many hold Prime Minister Benjamin Netanyahu responsible for his government’s failure to prevent the Oct. 7 attack by Hamas. His legacy could be determined by his actions in the coming days.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Harris Says U.S. Strongly Opposes ‘Forced Relocation of Palestinians From Gaza’</h3>
 <sub>By Michael D. Shear</sub>
 <p>The vice president’s statement came after a daylong meeting with Arab leaders in Dubai, where she was attending the U.N. climate summit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
+<sub>By Emily Steel and Sydney Ember</sub>
+<p>A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,28 +92,16 @@ It looks like there&#39;s a lot going on in the world right now. There&#39;s an 
 <p>The newly ousted congressman, while an extreme case, illustrated the weaknesses of a system that relies on politicians to report their finances in good faith.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>George Santos Is Gone. Two Dozen Candidates Want His Seat.</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The New York Republican’s expulsion sets the stage for a high-stakes special election early next year to fill his Long Island swing seat.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Beyoncé the Auteur Takes Center Stage in ‘Renaissance’</h3>
-<sub>By Salamishah Tillet</sub>
-<p>She is essentially one on the new film, but she has also demonstrated throughout her career just who is in charge of her art.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Before You Buy a Christmas Tree, Can These Converts Sell You on a Fake?</h3>
+<sub>By Alyson Krueger</sub>
+<p>The popularity of faux firs is soaring as the look becomes more convincing. But it isn’t necessarily good news for the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Houston Fans Flock to See Beyoncé, on the Big Screen This Time</h3>
-<sub>By Maria Jimenez Moya</sub>
-<p>Her hometown BeyHive gathered to watch her nearly three-hour concert movie.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In and Out of the Courtroom, O’Connor Inspired a Generation of Women</h3>
-<sub>By Julie Bosman, Emily Cochrane and Nicholas Bogel-Burroughs</sub>
-<p>The Supreme Court justice, who died at 93 on Friday, made a series of influential rulings and inspired women across a range of fields as she cemented her legacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>McCarthy, Laboring to Adjust to Life After the Speakership, Eyes Exiting Congress</h3>
+<sub>By Annie Karni</sub>
+<p>The California Republican is still angry at his ouster and has struggled to acclimate. His colleagues expect him to retire, but he has taken his time deciding.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +110,29 @@ It looks like there&#39;s a lot going on in the world right now. There&#39;s an 
 <p>There have been a combined 37 named storms this year in the Atlantic and Eastern Pacific basins. A high proportion of those quickly escalated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a Suspected Indian Murder-for-Hire Plot on U.S. Soil Was Foiled</h3>
-<sub>By Nicole Hong</sub>
-<p>After a murder in Canada, a sting operation, prompted by an explosive tip through an unexpected channel, rushed to prevent another killing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Gambling, Risky Pranks and Lucrative Contracts: Inside the Streaming Site Kick</h3>
+<sub>By Kellen Browning</sub>
+<p>The Twitch competitor has doled out generous deals to content creators. It has also faced criticism for its lax moderation and embrace of online gambling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Desperate Families Search for Affordable Home Care</h3>
-<sub>By Reed Abelson and Desiree Rios</sub>
-<p>Facing a severe shortage of aides and high costs, people trying to keep aging loved ones at home often cobble together a patchwork of family and friends to help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Plan to Save a California Island? Shoot All of the Deer.</h3>
+<sub>By Soumya Karlamangla and Sinna Nasseri</sub>
+<p>For decades, nonnative animals have ravaged the rare habitat on Catalina. The proposed solution has infuriated local residents and animal lovers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Watching 10 Migrants Die at Sea, He Now Pleads: ‘Stay’</h3>
+<sub>By Monika Pronczuk and Carmen Abd Ali</sub>
+<p>Witness to a tragedy on a boat to Spain, Moustapha Diouf has made it his mission to persuade young people not to emigrate from Senegal, but even he concedes that it’s getting harder to make his case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>Meet Progressive’s Flo. Also: Longevity drugs for dogs and the best books of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
