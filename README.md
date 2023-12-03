@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-Right now, there are a lot of international issues that are making headlines. In Israel, many mothers are feeling anxious and upset as their sons are being called up to fight in Gaza. Ireland has its own history of a long-running conflict, and they are now expressing sympathy towards the Palestinians and condemning Hamas&#39; attacks on October 7th. 
-
-Closer to home, our government is trying to figure out legal cases involving opioid victims and how to immunize organizations from claims of mass injury in bankruptcy court. The Supreme Court has a lot of power when it comes to determining a solution. With debates over medical mandates for vaccines popping up, we&#39;re seeing activists push for ending anonymous sperm and egg donation--a move that some members of the LGBTQ community oppose. 
-
-On the political front, President Donald Trump is being accused of being anti-democratic; meanwhile, Florida Governor Ron DeSantis is making his way around Iowa trying to get ahead ahead of Trump in upcoming primaries. There&#39;s been some upheaval at the DeSantis super PAC recently as one top official departs. 
-
-Finally, there&#39;s something exciting happening in New York City--the arrival of thousands of Venezuelan migrants is making Roosevelt Avenue in Queens look more like Little Caracas with flags, foods, and accents popping up all over the place!</p>
+It looks like there is a lot to talk about. In the tech world, people are debating the risks of artificial intelligence and how it was provoked by fear and money. We also have some updates on the A.I. movement and its people behind it. Moving onto more serious topics, Israeli mothers are struggling as their sons have been taken to fight in Gaza while Ireland has been showing sympathy towards Palestinians. In terms of government related issues, the US Supreme Court is now looking into Purdue Pharma&#39;s case involving immunity in settlements and billions set aside for opioid victims. There&#39;s also activism against anonymous sperm donations which some L.G.B.T.Q families don&#39;t support. Liberal-leaning US professors have had enough of the political climate, Trump is attempting to defend himself against being anti-democratic, and Mississippi parents are trying to opt out of vaccinating their kids on religious grounds. Last but not least, Venezuelan migrants are creating a &quot;Little Caracas&quot; in New York City while Venezuelan President Maduro is trying to annex territory from Guyana in a referendum vote.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
@@ -111,9 +105,9 @@ Finally, there&#39;s something exciting happening in New York City--the arrival 
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>‘Medical Freedom’ Activists Take Aim at New Target: Childhood Vaccine Mandates</h3>
-<sub>By Sheryl Gay Stolberg</sub>
-<p>Mississippi has long had high childhood immunization rates, but a federal judge has ordered the state to allow parents to opt out on religious grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Florida’s Hot Political Climate, Some Faculty Have Had Enough</h3>
+<sub>By Stephanie Saul</sub>
+<p>Liberal-leaning professors are leaving coveted jobs with tenure. And there are signs that recruiting scholars has become harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -123,21 +117,21 @@ Finally, there&#39;s something exciting happening in New York City--the arrival 
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Finishes His Iowa 99, Hoping for a Bump Against Trump</h3>
-<sub>By Kellen Browning</sub>
-<p>The Florida governor said his tour of all the state’s counties was evidence of his commitment to Iowa voters, even as he remained far behind Donald Trump in state polls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Upheaval Continues at DeSantis Super PAC as Another Top Official Departs</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The firing of the new chief executive creates more uncertainty at the well-funded group that has played a key role in the Florida governor’s effort to win the Republican primary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<h3>‘Medical Freedom’ Activists Take Aim at New Target: Childhood Vaccine Mandates</h3>
+<sub>By Sheryl Gay Stolberg</sub>
+<p>Mississippi has long had high childhood immunization rates, but a federal judge has ordered the state to allow parents to opt out on religious grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Venezuelan Migrants Could Soon Create New York’s First ‘Little Caracas’</h3>
 <sub>By Winnie Hu, Raúl Vilchis and Photographs By Todd Heisler</sub>
 <p>Venezuelan flags, foods and accents are spreading along a stretch of Roosevelt Avenue in Queens as thousands of newly arrived migrants make their home in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maduro, Under Pressure, Holds Vote to Annex Territory From a Neighbor</h3>
+<sub>By Genevieve Glatsky</sub>
+<p>The Venezuelan president is holding a referendum to claim sovereignty over Essequibo, a large oil-rich swath of neighboring Guyana.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
