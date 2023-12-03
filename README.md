@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-It looks like there is a lot to talk about. In the tech world, people are debating the risks of artificial intelligence and how it was provoked by fear and money. We also have some updates on the A.I. movement and its people behind it. Moving onto more serious topics, Israeli mothers are struggling as their sons have been taken to fight in Gaza while Ireland has been showing sympathy towards Palestinians. In terms of government related issues, the US Supreme Court is now looking into Purdue Pharma&#39;s case involving immunity in settlements and billions set aside for opioid victims. There&#39;s also activism against anonymous sperm donations which some L.G.B.T.Q families don&#39;t support. Liberal-leaning US professors have had enough of the political climate, Trump is attempting to defend himself against being anti-democratic, and Mississippi parents are trying to opt out of vaccinating their kids on religious grounds. Last but not least, Venezuelan migrants are creating a &quot;Little Caracas&quot; in New York City while Venezuelan President Maduro is trying to annex territory from Guyana in a referendum vote.</p>
+Hey there friend! Despite the pandemic, a lot of stuff is happening in the world right now. In the tech space, people have been becoming increasingly aware of the risks of artificial intelligence, so much so that some of the same people who were most afraid of it decided they should be the ones to build it. There&#39;s also been a big emphasis on using A.I. to fight climate change - though this comes with its own issues since the energy required to do this could actually end up making matters worse. 
+
+In terms of international conflict, a recent war between Israel and Gaza has been taking place which has had mothers in Israel grappling with anxiety as their sons head off to fight. Meanwhile, Ireland has been displaying a hefty level of support for Palestinians by condemning Hamas attacks and speaking out against the conflict. Stateside we&#39;re seeing a Supreme Court ruling that may determine whether or not organizations get permanent immunity from future opioid lawsuits in exchange for payments up to $6 billion. 
+
+On top of that, President Trump (who is still being charged after trying to overturn an election) is now trying to paint Joe Biden as a bigger threat despite all his anticdemocratic promises in a second term. And lastly, &#39;medical freedom&#39; activists are trying to get rid of childhood vaccine mandates in Mississippi while we&#39;ve seen an influx of Venezuelan migrants creating what could be New York&#39;s first &#39;Little Caracas&#39;. 
+
+That&#39;s all I got!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
@@ -72,6 +78,12 @@ It looks like there is a lot to talk about. In the tech world, people are debati
 <h3>The Who’s Who Behind the Modern Artificial Intelligence Movement</h3>
 <sub>By J. Edward Moreno</sub>
 <p>Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Climate Summit Embraces A.I., With Reservations</h3>
+<sub>By Jim Tankersley</sub>
+<p>The idea of using artificial intelligence to fight emissions has made a splash at COP28, but there’s a catch: The energy it requires could make matters worse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +138,6 @@ It looks like there is a lot to talk about. In the tech world, people are debati
 <h3>Venezuelan Migrants Could Soon Create New York’s First ‘Little Caracas’</h3>
 <sub>By Winnie Hu, Raúl Vilchis and Photographs By Todd Heisler</sub>
 <p>Venezuelan flags, foods and accents are spreading along a stretch of Roosevelt Avenue in Queens as thousands of newly arrived migrants make their home in the city.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maduro, Under Pressure, Holds Vote to Annex Territory From a Neighbor</h3>
-<sub>By Genevieve Glatsky</sub>
-<p>The Venezuelan president is holding a referendum to claim sovereignty over Essequibo, a large oil-rich swath of neighboring Guyana.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
