@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 4, Central Standard Time</p>
 <p>
-There are several stories coming out of the US and around the world right now. In the US, Donald Trump is looking to run for a second term and his administration is getting more sophisticated and less bound by checks and balances. In North Dakota, Governor Doug Burgum has ended his White House run after failing to gain traction with his focus on economic and foreign policy. On the international stage, there has been a militant rocket attack on an Israeli military base that may have housed nuclear missiles. There have also been allegations of sexual violence during the attacks on Israel, maps tracking the war efforts in Israel and Gaza, and a Supreme Court case regarding opioid settlements for Purdue Pharma. Lastly, there is an update on the best theater in 2023, warnings from the White House about running out of funding for weapons toward Ukraine, and a report from Russia about convicts joining the war effort there. Closer to home, there is an investigation into gender and racial discrimination in New Jersey state police forces, and a promising study in California schools using targeted investment for pandemic recovery.</p>
+There is a lot going on in the world right now. In the US, the White House is pressing Congress for more aid to Ukraine, as Republican support for the country&#39;s war effort is waning. Elsewhere, a prison in Russia has released hundreds of inmates to fight in the war in Ukraine. An American journalist has been detained in Russia for months, without a trial. There have also been extensive rocket attacks between Israel and Gaza, with allegations of sexual violence from Hamas. In terms of US politics, governors are telling Joe Biden to focus on abortion rather than Donald Trump as they prepare for his re-election campaign. A wealthy North Dakota governor has dropped out of the race against Trump and the Supreme Court is split on a major opioid settlement involving Purdue Pharma. Finally, theater has had some excellent plays and musicals this year that have blended drama and comedy.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
-<sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
-<p>Donald Trump has long exhibited authoritarian impulses, but his policy operation is now more sophisticated, and the buffers to check him are weaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>White House Warns Ukraine Aid Is Running Out, Pressing Congress for More</h3>
+<sub>By Karoun Demirjian and Lara Jakes</sub>
+<p>The warning, in a letter to congressional leaders, comes as Republican support for funding Kyiv’s war effort is waning, and an emergency funding package is stalled in Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Haley Is Rising Among the Rivals to Trump</h3>
-<sub>By Nate Cohn</sub>
-<p>She has gained with educated and relatively moderate Republicans and independents, but that is also a big liability in today’s G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Prison at War: The Convicts Sustaining Putin’s Invasion</h3>
+<sub>By Anatoly Kurmanaev, Ekaterina Bodyagina, Alina Lobzina, Oleg Matsnev and Gray Beltran</sub>
+<p>Nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, seeking redemption, money or freedom. Many were killed or wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum, Wealthy North Dakota Governor, Ends White House Run</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The little-known former software executive had hoped his business acumen and relentless focus on the economy, energy and foreign policy would lift his campaign. It didn’t.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Detained in Russia for 250 Days, American Reporter Is Still Awaiting Trial</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Evan Gershkovich, a journalist for The Wall Street Journal, is being held on a spying charge that he, his newspaper and the U.S. government deny.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -99,6 +99,30 @@ There are several stories coming out of the US and around the world right now. I
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
+<sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
+<p>Donald Trump has long exhibited authoritarian impulses, but his policy operation is now more sophisticated, and the buffers to check him are weaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Talk About Abortion, Don’t Talk About Trump: Governors Give Biden Advice</h3>
+<sub>By Reid J. Epstein</sub>
+<p>At an annual gathering in Arizona, Democratic governors offered a series of explanations for the president’s political struggles and suggested ideas for selling voters on his re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Haley Is Rising Among the Rivals to Trump</h3>
+<sub>By Nate Cohn</sub>
+<p>She has gained with educated and relatively moderate Republicans and independents, but that is also a big liability in today’s G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Doug Burgum, Wealthy North Dakota Governor, Ends White House Run</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The little-known former software executive had hoped his business acumen and relentless focus on the economy, energy and foreign policy would lift his campaign. It didn’t.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Appears Split Over Opioid Settlement for Purdue Pharma</h3>
 <sub>By Abbie VanSickle</sub>
 <p>The justices’ questions reflected the tension between the practical effect of unraveling the settlement and broader concerns about whether the Sacklers should be granted such wide-ranging immunity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -108,30 +132,6 @@ There are several stories coming out of the US and around the world right now. I
 <h3>Best Theater of 2023</h3>
 <sub>By Jesse Green, Laura Collins-Hughes, Scott Heller, Naveen Kumar, Juan A. Ramírez and Elisabeth Vincentelli</sub>
 <p>Many of the plays and musicals that resonated this year deftly married elements of drama and comedy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>White House Warns Congress That Weapons Money for Ukraine Will Run Out</h3>
-<sub>By Lara Jakes</sub>
-<p>The warning, in a letter to the House speaker, comes as an increasing number of Republicans say they are growing weary of shouldering the costs of a drawn-out war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Prison at War: The Convicts Sustaining Putin’s Invasion</h3>
-<sub>By Anatoly Kurmanaev, Ekaterina Bodyagina, Alina Lobzina, Oleg Matsnev and Gray Beltran</sub>
-<p>Nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, seeking redemption, money or freedom. Many were killed or wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Police Force Where Female Officers Warn Other Women to Stay Away</h3>
-<sub>By Tracey Tully and Hannah Yoon</sub>
-<p>The U.S. Justice Department is investigating claims of gender and racial discrimination at the New Jersey State Police.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Costs $1,000 Per Student and Might Help Children Learn to Read?</h3>
-<sub>By Dana Goldstein</sub>
-<p>A new study found that California schools got positive results from a targeted investment in the science of reading — even with the challenges of pandemic recovery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
