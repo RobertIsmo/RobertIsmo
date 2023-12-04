@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-Right now, the world is in a bit of an upheaval. We&#39;re seeing a lot of tensions in areas like the Middle East, where US and Israeli forces are clashing with Hamas and there&#39;s growing anxiety among mothers as their children go to fight in Gaza. The climate is also changing rapidly due to global warming and artificial intelligence is emerging as one potential way of mitigating that - although the amount of energy it requires could make things worse. Businesses are struggling with worker discontent and doctors and pharmacists are even starting to revolt against demands on their time. Technology is also advancing at a rapid rate, with venture capitalists, tech execs, and researchers making advances in the field of artificial intelligence that could change our world significantly in the coming years.</p>
+A lot is going on around the world right now. In Israel, they are carrying out an expanding offensive which involves telling people in the south of Gaza to evacuate. In response, the US is pushing Israel and Hamas to resume talks in order to limit civilian casualties. 
+
+There is also a lot of development in terms of artificial intelligence (AI). The people who were most afraid of the risks posed by AI are now at the forefront of building it. A group of researchers, tech executives, and venture capitalists have been working for over a decade to ensure that AI flourishes. Mainstream companies are now learning how to identify AI data they can trust. 
+
+In other news, more Chinese people are taking big risks and crossing the southern border into America in search of asylum or a better life. Activists are trying to end the secrecy surrounding sperm and egg donors. Meanwhile, doctors and pharmacists across the US are rebelling against their management. In Florida, Governor DeSantis and former President Donald Trump want to supersede Obamacare - a decision that has been denounced by Democrats. 
+
+On top of all this, a lot goes into creating some of our favorite TV shows: months of preparation, hundreds of staff, convoys of cutting-edge gear – producing what we often take for granted!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel, Expanding Offensive, Tells More Gazans to Evacuate</h3>
+<sub>By Vivian Yee, Iyad Abuheweila and Thomas Fuller</sub>
+<p>As its ground forces prepared to move in the south of Gaza, residents there were told to leave their homes, spreading fear and confusion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Is Pressing Israel and Hamas to Resume Talks, White House Official Says</h3>
+<sub>By Peter Baker and Karoun Demirjian</sub>
+<p>John Kirby said that Hamas was to blame for the breakdown in the negotiations, and that Israel was heeding U.S. advice on limiting civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
 <sub>By Cade Metz, Karen Weise, Nico Grant and Mike Isaac</sub>
@@ -74,40 +92,34 @@ Right now, the world is in a bit of an upheaval. We&#39;re seeing a lot of tensi
 <p>Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Climate Summit Embraces A.I., With Reservations</h3>
-<sub>By Jim Tankersley</sub>
-<p>The idea of using artificial intelligence to fight emissions has made a splash at COP28, but there’s a catch: The energy it requires could make matters worse.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Big Companies Find a Way to Identify A.I. Data They Can Trust</h3>
+<sub>By Steve Lohr</sub>
+<p>Mainstream companies have concerns about the lineage of the data that powers A.I. applications. An industry group is addressing that challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, November 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Is Pressing Israel and Hamas to Resume Talks, White House Official Says</h3>
-<sub>By Peter Baker and Karoun Demirjian</sub>
-<p>John Kirby said that Hamas was to blame for the breakdown in the negotiations, and that Israel was heeding U.S. advice on limiting civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Mothers Knew Their Sons Would Serve. But They Didn’t Expect War.</h3>
-<sub>By Miriam Jordan</sub>
-<p>Many mothers are grappling with anxiety as their sons head off to fight in Gaza. “It felt like my children were being taken away, one by one, until no one was left,” one said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?</h3>
-<sub>By Abbie VanSickle</sub>
-<p>A broad ruling by the Supreme Court could mean the end of a strategy for resolving claims of mass injury in bankruptcy court in which organizations receive expansive legal protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Fate of Billions for Opioid Victims From Sacklers Rests With Supreme Court</h3>
-<sub>By Jan Hoffman</sub>
-<p>The court will decide whether Purdue’s owners can gain permanent immunity from future opioid lawsuits in exchange for payments up to $6 billion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why More Chinese Are Risking Danger in Southern Border Crossings to U.S.</h3>
+<sub>By Li Yuan</sub>
+<p>Trekking the perilous Darién Gap and seeking asylum are risks worth taking for migrants from China who have lost hope in the country’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Why Anonymous Sperm Donation Is Over, and Why That Matters</h3>
 <sub>By Emily Bazelon</sub>
 <p>Activists are trying to end secrecy for sperm and egg donors — a campaign that troubles some L.G.B.T.Q. families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Doctors and Pharmacists Are in Revolt</h3>
+<sub>By Noam Scheiber</sub>
+<p>Once accustomed to a status outside the usual management-labor hierarchy, many health professionals now feel as put upon as any clock-punching worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?</h3>
+<sub>By Abbie VanSickle</sub>
+<p>A broad ruling by the Supreme Court could mean the end of a strategy for resolving claims of mass injury in bankruptcy court in which organizations receive expansive legal protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +134,11 @@ Right now, the world is in a bit of an upheaval. We&#39;re seeing a lot of tensi
 <p>The comments from Florida’s governor on Sunday followed a similar statement by former President Donald J. Trump; Democrats have denounced their stances.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Drunk and Asleep on the Job: Air Traffic Controllers Pushed to the Brink</h3>
-<sub>By Emily Steel and Sydney Ember</sub>
-<p>A nationwide shortage of controllers has resulted in an exhausted and demoralized work force that is increasingly prone to making dangerous mistakes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Behind the Scenes of the Most Spectacular Show On TV</h3>
+<sub>By Jody Rosen</sub>
+<p>Months of preparation, hundreds of staff, convoys of cutting-edge gear: inside the machine that crafts prime time’s most popular entertainment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Doctors and Pharmacists Are in Revolt</h3>
-<sub>By Noam Scheiber</sub>
-<p>Once accustomed to a status outside the usual management-labor hierarchy, many health professionals now feel as put upon as any clock-punching worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
