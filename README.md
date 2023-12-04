@@ -60,12 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 4, Central Standard Time</p>
 <p>
-Recently, the United States Navy has been engaging in military activities in the Red Sea, shooting down drones that were attacking commercial ships in an area believed to be backed by Iranian-aligned forces. 
-The United States is currently debating the extent to which members of a wealthy family should get immunity from lawsuits stemming from major opioid cases. There&#39;s also discussions at this year&#39;s United Nations Summit surrounding money and climate change solutions.
-
-Meanwhile, Donald Trump is preparing to start his second Presidential term, where experts anticipate his actions to become even more radical than during his first term. Former U.S. Ambassador Nikki Haley has risen in popularity amongst more moderate and educated Republicans and Independents, which could be seen as a potential liability amongst the polarized GOP today. 
-
-In Israel, news of Hamas&#39; plan for attack was known for over a year prior, yet it was ignored. In Eastern France, natural hydrogen reserves have been found with the potential to provide regenerative energy sources. Finally, in the New Jersey State Police Department, female officers have been reportedly urging women to stay away due to gender and racial discrimination.</p>
+There is a lot of activity happening in the world right now. Donald Trump has stronger policy operation that has less buffers to check him, meaning his second presidency could be more radical than his first. Haley is also rising among the competitors to Trump, with educated and relatively moderate Republicans and independents supporting her. In Israel, they recently ignored a warning from the Oct 7th about Hamas&#39; plan and now have to face the consequences. The Supreme Court will soon hear the case for Purdue Pharma relating to the opioid epidemic in America. Meanwhile, theater companies experienced a lot of success this year, combining elements of drama and comedy. The White House has warned Congress that money meant for Ukraine will run out amid increasing Republican impatience with continuous war costs. There are nearly 200 inmates who left a high-security Russian prison to join the war in Ukraine, while U.S. Justice Department is investigating gender and racial discrimination claims at the New Jersey State Police. A new study in California found positive results from an investment in the science of reading, aiming to help children learn to read better despite pandemic recovery challenges. The Climate Summit Leader is trying to calm uproar over a remark on fossil fuels but there is still hope for clean energy sources like deposits of natural hydrogen in France which could potentially provide us with power if all goes as planned.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
@@ -85,12 +80,6 @@ In Israel, news of Hamas&#39; plan for attack was known for over a year prior, y
 <p>Israel knew about Hamas’s plan more than a year before the attack took place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Navy Destroyer Shoots Down Three Drones in Red Sea, Pentagon Says</h3>
-<sub>By Helene Cooper</sub>
-<p>A Pentagon official said the U.S.S. Carney shot down the drones as several commercial ships nearby came under fire on Sunday, in attacks that U.S. Central Command said came from Iran-backed Yemeni Houthis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Israel Tells More Gazans to Leave, and Supreme Court to Hear Pharma Case</h3>
 <sub>By New York Times Audio</sub>
@@ -103,16 +92,16 @@ In Israel, news of Hamas&#39; plan for attack was known for over a year prior, y
 <p>A federal appeals court had signed off on a deal that would shield members of the wealthy Sackler family from lawsuits in exchange for billions for those harmed by the opioid epidemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?</h3>
-<sub>By Abbie VanSickle</sub>
-<p>A broad ruling by the Supreme Court could mean the end of a strategy for resolving claims of mass injury in bankruptcy court in which organizations receive expansive legal protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
 <h3>Best Theater of 2023</h3>
 <sub>By Jesse Green, Laura Collins-Hughes, Scott Heller, Naveen Kumar, Juan A. Ramírez and Elisabeth Vincentelli</sub>
 <p>Many of the plays and musicals that resonated this year deftly married elements of drama and comedy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>White House Warns Congress That Weapons Money for Ukraine Will Run Out</h3>
+<sub>By Lara Jakes</sub>
+<p>The warning, in a letter to the House speaker, comes as an increasing number of Republicans are growing weary of shouldering the costs of a drawn-out war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,23 +110,29 @@ In Israel, news of Hamas&#39; plan for attack was known for over a year prior, y
 <p>Nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, seeking redemption, money or freedom. Many were killed or wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>It Could Be a Vast Source of Clean Energy, Buried Deep Underground</h3>
-<sub>By Liz Alderman</sub>
-<p>In eastern France, and in other places around the world, deposits of natural hydrogen promise bountiful power. But questions remain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Fighting Crises With Cash, Except for the Climate Crisis</h3>
-<sub>By Lisa Friedman and Somini Sengupta</sub>
-<p>Money is a very big sticking point at this year’s United Nations climate summit. Part of the problem is that American promises often go unmet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Police Force Where Female Officers Warn Other Women to Stay Away</h3>
 <sub>By Tracey Tully and Hannah Yoon</sub>
 <p>The U.S. Justice Department is investigating claims of gender and racial discrimination at the New Jersey State Police.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Costs $1,000 Per Student and Might Help Children Learn to Read?</h3>
+<sub>By Dana Goldstein</sub>
+<p>A new study found that California schools got positive results from a targeted investment in the science of reading — even with the challenges of pandemic recovery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Climate Summit Leader Tries to Calm Uproar Over a Remark on Fossil Fuels</h3>
+<sub>By Lisa Friedman</sub>
+<p>Sultan Al Jaber, responsible for leading the world away from fossil fuels, said there was “no science” to support a phaseout of oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>It Could Be a Vast Source of Clean Energy, Buried Deep Underground</h3>
+<sub>By Liz Alderman</sub>
+<p>In eastern France, and in other places around the world, deposits of natural hydrogen promise bountiful power. But questions remain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
