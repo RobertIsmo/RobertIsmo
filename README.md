@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 3, Central Standard Time</p>
 <p>
-A lot is going on around the world right now. In Israel, they are carrying out an expanding offensive which involves telling people in the south of Gaza to evacuate. In response, the US is pushing Israel and Hamas to resume talks in order to limit civilian casualties. 
+Right now, tensions are high in Israel as they expand their offensive in Gaza and residents are being told to leave their homes. The US is trying to get Israel and Hamas to resume talks, and the White House has put the blame on Hamas for the breakdown of negotiations. Meanwhile, US Navy Destroyers have been shooting down drones in the Red Sea after several commercial ships nearby came under attack from Iran-backed Yemeni Houthis. 
 
-There is also a lot of development in terms of artificial intelligence (AI). The people who were most afraid of the risks posed by AI are now at the forefront of building it. A group of researchers, tech executives, and venture capitalists have been working for over a decade to ensure that AI flourishes. Mainstream companies are now learning how to identify AI data they can trust. 
+In other news, there are a lot of questions surrounding artificial intelligence and the people who are most afraid of its risks have decided to be the ones to build it. This has created a spiraling competition among tech companies and investors. In response, mainstream companies have looked for ways to identify A.I data they can trust. This competition has also extended to Chinese migrants crossing southern borders into the US in hopes of a better life. 
 
-In other news, more Chinese people are taking big risks and crossing the southern border into America in search of asylum or a better life. Activists are trying to end the secrecy surrounding sperm and egg donors. Meanwhile, doctors and pharmacists across the US are rebelling against their management. In Florida, Governor DeSantis and former President Donald Trump want to supersede Obamacare - a decision that has been denounced by Democrats. 
-
-On top of all this, a lot goes into creating some of our favorite TV shows: months of preparation, hundreds of staff, convoys of cutting-edge gear – producing what we often take for granted!</p>
+Finally at home, people like doctors and pharmacists are revolting against long-standing conditions such as secrecy for sperm and egg donation that queer families have raised concerns about, and which could be addressed in a Supreme Court ruling. At the same time, there&#39;s some apprehension among liberal college professors in Florida where Governor DeSantis has threatened to pass laws superseding Obamacare.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel, Expanding Offensive, Tells More Gazans to Evacuate</h3>
@@ -78,6 +76,12 @@ On top of all this, a lot goes into creating some of our favorite TV shows: mont
 <h3>U.S. Is Pressing Israel and Hamas to Resume Talks, White House Official Says</h3>
 <sub>By Peter Baker and Karoun Demirjian</sub>
 <p>John Kirby said that Hamas was to blame for the breakdown in the negotiations, and that Israel was heeding U.S. advice on limiting civilian casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Navy Destroyer Shoots Down Three Drones in Red Sea, Pentagon Says</h3>
+<sub>By Helene Cooper</sub>
+<p>A Pentagon official said the U.S.S. Carney shot down the drones as several commercial ships nearby came under fire on Sunday, in attacks that U.S. Central Command said came from Iran-backed Yemeni Houthis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -133,12 +137,6 @@ On top of all this, a lot goes into creating some of our favorite TV shows: mont
 <sub>By Maggie Astor</sub>
 <p>The comments from Florida’s governor on Sunday followed a similar statement by former President Donald J. Trump; Democrats have denounced their stances.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Behind the Scenes of the Most Spectacular Show On TV</h3>
-<sub>By Jody Rosen</sub>
-<p>Months of preparation, hundreds of staff, convoys of cutting-edge gear: inside the machine that crafts prime time’s most popular entertainment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
