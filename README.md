@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 4, Central Standard Time</p>
 <p>
-There is a lot of activity happening in the world right now. Donald Trump has stronger policy operation that has less buffers to check him, meaning his second presidency could be more radical than his first. Haley is also rising among the competitors to Trump, with educated and relatively moderate Republicans and independents supporting her. In Israel, they recently ignored a warning from the Oct 7th about Hamas&#39; plan and now have to face the consequences. The Supreme Court will soon hear the case for Purdue Pharma relating to the opioid epidemic in America. Meanwhile, theater companies experienced a lot of success this year, combining elements of drama and comedy. The White House has warned Congress that money meant for Ukraine will run out amid increasing Republican impatience with continuous war costs. There are nearly 200 inmates who left a high-security Russian prison to join the war in Ukraine, while U.S. Justice Department is investigating gender and racial discrimination claims at the New Jersey State Police. A new study in California found positive results from an investment in the science of reading, aiming to help children learn to read better despite pandemic recovery challenges. The Climate Summit Leader is trying to calm uproar over a remark on fossil fuels but there is still hope for clean energy sources like deposits of natural hydrogen in France which could potentially provide us with power if all goes as planned.</p>
+There are several stories coming out of the US and around the world right now. In the US, Donald Trump is looking to run for a second term and his administration is getting more sophisticated and less bound by checks and balances. In North Dakota, Governor Doug Burgum has ended his White House run after failing to gain traction with his focus on economic and foreign policy. On the international stage, there has been a militant rocket attack on an Israeli military base that may have housed nuclear missiles. There have also been allegations of sexual violence during the attacks on Israel, maps tracking the war efforts in Israel and Gaza, and a Supreme Court case regarding opioid settlements for Purdue Pharma. Lastly, there is an update on the best theater in 2023, warnings from the White House about running out of funding for weapons toward Ukraine, and a report from Russia about convicts joining the war effort there. Closer to home, there is an investigation into gender and racial discrimination in New Jersey state police forces, and a promising study in California schools using targeted investment for pandemic recovery.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
@@ -74,22 +74,34 @@ There is a lot of activity happening in the world right now. Donald Trump has st
 <p>She has gained with educated and relatively moderate Republicans and independents, but that is also a big liability in today’s G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Oct. 7 Warning That Israel Ignored</h3>
-<sub>By Michael Barbaro, Rachel Quester, Mooj Zadie, Carlos Prieto, Stella Tan, Patricia Willens, Michael Benoist, Marion Lozano, Diane Wong, Dan Powell and Alyssa Moxley</sub>
-<p>Israel knew about Hamas’s plan more than a year before the attack took place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Doug Burgum, Wealthy North Dakota Governor, Ends White House Run</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The little-known former software executive had hoped his business acumen and relentless focus on the economy, energy and foreign policy would lift his campaign. It didn’t.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel Tells More Gazans to Leave, and Supreme Court to Hear Pharma Case</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Militant Rocket Hit Base Linked to Israeli Nuclear Missile Program</h3>
+<sub>By Riley Mellen</sub>
+<p>A Times visual analysis found that a rocket launched from Gaza on Oct. 7 hit an Israeli military base believed to house nuclear-capable missiles, although it’s likely they were not in danger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What We Know About Sexual Violence During the Oct. 7 Attacks on Israel</h3>
+<sub>By Jeffrey Gettleman, Adam Sella and Anat Schwartz</sub>
+<p>Israel has accused Hamas of committing abuses against large numbers of women. Hamas denies the allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>Israel expanded its evacuation orders in southern Gaza, ahead of an expected ground invasion in the south.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About the Purdue Pharma Case Before the Supreme Court</h3>
-<sub>By Abbie VanSickle and Jan Hoffman</sub>
-<p>A federal appeals court had signed off on a deal that would shield members of the wealthy Sackler family from lawsuits in exchange for billions for those harmed by the opioid epidemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Supreme Court Appears Split Over Opioid Settlement for Purdue Pharma</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The justices’ questions reflected the tension between the practical effect of unraveling the settlement and broader concerns about whether the Sacklers should be granted such wide-ranging immunity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-theater-blue" alt="">
@@ -101,7 +113,7 @@ There is a lot of activity happening in the world right now. Donald Trump has st
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>White House Warns Congress That Weapons Money for Ukraine Will Run Out</h3>
 <sub>By Lara Jakes</sub>
-<p>The warning, in a letter to the House speaker, comes as an increasing number of Republicans are growing weary of shouldering the costs of a drawn-out war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The warning, in a letter to the House speaker, comes as an increasing number of Republicans say they are growing weary of shouldering the costs of a drawn-out war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,18 +133,6 @@ There is a lot of activity happening in the world right now. Donald Trump has st
 <sub>By Dana Goldstein</sub>
 <p>A new study found that California schools got positive results from a targeted investment in the science of reading — even with the challenges of pandemic recovery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Climate Summit Leader Tries to Calm Uproar Over a Remark on Fossil Fuels</h3>
-<sub>By Lisa Friedman</sub>
-<p>Sultan Al Jaber, responsible for leading the world away from fossil fuels, said there was “no science” to support a phaseout of oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>It Could Be a Vast Source of Clean Energy, Buried Deep Underground</h3>
-<sub>By Liz Alderman</sub>
-<p>In eastern France, and in other places around the world, deposits of natural hydrogen promise bountiful power. But questions remain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
