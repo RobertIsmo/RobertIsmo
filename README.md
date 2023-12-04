@@ -60,13 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 4, Central Standard Time</p>
 <p>
-In the world right now, Israel is expanding its offensive and has asked citizens to evacuate from Gaza. On top of that, the US Navy Deatroyer shot down some drones in the Red Sea near commercial ships that are suspected to have been launched by Iranian-backed groups. People in the technology field that have felt fear towards artificial intelligence are the ones building it, while more Chinese migrants are taking dangerous journeys across the US southern border in search of a better life. Doctors and pharmacists are starting to revolt as well in response to their loss of status. Additionally, France is considering natural hydrogen for their clean energy sources while the US Supreme Court has been making rulings on granting immunity in settlements. In Taiwan, young voters frustrated with their country&#39;s leaderships are influencing the elections. Lastly, Florida&#39;s governor has suggested passing a bill to essentially supersede Obamacare; he&#39;s getting pushback from Democrats over this statement.</p>
+Recently, the United States Navy has been engaging in military activities in the Red Sea, shooting down drones that were attacking commercial ships in an area believed to be backed by Iranian-aligned forces. 
+The United States is currently debating the extent to which members of a wealthy family should get immunity from lawsuits stemming from major opioid cases. There&#39;s also discussions at this year&#39;s United Nations Summit surrounding money and climate change solutions.
+
+Meanwhile, Donald Trump is preparing to start his second Presidential term, where experts anticipate his actions to become even more radical than during his first term. Former U.S. Ambassador Nikki Haley has risen in popularity amongst more moderate and educated Republicans and Independents, which could be seen as a potential liability amongst the polarized GOP today. 
+
+In Israel, news of Hamas&#39; plan for attack was known for over a year prior, yet it was ignored. In Eastern France, natural hydrogen reserves have been found with the potential to provide regenerative energy sources. Finally, in the New Jersey State Police Department, female officers have been reportedly urging women to stay away due to gender and racial discrimination.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel, Expanding Offensive, Tells More Gazans to Evacuate</h3>
-<sub>By Vivian Yee, Iyad Abuheweila and Thomas Fuller</sub>
-<p>As its ground forces prepared to move in the south of Gaza, residents there were told to leave their homes, spreading fear and confusion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
+<sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
+<p>Donald Trump has long exhibited authoritarian impulses, but his policy operation is now more sophisticated, and the buffers to check him are weaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Haley Is Rising Among the Rivals to Trump</h3>
+<sub>By Nate Cohn</sub>
+<p>She has gained with educated and relatively moderate Republicans and independents, but that is also a big liability in today’s G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Oct. 7 Warning That Israel Ignored</h3>
+<sub>By Michael Barbaro, Rachel Quester, Mooj Zadie, Carlos Prieto, Stella Tan, Patricia Willens, Michael Benoist, Marion Lozano, Diane Wong, Dan Powell and Alyssa Moxley</sub>
+<p>Israel knew about Hamas’s plan more than a year before the attack took place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Navy Destroyer Shoots Down Three Drones in Red Sea, Pentagon Says</h3>
@@ -74,35 +91,17 @@ In the world right now, Israel is expanding its offensive and has asked citizens
 <p>A Pentagon official said the U.S.S. Carney shot down the drones as several commercial ships nearby came under fire on Sunday, in attacks that U.S. Central Command said came from Iran-backed Yemeni Houthis.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
-<sub>By Cade Metz, Karen Weise, Nico Grant and Mike Isaac</sub>
-<p>The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel Tells More Gazans to Leave, and Supreme Court to Hear Pharma Case</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Who’s Who Behind the Dawn of the Modern Artificial Intelligence Movement</h3>
-<sub>By J. Edward Moreno</sub>
-<p>Before chatbots exploded in popularity, a group of researchers, tech executives and venture capitalists had worked for more than a decade to fuel A.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why More Chinese Are Risking Danger in Southern Border Crossings to U.S.</h3>
-<sub>By Li Yuan</sub>
-<p>Trekking the perilous Darién Gap and seeking asylum are risks worth taking for migrants from China who have lost hope in the country’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Doctors and Pharmacists Are in Revolt</h3>
-<sub>By Noam Scheiber</sub>
-<p>Once accustomed to a status outside the usual management-labor hierarchy, many health professionals now feel as put upon as any clock-punching worker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>It Could Be a Vast Source of Clean Energy, Buried Deep Underground</h3>
-<sub>By Liz Alderman</sub>
-<p>In eastern France, and in other places around the world, deposits of natural hydrogen promise bountiful power. But questions remain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About the Purdue Pharma Case Before the Supreme Court</h3>
+<sub>By Abbie VanSickle and Jan Hoffman</sub>
+<p>A federal appeals court had signed off on a deal that would shield members of the wealthy Sackler family from lawsuits in exchange for billions for those harmed by the opioid epidemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>At Core of Purdue Pharma Case: Who Can Get Immunity in Settlements?</h3>
@@ -110,29 +109,35 @@ In the world right now, Israel is expanding its offensive and has asked citizens
 <p>A broad ruling by the Supreme Court could mean the end of a strategy for resolving claims of mass injury in bankruptcy court in which organizations receive expansive legal protections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Best Theater of 2023</h3>
+<sub>By Jesse Green, Laura Collins-Hughes, Scott Heller, Naveen Kumar, Juan A. Ramírez and Elisabeth Vincentelli</sub>
+<p>Many of the plays and musicals that resonated this year deftly married elements of drama and comedy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Wild Card in Taiwan’s Election: Frustrated Young Voters</h3>
-<sub>By Amy Chang Chien and Chris Buckley</sub>
-<p>An important bloc for the governing party, the island’s youth are focusing on bread-and-butter issues and have helped propel the rise of an insurgent party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Prison at War: The Convicts Sustaining Putin’s Invasion</h3>
+<sub>By Anatoly Kurmanaev, Ekaterina Bodyagina, Alina Lobzina, Oleg Matsnev and Gray Beltran</sub>
+<p>Nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, seeking redemption, money or freedom. Many were killed or wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>It Could Be a Vast Source of Clean Energy, Buried Deep Underground</h3>
+<sub>By Liz Alderman</sub>
+<p>In eastern France, and in other places around the world, deposits of natural hydrogen promise bountiful power. But questions remain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Florida’s Hot Political Climate, Some Faculty Have Had Enough</h3>
-<sub>By Stephanie Saul</sub>
-<p>Liberal-leaning professors are leaving coveted jobs with tenure. And there are signs that recruiting scholars has become harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Fighting Crises With Cash, Except for the Climate Crisis</h3>
+<sub>By Lisa Friedman and Somini Sengupta</sub>
+<p>Money is a very big sticking point at this year’s United Nations climate summit. Part of the problem is that American promises often go unmet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Says He Would Pass a Bill to ‘Supersede’ Obamacare</h3>
-<sub>By Maggie Astor</sub>
-<p>The comments from Florida’s governor on Sunday followed a similar statement by former President Donald J. Trump; Democrats have denounced their stances.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Behind the Scenes of the Most Spectacular Show On TV</h3>
-<sub>By Jody Rosen</sub>
-<p>Months of preparation, hundreds of staff, convoys of cutting-edge gear: inside the machine that crafts prime time’s most popular entertainment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Police Force Where Female Officers Warn Other Women to Stay Away</h3>
+<sub>By Tracey Tully and Hannah Yoon</sub>
+<p>The U.S. Justice Department is investigating claims of gender and racial discrimination at the New Jersey State Police.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
