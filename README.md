@@ -60,36 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. The US is denying visas to some people in the Israeli-occupied West Bank because of acts of violence there. There have been accounts of sexual violence by Hamas that have led to criticism towards the UN, and universities like Harvard, MIT, and Penn are acknowledging antisemitic behavior since the Hamas attack on Israel. In China, the property developer Evergrande has had a crash due partly to questionable accounting and Moody&#39;s has lowered their credit outlook due to rising debt. Meanwhile, Nikki Haley has been receiving attention for her role as Ambassador to the UN, and a top democratic donor Reid Hoffman is supporting her with a $250,000 donation to her Super PAC. The plight of American aging farmworkers have been discussed because they don&#39;t get Medicare or Social Security when they retire. There&#39;s also been a discussion about true crime and its effects on victims&#39; families, while New York City is implementing noise cameras that can fine loud drivers up to $2,500. Finally, this year&#39;s comedy is being praised with Jim Gaffigan being given more recognition.</p>
+There is a lot happening in the world right now. In the US, Republican Senator Tuberville has agreed to lift a blockade on the promotion of most military personnel after pressure from both parties. There&#39;s also a vote being planned on an impeachment inquiry that is expected to have unanimous Republican support. The US is also denying visas to violent Israeli settlers and some West Bank Palestinians in response to rising acts of violence there.
+
+In China, President Xi Jinping has tightened control of finance with a new ideological framework that places primacy of his leadership and Marxist principles. Former US Ambassador Nikki Haley is getting criticism for her role in the Trump administration, but is now receiving support from top Democratic donor Reid Hoffman who has devoted $250,000 to a super PAC. Liz Cheney, who was formerly in Congress, is rumored to possibly run for president in 2024 with the aim of preventing Trump from returning to office. 
+
+Meanwhile, federal prosecutors are preparing to use Trump&#39;s trial on charges relating to overturning the 2020 election to demonstrate his long-term pattern of making baseless threats and claims. There has been an A.I. arms race in Silicon Valley which was triggered by ChatGPT&#39;s release last year, while at the Supreme Court Justices appeared skeptical of a challenge to a tax provision from the Trump-era. Ultimately this could lead to changes in the US tax code if they rule against it. Additionally, there&#39;s an interesting story about podcasters involved in an investigation into a murder case involving a victim&#39;s family and how it highlighted emotional minefields for them.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. to Deny Visas to Violent Israeli settlers and some West Bank Palestinians</h3>
-<sub>By Michael Crowley</sub>
-<p>As acts of violence spike in the Israeli-occupied West Bank, American officials say they will take action against dozens of Israeli settlers and some Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tuberville Says He Will Drop Blockade of Most Military Promotions</h3>
+<sub>By Catie Edmondson</sub>
+<p>Under pressure from senators in both parties, the Alabama Republican said he would allow more than 400 promotions to move forward, continuing to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
-<sub>By Katherine Rosman and Lisa Lerer</sub>
-<p>A meeting at the U.N., organized in part by Sheryl Sandberg, accused the body of ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard, M.I.T. and Penn Say They Are Acting Against Antisemitism, in Congressional Testimony</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>They acknowledged that there was antisemitic, and also Islamophobic, behavior on their campuses since the Hamas attack on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Johnson Plans Vote on Impeachment Inquiry, Predicting Unanimous G.O.P. Support</h3>
+<sub>By Luke Broadwater</sub>
+<p>The speaker said he would move forward with a vote that Republicans have long avoided for fear that some in their ranks would refuse to endorse an investigation without incriminating evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. to Deny Visas to Violent Israeli Settlers and Some West Bank Palestinians</h3>
+<sub>By Michael Crowley</sub>
+<p>As acts of violence spike in the Israeli-occupied West Bank, American officials say they will take action against people “believed to have been involved in undermining peace.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China Evergrande’s Crash Was Accelerated by Questionable Accounting</h3>
-<sub>By Alexandra Stevenson</sub>
-<p>Blame for the property developer’s downfall has been placed on Chinese lending policies, but poor corporate oversight was hiding in plain sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Rising Debt Spurs Moody’s to Lower Credit Outlook</h3>
-<sub>By Keith Bradsher</sub>
-<p>The ratings agency cut its view of the country’s finances to negative, saying it was concerned about the potential cost of local government bailouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Xi Jinping Is Asserting Tighter Control of Finance in China</h3>
+<sub>By Keith Bradsher and Joy Dong</sub>
+<p>The Communist Party’s main theoretical journal has laid out a new ideological framework for the financial system that emphasizes the primacy of China’s top leader and Marxist principles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +103,39 @@ There has been a lot going on in the world recently. The US is denying visas to 
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Retirement Without a Net: The Plight of America’s Aging Farmworkers</h3>
-<sub>By Miriam Jordan and Adam Perez</sub>
-<p>Immigrants who worked decades on U.S. farms are reaching retirement age in a country that offers them neither Medicare nor Social Security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Is Liz Cheney Really Thinking About Running for President in 2024?</h3>
+<sub>By Robert Draper</sub>
+<p>The former congresswoman is working to ensure that Donald Trump never returns to the Oval Office. She is also keeping her own door wide open.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Intend to Show Long Pattern of Threats and Baseless Claims by Trump</h3>
+<sub>By Alan Feuer</sub>
+<p>In a court filing, federal prosecutors laid out plans to use the former president’s trial on charges of trying to overturn the 2020 election to show a yearslong history of using lies and intimidation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside the A.I. Arms Race That Changed Silicon Valley Forever</h3>
+<sub>By Karen Weise, Cade Metz, Nico Grant and Mike Isaac</sub>
+<p>ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justices Seem Skeptical of Challenge to Trump-Era Tax Provision</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The Supreme Court’s liberal wing and more moderate conservatives seemed to be searching for a way toward a limited ruling on a tax law that affects foreign profits of American companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Legal Fight Over a $15,000 Tax Bill Could Upend the U.S. Tax Code</h3>
+<sub>By Alan Rappeport</sub>
+<p>The Supreme Court ruling in the Moore case could cost the federal government billions of dollars in lost tax revenue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Podcasters Took Up Her Sister’s Murder Investigation. Then They Turned on Her.</h3>
 <sub>By Sarah Viren</sub>
 <p>‘True crime’ has become a big business — and an emotional minefield for victims’ families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York’s Millionaire Class Is Growing. Other People Are Leaving.</h3>
-<sub>By Stefanos Chen</sub>
-<p>A report found that New York is gaining millionaires, despite an earlier exodus, while lower-income families are being forced to leave, raising questions about the state’s tax policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>These Noise Cameras Put a Price on Peace: $2,500 for Loud Drivers</h3>
-<sub>By Erin Nolan</sub>
-<p>New York City, not exactly known for its peace and quiet, is expanding its use of technology to fine the drivers of loud cars and motorcycles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Best Comedy of 2023</h3>
-<sub>By Jason Zinoman</sub>
-<p>It’s time to stop taking Jim Gaffigan for granted, and more surprising takeaways from specials, stand-up sets and other funny moments this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
