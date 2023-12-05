@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 4, Central Standard Time</p>
+<p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., White House officials are warning Congress to increase aid to Ukraine amid waning Republican support. Elsewhere, nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, and an American reporter is still being held in Russia after 250 days awaiting trial on a spying charge. At the U.N., accounts of sexual violence by Hamas were aired and Vice President Kamala Harris took a forceful tone with Israel regarding Middle East Diplomacy. Meanwhile, the U.S. is mulling over a task force to protect ships in the Red Sea from Iranian proxy forces, and Republican politicians are asking Chris Christie to drop out of his presidential campaign. Additionally, a Super PAC is spending over $10 million for ballot access for Robert F. Kennedy Jr.&#39;s independent presidential candidacy, while the Supreme Court appears split over an opioid settlement for Purdue Pharma. To finish off on a lighter note, the theater industry had some notable plays and musicals this year!</p>
+The world is experiencing a lot of upheaval right now with many international conflicts that are causing tension. In China, a property developer has been crashing due to questionable accounting practices, and in the US there is a struggle over an aid package for Ukraine. Russia is facing human rights concerns due to its prison systems sending inmates to fight in Ukraine, while the UN is being accused of ignoring sexual violence from the Hamas invasions against Israel. In the US specifically, Vice President Kamala Harris has taken a forceful stance with Israel, there are discussions of creating a task force to guard Red Sea ships from Iranian proxy forces, some Republicans are telling Chris Christie to drop out of the presidential race, and the Republican party is debating new rules for debates. Lastly, The Supreme Court is considering a settlement for Purdue Pharma connected to the opioid crisis. Meanwhile, theater remains alive and fresh with new plays and musicals that demonstrate amazing combinations of comedy and drama.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China Evergrande’s Crash Was Accelerated by Questionable Accounting</h3>
+<sub>By Alexandra Stevenson</sub>
+<p>Blame for the property developer’s downfall has been placed on Chinese lending policies, but poor corporate oversight was hiding in plain sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House Warns Ukraine Aid Is Running Out, Pressing Congress for More</h3>
 <sub>By Karoun Demirjian and Lara Jakes</sub>
@@ -83,7 +89,7 @@ There is a lot going on in the world right now. In the U.S., White House officia
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
 <sub>By Katherine Rosman and Lisa Lerer</sub>
-<p>A meeting at the U.N., organized in part by Sheryl Sandberg, charged the body with ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A meeting at the U.N., organized in part by Sheryl Sandberg, accused the body of ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot going on in the world right now. In the U.S., White House officia
 <h3>Best Theater of 2023</h3>
 <sub>By Jesse Green, Laura Collins-Hughes, Scott Heller, Naveen Kumar, Juan A. Ramírez and Elisabeth Vincentelli</sub>
 <p>Many of the plays and musicals that resonated this year deftly married elements of drama and comedy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Retired U.S. Diplomat Accused of Working as a Secret Agent for Cuba</h3>
-<sub>By Glenn Thrush, Ernesto Londoño, David C. Adams and Frances Robles</sub>
-<p>Manuel Rocha, a former ambassador to Bolivia, secretly aided Cuba’s “clandestine intelligence-gathering mission,” U.S. authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
