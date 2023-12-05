@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the White House is pressing Congress for more aid to Ukraine, as Republican support for the country&#39;s war effort is waning. Elsewhere, a prison in Russia has released hundreds of inmates to fight in the war in Ukraine. An American journalist has been detained in Russia for months, without a trial. There have also been extensive rocket attacks between Israel and Gaza, with allegations of sexual violence from Hamas. In terms of US politics, governors are telling Joe Biden to focus on abortion rather than Donald Trump as they prepare for his re-election campaign. A wealthy North Dakota governor has dropped out of the race against Trump and the Supreme Court is split on a major opioid settlement involving Purdue Pharma. Finally, theater has had some excellent plays and musicals this year that have blended drama and comedy.</p>
+There seems to be news happening all around the world, but some stories seem to dominate the headlines. In the US, White House has warned that Ukraine aid is running out and is pressing Congress for more. The US government is also considering a task force to guard Red Sea ships from Iranian proxy forces. Elsewhere, a prison in Russia left nearly 200 inmates to join the war in Ukraine and an American Reporter has been detained in Russia for 250 days and is still awaiting trial. In Israel, there have been allegations of sexual violence attached to october 7th attacks which Hamas denies. Vice President Kamala Harris has taken a forceful tone with Israel over their conflict, and some Republicans are pressuring Chris Christie to drop out of the presidential race. Lastly, some are suggesting that if Donald Trump is re-elected it will be far more radical than his first presidency, so Democratic governors are recommending they focus on abortion rather than Trump when trying to win voters. In other news, a group of theater critics just released their picks for best plays&#x2F;musicals of 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House Warns Ukraine Aid Is Running Out, Pressing Congress for More</h3>
@@ -81,22 +81,28 @@ There is a lot going on in the world right now. In the US, the White House is pr
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Militant Rocket Hit Base Linked to Israeli Nuclear Missile Program</h3>
-<sub>By Riley Mellen</sub>
-<p>A Times visual analysis found that a rocket launched from Gaza on Oct. 7 hit an Israeli military base believed to house nuclear-capable missiles, although it’s likely they were not in danger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What We Know About Sexual Violence During the Oct. 7 Attacks on Israel</h3>
 <sub>By Jeffrey Gettleman, Adam Sella and Anat Schwartz</sub>
 <p>Israel has accused Hamas of committing abuses against large numbers of women. Hamas denies the allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>Israel expanded its evacuation orders in southern Gaza, ahead of an expected ground invasion in the south.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harris Takes Forceful Tone With Israel in a Foray Into Mideast Diplomacy</h3>
+<sub>By Michael D. Shear</sub>
+<p>Vice President Kamala Harris has emerged as one of the highest-ranking American officials urging restraint by Israeli forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Considers Task Force to Guard Red Sea Ships From Iranian Proxy Forces</h3>
+<sub>By Peter Baker</sub>
+<p>The discussions come after a U.S. destroyer downed three drones targeting commercial ships on Sunday, part of a series of attacks by the Iranian-backed Houthi militia tied to Israel’s war against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Some Republicans Have a Blunt Message for Chris Christie: Drop Out</h3>
+<sub>By Lisa Lerer and Chris Cameron</sub>
+<p>Several anti-Trump Republican donors and strategists are pushing Mr. Christie to end his presidential campaign and back Nikki Haley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
@@ -110,16 +116,10 @@ There is a lot going on in the world right now. In the US, the White House is pr
 <p>At an annual gathering in Arizona, Democratic governors offered a series of explanations for the president’s political struggles and suggested ideas for selling voters on his re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Haley Is Rising Among the Rivals to Trump</h3>
-<sub>By Nate Cohn</sub>
-<p>She has gained with educated and relatively moderate Republicans and independents, but that is also a big liability in today’s G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Doug Burgum, Wealthy North Dakota Governor, Ends White House Run</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The little-known former software executive had hoped his business acumen and relentless focus on the economy, energy and foreign policy would lift his campaign. It didn’t.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>R.F.K. Jr. Allies Say They’ll Spend Over $10 Million on Ballot Access</h3>
+<sub>By Rebecca Davis O’Brien and Reid J. Epstein</sub>
+<p>A super PAC backing Robert F. Kennedy Jr.’s independent presidential candidacy is leading the costly and legally complex effort, which the Democratic establishment is trying to fight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
