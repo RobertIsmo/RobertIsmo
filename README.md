@@ -60,30 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now - both good and bad. To start, Hamas has been accused of raping and mutilating women in an attack on Israel, and those stories were aired during a meeting at the U.N. On the other hand, the U.N. is playing a vital role in helping those in need in places like Gaza and other parts of the world. In China, the property developer Evergrande crashed due to poor corporate oversight combined with Chinese lending policies, leading the ratings agency Moody&#39;s to lower its credit outlook for the country. Meanwhile, off Broadway theaters are struggling to recover from the pandemic due to decreased attendance, aging immigrants who worked decades on US farms are being left without Social Security or Medicare when hitting retirement age, and New York is gaining millionaires while low-income families are being forced out due to taxes. Finally, the U.N. climate summit is tackling climate change by arguing for a phaseout of fossil fuels, while providing a space filled with hope for those struggling with climate angst.</p>
+There has been a lot going on in the world recently. The US is denying visas to some people in the Israeli-occupied West Bank because of acts of violence there. There have been accounts of sexual violence by Hamas that have led to criticism towards the UN, and universities like Harvard, MIT, and Penn are acknowledging antisemitic behavior since the Hamas attack on Israel. In China, the property developer Evergrande has had a crash due partly to questionable accounting and Moody&#39;s has lowered their credit outlook due to rising debt. Meanwhile, Nikki Haley has been receiving attention for her role as Ambassador to the UN, and a top democratic donor Reid Hoffman is supporting her with a $250,000 donation to her Super PAC. The plight of American aging farmworkers have been discussed because they don&#39;t get Medicare or Social Security when they retire. There&#39;s also been a discussion about true crime and its effects on victims&#39; families, while New York City is implementing noise cameras that can fine loud drivers up to $2,500. Finally, this year&#39;s comedy is being praised with Jim Gaffigan being given more recognition.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. to Deny Visas to Violent Israeli settlers and some West Bank Palestinians</h3>
+<sub>By Michael Crowley</sub>
+<p>As acts of violence spike in the Israeli-occupied West Bank, American officials say they will take action against dozens of Israeli settlers and some Palestinians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
 <sub>By Katherine Rosman and Lisa Lerer</sub>
 <p>A meeting at the U.N., organized in part by Sheryl Sandberg, accused the body of ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In a Place Called Little Palestine, People Feel Afraid. And Forgotten.</h3>
-<sub>By Christopher Maag</sub>
-<p>Long before the temporary cease-fire ended in Gaza, the mood in Paterson, N.J., home to one of the largest communities of Palestinians outside the Middle East, was tense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>On the Ground in Wars and Disasters, the U.N. Plays a Vital Role</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>While some critics say the world body is paralyzed by political differences, its humanitarian agencies are helping needy people in Gaza and other places around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Aid for Ukraine Running Low, and a Spy in the State Dept.</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard, M.I.T. and Penn Say They Are Acting Against Antisemitism, in Congressional Testimony</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>They acknowledged that there was antisemitic, and also Islamophobic, behavior on their campuses since the Hamas attack on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -98,10 +92,16 @@ There&#39;s a lot happening in the world right now - both good and bad. To start
 <p>The ratings agency cut its view of the country’s finances to negative, saying it was concerned about the potential cost of local government bailouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Off Broadway, a Vital Part of New York Theater, Feels the Squeeze</h3>
-<sub>By Michael Paulson</sub>
-<p>The small theaters that help make the city a theater capital are cutting back as they struggle to recover from the pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley’s Path From Trump Critic to Defender and Back</h3>
+<sub>By Sharon LaFraniere</sub>
+<p>As ambassador to the United Nations, Ms. Haley strove to stay in the president’s favor and avoided some battles to change his mind on contentious issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Top Democratic Donor, Reid Hoffman, Gives $250,000 to a Nikki Haley Super PAC</h3>
+<sub>By Shane Goldmacher</sub>
+<p>Mr. Hoffman, the co-founder of LinkedIn, has funded an array of anti-Trump candidates and causes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +110,28 @@ There&#39;s a lot happening in the world right now - both good and bad. To start
 <p>Immigrants who worked decades on U.S. farms are reaching retirement age in a country that offers them neither Medicare nor Social Security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Podcasters Took Up Her Sister’s Murder Investigation. Then They Turned on Her.</h3>
+<sub>By Sarah Viren</sub>
+<p>‘True crime’ has become a big business — and an emotional minefield for victims’ families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Who Is Fleeing New York? Not Millionaires, Report Finds.</h3>
+<h3>New York’s Millionaire Class Is Growing. Other People Are Leaving.</h3>
 <sub>By Stefanos Chen</sub>
 <p>A report found that New York is gaining millionaires, despite an earlier exodus, while lower-income families are being forced to leave, raising questions about the state’s tax policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>It’s Big Oil vs. Science at the U.N. Climate Summit</h3>
-<sub>By David Gelles, Lisa Friedman and Vivian Nereim</sub>
-<p>As negotiators work to agree on a final text, attention has turned to a fundamental question: Will the talks call for a phaseout of fossil fuels?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>These Noise Cameras Put a Price on Peace: $2,500 for Loud Drivers</h3>
+<sub>By Erin Nolan</sub>
+<p>New York City, not exactly known for its peace and quiet, is expanding its use of technology to fine the drivers of loud cars and motorcycles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Renewable Energy Could Be a Casualty in the War on Inflation. Here’s Why.</h3>
-<sub>By Jim Tankersley and Brad Plumer</sub>
-<p>High interest rates make green start-up costs soar. Officials at the U.N. climate summit fear the world could miss an opportunity to avert future greenhouse gas emissions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Got Climate Angst? At the U.N. Summit, There’s a Quiet, Spiritual Place.</h3>
-<sub>By Jenny Gross</sub>
-<p>A pavilion at COP28 offers a space for meditation, prayer and something that feels lacking, at times, from global warming talks: hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Best Comedy of 2023</h3>
+<sub>By Jason Zinoman</sub>
+<p>It’s time to stop taking Jim Gaffigan for granted, and more surprising takeaways from specials, stand-up sets and other funny moments this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
