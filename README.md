@@ -60,8 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-It looks like things are heating up in both China and the US. In China, debt levels are soaring which seems to be causing Moody&#39;s to take a more critical view of the Chinese economy. On the US side, there are a few different topics grabbing headlines. For example, the White House is pressing Congress for emergency funding for Ukraine as support from Republicans is waning. Meanwhile, Kamala Harris is taking a forceful tone with Israel in her attempt at Mideast diplomacy and tensions between Iran and the US over shipping security are rising. Lastly, there&#39;s an ongoing Supreme Court case concerning the settlement of Purdue Pharma&#39;s role in exacerbating the opioid crisis. Aside from politics, it appears 2021 is shaping up to be an interesting year for theater too!</p>
+There is a lot happening in the world right now that affects different people and places in different ways. For example, there&#39;s an issue going on with Hamas involving sexual violence against women, and Palestinians living outside the Middle East are feeling forgotten. The UN is also playing an important role in managing conflicts and disasters around the world. In terms of technology, artificial intelligence is developing rapidly and having lots of implications for Silicon Valley. China has been at risk lately due to issues with debt and corporate oversights. Also, theater is struggling as a result of the pandemic, and many aging farmworkers don&#39;t have access to Medicare or Social Security benefits. Finally, New York City&#39;s millionaires are increasing despite earlier predictions of an exodus, raising questions about the state&#39;s tax policies.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
+<sub>By Katherine Rosman and Lisa Lerer</sub>
+<p>A meeting at the U.N., organized in part by Sheryl Sandberg, accused the body of ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In a Place Called Little Palestine, People Feel Afraid. And Forgotten.</h3>
+<sub>By Christopher Maag</sub>
+<p>Long before the temporary cease-fire ended in Gaza, the mood in Paterson, N.J., home to one of the largest communities of Palestinians outside the Middle East, was tense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>On the Ground in Wars and Disasters, the U.N. Plays a Vital Role</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>While some critics say the world body is paralyzed by political differences, its humanitarian agencies are helping needy people in Gaza and other places around the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Aid for Ukraine Running Low, and a Spy in the State Dept.</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Big Tech Muscles In: The 12 Months That Changed Silicon Valley Forever</h3>
+<sub>By Karen Weise, Cade Metz, Nico Grant and Mike Isaac</sub>
+<p>ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
+<sub>By Cade Metz, Karen Weise, Nico Grant and Mike Isaac</sub>
+<p>The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Evergrande’s Crash Was Accelerated by Questionable Accounting</h3>
 <sub>By Alexandra Stevenson</sub>
@@ -69,69 +105,33 @@ It looks like things are heating up in both China and the US. In China, debt lev
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Rising Debt Spurs Moody’s to Cut Credit Outlook</h3>
+<h3>China’s Rising Debt Spurs Moody’s to Lower Credit Outlook</h3>
 <sub>By Keith Bradsher</sub>
-<p>The ratings agency expressed concern about the potential cost to Beijing of bailing out debt-burdened local governments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The ratings agency cut its view of the country’s finances to negative, saying it was concerned about the potential cost of local government bailouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Off Broadway, a Vital Part of New York Theater, Feels the Squeeze</h3>
+<sub>By Michael Paulson</sub>
+<p>The small theaters that help make the city a theater capital are cutting back as they struggle to recover from the pandemic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Warns Ukraine Aid Is Running Out, Pressing Congress for More</h3>
-<sub>By Karoun Demirjian and Lara Jakes</sub>
-<p>The warning, in a letter to congressional leaders, comes as Republican support for funding Kyiv’s war effort is waning, and an emergency funding package is stalled in Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<h3>Retirement Without a Net: The Plight of America’s Aging Farmworkers</h3>
+<sub>By Miriam Jordan and Adam Perez</sub>
+<p>Immigrants who worked decades on U.S. farms are reaching retirement age in a country that offers them neither Medicare nor Social Security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Prison at War: The Convicts Sustaining Putin’s Invasion</h3>
-<sub>By Anatoly Kurmanaev, Ekaterina Bodyagina, Alina Lobzina, Oleg Matsnev and Gray Beltran</sub>
-<p>Nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, seeking redemption, money or freedom. Many were killed or wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Detained in Russia for 250 Days, American Reporter Is Still Awaiting Trial</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Evan Gershkovich, a journalist for The Wall Street Journal, is being held on a spying charge that he, his newspaper and the U.S. government deny.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
-<sub>By Katherine Rosman and Lisa Lerer</sub>
-<p>A meeting at the U.N., organized in part by Sheryl Sandberg, accused the body of ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harris Takes Forceful Tone With Israel in a Foray Into Mideast Diplomacy</h3>
-<sub>By Michael D. Shear</sub>
-<p>Vice President Kamala Harris has emerged as one of the highest-ranking American officials urging restraint by Israeli forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Considers Task Force to Guard Red Sea Ships From Iranian Proxy Forces</h3>
-<sub>By Peter Baker</sub>
-<p>The discussions come after a U.S. destroyer downed three drones targeting commercial ships on Sunday, part of a series of attacks by the Iranian-backed Houthi militia tied to Israel’s war against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Who Is Fleeing New York? Not Millionaires, Report Finds.</h3>
+<sub>By Stefanos Chen</sub>
+<p>Despite an exodus earlier in the pandemic, New York’s millionaires are increasing in number, according to a new report, raising questions about the state’s tax policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Some Republicans Have a Blunt Message for Chris Christie: Drop Out</h3>
 <sub>By Lisa Lerer and Chris Cameron</sub>
 <p>Several anti-Trump Republican donors and strategists are pushing Mr. Christie to end his presidential campaign and back Nikki Haley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Grumbles Over Trump-Free Debates Grow, Republicans Weigh Looser Rules</h3>
-<sub>By Shane Goldmacher and Maggie Haberman</sub>
-<p>The party is considering whether to open the door to debates not sponsored by the Republican National Committee, which could lead to more onstage clashes but also diminish their fanfare.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Appears Split Over Opioid Settlement for Purdue Pharma</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The justices’ questions reflected the tension between the practical effect of unraveling the settlement and broader concerns about whether the Sacklers should be granted such wide-ranging immunity.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Best Theater of 2023</h3>
-<sub>By Jesse Green, Laura Collins-Hughes, Scott Heller, Naveen Kumar, Juan A. Ramírez and Elisabeth Vincentelli</sub>
-<p>Many of the plays and musicals that resonated this year deftly married elements of drama and comedy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
