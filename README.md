@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-The world is experiencing a lot of upheaval right now with many international conflicts that are causing tension. In China, a property developer has been crashing due to questionable accounting practices, and in the US there is a struggle over an aid package for Ukraine. Russia is facing human rights concerns due to its prison systems sending inmates to fight in Ukraine, while the UN is being accused of ignoring sexual violence from the Hamas invasions against Israel. In the US specifically, Vice President Kamala Harris has taken a forceful stance with Israel, there are discussions of creating a task force to guard Red Sea ships from Iranian proxy forces, some Republicans are telling Chris Christie to drop out of the presidential race, and the Republican party is debating new rules for debates. Lastly, The Supreme Court is considering a settlement for Purdue Pharma connected to the opioid crisis. Meanwhile, theater remains alive and fresh with new plays and musicals that demonstrate amazing combinations of comedy and drama.</p>
+It looks like things are heating up in both China and the US. In China, debt levels are soaring which seems to be causing Moody&#39;s to take a more critical view of the Chinese economy. On the US side, there are a few different topics grabbing headlines. For example, the White House is pressing Congress for emergency funding for Ukraine as support from Republicans is waning. Meanwhile, Kamala Harris is taking a forceful tone with Israel in her attempt at Mideast diplomacy and tensions between Iran and the US over shipping security are rising. Lastly, there&#39;s an ongoing Supreme Court case concerning the settlement of Purdue Pharma&#39;s role in exacerbating the opioid crisis. Aside from politics, it appears 2021 is shaping up to be an interesting year for theater too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Evergrande’s Crash Was Accelerated by Questionable Accounting</h3>
 <sub>By Alexandra Stevenson</sub>
 <p>Blame for the property developer’s downfall has been placed on Chinese lending policies, but poor corporate oversight was hiding in plain sight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Rising Debt Spurs Moody’s to Cut Credit Outlook</h3>
+<sub>By Keith Bradsher</sub>
+<p>The ratings agency expressed concern about the potential cost to Beijing of bailing out debt-burdened local governments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House Warns Ukraine Aid Is Running Out, Pressing Congress for More</h3>
@@ -114,12 +120,6 @@ The world is experiencing a lot of upheaval right now with many international co
 <h3>As Grumbles Over Trump-Free Debates Grow, Republicans Weigh Looser Rules</h3>
 <sub>By Shane Goldmacher and Maggie Haberman</sub>
 <p>The party is considering whether to open the door to debates not sponsored by the Republican National Committee, which could lead to more onstage clashes but also diminish their fanfare.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>R.F.K. Jr. Allies Say They’ll Spend Over $10 Million on Ballot Access</h3>
-<sub>By Rebecca Davis O’Brien and Reid J. Epstein</sub>
-<p>A super PAC backing Robert F. Kennedy Jr.’s independent presidential candidacy is leading the costly and legally complex effort, which the Democratic establishment is trying to fight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
