@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 4, Central Standard Time</p>
 <p>
-There seems to be news happening all around the world, but some stories seem to dominate the headlines. In the US, White House has warned that Ukraine aid is running out and is pressing Congress for more. The US government is also considering a task force to guard Red Sea ships from Iranian proxy forces. Elsewhere, a prison in Russia left nearly 200 inmates to join the war in Ukraine and an American Reporter has been detained in Russia for 250 days and is still awaiting trial. In Israel, there have been allegations of sexual violence attached to october 7th attacks which Hamas denies. Vice President Kamala Harris has taken a forceful tone with Israel over their conflict, and some Republicans are pressuring Chris Christie to drop out of the presidential race. Lastly, some are suggesting that if Donald Trump is re-elected it will be far more radical than his first presidency, so Democratic governors are recommending they focus on abortion rather than Trump when trying to win voters. In other news, a group of theater critics just released their picks for best plays&#x2F;musicals of 2023.</p>
+There is a lot going on in the world right now. In the U.S., White House officials are warning Congress to increase aid to Ukraine amid waning Republican support. Elsewhere, nearly 200 inmates left a high-security Russian prison to join the war in Ukraine, and an American reporter is still being held in Russia after 250 days awaiting trial on a spying charge. At the U.N., accounts of sexual violence by Hamas were aired and Vice President Kamala Harris took a forceful tone with Israel regarding Middle East Diplomacy. Meanwhile, the U.S. is mulling over a task force to protect ships in the Red Sea from Iranian proxy forces, and Republican politicians are asking Chris Christie to drop out of his presidential campaign. Additionally, a Super PAC is spending over $10 million for ballot access for Robert F. Kennedy Jr.&#39;s independent presidential candidacy, while the Supreme Court appears split over an opioid settlement for Purdue Pharma. To finish off on a lighter note, the theater industry had some notable plays and musicals this year!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House Warns Ukraine Aid Is Running Out, Pressing Congress for More</h3>
@@ -81,9 +81,9 @@ There seems to be news happening all around the world, but some stories seem to 
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What We Know About Sexual Violence During the Oct. 7 Attacks on Israel</h3>
-<sub>By Jeffrey Gettleman, Adam Sella and Anat Schwartz</sub>
-<p>Israel has accused Hamas of committing abuses against large numbers of women. Hamas denies the allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
+<sub>By Katherine Rosman and Lisa Lerer</sub>
+<p>A meeting at the U.N., organized in part by Sheryl Sandberg, charged the body with ignoring the rape and mutilation of women in the Oct. 7 assault on Israel, and heard gruesome details from witnesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,15 +105,9 @@ There seems to be news happening all around the world, but some stories seem to 
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why a Second Trump Presidency May Be More Radical Than His First</h3>
-<sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
-<p>Donald Trump has long exhibited authoritarian impulses, but his policy operation is now more sophisticated, and the buffers to check him are weaker.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Talk About Abortion, Don’t Talk About Trump: Governors Give Biden Advice</h3>
-<sub>By Reid J. Epstein</sub>
-<p>At an annual gathering in Arizona, Democratic governors offered a series of explanations for the president’s political struggles and suggested ideas for selling voters on his re-election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Grumbles Over Trump-Free Debates Grow, Republicans Weigh Looser Rules</h3>
+<sub>By Shane Goldmacher and Maggie Haberman</sub>
+<p>The party is considering whether to open the door to debates not sponsored by the Republican National Committee, which could lead to more onstage clashes but also diminish their fanfare.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There seems to be news happening all around the world, but some stories seem to 
 <h3>Best Theater of 2023</h3>
 <sub>By Jesse Green, Laura Collins-Hughes, Scott Heller, Naveen Kumar, Juan A. Ramírez and Elisabeth Vincentelli</sub>
 <p>Many of the plays and musicals that resonated this year deftly married elements of drama and comedy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Retired U.S. Diplomat Accused of Working as a Secret Agent for Cuba</h3>
+<sub>By Glenn Thrush, Ernesto Londoño, David C. Adams and Frances Robles</sub>
+<p>Manuel Rocha, a former ambassador to Bolivia, secretly aided Cuba’s “clandestine intelligence-gathering mission,” U.S. authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
