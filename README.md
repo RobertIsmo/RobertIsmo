@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now that affects different people and places in different ways. For example, there&#39;s an issue going on with Hamas involving sexual violence against women, and Palestinians living outside the Middle East are feeling forgotten. The UN is also playing an important role in managing conflicts and disasters around the world. In terms of technology, artificial intelligence is developing rapidly and having lots of implications for Silicon Valley. China has been at risk lately due to issues with debt and corporate oversights. Also, theater is struggling as a result of the pandemic, and many aging farmworkers don&#39;t have access to Medicare or Social Security benefits. Finally, New York City&#39;s millionaires are increasing despite earlier predictions of an exodus, raising questions about the state&#39;s tax policies.</p>
+There&#39;s a lot happening in the world right now - both good and bad. To start, Hamas has been accused of raping and mutilating women in an attack on Israel, and those stories were aired during a meeting at the U.N. On the other hand, the U.N. is playing a vital role in helping those in need in places like Gaza and other parts of the world. In China, the property developer Evergrande crashed due to poor corporate oversight combined with Chinese lending policies, leading the ratings agency Moody&#39;s to lower its credit outlook for the country. Meanwhile, off Broadway theaters are struggling to recover from the pandemic due to decreased attendance, aging immigrants who worked decades on US farms are being left without Social Security or Medicare when hitting retirement age, and New York is gaining millionaires while low-income families are being forced out due to taxes. Finally, the U.N. climate summit is tackling climate change by arguing for a phaseout of fossil fuels, while providing a space filled with hope for those struggling with climate angst.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Accounts of Sexual Violence by Hamas Are Aired Amid Criticism of U.N.</h3>
@@ -85,18 +85,6 @@ There is a lot happening in the world right now that affects different people an
 <sub>By New York Times Audio</sub>
 <p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Big Tech Muscles In: The 12 Months That Changed Silicon Valley Forever</h3>
-<sub>By Karen Weise, Cade Metz, Nico Grant and Mike Isaac</sub>
-<p>ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Ego, Fear and Money: How the A.I. Fuse Was Lit</h3>
-<sub>By Cade Metz, Karen Weise, Nico Grant and Mike Isaac</sub>
-<p>The people who were most afraid of the risks of artificial intelligence decided they should be the ones to build it. Then distrust fueled a spiraling competition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>China Evergrande’s Crash Was Accelerated by Questionable Accounting</h3>
@@ -125,14 +113,26 @@ There is a lot happening in the world right now that affects different people an
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Who Is Fleeing New York? Not Millionaires, Report Finds.</h3>
 <sub>By Stefanos Chen</sub>
-<p>Despite an exodus earlier in the pandemic, New York’s millionaires are increasing in number, according to a new report, raising questions about the state’s tax policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A report found that New York is gaining millionaires, despite an earlier exodus, while lower-income families are being forced to leave, raising questions about the state’s tax policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Some Republicans Have a Blunt Message for Chris Christie: Drop Out</h3>
-<sub>By Lisa Lerer and Chris Cameron</sub>
-<p>Several anti-Trump Republican donors and strategists are pushing Mr. Christie to end his presidential campaign and back Nikki Haley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>It’s Big Oil vs. Science at the U.N. Climate Summit</h3>
+<sub>By David Gelles, Lisa Friedman and Vivian Nereim</sub>
+<p>As negotiators work to agree on a final text, attention has turned to a fundamental question: Will the talks call for a phaseout of fossil fuels?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Renewable Energy Could Be a Casualty in the War on Inflation. Here’s Why.</h3>
+<sub>By Jim Tankersley and Brad Plumer</sub>
+<p>High interest rates make green start-up costs soar. Officials at the U.N. climate summit fear the world could miss an opportunity to avert future greenhouse gas emissions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Got Climate Angst? At the U.N. Summit, There’s a Quiet, Spiritual Place.</h3>
+<sub>By Jenny Gross</sub>
+<p>A pavilion at COP28 offers a space for meditation, prayer and something that feels lacking, at times, from global warming talks: hope.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
