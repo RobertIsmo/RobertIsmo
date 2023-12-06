@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-There&#39;s a lot going on around the world right now. There&#39;s a race between nations to figure out how to properly use artificial intelligence and ensure its effects aren&#39;t too harmful. There&#39;s chaos in Gaza with house-to-house gunfights, and similar tensions are spreading throughout the Middle East. Biden has been pushing for Israel to minimize civilian casualties in the region, while Oakland educators plan a teach-in supporting Palestinians. In the U.S., Ukraine military aid is in jeopardy due to a disagreement between Republicans in the Senate, and Megyn Kelly is planning a comeback on a cable network. Meanwhile there&#39;s debate about Alabama&#39;s politics at the national stage, Bayer is facing huge legal bills related to Roundup weedkiller, and now a New York Democrat is up for reelection due to his stance on Israel.</p>
+There is a lot going on in the world right now. In Gaza, war is widening the gap between the ruling authorities and citizens. There is also growing pressure in Bahrain for their recently established ties to Israel to be cut. In response, Biden has backed Israel’s right to defend itself since the Hamas terrorist attack, but his team has increased pressure to minimize civilian casualties in Gaza. Recently, some educators in Oakland have planned an unauthorized teach-in supporting Palestinians which has raised concern from certain Jewish groups. On top of this, there are also political frictions unsettingling Ukraine as it seeks aid from Washington and a global race to tackle AI’s harms. Additionally, legislation to send military aid to Ukraine and Israel is on the brink of collapse with a test vote slated in the Senate soon. Meanwhile, Styles Magazine has featured its 71 most stylish “people” of 2023 and there are allegations that a private police training company encouraged unconstitutional tactics in New Jersey.</p>
 <ol>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Nations Are Losing a Global Race to Tackle A.I.’s Harms</h3>
-<sub>By Adam Satariano and Cecilia Kang</sub>
-<p>Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>House-to-House Gunfights in Gaza, and Chaos on Capitol Hill</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza War Widens Gap Between Arab Rulers and Citizens</h3>
 <sub>By Vivian Nereim</sub>
@@ -92,46 +80,58 @@ There&#39;s a lot going on around the world right now. There&#39;s a race betwee
 <p>The district opposes the event, and some Jewish groups raised concerns about what they saw as bias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>House-to-House Gunfights in Gaza, and Chaos on Capitol Hill</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Norman Lear, Whose Comedies Changed the Face of TV, Is Dead at 101</h3>
+<sub>By Richard Severo and Peter Keepnews</sub>
+<p>As the producer of “All in the Family” and many other shows, Mr. Lear showed that it was possible to be topical, funny and immensely popular.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Norman Lear, TV’s Greatest American</h3>
+<sub>By James Poniewozik</sub>
+<p>The “All in the Family” producer made sitcoms into a form of patriotic dissent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Stream These 6 Great Norman Lear Shows</h3>
+<sub>By Noel Murray</sub>
+<p>Beginning with “All in the Family,” Lear filled the airwaves throughout the 1970s with popular, critically acclaimed shows about families from varied ethnic and economic backgrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Nations Are Losing a Global Race to Tackle A.I.’s Harms</h3>
+<sub>By Adam Satariano and Cecilia Kang</sub>
+<p>Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
 <sub>By Karoun Demirjian and Marc Santora</sub>
 <p>Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Political Frictions Unsettle Ukraine as It Seeks More Military Support</h3>
+<sub>By Carlotta Gall</sub>
+<p>Tensions between Ukrainian leaders, including between President Volodymyr Zelensky and his military chief, come as the country seeks emergency aid from Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Styles’s 71 Most Stylish ‘People’ of 2023</h3>
 <sub>By The Styles Desk</sub>
-<p>OK, some might be more Styles-ish than stylish. But all commanded attention this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Megyn Kelly Returns to the Debate Spotlight, This Time on NewsNation</h3>
-<sub>By Michael M. Grynbaum</sub>
-<p>Wednesday’s Trump-less debate is a breakthrough moment for a fledgling cable network — and a comeback of sorts for Ms. Kelly, a former Fox News star.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Trump Administration Will ‘Come After’ the Media, Says Kash Patel</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
-<p>Donald Trump, who has already promised to use the Justice Department to “go after” his political adversaries, is expected to install Mr. Patel in a senior role if he returns to power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Football Aside, Alabama Is at the Center of This Week’s Big Debate</h3>
-<sub>By Emily Cochrane</sub>
-<p>Republican presidential candidates will gather in Tuscaloosa on Wednesday, at a moment when the state’s politics have new resonance on the national stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Years After Monsanto Deal, Bayer’s Roundup Bills Keep Piling Up</h3>
-<sub>By Maureen Farrell</sub>
-<p>Juries recently awarded plaintiffs more than $2 billion in damages tied to Roundup, the weedkiller that has been linked to cancer. Bayer is fighting back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>OK, some weren’t people, but they all made us talk: about what we wear, how we live and how we express ourselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Bowman Is Latest House Democrat to Face a Primary Over Israel Stance</h3>
-<sub>By Nicholas Fandos</sub>
-<p>George Latimer, the Westchester County executive, told The New York Times he would run against Mr. Bowman, a rising star of the Democratic left, next year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Police Trainers Used Sexist Language and Glorified Violence, Videos Show</h3>
+<sub>By Tracey Tully</sub>
+<p>Street Cop Training, a private police training company, encouraged the use of unconstitutional tactics, a report by New Jersey’s comptroller says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
