@@ -60,16 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, Republican Senator Tuberville has agreed to lift a blockade on the promotion of most military personnel after pressure from both parties. There&#39;s also a vote being planned on an impeachment inquiry that is expected to have unanimous Republican support. The US is also denying visas to violent Israeli settlers and some West Bank Palestinians in response to rising acts of violence there.
-
-In China, President Xi Jinping has tightened control of finance with a new ideological framework that places primacy of his leadership and Marxist principles. Former US Ambassador Nikki Haley is getting criticism for her role in the Trump administration, but is now receiving support from top Democratic donor Reid Hoffman who has devoted $250,000 to a super PAC. Liz Cheney, who was formerly in Congress, is rumored to possibly run for president in 2024 with the aim of preventing Trump from returning to office. 
-
-Meanwhile, federal prosecutors are preparing to use Trump&#39;s trial on charges relating to overturning the 2020 election to demonstrate his long-term pattern of making baseless threats and claims. There has been an A.I. arms race in Silicon Valley which was triggered by ChatGPT&#39;s release last year, while at the Supreme Court Justices appeared skeptical of a challenge to a tax provision from the Trump-era. Ultimately this could lead to changes in the US tax code if they rule against it. Additionally, there&#39;s an interesting story about podcasters involved in an investigation into a murder case involving a victim&#39;s family and how it highlighted emotional minefields for them.</p>
+There seems to be a lot of happenings in the political world right now. The Senate has been trying to figure out a way to provide aid to Ukraine and Israel, while President Biden is pushing for greater consideration of civilian casualties in Gaza as a result of conflict between the Israelis and Hamas. On Capitol Hill, there&#39;s been a bit of tension between Republicans and Democrats on federal military promotions and an impeachment inquiry. President Biden even recently claimed he isn&#39;t certain he would have run for election if Donald Trump had not been in office. Meanwhile, Nikki Haley continues to oscillate between backing and challenging President Trump, with speculation about her considering a presidential run in 2024 emerging. Lastly, some universities have been put under scrutiny for their handling of antisemitism and Islamophobia in their communities ever since the Hamas attack on Israel. In the Supreme Court, there&#39;s been some challenging legal cases primarily related to taxes that have come up in recent days.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tuberville Says He Will Drop Blockade of Most Military Promotions</h3>
+<h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
+<sub>By Karoun Demirjian and Marc Santora</sub>
+<p>Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden’s Strategy Faces a Test as Israeli Forces Push Into Southern Gaza</h3>
+<sub>By Peter Baker</sub>
+<p>While the president has backed Israel’s right to defend itself since the Hamas terrorist attack, his team has increased the pressure to minimize civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tuberville Drops Blockade of Most Military Promotions</h3>
 <sub>By Catie Edmondson</sub>
-<p>Under pressure from senators in both parties, the Alabama Republican said he would allow more than 400 promotions to move forward, continuing to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Under pressure from senators in both parties, the Alabama Republican allowed more than 400 promotions to move forward, saying he would continue to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,27 +87,15 @@ Meanwhile, federal prosecutors are preparing to use Trump&#39;s trial on charges
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. to Deny Visas to Violent Israeli Settlers and Some West Bank Palestinians</h3>
-<sub>By Michael Crowley</sub>
-<p>As acts of violence spike in the Israeli-occupied West Bank, American officials say they will take action against people “believed to have been involved in undermining peace.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Xi Jinping Is Asserting Tighter Control of Finance in China</h3>
-<sub>By Keith Bradsher and Joy Dong</sub>
-<p>The Communist Party’s main theoretical journal has laid out a new ideological framework for the financial system that emphasizes the primacy of China’s top leader and Marxist principles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden Says ‘I’m Not Sure I’d Be Running’ if Not for Trump</h3>
+<sub>By Peter Baker</sub>
+<p>President Biden has portrayed a second term for Donald Trump as an existential threat to American democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Nikki Haley’s Path From Trump Critic to Defender and Back</h3>
 <sub>By Sharon LaFraniere</sub>
 <p>As ambassador to the United Nations, Ms. Haley strove to stay in the president’s favor and avoided some battles to change his mind on contentious issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Top Democratic Donor, Reid Hoffman, Gives $250,000 to a Nikki Haley Super PAC</h3>
-<sub>By Shane Goldmacher</sub>
-<p>Mr. Hoffman, the co-founder of LinkedIn, has funded an array of anti-Trump candidates and causes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -114,28 +110,28 @@ Meanwhile, federal prosecutors are preparing to use Trump&#39;s trial on charges
 <p>In a court filing, federal prosecutors laid out plans to use the former president’s trial on charges of trying to overturn the 2020 election to show a yearslong history of using lies and intimidation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside the A.I. Arms Race That Changed Silicon Valley Forever</h3>
-<sub>By Karen Weise, Cade Metz, Nico Grant and Mike Isaac</sub>
-<p>ChatGPT’s release a year ago triggered a desperate scramble among tech companies and alarm from some of the people who helped invent it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Podcasters Took Up Her Sister’s Murder Investigation. Then They Turned on Her.</h3>
+<sub>By Sarah Viren</sub>
+<p>‘True crime’ has become a big business — and an emotional minefield for victims’ families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jewish American Families Confront a Generational Divide Over Israel</h3>
+<sub>By Emma Goldberg and Marc Tracy</sub>
+<p>Gen Z and young Millennials often see Israel as an occupying power oppressing Palestinians — a shock to their parents and grandparents, who tend to see it as an essential haven fighting for survival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard, M.I.T. and Penn Say They Are Acting Against Antisemitism, in Congressional Testimony</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>They acknowledged that there was antisemitic, and also Islamophobic, behavior on their campuses since the Hamas attack on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justices Seem Skeptical of Challenge to Trump-Era Tax Provision</h3>
 <sub>By Abbie VanSickle</sub>
 <p>The Supreme Court’s liberal wing and more moderate conservatives seemed to be searching for a way toward a limited ruling on a tax law that affects foreign profits of American companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Legal Fight Over a $15,000 Tax Bill Could Upend the U.S. Tax Code</h3>
-<sub>By Alan Rappeport</sub>
-<p>The Supreme Court ruling in the Moore case could cost the federal government billions of dollars in lost tax revenue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Podcasters Took Up Her Sister’s Murder Investigation. Then They Turned on Her.</h3>
-<sub>By Sarah Viren</sub>
-<p>‘True crime’ has become a big business — and an emotional minefield for victims’ families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
