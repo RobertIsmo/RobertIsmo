@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-I have some news about a few things going on in the world recently. In the US, Representative Kevin McCarthy announced that he would be leaving Congress at the end of the year, and President Biden has called on Congress to approve aid to Ukraine before the end of the year. Over in Europe, Ukrainian leaders are facing political frictions, while Russian President Vladimir Putin has visited the Middle East. Meanwhile, in Gaza, people are living in fear due to an ongoing conflict between Israel and Hamas. On a lighter note, we lost Norman Lear, a legendary comedy producer who brought us shows like “All In The Family” and changed the face of television. Finally, countries around the world are trying to figure out how best to respond to artificial intelligence and its risks.</p>
+There&#39;s been a lot happening in the US and around the world lately. In the US, Representative Kevin McCarthy said he would leave Congress at the end of the year after being ousted as speaker. There&#39;s also been an effort to hold Hunter Biden accountable with a contempt charge, but the G.O.P chairmen have refused to allow him to testify publicly. There has also been backlash to the president of University of Pennsylvania Elizabeth Magill over her remarks at a congressional hearing about antisemitism on campuses.
+
+Around the world, people in Gaza have been living in fear due to Israel airstrikes targeting Rafah, where Israel had encouraged Gazans to seek safety. In response, President Biden called on Congress to approve aid for Ukraine before funds run out by the end of year. There are also charges against 4 Russian soldiers for war crimes against an American, as well as an investigation into Hamas fighters’ attack in Israel that killed more than 30 Americans.
+
+In other news, television producer Norman Lear, who changed the face of TV with his comedies, recently passed away at 101 years old. The White House also delayed a decision on banning menthol cigarettes due to mounting opposition from tobacco companies, Black activists, and small businesses as President Biden enters into an election year. Lastly, nations have been trying to tackle A.I.&#39;s harms by responding to rapid technological advances with policies and deciding how A.I. should or could be regulated.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Says He Will Leave Congress at the End of the Year</h3>
@@ -68,10 +72,34 @@ I have some news about a few things going on in the world recently. In the US, R
 <p>About two months after being ousted as speaker, Representative Kevin McCarthy said he would exit the House a year early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans Threaten Hunter Biden With Contempt Charge</h3>
+<sub>By Luke Broadwater</sub>
+<p>President Biden’s son has declined to testify in private but volunteered to do so in a public hearing with House panels leading the impeachment inquiry against his father. The G.O.P. chairmen have refused.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Donors and Alumni Demand That Penn’s President Resign Over Remarks at Hearing</h3>
+<sub>By Stephanie Saul and Anemona Hartocollis</sub>
+<p>At a congressional hearing about antisemitism on campuses, Elizabeth Magill, head of the University of Pennsylvania, appeared to evade questions about whether calling for the genocide of Jews violated Penn’s code of conduct.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>“We sleep fearing we might be dead”</h3>
+<sub>By Jeremy White, Malika Khurana, Lauren Leatherby and Karen Yourish</sub>
+<p>60 days of life in the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Bowman Is Latest House Democrat to Face a Primary Over Israel Stance</h3>
-<sub>By Nicholas Fandos</sub>
-<p>George Latimer, the Westchester County executive, told The New York Times he would run against Jamaal Bowman, a rising star of the Democratic left, next year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>An airstrike hits Rafah, where Israel had urged Gazans to seek safety.</h3>
+<sub>By Liam Stack</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ukraine Aid Bill Heads for Collapse in Senate as Biden Makes Final Plea</h3>
+<sub>By Karoun Demirjian</sub>
+<p>President Biden and Democrats in Congress appealed for Republicans to allow the emergency spending bill to advance, but the G.O.P. dug in, demanding strict border provisions be added.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,46 +114,16 @@ I have some news about a few things going on in the world recently. In the US, R
 <p>The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Political Frictions Unsettle Ukraine as It Seeks More Military Support</h3>
-<sub>By Carlotta Gall</sub>
-<p>Tensions between Ukrainian leaders, including between President Volodymyr Zelensky and his military chief, come as the country seeks emergency aid from Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Makes Rare Visit to Mideast</h3>
-<sub>By Vivian Nereim and Ivan Nechepurenko</sub>
-<p>President Vladimir V. Putin of Russia stopped first in the United Arab Emirates and went on to Saudi Arabia. He said the Israel-Hamas war will figure prominently in his discussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>“We sleep fearing we might be dead”</h3>
-<sub>By Jeremy White, Malika Khurana, Lauren Leatherby and Karen Yourish</sub>
-<p>60 days of life in the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Releases Rare Picture of Hamas Commanders in Gaza</h3>
-<sub>By Adam Goldman</sub>
-<p>The picture  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Norman Lear, Whose Comedies Changed the Face of TV, Is Dead at 101</h3>
 <sub>By Richard Severo and Peter Keepnews</sub>
 <p>As the producer of “All in the Family” and many other shows, Mr. Lear showed that it was possible to be topical, funny and immensely popular.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Norman Lear, TV’s Greatest American</h3>
-<sub>By James Poniewozik</sub>
-<p>The “All in the Family” producer made sitcoms into a form of patriotic dissent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Stream These 6 Great Norman Lear Shows</h3>
-<sub>By Noel Murray</sub>
-<p>Beginning with “All in the Family,” Lear filled the airwaves throughout the 1970s with popular, critically acclaimed shows about families from varied ethnic and economic backgrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>White House Delays a Decision on Banning Menthol Cigarettes</h3>
+<sub>By Christina Jewett, Sheryl Gay Stolberg and David A. Fahrenthold</sub>
+<p>The proposal has elicited mounting opposition from tobacco companies, Black activists worried about police enforcement and small businesses, as President Biden moves into an election year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -133,6 +131,12 @@ I have some news about a few things going on in the world recently. In the US, R
 <sub>By Adam Satariano and Cecilia Kang</sub>
 <p>Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Five Ways A.I. Could Be Regulated</h3>
+<sub>By Cecilia Kang and Adam Satariano</sub>
+<p>There is little agreement among regulators and lawmakers around the world on how artificial intelligence should — or even could — be controlled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
