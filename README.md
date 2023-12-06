@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, December 5, Central Standard Time</p>
+<p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-There are currently a lot of political issues taking hold. In the U.S., President Biden is facing a test as Israeli forces push into southern Gaza and he&#39;s spoken out against a second term for Donald Trump. Legislation to send military aid to Ukraine and Israel is on the brink of collapse because of a disagreement on border restrictions. Republican leaders are also putting Harvard, M.I.T., and Penn on the defensive about anti-Semitism in congressional hearings. Meanwhile, Republican Senator Tuberville has dropped his blockade on most military promotions after pressure from senators in both parties. On top of that, true crime podcasts have become a big business with complicated implications for victims&#39; families, George Santos has been using Cameo videos to make an honest buck, and the Supreme Court is making decisions about a Trump-era tax provision.</p>
+There is a lot going on in the world right now. In the US, there is turmoil over legislation to send military aid to Ukraine and Israel. This follows President Biden&#39;s commitments to support both countries while increasing pressure to protect civilian casualties in the Middle East. Meanwhile, Donald Trump has promised &#39;retribution&#39; if he is re-elected president. In other news, Republican Senators have tried to put Harvard, M.I.T., and Penn on the defensive about alleged antisemitism, and Jewish-American families are encountering a generational divide over their views of Israel. Finally, there are some positive stories such as comedian Jim Gaffigan’s success this year and a secret meeting that led to former Congressman Tom Suozzi&#39;s return, plus George Santos’ novel way of making money on Cameo Videos!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
@@ -87,15 +87,15 @@ There are currently a lot of political issues taking hold. In the U.S., Presiden
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Deflects Questions on Retribution and Law-Breaking at Town Hall</h3>
+<sub>By Michael Gold</sub>
+<p>Pressed by Sean Hannity to promise not to abuse power, Donald Trump agreed he wouldn’t, “other than Day 1,” adding: “We’re closing the border. And we’re drilling, drilling, drilling. After that, I’m not a dictator.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Tuberville Drops Blockade of Most Military Promotions</h3>
 <sub>By Catie Edmondson</sub>
 <p>Under pressure from senators in both parties, the Alabama Republican allowed more than 400 promotions to move forward, saying he would continue to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Podcasters Took Up Her Sister’s Murder Investigation. Then They Turned on Her.</h3>
-<sub>By Sarah Viren</sub>
-<p>‘True crime’ has become a big business — and an emotional minefield for victims’ families.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
