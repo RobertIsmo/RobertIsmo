@@ -60,30 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Gaza, war is widening the gap between the ruling authorities and citizens. There is also growing pressure in Bahrain for their recently established ties to Israel to be cut. In response, Biden has backed Israel’s right to defend itself since the Hamas terrorist attack, but his team has increased pressure to minimize civilian casualties in Gaza. Recently, some educators in Oakland have planned an unauthorized teach-in supporting Palestinians which has raised concern from certain Jewish groups. On top of this, there are also political frictions unsettingling Ukraine as it seeks aid from Washington and a global race to tackle AI’s harms. Additionally, legislation to send military aid to Ukraine and Israel is on the brink of collapse with a test vote slated in the Senate soon. Meanwhile, Styles Magazine has featured its 71 most stylish “people” of 2023 and there are allegations that a private police training company encouraged unconstitutional tactics in New Jersey.</p>
+I have some news about a few things going on in the world recently. In the US, Representative Kevin McCarthy announced that he would be leaving Congress at the end of the year, and President Biden has called on Congress to approve aid to Ukraine before the end of the year. Over in Europe, Ukrainian leaders are facing political frictions, while Russian President Vladimir Putin has visited the Middle East. Meanwhile, in Gaza, people are living in fear due to an ongoing conflict between Israel and Hamas. On a lighter note, we lost Norman Lear, a legendary comedy producer who brought us shows like “All In The Family” and changed the face of television. Finally, countries around the world are trying to figure out how best to respond to artificial intelligence and its risks.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza War Widens Gap Between Arab Rulers and Citizens</h3>
-<sub>By Vivian Nereim</sub>
-<p>Bahrain, a small Gulf monarchy, faces growing pressure from citizens to cut its recently established ties with Israel — a microcosm of the tensions spreading across the Mideast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McCarthy Says He Will Leave Congress at the End of the Year</h3>
+<sub>By Annie Karni</sub>
+<p>About two months after being ousted as speaker, Representative Kevin McCarthy said he would exit the House a year early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Bowman Is Latest House Democrat to Face a Primary Over Israel Stance</h3>
+<sub>By Nicholas Fandos</sub>
+<p>George Latimer, the Westchester County executive, told The New York Times he would run against Jamaal Bowman, a rising star of the Democratic left, next year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Strategy Faces a Test as Israeli Forces Push Into Southern Gaza</h3>
+<h3>Biden Calls on Congress to Approve Aid to Ukraine: ‘This Cannot Wait’</h3>
 <sub>By Peter Baker</sub>
-<p>While the president has backed Israel’s right to defend itself since the Hamas terrorist attack, his team has increased the pressure to minimize civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The administration has already alerted Congress that money for Ukraine will run out by the end of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Charges 4 Russian Soldiers With War Crimes Against an American</h3>
+<sub>By Glenn Thrush</sub>
+<p>The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Political Frictions Unsettle Ukraine as It Seeks More Military Support</h3>
+<sub>By Carlotta Gall</sub>
+<p>Tensions between Ukrainian leaders, including between President Volodymyr Zelensky and his military chief, come as the country seeks emergency aid from Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Makes Rare Visit to Mideast</h3>
+<sub>By Vivian Nereim and Ivan Nechepurenko</sub>
+<p>President Vladimir V. Putin of Russia stopped first in the United Arab Emirates and went on to Saudi Arabia. He said the Israel-Hamas war will figure prominently in his discussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>“We sleep fearing we might be dead”</h3>
+<sub>By Jeremy White, Malika Khurana, Lauren Leatherby and Karen Yourish</sub>
+<p>60 days of life in the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oakland Educators Plan Unauthorized Teach-in Supporting Palestinians</h3>
-<sub>By Dana Goldstein</sub>
-<p>The district opposes the event, and some Jewish groups raised concerns about what they saw as bias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>House-to-House Gunfights in Gaza, and Chaos on Capitol Hill</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Releases Rare Picture of Hamas Commanders in Gaza</h3>
+<sub>By Adam Goldman</sub>
+<p>The picture  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -109,30 +133,6 @@ There is a lot going on in the world right now. In Gaza, war is widening the gap
 <sub>By Adam Satariano and Cecilia Kang</sub>
 <p>Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
-<sub>By Karoun Demirjian and Marc Santora</sub>
-<p>Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Political Frictions Unsettle Ukraine as It Seeks More Military Support</h3>
-<sub>By Carlotta Gall</sub>
-<p>Tensions between Ukrainian leaders, including between President Volodymyr Zelensky and his military chief, come as the country seeks emergency aid from Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Styles’s 71 Most Stylish ‘People’ of 2023</h3>
-<sub>By The Styles Desk</sub>
-<p>OK, some weren’t people, but they all made us talk: about what we wear, how we live and how we express ourselves.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Police Trainers Used Sexist Language and Glorified Violence, Videos Show</h3>
-<sub>By Tracey Tully</sub>
-<p>Street Cop Training, a private police training company, encouraged the use of unconstitutional tactics, a report by New Jersey’s comptroller says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
