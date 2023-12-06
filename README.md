@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 5, Central Standard Time</p>
 <p>
-There seems to be a lot of happenings in the political world right now. The Senate has been trying to figure out a way to provide aid to Ukraine and Israel, while President Biden is pushing for greater consideration of civilian casualties in Gaza as a result of conflict between the Israelis and Hamas. On Capitol Hill, there&#39;s been a bit of tension between Republicans and Democrats on federal military promotions and an impeachment inquiry. President Biden even recently claimed he isn&#39;t certain he would have run for election if Donald Trump had not been in office. Meanwhile, Nikki Haley continues to oscillate between backing and challenging President Trump, with speculation about her considering a presidential run in 2024 emerging. Lastly, some universities have been put under scrutiny for their handling of antisemitism and Islamophobia in their communities ever since the Hamas attack on Israel. In the Supreme Court, there&#39;s been some challenging legal cases primarily related to taxes that have come up in recent days.</p>
+There are currently a lot of political issues taking hold. In the U.S., President Biden is facing a test as Israeli forces push into southern Gaza and he&#39;s spoken out against a second term for Donald Trump. Legislation to send military aid to Ukraine and Israel is on the brink of collapse because of a disagreement on border restrictions. Republican leaders are also putting Harvard, M.I.T., and Penn on the defensive about anti-Semitism in congressional hearings. Meanwhile, Republican Senator Tuberville has dropped his blockade on most military promotions after pressure from senators in both parties. On top of that, true crime podcasts have become a big business with complicated implications for victims&#39; families, George Santos has been using Cameo videos to make an honest buck, and the Supreme Court is making decisions about a Trump-era tax provision.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
@@ -75,39 +75,21 @@ There seems to be a lot of happenings in the political world right now. The Sena
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tuberville Drops Blockade of Most Military Promotions</h3>
-<sub>By Catie Edmondson</sub>
-<p>Under pressure from senators in both parties, the Alabama Republican allowed more than 400 promotions to move forward, saying he would continue to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Plans Vote on Impeachment Inquiry, Predicting Unanimous G.O.P. Support</h3>
-<sub>By Luke Broadwater</sub>
-<p>The speaker said he would move forward with a vote that Republicans have long avoided for fear that some in their ranks would refuse to endorse an investigation without incriminating evidence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Says ‘I’m Not Sure I’d Be Running’ if Not for Trump</h3>
 <sub>By Peter Baker</sub>
 <p>President Biden has portrayed a second term for Donald Trump as an existential threat to American democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley’s Path From Trump Critic to Defender and Back</h3>
-<sub>By Sharon LaFraniere</sub>
-<p>As ambassador to the United Nations, Ms. Haley strove to stay in the president’s favor and avoided some battles to change his mind on contentious issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A New Trump Administration Will ‘Come After’ the Media, Says Kash Patel</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
+<p>Donald Trump, who has already promised to use the Justice Department to “go after” his political adversaries, is expected to install Mr. Patel in a senior role if he returns to power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Liz Cheney Really Thinking About Running for President in 2024?</h3>
-<sub>By Robert Draper</sub>
-<p>The former congresswoman is working to ensure that Donald Trump never returns to the Oval Office. She is also keeping her own door wide open.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Intend to Show Long Pattern of Threats and Baseless Claims by Trump</h3>
-<sub>By Alan Feuer</sub>
-<p>In a court filing, federal prosecutors laid out plans to use the former president’s trial on charges of trying to overturn the 2020 election to show a yearslong history of using lies and intimidation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tuberville Drops Blockade of Most Military Promotions</h3>
+<sub>By Catie Edmondson</sub>
+<p>Under pressure from senators in both parties, the Alabama Republican allowed more than 400 promotions to move forward, saying he would continue to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -117,15 +99,33 @@ There seems to be a lot of happenings in the political world right now. The Sena
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Try to Put Harvard, M.I.T. and Penn on the Defensive About Antisemitism</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>In a congressional hearing, the presidents of the universities parried accusations that their institutions had tolerated bias against Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jewish American Families Confront a Generational Divide Over Israel</h3>
 <sub>By Emma Goldberg and Marc Tracy</sub>
 <p>Gen Z and young Millennials often see Israel as an occupying power oppressing Palestinians — a shock to their parents and grandparents, who tend to see it as an essential haven fighting for survival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Inside the Secret Meeting That Cleared the Way for Tom Suozzi’s Return</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Gov. Kathy Hochul had been toying with blocking the former congressman’s nomination for the crucial special election to replace George Santos. Then a phone call came.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard, M.I.T. and Penn Say They Are Acting Against Antisemitism, in Congressional Testimony</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>They acknowledged that there was antisemitic, and also Islamophobic, behavior on their campuses since the Hamas attack on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>George Santos Uses Cameo Videos to Make, of All Things, an Honest Buck</h3>
+<sub>By Michael Gold</sub>
+<p>On the video app, a familiar face delivers kind greetings for paying customers, and advice for “Bobby from Jersey” about dealing with “haters.” Bowen Yang he is not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Best Comedy of 2023</h3>
+<sub>By Jason Zinoman</sub>
+<p>It’s time to stop taking Jim Gaffigan for granted, and more surprising takeaways from specials, stand-up sets and other funny moments this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
