@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-A lot is happening in the world right now. In the US, the Senate is debating legislation on military aid to Ukraine and Israel. Biden&#39;s strategy on dealing with Israeli forces in Gaza is also being tested. Meanwhile, a House resolution that declares anti-Zionism as antisemitism has divided Democrats. On the campaign trail, Biden says he wouldn&#39;t have run for a second term if he weren&#39;t running against Trump. Trump and his team might use more power if they are returned to power, and Tuberville is letting most military promotions move forward despite originally blocking them. There&#39;s also Republican pushback against Harvard, MIT, and Penn over antisemitism on campus. Jewish American families have had to confront a divide between generations when it comes to their views about Israel. Gov. Hochul had a secret meeting with Tom Suozzi that cleared the way for his return and George Santos is making money off of Cameo videos.</p>
+There&#39;s a lot going on around the world right now. There&#39;s a race between nations to figure out how to properly use artificial intelligence and ensure its effects aren&#39;t too harmful. There&#39;s chaos in Gaza with house-to-house gunfights, and similar tensions are spreading throughout the Middle East. Biden has been pushing for Israel to minimize civilian casualties in the region, while Oakland educators plan a teach-in supporting Palestinians. In the U.S., Ukraine military aid is in jeopardy due to a disagreement between Republicans in the Senate, and Megyn Kelly is planning a comeback on a cable network. Meanwhile there&#39;s debate about Alabama&#39;s politics at the national stage, Bayer is facing huge legal bills related to Roundup weedkiller, and now a New York Democrat is up for reelection due to his stance on Israel.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
-<sub>By Karoun Demirjian and Marc Santora</sub>
-<p>Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Nations Are Losing a Global Race to Tackle A.I.’s Harms</h3>
+<sub>By Adam Satariano and Cecilia Kang</sub>
+<p>Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>House-to-House Gunfights in Gaza, and Chaos on Capitol Hill</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza War Widens Gap Between Arab Rulers and Citizens</h3>
+<sub>By Vivian Nereim</sub>
+<p>Bahrain, a small Gulf monarchy, faces growing pressure from citizens to cut its recently established ties with Israel — a microcosm of the tensions spreading across the Mideast.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Strategy Faces a Test as Israeli Forces Push Into Southern Gaza</h3>
@@ -74,23 +86,29 @@ A lot is happening in the world right now. In the US, the Senate is debating leg
 <p>While the president has backed Israel’s right to defend itself since the Hamas terrorist attack, his team has increased the pressure to minimize civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Arab Citizens of Israel Released in Deals With Hamas Fear a Backlash</h3>
-<sub>By Ben Hubbard and Natan Odenheimer</sub>
-<p>Almost all the 15 Israeli-Arab women freed in the swaps were released against their will. One was expelled from a university and others fear they could be attacked by those who link them to Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>House Declares Anti-Zionism Is Antisemitism, Dividing Democrats</h3>
-<sub>By Karoun Demirjian</sub>
-<p>More than half of House Democrats declined to back the Republican-written resolution, as some argued that equating criticism of the state of Israel with hatred of the Jewish people went too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oakland Educators Plan Unauthorized Teach-in Supporting Palestinians</h3>
+<sub>By Dana Goldstein</sub>
+<p>The district opposes the event, and some Jewish groups raised concerns about what they saw as bias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says ‘I’m Not Sure I’d Be Running’ if Not for Trump</h3>
-<sub>By Peter Baker</sub>
-<p>President Biden has portrayed a second term for Donald Trump as an existential threat to American democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
+<sub>By Karoun Demirjian and Marc Santora</sub>
+<p>Legislation to send military aid to Ukraine and Israel was on the brink of collapse, after a briefing devolved into a screaming match one day before a critical test vote in the Senate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Styles’s 71 Most Stylish ‘People’ of 2023</h3>
+<sub>By The Styles Desk</sub>
+<p>OK, some might be more Styles-ish than stylish. But all commanded attention this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Megyn Kelly Returns to the Debate Spotlight, This Time on NewsNation</h3>
+<sub>By Michael M. Grynbaum</sub>
+<p>Wednesday’s Trump-less debate is a breakthrough moment for a fledgling cable network — and a comeback of sorts for Ms. Kelly, a former Fox News star.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A New Trump Administration Will ‘Come After’ the Media, Says Kash Patel</h3>
@@ -99,40 +117,22 @@ A lot is happening in the world right now. In the US, the Senate is debating leg
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Deflects Questions on Retribution and Law-Breaking at Town Hall</h3>
-<sub>By Michael Gold</sub>
-<p>Pressed by Sean Hannity to promise not to abuse power, Donald Trump agreed he wouldn’t, “other than Day 1,” adding: “We’re closing the border. And we’re drilling, drilling, drilling. After that, I’m not a dictator.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<h3>Football Aside, Alabama Is at the Center of This Week’s Big Debate</h3>
+<sub>By Emily Cochrane</sub>
+<p>Republican presidential candidates will gather in Tuscaloosa on Wednesday, at a moment when the state’s politics have new resonance on the national stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tuberville Drops Blockade of Most Military Promotions</h3>
-<sub>By Catie Edmondson</sub>
-<p>Under pressure from senators in both parties, the Alabama Republican allowed more than 400 promotions to move forward, saying he would continue to block only the most senior positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Try to Put Harvard, M.I.T. and Penn on the Defensive About Antisemitism</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>In a congressional hearing, the presidents of the universities parried accusations that their institutions had tolerated bias against Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jewish American Families Confront a Generational Divide Over Israel</h3>
-<sub>By Emma Goldberg and Marc Tracy</sub>
-<p>Gen Z and young Millennials often see Israel as an occupying power oppressing Palestinians — a shock to their parents and grandparents, who tend to see it as an essential haven fighting for survival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Years After Monsanto Deal, Bayer’s Roundup Bills Keep Piling Up</h3>
+<sub>By Maureen Farrell</sub>
+<p>Juries recently awarded plaintiffs more than $2 billion in damages tied to Roundup, the weedkiller that has been linked to cancer. Bayer is fighting back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Inside the Secret Meeting That Cleared the Way for Tom Suozzi’s Return</h3>
+<h3>Bowman Is Latest House Democrat to Face a Primary Over Israel Stance</h3>
 <sub>By Nicholas Fandos</sub>
-<p>Gov. Kathy Hochul had been toying with blocking the former congressman’s nomination for the crucial special election to replace George Santos. Then a phone call came.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>George Santos Uses Cameo Videos to Make, of All Things, an Honest Buck</h3>
-<sub>By Michael Gold</sub>
-<p>On the video app, a familiar face delivers kind greetings for paying customers, and advice for “Bobby from Jersey” about dealing with “haters.” Bowen Yang he is not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<p>George Latimer, the Westchester County executive, told The New York Times he would run against Mr. Bowman, a rising star of the Democratic left, next year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
