@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, there is turmoil over legislation to send military aid to Ukraine and Israel. This follows President Biden&#39;s commitments to support both countries while increasing pressure to protect civilian casualties in the Middle East. Meanwhile, Donald Trump has promised &#39;retribution&#39; if he is re-elected president. In other news, Republican Senators have tried to put Harvard, M.I.T., and Penn on the defensive about alleged antisemitism, and Jewish-American families are encountering a generational divide over their views of Israel. Finally, there are some positive stories such as comedian Jim Gaffigan’s success this year and a secret meeting that led to former Congressman Tom Suozzi&#39;s return, plus George Santos’ novel way of making money on Cameo Videos!</p>
+A lot is happening in the world right now. In the US, the Senate is debating legislation on military aid to Ukraine and Israel. Biden&#39;s strategy on dealing with Israeli forces in Gaza is also being tested. Meanwhile, a House resolution that declares anti-Zionism as antisemitism has divided Democrats. On the campaign trail, Biden says he wouldn&#39;t have run for a second term if he weren&#39;t running against Trump. Trump and his team might use more power if they are returned to power, and Tuberville is letting most military promotions move forward despite originally blocking them. There&#39;s also Republican pushback against Harvard, MIT, and Penn over antisemitism on campus. Jewish American families have had to confront a divide between generations when it comes to their views about Israel. Gov. Hochul had a secret meeting with Tom Suozzi that cleared the way for his return and George Santos is making money off of Cameo videos.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ukraine Aid Falters in Senate as Republicans Insist on Border Restrictions</h3>
@@ -72,6 +72,18 @@ There is a lot going on in the world right now. In the US, there is turmoil over
 <h3>Biden’s Strategy Faces a Test as Israeli Forces Push Into Southern Gaza</h3>
 <sub>By Peter Baker</sub>
 <p>While the president has backed Israel’s right to defend itself since the Hamas terrorist attack, his team has increased the pressure to minimize civilian casualties in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Arab Citizens of Israel Released in Deals With Hamas Fear a Backlash</h3>
+<sub>By Ben Hubbard and Natan Odenheimer</sub>
+<p>Almost all the 15 Israeli-Arab women freed in the swaps were released against their will. One was expelled from a university and others fear they could be attacked by those who link them to Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>House Declares Anti-Zionism Is Antisemitism, Dividing Democrats</h3>
+<sub>By Karoun Demirjian</sub>
+<p>More than half of House Democrats declined to back the Republican-written resolution, as some argued that equating criticism of the state of Israel with hatred of the Jewish people went too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot going on in the world right now. In the US, there is turmoil over
 <h3>George Santos Uses Cameo Videos to Make, of All Things, an Honest Buck</h3>
 <sub>By Michael Gold</sub>
 <p>On the video app, a familiar face delivers kind greetings for paying customers, and advice for “Bobby from Jersey” about dealing with “haters.” Bowen Yang he is not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Best Comedy of 2023</h3>
-<sub>By Jason Zinoman</sub>
-<p>It’s time to stop taking Jim Gaffigan for granted, and more surprising takeaways from specials, stand-up sets and other funny moments this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices Seem Skeptical of Challenge to Trump-Era Tax Provision</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The Supreme Court’s liberal wing and more moderate conservatives seemed to be searching for a way toward a limited ruling on a tax law that affects foreign profits of American companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
