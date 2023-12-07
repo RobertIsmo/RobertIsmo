@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-There&#39;s a lot of political news happening right now, from US-related topics to international events. In Congress, Republicans have blocked aid to Ukraine even as the country fights against Russia. In the US, four Russian soldiers have been charged with war crimes against an American and the Justice Department is investigating the murder of more than 30 Americans by Hamas fighters during an attack in Israel. Kevin McCarthy announced he would leave Congress at the end of the year and House Republicans are threatening Hunter Biden with contempt charges over his refusal to testify in private, though he&#39;s offered to do so in public. There&#39;s also controversy surrounding college presidents who dodged questions about antisemitism and an unauthorized teach-in supporting Palestinians held by educators in Oakland. On top of that, an airstrike hit Rafah after Israel had urged Gazans to seek safety there and TV industry giant Norman Lear passed away at 101 years old. Finally, there&#39;s a fourth Republican debate happening on Wednesday and there&#39;s a heated race between Haley and DeSantis for No. 2.</p>
+Recently, Republicans in Congress blocked aid to Ukraine, putting the country&#39;s fight against Russia in jeopardy. Meanwhile, some Senate Republicans have shown waning support for the effort, contradicting Mitch McConnell&#39;s push to continue providing financial aid. Chris Christie and Vivek Ramaswamy also had a heated argument on the debate stage and Kevin McCarthy said he would be leaving Congress at the end of the year. In addition, House Republicans threatened Hunter Biden with contempt charges when he resisted testifying in private and it appears college presidents are avoiding questions about antisemitism. Looking at overseas news, Israel and Hamas are having a battle for a city in Gaza that has caused an exodus of thousands of people. And finally, a shooter opened fire at University of Nevada, Las Vegas and killed three people. Rest in peace Norman Lear, a producer of iconic sitcoms such as All in the Family who passed away recently; Rob Reiner remembered him as a “real champion of America”. Lastly, the White House has delayed their decision on whether or not to ban menthol cigarettes because they are facing mounting opposition from activists, small businesses, and tobacco companies.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Block Aid to Ukraine, Jeopardizing Its Fight Against Russia</h3>
@@ -75,9 +75,9 @@ There&#39;s a lot of political news happening right now, from US-related topics 
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Charges 4 Russian Soldiers With War Crimes Against an American</h3>
-<sub>By Glenn Thrush</sub>
-<p>The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Christie to Ramaswamy: ‘So Shut Up for a Little While’</h3>
+<sub>By Michael C. Bender</sub>
+<p>Chris Christie and Vivek Ramaswamy clashed in personal terms on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,15 +99,21 @@ There&#39;s a lot of political news happening right now, from US-related topics 
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Oakland Educators Hold Unauthorized Teach-in Supporting Palestinians</h3>
-<sub>By Dana Goldstein</sub>
-<p>The district opposed the event, and some Jewish groups raised concerns about what they saw as bias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>3 Contentious Exchanges at the College Antisemitism Hearing</h3>
+<sub>By The New York Times</sub>
+<p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>An airstrike hits Rafah, where Israel had urged Gazans to seek safety.</h3>
-<sub>By Liam Stack</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel and Hamas Battle for a City in Gaza, Sparking Another Exodus</h3>
+<sub>By Liam Stack, Shashank Bengali and Michael Levenson</sub>
+<p>Thousands of people heeded Israeli orders to flee Khan Younis and nearby areas, but the places they were told to go had little shelter, water or food.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>3 Killed in Shooting at University of Nevada, Las Vegas</h3>
+<sub>By Nicholas Bogel-Burroughs, Jesus Jiménez and Orlando Mayorquin</sub>
+<p>Another victim was in stable condition at the hospital, the authorities said. The gunman died in a shootout with the police.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -122,16 +128,10 @@ There&#39;s a lot of political news happening right now, from US-related topics 
 <p>With “All in the Family,” Lear “tapped into something that nobody had ever done before or even since,” the star of the hit sitcom said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How to Watch the Fourth Republican Debate</h3>
-<sub>By Maggie Astor</sub>
-<p>The debate, hosted by NewsNation and featuring four candidates, will be held on Wednesday from 8 to 10 p.m. Eastern time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Haley and DeSantis Battle on TV as the Race for No. 2 Heats Up</h3>
-<sub>By Rebecca Davis O’Brien</sub>
-<p>With the Iowa caucuses 40 days away, airwaves are filled with Haley vs. DeSantis attack ads, jibes from Vivek Ramaswamy and earnest pleas from Chris Christie.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>White House Delays a Decision on Banning Menthol Cigarettes</h3>
+<sub>By Christina Jewett, Sheryl Gay Stolberg and David A. Fahrenthold</sub>
+<p>The proposal has elicited mounting opposition from tobacco companies, Black activists worried about police enforcement and small businesses, as President Biden moves into an election year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
