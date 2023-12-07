@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-The world is experiencing many developments right now. In Israel, the military has uncovered information about Hamas to better understand their tactics and abilities. In the U.S., there was a heated Republican presidential debate with no direct attacks on former president Donald Trump. Additionally, college presidents are facing criticism for not responding decisively to questions about antisemitism. In tech, start-ups are running out of time and money due to the pandemic, while in the art world, the Metropolitan Museum of Art has unveiled a new rooftop installation.</p>
+There is a lot of conflict happening in the world right now. In Israel, the military is using real-time battlefield intelligence to target Hamas. In the tech industry, some young start-ups are running out of time and money and burning through cash. Here in the US, there is a looming legal and political collision surrounding former president Donald Trump&#39;s trial in one of his four criminal cases. At a Republican debate, Nikki Haley faced a barrage from Ron DeSantis and Vivek Ramaswamy. And at a congressional hearing, college presidents were put under fire for dodging questions about antisemitism. In Texas, a judge has granted a woman&#39;s request for an abortion despite the state&#39;s bans. Lastly, Ukraine is carrying on a fight while pondering an erosion of US aid.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Israel Is Using Real-Time Battlefield Intelligence to Target Hamas</h3>
 <sub>By Adam Goldman</sub>
 <p>Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>See how Israeli troops reached Khan Younis, the largest city in southern Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Strike That Killed Reuters Journalist Was ‘Apparently Deliberate’ Israeli Attack, Group Says</h3>
-<sub>By Matthew Mpoke Bigg and Hwaida Saad</sub>
-<p>Human Rights Watch found that the slain journalist and six colleagues were not near active fighting in southern Lebanon and would have been clearly visible to Israeli forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -86,12 +74,6 @@ The world is experiencing many developments right now. In Israel, the military h
 <p>After staving off collapse by cutting costs, many young tech companies are out of options, fueling a cash bonfire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>G.O.P. Debate Takeaways, and a Tech Start-Up Collapse</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Takeaways From the Republican Debate</h3>
 <sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
@@ -99,10 +81,10 @@ The world is experiencing many developments right now. In Israel, the military h
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Won the Debate? DeSantis Solid, Analysts Say, but Trump Unscathed</h3>
-<sub>By Alan Rappeport</sub>
-<p>The fourth Republican presidential debate was the feistiest of them all, but the candidates, save Chris Christie, trained their fire on each other rather than the no-show front-runner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<h3>Trump on Trial: The Looming Legal and Political Collision</h3>
+<sub>By Alan Feuer, Maggie Haberman and Jonathan Swan</sub>
+<p>The former president’s trial in one of his four criminal cases is scheduled for early March, putting his legal drama and the race for the White House on an unprecedented trajectory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With One Vote for Calvin Coolidge, G.O.P. Hopefuls Name Their Favorite Presidents</h3>
@@ -129,9 +111,27 @@ The world is experiencing many developments right now. In Israel, the military h
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Bruised by War-Related Boycott, Artforum Seeks a Reset</h3>
+<sub>By Zachary Small</sub>
+<p>The magazine’s first issue since its top editor was fired is noticeably slimmer. Contributors pulled articles because of the response to an open letter about the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Judge Grants Woman’s Request for Abortion</h3>
+<sub>By J. David Goodman</sub>
+<p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best Art of 2023</h3>
 <sub>By Roberta Smith and Holland Cotter</sub>
 <p>In addition to its impressionist matchup “Manet&#x2F;Degas,” the Met unveiled Lauren Halsey’s spectacular new rooftop installation. Our critics weigh in on this year’s most thrilling shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Carries On Fight While Pondering an Erosion of U.S. Aid</h3>
+<sub>By Marc Santora, Lara Jakes and Andrew E. Kramer</sub>
+<p>The government in Kyiv remains hopeful of further American assistance, but it is also looking to other resources — and trying to make clear what could be at stake.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
