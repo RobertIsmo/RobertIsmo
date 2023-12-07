@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-It looks a little tense in the news right now. A lot of politicians are talking about holding people accountable and current Congress-related issues. Recently, key Senate Republicans blocked aid to Ukraine, jeopardizing their fight against Russia, and House Republicans threatened Hunter Biden with a contempt charge related to some subpoenas. Right now, the Israeli military is engaged in a conflict with Hamas forces, and thousands of people are fleeing as a result. On top of all that, there was a shooting at the University of Las Vegas which resulted in three deaths. On the brighter side, one of TV&#39;s most influential producers, Norman Lear, recently passed away at 101 and artist Rob Reiner paid tribute to him for his influential career.</p>
+There is a lot happening in the world right now. In terms of politics, the Republicans in the U.S. are blocking aid to Ukraine, endangering their fight against Russia. This has weakened support towards Ukraine from Congress. The controversy over funding to Ukraine has continued despite a legacy push by Senate Minority Leader Mitch McConnell. There have also been many debates between Republican candidates vying for the presidential nomination, but Donald Trump remains unscathed despite the feisty atmosphere of these debates. To top it off, House Republicans are threatening Hunter Biden with contempt charges after he refused to testify in private about his role in an impeachment involving President Biden.
+
+In other news, there was a great loss for television this week with the passing of legendary producer Norman Lear at 101 years old. Lear was responsible for producing iconic shows like &quot;All in the Family&quot; which transformed the face of TV. Rob Reiner paid tribute to Lear, stating that he had never seen another show tap into something so powerful and popular as what &quot;All in the Family&quot; achieved. 
+
+Finally, the White House has delayed its decision to ban menthol cigarettes after facing resistance from tobacco companies, Black activists concerned about police enforcement and small businesses. On top of that, there was a tragic shooting at University of Nevada Las Vegas that left three people dead and another person injured.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Block Aid to Ukraine, Jeopardizing Its Fight Against Russia</h3>
@@ -110,12 +114,6 @@ It looks a little tense in the news right now. A lot of politicians are talking 
 <p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel and Hamas Battle for a City in Gaza, Sparking Another Exodus</h3>
-<sub>By Liam Stack, Shashank Bengali and Michael Levenson</sub>
-<p>Thousands of people heeded Israeli orders to flee Khan Younis and nearby areas, but the places they were told to go had little shelter, water or food.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>3 Killed in Shooting at University of Nevada, Las Vegas</h3>
 <sub>By Nicholas Bogel-Burroughs, Orlando Mayorquin and Jesus Jiménez</sub>
@@ -132,6 +130,12 @@ It looks a little tense in the news right now. A lot of politicians are talking 
 <h3>Rob Reiner Remembers Norman Lear: We’ve Lost ‘a Real Champion of America’</h3>
 <sub>By Maya Salam</sub>
 <p>With “All in the Family,” Lear “tapped into something that nobody had ever done before or even since,” the star of the hit sitcom said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>White House Delays a Decision on Banning Menthol Cigarettes</h3>
+<sub>By Christina Jewett, Sheryl Gay Stolberg and David A. Fahrenthold</sub>
+<p>The proposal has elicited mounting opposition from tobacco companies, Black activists worried about police enforcement and small businesses, as President Biden moves into an election year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
