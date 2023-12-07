@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world lately. In tech, many start-ups are running out of time and money and risk collapse unless they can find ways to cut costs. In the US, Republicans held their fourth debate and Nikki Haley emerged as an ascendant candidate. Meanwhile, Iowa is getting ready for its Republican caucuses. On the international stage, Israel is using intelligence to target Hamas and there&#39;s been a full out conflict in Gaza resulting in civilian deaths. Polish truckers have protested against EU permits for Ukrainian counterparts, leading to issues with deliveries of wartime supplies in Ukraine. Art critics are also weighing in on this year’s most thrilling shows at The Met. Finally, Bellevue Hospital has been performing thousands of lucrative weight-loss surgeries, even on prisoners and other inappropriate patients.</p>
+The world is experiencing many developments right now. In Israel, the military has uncovered information about Hamas to better understand their tactics and abilities. In the U.S., there was a heated Republican presidential debate with no direct attacks on former president Donald Trump. Additionally, college presidents are facing criticism for not responding decisively to questions about antisemitism. In tech, start-ups are running out of time and money due to the pandemic, while in the art world, the Metropolitan Museum of Art has unveiled a new rooftop installation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Israel Is Using Real-Time Battlefield Intelligence to Target Hamas</h3>
+<sub>By Adam Goldman</sub>
+<p>Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>See how Israeli troops reached Khan Younis, the largest city in southern Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Strike That Killed Reuters Journalist Was ‘Apparently Deliberate’ Israeli Attack, Group Says</h3>
+<sub>By Matthew Mpoke Bigg and Hwaida Saad</sub>
+<p>Human Rights Watch found that the slain journalist and six colleagues were not near active fighting in southern Lebanon and would have been clearly visible to Israeli forces.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>From Unicorns to Zombies: Tech Start-Ups Run Out of Time and Money</h3>
 <sub>By Erin Griffith</sub>
@@ -87,10 +105,10 @@ There&#39;s a lot happening in the world lately. In tech, many start-ups are run
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Your Iowa Caucus Questions, Answered</h3>
-<sub>By Maggie Astor</sub>
-<p>The state with the first balloting for 2024 is overflowing with candidates and reporters ahead of the Republican caucuses on Jan. 15. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<h3>With One Vote for Calvin Coolidge, G.O.P. Hopefuls Name Their Favorite Presidents</h3>
+<sub>By Michael Gold</sub>
+<p>Ron DeSantis sang the praises of “Silent Cal,” a favorite of conservatives for his tax cuts and deregulation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Inside Donald Trump’s Dominance of the G.O.P. Primary</h3>
@@ -98,40 +116,22 @@ There&#39;s a lot happening in the world lately. In tech, many start-ups are run
 <p>Republican insiders thought criminal indictments might put a dent in the former president’s support. Instead, he’s leading in the polls — and planning how he’ll remake the presidency if he wins it back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Israel Is Using Real-Time Battlefield Intelligence to Target Hamas</h3>
-<sub>By Adam Goldman</sub>
-<p>Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>College Presidents Under Fire After Dodging Questions About Antisemitism</h3>
+<sub>By Stephanie Saul and Anemona Hartocollis</sub>
+<p>The leaders of Harvard, M.I.T. and Penn appeared to evade questions about whether students should be disciplined if they call for the genocide of Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>Israel expanded its evacuation orders in southern Gaza, ahead of an expected ground invasion in the south.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Civilian Death Toll in Gaza</h3>
-<sub>By David Leonhardt</sub>
-<p>How to make sense of the statistics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>3 Contentious Exchanges at the College Antisemitism Hearing</h3>
+<sub>By The New York Times</sub>
+<p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Best Art of 2023</h3>
 <sub>By Roberta Smith and Holland Cotter</sub>
 <p>In addition to its impressionist matchup “Manet&#x2F;Degas,” the Met unveiled Lauren Halsey’s spectacular new rooftop installation. Our critics weigh in on this year’s most thrilling shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Famed Hospital Churns Poor Patients Through Weight-Loss Surgery</h3>
-<sub>By Jessica Silver-Greenberg, Sarah Kliff and Aimee Ortiz</sub>
-<p>New York’s Bellevue Hospital performs thousands of the lucrative surgeries a year, even on Rikers Island prisoners and other inappropriate patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Frontline Troops in Ukraine Feel Bite of Polish Truckers’ Protest</h3>
-<sub>By Maria Varenikova and Marc Santora</sub>
-<p>A border blockade by haulers angry that the European Union has suspended a permit system for their Ukrainian counterparts has led to problems with deliveries of wartime supplies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
