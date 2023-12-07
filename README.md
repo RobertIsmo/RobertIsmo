@@ -60,12 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 6, Central Standard Time</p>
 <p>
-There&#39;s been a lot happening in the US and around the world lately. In the US, Representative Kevin McCarthy said he would leave Congress at the end of the year after being ousted as speaker. There&#39;s also been an effort to hold Hunter Biden accountable with a contempt charge, but the G.O.P chairmen have refused to allow him to testify publicly. There has also been backlash to the president of University of Pennsylvania Elizabeth Magill over her remarks at a congressional hearing about antisemitism on campuses.
-
-Around the world, people in Gaza have been living in fear due to Israel airstrikes targeting Rafah, where Israel had encouraged Gazans to seek safety. In response, President Biden called on Congress to approve aid for Ukraine before funds run out by the end of year. There are also charges against 4 Russian soldiers for war crimes against an American, as well as an investigation into Hamas fighters’ attack in Israel that killed more than 30 Americans.
-
-In other news, television producer Norman Lear, who changed the face of TV with his comedies, recently passed away at 101 years old. The White House also delayed a decision on banning menthol cigarettes due to mounting opposition from tobacco companies, Black activists, and small businesses as President Biden enters into an election year. Lastly, nations have been trying to tackle A.I.&#39;s harms by responding to rapid technological advances with policies and deciding how A.I. should or could be regulated.</p>
+There&#39;s a lot of political news happening right now, from US-related topics to international events. In Congress, Republicans have blocked aid to Ukraine even as the country fights against Russia. In the US, four Russian soldiers have been charged with war crimes against an American and the Justice Department is investigating the murder of more than 30 Americans by Hamas fighters during an attack in Israel. Kevin McCarthy announced he would leave Congress at the end of the year and House Republicans are threatening Hunter Biden with contempt charges over his refusal to testify in private, though he&#39;s offered to do so in public. There&#39;s also controversy surrounding college presidents who dodged questions about antisemitism and an unauthorized teach-in supporting Palestinians held by educators in Oakland. On top of that, an airstrike hit Rafah after Israel had urged Gazans to seek safety there and TV industry giant Norman Lear passed away at 101 years old. Finally, there&#39;s a fourth Republican debate happening on Wednesday and there&#39;s a heated race between Haley and DeSantis for No. 2.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Block Aid to Ukraine, Jeopardizing Its Fight Against Russia</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The vote spotlighted waning support in Congress for backing Ukraine in the war, and left the fate of the effort uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Despite McConnell Legacy Push, Ukraine Funding in Increasing Jeopardy</h3>
+<sub>By Carl Hulse</sub>
+<p>The minority leader, who many believe could step down next year, has found himself out of step with many fellow Senate Republicans on the question of keeping money flowing to the U.S. ally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Charges 4 Russian Soldiers With War Crimes Against an American</h3>
+<sub>By Glenn Thrush</sub>
+<p>The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McCarthy Says He Will Leave Congress at the End of the Year</h3>
 <sub>By Annie Karni</sub>
@@ -75,43 +89,25 @@ In other news, television producer Norman Lear, who changed the face of TV with 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Republicans Threaten Hunter Biden With Contempt Charge</h3>
 <sub>By Luke Broadwater</sub>
-<p>President Biden’s son has declined to testify in private but volunteered to do so in a public hearing with House panels leading the impeachment inquiry against his father. The G.O.P. chairmen have refused.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden’s son has resisted testifying in private but volunteered to do so in public with House panels leading the impeachment inquiry against his father. The G.O.P. chairmen have declined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Donors and Alumni Demand That Penn’s President Resign Over Remarks at Hearing</h3>
+<h3>College Presidents Under Fire After Dodging Questions About Antisemitism</h3>
 <sub>By Stephanie Saul and Anemona Hartocollis</sub>
-<p>At a congressional hearing about antisemitism on campuses, Elizabeth Magill, head of the University of Pennsylvania, appeared to evade questions about whether calling for the genocide of Jews violated Penn’s code of conduct.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The leaders of Harvard, M.I.T. and Penn appeared to evade questions about whether students should be disciplined if they call for the genocide of Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>“We sleep fearing we might be dead”</h3>
-<sub>By Jeremy White, Malika Khurana, Lauren Leatherby and Karen Yourish</sub>
-<p>60 days of life in the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Oakland Educators Hold Unauthorized Teach-in Supporting Palestinians</h3>
+<sub>By Dana Goldstein</sub>
+<p>The district opposed the event, and some Jewish groups raised concerns about what they saw as bias.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>An airstrike hits Rafah, where Israel had urged Gazans to seek safety.</h3>
 <sub>By Liam Stack</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ukraine Aid Bill Heads for Collapse in Senate as Biden Makes Final Plea</h3>
-<sub>By Karoun Demirjian</sub>
-<p>President Biden and Democrats in Congress appealed for Republicans to allow the emergency spending bill to advance, but the G.O.P. dug in, demanding strict border provisions be added.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Calls on Congress to Approve Aid to Ukraine: ‘This Cannot Wait’</h3>
-<sub>By Peter Baker</sub>
-<p>The administration has already alerted Congress that money for Ukraine will run out by the end of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Charges 4 Russian Soldiers With War Crimes Against an American</h3>
-<sub>By Glenn Thrush</sub>
-<p>The Justice Department also said it had begun investigating the “murder of more than 30 Americans” by Hamas fighters during the Oct. 7 attack in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -120,22 +116,22 @@ In other news, television producer Norman Lear, who changed the face of TV with 
 <p>As the producer of “All in the Family” and many other shows, Mr. Lear showed that it was possible to be topical, funny and immensely popular.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>White House Delays a Decision on Banning Menthol Cigarettes</h3>
-<sub>By Christina Jewett, Sheryl Gay Stolberg and David A. Fahrenthold</sub>
-<p>The proposal has elicited mounting opposition from tobacco companies, Black activists worried about police enforcement and small businesses, as President Biden moves into an election year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Rob Reiner Remembers Norman Lear: We’ve Lost ‘a Real Champion of America’</h3>
+<sub>By Maya Salam</sub>
+<p>With “All in the Family,” Lear “tapped into something that nobody had ever done before or even since,” the star of the hit sitcom said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Nations Are Losing a Global Race to Tackle A.I.’s Harms</h3>
-<sub>By Adam Satariano and Cecilia Kang</sub>
-<p>Alarmed by the power of artificial intelligence, Europe, the United States and others are trying to respond — but the technology is evolving more rapidly than their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How to Watch the Fourth Republican Debate</h3>
+<sub>By Maggie Astor</sub>
+<p>The debate, hosted by NewsNation and featuring four candidates, will be held on Wednesday from 8 to 10 p.m. Eastern time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Five Ways A.I. Could Be Regulated</h3>
-<sub>By Cecilia Kang and Adam Satariano</sub>
-<p>There is little agreement among regulators and lawmakers around the world on how artificial intelligence should — or even could — be controlled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Haley and DeSantis Battle on TV as the Race for No. 2 Heats Up</h3>
+<sub>By Rebecca Davis O’Brien</sub>
+<p>With the Iowa caucuses 40 days away, airwaves are filled with Haley vs. DeSantis attack ads, jibes from Vivek Ramaswamy and earnest pleas from Chris Christie.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
