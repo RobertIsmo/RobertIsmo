@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 6, Central Standard Time</p>
+<p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-Recently, Republicans in Congress blocked aid to Ukraine, putting the country&#39;s fight against Russia in jeopardy. Meanwhile, some Senate Republicans have shown waning support for the effort, contradicting Mitch McConnell&#39;s push to continue providing financial aid. Chris Christie and Vivek Ramaswamy also had a heated argument on the debate stage and Kevin McCarthy said he would be leaving Congress at the end of the year. In addition, House Republicans threatened Hunter Biden with contempt charges when he resisted testifying in private and it appears college presidents are avoiding questions about antisemitism. Looking at overseas news, Israel and Hamas are having a battle for a city in Gaza that has caused an exodus of thousands of people. And finally, a shooter opened fire at University of Nevada, Las Vegas and killed three people. Rest in peace Norman Lear, a producer of iconic sitcoms such as All in the Family who passed away recently; Rob Reiner remembered him as a “real champion of America”. Lastly, the White House has delayed their decision on whether or not to ban menthol cigarettes because they are facing mounting opposition from activists, small businesses, and tobacco companies.</p>
+It looks a little tense in the news right now. A lot of politicians are talking about holding people accountable and current Congress-related issues. Recently, key Senate Republicans blocked aid to Ukraine, jeopardizing their fight against Russia, and House Republicans threatened Hunter Biden with a contempt charge related to some subpoenas. Right now, the Israeli military is engaged in a conflict with Hamas forces, and thousands of people are fleeing as a result. On top of all that, there was a shooting at the University of Las Vegas which resulted in three deaths. On the brighter side, one of TV&#39;s most influential producers, Norman Lear, recently passed away at 101 and artist Rob Reiner paid tribute to him for his influential career.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Republicans Block Aid to Ukraine, Jeopardizing Its Fight Against Russia</h3>
@@ -75,9 +75,15 @@ Recently, Republicans in Congress blocked aid to Ukraine, putting the country&#3
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Christie to Ramaswamy: ‘So Shut Up for a Little While’</h3>
-<sub>By Michael C. Bender</sub>
-<p>Chris Christie and Vivek Ramaswamy clashed in personal terms on the debate stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Five Takeaways From the Republican Debate</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
+<p>An ascendant Nikki Haley endured a barrage from Ron DeSantis and Vivek Ramaswamy. Chris Christie delivered a strong showing. And with time ticking down, there were few direct attacks on Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Won the Debate? DeSantis Solid, Analysts Say, but Trump Unscathed</h3>
+<sub>By Alan Rappeport</sub>
+<p>The fourth Republican presidential debate was the feistiest of them all, but the candidates, save Chris Christie, trained their fire on each other rather than the no-show front-runner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -112,7 +118,7 @@ Recently, Republicans in Congress blocked aid to Ukraine, putting the country&#3
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>3 Killed in Shooting at University of Nevada, Las Vegas</h3>
-<sub>By Nicholas Bogel-Burroughs, Jesus Jiménez and Orlando Mayorquin</sub>
+<sub>By Nicholas Bogel-Burroughs, Orlando Mayorquin and Jesus Jiménez</sub>
 <p>Another victim was in stable condition at the hospital, the authorities said. The gunman died in a shootout with the police.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
@@ -126,12 +132,6 @@ Recently, Republicans in Congress blocked aid to Ukraine, putting the country&#3
 <h3>Rob Reiner Remembers Norman Lear: We’ve Lost ‘a Real Champion of America’</h3>
 <sub>By Maya Salam</sub>
 <p>With “All in the Family,” Lear “tapped into something that nobody had ever done before or even since,” the star of the hit sitcom said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>White House Delays a Decision on Banning Menthol Cigarettes</h3>
-<sub>By Christina Jewett, Sheryl Gay Stolberg and David A. Fahrenthold</sub>
-<p>The proposal has elicited mounting opposition from tobacco companies, Black activists worried about police enforcement and small businesses, as President Biden moves into an election year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
