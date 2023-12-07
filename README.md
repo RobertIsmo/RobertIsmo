@@ -60,25 +60,33 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-There is a lot of conflict happening in the world right now. In Israel, the military is using real-time battlefield intelligence to target Hamas. In the tech industry, some young start-ups are running out of time and money and burning through cash. Here in the US, there is a looming legal and political collision surrounding former president Donald Trump&#39;s trial in one of his four criminal cases. At a Republican debate, Nikki Haley faced a barrage from Ron DeSantis and Vivek Ramaswamy. And at a congressional hearing, college presidents were put under fire for dodging questions about antisemitism. In Texas, a judge has granted a woman&#39;s request for an abortion despite the state&#39;s bans. Lastly, Ukraine is carrying on a fight while pondering an erosion of US aid.</p>
+There have been a lot of stories coming out of the US and abroad lately. In the US, a Texas judge has granted a woman&#39;s request to have an abortion, even though it&#39;s against the state laws. Meanwhile, in Israel and Gaza, there has been violence between the two sides and maps are being created to track the attacks. On the business front, an investigative piece in New York revealed that a famous hospital is charging poor patients for costly weight-loss surgery.
+
+Also in the news are reports about Donald Trump&#39;s ongoing legal troubles, Nikki Haley&#39;s South Carolina strategy, and upcoming Republican debates hosted by CNN in Iowa and New Hampshire. Several college presidents have come under scrutiny for their reactions to student antisemitism, and over in Europe the German cultural scene is struggling with freedom of expression as they debate criticism of Israel. Lastly, there’s been some controversy around Artforum magazine, which fired its top editor over protests related to war-related boycotting.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Judge Grants Woman’s Request for Abortion, In Rare Post-Roe Case</h3>
+<sub>By J. David Goodman</sub>
+<p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Israel Is Using Real-Time Battlefield Intelligence to Target Hamas</h3>
 <sub>By Adam Goldman</sub>
 <p>Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>From Unicorns to Zombies: Tech Start-Ups Run Out of Time and Money</h3>
-<sub>By Erin Griffith</sub>
-<p>After staving off collapse by cutting costs, many young tech companies are out of options, fueling a cash bonfire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>See how Israeli troops reached Khan Younis, the largest city in southern Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Five Takeaways From the Republican Debate</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Jonathan Swan</sub>
-<p>An ascendant Nikki Haley endured a barrage from Ron DeSantis and Vivek Ramaswamy. Chris Christie delivered a strong showing. And with time ticking down, there were few direct attacks on Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Famed Hospital Churns Poor Patients Through Weight-Loss Surgery</h3>
+<sub>By Jessica Silver-Greenberg, Sarah Kliff and Aimee Ortiz</sub>
+<p>New York’s Bellevue Hospital performs thousands of the lucrative surgeries a year, even on Rikers Island prisoners and other inappropriate patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump on Trial: The Looming Legal and Political Collision</h3>
@@ -87,15 +95,27 @@ There is a lot of conflict happening in the world right now. In Israel, the mili
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With One Vote for Calvin Coolidge, G.O.P. Hopefuls Name Their Favorite Presidents</h3>
-<sub>By Michael Gold</sub>
-<p>Ron DeSantis sang the praises of “Silent Cal,” a favorite of conservatives for his tax cuts and deregulation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<h3>Trump Seeks Freeze of Election Case as He Appeals Immunity Ruling</h3>
+<sub>By Alan Feuer</sub>
+<p>In an effort to delay the former president’s federal trial on charges of trying to overturn the election, his lawyers asked for a pause while they challenge the ruling that he is not immune from prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Inside Donald Trump’s Dominance of the G.O.P. Primary</h3>
-<sub>By Astead W. Herndon and Anna Foley</sub>
-<p>Republican insiders thought criminal indictments might put a dent in the former president’s support. Instead, he’s leading in the polls — and planning how he’ll remake the presidency if he wins it back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Should Biden Really Run Again? He Prolongs an Awkward Conversation.</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The president and his team have waved away Democrats’ worries about his bid for another term. But this week, he has drawn new attention to the question of what is best for the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley’s South Carolina Strategy Has a Donald Trump Problem</h3>
+<sub>By Jazmine Ulloa, Maya King and Jonathan Weisman</sub>
+<p>Ms. Haley, the former governor of South Carolina, has won tough races in her home state. But as she vies for the 2024 Republican nomination, her state and party look different.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>CNN Will Host Two G.O.P. Debates in Iowa and New Hampshire</h3>
+<sub>By Michael Gold</sub>
+<p>The announcement of the debates, planned for the days before each state’s nominating contest, comes as the Republican National Committee considers loosening its rules for the onstage clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,34 +124,16 @@ There is a lot of conflict happening in the world right now. In Israel, the mili
 <p>The leaders of Harvard, M.I.T. and Penn appeared to evade questions about whether students should be disciplined if they call for the genocide of Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Contentious Exchanges at the College Antisemitism Hearing</h3>
-<sub>By The New York Times</sub>
-<p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Bruised by War-Related Boycott, Artforum Seeks a Reset</h3>
 <sub>By Zachary Small</sub>
 <p>The magazine’s first issue since its top editor was fired is noticeably slimmer. Contributors pulled articles because of the response to an open letter about the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Judge Grants Woman’s Request for Abortion</h3>
-<sub>By J. David Goodman</sub>
-<p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Best Art of 2023</h3>
-<sub>By Roberta Smith and Holland Cotter</sub>
-<p>In addition to its impressionist matchup “Manet&#x2F;Degas,” the Met unveiled Lauren Halsey’s spectacular new rooftop installation. Our critics weigh in on this year’s most thrilling shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Carries On Fight While Pondering an Erosion of U.S. Aid</h3>
-<sub>By Marc Santora, Lara Jakes and Andrew E. Kramer</sub>
-<p>The government in Kyiv remains hopeful of further American assistance, but it is also looking to other resources — and trying to make clear what could be at stake.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>German Cultural Scene Navigates a Clampdown on Criticism of Israel</h3>
+<sub>By Alex Marshall</sub>
+<p>A torrent of canceled events is threatening Germany’s reputation as a haven for artistic freedom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
