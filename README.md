@@ -60,23 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In terms of politics, the Republicans in the U.S. are blocking aid to Ukraine, endangering their fight against Russia. This has weakened support towards Ukraine from Congress. The controversy over funding to Ukraine has continued despite a legacy push by Senate Minority Leader Mitch McConnell. There have also been many debates between Republican candidates vying for the presidential nomination, but Donald Trump remains unscathed despite the feisty atmosphere of these debates. To top it off, House Republicans are threatening Hunter Biden with contempt charges after he refused to testify in private about his role in an impeachment involving President Biden.
-
-In other news, there was a great loss for television this week with the passing of legendary producer Norman Lear at 101 years old. Lear was responsible for producing iconic shows like &quot;All in the Family&quot; which transformed the face of TV. Rob Reiner paid tribute to Lear, stating that he had never seen another show tap into something so powerful and popular as what &quot;All in the Family&quot; achieved. 
-
-Finally, the White House has delayed its decision to ban menthol cigarettes after facing resistance from tobacco companies, Black activists concerned about police enforcement and small businesses. On top of that, there was a tragic shooting at University of Nevada Las Vegas that left three people dead and another person injured.</p>
+There&#39;s a lot happening in the world lately. In tech, many start-ups are running out of time and money and risk collapse unless they can find ways to cut costs. In the US, Republicans held their fourth debate and Nikki Haley emerged as an ascendant candidate. Meanwhile, Iowa is getting ready for its Republican caucuses. On the international stage, Israel is using intelligence to target Hamas and there&#39;s been a full out conflict in Gaza resulting in civilian deaths. Polish truckers have protested against EU permits for Ukrainian counterparts, leading to issues with deliveries of wartime supplies in Ukraine. Art critics are also weighing in on this year’s most thrilling shows at The Met. Finally, Bellevue Hospital has been performing thousands of lucrative weight-loss surgeries, even on prisoners and other inappropriate patients.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Block Aid to Ukraine, Jeopardizing Its Fight Against Russia</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The vote spotlighted waning support in Congress for backing Ukraine in the war, and left the fate of the effort uncertain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>From Unicorns to Zombies: Tech Start-Ups Run Out of Time and Money</h3>
+<sub>By Erin Griffith</sub>
+<p>After staving off collapse by cutting costs, many young tech companies are out of options, fueling a cash bonfire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Despite McConnell Legacy Push, Ukraine Funding in Increasing Jeopardy</h3>
-<sub>By Carl Hulse</sub>
-<p>The minority leader, who many believe could step down next year, has found himself out of step with many fellow Senate Republicans on the question of keeping money flowing to the U.S. ally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>G.O.P. Debate Takeaways, and a Tech Start-Up Collapse</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Five Takeaways From the Republican Debate</h3>
@@ -91,52 +87,52 @@ Finally, the White House has delayed its decision to ban menthol cigarettes afte
 <sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McCarthy Says He Will Leave Congress at the End of the Year</h3>
-<sub>By Annie Karni</sub>
-<p>About two months after being ousted as speaker, Representative Kevin McCarthy said he would exit the House a year early.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<h3>Your Iowa Caucus Questions, Answered</h3>
+<sub>By Maggie Astor</sub>
+<p>The state with the first balloting for 2024 is overflowing with candidates and reporters ahead of the Republican caucuses on Jan. 15. Here’s what to know.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans Threaten Hunter Biden With Contempt Charge</h3>
-<sub>By Luke Broadwater</sub>
-<p>President Biden’s son has resisted testifying in private but volunteered to do so in public with House panels leading the impeachment inquiry against his father. The G.O.P. chairmen have declined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Inside Donald Trump’s Dominance of the G.O.P. Primary</h3>
+<sub>By Astead W. Herndon and Anna Foley</sub>
+<p>Republican insiders thought criminal indictments might put a dent in the former president’s support. Instead, he’s leading in the polls — and planning how he’ll remake the presidency if he wins it back.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>College Presidents Under Fire After Dodging Questions About Antisemitism</h3>
-<sub>By Stephanie Saul and Anemona Hartocollis</sub>
-<p>The leaders of Harvard, M.I.T. and Penn appeared to evade questions about whether students should be disciplined if they call for the genocide of Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Israel Is Using Real-Time Battlefield Intelligence to Target Hamas</h3>
+<sub>By Adam Goldman</sub>
+<p>Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Contentious Exchanges at the College Antisemitism Hearing</h3>
-<sub>By The New York Times</sub>
-<p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>Israel expanded its evacuation orders in southern Gaza, ahead of an expected ground invasion in the south.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Killed in Shooting at University of Nevada, Las Vegas</h3>
-<sub>By Nicholas Bogel-Burroughs, Orlando Mayorquin and Jesus Jiménez</sub>
-<p>Another victim was in stable condition at the hospital, the authorities said. The gunman died in a shootout with the police.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Norman Lear, Whose Comedies Changed the Face of TV, Is Dead at 101</h3>
-<sub>By Richard Severo and Peter Keepnews</sub>
-<p>As the producer of “All in the Family” and many other shows, Mr. Lear showed that it was possible to be topical, funny and immensely popular.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Civilian Death Toll in Gaza</h3>
+<sub>By David Leonhardt</sub>
+<p>How to make sense of the statistics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Rob Reiner Remembers Norman Lear: We’ve Lost ‘a Real Champion of America’</h3>
-<sub>By Maya Salam</sub>
-<p>With “All in the Family,” Lear “tapped into something that nobody had ever done before or even since,” the star of the hit sitcom said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<h3>Best Art of 2023</h3>
+<sub>By Roberta Smith and Holland Cotter</sub>
+<p>In addition to its impressionist matchup “Manet&#x2F;Degas,” the Met unveiled Lauren Halsey’s spectacular new rooftop installation. Our critics weigh in on this year’s most thrilling shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>White House Delays a Decision on Banning Menthol Cigarettes</h3>
-<sub>By Christina Jewett, Sheryl Gay Stolberg and David A. Fahrenthold</sub>
-<p>The proposal has elicited mounting opposition from tobacco companies, Black activists worried about police enforcement and small businesses, as President Biden moves into an election year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Famed Hospital Churns Poor Patients Through Weight-Loss Surgery</h3>
+<sub>By Jessica Silver-Greenberg, Sarah Kliff and Aimee Ortiz</sub>
+<p>New York’s Bellevue Hospital performs thousands of the lucrative surgeries a year, even on Rikers Island prisoners and other inappropriate patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Frontline Troops in Ukraine Feel Bite of Polish Truckers’ Protest</h3>
+<sub>By Maria Varenikova and Marc Santora</sub>
+<p>A border blockade by haulers angry that the European Union has suspended a permit system for their Ukrainian counterparts has led to problems with deliveries of wartime supplies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
