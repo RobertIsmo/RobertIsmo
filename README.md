@@ -60,32 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-Things have been happening on the national and global scale - especially in the US! In Texas, a judge approved a woman&#39;s request for an abortion despite state bans, signaling an important milestone for those in similar post-Roe cases. Overseas, Hanukkah has taken on a new meaning as Israelis mark the holiday in the aftermath of terrorist attacks. Holiday symbols also have people concerned about safety here at home. A hospital is earning money from performing weight loss surgeries on poor patients and Rikers Island prisoners, which brings up ethical issues. There&#39;s also been strong words exchanged between Congresswoman Stefanik and Harvard faculty over campus antsemitism. Germany is seeing a clamp down on criticism of Israel, while some art events are being canceled to due to it.
-
-As for former President Trump, he&#39;s now facing imminent legal and political trials while also appealing immunity rulings. He&#39;s making headlines again as he seeks another term - but it has led Democrats into questioning what is best for the party. In South Carolina, Nikki Haley is preparing for another run in 2024, although her state and party have changed since her last election. Meanwhile Chris Christie, after his feisty debate performance drawing attention to Donald Trump, has been visiting New Hampshire for votes - so it will be interesting to see how things develop when the next election rolls around!</p>
+Recently, Congress has opened an investigation into three prestigious universities - Harvard, MIT, and UPenn - over their handling of antisemitism on campus. Madison Cawthorn, a university alumna and Republican House leader, had a viral confrontation about these matters that attracted attention across the political spectrum. In other news, a Texas court judge granted a woman&#39;s request for abortion despite state bans, and Hunter Biden was indicted with nine counts of tax fraud related to his work with international companies. Across the country, there are multiple gatherings to remember those lost due to the ongoing conflict between Israel and Hamas, and there is a large hip-hop anniversary celebration centered around home in The Bronx. Meanwhile, another college shooting occurred involving an ex-faculty member at UNLV who had previously pursued job opportunities elsewhere. Finally, Joe Biden&#39;s run for president is becoming more uncertain as he faces criticism over how far he should go in controlling migrant access in the US. Chris Christie is campaigning in New Hampshire after putting on quite a show during the last presidential debate.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Judge Grants Woman’s Request for Abortion, in Rare Post-Roe Case</h3>
-<sub>By J. David Goodman</sub>
-<p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Israel, Hanukkah begins in the shadow of two months of war.</h3>
-<sub>By Talya Minsberg</sub>
-<p>The holiday held a new meaning for many Israelis in the wake of the Oct. 7 terrorist attacks, including relatives of people still held hostage in Gaza and reservists called up to fight against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Some, the Symbols of Hanukkah Bring Extra Concern This Year</h3>
-<sub>By Jacey Fortin</sub>
-<p>On the first night of traditional menorah lightings, some communities and Jewish families are grappling with questions of meaning and safety.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Famed Hospital Churns Poor Patients Through Weight-Loss Surgery</h3>
-<sub>By Jessica Silver-Greenberg, Sarah Kliff and Aimee Ortiz</sub>
-<p>New York’s Bellevue Hospital performs thousands of the lucrative surgeries a year, even on Rikers Island prisoners and other inappropriate patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism</h3>
+<sub>By Alan Blinder, Anemona Hartocollis and Stephanie Saul</sub>
+<p>Congress has opened an investigation into Harvard, M.I.T. and University of Pennsylvania, a $100 million gift was withdrawn, and demands have grown for the universities’ presidents to resign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -94,22 +74,28 @@ As for former President Trump, he&#39;s now facing imminent legal and political 
 <p>The No. 4 Republican, a Harvard alumna with a fraught relationship with her alma mater, had a confrontation over campus responses to antisemitism that resonated across the political spectrum.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>German Cultural Scene Navigates a Clampdown on Criticism of Israel</h3>
-<sub>By Alex Marshall</sub>
-<p>A torrent of canceled events is threatening Germany’s reputation as a haven for artistic freedom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Judge Grants Woman’s Request for Abortion, in Rare Post-Roe Case</h3>
+<sub>By J. David Goodman</sub>
+<p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump on Trial: The Looming Legal and Political Collision</h3>
-<sub>By Alan Feuer, Maggie Haberman and Jonathan Swan</sub>
-<p>The former president’s trial in one of his four criminal cases is scheduled for early March, putting his legal drama and the race for the White House on an unprecedented trajectory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Hunter Biden Charged With Evading Taxes on Millions From Foreign Firms</h3>
+<sub>By Glenn Thrush and Michael S. Schmidt</sub>
+<p>The Justice Department charged President Biden’s son after a long-running and wide-ranging investigation with substantial political repercussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Seeks Freeze of Election Case as He Appeals Immunity Ruling</h3>
-<sub>By Alan Feuer</sub>
-<p>In an effort to delay the former president’s federal trial on charges of trying to overturn the election, his lawyers asked for a pause while they challenge the ruling that he is not immune from prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Read the Tax Indictment Against Hunter Biden</h3>
+<sub></sub>
+<p>The president’s son was indicted on nine counts accusing him of evading federal taxes on millions of dollars he has made in his work with foreign companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>At Hanukkah Rally in New York, Prayers, Candles and Calls for Cease-Fire</h3>
+<sub>By Claire Fahy</sub>
+<p>On the first night of Hanukkah, which comes two months into the Israel-Hamas war, demonstrators mourned the Israelis and Palestinians who had been killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -119,21 +105,33 @@ As for former President Trump, he&#39;s now facing imminent legal and political 
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Who Killed 3 U.N.L.V. Faculty Members Had Pursued College Jobs, Officials Say</h3>
+<sub>By Meg Bernhard and Nicholas Bogel-Burroughs</sub>
+<p>The 67-year-old gunman taught at East Carolina University for nearly 16 years and had a target list of faculty members there and at U.N.LV., the police said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ireland’s Riot Was Not a Surprise to Those Who Watch the Far Right</h3>
+<sub>By Megan Specia</sub>
+<p>The disorder in Dublin on Nov. 23 may have appeared to come from nowhere. But experts say it reflected long-running social problems and an emboldened anti-immigrant movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Should Biden Really Run Again? He Prolongs an Awkward Conversation.</h3>
 <sub>By Reid J. Epstein</sub>
 <p>The president and his team have waved away Democrats’ worries about his bid for another term. But this week, he has drawn new attention to the question of what is best for the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley’s South Carolina Strategy Has a Donald Trump Problem</h3>
-<sub>By Jazmine Ulloa, Maya King and Jonathan Weisman</sub>
-<p>Ms. Haley, the former governor of South Carolina, has won tough races in her home state. But as she vies for the 2024 Republican nomination, her state and party look different.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chris Christie, Fresh Off Feisty Debate, Courts Voters in New Hampshire</h3>
 <sub>By Chris Cameron and Lisa Lerer</sub>
 <p>Mr. Christie rejoined the campaign trail, energized by a debate performance in which he seized the spotlight with attacks on Mr. Trump and his rivals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Tied Ukraine Aid to Border Security, and It Backfired on Him</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>President Biden faces difficult choices about how far to go in giving in to conservative demands that he choke off the number of migrants admitted to the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
