@@ -60,7 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 8, Central Standard Time</p>
 <p>
-In the world right now, there is a lot going on. Politically, the US is looking into antisemitism on campuses and Congress is investigating Harvard, MIT and UPenn. On the business front, there are new high interest rates for those who don&#39;t want to take on much investment risk, though with a catch. In other news, Hunter Biden has been charged with evading taxes from foreign firms and Iran has been using Houthi proxies to escalate their fight with Israel. There is also the interesting story of how Bogotá solved their transportation gridlock and whether better buses could benefit US commuters. Finally, CAIR recently made some remarks that did not sit well with the White House so they have disavowed their association with them.</p>
+There&#39;s news about business, the US, health, science, headway&#x2F;transport, world news and other topics. In business, investors may want to consider taking a balanced approach when it comes to risk and returns. In the US, there are several issues leading to Congressional inquiries such as Harvard&#39;s President apologizing for Congressional Testimony on Antisemitism and US universities facing an inquiry over their handling of antisemitism. Also in the US, Hunter Biden has been charged for evading taxes on millions from foreign firms and there&#39;s a timeline which chronicles his legal troubles - including his addiction to alcohol and crack cocaine. 
+In health news, a new CRISPR-based therapy for sickle cell has been approved by the FDA - although there are obstacles limiting its reach. And in science news, there&#39;s a discussion on how gene editing technology has created new innovations but also raised moral debates on altering human DNA. We&#39;re also seeing some progress with transport solutions - with one city in Bogota showing potential for innovation when it comes to mass transit solutions and buses being mentioned as a possible way to alleviate transport woes in the US. On the international front, Iran is looking to proxy militias in Yemen to stoke tensions with Israel. Lastly, internally within the US, The White House is attempting to distance itself from an Islamic group after its leader made controversial remarks regarding Palestine&#39;s attack on Israel earlier last month. Finally there is also some magazine coverage focused on Levy Rozman - who gave up his Grandmaster dreams to become an engaging chess teacher.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>If You Hate Investment Risk, High Interest Rates Are Great. With a Catch.</h3>
@@ -68,10 +69,10 @@ In the world right now, there is a lot going on. Politically, the US is looking 
 <p>Investors who want to lock in safe income may be hurt over the long haul if they don’t also hold stocks, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Hunter Biden’s New Charges, and a Weight-Loss Surgery ‘Factory’</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard President Apologizes for Congressional Testimony on Antisemitism</h3>
+<sub>By Alan Blinder and Anemona Hartocollis</sub>
+<p>The president, Claudine Gay, told the campus newspaper that she “should have had the presence of mind” to answer differently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -81,21 +82,9 @@ In the world right now, there is a lot going on. Politically, the US is looking 
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Questioning University Presidents on Antisemitism, Stefanik Goes Viral</h3>
-<sub>By Annie Karni</sub>
-<p>The No. 4 Republican, a Harvard alumna with a fraught relationship with her alma mater, had a confrontation over campus responses to antisemitism that resonated across the political spectrum.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden Charged With Evading Taxes on Millions From Foreign Firms</h3>
 <sub>By Glenn Thrush and Michael S. Schmidt</sub>
 <p>The Justice Department charged President Biden’s son after a long-running and wide-ranging investigation with substantial political repercussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Tax Indictment Against Hunter Biden</h3>
-<sub></sub>
-<p>The president’s son was indicted on nine counts accusing him of evading federal taxes on millions of dollars he has made in his work with foreign companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,16 +93,28 @@ In the world right now, there is a lot going on. Politically, the US is looking 
 <p>Mr. Biden, 53, has acknowledged a decades-long addiction to alcohol and crack cocaine. His foreign business dealings have led to questions about President Biden’s influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, August 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>How One City Tried to Solve Gridlock for Us All</h3>
-<sub>By Michael Kimmelman</sub>
-<p>Bogotá led the world with innovation in inexpensive mass transit. Its experience shows what it takes to keep progress going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves Sickle Cell Treatments, Including One That Uses CRISPR</h3>
+<sub>By Gina Kolata</sub>
+<p>People with the genetic disease have new opportunities to eliminate their symptoms, but the treatments come with obstacles that limit their reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>CRISPR, 10 Years On: Learning to Rewrite the Code of Life</h3>
+<sub>By Carl Zimmer</sub>
+<p>The gene-editing technology has led to innovations in medicine, evolution and agriculture — and raised profound ethical questions about altering human DNA.  <a href="https://nyti.ms/3OCVDYE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, June 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
 <h3>Could Better Buses Fix Your Commute?</h3>
 <sub>By Eden Weingart</sub>
 <p>A cheaper, faster and more equitable approach to transit could be a path to progress in the U.S.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>How One City Tried to Solve Gridlock for Us All</h3>
+<sub>By Michael Kimmelman</sub>
+<p>Bogotá led the world with innovation in inexpensive mass transit. Its experience shows what it takes to keep progress going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,16 +123,16 @@ In the world right now, there is a lot going on. Politically, the US is looking 
 <p>The Iranian-backed militia in Yemen has launched drone and missile attacks on Israeli and American targets. American officials fear the group could go too far and incite a wider war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Biden Is Trying to Rein In Israel. Is It Working?</h3>
-<sub>By Michael Barbaro, Stella Tan, Olivia Natt, Summer Thomad, Michael Simon Johnson, Paige Cowett, Dan Powell, Rowan Niemisto and Alyssa Moxley</sub>
-<p>What started as unwavering support has given way to growing skepticism and sometimes open disapproval.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House Disavows U.S. Islamic Group After Leader’s Oct. 7 Remarks</h3>
 <sub>By Peter Baker</sub>
 <p>The director of the Council on American-Islamic Relations said in a speech that he was “was happy to see” Palestinians break out of Gaza on the day Hamas attacked Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>‘Starting Soon, Nerds’: Levy Rozman Wants to Teach You Chess</h3>
+<sub>By Reid Forgrave</sub>
+<p>He sacrificed his grandmaster dreams to become one of the game’s most popular personalities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
