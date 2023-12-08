@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 8, Central Standard Time</p>
 <p>
-There has been a lot of news recently that affects the US. Hunter Biden, President Joe Biden&#39;s son, was charged with evading taxes on millions of dollars he made from foreign companies. Congress is currently investigating some Ivy League universities such as Harvard, M.I.T and University of Pennsylvania for how they are handling antisemitism on campus. Some donors have started withdrawing donations and calls are growing for the university presidents to resign. Also, a professor at East Carolina University killed three faculty members at UNLV. 
-
-Internationally, Iran is using proxies to escalate tension with Israel by sending missiles and drones towards Israeli and American targets. We&#39;re also learning about how forests can fight climate change thanks to a new NASA program that uses sensors in space to measure the amount of carbon-storing protected areas there are. </p>
+In the world right now, there is a lot going on. Politically, the US is looking into antisemitism on campuses and Congress is investigating Harvard, MIT and UPenn. On the business front, there are new high interest rates for those who don&#39;t want to take on much investment risk, though with a catch. In other news, Hunter Biden has been charged with evading taxes from foreign firms and Iran has been using Houthi proxies to escalate their fight with Israel. There is also the interesting story of how Bogotá solved their transportation gridlock and whether better buses could benefit US commuters. Finally, CAIR recently made some remarks that did not sit well with the White House so they have disavowed their association with them.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>If You Hate Investment Risk, High Interest Rates Are Great. With a Catch.</h3>
+<sub>By Jeff Sommer</sub>
+<p>Investors who want to lock in safe income may be hurt over the long haul if they don’t also hold stocks, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Hunter Biden’s New Charges, and a Weight-Loss Surgery ‘Factory’</h3>
 <sub>By New York Times Audio</sub>
@@ -94,6 +98,12 @@ Internationally, Iran is using proxies to escalate tension with Israel by sendin
 <p>The president’s son was indicted on nine counts accusing him of evading federal taxes on millions of dollars he has made in his work with foreign companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Timeline of Hunter Biden’s Life and Legal Troubles</h3>
+<sub>By Michael Levenson</sub>
+<p>Mr. Biden, 53, has acknowledged a decades-long addiction to alcohol and crack cocaine. His foreign business dealings have led to questions about President Biden’s influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
 <h3>How One City Tried to Solve Gridlock for Us All</h3>
 <sub>By Michael Kimmelman</sub>
@@ -122,18 +132,6 @@ Internationally, Iran is using proxies to escalate tension with Israel by sendin
 <h3>White House Disavows U.S. Islamic Group After Leader’s Oct. 7 Remarks</h3>
 <sub>By Peter Baker</sub>
 <p>The director of the Council on American-Islamic Relations said in a speech that he was “was happy to see” Palestinians break out of Gaza on the day Hamas attacked Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Who Killed 3 U.N.L.V. Faculty Members Had Pursued College Jobs, Officials Say</h3>
-<sub>By Meg Bernhard and Nicholas Bogel-Burroughs</sub>
-<p>The 67-year-old gunman taught at East Carolina University for nearly 16 years and had a target list of faculty members there and at U.N.LV., the police said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Much Can Forests Fight Climate Change? A Sensor in Space Has Answers.</h3>
-<sub>By Manuela Andreoni and Leanne Abraham</sub>
-<p>A new NASA program is helping researchers more accurately calculate how much planet-warming carbon protected areas are storing. It’s a lot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
