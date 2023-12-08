@@ -60,32 +60,44 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 7, Central Standard Time</p>
 <p>
-There have been a lot of stories coming out of the US and abroad lately. In the US, a Texas judge has granted a woman&#39;s request to have an abortion, even though it&#39;s against the state laws. Meanwhile, in Israel and Gaza, there has been violence between the two sides and maps are being created to track the attacks. On the business front, an investigative piece in New York revealed that a famous hospital is charging poor patients for costly weight-loss surgery.
+Things have been happening on the national and global scale - especially in the US! In Texas, a judge approved a woman&#39;s request for an abortion despite state bans, signaling an important milestone for those in similar post-Roe cases. Overseas, Hanukkah has taken on a new meaning as Israelis mark the holiday in the aftermath of terrorist attacks. Holiday symbols also have people concerned about safety here at home. A hospital is earning money from performing weight loss surgeries on poor patients and Rikers Island prisoners, which brings up ethical issues. There&#39;s also been strong words exchanged between Congresswoman Stefanik and Harvard faculty over campus antsemitism. Germany is seeing a clamp down on criticism of Israel, while some art events are being canceled to due to it.
 
-Also in the news are reports about Donald Trump&#39;s ongoing legal troubles, Nikki Haley&#39;s South Carolina strategy, and upcoming Republican debates hosted by CNN in Iowa and New Hampshire. Several college presidents have come under scrutiny for their reactions to student antisemitism, and over in Europe the German cultural scene is struggling with freedom of expression as they debate criticism of Israel. Lastly, there’s been some controversy around Artforum magazine, which fired its top editor over protests related to war-related boycotting.</p>
+As for former President Trump, he&#39;s now facing imminent legal and political trials while also appealing immunity rulings. He&#39;s making headlines again as he seeks another term - but it has led Democrats into questioning what is best for the party. In South Carolina, Nikki Haley is preparing for another run in 2024, although her state and party have changed since her last election. Meanwhile Chris Christie, after his feisty debate performance drawing attention to Donald Trump, has been visiting New Hampshire for votes - so it will be interesting to see how things develop when the next election rolls around!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Judge Grants Woman’s Request for Abortion, In Rare Post-Roe Case</h3>
+<h3>Texas Judge Grants Woman’s Request for Abortion, in Rare Post-Roe Case</h3>
 <sub>By J. David Goodman</sub>
 <p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Israel Is Using Real-Time Battlefield Intelligence to Target Hamas</h3>
-<sub>By Adam Goldman</sub>
-<p>Israel has recovered a trove of material that its military has used to assess the extent of the group’s attack plans, and its tactics and abilities, information reviewed by The Times shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Israel, Hanukkah begins in the shadow of two months of war.</h3>
+<sub>By Talya Minsberg</sub>
+<p>The holiday held a new meaning for many Israelis in the wake of the Oct. 7 terrorist attacks, including relatives of people still held hostage in Gaza and reservists called up to fight against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>See how Israeli troops reached Khan Younis, the largest city in southern Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Some, the Symbols of Hanukkah Bring Extra Concern This Year</h3>
+<sub>By Jacey Fortin</sub>
+<p>On the first night of traditional menorah lightings, some communities and Jewish families are grappling with questions of meaning and safety.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>A Famed Hospital Churns Poor Patients Through Weight-Loss Surgery</h3>
 <sub>By Jessica Silver-Greenberg, Sarah Kliff and Aimee Ortiz</sub>
 <p>New York’s Bellevue Hospital performs thousands of the lucrative surgeries a year, even on Rikers Island prisoners and other inappropriate patients.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Questioning University Presidents on Antisemitism, Stefanik Goes Viral</h3>
+<sub>By Annie Karni</sub>
+<p>The No. 4 Republican, a Harvard alumna with a fraught relationship with her alma mater, had a confrontation over campus responses to antisemitism that resonated across the political spectrum.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>German Cultural Scene Navigates a Clampdown on Criticism of Israel</h3>
+<sub>By Alex Marshall</sub>
+<p>A torrent of canceled events is threatening Germany’s reputation as a haven for artistic freedom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,6 +110,12 @@ Also in the news are reports about Donald Trump&#39;s ongoing legal troubles, Ni
 <h3>Trump Seeks Freeze of Election Case as He Appeals Immunity Ruling</h3>
 <sub>By Alan Feuer</sub>
 <p>In an effort to delay the former president’s federal trial on charges of trying to overturn the election, his lawyers asked for a pause while they challenge the ruling that he is not immune from prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Home Is Where the Heart of Hip-Hop Is</h3>
+<sub>By Anna Kodé</sub>
+<p>Hip-hop got its start in a Bronx apartment building 50 years ago. The concept of home has been at the center of the genre ever since.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -113,27 +131,9 @@ Also in the news are reports about Donald Trump&#39;s ongoing legal troubles, Ni
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>CNN Will Host Two G.O.P. Debates in Iowa and New Hampshire</h3>
-<sub>By Michael Gold</sub>
-<p>The announcement of the debates, planned for the days before each state’s nominating contest, comes as the Republican National Committee considers loosening its rules for the onstage clashes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>College Presidents Under Fire After Dodging Questions About Antisemitism</h3>
-<sub>By Stephanie Saul and Anemona Hartocollis</sub>
-<p>The leaders of Harvard, M.I.T. and Penn appeared to evade questions about whether students should be disciplined if they call for the genocide of Jews.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Bruised by War-Related Boycott, Artforum Seeks a Reset</h3>
-<sub>By Zachary Small</sub>
-<p>The magazine’s first issue since its top editor was fired is noticeably slimmer. Contributors pulled articles because of the response to an open letter about the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>German Cultural Scene Navigates a Clampdown on Criticism of Israel</h3>
-<sub>By Alex Marshall</sub>
-<p>A torrent of canceled events is threatening Germany’s reputation as a haven for artistic freedom.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Chris Christie, Fresh Off Feisty Debate, Courts Voters in New Hampshire</h3>
+<sub>By Chris Cameron and Lisa Lerer</sub>
+<p>Mr. Christie rejoined the campaign trail, energized by a debate performance in which he seized the spotlight with attacks on Mr. Trump and his rivals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
