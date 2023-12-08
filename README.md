@@ -60,12 +60,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 8, Central Standard Time</p>
 <p>
-I&#39;ve got some news about a few events happening in the US right now. First, Congress is investigating prominent universities like Harvard, M.I.T., and the University of Pennsylvania for their handling of antisemitism on campus. A donor even withdrew a $100 million gift because of this. Also, there&#39;s been a confrontation between Rep. Elise Stefanik and university presidents over ­campus responses to antisemitism that&#39;s gone viral. On another note, a Texas judge granted a woman&#39;s request for an abortion in an extraordinary case after her fetus was diagnosed with a fatal condition, and defying the state&#39;s anti-abortion bans. 
+There has been a lot of news recently that affects the US. Hunter Biden, President Joe Biden&#39;s son, was charged with evading taxes on millions of dollars he made from foreign companies. Congress is currently investigating some Ivy League universities such as Harvard, M.I.T and University of Pennsylvania for how they are handling antisemitism on campus. Some donors have started withdrawing donations and calls are growing for the university presidents to resign. Also, a professor at East Carolina University killed three faculty members at UNLV. 
 
-Another event relates to Hunter Biden, whose been charged with evading taxes on millions of dollars due to his work with foreign companies. His indictment has caused quite a stir with huge political repercussions! There&#39;s also been opposition and backlash towards CAIR (Council on American-Islamic Relations) after its director made comments that seemed again Palestine during the Israel-Hamas war that started some months ago. 
-
-Oh, and there were two other stories related to high-profile people: Ernest Hemingway&#39;s typewriter is up for auction, and people are talking about whether Pres. Biden should run again in 2024 - which has created an awkward conversation among Democrats!</p>
+Internationally, Iran is using proxies to escalate tension with Israel by sending missiles and drones towards Israeli and American targets. We&#39;re also learning about how forests can fight climate change thanks to a new NASA program that uses sensors in space to measure the amount of carbon-storing protected areas there are. </p>
 <ol>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Hunter Biden’s New Charges, and a Weight-Loss Surgery ‘Factory’</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism</h3>
 <sub>By Alan Blinder, Anemona Hartocollis and Stephanie Saul</sub>
@@ -76,12 +80,6 @@ Oh, and there were two other stories related to high-profile people: Ernest Hemi
 <h3>Questioning University Presidents on Antisemitism, Stefanik Goes Viral</h3>
 <sub>By Annie Karni</sub>
 <p>The No. 4 Republican, a Harvard alumna with a fraught relationship with her alma mater, had a confrontation over campus responses to antisemitism that resonated across the political spectrum.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Judge Grants Woman’s Request for Abortion, in Rare Post-Roe Case</h3>
-<sub>By J. David Goodman</sub>
-<p>A state court judge said a woman whose fetus was diagnosed with a fatal condition could legally obtain an abortion despite the state’s bans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -96,23 +94,35 @@ Oh, and there were two other stories related to high-profile people: Ernest Hemi
 <p>The president’s son was indicted on nine counts accusing him of evading federal taxes on millions of dollars he has made in his work with foreign companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>How One City Tried to Solve Gridlock for Us All</h3>
+<sub>By Michael Kimmelman</sub>
+<p>Bogotá led the world with innovation in inexpensive mass transit. Its experience shows what it takes to keep progress going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-headway-blue" alt="">
+<h3>Could Better Buses Fix Your Commute?</h3>
+<sub>By Eden Weingart</sub>
+<p>A cheaper, faster and more equitable approach to transit could be a path to progress in the U.S.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iran Looks to Houthi Proxies to Escalate Fight With Israel</h3>
+<sub>By Farnaz Fassihi, Ronen Bergman and Eric Schmitt</sub>
+<p>The Iranian-backed militia in Yemen has launched drone and missile attacks on Israeli and American targets. American officials fear the group could go too far and incite a wider war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Biden Is Trying to Rein In Israel. Is It Working?</h3>
+<sub>By Michael Barbaro, Stella Tan, Olivia Natt, Summer Thomad, Michael Simon Johnson, Paige Cowett, Dan Powell, Rowan Niemisto and Alyssa Moxley</sub>
+<p>What started as unwavering support has given way to growing skepticism and sometimes open disapproval.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>White House Disavows U.S. Islamic Group After Leader’s Oct. 7 Remarks</h3>
 <sub>By Peter Baker</sub>
 <p>The director of the Council on American-Islamic Relations said in a speech that he was “was happy to see” Palestinians break out of Gaza on the day Hamas attacked Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>At Hanukkah Rally in New York, Prayers, Candles and Calls for Cease-Fire</h3>
-<sub>By Claire Fahy</sub>
-<p>On the first night of Hanukkah, which comes two months into the Israel-Hamas war, demonstrators mourned the Israelis and Palestinians who had been killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>You Can Buy Hemingway’s Typewriter. But Would You Use It?</h3>
-<sub>By David Waldstein and Desiree Rios</sub>
-<p>Coming to auction is a clattering collection of machines once owned by the likes of Ernest Hemingway, Shirley Temple, Andy Rooney and … the Unabomber.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Man Who Killed 3 U.N.L.V. Faculty Members Had Pursued College Jobs, Officials Say</h3>
@@ -120,23 +130,11 @@ Oh, and there were two other stories related to high-profile people: Ernest Hemi
 <p>The 67-year-old gunman taught at East Carolina University for nearly 16 years and had a target list of faculty members there and at U.N.LV., the police said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>China’s Electric Car Factories Can’t Hire Fast Enough</h3>
-<sub>By Keith Bradsher</sub>
-<p>China misjudged the rapid expansion of its electric vehicle sector, leaving a shortfall of skilled technicians as young people shun manufacturing careers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Should Biden Really Run Again? He Prolongs an Awkward Conversation.</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The president and his team have waved away Democrats’ worries about his bid for another term. But this week, he has drawn new attention to the question of what is best for the party.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Likening Haley to Clinton, Attacks From Pro-DeSantis Super PAC Fall Short</h3>
-<sub>By Angelo Fichera</sub>
-<p>The claims by a super PAC that backs Gov. Ron DeSantis comparing Nikki Haley to Hillary Clinton are misleading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Much Can Forests Fight Climate Change? A Sensor in Space Has Answers.</h3>
+<sub>By Manuela Andreoni and Leanne Abraham</sub>
+<p>A new NASA program is helping researchers more accurately calculate how much planet-warming carbon protected areas are storing. It’s a lot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
