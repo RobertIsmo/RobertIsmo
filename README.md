@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 8, Central Standard Time</p>
 <p>
-At the moment, there is a lot of news involving issues concerning antisemitism and media attention on the way universities in the US are dealing with it. Congress has opened an investigation into Harvard, M.I.T. and University of Pennsylvania in response to complaints raised by their donors, causing some to demand for the resignation of the presidents of these universities. 
+I&#39;ve got some news about a few events happening in the US right now. First, Congress is investigating prominent universities like Harvard, M.I.T., and the University of Pennsylvania for their handling of antisemitism on campus. A donor even withdrew a $100 million gift because of this. Also, there&#39;s been a confrontation between Rep. Elise Stefanik and university presidents over ­campus responses to antisemitism that&#39;s gone viral. On another note, a Texas judge granted a woman&#39;s request for an abortion in an extraordinary case after her fetus was diagnosed with a fatal condition, and defying the state&#39;s anti-abortion bans. 
 
-Meanwhile, there is a current conflict going on between Israel and Hamas that has been going on for two months now, with both sides accused of aggressive acts and resulting in the loss of many lives in the process.
+Another event relates to Hunter Biden, whose been charged with evading taxes on millions of dollars due to his work with foreign companies. His indictment has caused quite a stir with huge political repercussions! There&#39;s also been opposition and backlash towards CAIR (Council on American-Islamic Relations) after its director made comments that seemed again Palestine during the Israel-Hamas war that started some months ago. 
 
-On the US domestic front, President Biden&#39;s son Hunter has been charged for evading taxes on millions he made from foreign firms, while a judge in Texas granted a woman&#39;s request for abortion despite state bans. 
-
-We&#39;re also seeing a shift away from manufacturing careers among younger people in China, which is leading to a shortage of skilled technicians for their electric car factories. Finally, there&#39;s some controversy regarding Biden running for another term after deflecting questions from Democrats who worry that it could hurt the party&#39;s chances, exacerbating pre-existing tensions among them.</p>
+Oh, and there were two other stories related to high-profile people: Ernest Hemingway&#39;s typewriter is up for auction, and people are talking about whether Pres. Biden should run again in 2024 - which has created an awkward conversation among Democrats!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism</h3>
@@ -98,11 +96,11 @@ We&#39;re also seeing a shift away from manufacturing careers among younger peop
 <p>The president’s son was indicted on nine counts accusing him of evading federal taxes on millions of dollars he has made in his work with foreign companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says Hamas Fired Rockets From Near Gaza Shelters</h3>
-<sub>By Liam Stack, Yara Bayoumy, Aric Toler, Lauren Leatherby and Michael Levenson</sub>
-<p>The claim adds to the growing concerns that there is no safe place in the enclave for those who have been displaced since the war began.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>White House Disavows U.S. Islamic Group After Leader’s Oct. 7 Remarks</h3>
+<sub>By Peter Baker</sub>
+<p>The director of the Council on American-Islamic Relations said in a speech that he was “was happy to see” Palestinians break out of Gaza on the day Hamas attacked Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>At Hanukkah Rally in New York, Prayers, Candles and Calls for Cease-Fire</h3>
