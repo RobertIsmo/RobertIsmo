@@ -60,9 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 8, Central Standard Time</p>
 <p>
-There&#39;s news about business, the US, health, science, headway&#x2F;transport, world news and other topics. In business, investors may want to consider taking a balanced approach when it comes to risk and returns. In the US, there are several issues leading to Congressional inquiries such as Harvard&#39;s President apologizing for Congressional Testimony on Antisemitism and US universities facing an inquiry over their handling of antisemitism. Also in the US, Hunter Biden has been charged for evading taxes on millions from foreign firms and there&#39;s a timeline which chronicles his legal troubles - including his addiction to alcohol and crack cocaine. 
-In health news, a new CRISPR-based therapy for sickle cell has been approved by the FDA - although there are obstacles limiting its reach. And in science news, there&#39;s a discussion on how gene editing technology has created new innovations but also raised moral debates on altering human DNA. We&#39;re also seeing some progress with transport solutions - with one city in Bogota showing potential for innovation when it comes to mass transit solutions and buses being mentioned as a possible way to alleviate transport woes in the US. On the international front, Iran is looking to proxy militias in Yemen to stoke tensions with Israel. Lastly, internally within the US, The White House is attempting to distance itself from an Islamic group after its leader made controversial remarks regarding Palestine&#39;s attack on Israel earlier last month. Finally there is also some magazine coverage focused on Levy Rozman - who gave up his Grandmaster dreams to become an engaging chess teacher.</p>
+Right now, there are a few different stories in the news. One story is about new medical treatments for sickle cell disease that are expensive and complex to deliver, which affects people&#39;s ability to access these treatments. Another story is that job growth in the US has held up even as the economy has cooled down. Investors who want to lock in safe income may be hurt over the long haul, as well as people who rely on stocks. Harvard&#39;s president recently apologized for her congressional testimony regarding antisemitism, and a court is upholding a gag order on Trump in an election case while allowing more leeway for him to criticize someone. There&#39;s also a former US ambassador whose past is being reexamined because he may have been a Cuban agent. There are also stories about solutions to urban transit issues, Levy Rozman teaching chess, Univision running an interview with former President Trump, and finding a replacement for Florida&#39;s recently expelled congressman.</p>
 <ol>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves Sickle Cell Treatments, Including One That Uses CRISPR</h3>
+<sub>By Gina Kolata</sub>
+<p>People with the genetic disease have new opportunities to eliminate their symptoms, but the treatments come with obstacles that limit their reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>New Sickle Cell Therapies Will Be Out of Reach Where They Are Needed Most</h3>
+<sub>By Rebecca Robbins and Stephanie Nolen</sub>
+<p>There is no clear path for African patients to get access to the treatments, which have multimillion-dollar price tags and are highly complex to manufacture and deliver.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Job Growth Holds Up as Economy Gradually Cools</h3>
+<sub>By Lydia DePillis</sub>
+<p>Interest rate increases have taken the edge off labor demand, but unemployment dipped in November, and wages rose more than expected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>If You Hate Investment Risk, High Interest Rates Are Great. With a Catch.</h3>
 <sub>By Jeff Sommer</sub>
@@ -76,34 +93,16 @@ In health news, a new CRISPR-based therapy for sickle cell has been approved by 
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism</h3>
-<sub>By Alan Blinder, Anemona Hartocollis and Stephanie Saul</sub>
-<p>Congress has opened an investigation into Harvard, M.I.T. and University of Pennsylvania, a $100 million gift was withdrawn, and demands have grown for the universities’ presidents to resign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Charged With Evading Taxes on Millions From Foreign Firms</h3>
-<sub>By Glenn Thrush and Michael S. Schmidt</sub>
-<p>The Justice Department charged President Biden’s son after a long-running and wide-ranging investigation with substantial political repercussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of Hunter Biden’s Life and Legal Troubles</h3>
-<sub>By Michael Levenson</sub>
-<p>Mr. Biden, 53, has acknowledged a decades-long addiction to alcohol and crack cocaine. His foreign business dealings have led to questions about President Biden’s influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves Sickle Cell Treatments, Including One That Uses CRISPR</h3>
-<sub>By Gina Kolata</sub>
-<p>People with the genetic disease have new opportunities to eliminate their symptoms, but the treatments come with obstacles that limit their reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Appeals Court Upholds, but Narrows, Gag Order on Trump in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>A three-judge panel largely left in place an order limiting what the former president can say about his upcoming federal trial but allowed him more leeway to criticize Jack Smith, the special counsel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>CRISPR, 10 Years On: Learning to Rewrite the Code of Life</h3>
-<sub>By Carl Zimmer</sub>
-<p>The gene-editing technology has led to innovations in medicine, evolution and agriculture — and raised profound ethical questions about altering human DNA.  <a href="https://nyti.ms/3OCVDYE"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, June 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ex-U.S. Ambassador Accused of Being a Cuban Agent Rose From Humble Origins</h3>
+<sub>By Ernesto Londoño, Frances Robles and David C. Adams</sub>
+<p>Former colleagues are struggling to separate fact from deception as they reconsider Manuel Rocha, who was accused of being a Cuban agent for decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-headway-blue" alt="">
 <h3>Could Better Buses Fix Your Commute?</h3>
@@ -117,22 +116,22 @@ In health news, a new CRISPR-based therapy for sickle cell has been approved by 
 <p>Bogotá led the world with innovation in inexpensive mass transit. Its experience shows what it takes to keep progress going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran Looks to Houthi Proxies to Escalate Fight With Israel</h3>
-<sub>By Farnaz Fassihi, Ronen Bergman and Eric Schmitt</sub>
-<p>The Iranian-backed militia in Yemen has launched drone and missile attacks on Israeli and American targets. American officials fear the group could go too far and incite a wider war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>White House Disavows U.S. Islamic Group After Leader’s Oct. 7 Remarks</h3>
-<sub>By Peter Baker</sub>
-<p>The director of the Council on American-Islamic Relations said in a speech that he was “was happy to see” Palestinians break out of Gaza on the day Hamas attacked Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>‘Starting Soon, Nerds’: Levy Rozman Wants to Teach You Chess</h3>
 <sub>By Reid Forgrave</sub>
 <p>He sacrificed his grandmaster dreams to become one of the game’s most popular personalities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Conundrum of Covering Trump Lands at Univision’s Doorstep</h3>
+<sub>By Frances Robles, Ken Bensinger and Jeremy W. Peters</sub>
+<p>When the U.S.’s largest Spanish-language network ran a friendly interview with the former president, Democrats cried foul. Executives say they’re seeking more balance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Finding a Santos Successor Is Proving No Simple Task for Republicans</h3>
+<sub>By Nicholas Fandos</sub>
+<p>Party leaders have vowed not to repeat the vetting mistakes they made with the expelled congressman. But getting to yes is proving messy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
