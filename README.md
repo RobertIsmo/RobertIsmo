@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 7, Central Standard Time</p>
+<p>It is Friday, December 8, Central Standard Time</p>
 <p>
-Recently, Congress has opened an investigation into three prestigious universities - Harvard, MIT, and UPenn - over their handling of antisemitism on campus. Madison Cawthorn, a university alumna and Republican House leader, had a viral confrontation about these matters that attracted attention across the political spectrum. In other news, a Texas court judge granted a woman&#39;s request for abortion despite state bans, and Hunter Biden was indicted with nine counts of tax fraud related to his work with international companies. Across the country, there are multiple gatherings to remember those lost due to the ongoing conflict between Israel and Hamas, and there is a large hip-hop anniversary celebration centered around home in The Bronx. Meanwhile, another college shooting occurred involving an ex-faculty member at UNLV who had previously pursued job opportunities elsewhere. Finally, Joe Biden&#39;s run for president is becoming more uncertain as he faces criticism over how far he should go in controlling migrant access in the US. Chris Christie is campaigning in New Hampshire after putting on quite a show during the last presidential debate.</p>
+At the moment, there is a lot of news involving issues concerning antisemitism and media attention on the way universities in the US are dealing with it. Congress has opened an investigation into Harvard, M.I.T. and University of Pennsylvania in response to complaints raised by their donors, causing some to demand for the resignation of the presidents of these universities. 
+
+Meanwhile, there is a current conflict going on between Israel and Hamas that has been going on for two months now, with both sides accused of aggressive acts and resulting in the loss of many lives in the process.
+
+On the US domestic front, President Biden&#39;s son Hunter has been charged for evading taxes on millions he made from foreign firms, while a judge in Texas granted a woman&#39;s request for abortion despite state bans. 
+
+We&#39;re also seeing a shift away from manufacturing careers among younger people in China, which is leading to a shortage of skilled technicians for their electric car factories. Finally, there&#39;s some controversy regarding Biden running for another term after deflecting questions from Democrats who worry that it could hurt the party&#39;s chances, exacerbating pre-existing tensions among them.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Universities Face Congressional Inquiry and Angry Donors Over Handling of Antisemitism</h3>
@@ -92,16 +98,22 @@ Recently, Congress has opened an investigation into three prestigious universiti
 <p>The president’s son was indicted on nine counts accusing him of evading federal taxes on millions of dollars he has made in his work with foreign companies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Says Hamas Fired Rockets From Near Gaza Shelters</h3>
+<sub>By Liam Stack, Yara Bayoumy, Aric Toler, Lauren Leatherby and Michael Levenson</sub>
+<p>The claim adds to the growing concerns that there is no safe place in the enclave for those who have been displaced since the war began.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>At Hanukkah Rally in New York, Prayers, Candles and Calls for Cease-Fire</h3>
 <sub>By Claire Fahy</sub>
 <p>On the first night of Hanukkah, which comes two months into the Israel-Hamas war, demonstrators mourned the Israelis and Palestinians who had been killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Home Is Where the Heart of Hip-Hop Is</h3>
-<sub>By Anna Kodé</sub>
-<p>Hip-hop got its start in a Bronx apartment building 50 years ago. The concept of home has been at the center of the genre ever since.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>You Can Buy Hemingway’s Typewriter. But Would You Use It?</h3>
+<sub>By David Waldstein and Desiree Rios</sub>
+<p>Coming to auction is a clattering collection of machines once owned by the likes of Ernest Hemingway, Shirley Temple, Andy Rooney and … the Unabomber.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,11 +122,11 @@ Recently, Congress has opened an investigation into three prestigious universiti
 <p>The 67-year-old gunman taught at East Carolina University for nearly 16 years and had a target list of faculty members there and at U.N.LV., the police said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ireland’s Riot Was Not a Surprise to Those Who Watch the Far Right</h3>
-<sub>By Megan Specia</sub>
-<p>The disorder in Dublin on Nov. 23 may have appeared to come from nowhere. But experts say it reflected long-running social problems and an emboldened anti-immigrant movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>China’s Electric Car Factories Can’t Hire Fast Enough</h3>
+<sub>By Keith Bradsher</sub>
+<p>China misjudged the rapid expansion of its electric vehicle sector, leaving a shortfall of skilled technicians as young people shun manufacturing careers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Should Biden Really Run Again? He Prolongs an Awkward Conversation.</h3>
@@ -123,15 +135,9 @@ Recently, Congress has opened an investigation into three prestigious universiti
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chris Christie, Fresh Off Feisty Debate, Courts Voters in New Hampshire</h3>
-<sub>By Chris Cameron and Lisa Lerer</sub>
-<p>Mr. Christie rejoined the campaign trail, energized by a debate performance in which he seized the spotlight with attacks on Mr. Trump and his rivals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Tied Ukraine Aid to Border Security, and It Backfired on Him</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>President Biden faces difficult choices about how far to go in giving in to conservative demands that he choke off the number of migrants admitted to the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Likening Haley to Clinton, Attacks From Pro-DeSantis Super PAC Fall Short</h3>
+<sub>By Angelo Fichera</sub>
+<p>The claims by a super PAC that backs Gov. Ron DeSantis comparing Nikki Haley to Hillary Clinton are misleading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
