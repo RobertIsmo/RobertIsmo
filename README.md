@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-It looks like a lot of interesting and important developments are happening in the world right now! There is a crisis at OpenAI, a company focused on advancing artificial intelligence research, over the leadership of Sam Altman, and the European Union has just agreed on its first set of rules regulating use of AI. In the US, the Texas Supreme Court has temporarily blocked court-approved abortion while President Biden is openly criticizing his predecessor and former US President Donald Trump is creating fear among Europeans about abandoning NATO if he regains power. In Iraq, Iran-backed forces have taken over much of the country&#39;s farmland, and countries like the UAE are focusing more on sustainability as they seek ways to beat rising desert temperatures. On top of all that, companies are extending diversity programs to faith groups to fight mounting antisemitism. It&#39;s definitely an interesting time!</p>
+There is a lot happening in the world right now! In technology, OpenAI, a company focused on artificial intelligence, has been dealing with some internal turmoil. The European Union also recently agreed on new rules for A.I. In the U.S., the Texas Supreme Court has temporarily halted court-approved abortions. Meanwhile in Iraq, there are rising fears of a broader Middle East conflict as Iran-backed forces gather weapons in an American ally&#39;s territory. There are also concerns that a second Trump presidency could mean an American retreat from Europe and gutting of NATO. In business, one law firm helped both Penn and Harvard Universities through a hearing on antisemitism, while workers are asking employers to respond to rising Islamophobia and antisemitism. On the environment front, architects in the United Arab Emirates are focusing on sustainability to beat the heat, and Azerbaijan will be hosting the U.N. climate summit in 2024 after Russia exercised its veto power over countries that had criticized its invasion of Ukraine.</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
@@ -87,7 +87,7 @@ It looks like a lot of interesting and important developments are happening in t
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Once, This Was Iraqi Farmland. Now It’s Controlled by an Iran-Linked Militia</h3>
+<h3>Why Fears of a Broader Middle East Conflict Are Growing in Iraq</h3>
 <sub>By Alissa J. Rubin and Emily Garthwaite</sub>
 <p>Iran-backed forces are assembling drones and retrofitting rockets in the territory of an American ally. They are used in attacks on U.S. outposts in Iraq and Syria.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
@@ -98,23 +98,11 @@ It looks like a lot of interesting and important developments are happening in t
 <p>Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Las Vegas, Biden Speaks the Name He Often Doesn’t</h3>
-<sub>By Anjali Huynh</sub>
-<p>The president openly attacked his predecessor, former President Donald J. Trump, deploying direct criticism he has frequently avoided, at an event announcing billions for high-speed rail service.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
+<sub>By Lauren Hirsch</sub>
+<p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Iowa, Nikki Haley Looks Beyond Her Rivals’ Attacks</h3>
-<sub>By Kellen Browning</sub>
-<p>In her first campaign stop since Wednesday’s heated Republican debate, Ms. Haley suggested that fierce criticism from her opponents continued to not be worth her time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Norman Lear Reshaped How America Saw Black Families</h3>
-<sub>By Jonathan Abrams and Christopher Kuo</sub>
-<p>“Good Times,” “The Jeffersons” and “Sanford and Son” brought a wave of Black characters to TV, even as the shows opened up tensions over stereotypes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Mideast War Pushes Companies to Extend Diversity Programs to Faith Groups</h3>
@@ -122,16 +110,28 @@ It looks like a lot of interesting and important developments are happening in t
 <p>Workers are asking employers to respond to rising Islamophobia and antisemitism. But office discussions about religion are complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
-<sub>By Lauren Hirsch</sub>
-<p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>What’s the Best ‘Wheel of Fortune’ Strategy? Play and Find Out.</h3>
+<sub>By Ben Blatt, Aatish Bhatia, Francesca Paris and Rumsey Taylor</sub>
+<p>Play a simplified version of the bonus round, then read on for strategy advice, whether you’re a future contestant or just watching at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How Can Buildings Beat the Heat in a Desert City? Blend Ancient and Modern.</h3>
 <sub>By Jenny Gross and Katarina Premfors</sub>
 <p>More architects in the United Arab Emirates, the host of this year’s U.N. climate summit, are moving past glass skyscrapers and focusing on sustainability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Protesters Test the Limits of Authoritarian Dubai’s Climate Summit</h3>
+<sub>By Vivian Nereim</sub>
+<p>The annual U.N. talks have brought the rare spectacle of limited protests to the politically repressive United Arab Emirates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Azerbaijan Is Expected to Host the U.N. Climate Summit in 2024</h3>
+<sub>By Brad Plumer and Max Bearak</sub>
+<p>An agreement ended a monthslong deadlock in which Russia exercised veto power over countries that had criticized its invasion of Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
