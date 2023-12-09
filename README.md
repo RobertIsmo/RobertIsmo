@@ -58,10 +58,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 8, Central Standard Time</p>
+<p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Europe, they just agreed on some major rules limiting the use of artificial intelligence. In the US, Harvard University&#39;s president recently apologized after giving questionable testimony to Congress about antisemitism. There was also a law firm that served both Penn and Harvard for a hearing on the same topic. In entertainment news, Ryan O&#39;Neal, who became an international star after his role in &#39;Love Story,&#39; passed away last week and people are streaming his movies as a tribute. Lastly, there&#39;s been some legal battles in the US: Appeals court upheld but narrowed a gag order that was imposed on Donald Trump in an election case and Ken Paxton, the Attorney General for Texas, is trying to block a court-approved abortion for a woman whose fetus has a fatal condition.</p>
+Right now, there’s a lot of tension in the Middle East between Israel and Gaza. The US is trying to mediate a cease-fire, but so far hasn&#39;t been successful. Closer to home, there’s been a Texas Supreme Court ruling that has temporarily halted court-approved abortions. In Europe, they just agreed on a landmark set of rules on artificial intelligence. In the US, Harvard’s President apologized for congressional testimony regarding antisemitism and Biden has recently made his first public attack against Trump while announcing billions for high-speed rail service. Finally, actor Ryan O&#39;Neal has passed away at 82.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
+<sub>By Michael Crowley</sub>
+<p>The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Vetoes Israel-Hamas Cease-Fire Resolution at U.N. Security Council</h3>
+<sub>By Farnaz Fassihi, Michael Levenson, Aaron Boxerman and Victoria Kim</sub>
+<p>The veto came amid a warning that “civil order is breaking down” in Gaza, and a day after the Biden administration warned that Israel’s military had not done enough to reduce harm to civilians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Supreme Court Temporarily Halts Court-Approved Abortion</h3>
+<sub>By J. David Goodman</sub>
+<p>The court, responding to an appeal from Attorney General Ken Paxton, put on hold a lower court order allowing an abortion for a woman whose fetus has a fatal condition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>E.U. Agrees on Landmark Artificial Intelligence Rules</h3>
 <sub>By Adam Satariano</sub>
@@ -72,12 +90,6 @@ There&#39;s a lot going on in the world right now. In Europe, they just agreed o
 <h3>Google’s Next Top Model, Will the Cybertruck Crash? and This Week in A.I.</h3>
 <sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Sophia Lanman</sub>
 <p>Like the Cybertruck, this podcast is bulletproof.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
-<sub>By Michael Crowley</sub>
-<p>The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,27 +123,15 @@ There&#39;s a lot going on in the world right now. In Europe, they just agreed o
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Upholds, but Narrows, Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>The decision largely left in place an order limiting what the former president can say about his upcoming federal trial but allowed him more leeway to criticize Jack Smith, the special counsel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Las Vegas, Biden Speaks the Name He Often Doesn’t</h3>
+<sub>By Anjali Huynh</sub>
+<p>The president openly attacked his predecessor, former President Donald J. Trump, deploying direct criticism he has frequently avoided, at an event announcing billions for high-speed rail service.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As More ‘Fake Electors’ Face Charges, a Key Witness Emerges</h3>
-<sub>By Danny Hakim</sub>
-<p>Kenneth Chesebro, an architect of the plan to deploy people claiming to be Trump electors in states won by President Biden, is cooperating with inquiries in Michigan, Arizona and Nevada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Teenager Who Killed Four Students Is Sentenced to Life</h3>
-<sub>By Stephanie Saul and Anna Betts</sub>
-<p>The gunman, who carried out the deadliest high school shooting in the history of the state, will not be eligible for parole.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Attorney General Tries to Block a Court-Approved Abortion</h3>
-<sub>By J. David Goodman</sub>
-<p>Ken Paxton is asking the State Supreme Court to overturn a judge’s decision to allow an abortion for a woman whose fetus has a fatal condition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Iowa, Nikki Haley Looks Beyond Her Rivals’ Attacks</h3>
+<sub>By Kellen Browning</sub>
+<p>In her first campaign stop since Wednesday’s heated Republican debate, Ms. Haley suggested that fierce criticism from her opponents continued to not be worth her time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
