@@ -60,24 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-It looks like things are heating up in the Middle East, with the US and Israel both taking a firm stance on the escalating crisis in Gaza. The US has vetoed a United Nations ceasefire resolution and is seeking more action to protect civilians. Meanwhile, on a completely different topic, the Texas Supreme Court has temporarily blocked an abortion for a woman whose fetus has a fatal condition. 
-
-The European Union recently made headway on landmark regulations for artificial intelligence use. Closer to home, Harvard recently had to apologize after its president was criticized for testimony related to antisemitism. The University of Pennsylvania and MIT came under similar fire, and the same law firm represented them all! 
-
-In pop culture news, Ryan O&#39;Neal passed away at age 82 after a long career in movies. He was known for having the perfect offbeat charm and wit in films like Love Story that captivated audiences worldwide. If you&#39;re feeling nostalgic, why not watch some of his movies?
-
-On a lighter note, President Biden recently gave a speech in Las Vegas announcing billions for high-speed rail service and did what he usually doesn&#39;t do - openly attack former President Donald J. Trump. Meanwhile in Iowa, Nikki Haley is unphased by her rivals&#39; attacks from the Republican debate last week.</p>
+In the technology sector, there has been some upheaval at a major A.I. company, OpenAI, with board members and executives having a disagreement about its leadership. Meanwhile, the European Union has put out some new rules on the use of A.I., which could help limit its use. In the U.S., there is news on abortion rights and U.S.-Israel relations, as well as President Biden&#39;s recent attack on former President Trump while announcing billions for high-speed rail service. On the business side of things, a Middle East war has companies looking to extend diversity programs to those of different faiths and one law firm preparing both Penn and Harvard for an upcoming hearing on antisemitism. And finally, in cities that have warmer climates, architects are being encouraged to pursue sustainability projects that balance modern and ancient building designs.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
-<sub>By Michael Crowley</sub>
-<p>The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
+<sub>By Tripp Mickle, Cade Metz, Mike Isaac and Karen Weise</sub>
+<p>Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Vetoes Israel-Hamas Cease-Fire Resolution at U.N. Security Council</h3>
-<sub>By Farnaz Fassihi, Michael Levenson, Aaron Boxerman and Victoria Kim</sub>
-<p>The veto came amid a warning that “civil order is breaking down” in Gaza, and a day after the Biden administration warned that Israel’s military had not done enough to reduce harm to civilians.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Key Players in OpenAI’s Boardroom Drama</h3>
+<sub>By Cade Metz</sub>
+<p>A mix of prominent tech industry figures and people not well known outside the A.I. community played big roles in the upheaval at the company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>E.U. Agrees on Landmark Artificial Intelligence Rules</h3>
+<sub>By Adam Satariano</sub>
+<p>The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,47 +86,17 @@ On a lighter note, President Biden recently gave a speech in Las Vegas announcin
 <p>The court, responding to an appeal from Attorney General Ken Paxton, put on hold a lower court order allowing an abortion for a woman whose fetus has a fatal condition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>E.U. Agrees on Landmark Artificial Intelligence Rules</h3>
-<sub>By Adam Satariano</sub>
-<p>The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Google’s Next Top Model, Will the Cybertruck Crash? and This Week in A.I.</h3>
-<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Sophia Lanman</sub>
-<p>Like the Cybertruck, this podcast is bulletproof.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
+<sub>By Michael Crowley</sub>
+<p>The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard President Apologizes for Congressional Testimony on Antisemitism</h3>
-<sub>By Alan Blinder and Anemona Hartocollis</sub>
-<p>The president, Claudine Gay, told the campus newspaper that she “should have had the presence of mind” to answer differently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
-<sub>By Lauren Hirsch</sub>
-<p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Ryan O’Neal, Who Became a Star With ‘Love Story,’ Dies at 82</h3>
-<sub>By Aljean Harmetz</sub>
-<p>He was a familiar face on TV before his breakout performance opposite Ali MacGraw in the 1970 blockbuster movie. But it was overshadowed by years of personal problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Ryan O’Neal, Master of the Offbeat Meet-Cute</h3>
-<sub>By Alissa Wilkinson</sub>
-<p>The former boxer had a gift for mixing innocence and wit. It didn’t hurt that he had the face of a good guy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Stream These Ryan O’Neal Movies</h3>
-<sub>By Jason Bailey</sub>
-<p>The actor became one of the most bankable stars in Hollywood, and proved himself equally adept at drama, comedy and action.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<h3>Fears of a NATO Withdrawal Rise as Trump Seeks a Return to Power</h3>
+<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
+<p>Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Las Vegas, Biden Speaks the Name He Often Doesn’t</h3>
@@ -139,6 +109,30 @@ On a lighter note, President Biden recently gave a speech in Las Vegas announcin
 <sub>By Kellen Browning</sub>
 <p>In her first campaign stop since Wednesday’s heated Republican debate, Ms. Haley suggested that fierce criticism from her opponents continued to not be worth her time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Norman Lear Reshaped How America Saw Black Families</h3>
+<sub>By Jonathan Abrams and Christopher Kuo</sub>
+<p>“Good Times,” “The Jeffersons” and “Sanford and Son” brought a wave of Black characters to TV, even as the shows opened up tensions over stereotypes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Mideast War Pushes Companies to Extend Diversity Programs to Faith Groups</h3>
+<sub>By Emma Goldberg</sub>
+<p>Workers are asking employers to respond to rising Islamophobia and antisemitism. But office discussions about religion are complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
+<sub>By Lauren Hirsch</sub>
+<p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Can Buildings Beat the Heat in a Desert City? Blend Ancient and Modern.</h3>
+<sub>By Jenny Gross and Katarina Premfors</sub>
+<p>More architects in the United Arab Emirates, the host of this year’s U.N. climate summit, are moving past glass skyscrapers and focusing on sustainability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
