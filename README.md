@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-Right now, there’s a lot of tension in the Middle East between Israel and Gaza. The US is trying to mediate a cease-fire, but so far hasn&#39;t been successful. Closer to home, there’s been a Texas Supreme Court ruling that has temporarily halted court-approved abortions. In Europe, they just agreed on a landmark set of rules on artificial intelligence. In the US, Harvard’s President apologized for congressional testimony regarding antisemitism and Biden has recently made his first public attack against Trump while announcing billions for high-speed rail service. Finally, actor Ryan O&#39;Neal has passed away at 82.</p>
+It looks like things are heating up in the Middle East, with the US and Israel both taking a firm stance on the escalating crisis in Gaza. The US has vetoed a United Nations ceasefire resolution and is seeking more action to protect civilians. Meanwhile, on a completely different topic, the Texas Supreme Court has temporarily blocked an abortion for a woman whose fetus has a fatal condition. 
+
+The European Union recently made headway on landmark regulations for artificial intelligence use. Closer to home, Harvard recently had to apologize after its president was criticized for testimony related to antisemitism. The University of Pennsylvania and MIT came under similar fire, and the same law firm represented them all! 
+
+In pop culture news, Ryan O&#39;Neal passed away at age 82 after a long career in movies. He was known for having the perfect offbeat charm and wit in films like Love Story that captivated audiences worldwide. If you&#39;re feeling nostalgic, why not watch some of his movies?
+
+On a lighter note, President Biden recently gave a speech in Las Vegas announcing billions for high-speed rail service and did what he usually doesn&#39;t do - openly attack former President Donald J. Trump. Meanwhile in Iowa, Nikki Haley is unphased by her rivals&#39; attacks from the Republican debate last week.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
@@ -107,7 +113,7 @@ Right now, there’s a lot of tension in the Middle East between Israel and Gaza
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Ryan O’Neal, Who Became a Star With ‘Love Story,’ Dies at 82</h3>
 <sub>By Aljean Harmetz</sub>
-<p>He was a familiar face in movies and on TV before his breakout performance opposite Ali MacGraw in the 1970 blockbuster. But it was overshadowed by years of personal problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>He was a familiar face on TV before his breakout performance opposite Ali MacGraw in the 1970 blockbuster movie. But it was overshadowed by years of personal problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
