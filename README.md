@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now! In technology, OpenAI, a company focused on artificial intelligence, has been dealing with some internal turmoil. The European Union also recently agreed on new rules for A.I. In the U.S., the Texas Supreme Court has temporarily halted court-approved abortions. Meanwhile in Iraq, there are rising fears of a broader Middle East conflict as Iran-backed forces gather weapons in an American ally&#39;s territory. There are also concerns that a second Trump presidency could mean an American retreat from Europe and gutting of NATO. In business, one law firm helped both Penn and Harvard Universities through a hearing on antisemitism, while workers are asking employers to respond to rising Islamophobia and antisemitism. On the environment front, architects in the United Arab Emirates are focusing on sustainability to beat the heat, and Azerbaijan will be hosting the U.N. climate summit in 2024 after Russia exercised its veto power over countries that had criticized its invasion of Ukraine.</p>
+There is tension in the Middle East between Israel and Palestine. The US State Department has bypassed Congress to approve Israel&#39;s order for tank ammunition, while Palestinians have continued to suffer at the hands of Hamas. Meanwhile, a power struggle has been occurring at OpenAI, a leading artificial intelligence company, amid worries that a second Trump presidency would cause a US retreat from Europe and NATO. Pro-Palestinian activists have since taken their fight to city halls, while Minnesota is looking for a new state flag. On the climate change front, tiny electric vehicles are gaining traction in countries aiming for an energy transition and architects in the UAE are focusing on sustainability for desert cities.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>State Department Bypasses Congress to Approve Israel’s Order for Tank Ammunition</h3>
+<sub>By Edward Wong</sub>
+<p>It is the first time the Biden administration has declared an emergency to expedite arms shipments to the Middle East, which are controversial because of the civilian death toll from Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>While Gazans Suffer, Hamas Reaps the Benefits</h3>
+<sub>By Ben Hubbard</sub>
+<p>It has gained prestige among Palestinians while poisoning Israel’s relations with the Arab world and putting the Palestinian issue back on the Western agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
 <sub>By Tripp Mickle, Cade Metz, Mike Isaac and Karen Weise</sub>
@@ -74,29 +86,23 @@ There is a lot happening in the world right now! In technology, OpenAI, a compan
 <p>A mix of prominent tech industry figures and people not well known outside the A.I. community played big roles in the upheaval at the company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>E.U. Agrees on Landmark Artificial Intelligence Rules</h3>
-<sub>By Adam Satariano</sub>
-<p>The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Supreme Court Temporarily Halts Court-Approved Abortion</h3>
-<sub>By J. David Goodman</sub>
-<p>The court, responding to an appeal from Attorney General Ken Paxton, put on hold a lower court order allowing an abortion for a woman whose fetus has a fatal condition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Why Fears of a Broader Middle East Conflict Are Growing in Iraq</h3>
-<sub>By Alissa J. Rubin and Emily Garthwaite</sub>
-<p>Iran-backed forces are assembling drones and retrofitting rockets in the territory of an American ally. They are used in attacks on U.S. outposts in Iraq and Syria.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Fears of a NATO Withdrawal Rise as Trump Seeks a Return to Power</h3>
 <sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
 <p>Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Talk of a Trump Dictatorship Charges the American Political Debate</h3>
+<sub>By Peter Baker</sub>
+<p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Frustrated by Washington, Pro-Palestinian Activists Take Their Fight to City Hall</h3>
+<sub>By Shawn Hubler and Heather Knight</sub>
+<p>Cease-fire activists hope that city council resolutions will send a message to the White House. One problem: local officials have little power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
@@ -104,10 +110,10 @@ There is a lot happening in the world right now! In technology, OpenAI, a compan
 <p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Mideast War Pushes Companies to Extend Diversity Programs to Faith Groups</h3>
-<sub>By Emma Goldberg</sub>
-<p>Workers are asking employers to respond to rising Islamophobia and antisemitism. But office discussions about religion are complicated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Minnesota Is Looking for a New State Flag. Residents Have a Few (Thousand) Ideas.</h3>
+<sub>By Ernesto Londoño</sub>
+<p>A commission is weighing 6 finalists, and a new state flag could be flying in Minnesota by sometime next year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -116,22 +122,16 @@ There is a lot happening in the world right now! In technology, OpenAI, a compan
 <p>Play a simplified version of the bonus round, then read on for strategy advice, whether you’re a future contestant or just watching at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tiny Electric Vehicles Pack a Bigger Climate Punch Than Cars</h3>
+<sub>By Somini Sengupta, Abdi Latif Dahir, Alex Travelli and Clifford Krauss</sub>
+<p>Two- and three-wheeled vehicles, used by billions of people, are moving away from fossil fuels to batteries faster than cars in countries that have made the energy transition a priority.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How Can Buildings Beat the Heat in a Desert City? Blend Ancient and Modern.</h3>
 <sub>By Jenny Gross and Katarina Premfors</sub>
 <p>More architects in the United Arab Emirates, the host of this year’s U.N. climate summit, are moving past glass skyscrapers and focusing on sustainability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Protesters Test the Limits of Authoritarian Dubai’s Climate Summit</h3>
-<sub>By Vivian Nereim</sub>
-<p>The annual U.N. talks have brought the rare spectacle of limited protests to the politically repressive United Arab Emirates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Azerbaijan Is Expected to Host the U.N. Climate Summit in 2024</h3>
-<sub>By Brad Plumer and Max Bearak</sub>
-<p>An agreement ended a monthslong deadlock in which Russia exercised veto power over countries that had criticized its invasion of Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
