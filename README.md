@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-In the technology sector, there has been some upheaval at a major A.I. company, OpenAI, with board members and executives having a disagreement about its leadership. Meanwhile, the European Union has put out some new rules on the use of A.I., which could help limit its use. In the U.S., there is news on abortion rights and U.S.-Israel relations, as well as President Biden&#39;s recent attack on former President Trump while announcing billions for high-speed rail service. On the business side of things, a Middle East war has companies looking to extend diversity programs to those of different faiths and one law firm preparing both Penn and Harvard for an upcoming hearing on antisemitism. And finally, in cities that have warmer climates, architects are being encouraged to pursue sustainability projects that balance modern and ancient building designs.</p>
+It looks like a lot of interesting and important developments are happening in the world right now! There is a crisis at OpenAI, a company focused on advancing artificial intelligence research, over the leadership of Sam Altman, and the European Union has just agreed on its first set of rules regulating use of AI. In the US, the Texas Supreme Court has temporarily blocked court-approved abortion while President Biden is openly criticizing his predecessor and former US President Donald Trump is creating fear among Europeans about abandoning NATO if he regains power. In Iraq, Iran-backed forces have taken over much of the country&#39;s farmland, and countries like the UAE are focusing more on sustainability as they seek ways to beat rising desert temperatures. On top of all that, companies are extending diversity programs to faith groups to fight mounting antisemitism. It&#39;s definitely an interesting time!</p>
 <ol>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
@@ -86,11 +86,11 @@ In the technology sector, there has been some upheaval at a major A.I. company, 
 <p>The court, responding to an appeal from Attorney General Ken Paxton, put on hold a lower court order allowing an abortion for a woman whose fetus has a fatal condition.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
-<sub>By Michael Crowley</sub>
-<p>The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Once, This Was Iraqi Farmland. Now It’s Controlled by an Iran-Linked Militia</h3>
+<sub>By Alissa J. Rubin and Emily Garthwaite</sub>
+<p>Iran-backed forces are assembling drones and retrofitting rockets in the territory of an American ally. They are used in attacks on U.S. outposts in Iraq and Syria.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Fears of a NATO Withdrawal Rise as Trump Seeks a Return to Power</h3>
