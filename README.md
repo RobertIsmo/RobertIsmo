@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 8, Central Standard Time</p>
 <p>
-Right now, there are a few different stories in the news. One story is about new medical treatments for sickle cell disease that are expensive and complex to deliver, which affects people&#39;s ability to access these treatments. Another story is that job growth in the US has held up even as the economy has cooled down. Investors who want to lock in safe income may be hurt over the long haul, as well as people who rely on stocks. Harvard&#39;s president recently apologized for her congressional testimony regarding antisemitism, and a court is upholding a gag order on Trump in an election case while allowing more leeway for him to criticize someone. There&#39;s also a former US ambassador whose past is being reexamined because he may have been a Cuban agent. There are also stories about solutions to urban transit issues, Levy Rozman teaching chess, Univision running an interview with former President Trump, and finding a replacement for Florida&#39;s recently expelled congressman.</p>
+In the world right now, a lot is happening politically, technologically, and even environmentally. On the political front, the US is facing tension with the U.N. over Israel in light of ongoing violence in Gaza. In terms of technology, the E.U. has agreed on Artificial Intelligence rules and CRISPR treatments are now available to relieve symptoms of sickle cell disease. There&#39;s also news from OPEC that members should stop any efforts to reduce fossil fuel consumption. Lastly, Michigan recently sentenced a teenager to life for a shooting that killed four classmates and classic movie star Ryan O’Neal passed away at age 82.</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Approves Sickle Cell Treatments, Including One That Uses CRISPR</h3>
-<sub>By Gina Kolata</sub>
-<p>People with the genetic disease have new opportunities to eliminate their symptoms, but the treatments come with obstacles that limit their reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>E.U. Agrees on Landmark Artificial Intelligence Rules</h3>
+<sub>By Adam Satariano</sub>
+<p>The agreement over the A.I. Act solidifies one of the world’s first comprehensive attempts to limit the use of artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>New Sickle Cell Therapies Will Be Out of Reach Where They Are Needed Most</h3>
-<sub>By Rebecca Robbins and Stephanie Nolen</sub>
-<p>There is no clear path for African patients to get access to the treatments, which have multimillion-dollar price tags and are highly complex to manufacture and deliver.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Google’s Next Top Model, Will the Cybertruck Crash? and This Week in A.I.</h3>
+<sub>By Kevin Roose, Casey Newton, Davis Land, Rachel Cohn, Jen Poyant, Chris Wood, Dan Powell, Marion Lozano and Sophia Lanman</sub>
+<p>Like the Cybertruck, this podcast is bulletproof.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Job Growth Holds Up as Economy Gradually Cools</h3>
-<sub>By Lydia DePillis</sub>
-<p>Interest rate increases have taken the edge off labor demand, but unemployment dipped in November, and wages rose more than expected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Sticks to Its Position on Israel as Gaza Crisis Deepens</h3>
+<sub>By Michael Crowley</sub>
+<p>The Biden administration is pressing Israel to do more to protect civilians. But it has not publicly discussed any consequences if it does not.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>If You Hate Investment Risk, High Interest Rates Are Great. With a Catch.</h3>
-<sub>By Jeff Sommer</sub>
-<p>Investors who want to lock in safe income may be hurt over the long haul if they don’t also hold stocks, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pro-Palestinian Protesters Targeting Wall St. Denounce U.S. Veto of U.N. Cease-Fire Resolution</h3>
+<sub>By Julian Roberts-Grmela and Claire Fahy</sub>
+<p>The demonstration, called “Shut Down Wall Street” and meant to urge an end to the United States’ financial support of Israel, became a forum to express anger over the U.S. veto.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,46 +92,46 @@ Right now, there are a few different stories in the news. One story is about new
 <p>The president, Claudine Gay, told the campus newspaper that she “should have had the presence of mind” to answer differently.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
+<sub>By Lauren Hirsch</sub>
+<p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Approves Sickle Cell Treatments, Including One That Uses CRISPR</h3>
+<sub>By Gina Kolata</sub>
+<p>People with the genetic disease have new opportunities to eliminate their symptoms, but the treatments come with obstacles that limit their reach.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Appeals Court Upholds, but Narrows, Gag Order on Trump in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>A three-judge panel largely left in place an order limiting what the former president can say about his upcoming federal trial but allowed him more leeway to criticize Jack Smith, the special counsel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>The decision largely left in place an order limiting what the former president can say about his upcoming federal trial but allowed him more leeway to criticize Jack Smith, the special counsel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ex-U.S. Ambassador Accused of Being a Cuban Agent Rose From Humble Origins</h3>
-<sub>By Ernesto Londoño, Frances Robles and David C. Adams</sub>
-<p>Former colleagues are struggling to separate fact from deception as they reconsider Manuel Rocha, who was accused of being a Cuban agent for decades.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As More ‘Fake Electors’ Face Charges, a Key Witness Emerges</h3>
+<sub>By Danny Hakim</sub>
+<p>Kenneth Chesebro, an architect of the plan to deploy people claiming to be Trump electors in states won by President Biden, is cooperating with inquiries in Michigan, Arizona and Nevada.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>Could Better Buses Fix Your Commute?</h3>
-<sub>By Eden Weingart</sub>
-<p>A cheaper, faster and more equitable approach to transit could be a path to progress in the U.S.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-headway-blue" alt="">
-<h3>How One City Tried to Solve Gridlock for Us All</h3>
-<sub>By Michael Kimmelman</sub>
-<p>Bogotá led the world with innovation in inexpensive mass transit. Its experience shows what it takes to keep progress going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>‘Starting Soon, Nerds’: Levy Rozman Wants to Teach You Chess</h3>
-<sub>By Reid Forgrave</sub>
-<p>He sacrificed his grandmaster dreams to become one of the game’s most popular personalities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Ryan O’Neal, Who Became a Star With ‘Love Story,’ Dies at 82</h3>
+<sub>By Aljean Harmetz</sub>
+<p>He was a familiar face in movies and on TV before his breakout performance opposite Ali MacGraw in the 1970 blockbuster. But it was overshadowed by years of personal problems.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Conundrum of Covering Trump Lands at Univision’s Doorstep</h3>
-<sub>By Frances Robles, Ken Bensinger and Jeremy W. Peters</sub>
-<p>When the U.S.’s largest Spanish-language network ran a friendly interview with the former president, Democrats cried foul. Executives say they’re seeking more balance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Teenager Who Killed Four Students Is Sentenced to Life</h3>
+<sub>By Stephanie Saul and Anna Betts</sub>
+<p>The gunman, who carried out the deadliest high school shooting in the history of the state, will not be eligible for parole.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Finding a Santos Successor Is Proving No Simple Task for Republicans</h3>
-<sub>By Nicholas Fandos</sub>
-<p>Party leaders have vowed not to repeat the vetting mistakes they made with the expelled congressman. But getting to yes is proving messy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>OPEC Leader Tells Members to Block Any Climate Summit Deal to Curb Fossil Fuels</h3>
+<sub>By Lisa Friedman</sub>
+<p>In a letter, the secretary general of the oil cartel called on countries in the group to “reject any text or formula that targets energy.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
