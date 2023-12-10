@@ -58,13 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, December 9, Central Standard Time</p>
+<p>It is Sunday, December 10, Central Standard Time</p>
 <p>
-There has been a lot of news recently about the US college administrations and policies related to antisemitism. The president of University of Pennsylvania, Elizabeth Magill, resigned due to intense pressure from donors, politicians and alumni. Congress held a hearing to address college antisemitism which resulted in tense exchanges among university presidents, and the Biden Administration declared an emergency to expedite arms shipments to the Middle East. 
-
-Meanwhile, Hamas has grown in power and prestige, despite worries of civilian death tolls due to Israeli airstrikes. There is also a lot going on with artificial intelligence research and development. 
-
-In other news, the Republican presidential candidates had a much calmer debate during an &quot;In God We Trust&quot; event and there was some controversy over who was allowed to take part in Iowa&#39;s first-in-the-nation caucuses. Former President Donald Trump&#39;s tendency towards autocracy has been widely debated as well. Minnesota is also making great progress towards creating a new state flag. And just for fun, if you want trying your hand at tactical strategy there’s an exciting online version of Wheel of Fortune you can play!  Lastly, electric vehicles from two-wheeled machines up to cars are showing promise as countries like Poland prioritize energy transition away from fossil fuels.</p>
+There is a lot going on in the world right now. In the US, there has been criticism of the leadership at an educational institution over allegations of antisemitism, leading to the president and chairman of the board resigning. There is also a heated Republican presidential nomination race in Iowa, with some candidates being barred from inviting non-residents to participate. Meanwhile, in international news, the US State Department has bypassed Congress to approve Israel’s order for tank ammunition and pressure is building on America after they vetoed UN call for cease-fire in Gaza. From Hong Kong, we are hearing about a government crackdown on neon signs while in Britain, it’s becoming increasingly common for people to pay out-of-pocket for healthcare procedures due to huge wait times for routine surgery.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Penn’s Leadership Resigns Amid Controversies Over Antisemitism</h3>
@@ -96,10 +92,16 @@ In other news, the Republican presidential candidates had a much calmer debate d
 <p>It has gained prestige among Palestinians while poisoning Israel’s relations with the Arab world and putting the Palestinian issue back on the Western agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
-<sub>By Tripp Mickle, Cade Metz, Mike Isaac and Karen Weise</sub>
-<p>Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pressure Rising on U.S. After Vetoing U.N. Call for a Cease-Fire in Gaza</h3>
+<sub>By Vivian Nereim, Edward Wong and Thomas Fuller</sub>
+<p>As fighting surged in the territory, Arab leaders condemned the move as a “mark of shame,” one that will haunt the United States for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Where Did All the Hong Kong Neon Go?</h3>
+<sub>By Hannah Beech</sub>
+<p>A government crackdown on neon signs stems from safety and environmental concerns, but the campaign evokes the fading of the city itself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,10 +122,10 @@ In other news, the Republican presidential candidates had a much calmer debate d
 <p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Minnesota Is Looking for a New State Flag. Residents Have a Few (Thousand) Ideas.</h3>
-<sub>By Ernesto Londoño</sub>
-<p>A commission is weighing 6 finalists, and a new state flag could be flying in Minnesota by sometime next year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Britons Love the N.H.S. Some Will Also Pay to Avoid It.</h3>
+<sub>By Stephen Castle</sub>
+<p>With millions-long lines for routine surgery, it has become more common for patients to pay for procedures. That carries risks for the future of the treasured public system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -131,12 +133,6 @@ In other news, the Republican presidential candidates had a much calmer debate d
 <sub>By Ben Blatt, Aatish Bhatia, Francesca Paris and Rumsey Taylor</sub>
 <p>Play a simplified version of the bonus round, then read on for strategy advice, whether you’re a future contestant or just watching at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tiny Electric Vehicles Pack a Bigger Climate Punch Than Cars</h3>
-<sub>By Somini Sengupta, Abdi Latif Dahir, Alex Travelli and Clifford Krauss</sub>
-<p>Two- and three-wheeled vehicles, used by billions of people, are moving away from fossil fuels to batteries faster than cars in countries that have made the energy transition a priority.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
