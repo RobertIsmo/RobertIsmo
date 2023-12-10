@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 9, Central Standard Time</p>
 <p>
-There is tension in the Middle East between Israel and Palestine. The US State Department has bypassed Congress to approve Israel&#39;s order for tank ammunition, while Palestinians have continued to suffer at the hands of Hamas. Meanwhile, a power struggle has been occurring at OpenAI, a leading artificial intelligence company, amid worries that a second Trump presidency would cause a US retreat from Europe and NATO. Pro-Palestinian activists have since taken their fight to city halls, while Minnesota is looking for a new state flag. On the climate change front, tiny electric vehicles are gaining traction in countries aiming for an energy transition and architects in the UAE are focusing on sustainability for desert cities.</p>
+There is a lot happening in the world right now. In the US, Penn&#39;s Leadership has resigned due to controversies over antisemitism. In the Middle East, the US Department of State bypassed Congress and approved Israel’s order for tank ammunition. Meanwhile, while Gazans suffer due to Israeli airstrikes, Hamas has gained international prestige. Technically, there is debate over the leadership of OpenAI over artificial intelligence, as well as a few race-related exchanges at a college antisemitism hearing in front of Congress. On the home front, candidates for the GOP nomination are campaigning in Iowa and Minnesota is looking for a new state flag through public submissions. There is also an article about strategies to use when playing Wheel of Fortune. Lastly, electric vehicles have become more popular than cars in countries that prioritize energy transition away from fossil fuels.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Penn’s Leadership Resigns Amid Controversies Over Antisemitism</h3>
+<sub>By Stephanie Saul, Alan Blinder, Anemona Hartocollis and Maureen Farrell</sub>
+<p>The president, Elizabeth Magill, and the chairman of the board of trustees, Scott L. Bok, are leaving after intense pressure from donors, politicians and alumni.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About Elizabeth Magill, the Penn President Who Resigned</h3>
+<sub>By Anna Betts</sub>
+<p>Ms. Magill, who had been in her post since last year, stepped down four days after testifying before Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>3 Contentious Exchanges at the College Antisemitism Hearing</h3>
+<sub>By The New York Times</sub>
+<p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>State Department Bypasses Congress to Approve Israel’s Order for Tank Ammunition</h3>
 <sub>By Edward Wong</sub>
@@ -80,16 +98,16 @@ There is tension in the Middle East between Israel and Palestine. The US State D
 <p>Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Key Players in OpenAI’s Boardroom Drama</h3>
-<sub>By Cade Metz</sub>
-<p>A mix of prominent tech industry figures and people not well known outside the A.I. community played big roles in the upheaval at the company.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Days After Heated Debate, G.O.P. Candidates Take a Gentler Tone in Iowa</h3>
+<sub>By Kellen Browning and Chris Cameron</sub>
+<p>The rivals for the Republican presidential nomination — minus Donald Trump — appeared at a “faith and family” event and talked in more personal terms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fears of a NATO Withdrawal Rise as Trump Seeks a Return to Power</h3>
-<sub>By Jonathan Swan, Charlie Savage and Maggie Haberman</sub>
-<p>Current and former European diplomats said there was growing concern a second Trump presidency could mean an American retreat from the continent and a gutting of NATO.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Casey DeSantis Invited Outsiders to Caucus in Iowa. The State Party Said No.</h3>
+<sub>By Neil Vigdor</sub>
+<p>The Iowa Republican Party reminded supporters that only residents can vote in the first-in-the-nation caucuses, which will be held on Jan. 15.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -97,18 +115,6 @@ There is tension in the Middle East between Israel and Palestine. The US State D
 <sub>By Peter Baker</sub>
 <p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Frustrated by Washington, Pro-Palestinian Activists Take Their Fight to City Hall</h3>
-<sub>By Shawn Hubler and Heather Knight</sub>
-<p>Cease-fire activists hope that city council resolutions will send a message to the White House. One problem: local officials have little power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>One Law Firm Prepared Both Penn and Harvard for Hearing on Antisemitism</h3>
-<sub>By Lauren Hirsch</sub>
-<p>The presidents of Harvard, the University of Pennsylvania and M.I.T. came under fire after dodging questions about their policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Minnesota Is Looking for a New State Flag. Residents Have a Few (Thousand) Ideas.</h3>
@@ -126,12 +132,6 @@ There is tension in the Middle East between Israel and Palestine. The US State D
 <h3>Tiny Electric Vehicles Pack a Bigger Climate Punch Than Cars</h3>
 <sub>By Somini Sengupta, Abdi Latif Dahir, Alex Travelli and Clifford Krauss</sub>
 <p>Two- and three-wheeled vehicles, used by billions of people, are moving away from fossil fuels to batteries faster than cars in countries that have made the energy transition a priority.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Can Buildings Beat the Heat in a Desert City? Blend Ancient and Modern.</h3>
-<sub>By Jenny Gross and Katarina Premfors</sub>
-<p>More architects in the United Arab Emirates, the host of this year’s U.N. climate summit, are moving past glass skyscrapers and focusing on sustainability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 </ol>
