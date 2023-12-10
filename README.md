@@ -60,7 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 10, Central Standard Time</p>
 <p>
-Recently, a lot of tension has been building up over campus antisemitism in the US, which lead to the leadership of Penn resigning amid controversies surrounding anti-semitism. The Israeli prime minister&#39;s plans to prop up Hamas have also been met with heavy criticism, while Egypt&#39;s president Abdel Fattah El-Sisi has attempted to use the war in Gaza to give himself a role on the international stage. Meanwhile, US communities have been creating secondary arms markets with seized and surrendered guns, while explorers are still trying to uncover mysteries decades old. In the tech world, new movements are emerging alongside breakthroughs in artificial intelligence, but there is also a divide between those wanting to unshackle powerful A.I., and those who are wary. The publishing world is making strides towards greater diversity, while The New York Times offers weekly quizzes for readers to test their knowledge of the news.</p>
+There is a lot happening in the world right now. In the US, Republican politicians have been attacking elite universities for some time because of an outbreak of antisemitism, and last week a tense congressional hearing on the topic caused many on the left to join in on the criticism. As a result of the controversy, the president and chairman of the board of trustees of one of these universities (Penn) have both resigned. 
+
+At the same time, things are heating up just outside US borders with Israeli Prime Minister Benjamin Netanyahu working on a plan to prop up Hamas while neighboring Egypt&#39;s President Abdel Fattah el-Sisi has received a boost in favorability due to his involvement in the war in Gaza. 
+
+Also in the US, local communities are inadvertently fuelling a black market for guns by giving seized and surrendered weapons to disposal services that only partially destroy them. 
+
+Elsewhere, two American climbers from decades ago were found dead on an Argentinian glacier with an undeveloped camera containing astonishing images nearby. 
+
+In terms of emerging trends, there is an A.I. subculture called Effective Accelerationism which strives to increase unconstrained A.I. capabilities and seems to be having an odd effect on tech movements everywhere as seen by events inside OpenAI’s Leadership Crisis. 
+
+Finally, there are a few important stories about death going around: Los Angeles County is known as &quot;the Coroner to the Stars&quot; due to its investigations into sudden celebrity deaths, while Saudi Arabia is trying to block a U.N.-backed deal to end fossil fuels at climate summits. To counteract this lack of diversity present in these situations, Dhonielle Clayton is creating packages for commercial genre fiction featuring characters from all backgrounds.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Fury Erupts Over Campus Antisemitism, Conservatives Seize the Moment</h3>
@@ -116,23 +126,23 @@ Recently, a lot of tension has been building up over campus antisemitism in the 
 <p>Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
+<sub>By Corina Knoll</sub>
+<p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Saudi Arabia Is Trying to Block a Global Deal to End Fossil Fuels, Negotiators Say</h3>
+<sub>By Lisa Friedman, Brad Plumer and Vivian Nereim</sub>
+<p>The world’s leading oil exporter has become the most forceful opponent of a new agreement at the U.N. climate summit, according to people inside the talks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
 <h3>The Book World Still Isn’t Diverse. Dhonielle Clayton Is Trying to Change That.</h3>
 <sub>By Alexandra Alter</sub>
 <p>Her solution? A packaging business that sells ideas for commercial genre fiction featuring characters from broadly diverse backgrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>How Norman Lear changed TV. Also, the legacy of “Mr. Brightside,” and the most stylish “people” of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Dec. 8, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
