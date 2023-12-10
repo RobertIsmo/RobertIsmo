@@ -59,8 +59,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 10, Central Standard Time</p>
-<p>
-There is a lot going on in the world right now. In the US, there has been criticism of the leadership at an educational institution over allegations of antisemitism, leading to the president and chairman of the board resigning. There is also a heated Republican presidential nomination race in Iowa, with some candidates being barred from inviting non-residents to participate. Meanwhile, in international news, the US State Department has bypassed Congress to approve Israel’s order for tank ammunition and pressure is building on America after they vetoed UN call for cease-fire in Gaza. From Hong Kong, we are hearing about a government crackdown on neon signs while in Britain, it’s becoming increasingly common for people to pay out-of-pocket for healthcare procedures due to huge wait times for routine surgery.</p>
+<p>There is a lot going on in the world right now. In the US, there is controversy over antisemitism at Penn which has led to the President and Board of Trustees resigning, while several contentious exchanges were heard at a college antisemitism hearing. Meanwhile, the Biden administration declared an emergency to bypass Congress and approve tank ammunition for Israel as tensions grow in Gaza and pressure mounts on the US to call a cease-fire. In Hong Kong, neon signs are disappearing due to a government crackdown stemming from safety and environmental concerns. The GOP candidates are taking a more gentle tone during their Iowa campaign events after a heated debate recently. Also, some British citizens are opting to pay for private care instead of waiting in long lines for routine surgery through their national health service.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Penn’s Leadership Resigns Amid Controversies Over Antisemitism</h3>
@@ -84,12 +83,6 @@ There is a lot going on in the world right now. In the US, there has been critic
 <h3>State Department Bypasses Congress to Approve Israel’s Order for Tank Ammunition</h3>
 <sub>By Edward Wong</sub>
 <p>It is the first time the Biden administration has declared an emergency to expedite arms shipments to the Middle East, which are controversial because of the civilian death toll from Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>While Gazans Suffer, Hamas Reaps the Benefits</h3>
-<sub>By Ben Hubbard</sub>
-<p>It has gained prestige among Palestinians while poisoning Israel’s relations with the Arab world and putting the Palestinian issue back on the Western agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +125,12 @@ There is a lot going on in the world right now. In the US, there has been critic
 <h3>What’s the Best ‘Wheel of Fortune’ Strategy? Play and Find Out.</h3>
 <sub>By Ben Blatt, Aatish Bhatia, Francesca Paris and Rumsey Taylor</sub>
 <p>Play a simplified version of the bonus round, then read on for strategy advice, whether you’re a future contestant or just watching at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>How Norman Lear changed TV. Also, the legacy of “Mr. Brightside,” and the most stylish “people” of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
