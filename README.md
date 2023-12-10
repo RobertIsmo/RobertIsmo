@@ -60,17 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 10, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, Republican politicians have been attacking elite universities for some time because of an outbreak of antisemitism, and last week a tense congressional hearing on the topic caused many on the left to join in on the criticism. As a result of the controversy, the president and chairman of the board of trustees of one of these universities (Penn) have both resigned. 
+There is a lot of political unrest in the United States right now. Recently, there was an intense congressional hearing concerning antisemitism at college campuses, and both Republicans and Democrats are joining forces to condemn it. Additionally, the President of the University of Pennsylvania recently resigned and people are still learning more about why. Meanwhile in Israel, Prime Minister Benjamin Netanyahu has been implementing a plan meant to prop up Hamas, while in Egypt their president Abdel Fattah el-Sisi has been receiving increased international attention for his handling of war in Gaza. 
 
-At the same time, things are heating up just outside US borders with Israeli Prime Minister Benjamin Netanyahu working on a plan to prop up Hamas while neighboring Egypt&#39;s President Abdel Fattah el-Sisi has received a boost in favorability due to his involvement in the war in Gaza. 
-
-Also in the US, local communities are inadvertently fuelling a black market for guns by giving seized and surrendered weapons to disposal services that only partially destroy them. 
-
-Elsewhere, two American climbers from decades ago were found dead on an Argentinian glacier with an undeveloped camera containing astonishing images nearby. 
-
-In terms of emerging trends, there is an A.I. subculture called Effective Accelerationism which strives to increase unconstrained A.I. capabilities and seems to be having an odd effect on tech movements everywhere as seen by events inside OpenAI’s Leadership Crisis. 
-
-Finally, there are a few important stories about death going around: Los Angeles County is known as &quot;the Coroner to the Stars&quot; due to its investigations into sudden celebrity deaths, while Saudi Arabia is trying to block a U.N.-backed deal to end fossil fuels at climate summits. To counteract this lack of diversity present in these situations, Dhonielle Clayton is creating packages for commercial genre fiction featuring characters from all backgrounds.</p>
+In other news stateside, law enforcement agencies have been providing guns to disposal services which in turn use them to make them more saleable on the secondary market- something which is being investigated by citizens who are concerned about safety implications. Outside of political news one former President Donald J. Trump&#39;s autocratic inclinations have spurred on debates and discussions regarding potential dictatorships. Finally, there is some good news too- Biden is back on the campaign trail and successfully raised funds following the writers&#39; and actors&#39; strikes. On top of that, a unique pro-tech movement called &quot;Effective Accelerationists&quot; is gaining ground with its mantra of wanting to unshackle powerful A.I., while the Los Angeles Dodgers recently made an $700 million deal with Shohei Ohtani that demonstrates how economics of sports can be unpredictable at times.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Fury Erupts Over Campus Antisemitism, Conservatives Seize the Moment</h3>
@@ -79,10 +71,10 @@ Finally, there are a few important stories about death going around: Los Angeles
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Penn’s Leadership Resigns Amid Controversies Over Antisemitism</h3>
-<sub>By Stephanie Saul, Alan Blinder, Anemona Hartocollis and Maureen Farrell</sub>
-<p>The president, Elizabeth Magill, and the chairman of the board of trustees, Scott L. Bok, are leaving after intense pressure from donors, politicians and alumni.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<h3>Pennsylvania Governor and Senator Denounce Antisemitism at Rally</h3>
+<sub>By Anna Betts and Jon Hurdle</sub>
+<p>Gov. Josh Shapiro and Senator Bob Casey joined a rally in a show of solidarity with Jews after the resignation of the University of Pennsylvania’s president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What to Know About Elizabeth Magill, the Penn President Who Resigned</h3>
@@ -114,34 +106,34 @@ Finally, there are a few important stories about death going around: Los Angeles
 <p>Decades after the unexplained deaths of two American climbers in Argentina, a camera belonging to one of them was found in the snow. The film held astonishing images, but the mystery endures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>This A.I. Subculture’s Motto: Go, Go, Go</h3>
-<sub>By Kevin Roose</sub>
-<p>The eccentric pro-tech movement known as “Effective Accelerationism” wants to unshackle powerful A.I., and party along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
-<sub>By Tripp Mickle, Cade Metz, Mike Isaac and Karen Weise</sub>
-<p>Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
 <sub>By Corina Knoll</sub>
 <p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Saudi Arabia Is Trying to Block a Global Deal to End Fossil Fuels, Negotiators Say</h3>
-<sub>By Lisa Friedman, Brad Plumer and Vivian Nereim</sub>
-<p>The world’s leading oil exporter has become the most forceful opponent of a new agreement at the U.N. climate summit, according to people inside the talks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Steps Out in Tinsel Town and the Big Donors Show Up</h3>
+<sub>By Anjali Huynh</sub>
+<p>The president was back on the fund-raising trail in Los Angeles this weekend after a hiatus because of the writers’ and actors’ strikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>The Book World Still Isn’t Diverse. Dhonielle Clayton Is Trying to Change That.</h3>
-<sub>By Alexandra Alter</sub>
-<p>Her solution? A packaging business that sells ideas for commercial genre fiction featuring characters from broadly diverse backgrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Talk of a Trump Dictatorship Charges the American Political Debate</h3>
+<sub>By Peter Baker</sub>
+<p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>This A.I. Subculture’s Motto: Go, Go, Go</h3>
+<sub>By Kevin Roose</sub>
+<p>The eccentric pro-tech movement known as “Effective Accelerationism” wants to unshackle powerful A.I., and party along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ohtani’s Contract Goes Beyond Dollars and Sense</h3>
+<sub>By Ken Belson</sub>
+<p>The Los Angeles Dodgers are betting $700 million that Shohei Ohtani can deliver championships and help increase revenue. But the economics of sports can be fickle.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
