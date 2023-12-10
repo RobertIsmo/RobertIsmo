@@ -59,8 +59,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 10, Central Standard Time</p>
-<p>There is a lot going on in the world right now. In the US, there is controversy over antisemitism at Penn which has led to the President and Board of Trustees resigning, while several contentious exchanges were heard at a college antisemitism hearing. Meanwhile, the Biden administration declared an emergency to bypass Congress and approve tank ammunition for Israel as tensions grow in Gaza and pressure mounts on the US to call a cease-fire. In Hong Kong, neon signs are disappearing due to a government crackdown stemming from safety and environmental concerns. The GOP candidates are taking a more gentle tone during their Iowa campaign events after a heated debate recently. Also, some British citizens are opting to pay for private care instead of waiting in long lines for routine surgery through their national health service.</p>
+<p>
+There have been a lot of tensions over antisemitism on university campuses recently, which has led to the resignations of some prominent university leaders. In Israel, Prime Minister Benjamin Netanyahu has implemented a plan to keep Hamas contained and try to reduce the pressure for Palestinian statehood. Meanwhile, Egypt&#39;s president Abdel Fattah el-Sisi is gaining increased popularity due to his involvement in the war in neighboring Gaza. In the US, there is widespread secondary arms market as weapons that were meant to be destroyed are instead being resurrected. And lastly, Dhonielle Clayton is trying to make the book world more diverse by selling ideas for commercial genre fiction featuring characters from diverse backgrounds.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Fury Erupts Over Campus Antisemitism, Conservatives Seize the Moment</h3>
+<sub>By Nicholas Confessore</sub>
+<p>Republicans have been attacking elite universities for years. After a tense congressional hearing last week, many on the left are joining them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Penn’s Leadership Resigns Amid Controversies Over Antisemitism</h3>
 <sub>By Stephanie Saul, Alan Blinder, Anemona Hartocollis and Maureen Farrell</sub>
@@ -73,64 +80,58 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Ms. Magill, who had been in her post since last year, stepped down four days after testifying before Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>3 Contentious Exchanges at the College Antisemitism Hearing</h3>
-<sub>By The New York Times</sub>
-<p>The presidents of Harvard, M.I.T. and Penn faced a barrage of questions at a congressional hearing. Here are some of the most pointed exchanges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Buying Quiet’: Inside the Israeli Plan That Propped Up Hamas</h3>
+<sub>By Mark Mazzetti and Ronen Bergman</sub>
+<p>Prime Minister Benjamin Netanyahu gambled that a strong Hamas (but not too strong) would keep the peace and reduce pressure for a Palestinian state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>State Department Bypasses Congress to Approve Israel’s Order for Tank Ammunition</h3>
-<sub>By Edward Wong</sub>
-<p>It is the first time the Biden administration has declared an emergency to expedite arms shipments to the Middle East, which are controversial because of the civilian death toll from Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pressure Rising on U.S. After Vetoing U.N. Call for a Cease-Fire in Gaza</h3>
-<sub>By Vivian Nereim, Edward Wong and Thomas Fuller</sub>
-<p>As fighting surged in the territory, Arab leaders condemned the move as a “mark of shame,” one that will haunt the United States for years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Where Did All the Hong Kong Neon Go?</h3>
-<sub>By Hannah Beech</sub>
-<p>A government crackdown on neon signs stems from safety and environmental concerns, but the campaign evokes the fading of the city itself.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Gaza War Has Buoyed Egypt’s Leader Ahead of Presidential Vote</h3>
+<sub>By Vivian Yee</sub>
+<p>President Abdel Fattah el-Sisi of Egypt grew increasingly unpopular amid a deep economic crisis. But the war in neighboring Gaza has given him a vital role on the international stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Days After Heated Debate, G.O.P. Candidates Take a Gentler Tone in Iowa</h3>
-<sub>By Kellen Browning and Chris Cameron</sub>
-<p>The rivals for the Republican presidential nomination — minus Donald Trump — appeared at a “faith and family” event and talked in more personal terms.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Casey DeSantis Invited Outsiders to Caucus in Iowa. The State Party Said No.</h3>
-<sub>By Neil Vigdor</sub>
-<p>The Iowa Republican Party reminded supporters that only residents can vote in the first-in-the-nation caucuses, which will be held on Jan. 15.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Talk of a Trump Dictatorship Charges the American Political Debate</h3>
-<sub>By Peter Baker</sub>
-<p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<h3>The Guns Were Said to Be Destroyed. Instead, They Were Reborn.</h3>
+<sub>By Mike McIntire</sub>
+<p>Communities across the U.S. are fueling a secondary arms market by giving seized and surrendered guns to disposal services that destroy one part and resell the rest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Britons Love the N.H.S. Some Will Also Pay to Avoid It.</h3>
-<sub>By Stephen Castle</sub>
-<p>With millions-long lines for routine surgery, it has become more common for patients to pay for procedures. That carries risks for the future of the treasured public system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ghosts on the Glacier</h3>
+<sub>By John Branch and Emily Rhyne</sub>
+<p>Decades after the unexplained deaths of two American climbers in Argentina, a camera belonging to one of them was found in the snow. The film held astonishing images, but the mystery endures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>What’s the Best ‘Wheel of Fortune’ Strategy? Play and Find Out.</h3>
-<sub>By Ben Blatt, Aatish Bhatia, Francesca Paris and Rumsey Taylor</sub>
-<p>Play a simplified version of the bonus round, then read on for strategy advice, whether you’re a future contestant or just watching at home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>This A.I. Subculture’s Motto: Go, Go, Go</h3>
+<sub>By Kevin Roose</sub>
+<p>The eccentric pro-tech movement known as “Effective Accelerationism” wants to unshackle powerful A.I., and party along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Inside OpenAI’s Crisis Over the Future of Artificial Intelligence</h3>
+<sub>By Tripp Mickle, Cade Metz, Mike Isaac and Karen Weise</sub>
+<p>Split over the leadership of Sam Altman, board members and executives turned on one another. Their brawl exposed the cracks at the heart of the A.I. movement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>The Book World Still Isn’t Diverse. Dhonielle Clayton Is Trying to Change That.</h3>
+<sub>By Alexandra Alter</sub>
+<p>Her solution? A packaging business that sells ideas for commercial genre fiction featuring characters from broadly diverse backgrounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>How Norman Lear changed TV. Also, the legacy of “Mr. Brightside,” and the most stylish “people” of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Dec. 8, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 </ol>
