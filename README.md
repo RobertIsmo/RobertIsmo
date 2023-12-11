@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, December 10, Central Standard Time</p>
+<p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There&#39;s a lot of news on a few different topics around the world right now. In the US, Harvard President Claudine Gay is facing some pressure to resign after answering questions about antisemitism. Meanwhile, Republicans are attacking elite universities for similar issues, and at Penn Vacancies in Leadership are causing anguish on campus. In Israel, Prime Minister Benjamin Netanyahu is in hot water over a plan to prop up Hamas, while in Gaza people are flocking to the border for safety even though it&#39;s becoming more and more dangerous. Also in the US, seized and surrendered guns are being recycled in secondary arms markets and Donald Trump is in court appealing a ruling while there are rumors of him having autocratic tendencies. In LA, there&#39;s a medical examiner&#39;s office that investigates sudden celebrity deaths and Trump is avoiding testifying in his own trial.</p>
+There is a lot happening across the US and the world right now. In the US, there&#39;s been rising pressure on Harvard&#39;s president Claudine Gay over questions about antisemitism, and it&#39;s becoming a source of tension between conservatives and the left. At the University of Pennsylvania, students and faculty are dealing with division after the university president and chairman resigned. 
+
+Meanwhile, in the Middle East, Israeli Prime Minister Benjamin Netanyahu is being criticized for his “buying quiet” policy that has propped up Hamas. In Gaza, bombings have been making it difficult for Palestinians to find shelter. 
+
+In addition, police departments across the US are unintentionally fueling a secondary arms market by disposing of seized guns in a way that leaves parts resellable. On the West Coast, former President Donald Trump recently returned to the fundraising trail after a hiatus due to writers&#39; strikes. The debate around autocracy continues as he and his allies seem uninterested in reassuring anyone worried about his behavior. 
+
+And in Los Angeles County – home to many celebrities – there is no medical examiner like theirs; investigations into sudden celebrity deaths are commonplace. To add another layer to it all, there’s an ongoing trial against Trump involving election fraud, which prosecutors have asked the judge not to freeze. And finally - baseball star Shohei Ohtani just signed a contract with the Dodgers valued at $700 million total - presumably because they believe he&#39;ll deliver championships and help bring in more revenue down the line.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Harvard President Faces Pressure to Resign, Some Faculty Show Support</h3>
@@ -98,12 +104,6 @@ There&#39;s a lot of news on a few different topics around the world right now. 
 <p>Communities across the U.S. are fueling a secondary arms market by giving seized and surrendered guns to disposal services that destroy one part and resell the rest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ghosts on the Glacier</h3>
-<sub>By John Branch and Emily Rhyne</sub>
-<p>Decades after the unexplained deaths of two American climbers in Argentina, a camera belonging to one of them was found in the snow. The film held astonishing images, but the mystery endures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Steps Out in Tinsel Town and the Big Donors Show Up</h3>
 <sub>By Anjali Huynh</sub>
@@ -132,6 +132,12 @@ There&#39;s a lot of news on a few different topics around the world right now. 
 <h3>Prosecutors Ask Judge to Deny Trump’s Request to Freeze Election Case</h3>
 <sub>By Alan Feuer</sub>
 <p>The special counsel Jack Smith told the judge she should keep the trial’s start date in March and continue making decisions as the former president appeals one of her rulings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Ohtani’s Contract Goes Beyond Dollars and Sense</h3>
+<sub>By Ken Belson</sub>
+<p>The Los Angeles Dodgers are betting $700 million that Shohei Ohtani can deliver championships and help increase revenue. But the economics of sports can be fickle.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
