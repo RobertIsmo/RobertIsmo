@@ -60,30 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now, and it&#39;s making headlines. At Harvard University in the US, the future of the President, Claudine Gay, is uncertain as the Board convenes to assess her role. In Congress and universities across America, a debate has emerged over whether or not anti-Zionism is considered antisemitism. Meanwhile, there is also a debate about who should lead universities in the wake of the controversy at Harvard and UPenn over antisemitism. On the followinng note, special counsel has asked the Supreme Court to decide whether Trump is immune from prosecution. 
-
-Over in Israel, a border community called Kfar Aza has been ravaged by Hamas-led assault and its residents killed and kidnapped. The thing that makes this so poignant is that some people see its rehabilitation as an indicator of Israel&#39;s future. In Maine in the US, Army Blast exposure may have played a role in a gunman&#39;s rampage recently, prompting medical scientists and military investigators to look into whether there was a link between his psychological collapse and brain damage from being an instructor in grenade training. 
-
-Renters are being hit very hard here in America too with record rent burdens battering low-income life. More tenants than ever spend half or more of their income for some kind of shelter, leaving less for other things and often having nowhere to call home. And then there’s a family in upstate New York setting the world record for having the most lights on their residential property - raising questions among neighbors about what it means to celebrate Santa&#39;s arrival! 
-
-The climate crisis is something else entirely - and countries most at risk are calling the proposed climate agreement a ‘death warrant’ with no commitment to phasing out fossil fuels that cause global heating. To add to all this, researchers have found that a quarter of freshwater fish species are at risk of extinction due to climate change compounding other threats to plants and animals.</p>
+There&#39;s a lot of political unrest going on right now. In Pennsylvania, there&#39;s been a chaotic struggle for power between donors and the president and chair of the board. In Massachusetts, there&#39;s been debate about academic freedom at Harvard and whether or not their president deserved to stay in her role. Yale University is also involved after a Palestinian flag was hung on a Menorah during a protest. Donald Trump is also in the news as the Supreme Court may have to decide whether he is immune from prosecution. At the same time, issues with rent and homelessness are plaguing low-income families. Even in small towns people are taking notice of how many lights can be put on residential properties. Unfortunately, pedestrian deaths keep rising despite other wealthy countries addressing this issue better. Furthermore, Portland is working to recriminalize public drug usage while Florida&#39;s Governor DeSantis is at odds with Trump about his cowardly refusal to debate his 2020 rival Joe Biden.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Chaotic Struggle for Power at Penn</h3>
+<sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
+<p>For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Why Defenders of Harvard’s President Are Focused on Academic Freedom</h3>
+<sub>By Alan Blinder</sub>
+<p>The principle is highly valued by many at American universities, but critics say it is sometimes invoked to dodge repercussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard President’s Future Uncertain as Board Convenes</h3>
 <sub>By Jeremy W. Peters, Dana Goldstein and Rob Copeland</sub>
 <p>Claudine Gay, the university’s president, received support from the faculty, including a group of Black faculty members who urged Harvard’s leadership to defend her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Is Anti-Zionism Always Antisemitic? A Fraught Question for the Moment.</h3>
-<sub>By Jonathan Weisman</sub>
-<p>From the halls of Congress to America’s streets and universities, a once largely academic issue has roiled national discourse, inciting accusations of bigotry and countercharges of bullying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Who Should Run Universities?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>In the wake of a controversy at the University of Pennsylvania and Harvard over antisemitism, a debate has arisen over whether academics are best suited to lead big schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Yale Condemns Hanging of Palestinian Flag on Menorah During Protest</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>Yale University leaders, elected officials and pro-Palestinian activists said the brief action crossed a line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +92,10 @@ The climate crisis is something else entirely - and countries most at risk are c
 <p>The request was unusual in two ways: Jack Smith asked the justices to rule before an appeals court acted, and he urged them to move with exceptional speed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ravaged Israeli Border Community Ponders: What’s Next?</h3>
-<sub>By Isabel Kershner and Avishag Shaar-Yashuv</sub>
-<p>Kibbutz Kfar Aza was devastated in the Hamas-led assault of Oct. 7, with its residents killed and kidnapped. Some see the prospects of its rehabilitation as a barometer for Israel’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Woman Who Sought Court-Ordered Abortion Is Leaving Texas for Procedure</h3>
+<sub>By J. David Goodman</sub>
+<p>A group representing Kate Cox, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion rather than wait for a ruling from the Texas Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,22 +122,16 @@ The climate crisis is something else entirely - and countries most at risk are c
 <p>Nothing resembling this pattern has occurred in other comparably wealthy countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Ails Offshore Wind: Supply Chains, Ships and Interest Rates</h3>
-<sub>By Ivan Penn, Stanley Reed and Brad Plumer</sub>
-<p>Government officials and energy developers misjudged the difficulty of building huge clean energy projects in the United States, which has built very few of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Revive Portland, Officials Seek to Recriminalize Public Drug Use</h3>
+<sub>By Mike Baker</sub>
+<p>State and local leaders are proposing to roll back part of the nation’s pioneering drug decriminalization law and step up police enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Countries Most at Risk Call Proposed Climate Agreement a ‘Death Warrant’</h3>
-<sub>By Lisa Friedman</sub>
-<p>The working draft made public at the U.N. summit in Dubai would not commit nations to phasing out the fossil fuels that are dangerously heating the planet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Quarter of Freshwater Fish Are at Risk of Extinction, a New Assessment Finds</h3>
-<sub>By Catrin Einhorn</sub>
-<p>A global update from the leading authority on the status of species shows that climate change is compounding other threats to plants and animals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Accuses Trump of ‘Cowardice’ for Refusing to Debate Rivals</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>Gov. Ron DeSantis escalated his attacks on the former president after Mr. Trump bragged about debating Hillary Clinton in 2016.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
