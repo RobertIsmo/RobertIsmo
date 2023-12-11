@@ -60,10 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 10, Central Standard Time</p>
 <p>
-There is a lot of political unrest in the United States right now. Recently, there was an intense congressional hearing concerning antisemitism at college campuses, and both Republicans and Democrats are joining forces to condemn it. Additionally, the President of the University of Pennsylvania recently resigned and people are still learning more about why. Meanwhile in Israel, Prime Minister Benjamin Netanyahu has been implementing a plan meant to prop up Hamas, while in Egypt their president Abdel Fattah el-Sisi has been receiving increased international attention for his handling of war in Gaza. 
-
-In other news stateside, law enforcement agencies have been providing guns to disposal services which in turn use them to make them more saleable on the secondary market- something which is being investigated by citizens who are concerned about safety implications. Outside of political news one former President Donald J. Trump&#39;s autocratic inclinations have spurred on debates and discussions regarding potential dictatorships. Finally, there is some good news too- Biden is back on the campaign trail and successfully raised funds following the writers&#39; and actors&#39; strikes. On top of that, a unique pro-tech movement called &quot;Effective Accelerationists&quot; is gaining ground with its mantra of wanting to unshackle powerful A.I., while the Los Angeles Dodgers recently made an $700 million deal with Shohei Ohtani that demonstrates how economics of sports can be unpredictable at times.</p>
+A lot is happening in the world right now. In the US, there has been a lot of tension over issues of antisemitism and campus division. The former president, Donald Trump, is still making headlines with his attempts to freeze an election fraud case and has been accused of stoking autocratic instincts. There is also news from abroad, like a plan in Israel to prop up Hamas and dangerous conditions in Gaza as Israeli forces pound the area. Finally, there&#39;s an intriguing mystery emerging from Argentina with the discovery of film on a glacier taken by two climbers who passed away decades ago.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Harvard President Faces Pressure to Resign, Some Faculty Show Support</h3>
+<sub>By Jeremy W. Peters, Dana Goldstein and Rob Copeland</sub>
+<p>Claudine Gay, Harvard’s president, faced rising pressure after her answers to questions about antisemitism. Some faculty members signed a petition supporting her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Fury Erupts Over Campus Antisemitism, Conservatives Seize the Moment</h3>
 <sub>By Nicholas Confessore</sub>
@@ -71,16 +75,10 @@ In other news stateside, law enforcement agencies have been providing guns to di
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pennsylvania Governor and Senator Denounce Antisemitism at Rally</h3>
+<h3>At Penn, Vacancies in Leadership, and Anguish on Campus</h3>
 <sub>By Anna Betts and Jon Hurdle</sub>
-<p>Gov. Josh Shapiro and Senator Bob Casey joined a rally in a show of solidarity with Jews after the resignation of the University of Pennsylvania’s president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>One day after the resignations of the university president and chairman, students and professors reflected on the continuing division at the school.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Elizabeth Magill, the Penn President Who Resigned</h3>
-<sub>By Anna Betts</sub>
-<p>Ms. Magill, who had been in her post since last year, stepped down four days after testifying before Congress.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Buying Quiet’: Inside the Israeli Plan That Propped Up Hamas</h3>
@@ -89,10 +87,10 @@ In other news stateside, law enforcement agencies have been providing guns to di
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza War Has Buoyed Egypt’s Leader Ahead of Presidential Vote</h3>
-<sub>By Vivian Yee</sub>
-<p>President Abdel Fattah el-Sisi of Egypt grew increasingly unpopular amid a deep economic crisis. But the war in neighboring Gaza has given him a vital role on the international stage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
+<h3>Gazans Mass at Border for Safety, but Find Only More Peril</h3>
+<sub>By Ameera Harouda, Ben Hubbard and Vivian Nereim</sub>
+<p>As Israeli forces pound Gaza, the area where Palestinians can seek shelter is shrinking, raising concerns that they could be forced into Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Guns Were Said to Be Destroyed. Instead, They Were Reborn.</h3>
@@ -106,12 +104,6 @@ In other news stateside, law enforcement agencies have been providing guns to di
 <p>Decades after the unexplained deaths of two American climbers in Argentina, a camera belonging to one of them was found in the snow. The film held astonishing images, but the mystery endures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
-<sub>By Corina Knoll</sub>
-<p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Steps Out in Tinsel Town and the Big Donors Show Up</h3>
 <sub>By Anjali Huynh</sub>
@@ -124,16 +116,22 @@ In other news stateside, law enforcement agencies have been providing guns to di
 <p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>This A.I. Subculture’s Motto: Go, Go, Go</h3>
-<sub>By Kevin Roose</sub>
-<p>The eccentric pro-tech movement known as “Effective Accelerationism” wants to unshackle powerful A.I., and party along the way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
+<sub>By Corina Knoll</sub>
+<p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ohtani’s Contract Goes Beyond Dollars and Sense</h3>
-<sub>By Ken Belson</sub>
-<p>The Los Angeles Dodgers are betting $700 million that Shohei Ohtani can deliver championships and help increase revenue. But the economics of sports can be fickle.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Trump Will Not Testify as Scheduled in Civil Fraud Trial</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>Donald J. Trump has changed his mind about returning to the witness stand on Monday to testify in his own defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Ask Judge to Deny Trump’s Request to Freeze Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The special counsel Jack Smith told the judge she should keep the trial’s start date in March and continue making decisions as the former president appeals one of her rulings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
