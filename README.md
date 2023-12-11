@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-Right now, there is a lot going on in the world. In the US, there&#39;s a lot of controversy surrounding Harvard President Claudine Gay and her answers to questions about antisemitism. There&#39;s also been a lot of debate over whether anti-Zionism equates to antisemitism. In Israel, there have been intense Israeli attacks on Gaza since October 7th, leaving the town Kfar Aza devastated and raising concerns for Israel&#39;s future. Gazans are being forced to seek shelter in areas that are shrinking rapidly and in danger due to ongoing Israeli operations. In Maine, military scientists and the army are looking into whether or not Robert Card&#39;s psychological collapse could be linked to brain damage from when he was a grenade instructor. On top of this climate change has been a huge topic with a global climate summit taking place and a seven question quiz about climate news being released. Lastly, there is also a pop-up market outside one of New York City&#39;s biggest migrant shelters at Randall’s Island Athletic Field 83.</p>
+There is a lot happening in the world right now. There is pressure for Harvard&#39;s president to resign after she answered questions about antisemitism. There&#39;s a debate going on about whether anti-zionism is always antisemitic. To complicate matters further, there&#39;s discussion about who is best suited to lead universities. In Israel, a border community near Gaza has been devastated by Hamas-led attacks and now must figure out what comes next. Meanwhile, American pedestrians are dying at night at an alarming rate, with some suggesting it&#39;s linked to climate change. Looking ahead, there are difficulties constructing offshore wind projects in the US; one quarter of freshwater fish are also at risk of extinction due to climate changes; and virtual COP28 Climate Summit is taking place with diplomats and policy talk as well as extra events like a trade fair and light show.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Harvard President Faces Pressure to Resign, Some Faculty Show Support</h3>
@@ -69,22 +69,22 @@ Right now, there is a lot going on in the world. In the US, there&#39;s a lot of
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Fraught Question for the Moment: Is Anti-Zionism Always Antisemitic?</h3>
+<h3>Is Anti-Zionism Always Antisemitic? A Fraught Question for the Moment.</h3>
 <sub>By Jonathan Weisman</sub>
 <p>From the halls of Congress to America’s streets and universities, a once largely academic issue has roiled national discourse, inciting accusations of bigotry and countercharges of bullying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Who Should Run Universities?</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>In the wake of a controversy at the University of Pennsylvania and Harvard over antisemitism, a debate has arisen over whether academics are best suited to lead big schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ravaged Israeli Border Community Ponders: What’s Next?</h3>
 <sub>By Isabel Kershner and Avishag Shaar-Yashuv</sub>
 <p>Kibbutz Kfar Aza was devastated in the Hamas-led assault of Oct. 7, with its residents killed and kidnapped. Some see the prospects of its rehabilitation as a barometer for Israel’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gazans Mass at Border for Safety, but Find Only More Peril</h3>
-<sub>By Ameera Harouda, Ben Hubbard and Vivian Nereim</sub>
-<p>As Israeli forces pound Gaza, the area where Palestinians can seek shelter is shrinking, raising concerns that they could be forced into Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Gazans Mass at Border, and Pressure Rises on Harvard’s President</h3>
@@ -104,6 +104,18 @@ Right now, there is a lot going on in the world. In the US, there&#39;s a lot of
 <p>Decades after sending it to design purgatory, the space agency celebrates a logo it still calls the worm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Why Are So Many American Pedestrians Dying at Night?</h3>
+<sub>By Emily Badger, Ben Blatt and Josh Katz</sub>
+<p>Nothing resembling this pattern has occurred in other comparably wealthy countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Rise in U.S. Traffic Deaths</h3>
+<sub>By David Leonhardt</sub>
+<p>What’s behind America’s unique problem with vehicle crashes?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What Ails Offshore Wind: Supply Chains, Ships and Interest Rates</h3>
 <sub>By Ivan Penn, Stanley Reed and Brad Plumer</sub>
@@ -111,28 +123,16 @@ Right now, there is a lot going on in the world. In the US, there&#39;s a lot of
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Quarter of Freshwater Fish Are at Risk of Extinction, a New Assessment Finds</h3>
+<sub>By Catrin Einhorn</sub>
+<p>A global update from the leading authority on the status of species shows that climate change is compounding other threats to plants and animals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>Step Right Up: This Climate Summit Isn’t Just Diplomats and Policy Talk</h3>
 <sub>By Somini Sengupta</sub>
 <p>Outside the negotiating rooms, COP28 is part trade fair, part lobbyist jamboree, part debate tournament. And, there’s a light show every evening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Quiz: Are You a Climate Nerd?</h3>
-<sub></sub>
-<p>Test your climate news knowledge with this seven-question quiz as the COP28 climate summit heads into the home stretch.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Handle a Surge of Illegal Crossings, Border Officials Stop Legal Ones</h3>
-<sub>By Jack Healy, Miriam Jordan and Rebecca Noble</sub>
-<p>Some border communities in the U.S. and Mexico are suddenly cut off from each other after a border crossing closed to cope with large numbers of migrants.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Low Prices and High Hopes at a Pop-Up Market on Randall’s Island</h3>
-<sub>By Sebastian Sele</sub>
-<p>Since early October, an ecosystem of barbers, vendors and chefs has sprung up outside one of the city’s largest migrant shelters at Randall’s Island Athletic Field 83.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
