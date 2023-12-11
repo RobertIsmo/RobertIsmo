@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. There is pressure for Harvard&#39;s president to resign after she answered questions about antisemitism. There&#39;s a debate going on about whether anti-zionism is always antisemitic. To complicate matters further, there&#39;s discussion about who is best suited to lead universities. In Israel, a border community near Gaza has been devastated by Hamas-led attacks and now must figure out what comes next. Meanwhile, American pedestrians are dying at night at an alarming rate, with some suggesting it&#39;s linked to climate change. Looking ahead, there are difficulties constructing offshore wind projects in the US; one quarter of freshwater fish are also at risk of extinction due to climate changes; and virtual COP28 Climate Summit is taking place with diplomats and policy talk as well as extra events like a trade fair and light show.</p>
+There is a lot going on around the world right now, and it&#39;s making headlines. At Harvard University in the US, the future of the President, Claudine Gay, is uncertain as the Board convenes to assess her role. In Congress and universities across America, a debate has emerged over whether or not anti-Zionism is considered antisemitism. Meanwhile, there is also a debate about who should lead universities in the wake of the controversy at Harvard and UPenn over antisemitism. On the followinng note, special counsel has asked the Supreme Court to decide whether Trump is immune from prosecution. 
+
+Over in Israel, a border community called Kfar Aza has been ravaged by Hamas-led assault and its residents killed and kidnapped. The thing that makes this so poignant is that some people see its rehabilitation as an indicator of Israel&#39;s future. In Maine in the US, Army Blast exposure may have played a role in a gunman&#39;s rampage recently, prompting medical scientists and military investigators to look into whether there was a link between his psychological collapse and brain damage from being an instructor in grenade training. 
+
+Renters are being hit very hard here in America too with record rent burdens battering low-income life. More tenants than ever spend half or more of their income for some kind of shelter, leaving less for other things and often having nowhere to call home. And then there’s a family in upstate New York setting the world record for having the most lights on their residential property - raising questions among neighbors about what it means to celebrate Santa&#39;s arrival! 
+
+The climate crisis is something else entirely - and countries most at risk are calling the proposed climate agreement a ‘death warrant’ with no commitment to phasing out fossil fuels that cause global heating. To add to all this, researchers have found that a quarter of freshwater fish species are at risk of extinction due to climate change compounding other threats to plants and animals.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Harvard President Faces Pressure to Resign, Some Faculty Show Support</h3>
+<h3>Harvard President’s Future Uncertain as Board Convenes</h3>
 <sub>By Jeremy W. Peters, Dana Goldstein and Rob Copeland</sub>
-<p>Claudine Gay, Harvard’s president, faced rising pressure after her answers to questions about antisemitism. Some faculty members signed a petition supporting her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<p>Claudine Gay, the university’s president, received support from the faculty, including a group of Black faculty members who urged Harvard’s leadership to defend her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Is Anti-Zionism Always Antisemitic? A Fraught Question for the Moment.</h3>
@@ -80,16 +86,16 @@ There is a lot happening in the world right now. There is pressure for Harvard&#
 <p>In the wake of a controversy at the University of Pennsylvania and Harvard over antisemitism, a debate has arisen over whether academics are best suited to lead big schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Special Counsel Asks Supreme Court to Decide Whether Trump Is Immune From Prosecution</h3>
+<sub>By Adam Liptak and Alan Feuer</sub>
+<p>The request was unusual in two ways: Jack Smith asked the justices to rule before an appeals court acted, and he urged them to move with exceptional speed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ravaged Israeli Border Community Ponders: What’s Next?</h3>
 <sub>By Isabel Kershner and Avishag Shaar-Yashuv</sub>
 <p>Kibbutz Kfar Aza was devastated in the Hamas-led assault of Oct. 7, with its residents killed and kidnapped. Some see the prospects of its rehabilitation as a barometer for Israel’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Gazans Mass at Border, and Pressure Rises on Harvard’s President</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,22 +104,22 @@ There is a lot happening in the world right now. There is pressure for Harvard&#
 <p>Medical scientists and the military are looking into whether Robert Card’s psychological collapse was linked to brain damage from his role as a grenade instructor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>How NASA Learned to Love 4 Squirmy Letters</h3>
-<sub>By Kenneth Chang</sub>
-<p>Decades after sending it to design purgatory, the space agency celebrates a logo it still calls the worm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Record Rent Burdens Batter Low-Income Life</h3>
+<sub>By Jason DeParle</sub>
+<p>More tenants than ever spend half or more of their income for shelter, leaving less for everything else, taking an emotional toll and leaving some without a place to call their own.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>‘Are You Going to Be the One to Get Rid of Santa?’</h3>
+<sub>By Ronda Kaysen</sub>
+<p>A family in a small town in New York holds a world record for having the most lights on a residential property to the dismay of some neighbors and the delight of others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Why Are So Many American Pedestrians Dying at Night?</h3>
 <sub>By Emily Badger, Ben Blatt and Josh Katz</sub>
 <p>Nothing resembling this pattern has occurred in other comparably wealthy countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Rise in U.S. Traffic Deaths</h3>
-<sub>By David Leonhardt</sub>
-<p>What’s behind America’s unique problem with vehicle crashes?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -123,15 +129,15 @@ There is a lot happening in the world right now. There is pressure for Harvard&#
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Quarter of Freshwater Fish Are at Risk of Extinction, a New Assessment Finds</h3>
-<sub>By Catrin Einhorn</sub>
-<p>A global update from the leading authority on the status of species shows that climate change is compounding other threats to plants and animals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Countries Most at Risk Call Proposed Climate Agreement a ‘Death Warrant’</h3>
+<sub>By Lisa Friedman</sub>
+<p>The working draft made public at the U.N. summit in Dubai would not commit nations to phasing out the fossil fuels that are dangerously heating the planet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Step Right Up: This Climate Summit Isn’t Just Diplomats and Policy Talk</h3>
-<sub>By Somini Sengupta</sub>
-<p>Outside the negotiating rooms, COP28 is part trade fair, part lobbyist jamboree, part debate tournament. And, there’s a light show every evening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Quarter of Freshwater Fish Are at Risk of Extinction, a New Assessment Finds</h3>
+<sub>By Catrin Einhorn</sub>
+<p>A global update from the leading authority on the status of species shows that climate change is compounding other threats to plants and animals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
