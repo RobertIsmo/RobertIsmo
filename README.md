@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There is a lot happening across the US and the world right now. In the US, there&#39;s been rising pressure on Harvard&#39;s president Claudine Gay over questions about antisemitism, and it&#39;s becoming a source of tension between conservatives and the left. At the University of Pennsylvania, students and faculty are dealing with division after the university president and chairman resigned. 
-
-Meanwhile, in the Middle East, Israeli Prime Minister Benjamin Netanyahu is being criticized for his “buying quiet” policy that has propped up Hamas. In Gaza, bombings have been making it difficult for Palestinians to find shelter. 
-
-In addition, police departments across the US are unintentionally fueling a secondary arms market by disposing of seized guns in a way that leaves parts resellable. On the West Coast, former President Donald Trump recently returned to the fundraising trail after a hiatus due to writers&#39; strikes. The debate around autocracy continues as he and his allies seem uninterested in reassuring anyone worried about his behavior. 
-
-And in Los Angeles County – home to many celebrities – there is no medical examiner like theirs; investigations into sudden celebrity deaths are commonplace. To add another layer to it all, there’s an ongoing trial against Trump involving election fraud, which prosecutors have asked the judge not to freeze. And finally - baseball star Shohei Ohtani just signed a contract with the Dodgers valued at $700 million total - presumably because they believe he&#39;ll deliver championships and help bring in more revenue down the line.</p>
+There&#39;s a lot of tension over campus antisemitism in the US right now, with both conservatives and liberals speaking out. There are also some political shakeups happening at US universities like Harvard and Penn. In international news, Israeli Prime Minister Benjamin Netanyahu has been propping up the Hamas movement, while in the South China Sea, tensions have escalated between China and the Philippines. Lastly, former President Donald Trump is facing trial in the US and is denying requests to testify.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Harvard President Faces Pressure to Resign, Some Faculty Show Support</h3>
@@ -134,11 +128,11 @@ And in Los Angeles County – home to many celebrities – there is no medical e
 <p>The special counsel Jack Smith told the judge she should keep the trial’s start date in March and continue making decisions as the former president appeals one of her rulings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Ohtani’s Contract Goes Beyond Dollars and Sense</h3>
-<sub>By Ken Belson</sub>
-<p>The Los Angeles Dodgers are betting $700 million that Shohei Ohtani can deliver championships and help increase revenue. But the economics of sports can be fickle.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What It Feels Like to Be the Target of China’s Water Cannons</h3>
+<sub>By Camille Elemia</sub>
+<p>The Philippines invited journalists on a mission to provide fuel to fishermen in disputed waters of the South China Sea amid tensions between Beijing and Manila.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
