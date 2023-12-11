@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There&#39;s a lot of tension over campus antisemitism in the US right now, with both conservatives and liberals speaking out. There are also some political shakeups happening at US universities like Harvard and Penn. In international news, Israeli Prime Minister Benjamin Netanyahu has been propping up the Hamas movement, while in the South China Sea, tensions have escalated between China and the Philippines. Lastly, former President Donald Trump is facing trial in the US and is denying requests to testify.</p>
+Right now, there is a lot going on in the world. In the US, there&#39;s a lot of controversy surrounding Harvard President Claudine Gay and her answers to questions about antisemitism. There&#39;s also been a lot of debate over whether anti-Zionism equates to antisemitism. In Israel, there have been intense Israeli attacks on Gaza since October 7th, leaving the town Kfar Aza devastated and raising concerns for Israel&#39;s future. Gazans are being forced to seek shelter in areas that are shrinking rapidly and in danger due to ongoing Israeli operations. In Maine, military scientists and the army are looking into whether or not Robert Card&#39;s psychological collapse could be linked to brain damage from when he was a grenade instructor. On top of this climate change has been a huge topic with a global climate summit taking place and a seven question quiz about climate news being released. Lastly, there is also a pop-up market outside one of New York City&#39;s biggest migrant shelters at Randall’s Island Athletic Field 83.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Harvard President Faces Pressure to Resign, Some Faculty Show Support</h3>
@@ -69,22 +69,16 @@ There&#39;s a lot of tension over campus antisemitism in the US right now, with 
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Fury Erupts Over Campus Antisemitism, Conservatives Seize the Moment</h3>
-<sub>By Nicholas Confessore</sub>
-<p>Republicans have been attacking elite universities for years. After a tense congressional hearing last week, many on the left are joining them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>At Penn, Vacancies in Leadership, and Anguish on Campus</h3>
-<sub>By Anna Betts and Jon Hurdle</sub>
-<p>One day after the resignations of the university president and chairman, students and professors reflected on the continuing division at the school.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Fraught Question for the Moment: Is Anti-Zionism Always Antisemitic?</h3>
+<sub>By Jonathan Weisman</sub>
+<p>From the halls of Congress to America’s streets and universities, a once largely academic issue has roiled national discourse, inciting accusations of bigotry and countercharges of bullying.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Buying Quiet’: Inside the Israeli Plan That Propped Up Hamas</h3>
-<sub>By Mark Mazzetti and Ronen Bergman</sub>
-<p>Prime Minister Benjamin Netanyahu gambled that a strong Hamas (but not too strong) would keep the peace and reduce pressure for a Palestinian state.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<h3>Ravaged Israeli Border Community Ponders: What’s Next?</h3>
+<sub>By Isabel Kershner and Avishag Shaar-Yashuv</sub>
+<p>Kibbutz Kfar Aza was devastated in the Hamas-led assault of Oct. 7, with its residents killed and kidnapped. Some see the prospects of its rehabilitation as a barometer for Israel’s future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gazans Mass at Border for Safety, but Find Only More Peril</h3>
@@ -92,47 +86,53 @@ There&#39;s a lot of tension over campus antisemitism in the US right now, with 
 <p>As Israeli forces pound Gaza, the area where Palestinians can seek shelter is shrinking, raising concerns that they could be forced into Egypt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Guns Were Said to Be Destroyed. Instead, They Were Reborn.</h3>
-<sub>By Mike McIntire</sub>
-<p>Communities across the U.S. are fueling a secondary arms market by giving seized and surrendered guns to disposal services that destroy one part and resell the rest.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Steps Out in Tinsel Town and the Big Donors Show Up</h3>
-<sub>By Anjali Huynh</sub>
-<p>The president was back on the fund-raising trail in Los Angeles this weekend after a hiatus because of the writers’ and actors’ strikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Talk of a Trump Dictatorship Charges the American Political Debate</h3>
-<sub>By Peter Baker</sub>
-<p>Former President Donald J. Trump and his allies are not doing much to reassure those worried about his autocratic instincts. If anything, they seem to be leaning into the predictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 9, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
-<sub>By Corina Knoll</sub>
-<p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Trump Will Not Testify as Scheduled in Civil Fraud Trial</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>Donald J. Trump has changed his mind about returning to the witness stand on Monday to testify in his own defense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Ask Judge to Deny Trump’s Request to Freeze Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The special counsel Jack Smith told the judge she should keep the trial’s start date in March and continue making decisions as the former president appeals one of her rulings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What It Feels Like to Be the Target of China’s Water Cannons</h3>
-<sub>By Camille Elemia</sub>
-<p>The Philippines invited journalists on a mission to provide fuel to fishermen in disputed waters of the South China Sea amid tensions between Beijing and Manila.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Gazans Mass at Border, and Pressure Rises on Harvard’s President</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Did Army Blast Exposure Play Role in Maine Gunman’s Rampage?</h3>
+<sub>By Dave Philipps</sub>
+<p>Medical scientists and the military are looking into whether Robert Card’s psychological collapse was linked to brain damage from his role as a grenade instructor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>How NASA Learned to Love 4 Squirmy Letters</h3>
+<sub>By Kenneth Chang</sub>
+<p>Decades after sending it to design purgatory, the space agency celebrates a logo it still calls the worm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Ails Offshore Wind: Supply Chains, Ships and Interest Rates</h3>
+<sub>By Ivan Penn, Stanley Reed and Brad Plumer</sub>
+<p>Government officials and energy developers misjudged the difficulty of building huge clean energy projects in the United States, which has built very few of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Step Right Up: This Climate Summit Isn’t Just Diplomats and Policy Talk</h3>
+<sub>By Somini Sengupta</sub>
+<p>Outside the negotiating rooms, COP28 is part trade fair, part lobbyist jamboree, part debate tournament. And, there’s a light show every evening.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Quiz: Are You a Climate Nerd?</h3>
+<sub></sub>
+<p>Test your climate news knowledge with this seven-question quiz as the COP28 climate summit heads into the home stretch.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>To Handle a Surge of Illegal Crossings, Border Officials Stop Legal Ones</h3>
+<sub>By Jack Healy, Miriam Jordan and Rebecca Noble</sub>
+<p>Some border communities in the U.S. and Mexico are suddenly cut off from each other after a border crossing closed to cope with large numbers of migrants.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Low Prices and High Hopes at a Pop-Up Market on Randall’s Island</h3>
+<sub>By Sebastian Sele</sub>
+<p>Since early October, an ecosystem of barbers, vendors and chefs has sprung up outside one of the city’s largest migrant shelters at Randall’s Island Athletic Field 83.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
