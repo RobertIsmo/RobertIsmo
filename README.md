@@ -60,9 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, the Texas Supreme Court ruled against a woman who sought court-approved abortion, and Ukrainian President Zelensky has arrived in Washington to seek out a new strategy after a failed counteroffensive, while Harvard&#39;s governing board nears a resolution on their President, Claudine Gay&#39;s future. Meanwhile Yale condemned the hanging of a Palestinian flag on a New Haven menorah and the special counsel has asked the Supreme Court to decide whether Trump is immune from prosecution. 
+Right now, lots of important things are happening all around the world. In the US, a Texas Supreme Court recently ruled against a woman who wanted an abortion. The US and Ukraine are searching for a new strategy after a failed counteroffensive. Also in the US, Harvard&#39;s governing board is nearing resolution on their president&#39;s future, while a special counsel has asked the US Supreme Court to decide if President Trump is immune from prosecution.
 
-In terms of technology news, Google lost an antitrust court battle with makers of Fortnite video game, and fighting continues to rage in Gaza as Israel issues warnings for another potential conflict. There has also been an increase in infectious diseases spreading across Gaza due to cold, wet weather conditions. Additionally, Houthi militia attacked a ship in the Red Sea according to the Pentagon and Africans are taking part in changing French by making jokes, rapping and writing books.</p>
+In New York, Yale University condemned the hanging of a Palestinian flag on a New Haven menorah during a weekend protest. Meanwhile, Google lost an antitrust court battle with the makers of Fortnite over how they make money with their Android operating system. 
+
+Overseas in Gaza, Israel issued warnings on one front as their forces waged street battles against Hamas on another. A growing number of Africans are affecting French culture through jokes, rap and books, which is leading to the spread of the French language in Africa. 
+
+Finally, former President Trump&#39;s lawyer Rudy Giuliani especially in hot water right now as he is facing millions in damages after falsely claiming that two Georgia election workers had tried to swing the 2020 election outcome against him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
@@ -113,27 +117,27 @@ In terms of technology news, Google lost an antitrust court battle with makers o
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Evacuation Decrees Leave Gazans Confused</h3>
+<sub>By Yara Bayoumy, Lauren Leatherby and Iyad Abuheweila</sub>
+<p>Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As Fighting Rages in Gaza, Israel Issues Warnings on Another Front</h3>
 <sub>By Andrés R. Martínez, Neil MacFarquhar and Thomas Fuller</sub>
 <p>Top Israeli officials hinted at a powerful response to attacks by Hezbollah across the northern border with Lebanon, as to the south Israeli troops wage street battles against Hamas in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We are all sick’: Infectious Diseases Spread Across Gaza</h3>
-<sub>By Gaya Gupta, Hiba Yazbek and Ameera Harouda</sub>
-<p>Cold, wet weather combined with a lack of clean water, toilets and food have fueled a spike in respiratory, stomach and other ailments, and the sick are left struggling to recover, health officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Houthi Militia Attacks Ship Near the Red Sea, Pentagon Says</h3>
-<sub>By Yan Zhuang, Livia Albeck-Ripka and Eric Schmitt</sub>
-<p>The attack was the latest by the group on targets in the Red Sea and the broader region during more than two months of war between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Africans Are Changing French — One Joke, Rap and Book at a Time</h3>
 <sub>By Elian Peltier</sub>
 <p>More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Court With the Women He Defamed, Giuliani Faces Millions in Damages</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Two Georgia election workers are seeking as much as $43 million for false assertions from Rudolph Giuliani that they had sought to swing the 2020 outcome against Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
