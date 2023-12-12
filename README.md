@@ -60,50 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-There are a lot of contentious issues arising in the world right now. In the United States, President Volodymyr Zelensky of Ukraine has recently arrived in Washington at a critical moment, while Harvard&#39;s board is facing criticism about their president&#39;s responses to questions on antisemitism at a congressional hearing. Israel and Gaza have been embroiled in a 9-week long war causing destruction to many communities, with Gazans struggling to make sense of Israeli evacuation orders that are sometimes hard to understand. On the home front, millions of people in Texas witnessed an unprecedented ruling by the Supreme Court denying a woman access to an abortion, while a 123-year-old Jewish organization grapples with the consequences of taking either side of the conflict. Despite all the turmoil, appetite for American dishes continues, with 23 dishes from around the US gracing our best American dishes list this year.</p>
+There has been a lot of tension between Israel and Gaza recently. After numberous strikes by Israel, much of Gaza&#39;s neighborhoods have been destroyed. Many are having trouble understanding Israel&#39;s evacuation decrees, and it could be a life or death situation for some. They&#39;re also facing cyberattacks, partciularly in Ukraine - where people rely on phone alerts to warn them of impending Russian bombardments. Russia has suffered its own losses due to the war in Ukraine, and Finland has had to partly reopen its border with Russia as a result of migrants It&#39;s had other ripple effects in places like Harvard University, which faces criticism for antisemitism issues and consequent calls for its president to leave. College campuses have seen tension too, as well as infighting at Penn over questions of power and leadership. Regardless, consumer sentiment has improved due to lower gas prices.</p>
 <ol>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Zelensky in Washington, and a Texas Abortion Case Ruling</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard’s Board Says President Will Stay, Despite Calls for Her Ouster</h3>
-<sub>By Jeremy W. Peters, Alan Blinder and Anemona Hartocollis</sub>
-<p>Claudine Gay, who became head of the university in July, faced criticism for her responses to questions at a congressional hearing about antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of How the Israel-Hamas War Has Roiled College Campuses</h3>
-<sub>By Anna Betts</sub>
-<p>Since Oct. 7, there have been dueling protests, calls for the ouster of school leaders and threats from angry donors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Chaotic Struggle for Power at Penn</h3>
-<sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
-<p>For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Huge Cyberattack Knocks Ukraine’s Largest Mobile Operator Offline</h3>
-<sub>By Marc Santora</sub>
-<p>The interruption could pose real danger in a country where many rely on phone alerts to warn them of impending Russian bombardments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and Ukraine Search for a New Strategy After Failed Counteroffensive</h3>
-<sub>By Julian E. Barnes, Eric Schmitt, David E. Sanger and Thomas Gibbons-Neff</sub>
-<p>President Volodymyr Zelensky arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Ukraine’s Counteroffensive Fizzled. U.S. Funding May Be Next.</h3>
-<sub>By Sabrina Tavernise, Luke Vander Ploeg, Shannon Lin, Lexie Diao, Michael Benoist, Marion Lozano, Dan Powell and Chris Wood</sub>
-<p>President Volodymyr Zelensky has arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza After Nine Weeks of War</h3>
 <sub>By Josh Holder</sub>
@@ -122,16 +80,58 @@ There are a lot of contentious issues arising in the world right now. In the Uni
 <p>The war has created an existential reckoning for the Workers Circle, a community organization that traces its roots to Yiddish activists in the early 1900s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Huge Cyberattack Knocks Ukraine’s Largest Mobile Operator Offline</h3>
+<sub>By Marc Santora</sub>
+<p>The interruption could pose real danger in a country where many rely on phone alerts to warn them of impending Russian bombardments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
-<sub>By J. David Goodman</sub>
-<p>Hours before the ruling, a group representing the woman, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Has Suffered Staggeringly High Losses, U.S. Report Says</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The declassified intelligence assessment also found that Russia’s objective has been eroding Western support for Ukraine, the country it invaded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland Partly Reopens Its Border With Russia</h3>
+<sub>By Johanna Lemola and Emma Bubola</sub>
+<p>The Nordic country, which recently joined NATO, has accused Moscow of funneling migrants to their shared land border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Inflation Holds Roughly Steady Ahead of Fed Meeting</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Consumer prices rose 3.1 percent in the year through November, and a closely watched core index was roughly the same rate as the previous month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Gas Prices Are Falling Fast, Helping Tame Inflation</h3>
+<sub>By Santul Nerkar</sub>
+<p>Consumer sentiment has rebounded as gas prices slide. Oil prices continued to fall on Tuesday, a move that could portend an even bigger drop at the pump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard’s Board Says President Will Stay, Despite Calls for Her Ouster</h3>
+<sub>By Jeremy W. Peters, Anemona Hartocollis and Dana Goldstein</sub>
+<p>Claudine Gay, who became head of the university in July, faced criticism for her responses to questions at a congressional hearing about antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Timeline of How the Israel-Hamas War Has Roiled College Campuses</h3>
+<sub>By Anna Betts</sub>
+<p>Since Oct. 7, there have been dueling protests, calls for the ouster of school leaders and threats from angry donors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Chaotic Struggle for Power at Penn</h3>
+<sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
+<p>For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>23 of the Best American Dishes of 2023</h3>
-<sub>By The New York Times</sub>
-<p>As we scouted restaurants around the country, these were some of our favorites this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Who Would Give This Guy Millions to Build His Own Utopia?</h3>
+<sub>By Joseph Bernstein</sub>
+<p>Dryden Brown wants Praxis to be a crypto-city for tech bros and tastemakers. Just don’t ask for details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
