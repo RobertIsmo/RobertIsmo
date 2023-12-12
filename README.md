@@ -60,30 +60,48 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-It&#39;s been quite an eventful few months! In the United States, President Volodymyr Zelensky from Ukraine has been in Washington, DC working on getting aid passed in Congress and meeting with President Biden. There were also talks of the future of Harvard&#39;s first Black president Claudine Gay, who some donors and alumni want removed. Meanwhile, in Gaza, a destructive nine weeks of war have left the area in ruins. Over in China, Xi Jinping has been courting Vietnam in hopes of assuring it won&#39;t side with the U.S. against Beijing. And finally, if you&#39;re looking for some delicious new dishes to try this year, there are 23 of the best American dishes of 2023 being scouted around the country right now!</p>
+There are a lot of contentious issues arising in the world right now. In the United States, President Volodymyr Zelensky of Ukraine has recently arrived in Washington at a critical moment, while Harvard&#39;s board is facing criticism about their president&#39;s responses to questions on antisemitism at a congressional hearing. Israel and Gaza have been embroiled in a 9-week long war causing destruction to many communities, with Gazans struggling to make sense of Israeli evacuation orders that are sometimes hard to understand. On the home front, millions of people in Texas witnessed an unprecedented ruling by the Supreme Court denying a woman access to an abortion, while a 123-year-old Jewish organization grapples with the consequences of taking either side of the conflict. Despite all the turmoil, appetite for American dishes continues, with 23 dishes from around the US gracing our best American dishes list this year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Zelensky in Washington, and a Texas Abortion Case Ruling</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard’s Board Says President Will Stay, Despite Calls for Her Ouster</h3>
+<sub>By Jeremy W. Peters, Alan Blinder and Anemona Hartocollis</sub>
+<p>Claudine Gay, who became head of the university in July, faced criticism for her responses to questions at a congressional hearing about antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Timeline of How the Israel-Hamas War Has Roiled College Campuses</h3>
+<sub>By Anna Betts</sub>
+<p>Since Oct. 7, there have been dueling protests, calls for the ouster of school leaders and threats from angry donors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Chaotic Struggle for Power at Penn</h3>
+<sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
+<p>For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Huge Cyberattack Knocks Ukraine’s Largest Mobile Operator Offline</h3>
+<sub>By Marc Santora</sub>
+<p>The interruption could pose real danger in a country where many rely on phone alerts to warn them of impending Russian bombardments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and Ukraine Search for a New Strategy After Failed Counteroffensive</h3>
 <sub>By Julian E. Barnes, Eric Schmitt, David E. Sanger and Thomas Gibbons-Neff</sub>
 <p>President Volodymyr Zelensky arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Zelensky Begins Aid Push in Washington, Casting Inaction as Win for Putin</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>The Ukrainian president plans to meet with President Biden and lawmakers on Tuesday as chances of an aid deal in Congress have become increasingly bleak.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Ukraine’s Counteroffensive Fizzled. U.S. Funding May Be Next.</h3>
 <sub>By Sabrina Tavernise, Luke Vander Ploeg, Shannon Lin, Lexie Diao, Michael Benoist, Marion Lozano, Dan Powell and Chris Wood</sub>
 <p>President Volodymyr Zelensky has arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Zelensky in Washington, and a Texas Abortion Case Ruling</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,23 +116,11 @@ It&#39;s been quite an eventful few months! In the United States, President Volo
 <p>Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard’s Governing Board Nears Resolution on President’s Future</h3>
-<sub>By Jeremy W. Peters, Dana Goldstein and Rob Copeland</sub>
-<p>An announcement was expected on Tuesday about the future of Claudine Gay, the university’s president, who some donors and alumni say should be removed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About Claudine Gay, Harvard’s Embattled President</h3>
-<sub>By Sarah Mervosh</sub>
-<p>Dr. Gay is the first Black president and second woman to lead Harvard. She faces calls for her removal over her testimony on antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>Why Campus Speech Is Vexing</h3>
-<sub>By David Leonhardt</sub>
-<p>The Israel-Hamas war has highlighted a tension that university administrators haven’t fully acknowledged.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Why a 123-Year-Old Jewish Nonprofit Won’t Choose Sides in Gaza</h3>
+<sub>By Ginia Bellafante</sub>
+<p>The war has created an existential reckoning for the Workers Circle, a community organization that traces its roots to Yiddish activists in the early 1900s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
@@ -127,12 +133,6 @@ It&#39;s been quite an eventful few months! In the United States, President Volo
 <sub>By The New York Times</sub>
 <p>As we scouted restaurants around the country, these were some of our favorites this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Three Months After Biden, It’s Xi’s Turn to Court Vietnam</h3>
-<sub>By Damien Cave</sub>
-<p>The Chinese leader wants assurances that the strategically important country isn’t taking Washington’s side against Beijing, analysts say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
