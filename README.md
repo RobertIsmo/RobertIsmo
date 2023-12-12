@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There have been a lot of big stories in the news recently. In Texas, the state Supreme Court ruled against a woman who wanted a court-approved abortion after her fetus received a fatal diagnosis. Meanwhile in Ukraine, the US and Ukraine are looking for a new strategy together after a failed counteroffensive. The Special Counsel also sent a case to the Supreme Court to decide if Trump is immune from prosecution.
-
-In tech, Epic Games won an antitrust court fight against Google over their Play Store. There have also been quite a few political stories lately - Inside the Penn University, donors have waged a campaign against their president and their board chairman; and at Harvard University, there&#39;s been some controversy surrounding their president and academic freedom rights. In New Haven, Yale is condemning someone who hung a Palestinian flag on a Menorah there, while Israel has reportedly been using US-supplied white phosphorus in Lebanon in October.
-
-On top of that, Gaza is seeing an increase in infectious diseases spread due to poor sanitation and poverty while up in Yorktown Heights NY, there&#39;s been some controversy around the most lit up house on Christmas Lights Display! Finally, back in DC, Rudy Giuliani is facing millions of dollars in damages for defaming two Georgia election workers during the 2020 election.</p>
+There is a lot going on in the US and around the world! In Texas, the Supreme Court ruled against a woman who was trying to get court-approved abortion; in Washington, DC, Ukraine&#39;s President Zelensky is pushing for an aid deal while meeting with President Biden and other lawmakers; meanwhile Special Counsel Jack Smith is asking the Supreme Court to decide if former President Trump has immunity from prosecution. In the tech world, Google lost an antitrust battle with Fortnite video game makers; at Harvard a chaotic struggle for power is underway due to allegations of antisemitism. Additionally, Yale University condemned protesters for hanging a Palestinian flag on a Menorah in New Haven; on the world stage, the US is asking questions about Israel using US-supplied white phosphorus in Lebanon in October (which they denied); and finally there is a spike in infectious diseases in Gaza due to lack of resources. On a much lighter note, there&#39;s an amazing Christmas display that breaks records in a small town of NY!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
@@ -79,15 +75,21 @@ On top of that, Gaza is seeing an increase in infectious diseases spread due to 
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Zelensky Begins Aid Push in Washington, Casting Inaction as Win for Putin</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>The Ukrainian president plans to meet with President Biden and lawmakers on Tuesday as chances of an aid deal in Congress have become increasingly bleak.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Special Counsel Asks Supreme Court to Decide if Trump Is Immune From Prosecution</h3>
 <sub>By Adam Liptak and Alan Feuer</sub>
 <p>The special counsel, Jack Smith, urged the justices to move with exceptional speed, and they quickly agreed to fast-track the first phase of the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Epic Games Wins in Antitrust Court Fight Over Google’s Play Store</h3>
+<h3>Google Loses Antitrust Court Battle With Makers of Fortnite Video Game</h3>
 <sub>By Nico Grant</sub>
-<p>The ruling could reshape the rules of how other businesses can make money on the Android operating system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The case could reshape the rules of how other businesses can make money on the Android operating system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -121,21 +123,15 @@ On top of that, Gaza is seeing an increase in infectious diseases spread due to 
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Are All Sick’: Infectious Diseases Spread Across Gaza</h3>
-<sub>By Hiba Yazbek, Ameera Harouda and Gaya Gupta</sub>
-<p>A lack of clean water, toilets and food have fueled a spike in illnesses, and increasingly dire conditions are making it hard for the sick to recover, health officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘We are all sick’: Infectious Diseases Spread Across Gaza</h3>
+<sub>By Gaya Gupta, Hiba Yazbek and Ameera Harouda</sub>
+<p>Cold, wet weather combined with a lack of clean water, toilets and food have fueled a spike in respiratory, stomach and other ailments, and the sick are left struggling to recover, health officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
 <h3>‘Are You Going to Be the One to Get Rid of Santa?’</h3>
 <sub>By Ronda Kaysen</sub>
 <p>A family in a small town in New York holds a world record for having the most lights on a residential property to the dismay of some neighbors and the delight of others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Court With the Women He Defamed, Giuliani Faces Millions in Damages</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Two Georgia election workers are seeking as much as $43 million for false assertions from Rudolph Giuliani that they had sought to swing the 2020 outcome against Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
