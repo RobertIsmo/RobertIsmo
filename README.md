@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-There has been a lot of tension between Israel and Gaza recently. After numberous strikes by Israel, much of Gaza&#39;s neighborhoods have been destroyed. Many are having trouble understanding Israel&#39;s evacuation decrees, and it could be a life or death situation for some. They&#39;re also facing cyberattacks, partciularly in Ukraine - where people rely on phone alerts to warn them of impending Russian bombardments. Russia has suffered its own losses due to the war in Ukraine, and Finland has had to partly reopen its border with Russia as a result of migrants It&#39;s had other ripple effects in places like Harvard University, which faces criticism for antisemitism issues and consequent calls for its president to leave. College campuses have seen tension too, as well as infighting at Penn over questions of power and leadership. Regardless, consumer sentiment has improved due to lower gas prices.</p>
+There has been a lot of news recently related to the US and conflicts abroad. In the Middle East, there is a war going on between Gaza and Israel which has forced a 123-year-old Jewish nonprofit to take a neutral stance. The US is providing aid to Ukraine in the form of defense support, and American intelligence has reported that Russia has suffered heavy losses in their objective of eroding Western support for Ukraine. Closer to home, there was a ruling from the top court to allow Democrats to redraw the House map in New York. This follows with House Republicans becoming more accepting of an impeachment inquiry into President Biden after being encouraged by former President Donald Trump. In tech news, Google suffered an antitrust loss against Epic Games which could be indicative of its future legal battles. On another front, data about inflation has come in relatively steady ahead of a Fed meeting, helped along by gas prices decreasing rapidly - this in turn has led to increased optimism from consumers. Lastly, there was controversy at Harvard as billionaire investor Bill Ackman accused school President Claudine Gay of antisemitism, though she was later cleared of any &quot;research misconduct&quot; or plagiarism charges following an investigation. A Columbia University president also declined a congressional call to testify about her handling of antisemitism on campus, resulting in her losing her job as punishment.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza After Nine Weeks of War</h3>
-<sub>By Josh Holder</sub>
-<p>After Israel’s invasion and thousands of strikes, many neighborhoods lie in ruins. Videos, photos and satellite imagery show how much has been destroyed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Evacuation Decrees Leave Gazans Confused</h3>
-<sub>By Yara Bayoumy, Lauren Leatherby and Iyad Abuheweila</sub>
-<p>Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Why a 123-Year-Old Jewish Nonprofit Won’t Choose Sides in Gaza</h3>
 <sub>By Ginia Bellafante</sub>
 <p>The war has created an existential reckoning for the Workers Circle, a community organization that traces its roots to Yiddish activists in the early 1900s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 8, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Huge Cyberattack Knocks Ukraine’s Largest Mobile Operator Offline</h3>
-<sub>By Marc Santora</sub>
-<p>The interruption could pose real danger in a country where many rely on phone alerts to warn them of impending Russian bombardments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Aid to Ukraine by the Numbers</h3>
+<sub>By Michael Crowley, Eric Schmitt and Helene Cooper</sub>
+<p>Here’s a look at the assistance the United States has provided for Ukraine’s defense and the political debate about whether more should be sent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -92,10 +80,22 @@ There has been a lot of tension between Israel and Gaza recently. After numberou
 <p>The declassified intelligence assessment also found that Russia’s objective has been eroding Western support for Ukraine, the country it invaded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Partly Reopens Its Border With Russia</h3>
-<sub>By Johanna Lemola and Emma Bubola</sub>
-<p>The Nordic country, which recently joined NATO, has accused Moscow of funneling migrants to their shared land border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Top Court Clears Path for Democrats to Redraw House Map in New York</h3>
+<sub>By Nicholas Fandos</sub>
+<p>The ruling could allow Democrats to tilt anywhere from two to six G.O.P.-held seats leftward. Republicans vowed to challenge any gerrymandered map.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Urged on by Trump, House Republicans Embrace Biden Impeachment Inquiry</h3>
+<sub>By Luke Broadwater</sub>
+<p>The House vote to authorize a formal investigation reflects a political shift among Republicans and the success of a push by G.O.P. allies of former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google’s Antitrust Loss to Epic Could Preview Its Legal Fate in 2024</h3>
+<sub>By Nico Grant</sub>
+<p>A trio of antitrust cases on the docket threaten to reshape Google’s business and sap its profits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -110,6 +110,12 @@ There has been a lot of tension between Israel and Gaza recently. After numberou
 <p>Consumer sentiment has rebounded as gas prices slide. Oil prices continued to fall on Tuesday, a move that could portend an even bigger drop at the pump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bill Ackman’s Campaign Against Harvard Followed Years of Resentment</h3>
+<sub>By Maureen Farrell and Rob Copeland</sub>
+<p>The billionaire investor has mounted a high-profile battle against Harvard president Claudine Gay over antisemitism and threats to Jewish students on campus, but long-held personal grudges play a part, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard’s Board Says President Will Stay, Despite Calls for Her Ouster</h3>
 <sub>By Jeremy W. Peters, Anemona Hartocollis and Dana Goldstein</sub>
@@ -117,21 +123,15 @@ There has been a lot of tension between Israel and Gaza recently. After numberou
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Timeline of How the Israel-Hamas War Has Roiled College Campuses</h3>
-<sub>By Anna Betts</sub>
-<p>Since Oct. 7, there have been dueling protests, calls for the ouster of school leaders and threats from angry donors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Harvard Clears President of ‘Research Misconduct’ After Plagiarism Charges</h3>
+<sub>By Jennifer Schuessler and Vimal Patel</sub>
+<p>The university started an investigation after receiving accusations in October, at a time when its president, Claudine Gay, was under fire for her response to campus antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Chaotic Struggle for Power at Penn</h3>
-<sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
-<p>For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Who Would Give This Guy Millions to Build His Own Utopia?</h3>
-<sub>By Joseph Bernstein</sub>
-<p>Dryden Brown wants Praxis to be a crypto-city for tech bros and tastemakers. Just don’t ask for details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>To Testify or Not to Testify in Congress? Your Job Could Hang in the Balance.</h3>
+<sub>By Annie Karni</sub>
+<p>Columbia University’s president declined a congressional call to testify about her handling of antisemitism on campus — and dodged a firestorm that cost one of her colleagues her job.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
