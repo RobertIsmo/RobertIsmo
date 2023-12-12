@@ -60,8 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 11, Central Standard Time</p>
 <p>
-There&#39;s a lot of political unrest going on right now. In Pennsylvania, there&#39;s been a chaotic struggle for power between donors and the president and chair of the board. In Massachusetts, there&#39;s been debate about academic freedom at Harvard and whether or not their president deserved to stay in her role. Yale University is also involved after a Palestinian flag was hung on a Menorah during a protest. Donald Trump is also in the news as the Supreme Court may have to decide whether he is immune from prosecution. At the same time, issues with rent and homelessness are plaguing low-income families. Even in small towns people are taking notice of how many lights can be put on residential properties. Unfortunately, pedestrian deaths keep rising despite other wealthy countries addressing this issue better. Furthermore, Portland is working to recriminalize public drug usage while Florida&#39;s Governor DeSantis is at odds with Trump about his cowardly refusal to debate his 2020 rival Joe Biden.</p>
+There have been a lot of big stories in the news recently. In Texas, the state Supreme Court ruled against a woman who wanted a court-approved abortion after her fetus received a fatal diagnosis. Meanwhile in Ukraine, the US and Ukraine are looking for a new strategy together after a failed counteroffensive. The Special Counsel also sent a case to the Supreme Court to decide if Trump is immune from prosecution.
+
+In tech, Epic Games won an antitrust court fight against Google over their Play Store. There have also been quite a few political stories lately - Inside the Penn University, donors have waged a campaign against their president and their board chairman; and at Harvard University, there&#39;s been some controversy surrounding their president and academic freedom rights. In New Haven, Yale is condemning someone who hung a Palestinian flag on a Menorah there, while Israel has reportedly been using US-supplied white phosphorus in Lebanon in October.
+
+On top of that, Gaza is seeing an increase in infectious diseases spread due to poor sanitation and poverty while up in Yorktown Heights NY, there&#39;s been some controversy around the most lit up house on Christmas Lights Display! Finally, back in DC, Rudy Giuliani is facing millions of dollars in damages for defaming two Georgia election workers during the 2020 election.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
+<sub>By J. David Goodman</sub>
+<p>Hours before the ruling, a group representing the woman, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and Ukraine Search for a New Strategy After Failed Counteroffensive</h3>
+<sub>By Julian E. Barnes, Eric Schmitt, David E. Sanger and Thomas Gibbons-Neff</sub>
+<p>President Volodymyr Zelensky arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Special Counsel Asks Supreme Court to Decide if Trump Is Immune From Prosecution</h3>
+<sub>By Adam Liptak and Alan Feuer</sub>
+<p>The special counsel, Jack Smith, urged the justices to move with exceptional speed, and they quickly agreed to fast-track the first phase of the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Epic Games Wins in Antitrust Court Fight Over Google’s Play Store</h3>
+<sub>By Nico Grant</sub>
+<p>The ruling could reshape the rules of how other businesses can make money on the Android operating system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Inside the Chaotic Struggle for Power at Penn</h3>
 <sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
@@ -75,39 +103,27 @@ There&#39;s a lot of political unrest going on right now. In Pennsylvania, there
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard President’s Future Uncertain as Board Convenes</h3>
-<sub>By Jeremy W. Peters, Dana Goldstein and Rob Copeland</sub>
-<p>Claudine Gay, the university’s president, received support from the faculty, including a group of Black faculty members who urged Harvard’s leadership to defend her.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>What to Know About Claudine Gay, Harvard’s Embattled President</h3>
+<sub>By Sarah Mervosh</sub>
+<p>Dr. Gay is the first Black president and second woman to lead Harvard. She faces calls for her removal over her testimony on antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Yale Condemns Hanging of Palestinian Flag on Menorah During Protest</h3>
+<h3>Yale Condemns Hanging of Palestinian Flag on New Haven Menorah</h3>
 <sub>By Amelia Nierenberg</sub>
-<p>Yale University leaders, elected officials and pro-Palestinian activists said the brief action crossed a line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Yale University leaders, elected officials and pro-Palestinian activists said the brief action during a weekend protest crossed a line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Asks Supreme Court to Decide Whether Trump Is Immune From Prosecution</h3>
-<sub>By Adam Liptak and Alan Feuer</sub>
-<p>The request was unusual in two ways: Jack Smith asked the justices to rule before an appeals court acted, and he urged them to move with exceptional speed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Raises Concern Over Israel’s Possible Use of U.S.-Supplied White Phosphorus</h3>
+<sub>By Zolan Kanno-Youngs and Ephrat Livni</sub>
+<p>The Biden administration said it would be asking questions about reports of Israel illegally using white phosphorus in Lebanon in October. Israel denied the claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Woman Who Sought Court-Ordered Abortion Is Leaving Texas for Procedure</h3>
-<sub>By J. David Goodman</sub>
-<p>A group representing Kate Cox, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion rather than wait for a ruling from the Texas Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Did Army Blast Exposure Play Role in Maine Gunman’s Rampage?</h3>
-<sub>By Dave Philipps</sub>
-<p>Medical scientists and the military are looking into whether Robert Card’s psychological collapse was linked to brain damage from his role as a grenade instructor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Record Rent Burdens Batter Low-Income Life</h3>
-<sub>By Jason DeParle</sub>
-<p>More tenants than ever spend half or more of their income for shelter, leaving less for everything else, taking an emotional toll and leaving some without a place to call their own.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Are All Sick’: Infectious Diseases Spread Across Gaza</h3>
+<sub>By Hiba Yazbek, Ameera Harouda and Gaya Gupta</sub>
+<p>A lack of clean water, toilets and food have fueled a spike in illnesses, and increasingly dire conditions are making it hard for the sick to recover, health officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -116,22 +132,10 @@ There&#39;s a lot of political unrest going on right now. In Pennsylvania, there
 <p>A family in a small town in New York holds a world record for having the most lights on a residential property to the dismay of some neighbors and the delight of others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Why Are So Many American Pedestrians Dying at Night?</h3>
-<sub>By Emily Badger, Ben Blatt and Josh Katz</sub>
-<p>Nothing resembling this pattern has occurred in other comparably wealthy countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Revive Portland, Officials Seek to Recriminalize Public Drug Use</h3>
-<sub>By Mike Baker</sub>
-<p>State and local leaders are proposing to roll back part of the nation’s pioneering drug decriminalization law and step up police enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Accuses Trump of ‘Cowardice’ for Refusing to Debate Rivals</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>Gov. Ron DeSantis escalated his attacks on the former president after Mr. Trump bragged about debating Hillary Clinton in 2016.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Court With the Women He Defamed, Giuliani Faces Millions in Damages</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Two Georgia election workers are seeking as much as $43 million for false assertions from Rudolph Giuliani that they had sought to swing the 2020 outcome against Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
