@@ -58,9 +58,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 11, Central Standard Time</p>
+<p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-There is a lot going on in the US and around the world! In Texas, the Supreme Court ruled against a woman who was trying to get court-approved abortion; in Washington, DC, Ukraine&#39;s President Zelensky is pushing for an aid deal while meeting with President Biden and other lawmakers; meanwhile Special Counsel Jack Smith is asking the Supreme Court to decide if former President Trump has immunity from prosecution. In the tech world, Google lost an antitrust battle with Fortnite video game makers; at Harvard a chaotic struggle for power is underway due to allegations of antisemitism. Additionally, Yale University condemned protesters for hanging a Palestinian flag on a Menorah in New Haven; on the world stage, the US is asking questions about Israel using US-supplied white phosphorus in Lebanon in October (which they denied); and finally there is a spike in infectious diseases in Gaza due to lack of resources. On a much lighter note, there&#39;s an amazing Christmas display that breaks records in a small town of NY!</p>
+There is a lot going on in the world right now. In the US, the Texas Supreme Court ruled against a woman who sought court-approved abortion, and Ukrainian President Zelensky has arrived in Washington to seek out a new strategy after a failed counteroffensive, while Harvard&#39;s governing board nears a resolution on their President, Claudine Gay&#39;s future. Meanwhile Yale condemned the hanging of a Palestinian flag on a New Haven menorah and the special counsel has asked the Supreme Court to decide whether Trump is immune from prosecution. 
+
+In terms of technology news, Google lost an antitrust court battle with makers of Fortnite video game, and fighting continues to rage in Gaza as Israel issues warnings for another potential conflict. There has also been an increase in infectious diseases spreading across Gaza due to cold, wet weather conditions. Additionally, Houthi militia attacked a ship in the Red Sea according to the Pentagon and Africans are taking part in changing French by making jokes, rapping and writing books.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
@@ -81,27 +83,9 @@ There is a lot going on in the US and around the world! In Texas, the Supreme Co
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Asks Supreme Court to Decide if Trump Is Immune From Prosecution</h3>
-<sub>By Adam Liptak and Alan Feuer</sub>
-<p>The special counsel, Jack Smith, urged the justices to move with exceptional speed, and they quickly agreed to fast-track the first phase of the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Loses Antitrust Court Battle With Makers of Fortnite Video Game</h3>
-<sub>By Nico Grant</sub>
-<p>The case could reshape the rules of how other businesses can make money on the Android operating system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Chaotic Struggle for Power at Penn</h3>
-<sub>By Stephanie Saul, Alan Blinder, Maureen Farrell and Anemona Hartocollis</sub>
-<p>For months, donors waged a campaign against the president and the chairman of the board. After the hearings on antisemitism, a dissident group of trustees had seen enough.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Defenders of Harvard’s President Are Focused on Academic Freedom</h3>
-<sub>By Alan Blinder</sub>
-<p>The principle is highly valued by many at American universities, but critics say it is sometimes invoked to dodge repercussions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Harvard’s Governing Board Nears Resolution on President’s Future</h3>
+<sub>By Jeremy W. Peters, Dana Goldstein and Rob Copeland</sub>
+<p>An announcement was expected on Tuesday about the future of Claudine Gay, the university’s president, who some donors and alumni say should be removed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,10 +100,22 @@ There is a lot going on in the US and around the world! In Texas, the Supreme Co
 <p>Yale University leaders, elected officials and pro-Palestinian activists said the brief action during a weekend protest crossed a line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Special Counsel Asks Supreme Court to Decide if Trump Is Immune From Prosecution</h3>
+<sub>By Adam Liptak and Alan Feuer</sub>
+<p>The special counsel, Jack Smith, urged the justices to move with exceptional speed, and they quickly agreed to fast-track the first phase of the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Loses Antitrust Court Battle With Makers of Fortnite Video Game</h3>
+<sub>By Nico Grant</sub>
+<p>The case could reshape the rules of how other businesses can make money on the Android operating system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Raises Concern Over Israel’s Possible Use of U.S.-Supplied White Phosphorus</h3>
-<sub>By Zolan Kanno-Youngs and Ephrat Livni</sub>
-<p>The Biden administration said it would be asking questions about reports of Israel illegally using white phosphorus in Lebanon in October. Israel denied the claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As Fighting Rages in Gaza, Israel Issues Warnings on Another Front</h3>
+<sub>By Andrés R. Martínez, Neil MacFarquhar and Thomas Fuller</sub>
+<p>Top Israeli officials hinted at a powerful response to attacks by Hezbollah across the northern border with Lebanon, as to the south Israeli troops wage street battles against Hamas in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +124,16 @@ There is a lot going on in the US and around the world! In Texas, the Supreme Co
 <p>Cold, wet weather combined with a lack of clean water, toilets and food have fueled a spike in respiratory, stomach and other ailments, and the sick are left struggling to recover, health officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>‘Are You Going to Be the One to Get Rid of Santa?’</h3>
-<sub>By Ronda Kaysen</sub>
-<p>A family in a small town in New York holds a world record for having the most lights on a residential property to the dismay of some neighbors and the delight of others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Houthi Militia Attacks Ship Near the Red Sea, Pentagon Says</h3>
+<sub>By Yan Zhuang, Livia Albeck-Ripka and Eric Schmitt</sub>
+<p>The attack was the latest by the group on targets in the Red Sea and the broader region during more than two months of war between Israel and Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Africans Are Changing French — One Joke, Rap and Book at a Time</h3>
+<sub>By Elian Peltier</sub>
+<p>More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
