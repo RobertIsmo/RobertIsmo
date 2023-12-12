@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-Right now, lots of important things are happening all around the world. In the US, a Texas Supreme Court recently ruled against a woman who wanted an abortion. The US and Ukraine are searching for a new strategy after a failed counteroffensive. Also in the US, Harvard&#39;s governing board is nearing resolution on their president&#39;s future, while a special counsel has asked the US Supreme Court to decide if President Trump is immune from prosecution.
-
-In New York, Yale University condemned the hanging of a Palestinian flag on a New Haven menorah during a weekend protest. Meanwhile, Google lost an antitrust court battle with the makers of Fortnite over how they make money with their Android operating system. 
-
-Overseas in Gaza, Israel issued warnings on one front as their forces waged street battles against Hamas on another. A growing number of Africans are affecting French culture through jokes, rap and books, which is leading to the spread of the French language in Africa. 
-
-Finally, former President Trump&#39;s lawyer Rudy Giuliani especially in hot water right now as he is facing millions in damages after falsely claiming that two Georgia election workers had tried to swing the 2020 election outcome against him.</p>
+It&#39;s been quite an eventful few months! In the United States, President Volodymyr Zelensky from Ukraine has been in Washington, DC working on getting aid passed in Congress and meeting with President Biden. There were also talks of the future of Harvard&#39;s first Black president Claudine Gay, who some donors and alumni want removed. Meanwhile, in Gaza, a destructive nine weeks of war have left the area in ruins. Over in China, Xi Jinping has been courting Vietnam in hopes of assuring it won&#39;t side with the U.S. against Beijing. And finally, if you&#39;re looking for some delicious new dishes to try this year, there are 23 of the best American dishes of 2023 being scouted around the country right now!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
-<sub>By J. David Goodman</sub>
-<p>Hours before the ruling, a group representing the woman, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and Ukraine Search for a New Strategy After Failed Counteroffensive</h3>
 <sub>By Julian E. Barnes, Eric Schmitt, David E. Sanger and Thomas Gibbons-Neff</sub>
@@ -84,6 +72,30 @@ Finally, former President Trump&#39;s lawyer Rudy Giuliani especially in hot wat
 <h3>Zelensky Begins Aid Push in Washington, Casting Inaction as Win for Putin</h3>
 <sub>By Zolan Kanno-Youngs</sub>
 <p>The Ukrainian president plans to meet with President Biden and lawmakers on Tuesday as chances of an aid deal in Congress have become increasingly bleak.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Ukraine’s Counteroffensive Fizzled. U.S. Funding May Be Next.</h3>
+<sub>By Sabrina Tavernise, Luke Vander Ploeg, Shannon Lin, Lexie Diao, Michael Benoist, Marion Lozano, Dan Powell and Chris Wood</sub>
+<p>President Volodymyr Zelensky has arrived in Washington at a critical moment, both on the battlefield and on Capitol Hill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Zelensky in Washington, and a Texas Abortion Case Ruling</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza After Nine Weeks of War</h3>
+<sub>By Josh Holder</sub>
+<p>After Israel’s invasion and thousands of strikes, many neighborhoods lie in ruins. Videos, photos and satellite imagery show how much has been destroyed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Evacuation Decrees Leave Gazans Confused</h3>
+<sub>By Yara Bayoumy, Lauren Leatherby and Iyad Abuheweila</sub>
+<p>Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,46 +110,28 @@ Finally, former President Trump&#39;s lawyer Rudy Giuliani especially in hot wat
 <p>Dr. Gay is the first Black president and second woman to lead Harvard. She faces calls for her removal over her testimony on antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Yale Condemns Hanging of Palestinian Flag on New Haven Menorah</h3>
-<sub>By Amelia Nierenberg</sub>
-<p>Yale University leaders, elected officials and pro-Palestinian activists said the brief action during a weekend protest crossed a line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Why Campus Speech Is Vexing</h3>
+<sub>By David Leonhardt</sub>
+<p>The Israel-Hamas war has highlighted a tension that university administrators haven’t fully acknowledged.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Special Counsel Asks Supreme Court to Decide if Trump Is Immune From Prosecution</h3>
-<sub>By Adam Liptak and Alan Feuer</sub>
-<p>The special counsel, Jack Smith, urged the justices to move with exceptional speed, and they quickly agreed to fast-track the first phase of the case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Texas Supreme Court Rules Against Woman Who Sought Court-Approved Abortion</h3>
+<sub>By J. David Goodman</sub>
+<p>Hours before the ruling, a group representing the woman, whose fetus received a fatal diagnosis, said she was leaving Texas for an abortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Loses Antitrust Court Battle With Makers of Fortnite Video Game</h3>
-<sub>By Nico Grant</sub>
-<p>The case could reshape the rules of how other businesses can make money on the Android operating system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Evacuation Decrees Leave Gazans Confused</h3>
-<sub>By Yara Bayoumy, Lauren Leatherby and Iyad Abuheweila</sub>
-<p>Even Gazans who can get access to Israeli directions online say they sometimes make no sense, which could be a matter of life or death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>23 of the Best American Dishes of 2023</h3>
+<sub>By The New York Times</sub>
+<p>As we scouted restaurants around the country, these were some of our favorites this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Fighting Rages in Gaza, Israel Issues Warnings on Another Front</h3>
-<sub>By Andrés R. Martínez, Neil MacFarquhar and Thomas Fuller</sub>
-<p>Top Israeli officials hinted at a powerful response to attacks by Hezbollah across the northern border with Lebanon, as to the south Israeli troops wage street battles against Hamas in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Africans Are Changing French — One Joke, Rap and Book at a Time</h3>
-<sub>By Elian Peltier</sub>
-<p>More than 60 percent of French speakers now live in Africa. Despite growing resentment at France, Africans are contributing to the evolution and spread of the French language.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Court With the Women He Defamed, Giuliani Faces Millions in Damages</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Two Georgia election workers are seeking as much as $43 million for false assertions from Rudolph Giuliani that they had sought to swing the 2020 outcome against Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Three Months After Biden, It’s Xi’s Turn to Court Vietnam</h3>
+<sub>By Damien Cave</sub>
+<p>The Chinese leader wants assurances that the strategically important country isn’t taking Washington’s side against Beijing, analysts say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
 <hr/>
 </ol>
