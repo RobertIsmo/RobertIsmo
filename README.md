@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-The world is in a state of flux right now. There are climate talks happening at the United Nations to move away from fossil fuels, and countries in Europe are facing conflict between Russia and Ukraine. Further, there&#39;s a new Impeachment Inquiry being launched against President Biden in the United States, while Harvard University&#39;s president is facing resistance from members of the campus community. On the more positive side, experts are saying Christmas tree farms may help wildlife!</p>
+A lot is happening around the world related to climate change. Recently, countries from all over the world agreed to move away from fossil fuels and transition to renewable energy sources. There are also changes in how electricity is produced in different areas as well. A new agreement was made at a climate summit calling for the phasing out of fossil fuels, but with few specifics on how to fund a shift to green energy. On another note, the Supreme Court will be hearing a challenge to abortion pill access and there is rising urgency around the Ukraine-Russia conflict. To top it off, Tesla has recalled two million vehicles due to software issues and Christmas tree farms are actually benefiting wildlife!</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>In a First, Nations at Climate Summit Agree to Move Away From Fossil Fuels</h3>
@@ -69,15 +69,27 @@ The world is in a state of flux right now. There are climate talks happening at 
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Climate Summit Scene: 70,000 People and a Nightly Light Show</h3>
-<sub>By Somini Sengupta</sub>
-<p>Outside the negotiating rooms, COP28 is part trade fair, part lobbyist jamboree and part debate tournament.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<h3>How Electricity Is Changing, Country by Country</h3>
+<sub>By Nadja Popovich</sub>
+<p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What’s Missing From the COP28 Climate Deal</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>The agreement calls for phasing out fossil fuels. But it also lets oil producers keep drilling and gives few specifics on how to fund a shift to greener energy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>A Sweeping Climate Deal, and a U.N. Gaza Cease-Fire Vote</h3>
 <sub>By New York Times Audio</sub>
 <p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Will Hear Challenge to Abortion Pill Access</h3>
+<sub>By Abbie VanSickle</sub>
+<p>The justices announced that they would hear a case challenging a federal agency’s approval of the commonly used pill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -87,7 +99,7 @@ The world is in a state of flux right now. There are climate talks happening at 
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Attack on Kyiv Injures Dozens</h3>
+<h3>Russian Missile Attack on Kyiv Injures Dozens</h3>
 <sub>By Constant Méheut and John Yoon</sub>
 <p>Ukraine’s military said that it had shot down all the ballistic missiles targeting the capital, but that falling debris caused significant damage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
@@ -110,29 +122,17 @@ The world is in a state of flux right now. There are climate talks happening at 
 <p>A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Top Court Clears Path for Democrats to Redraw House Map in New York</h3>
-<sub>By Nicholas Fandos</sub>
-<p>The ruling could allow Democrats to tilt anywhere from two to six G.O.P.-held seats leftward. Republicans vowed to challenge any gerrymandered map.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tesla Recalls 2 Million Vehicles Over Autopilot Software Issue</h3>
+<sub>By Derrick Bryson Taylor</sub>
+<p>The automaker began issuing software updates on Tuesday following a lengthy investigation by National Highway Traffic Safety Administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How Christmas Tree Farms Can Help Wildlife</h3>
 <sub>By Cara Buckley</sub>
 <p>It may seem counterintuitive to support the annual culling of trees, but environmentalists say Christmas tree farms have ecological benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Set to Approve Biden Impeachment Inquiry as It Hunts for an Offense</h3>
-<sub>By Luke Broadwater</sub>
-<p>Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no proof of high crimes or misdemeanors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard’s Board Unites Behind Its President, but Its Campus Remains Splintered</h3>
-<sub>By Jeremy W. Peters, Dana Goldstein and Anemona Hartocollis</sub>
-<p>Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
