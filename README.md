@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-A lot is happening around the world related to climate change. Recently, countries from all over the world agreed to move away from fossil fuels and transition to renewable energy sources. There are also changes in how electricity is produced in different areas as well. A new agreement was made at a climate summit calling for the phasing out of fossil fuels, but with few specifics on how to fund a shift to green energy. On another note, the Supreme Court will be hearing a challenge to abortion pill access and there is rising urgency around the Ukraine-Russia conflict. To top it off, Tesla has recalled two million vehicles due to software issues and Christmas tree farms are actually benefiting wildlife!</p>
+There are a lot of events taking place around the world right now. Many nations are coming together to reach a milestone agreement on transitioning away from fossil fuels and embracing renewable energy sources. In the US, there is an ongoing debate about climate issues among Republican presidential candidates. The Supreme Court is taking up two cases - one is about abortion pill access and the other relates to an obstruction charge connected to the Capitol attack. Internationally, war-time rules about &quot;proportionality&quot; in Gaza are being considered and Russia is becoming more influential with waning Western support for Ukraine. On the business side, Tesla is recalling autopilot software on 2 million vehicles, and Christmas tree farms are being seen by environmentalists as having ecological benefits.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>In a First, Nations at Climate Summit Agree to Move Away From Fossil Fuels</h3>
@@ -69,22 +69,22 @@ A lot is happening around the world related to climate change. Recently, countri
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Electricity Is Changing, Country by Country</h3>
-<sub>By Nadja Popovich</sub>
-<p>Renewable electricity is rising quickly, but the world’s power mix remains fossil fuel-heavy — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, November 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What’s Missing From the COP28 Climate Deal</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The agreement calls for phasing out fossil fuels. But it also lets oil producers keep drilling and gives few specifics on how to fund a shift to greener energy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In the End, an Oil Man Won a Climate Summit Deal on Moving Away From Oil</h3>
+<sub>By Max Bearak and Brad Plumer</sub>
+<p>Sultan Al Jaber, the energy executive in charge of U.N. climate talks, led delegates to a result that had eluded 27 earlier global warming meetings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>A Sweeping Climate Deal, and a U.N. Gaza Cease-Fire Vote</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Two Words That Could Change the World</h3>
+<sub>By David Gelles</sub>
+<p>An unlikely breakthrough on fossil fuels at COP28  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republican Presidential Candidates on Climate</h3>
+<sub>By Maggie Astor</sub>
+<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on more than a dozen key issues.  <a href="https://nyti.ms/45eX5Jk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Will Hear Challenge to Abortion Pill Access</h3>
@@ -92,22 +92,10 @@ A lot is happening around the world related to climate change. Recently, countri
 <p>The justices announced that they would hear a case challenging a federal agency’s approval of the commonly used pill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Gains Confidence, a New Urgency Grips Ukraine</h3>
-<sub>By Paul Sonne and Andrew E. Kramer</sub>
-<p>With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russian Missile Attack on Kyiv Injures Dozens</h3>
-<sub>By Constant Méheut and John Yoon</sub>
-<p>Ukraine’s military said that it had shot down all the ballistic missiles targeting the capital, but that falling debris caused significant damage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Next Stage in Ukraine</h3>
-<sub>By David Leonhardt</sub>
-<p>The second half of 2023 was disappointing for the war effort. What happens next?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justices to Decide Scope of Obstruction Charge Central to Trump’s Jan. 6 Case</h3>
+<sub>By Alan Feuer and Adam Liptak</sub>
+<p>A ruling by the Supreme Court could affect the cases of hundreds of people charged in connection with the Capitol attack — and potentially the prosecution of Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,16 +104,28 @@ A lot is happening around the world related to climate change. Recently, countri
 <p>The concept, important for determining the legality of an act of war, is about weighing civilian harm against military objectives, not about achieving a balanced number of casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Held Hostage in Gaza, a Thai Worker’s Prayers for Freedom Come True</h3>
-<sub>By Hannah Beech, Muktita Suhartono and Lauren DeCicca</sub>
-<p>A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hunter Biden, Defying Deposition Subpoena, Again Offers Public Testimony</h3>
+<sub>By Luke Broadwater</sub>
+<p>The president’s son appeared at a news conference at the Capitol as House investigators awaited him at a private session he declined to attend. Republicans threatened him with contempt.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Set to Approve Biden Impeachment Inquiry as It Hunts for an Offense</h3>
+<sub>By Luke Broadwater</sub>
+<p>Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no proof of high crimes or misdemeanors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tesla Recalls 2 Million Vehicles Over Autopilot Software Issue</h3>
-<sub>By Derrick Bryson Taylor</sub>
-<p>The automaker began issuing software updates on Tuesday following a lengthy investigation by National Highway Traffic Safety Administration.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tesla Recalls Autopilot Software in 2 Million Vehicles</h3>
+<sub>By Cade Metz, Derrick Bryson Taylor and Jack Ewing</sub>
+<p>Federal regulators pressed the automaker to make updates to ensure drivers are paying attention to the road while using Autopilot, a system that can steer, accelerate and brake on its own.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Gains Confidence, a New Urgency Grips Ukraine</h3>
+<sub>By Paul Sonne and Andrew E. Kramer</sub>
+<p>With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
