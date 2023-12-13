@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In terms of climate change, countries around the world have recently agreed to work together and move away from using fossil fuels, while the UN Climate Summit also held a nightly light show. In terms of international conflicts, the Israeli-Palestinian conflict has been in the spotlight with the UN passing a resolution to push for ceasefire while Hamas is still holding hostages including many Thai migrant workers. On a national level in the US, Harvard&#39;s President Claudine Gay is being called into question by the billionaire investor Bill Ackman while House Republicans are pushing for an investigation into Joe Biden. And finally, in Ukraine, there have been multiple airstrikes that have injured 53 people. It&#39;s a lot so please stay safe and stay informed!</p>
+The world is in a state of flux right now. There are climate talks happening at the United Nations to move away from fossil fuels, and countries in Europe are facing conflict between Russia and Ukraine. Further, there&#39;s a new Impeachment Inquiry being launched against President Biden in the United States, while Harvard University&#39;s president is facing resistance from members of the campus community. On the more positive side, experts are saying Christmas tree farms may help wildlife!</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>In a First, Nations at Climate Summit Agree to Move Away From Fossil Fuels</h3>
-<sub>By Brad Plumer</sub>
-<p>Nearly 200 countries convened by the United Nations approved a plan to ramp up renewable energy and transition away from coal, oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Brad Plumer and Max Bearak</sub>
+<p>Nearly 200 countries convened by the United Nations approved a milestone plan to ramp up renewable energy and transition away from coal, oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -73,6 +73,30 @@ There is a lot going on in the world right now! In terms of climate change, coun
 <sub>By Somini Sengupta</sub>
 <p>Outside the negotiating rooms, COP28 is part trade fair, part lobbyist jamboree and part debate tournament.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>A Sweeping Climate Deal, and a U.N. Gaza Cease-Fire Vote</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Russia Gains Confidence, a New Urgency Grips Ukraine</h3>
+<sub>By Paul Sonne and Andrew E. Kramer</sub>
+<p>With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russian Attack on Kyiv Injures Dozens</h3>
+<sub>By Constant Méheut and John Yoon</sub>
+<p>Ukraine’s military said that it had shot down all the ballistic missiles targeting the capital, but that falling debris caused significant damage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Next Stage in Ukraine</h3>
+<sub>By David Leonhardt</sub>
+<p>The second half of 2023 was disappointing for the war effort. What happens next?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Under Rules of War, ‘Proportionality’ in Gaza Is Not About Evening the Score</h3>
@@ -86,52 +110,28 @@ There is a lot going on in the world right now! In terms of climate change, coun
 <p>A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. General Assembly Votes for Israel-Hamas Cease-Fire, Countering U.S. Veto</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>About three-quarters of the body’s members voted in favor of the nonbinding resolution. The result underscored the isolation of Israel and the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Top Court Clears Path for Democrats to Redraw House Map in New York</h3>
 <sub>By Nicholas Fandos</sub>
 <p>The ruling could allow Democrats to tilt anywhere from two to six G.O.P.-held seats leftward. Republicans vowed to challenge any gerrymandered map.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How Christmas Tree Farms Can Help Wildlife</h3>
+<sub>By Cara Buckley</sub>
+<p>It may seem counterintuitive to support the annual culling of trees, but environmentalists say Christmas tree farms have ecological benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Urged on by Trump, House Republicans Embrace Biden Impeachment Inquiry</h3>
+<h3>House Set to Approve Biden Impeachment Inquiry as It Hunts for an Offense</h3>
 <sub>By Luke Broadwater</sub>
-<p>The House vote to authorize a formal investigation reflects a political shift among Republicans and the success of a push by G.O.P. allies of former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<p>Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no proof of high crimes or misdemeanors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard’s Board Unites Behind Its President, but Its Campus Remains Splintered</h3>
 <sub>By Jeremy W. Peters, Dana Goldstein and Anemona Hartocollis</sub>
 <p>Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bill Ackman’s Campaign Against Harvard Followed Years of Resentment</h3>
-<sub>By Maureen Farrell and Rob Copeland</sub>
-<p>The billionaire investor has mounted a high-profile battle against Harvard president Claudine Gay over antisemitism and threats to Jewish students on campus, but long-held personal grudges play a part, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says Russia Is Celebrating U.S. Divisions Over Providing Aid to Ukraine</h3>
-<sub>By Zolan Kanno-Youngs, Catie Edmondson, Karoun Demirjian and Michael D. Shear</sub>
-<p>President Volodymyr Zelensky of Ukraine traveled to Washington to make a last-ditch appeal for more help to fight Russia. But Republicans said they wouldn’t act without a border deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Sideline Zelensky With Border Demands, Imperiling Aid Package</h3>
-<sub>By Catie Edmondson</sub>
-<p>The Ukrainian president delivered an urgent plea for more help for his country in its fight against Russia, only to be told by Republicans that his challenges were not their focus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Strikes Kyiv, Injuring 53 People</h3>
-<sub>By John Yoon</sub>
-<p>The bombardment, which the mayor said damaged an apartment building and a hospital, was at least the third significant strike on Ukraine’s capital in a week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
