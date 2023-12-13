@@ -60,36 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-There are a lot of events taking place around the world right now. Many nations are coming together to reach a milestone agreement on transitioning away from fossil fuels and embracing renewable energy sources. In the US, there is an ongoing debate about climate issues among Republican presidential candidates. The Supreme Court is taking up two cases - one is about abortion pill access and the other relates to an obstruction charge connected to the Capitol attack. Internationally, war-time rules about &quot;proportionality&quot; in Gaza are being considered and Russia is becoming more influential with waning Western support for Ukraine. On the business side, Tesla is recalling autopilot software on 2 million vehicles, and Christmas tree farms are being seen by environmentalists as having ecological benefits.</p>
+Currently, the economy is in flux as the Federal Reserve signals possible rate cuts. This could affect everything from mortgages to government debt and have an effect on the stock market. The Supreme Court will decide an important case concerning abortion pill access and this could open the discussion of abortion laws around the country. In Texas, a recent ruling made it unclear which cases pass legal muster concerning abortion. Democrats are using this case to push for their agenda on abortion rights. 
+Now, the Supreme Court will decide on obstructions charges in relation to Donald Trump following the January 6th attack on the Capitol. Israel&#39;s prime minister has also recently been in conflict with President Biden regarding war in Gaza, which could have implications domestically for him. 
+At the United Nations climate conference, many nations agreed to transition away from fossil fuels and invest in renewable energy sources. Oil companies showed support for this agreement as well. Lastly, a new study may be able to help treat severe morning sickness during pregnancy.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In a First, Nations at Climate Summit Agree to Move Away From Fossil Fuels</h3>
-<sub>By Brad Plumer and Max Bearak</sub>
-<p>Nearly 200 countries convened by the United Nations approved a milestone plan to ramp up renewable energy and transition away from coal, oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Stocks Rally and Bond Yields Slide as Fed Signals Rate Cuts in 2024</h3>
+<sub>By Joe Rennison</sub>
+<p>The Fed’s rate increases since March 2022 have sent shock waves through financial markets, raising borrowing costs on everything from mortgages to government debt and weighing on the stock market.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>In the End, an Oil Man Won a Climate Summit Deal on Moving Away From Oil</h3>
-<sub>By Max Bearak and Brad Plumer</sub>
-<p>Sultan Al Jaber, the energy executive in charge of U.N. climate talks, led delegates to a result that had eluded 27 earlier global warming meetings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Two Words That Could Change the World</h3>
-<sub>By David Gelles</sub>
-<p>An unlikely breakthrough on fossil fuels at COP28  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republican Presidential Candidates on Climate</h3>
-<sub>By Maggie Astor</sub>
-<p>As the Republican presidential candidates campaign under the shadow of a front-runner facing dozens of felony charges, The New York Times examined their stances on more than a dozen key issues.  <a href="https://nyti.ms/45eX5Jk"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, August 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Will Hear Challenge to Abortion Pill Access</h3>
 <sub>By Abbie VanSickle</sub>
 <p>The justices announced that they would hear a case challenging a federal agency’s approval of the commonly used pill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Abortion Ruling Keeps Texas Doctors Afraid of Prosecution</h3>
+<sub>By J. David Goodman</sub>
+<p>In ruling that a pregnant woman did not qualify for a medical exception to abortion bans, the Texas Supreme Court left doctors without clear guidance on which cases might pass legal muster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Seize on Texas Case in Push for Abortion Rights</h3>
+<sub>By Lisa Lerer</sub>
+<p>Democratic candidates jumped on the story of a woman who left Texas for an abortion as a cautionary tale for voters, and Republicans were largely silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,10 +95,28 @@ There are a lot of events taking place around the world right now. Many nations 
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under Rules of War, ‘Proportionality’ in Gaza Is Not About Evening the Score</h3>
-<sub>By Steven Erlanger</sub>
-<p>The concept, important for determining the legality of an act of war, is about weighing civilian harm against military objectives, not about achieving a balanced number of casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<h3>For Netanyahu, Gaza Dispute With Biden Offers Risk and Reward</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israel’s prime minister said he disagreed with President Biden about what should happen in Gaza after the war, and analysts say he might try to use the rift to shore up domestic support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In a First, Nations at Climate Summit Agree to Move Away From Fossil Fuels</h3>
+<sub>By Brad Plumer and Max Bearak</sub>
+<p>Nearly 200 countries convened by the United Nations approved a milestone plan to ramp up renewable energy and transition away from coal, oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Four Takeaways From the COP28 Climate Summit</h3>
+<sub>By Somini Sengupta</sub>
+<p>Here’s why the meeting was important, and what to watch for going forward.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Oil Companies Are Fine With Call to Move Away From Fossil Fuels</h3>
+<sub>By Stanley Reed</sub>
+<p>At the United Nations climate conference, the final statement included elements that pleased oil and gas producers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden, Defying Deposition Subpoena, Again Offers Public Testimony</h3>
@@ -116,22 +130,10 @@ There are a lot of events taking place around the world right now. Many nations 
 <p>Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no proof of high crimes or misdemeanors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tesla Recalls Autopilot Software in 2 Million Vehicles</h3>
-<sub>By Cade Metz, Derrick Bryson Taylor and Jack Ewing</sub>
-<p>Federal regulators pressed the automaker to make updates to ensure drivers are paying attention to the road while using Autopilot, a system that can steer, accelerate and brake on its own.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Russia Gains Confidence, a New Urgency Grips Ukraine</h3>
-<sub>By Paul Sonne and Andrew E. Kramer</sub>
-<p>With Western support for Kyiv softening and Congress holding up urgently needed aid, Vladimir Putin’s bet on outlasting Ukraine and its allies is looking stronger.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How Christmas Tree Farms Can Help Wildlife</h3>
-<sub>By Cara Buckley</sub>
-<p>It may seem counterintuitive to support the annual culling of trees, but environmentalists say Christmas tree farms have ecological benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Scientists Pinpoint Cause of Severe Morning Sickness</h3>
+<sub>By Azeen Ghorayshi</sub>
+<p>The discovery could lead to better treatments for severe nausea and vomiting during pregnancy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
