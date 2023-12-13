@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, December 12, Central Standard Time</p>
+<p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-There is ongoing tension between the US, Israel, and Ukraine. President Biden has been warning Israel that it is &#39;losing support&#39; over their war in Gaza, and the US vetoed a UN resolution for a ceasefire in the conflict. In the US, the Supreme Court has cleared a path for Democrats to redistrict American House seats in their favor and Republicans have begun an impeachment inquiry against Biden. Russia has also been brought into the fold, with Biden claiming that they are celebrating American divisions over providing aid to Ukraine. To complicate matters further, Republicans are now sidelining Ukrainian president Volodymyr Zelensky by demanding border security in order to pass an economic aid package. On a lighter note, actor Andre Braugher recently passed away at 61 and received recognition for his role on Brooklyn Nine-Nine during his lifetime.</p>
+There is a lot happening around the world right now. In Israel, President Biden is warning that Israel is losing support over its current war in Gaza, and a vote at the U.N. General Assembly is calling for a cease-fire to counter the U.S.&#39;s veto of it. In New York, the Supreme Court has cleared the way for Democrats to redraw House maps and shift some GOP-held seats leftward. Meanwhile here in the U.S., House Republicans are embracing an impeachment inquiry against Biden backed by Trump&#39;s allies, and Zelensky of Ukraine has traveled here to plead for more help to fight Russia but was sidetracked by Republican demands. There have also been strikes on Kyiv injuring 45 people, Google faces potential consequences from 3 antitrust cases in 2024, and in London there is an effort to repopulate offices despite pandemic concerns. Lastly, special counsel Jack Smith is taking Trump&#39;s immunity claim straight to the Supreme Court.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Warns Israel It Is ‘Losing Support’ Over War</h3>
@@ -87,6 +87,18 @@ There is ongoing tension between the US, Israel, and Ukraine. President Biden ha
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard’s Board Unites Behind Its President, but Its Campus Remains Splintered</h3>
+<sub>By Jeremy W. Peters, Dana Goldstein and Anemona Hartocollis</sub>
+<p>Harvard’s governing body said it stood firmly behind Claudine Gay as the university’s president, a stance both praised and condemned by students, faculty and alumni.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Bill Ackman’s Campaign Against Harvard Followed Years of Resentment</h3>
+<sub>By Maureen Farrell and Rob Copeland</sub>
+<p>The billionaire investor has mounted a high-profile battle against Harvard president Claudine Gay over antisemitism and threats to Jewish students on campus, but long-held personal grudges play a part, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Says Russia Is Celebrating U.S. Divisions Over Providing Aid to Ukraine</h3>
 <sub>By Zolan Kanno-Youngs, Catie Edmondson, Karoun Demirjian and Michael D. Shear</sub>
 <p>President Volodymyr Zelensky of Ukraine traveled to Washington to make a last-ditch appeal for more help to fight Russia. But Republicans said they wouldn’t act without a border deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -98,16 +110,22 @@ There is ongoing tension between the US, Israel, and Ukraine. President Biden ha
 <p>The Ukrainian president delivered an urgent plea for more help for his country in its fight against Russia, only to be told by Republicans that his challenges were not their focus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Strikes Kyiv, Injuring 45 People</h3>
+<sub>By John Yoon</sub>
+<p>The bombardment, which the mayor said damaged an apartment building and a hospital, was at least the third significant strike on Ukraine’s capital in a week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Google’s Antitrust Loss to Epic Could Preview Its Legal Fate in 2024</h3>
 <sub>By Nico Grant</sub>
 <p>A trio of antitrust cases on the docket threaten to reshape Google’s business and sap its profits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Who Would Give This Guy Millions to Build His Own Utopia?</h3>
-<sub>By Joseph Bernstein</sub>
-<p>Dryden Brown wants Praxis to be a crypto-city for tech bros and tastemakers. Just don’t ask for details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Central London, a Big Bet on a Return to the Office</h3>
+<sub>By Eshe Nelson</sub>
+<p>The City of London, Britain’s historic financial district, is transforming its skyline with “best in class” office towers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,24 +133,6 @@ There is ongoing tension between the US, Israel, and Ukraine. President Biden ha
 <sub>By Alan Feuer</sub>
 <p>The special counsel has substantive and procedural reasons for wanting a quick ruling on whether Donald Trump can be prosecuted for his actions as president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>At Trump’s Fraud Trial, a Courtroom Artist With a Different View</h3>
-<sub>By Zachary Small</sub>
-<p>As an art project, Isabelle Brourman joined the courtroom sketch artists at the Johnny Depp-Amber Heard trial and now the trial of the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Andre Braugher, Actor on ‘Brooklyn Nine-Nine’ and ‘Homicide,’ Dies at 61</h3>
-<sub>By Mike Ives</sub>
-<p>Mr. Braugher starred on “Brooklyn Nine-Nine,” “Homicide: Life on the Street” and other shows and films. He died on Monday after a brief illness, his publicist said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Andre Braugher, the Undercover Comedian of ‘Brooklyn Nine-Nine’</h3>
-<sub>By Stephen Rodrick</sub>
-<p>After roles ranging from Henry V to ‘Homicide’ detective, America’s most unlikely funny man has his biggest hit.  <a href="https://nyti.ms/1x6Aad2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
