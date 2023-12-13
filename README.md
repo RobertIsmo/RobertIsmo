@@ -60,13 +60,31 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In Israel, President Biden is warning that Israel is losing support over its current war in Gaza, and a vote at the U.N. General Assembly is calling for a cease-fire to counter the U.S.&#39;s veto of it. In New York, the Supreme Court has cleared the way for Democrats to redraw House maps and shift some GOP-held seats leftward. Meanwhile here in the U.S., House Republicans are embracing an impeachment inquiry against Biden backed by Trump&#39;s allies, and Zelensky of Ukraine has traveled here to plead for more help to fight Russia but was sidetracked by Republican demands. There have also been strikes on Kyiv injuring 45 people, Google faces potential consequences from 3 antitrust cases in 2024, and in London there is an effort to repopulate offices despite pandemic concerns. Lastly, special counsel Jack Smith is taking Trump&#39;s immunity claim straight to the Supreme Court.</p>
+There is a lot going on in the world right now! In terms of climate change, countries around the world have recently agreed to work together and move away from using fossil fuels, while the UN Climate Summit also held a nightly light show. In terms of international conflicts, the Israeli-Palestinian conflict has been in the spotlight with the UN passing a resolution to push for ceasefire while Hamas is still holding hostages including many Thai migrant workers. On a national level in the US, Harvard&#39;s President Claudine Gay is being called into question by the billionaire investor Bill Ackman while House Republicans are pushing for an investigation into Joe Biden. And finally, in Ukraine, there have been multiple airstrikes that have injured 53 people. It&#39;s a lot so please stay safe and stay informed!</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>In a First, Nations at Climate Summit Agree to Move Away From Fossil Fuels</h3>
+<sub>By Brad Plumer</sub>
+<p>Nearly 200 countries convened by the United Nations approved a plan to ramp up renewable energy and transition away from coal, oil and gas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Climate Summit Scene: 70,000 People and a Nightly Light Show</h3>
+<sub>By Somini Sengupta</sub>
+<p>Outside the negotiating rooms, COP28 is part trade fair, part lobbyist jamboree and part debate tournament.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 11, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Biden Warns Israel It Is ‘Losing Support’ Over War</h3>
-<sub>By Michael D. Shear</sub>
-<p>The president’s words exposed a widening rift between his administration and that of Prime Minister Benjamin Netanyahu as casualties rise in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Under Rules of War, ‘Proportionality’ in Gaza Is Not About Evening the Score</h3>
+<sub>By Steven Erlanger</sub>
+<p>The concept, important for determining the legality of an act of war, is about weighing civilian harm against military objectives, not about achieving a balanced number of casualties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Held Hostage in Gaza, a Thai Worker’s Prayers for Freedom Come True</h3>
+<sub>By Hannah Beech, Muktita Suhartono and Lauren DeCicca</sub>
+<p>A Thai farmworker clung to hope during her nearly 50 days of captivity in Gaza by befriending a young Israeli girl and dreaming of reuniting with her boyfriend, who had also been abducted.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.N. General Assembly Votes for Israel-Hamas Cease-Fire, Countering U.S. Veto</h3>
@@ -111,27 +129,9 @@ There is a lot happening around the world right now. In Israel, President Biden 
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Strikes Kyiv, Injuring 45 People</h3>
+<h3>Russia Strikes Kyiv, Injuring 53 People</h3>
 <sub>By John Yoon</sub>
 <p>The bombardment, which the mayor said damaged an apartment building and a hospital, was at least the third significant strike on Ukraine’s capital in a week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google’s Antitrust Loss to Epic Could Preview Its Legal Fate in 2024</h3>
-<sub>By Nico Grant</sub>
-<p>A trio of antitrust cases on the docket threaten to reshape Google’s business and sap its profits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Central London, a Big Bet on a Return to the Office</h3>
-<sub>By Eshe Nelson</sub>
-<p>The City of London, Britain’s historic financial district, is transforming its skyline with “best in class” office towers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Why Jack Smith Is Taking Trump’s Immunity Claim Straight to the Supreme Court</h3>
-<sub>By Alan Feuer</sub>
-<p>The special counsel has substantive and procedural reasons for wanting a quick ruling on whether Donald Trump can be prosecuted for his actions as president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
