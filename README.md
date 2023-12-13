@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now! In terms of international relations, tensions between Israel and Palestine are escalating in the Gaza Strip, and a vote in the U.N. General Assembly is trying to broker a cease-fire despite opposition from the United States. Over in Russia, casualties are rising in their conflict with Ukraine, and the U.S. is sending aid to support them. Here at home, Republicans are sidestepping Ukrainian President Zelensky&#39;s plea for help and President Biden is warning Israel about their support waning as the conflict escalates. On top of all this, House Republicans are now launching an impeachment inquiry into Biden and a court ruling is paving the way for Democrats to redraw their electoral map. Closer to home, tech giant Google is facing three antitrust cases with potential to reshape their business model and Uncle Sam&#39;s pocketbook, while some rich techbro is trying to build his own utopia with millions of dollars. And finally, the Climate Summit started cracking down on food emissions to better feed the world on our ever-warming planet. Phew!</p>
+There is ongoing tension between the US, Israel, and Ukraine. President Biden has been warning Israel that it is &#39;losing support&#39; over their war in Gaza, and the US vetoed a UN resolution for a ceasefire in the conflict. In the US, the Supreme Court has cleared a path for Democrats to redistrict American House seats in their favor and Republicans have begun an impeachment inquiry against Biden. Russia has also been brought into the fold, with Biden claiming that they are celebrating American divisions over providing aid to Ukraine. To complicate matters further, Republicans are now sidelining Ukrainian president Volodymyr Zelensky by demanding border security in order to pass an economic aid package. On a lighter note, actor Andre Braugher recently passed away at 61 and received recognition for his role on Brooklyn Nine-Nine during his lifetime.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Biden Warns Israel It Is ‘Losing Support’ Over War</h3>
@@ -74,24 +74,6 @@ There&#39;s a lot happening in the world right now! In terms of international re
 <p>About three-quarters of the body’s members voted in favor of the nonbinding resolution. The result underscored the isolation of Israel and the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Sideline Zelensky With Border Demands, Imperiling Aid Package</h3>
-<sub>By Catie Edmondson</sub>
-<p>The Ukrainian president delivered an urgent plea for more help for his country in its fight against Russia, only to be told by Republicans that his challenges were not their focus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Aid to Ukraine by the Numbers</h3>
-<sub>By Michael Crowley, Eric Schmitt and Helene Cooper</sub>
-<p>Here’s a look at the assistance the United States has provided for Ukraine’s defense and the political debate about whether more should be sent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Russia Has Suffered Staggeringly High Losses, U.S. Report Says</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The declassified intelligence assessment also found that Russia’s objective has been eroding Western support for Ukraine, the country it invaded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Top Court Clears Path for Democrats to Redraw House Map in New York</h3>
 <sub>By Nicholas Fandos</sub>
@@ -102,6 +84,18 @@ There&#39;s a lot happening in the world right now! In terms of international re
 <h3>Urged on by Trump, House Republicans Embrace Biden Impeachment Inquiry</h3>
 <sub>By Luke Broadwater</sub>
 <p>The House vote to authorize a formal investigation reflects a political shift among Republicans and the success of a push by G.O.P. allies of former President Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says Russia Is Celebrating U.S. Divisions Over Providing Aid to Ukraine</h3>
+<sub>By Zolan Kanno-Youngs, Catie Edmondson, Karoun Demirjian and Michael D. Shear</sub>
+<p>President Volodymyr Zelensky of Ukraine traveled to Washington to make a last-ditch appeal for more help to fight Russia. But Republicans said they wouldn’t act without a border deal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Sideline Zelensky With Border Demands, Imperiling Aid Package</h3>
+<sub>By Catie Edmondson</sub>
+<p>The Ukrainian president delivered an urgent plea for more help for his country in its fight against Russia, only to be told by Republicans that his challenges were not their focus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -128,11 +122,17 @@ There&#39;s a lot happening in the world right now! In terms of international re
 <p>As an art project, Isabelle Brourman joined the courtroom sketch artists at the Johnny Depp-Amber Heard trial and now the trial of the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>The Climate Summit Starts to Crack a Tough Nut: Emissions From Food</h3>
-<sub>By Somini Sengupta</sub>
-<p>A road map to trim the climate footprint of food shows how hard it is to feed the world on a hotter planet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Andre Braugher, Actor on ‘Brooklyn Nine-Nine’ and ‘Homicide,’ Dies at 61</h3>
+<sub>By Mike Ives</sub>
+<p>Mr. Braugher starred on “Brooklyn Nine-Nine,” “Homicide: Life on the Street” and other shows and films. He died on Monday after a brief illness, his publicist said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Andre Braugher, the Undercover Comedian of ‘Brooklyn Nine-Nine’</h3>
+<sub>By Stephen Rodrick</sub>
+<p>After roles ranging from Henry V to ‘Homicide’ detective, America’s most unlikely funny man has his biggest hit.  <a href="https://nyti.ms/1x6Aad2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
