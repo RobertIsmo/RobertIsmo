@@ -60,13 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 12, Central Standard Time</p>
 <p>
-There has been a lot of news recently related to the US and conflicts abroad. In the Middle East, there is a war going on between Gaza and Israel which has forced a 123-year-old Jewish nonprofit to take a neutral stance. The US is providing aid to Ukraine in the form of defense support, and American intelligence has reported that Russia has suffered heavy losses in their objective of eroding Western support for Ukraine. Closer to home, there was a ruling from the top court to allow Democrats to redraw the House map in New York. This follows with House Republicans becoming more accepting of an impeachment inquiry into President Biden after being encouraged by former President Donald Trump. In tech news, Google suffered an antitrust loss against Epic Games which could be indicative of its future legal battles. On another front, data about inflation has come in relatively steady ahead of a Fed meeting, helped along by gas prices decreasing rapidly - this in turn has led to increased optimism from consumers. Lastly, there was controversy at Harvard as billionaire investor Bill Ackman accused school President Claudine Gay of antisemitism, though she was later cleared of any &quot;research misconduct&quot; or plagiarism charges following an investigation. A Columbia University president also declined a congressional call to testify about her handling of antisemitism on campus, resulting in her losing her job as punishment.</p>
+There&#39;s a lot happening in the world right now! In terms of international relations, tensions between Israel and Palestine are escalating in the Gaza Strip, and a vote in the U.N. General Assembly is trying to broker a cease-fire despite opposition from the United States. Over in Russia, casualties are rising in their conflict with Ukraine, and the U.S. is sending aid to support them. Here at home, Republicans are sidestepping Ukrainian President Zelensky&#39;s plea for help and President Biden is warning Israel about their support waning as the conflict escalates. On top of all this, House Republicans are now launching an impeachment inquiry into Biden and a court ruling is paving the way for Democrats to redraw their electoral map. Closer to home, tech giant Google is facing three antitrust cases with potential to reshape their business model and Uncle Sam&#39;s pocketbook, while some rich techbro is trying to build his own utopia with millions of dollars. And finally, the Climate Summit started cracking down on food emissions to better feed the world on our ever-warming planet. Phew!</p>
 <ol>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Why a 123-Year-Old Jewish Nonprofit Won’t Choose Sides in Gaza</h3>
-<sub>By Ginia Bellafante</sub>
-<p>The war has created an existential reckoning for the Workers Circle, a community organization that traces its roots to Yiddish activists in the early 1900s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 8, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Biden Warns Israel It Is ‘Losing Support’ Over War</h3>
+<sub>By Michael D. Shear</sub>
+<p>The president’s words exposed a widening rift between his administration and that of Prime Minister Benjamin Netanyahu as casualties rise in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. General Assembly Votes for Israel-Hamas Cease-Fire, Countering U.S. Veto</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>About three-quarters of the body’s members voted in favor of the nonbinding resolution. The result underscored the isolation of Israel and the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Sideline Zelensky With Border Demands, Imperiling Aid Package</h3>
+<sub>By Catie Edmondson</sub>
+<p>The Ukrainian president delivered an urgent plea for more help for his country in its fight against Russia, only to be told by Republicans that his challenges were not their focus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Aid to Ukraine by the Numbers</h3>
@@ -98,40 +110,28 @@ There has been a lot of news recently related to the US and conflicts abroad. In
 <p>A trio of antitrust cases on the docket threaten to reshape Google’s business and sap its profits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Inflation Holds Roughly Steady Ahead of Fed Meeting</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Consumer prices rose 3.1 percent in the year through November, and a closely watched core index was roughly the same rate as the previous month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Gas Prices Are Falling Fast, Helping Tame Inflation</h3>
-<sub>By Santul Nerkar</sub>
-<p>Consumer sentiment has rebounded as gas prices slide. Oil prices continued to fall on Tuesday, a move that could portend an even bigger drop at the pump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Bill Ackman’s Campaign Against Harvard Followed Years of Resentment</h3>
-<sub>By Maureen Farrell and Rob Copeland</sub>
-<p>The billionaire investor has mounted a high-profile battle against Harvard president Claudine Gay over antisemitism and threats to Jewish students on campus, but long-held personal grudges play a part, too.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Who Would Give This Guy Millions to Build His Own Utopia?</h3>
+<sub>By Joseph Bernstein</sub>
+<p>Dryden Brown wants Praxis to be a crypto-city for tech bros and tastemakers. Just don’t ask for details.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard’s Board Says President Will Stay, Despite Calls for Her Ouster</h3>
-<sub>By Jeremy W. Peters, Anemona Hartocollis and Dana Goldstein</sub>
-<p>Claudine Gay, who became head of the university in July, faced criticism for her responses to questions at a congressional hearing about antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Why Jack Smith Is Taking Trump’s Immunity Claim Straight to the Supreme Court</h3>
+<sub>By Alan Feuer</sub>
+<p>The special counsel has substantive and procedural reasons for wanting a quick ruling on whether Donald Trump can be prosecuted for his actions as president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard Clears President of ‘Research Misconduct’ After Plagiarism Charges</h3>
-<sub>By Jennifer Schuessler and Vimal Patel</sub>
-<p>The university started an investigation after receiving accusations in October, at a time when its president, Claudine Gay, was under fire for her response to campus antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>At Trump’s Fraud Trial, a Courtroom Artist With a Different View</h3>
+<sub>By Zachary Small</sub>
+<p>As an art project, Isabelle Brourman joined the courtroom sketch artists at the Johnny Depp-Amber Heard trial and now the trial of the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>To Testify or Not to Testify in Congress? Your Job Could Hang in the Balance.</h3>
-<sub>By Annie Karni</sub>
-<p>Columbia University’s president declined a congressional call to testify about her handling of antisemitism on campus — and dodged a firestorm that cost one of her colleagues her job.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>The Climate Summit Starts to Crack a Tough Nut: Emissions From Food</h3>
+<sub>By Somini Sengupta</sub>
+<p>A road map to trim the climate footprint of food shows how hard it is to feed the world on a hotter planet.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 </ol>
