@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on all over the world - from political and economic developments to climate change. In the US, the House has passed a resolution to formally begin an impeachment inquiry into President Biden, while the Senate has managed to pass a defense bill without restrictive policy dictates, but still has a mountain of spending legislation left to do. In other world news, Russia&#39;s President Putin said that his war aims haven&#39;t changed in his annual press conference, and Israel and Hamas have been involved in a war that is tearing apart public defenders in the Bronx. On top of all that, Federal Reserve chair Jerome Powell&#39;s Fed is believed to be &#39;pulling off&#39; a soft landing for the economy by making it sunnier than it was a year ago. In California, they&#39;re dealing with water scarcity due to climate change; meanwhile hair-loss influencers on TikTok are trying to destigmatize insecurity.</p>
+There&#39;s a lot happening in the world that can be hard to keep up with. The Federal Reserve is deciding on rate cuts, and stock and bond markets have been rallying in anticipation lately. In Russia, President Putin is discussing Western support for Ukraine. Meanwhile, some European Union countries are pushing back on Ukraine&#39;s financial aid. 
+
+In California, there&#39;s an ongoing debate over who gets access to water first as climate change continues. Israel and Hamas are locked in a battle, which has caused controversy within public defense organizations here in the United States. Lastly, college donors are increasingly expecting their money to make a difference on campus too.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Is Jerome Powell’s Fed Pulling Off a Soft Landing?</h3>
@@ -83,25 +85,25 @@ There&#39;s a lot going on all over the world - from political and economic deve
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Annual News Conference, Putin Says His War Aims Have Not Changed</h3>
 <sub>By Valerie Hopkins and Anton Troianovski</sub>
-<p>The Russian leader has been taking questions for more than two hours, albeit in a closely controlled setting. When asked about Ukraine, he suggested that Western support for the country was drying up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Russian leader suggested that Western support for Ukraine was drying up and also gave his first comments about Evan Gershkovich, an American reporter detained in Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>E.U. Leaders Are Meeting on Ukraine. Will Hungary Hold Up Aid?</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>The Hungarian prime minister, Viktor Orban, has suggested he will block both financial support and membership talks for Ukraine. There are workarounds on aid, but they are cumbersome.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Who Gets the Water in California? Whoever Gets There First.</h3>
+<sub>By Raymond Zhong and Mira Rojanasakul</sub>
+<p>As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>To Fight Hamas, Israel’s Leaders Stopped Fighting One Another. For Now.</h3>
 <sub>By Isabel Kershner</sub>
 <p>A team of rivals joined together in Prime Minister Benjamin Netanyahu’s war cabinet. But beneath the veneer of unity, there are political differences and old resentments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>For Netanyahu, Gaza Dispute With Biden Offers Risk and Reward</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Israel’s prime minister said he disagreed with President Biden about what should happen in Gaza after the war, and analysts say he might try to use the rift to shore up domestic support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Who Gets the Water in California? Whoever Gets There First.</h3>
-<sub>By Raymond Zhong and Mira Rojanasakul</sub>
-<p>As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -117,15 +119,15 @@ There&#39;s a lot going on all over the world - from political and economic deve
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Passes Defense Bill, Steering Clear of Far-Right Policy Dictates</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The $886 billion legislation is the product of bipartisan negotiations between the House and Senate in which right-wing restrictions on abortion, transgender care and diversity initiatives were jettisoned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Got Time for Milk? An Overwhelmed House, Somehow, Does.</h3>
 <sub>By Robert Jimison</sub>
 <p>With aid to Ukraine and Israel in limbo, a border deal elusive and a mountain of spending legislation left undone, the House turned its attention to whole milk in schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A New Playbook for College Donors: Power Politics</h3>
+<sub>By David W. Chen and Michael Corkery</sub>
+<p>Donations to U.S. universities reached $59.5 billion last year, and they come increasingly from a smaller group of wealthy donors. Many of them expect their money to buy a voice in university affairs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
