@@ -60,15 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 13, Central Standard Time</p>
 <p>
-Things in the world seem to be moving pretty quickly. The Federal Reserve just left interest rates unchanged, but they projected that there will be three rate cuts in 2024 as their inflation outlook is improving. Stock markets have been rallying and bond yields are sliding as a result. 
-
-In politics, the House of Representatives has just voted to approve an impeachment inquiry for President Biden after Republicans went on a year-long hunt for an offense without any success. In a positive bipartisan news, the Senate recently passed a defense bill steering clear of far-right policies. 
-
-The Supreme Court is currently looking into several cases, including a challenge to abortion pill access as well as deciding the scope of obstruction charge related to Trump’s Jan. 6 case. Democrats are using a Texas case as an opportunity to push for their stance on abortion rights and it seems like Republicans are largely staying quiet. 
-
-In education, the Education Department is investigating six more colleges over possible campus discrimination while college donors are now using &#39;power politics&#39;, trying to buy their way into having a voice in university affairs. 
-
-Finally, there’s been some drama surrounding MIT President Sally Kornbluth after her contentious testimony last week, but surprisingly there hasn&#39;t been much of a fallout yet.</p>
+There&#39;s a lot going on in the world right now. The Federal Reserve is signaling that they are likely to cut rates three times next year, which has caused stocks to rally and bond yields to lower. At the same time, the House has approved an impeachment inquiry of President Biden and the Senate is passing a defense bill that steers clear of far-right policies. Negotiations concerning aid for Ukraine are nearly complete and Congress is trying to wrap up some spending legislation before going home for the holidays. There&#39;s also a Supreme Court case challenging abortion pill access and Democrats seizing on a Texas case to push for abortion rights. Lastly, there&#39;s a story about anti-vaccines gaining traction centered around the sudden death of a 24-year-old. As you can see, there&#39;s a lot happening!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Leaves Rates Unchanged and Signals Three Cuts Next Year</h3>
@@ -95,9 +87,27 @@ Finally, there’s been some drama surrounding MIT President Sally Kornbluth aft
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Inside the Border Talks That Could Decide the Fate of Ukraine Aid</h3>
+<sub>By Zolan Kanno-Youngs and Karoun Demirjian</sub>
+<p>Negotiators are racing to reach a deal before Congress is expected to head home for the holidays at the end of the week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Got Time for Milk? An Overwhelmed House, Somehow, Does.</h3>
+<sub>By Robert Jimison</sub>
+<p>With aid to Ukraine and Israel in limbo, a border deal elusive and a mountain of spending legislation left undone, the House turned its attention to whole milk in schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Judge Pauses Trump Election Case Amid Appeal of Immunity Issue</h3>
 <sub>By Alan Feuer</sub>
 <p>The decision by the judge to freeze the case came as the former president’s lawyers asked an appeals court to move slowly in considering his claims that he is immune from prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Election Worker Tells Jury: ‘Giuliani Just Messed Me Up’</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Ruby Freeman, one of two Georgia election workers found to have been defamed by Rudolph W. Giuliani, testified at the trial held to set the damages he will have to pay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,24 +132,6 @@ Finally, there’s been some drama surrounding MIT President Sally Kornbluth aft
 <h3>Behind the Birth of an Anti-Vaccine Story</h3>
 <sub>By Stuart A. Thompson</sub>
 <p>A 24-year-old’s sudden death devastated his family — and caught the attention of the movement of vaccine opponents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Education Dept. Is Investigating Six More Colleges Over Campus Discrimination</h3>
-<sub>By Zach Montague and Tracey Tully</sub>
-<p>Stanford, Rutgers and U.C.L.A. were among those being looked into as accusations of hateful rhetoric on campuses have led to a spike in inquiries by the agency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Playbook for College Donors: Power Politics</h3>
-<sub>By David W. Chen and Michael Corkery</sub>
-<p>Donations to U.S. universities reached $59.5 billion last year, and they come increasingly from a smaller group of wealthy donors. Many of them expect their money to buy a voice in university affairs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>So Far, No Major Fallout for M.I.T. President After Contentious Testimony</h3>
-<sub>By Jenna Russell</sub>
-<p>Dr. Sally Kornbluth, who is new to M.I.T., did not draw nearly as much fire as her counterparts at Harvard and Penn after last week’s congressional hearing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
