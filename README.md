@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 13, Central Standard Time</p>
+<p>It is Thursday, December 14, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. The Federal Reserve is signaling that they are likely to cut rates three times next year, which has caused stocks to rally and bond yields to lower. At the same time, the House has approved an impeachment inquiry of President Biden and the Senate is passing a defense bill that steers clear of far-right policies. Negotiations concerning aid for Ukraine are nearly complete and Congress is trying to wrap up some spending legislation before going home for the holidays. There&#39;s also a Supreme Court case challenging abortion pill access and Democrats seizing on a Texas case to push for abortion rights. Lastly, there&#39;s a story about anti-vaccines gaining traction centered around the sudden death of a 24-year-old. As you can see, there&#39;s a lot happening!</p>
+It looks like the Federal Reserve is signaling that they may cut interest rates next year which could give a boost to stocks and bond yields. Meanwhile, the House recently approved an impeachment inquiry against President Biden and the Senate just passed a defense bill avoiding GOP-pushed far-right policy dictates. On the international front, there are border talks that could decide the fate of Ukraine aid while in the states, Donald Trump is facing an election case with an appeal over a potential immunity issue. The Supreme court will be ruling on whether or not to allow abortion pill access and there&#39;s plenty of other news including an investigation into six colleges for campus discrimination.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Fed Leaves Rates Unchanged and Signals Three Cuts Next Year</h3>
@@ -128,10 +128,10 @@ There&#39;s a lot going on in the world right now. The Federal Reserve is signal
 <p>Democratic candidates jumped on the story of a woman who left Texas for an abortion as a cautionary tale for voters, and Republicans were largely silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Behind the Birth of an Anti-Vaccine Story</h3>
-<sub>By Stuart A. Thompson</sub>
-<p>A 24-year-old’s sudden death devastated his family — and caught the attention of the movement of vaccine opponents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Education Dept. Is Investigating Six More Colleges Over Campus Discrimination</h3>
+<sub>By Zach Montague and Tracey Tully</sub>
+<p>Stanford, Rutgers and U.C.L.A. were among those being looked into as accusations of hateful rhetoric on campuses have led to a spike in inquiries by the agency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
