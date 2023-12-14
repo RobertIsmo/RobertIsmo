@@ -60,18 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 14, Central Standard Time</p>
 <p>
-In the world right now, some news is encouraging and some is concerning. On the economic front, the outlook is looking sunnier than a year ago, though stock and bond markets have been rallying in anticipation of Federal Reserve rate cuts. On the political side, here in the U.S. Republicans and Democrats found common ground for passing an important defense bill, while at the same time they are pushing forward with a formal investigation into President Biden&#39;s actions, though no evidence of an offense has been found yet. Elsewhere in the world, Russian leader Putin was giving his first comments about Evan Gershkovich, an American reporter detained in Russia, while E.U. leaders finally agreed to open membership negotiations with Ukraine after much disagreement. In addition to this, people in California are learning about water rights after generations have gone unchallenged and Israel&#39;s Prime Minister Netanyahu put together a war cabinet of rivals in order to fight Hamas in their region.</p>
+There have been some worrying news reports from around the world. In the Middle East, Israeli forces have carried out a 3-Day raid in a Palestinian city, killing at least 12 people and leaving the city. Meanwhile, in Ukraine, European Union leaders are opening talks for membership into the EU, while Russia ramps up its clashes with Ukraine and Finland has closed its border with Russia due to an influx of migrants. In Germany, a spy is on trial for selling state secrets to Russia and here in the US there is talk about free speech at universities and the passing of a defense bill by Congress. The Fed seems to be doing better than expected with economic outlook looking more promising. However, California is dealing with water disputes due to climate change. Finally, a classic holiday special - Charlie Brown Christmas - brings many meanings to Jews living in North America.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>3-Day Israeli Raid in Jenin Kills at Least 12 Palestinians, West Bank Officials Say</h3>
+<sub>By Hiba Yazbek</sub>
+<p>Residents said Israeli military vehicles left the city on Thursday, signaling an end to the operation inside Jenin, a stronghold of Palestinian resistance in the occupied West Bank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>E.U. Leaders Agree to Open Membership Talks With Ukraine</h3>
+<sub>By Matina Stevis-Gridneff and Steven Erlanger</sub>
+<p>After a bruising trip to Washington, President Volodymyr Zelensky of Ukraine welcomed a breakthrough in securing support from his allies as the war drags on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Confident Putin Suggests He Has Winning Hand in Ukraine</h3>
+<sub>By Valerie Hopkins and Anton Troianovski</sub>
+<p>The Russian leader, in his annual news conference, said he was open to peace talks but showed no hint of compromise. “Peace will come when we achieve our goals,” he said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Finland Closes Border With Russia Again</h3>
+<sub>By Johanna Lemola and Emma Bubola</sub>
+<p>The country accused Russia of resuming an effort to funnel mostly African and Middle Eastern migrants into Finland in an effort to destabilize it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>German Spy Official Goes on Trial Accused of Selling Secrets to Russia</h3>
+<sub>By Christopher F. Schuetze</sub>
+<p>The trial, held under stringent security conditions and expected to last months, caps one of the gravest espionage scandals in recent German history.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Fall of Penn’s President Brings Campus Free Speech to a Crossroads</h3>
+<sub>By Vimal Patel</sub>
+<p>Before the Israel-Hamas war, universities were already engulfed in debates over what kinds of speech are acceptable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Is Jerome Powell’s Fed Pulling Off a Soft Landing?</h3>
 <sub>By Jeanna Smialek</sub>
 <p>It’s too soon to declare victory, but the economic outlook seems sunnier than it did a year ago, and many economists are predicting a surprising win.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Markets Are Getting Ahead of the Fed</h3>
-<sub>By Jeff Sommer</sub>
-<p>Stock and bond markets have been rallying in anticipation of Federal Reserve rate cuts. But don’t get swept away just yet, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Vibes, the Economy and the Election</h3>
+<sub>By Nate Cohn</sub>
+<p>Recent positive news may put two theories on economic disenchantment to the test.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,16 +116,10 @@ In the world right now, some news is encouraging and some is concerning. On the 
 <p>Republicans and Democrats banded together to push through the legislation over the objections of right-wing lawmakers, who had sought abortion, transgender care and diversity restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin, Exuding Confidence, Suggests Western Support for Ukraine Is Waning</h3>
-<sub>By Valerie Hopkins and Anton Troianovski</sub>
-<p>The Russian leader also gave his first comments about Evan Gershkovich, an American reporter detained in Russia, saying he wanted to make a deal for his release.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Leaders Agree to Open Membership Negotiations with Ukraine</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>After a bruising trip to Washington, Ukraine welcomed an important breakthrough in securing support from its allies as the war drags on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congress Orders U.F.O. Records Released but Drops Bid for Broader Disclosure</h3>
+<sub>By Kayla Guo</sub>
+<p>A newly passed measure directs the National Archives to collect documents related to U.F.O.s and disclose confidential records within 25 years but stops short of ordering more transparency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -98,41 +128,11 @@ In the world right now, some news is encouraging and some is concerning. On the 
 <p>As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>To Fight Hamas, Israel’s Leaders Stopped Fighting One Another. For Now.</h3>
-<sub>By Isabel Kershner</sub>
-<p>A team of rivals joined together in Prime Minister Benjamin Netanyahu’s war cabinet. But beneath the veneer of unity, there are political differences and old resentments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>3-Day Israeli Raid in Jenin Kills at Least 12 Palestinians, West Bank Officials Say</h3>
-<sub>By Hiba Yazbek</sub>
-<p>Residents said Israeli military vehicles left the city on Thursday, signaling an end to the operation inside Jenin, a stronghold of Palestinian resistance in the occupied West Bank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>My Jewish Charlie Brown Christmas</h3>
 <sub>By James Poniewozik</sub>
 <p>The Peanuts special is the most overtly Christian TV holiday classic. So why does it speak to me so deeply?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Unconventional Trial Judge Could Remove Trump From His N.Y. Empire</h3>
-<sub>By Ben Protess, Jonah E. Bromwich, Kate Christobek and William K. Rashbaum</sub>
-<p>Justice Arthur F. Engoron used humor to keep the peace as lawyers fought. His decisions in the civil fraud trial are already facing scrutiny as the former president counts on an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Approves Biden Impeachment Inquiry as G.O.P. Hunts for an Offense</h3>
-<sub>By Luke Broadwater</sub>
-<p>Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no evidence of high crimes or misdemeanors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Failed Promise of Police Body Cameras</h3>
-<sub>By Eric Umansky</sub>
-<p>U.S. taxpayers spent millions to fund what was supposed to be a revolution in accountability. What went wrong?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
