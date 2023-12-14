@@ -60,18 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 14, Central Standard Time</p>
 <p>
-There are a lot of developments happening in the world right now. The Federal Reserve has left interest rates unchanged and is projecting three quarter-point rate cuts next year, which has caused stocks to rally and bond yields to slide. In the US, the House has approved an impeachment inquiry into President Biden despite no evidence of any high crimes or misdemeanors being found. Separately, the Senate passed a defense bill without any far-right policy dictations while negotiations for a border deal are still ongoing. The Supreme Court has also agreed to hear a challenge to abortion pill access as well as an obstruction charge case related to former President Trump&#39;s involvement in the January 6th insurrection. Finally, the Education Department is investigating six more colleges over campus discrimination.</p>
+There&#39;s a lot going on all over the world - from political and economic developments to climate change. In the US, the House has passed a resolution to formally begin an impeachment inquiry into President Biden, while the Senate has managed to pass a defense bill without restrictive policy dictates, but still has a mountain of spending legislation left to do. In other world news, Russia&#39;s President Putin said that his war aims haven&#39;t changed in his annual press conference, and Israel and Hamas have been involved in a war that is tearing apart public defenders in the Bronx. On top of all that, Federal Reserve chair Jerome Powell&#39;s Fed is believed to be &#39;pulling off&#39; a soft landing for the economy by making it sunnier than it was a year ago. In California, they&#39;re dealing with water scarcity due to climate change; meanwhile hair-loss influencers on TikTok are trying to destigmatize insecurity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Leaves Rates Unchanged and Signals Three Cuts Next Year</h3>
+<h3>Is Jerome Powell’s Fed Pulling Off a Soft Landing?</h3>
 <sub>By Jeanna Smialek</sub>
-<p>Federal Reserve policymakers left rates unchanged and projected three quarter-point rate cuts in 2024 as their inflation outlook improved.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<p>It’s too soon to declare victory, but the economic outlook seems sunnier than it did a year ago, and many economists are predicting a surprising win.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Stocks Rally and Bond Yields Slide as Fed Signals Rate Cuts in 2024</h3>
-<sub>By Joe Rennison</sub>
-<p>The Fed’s rate increases since March 2022 have sent shock waves through financial markets, raising borrowing costs on things like mortgages and government debt and weighing on the stock market.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Markets Are Getting Ahead of the Fed</h3>
+<sub>By Jeff Sommer</sub>
+<p>Stock and bond markets have been rallying in anticipation of Federal Reserve rate cuts. But don’t get swept away just yet, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Migrant Children Working as Roofers, and a Biden Impeachment Inquiry</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Annual News Conference, Putin Says His War Aims Have Not Changed</h3>
+<sub>By Valerie Hopkins and Anton Troianovski</sub>
+<p>The Russian leader has been taking questions for more than two hours, albeit in a closely controlled setting. When asked about Ukraine, he suggested that Western support for the country was drying up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>To Fight Hamas, Israel’s Leaders Stopped Fighting One Another. For Now.</h3>
+<sub>By Isabel Kershner</sub>
+<p>A team of rivals joined together in Prime Minister Benjamin Netanyahu’s war cabinet. But beneath the veneer of unity, there are political differences and old resentments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>For Netanyahu, Gaza Dispute With Biden Offers Risk and Reward</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Israel’s prime minister said he disagreed with President Biden about what should happen in Gaza after the war, and analysts say he might try to use the rift to shore up domestic support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Who Gets the Water in California? Whoever Gets There First.</h3>
+<sub>By Raymond Zhong and Mira Rojanasakul</sub>
+<p>As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Losing Hair, Gaining Followers</h3>
+<sub>By Callie Holtermann</sub>
+<p>Hair-loss influencers on TikTok say they are destigmatizing a common insecurity. Critics say they are cashing in on a vulnerable audience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,52 +123,16 @@ There are a lot of developments happening in the world right now. The Federal Re
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Inside the Border Talks That Could Decide the Fate of Ukraine Aid</h3>
-<sub>By Zolan Kanno-Youngs and Karoun Demirjian</sub>
-<p>Negotiators are racing to reach a deal before Congress is expected to head home for the holidays at the end of the week.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Got Time for Milk? An Overwhelmed House, Somehow, Does.</h3>
 <sub>By Robert Jimison</sub>
 <p>With aid to Ukraine and Israel in limbo, a border deal elusive and a mountain of spending legislation left undone, the House turned its attention to whole milk in schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Pauses Trump Election Case Amid Appeal of Immunity Issue</h3>
-<sub>By Alan Feuer</sub>
-<p>The decision by the judge to freeze the case came as the former president’s lawyers asked an appeals court to move slowly in considering his claims that he is immune from prosecution.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Election Worker Tells Jury: ‘Giuliani Just Messed Me Up’</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Ruby Freeman, one of two Georgia election workers found to have been defamed by Rudolph W. Giuliani, testified at the trial held to set the damages he will have to pay.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices to Decide Scope of Obstruction Charge Central to Trump’s Jan. 6 Case</h3>
-<sub>By Alan Feuer and Adam Liptak</sub>
-<p>A ruling by the Supreme Court could affect the cases of hundreds of people charged in connection with the Capitol attack — and potentially the prosecution of Donald J. Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Will Hear Challenge to Abortion Pill Access</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The justices announced that they would hear a case challenging a federal agency’s approval of the commonly used pill.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Seize on Texas Case in Push for Abortion Rights</h3>
-<sub>By Lisa Lerer</sub>
-<p>Democratic candidates jumped on the story of a woman who left Texas for an abortion as a cautionary tale for voters, and Republicans were largely silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Education Dept. Is Investigating Six More Colleges Over Campus Discrimination</h3>
-<sub>By Zach Montague and Tracey Tully</sub>
-<p>Stanford, Rutgers and U.C.L.A. were among those being looked into as accusations of hateful rhetoric on campuses have led to a spike in inquiries by the agency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How the Israel-Hamas War Tore Apart Public Defenders in the Bronx</h3>
+<sub>By Santul Nerkar and Jonah E. Bromwich</sub>
+<p>The Bronx Defenders is one of the most influential public defense organizations in the United States. But allegations of antisemitism have dogged it and have grown louder since Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
