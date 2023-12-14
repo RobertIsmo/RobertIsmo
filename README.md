@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 14, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world that can be hard to keep up with. The Federal Reserve is deciding on rate cuts, and stock and bond markets have been rallying in anticipation lately. In Russia, President Putin is discussing Western support for Ukraine. Meanwhile, some European Union countries are pushing back on Ukraine&#39;s financial aid. 
-
-In California, there&#39;s an ongoing debate over who gets access to water first as climate change continues. Israel and Hamas are locked in a battle, which has caused controversy within public defense organizations here in the United States. Lastly, college donors are increasingly expecting their money to make a difference on campus too.</p>
+In the world right now, some news is encouraging and some is concerning. On the economic front, the outlook is looking sunnier than a year ago, though stock and bond markets have been rallying in anticipation of Federal Reserve rate cuts. On the political side, here in the U.S. Republicans and Democrats found common ground for passing an important defense bill, while at the same time they are pushing forward with a formal investigation into President Biden&#39;s actions, though no evidence of an offense has been found yet. Elsewhere in the world, Russian leader Putin was giving his first comments about Evan Gershkovich, an American reporter detained in Russia, while E.U. leaders finally agreed to open membership negotiations with Ukraine after much disagreement. In addition to this, people in California are learning about water rights after generations have gone unchallenged and Israel&#39;s Prime Minister Netanyahu put together a war cabinet of rivals in order to fight Hamas in their region.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Is Jerome Powell’s Fed Pulling Off a Soft Landing?</h3>
@@ -76,22 +74,22 @@ In California, there&#39;s an ongoing debate over who gets access to water first
 <p>Stock and bond markets have been rallying in anticipation of Federal Reserve rate cuts. But don’t get swept away just yet, our columnist says.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Migrant Children Working as Roofers, and a Biden Impeachment Inquiry</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Passes Defense Bill, Clearing It for Biden</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Republicans and Democrats banded together to push through the legislation over the objections of right-wing lawmakers, who had sought abortion, transgender care and diversity restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Annual News Conference, Putin Says His War Aims Have Not Changed</h3>
+<h3>Putin, Exuding Confidence, Suggests Western Support for Ukraine Is Waning</h3>
 <sub>By Valerie Hopkins and Anton Troianovski</sub>
-<p>The Russian leader suggested that Western support for Ukraine was drying up and also gave his first comments about Evan Gershkovich, an American reporter detained in Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Russian leader also gave his first comments about Evan Gershkovich, an American reporter detained in Russia, saying he wanted to make a deal for his release.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>E.U. Leaders Are Meeting on Ukraine. Will Hungary Hold Up Aid?</h3>
+<h3>E.U. Leaders Agree to Open Membership Negotiations with Ukraine</h3>
 <sub>By Matina Stevis-Gridneff</sub>
-<p>The Hungarian prime minister, Viktor Orban, has suggested he will block both financial support and membership talks for Ukraine. There are workarounds on aid, but they are cumbersome.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>After a bruising trip to Washington, Ukraine welcomed an important breakthrough in securing support from its allies as the war drags on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -106,11 +104,23 @@ In California, there&#39;s an ongoing debate over who gets access to water first
 <p>A team of rivals joined together in Prime Minister Benjamin Netanyahu’s war cabinet. But beneath the veneer of unity, there are political differences and old resentments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Losing Hair, Gaining Followers</h3>
-<sub>By Callie Holtermann</sub>
-<p>Hair-loss influencers on TikTok say they are destigmatizing a common insecurity. Critics say they are cashing in on a vulnerable audience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>3-Day Israeli Raid in Jenin Kills at Least 12 Palestinians, West Bank Officials Say</h3>
+<sub>By Hiba Yazbek</sub>
+<p>Residents said Israeli military vehicles left the city on Thursday, signaling an end to the operation inside Jenin, a stronghold of Palestinian resistance in the occupied West Bank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>My Jewish Charlie Brown Christmas</h3>
+<sub>By James Poniewozik</sub>
+<p>The Peanuts special is the most overtly Christian TV holiday classic. So why does it speak to me so deeply?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Unconventional Trial Judge Could Remove Trump From His N.Y. Empire</h3>
+<sub>By Ben Protess, Jonah E. Bromwich, Kate Christobek and William K. Rashbaum</sub>
+<p>Justice Arthur F. Engoron used humor to keep the peace as lawyers fought. His decisions in the civil fraud trial are already facing scrutiny as the former president counts on an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Approves Biden Impeachment Inquiry as G.O.P. Hunts for an Offense</h3>
@@ -118,23 +128,11 @@ In California, there&#39;s an ongoing debate over who gets access to water first
 <p>Republicans are pushing forward with a formal investigation even though their yearlong scrutiny of the president and his family has turned up no evidence of high crimes or misdemeanors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Got Time for Milk? An Overwhelmed House, Somehow, Does.</h3>
-<sub>By Robert Jimison</sub>
-<p>With aid to Ukraine and Israel in limbo, a border deal elusive and a mountain of spending legislation left undone, the House turned its attention to whole milk in schools.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Failed Promise of Police Body Cameras</h3>
+<sub>By Eric Umansky</sub>
+<p>U.S. taxpayers spent millions to fund what was supposed to be a revolution in accountability. What went wrong?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Playbook for College Donors: Power Politics</h3>
-<sub>By David W. Chen and Michael Corkery</sub>
-<p>Donations to U.S. universities reached $59.5 billion last year, and they come increasingly from a smaller group of wealthy donors. Many of them expect their money to buy a voice in university affairs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 13, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How the Israel-Hamas War Tore Apart Public Defenders in the Bronx</h3>
-<sub>By Santul Nerkar and Jonah E. Bromwich</sub>
-<p>The Bronx Defenders is one of the most influential public defense organizations in the United States. But allegations of antisemitism have dogged it and have grown louder since Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
