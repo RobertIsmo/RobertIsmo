@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 14, Central Standard Time</p>
 <p>
-There have been some worrying news reports from around the world. In the Middle East, Israeli forces have carried out a 3-Day raid in a Palestinian city, killing at least 12 people and leaving the city. Meanwhile, in Ukraine, European Union leaders are opening talks for membership into the EU, while Russia ramps up its clashes with Ukraine and Finland has closed its border with Russia due to an influx of migrants. In Germany, a spy is on trial for selling state secrets to Russia and here in the US there is talk about free speech at universities and the passing of a defense bill by Congress. The Fed seems to be doing better than expected with economic outlook looking more promising. However, California is dealing with water disputes due to climate change. Finally, a classic holiday special - Charlie Brown Christmas - brings many meanings to Jews living in North America.</p>
+Currently, there is a lot of tension in many parts of the world. In the Middle East, there is a conflict between Israel and Gaza, and the US is pushing for a scale down in violence. In Europe, Ukraine has applied to join the EU but still finds itself in a war that has lasted for years. On the political side in the US, a defense bill was just passed by Congress after some restrictions were made on transgender care and diversity requirements. Finally, people of all religions are finding meaning in an unexpected holiday classic - Charlie Brown Christmas.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Washington Urges Israel to Scale Down Its War in Gaza</h3>
+<sub>By Adam Entous, Aaron Boxerman and Thomas Fuller</sub>
+<p>The call for a more targeted phase in the war appeared to be the most definitive effort yet by the United States to restrain Israel in its retaliation against Hamas for the attacks it led on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>3-Day Israeli Raid in Jenin Kills at Least 12 Palestinians, West Bank Officials Say</h3>
-<sub>By Hiba Yazbek</sub>
-<p>Residents said Israeli military vehicles left the city on Thursday, signaling an end to the operation inside Jenin, a stronghold of Palestinian resistance in the occupied West Bank.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Satellite Imagery and Video Shows Some Gazan Cemeteries Razed by Israeli Forces</h3>
+<sub>By Christoph Koettl and Christiaan Triebert</sub>
+<p>The laws of armed conflict consider the intentional destruction of religious sites without military necessity a possible war crime.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,16 +80,16 @@ There have been some worrying news reports from around the world. In the Middle 
 <p>After a bruising trip to Washington, President Volodymyr Zelensky of Ukraine welcomed a breakthrough in securing support from his allies as the war drags on.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Confident Putin Suggests He Has Winning Hand in Ukraine</h3>
-<sub>By Valerie Hopkins and Anton Troianovski</sub>
-<p>The Russian leader, in his annual news conference, said he was open to peace talks but showed no hint of compromise. “Peace will come when we achieve our goals,” he said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Schumer Delays Holiday Break, Pressing for Border Deal to Unlock Ukraine Aid</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The majority leader said he would keep the Senate in session to allow time for an elusive immigration compromise, as Democrats criticized the G.O.P.-led House for leaving without helping Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Finland Closes Border With Russia Again</h3>
-<sub>By Johanna Lemola and Emma Bubola</sub>
-<p>The country accused Russia of resuming an effort to funnel mostly African and Middle Eastern migrants into Finland in an effort to destabilize it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Five Takeaways From Putin’s Marathon Annual News Conference</h3>
+<sub>By Valerie Hopkins and Anton Troianovski</sub>
+<p>The Russian leader suggested that Western support for Ukraine was drying up and also gave his first comments about Evan Gershkovich, an American reporter detained in Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,34 +104,28 @@ There have been some worrying news reports from around the world. In the Middle 
 <p>Before the Israel-Hamas war, universities were already engulfed in debates over what kinds of speech are acceptable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Is Jerome Powell’s Fed Pulling Off a Soft Landing?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>It’s too soon to declare victory, but the economic outlook seems sunnier than it did a year ago, and many economists are predicting a surprising win.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Republicans Reject Funding for Penn’s Veterinary School</h3>
+<sub>By Jacey Fortin</sub>
+<p>Members of the State House of Representatives said the university needed to take a stronger stand against antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Vibes, the Economy and the Election</h3>
-<sub>By Nate Cohn</sub>
-<p>Recent positive news may put two theories on economic disenchantment to the test.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Unconventional Trial Judge Could Remove Trump From His N.Y. Empire</h3>
+<sub>By Ben Protess, Jonah E. Bromwich, Kate Christobek and William K. Rashbaum</sub>
+<p>Justice Arthur F. Engoron used humor to keep the peace as lawyers fought. His decisions in the civil fraud trial are already facing scrutiny as the former president counts on an appeal.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>Trial Dates in Limbo</h3>
+<sub>By Alan Feuer and Maggie Haberman</sub>
+<p>The Supreme Court is weighing in, with implications on timing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>House Passes Defense Bill, Clearing It for Biden</h3>
 <sub>By Karoun Demirjian</sub>
 <p>Republicans and Democrats banded together to push through the legislation over the objections of right-wing lawmakers, who had sought abortion, transgender care and diversity restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Orders U.F.O. Records Released but Drops Bid for Broader Disclosure</h3>
-<sub>By Kayla Guo</sub>
-<p>A newly passed measure directs the National Archives to collect documents related to U.F.O.s and disclose confidential records within 25 years but stops short of ordering more transparency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Who Gets the Water in California? Whoever Gets There First.</h3>
-<sub>By Raymond Zhong and Mira Rojanasakul</sub>
-<p>As the world warms, the state is re-examining claims to its water that have gone unchallenged for generations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
