@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 15, Central Standard Time</p>
 <p>
-It looks like inflation is slowing down and giving shoppers some discounts, but homeownership could be an out-of-reach goal for many young Americans. On Wall Street, the Fed&#39;s dovish forecast about interest rates has led to a new record high for the S&amp;P 500, though not everyone is convinced this rally will last. We got an inside look at how the Supreme Court overturned Roe v. Wade, and there&#39;s been no relief in sight for Ukraine in terms of much-needed economic aid. Some Ukrainian men have reported incidents of wrongful draft notices and coercive mobilization tactics as recruiters attempt to fill army ranks. One former hostage recently released after a 7-week ordeal shared her story of terror and tears. Meanwhile, peace activist couples in Israel have been fractured by the conflict, leaving one side wondering if they ever really understood each other. It has been a tumultuous year in Congress, with Republican retirements leading to potential shakeup come 2024 elections - and Democrats facing possible challengers backed by AIPAC are represented by Rep. Ilhan Omar. </p>
+A lot has been going on in the world recently. In the US, there are concerns of rising housing prices and homelessness, as well as the debate surrounding the Supreme Court&#39;s overturning of Roe v. Wade. The US government is also investigating the disappearance of material from the Russia investigation after Trump left office. Meanwhile, in terms of global news, there have been reports of former hostages recounting their ordeals in Israel and Ukraine having to deal with harsh military recruitment tactics among other things. Lastly, there was news about the rising stock market prices due to the Fed&#39;s pivoting too soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>This Season’s Hottest Shopping Trend: Falling Prices</h3>
@@ -81,6 +81,18 @@ It looks like inflation is slowing down and giving shoppers some discounts, but 
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Homelessness Rose to Record Level This Year, Government Says</h3>
+<sub>By Jason DeParle</sub>
+<p>The rise of 12 percent was the biggest one-year jump since the federal government began an annual head count in 2007.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Apology, Tears and Terror: A Former Hostage Recounts a 7-Week Ordeal</h3>
+<sub>By Anat Schwartz and Avishag Shaar-Yashuv</sub>
+<p>Chen Goldstein-Almog and three of her children were freed in late November. Her husband and eldest daughter were killed in Hamas’s Oct. 7 attacks in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Behind the Scenes at the Dismantling of Roe v. Wade</h3>
 <sub>By Jodi Kantor and Adam Liptak</sub>
 <p>This is the inside story of how the Supreme Court overturned the constitutional right to abortion — shooting down compromise and testing the boundaries of how the law is decided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -91,6 +103,18 @@ It looks like inflation is slowing down and giving shoppers some discounts, but 
 <sub>By Jodi Kantor and Adam Liptak</sub>
 <p>A Times investigation reveals the behind-the-scenes story of how the Supreme Court abolished the constitutional right to abortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Material From Russia Investigation Went Missing as Trump Left Office</h3>
+<sub>By Maggie Haberman, Julian E. Barnes, Charlie Savage and Jonathan Swan</sub>
+<p>A binder given to the Trump White House contained details that intelligence agencies believe could reveal secret sources and methods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>They Worked Together as Peace Activists. Oct. 7 Changed Everything.</h3>
+<sub>By Susan Dominus</sub>
+<p>Tamar Shamir and Mohamed Abu Jafar tried for years to bring Jews and Palestinians together. Now they wonder if they ever understood each other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Zelensky Returns to Ukraine With Little Aid and a Raft of Needs</h3>
@@ -104,35 +128,11 @@ It looks like inflation is slowing down and giving shoppers some discounts, but 
 <p>Ukrainian men are reporting incidents of wrongful draft notices, unprofessional medical commissions and coercive mobilization tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Apology, Tears and Terror: A Former Hostage Recounts a 7-Week Ordeal</h3>
-<sub>By Anat Schwartz and Avishag Shaar-Yashuv</sub>
-<p>Chen Goldstein-Almog and three of her children were freed in late November. Her husband and eldest daughter were killed in Hamas’s Oct. 7 attacks in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Worked Together as Peace Activists. Oct. 7 Changed Everything.</h3>
-<sub>By Susan Dominus</sub>
-<p>Tamar Shamir and Mohamed Abu Jafar tried for years to bring Jews and Palestinians together. Now they wonder if they ever understood each other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A ‘Historical and Hysterical’ House Flees After a Tumultuous Year</h3>
 <sub>By Carl Hulse</sub>
 <p>An ousted speaker, internal divisions and a race to the exits characterized the first year of the chaos-wracked Republican majority.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democratic Critics of Israel Draw Challengers Eyeing AIPAC’s Help</h3>
-<sub>By Jonathan Weisman and Kate Kelly</sub>
-<p>Groups aligned with AIPAC are likely to shower next year’s Democratic primaries with campaign cash. One key target: Representative Ilhan Omar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Retirements in the House</h3>
-<sub>By Albert Sun and Robert Jimison</sub>
-<p>Given Republicans’ razor-thin majority, a recent wave of exits has the potential to lead to a significant shake-up in the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
