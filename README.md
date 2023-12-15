@@ -58,14 +58,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 14, Central Standard Time</p>
+<p>It is Friday, December 15, Central Standard Time</p>
 <p>
-To sum up what is happening in the world at this moment, there are a few notable stories. In Hungary, they have blocked Ukraine&#39;s receiving of aid money from the European Union after the E.U opened their door to membership negotiations since their president wanted some more financial aid. Meanwhile, in Washington D.C., they have been urging Israel to scale down their war effort which has resulted in some Gazan cemeteries being destroyed while American reporters have been detained in Russia by Putin. Also, Republicans have rejected funding given to Penn&#39;s veterinary school since it did not take a firmer stance against antisemitism and they passed a defense bill to President Biden. Furthermore, there is an examination of free speech on university campuses and conversations about managing pain associated with IUDs for women. Finally, opinions are hoped for from the Supreme Court that can settle whether or not Trump is convicted criminal with enough time for citizens to know before the election and stories of people suffering long-term effects from Covid-19.</p>
+There have been some major international news stories recently. In Hungary, Ukraine aid is being blocked as talks on European Union membership officially open, while in the US factions of both sides of the political spectrum are demanding action to help Ukraine. The US are also trying to intervene in the escalating conflict between Israel and Gaza, calling for a more targeted phase in the war. Closer to home, a debate on campus free speech has arisen following the fall of a university president, while Republicans have rejected funding for another college&#39;s veterinary school. Internationally, Brazil have approved a law weakening protection of its indigenous lands despite pushback from their former president,  Luiz Inácio Lula da Silva. There have also been some opinion pieces about U.S. Supreme Court justices stopping Trump&#39;s legal delay game, life with long Covid, the biggest threat to America&#39;s universities and Liz Cheney&#39;s recent book.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hungary Blocks Ukraine Aid After E.U. Opens Door to Membership</h3>
 <sub>By Matina Stevis-Gridneff and Steven Erlanger</sub>
-<p>President Volodymyr Zelensky of Ukraine welcomed the breakthrough in Ukraine’s official opening of accession negotiations to join the bloc. Securing more financial aid will have to wait.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Volodymyr Zelensky of Ukraine welcomed the breakthrough as talks on joining the bloc officially opened. Securing more financial aid will have to wait.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -74,22 +74,10 @@ To sum up what is happening in the world at this moment, there are a few notable
 <p>The majority leader said he would keep the Senate in session to allow time for an elusive immigration compromise, as Democrats criticized the G.O.P.-led House for leaving without helping Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Five Takeaways From Putin’s Marathon Annual News Conference</h3>
-<sub>By Valerie Hopkins and Anton Troianovski</sub>
-<p>The Russian leader suggested that Western support for Ukraine was drying up and also gave his first comments about Evan Gershkovich, an American reporter detained in Russia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Washington Urges Israel to Scale Down Its War in Gaza</h3>
 <sub>By Adam Entous, Aaron Boxerman and Thomas Fuller</sub>
 <p>The call for a more targeted phase in the war appeared to be the most definitive effort yet by the United States to restrain Israel in its retaliation against Hamas for the attacks it led on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Satellite Imagery and Video Shows Some Gazan Cemeteries Razed by Israeli Forces</h3>
-<sub>By Christoph Koettl and Christiaan Triebert</sub>
-<p>The laws of armed conflict consider the intentional destruction of religious sites without military necessity a possible war crime.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,12 +98,6 @@ To sum up what is happening in the world at this moment, there are a few notable
 <p>Republicans and Democrats banded together to push through the legislation over the objections of right-wing lawmakers, who had sought abortion, transgender care and diversity restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>My Jewish Charlie Brown Christmas</h3>
-<sub>By James Poniewozik</sub>
-<p>The Peanuts special is the most overtly Christian TV holiday classic. So why does it speak to me so deeply?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Getting an IUD Hurts. Why Aren’t More Women Offered Relief?</h3>
 <sub>By Alisha Haridasani Gupta</sub>
@@ -132,6 +114,24 @@ To sum up what is happening in the world at this moment, there are a few notable
 <h3>1,374 Days: My Life With Long Covid</h3>
 <sub>By Giorgia Lupi</sub>
 <p>Chronic illness has a way of picking apart your mind and breaking your heart.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>The Biggest Threat to America’s Universities</h3>
+<sub>By Paul Krugman</sub>
+<p>We pay too much attention to institutions that educate so few Americans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Liz Cheney Is Very Worried</h3>
+<sub>By Carlos Lozada</sub>
+<p>If “Oath and Honor” is both “a memoir and a warning,” it delivers on only half of that promise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Brazil’s Congress Weakens Protection of Indigenous Lands, Defying Lula</h3>
+<sub>By Flávia Milhorance and Paulo Motoryn</sub>
+<p>While Brazil vows to fight climate change, lawmakers approved a law making it harder for Indigenous tribes to block deforestation, overriding a veto by President Luiz Inácio Lula da Silva.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
