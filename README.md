@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 15, Central Standard Time</p>
 <p>
-There have been some major international news stories recently. In Hungary, Ukraine aid is being blocked as talks on European Union membership officially open, while in the US factions of both sides of the political spectrum are demanding action to help Ukraine. The US are also trying to intervene in the escalating conflict between Israel and Gaza, calling for a more targeted phase in the war. Closer to home, a debate on campus free speech has arisen following the fall of a university president, while Republicans have rejected funding for another college&#39;s veterinary school. Internationally, Brazil have approved a law weakening protection of its indigenous lands despite pushback from their former president,  Luiz Inácio Lula da Silva. There have also been some opinion pieces about U.S. Supreme Court justices stopping Trump&#39;s legal delay game, life with long Covid, the biggest threat to America&#39;s universities and Liz Cheney&#39;s recent book.</p>
+There are some major geopolitical events happening in the world. Hungary is blocking financial aid to Ukraine after the E.U. opened its door to membership talks, so Ukraine&#39;s President is pushing for an immigration agreement in order for the aid to come through. The U.S. has urged Israel to scale down its war in Gaza, and there are ongoing debates over free speech on college campuses related to antisemitism. The House has passed a defense bill and rejected funding for a university veterinary school while Republicans try to stop the delay of revealing whether Trump is a convicted criminal or not. In other news, a British boy that had been missing for 6 years was found in France and his mother and grandfather are suspected in the disappearance.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hungary Blocks Ukraine Aid After E.U. Opens Door to Membership</h3>
@@ -129,9 +129,9 @@ There have been some major international news stories recently. In Hungary, Ukra
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brazil’s Congress Weakens Protection of Indigenous Lands, Defying Lula</h3>
-<sub>By Flávia Milhorance and Paulo Motoryn</sub>
-<p>While Brazil vows to fight climate change, lawmakers approved a law making it harder for Indigenous tribes to block deforestation, overriding a veto by President Luiz Inácio Lula da Silva.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A British Boy, Missing for 6 Years, Turns Up in France</h3>
+<sub>By Victor Mather</sub>
+<p>Alex Batty, of Oldham, England, now a teenager, was found by a delivery driver walking on a rainy night in Chalabre. His mother and grandfather are wanted in connection with his disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
