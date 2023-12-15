@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 15, Central Standard Time</p>
 <p>
-Right now, there is a lot of news coming out of Ukraine and the Middle East. In Ukraine, men are being wrongfully drafted into the army, and E.U. talks about accession have just opened, but Hungary is blocking aid to Ukraine as a result. In the Middle East, private gun ownership in Israel is surging due to Hamas attacks, and Gazans are pressuring Egypt over their border closure. Meanwhile in the U.S., colleges are debating free speech standards amidst a wave of Democratic critics of Israel who may be challenged with help from AIPAC. The military has also returned to the jungle, training for potential future clashes with China. Finally, Prince Harry won a landmark case against a U.K. tabloid that was caught hacking his phone!</p>
+There’s a lot happening in the world right now. In Ukraine, there have been reports of people being forced to enlist in the military, and there’s a delay in receiving aid from European Union allies. Meanwhile, gun sales have spiked in Israel amid tension with Hamas. On the Egyptian border, hundreds of thousands of Palestinians are blocked from entering due to heavily fortified security. In the US, debates over free speech have heated up since the start of the Israel-Hamas war. Democratic candidates who criticize Israel are facing close challengers supported by AIPAC campaign funding. In addition, news of Retirements in the House could lead to a serious shakeup in the 2024 election. Lastly, Prince Harry scored a legal victory against a U.K tabloid hacking his phone, while New Mexico&#39;s spaceport plans remain unfulfilled and the US military is training for future threats in Hawaii.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘People Snatchers’: Ukraine’s Recruiters Use Harsh Tactics to Fill Ranks</h3>
@@ -69,16 +69,10 @@ Right now, there is a lot of news coming out of Ukraine and the Middle East. In 
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Some Good News for Ukraine in an Otherwise Glum Week</h3>
-<sub>By Andrew E. Kramer and Constant Méheut</sub>
-<p>The E.U.’s willingness to open accession talks will lift morale, but the more immediate issue of financial support from allies for the war is cloudy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Delays in Western Aid Leave Ukraine With Urgent Challenges in War Effort</h3>
+<sub>By Constant Méheut and Andrew E. Kramer</sub>
+<p>The European Union’s willingness to open accession talks will lift morale, but the more immediate issue of financial support from allies is cloudy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hungary Blocks Ukraine Aid After E.U. Opens Door to Membership</h3>
-<sub>By Matina Stevis-Gridneff and Steven Erlanger</sub>
-<p>President Volodymyr Zelensky of Ukraine welcomed the breakthrough as talks on joining the bloc officially opened. Securing more financial aid will have to wait.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>U.S. Downplays Rift with Israel, and Congress Orders U.F.O. Records Released</h3>
@@ -98,6 +92,12 @@ Right now, there is a lot of news coming out of Ukraine and the Middle East. In 
 <p>Hundreds of thousands of Palestinians have fled to southern Gaza, but they cannot cross into Egypt because the border is heavily fortified and Cairo is determined to keep it closed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Was Set to Play Santa. His Views on the Middle East Got in the Way.</h3>
+<sub>By Andrew Keh</sub>
+<p>Ken Dorph had grown out his white beard, but a tense discussion of the Israel-Hamas war at a local synagogue led to complaints that cost him the gig.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Fall of Penn’s President Brings Campus Free Speech to a Crossroads</h3>
 <sub>By Vimal Patel</sub>
@@ -116,16 +116,16 @@ Right now, there is a lot of news coming out of Ukraine and the Middle East. In 
 <p>Given Republicans’ razor-thin majority, a recent wave of exits has the potential to lead to a significant shake-up in the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prince Harry’s Phone Was Hacked by U.K. Tabloid, Judge Rules in Landmark Case</h3>
+<sub>By Megan Specia</sub>
+<p>The ruling was a major victory for the royal in his long-running campaign against media intrusion into his life — and a blow to Britain’s tabloid press.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>New Mexico Spaceport Leaves Economic Dreams Grounded</h3>
 <sub>By Kurtis Lee and Adria Malcolm</sub>
 <p>Long a priority of local officials, the desert launchpad is sending tourists into space, but taxpayers and merchants are waiting for the payoff.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prince Harry’s Phone Was Hacked by U.K. Tabloid, Judge Rules in Landmark Case</h3>
-<sub>By Megan Specia</sub>
-<p>The civil suit has been part of a long-running effort by the royal to hit back against the British news media over its coverage of him and his family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
