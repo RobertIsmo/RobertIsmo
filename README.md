@@ -60,24 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 15, Central Standard Time</p>
 <p>
-There are some major geopolitical events happening in the world. Hungary is blocking financial aid to Ukraine after the E.U. opened its door to membership talks, so Ukraine&#39;s President is pushing for an immigration agreement in order for the aid to come through. The U.S. has urged Israel to scale down its war in Gaza, and there are ongoing debates over free speech on college campuses related to antisemitism. The House has passed a defense bill and rejected funding for a university veterinary school while Republicans try to stop the delay of revealing whether Trump is a convicted criminal or not. In other news, a British boy that had been missing for 6 years was found in France and his mother and grandfather are suspected in the disappearance.</p>
+Right now, there is a lot of news coming out of Ukraine and the Middle East. In Ukraine, men are being wrongfully drafted into the army, and E.U. talks about accession have just opened, but Hungary is blocking aid to Ukraine as a result. In the Middle East, private gun ownership in Israel is surging due to Hamas attacks, and Gazans are pressuring Egypt over their border closure. Meanwhile in the U.S., colleges are debating free speech standards amidst a wave of Democratic critics of Israel who may be challenged with help from AIPAC. The military has also returned to the jungle, training for potential future clashes with China. Finally, Prince Harry won a landmark case against a U.K. tabloid that was caught hacking his phone!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘People Snatchers’: Ukraine’s Recruiters Use Harsh Tactics to Fill Ranks</h3>
+<sub>By Thomas Gibbons-Neff</sub>
+<p>Ukrainian men are reporting incidents of wrongful draft notices, unprofessional medical commissions and coercive mobilization tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Some Good News for Ukraine in an Otherwise Glum Week</h3>
+<sub>By Andrew E. Kramer and Constant Méheut</sub>
+<p>The E.U.’s willingness to open accession talks will lift morale, but the more immediate issue of financial support from allies for the war is cloudy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hungary Blocks Ukraine Aid After E.U. Opens Door to Membership</h3>
 <sub>By Matina Stevis-Gridneff and Steven Erlanger</sub>
 <p>President Volodymyr Zelensky of Ukraine welcomed the breakthrough as talks on joining the bloc officially opened. Securing more financial aid will have to wait.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Schumer Delays Holiday Break, Pressing for Border Deal to Unlock Ukraine Aid</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The majority leader said he would keep the Senate in session to allow time for an elusive immigration compromise, as Democrats criticized the G.O.P.-led House for leaving without helping Ukraine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>U.S. Downplays Rift with Israel, and Congress Orders U.F.O. Records Released</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Washington Urges Israel to Scale Down Its War in Gaza</h3>
-<sub>By Adam Entous, Aaron Boxerman and Thomas Fuller</sub>
-<p>The call for a more targeted phase in the war appeared to be the most definitive effort yet by the United States to restrain Israel in its retaliation against Hamas for the attacks it led on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Private Gun Ownership in Israel Spikes After Hamas Attacks</h3>
+<sub>By Aaron Boxerman and Talya Minsberg</sub>
+<p>In a country already bristling with armed soldiers and reservists, a new sense of insecurity is pushing civilians to seek more personal weapons.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Displaced Gazans Put Pressure on Egypt’s Border</h3>
+<sub>By Ben Hubbard</sub>
+<p>Hundreds of thousands of Palestinians have fled to southern Gaza, but they cannot cross into Egypt because the border is heavily fortified and Cairo is determined to keep it closed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,52 +105,34 @@ There are some major geopolitical events happening in the world. Hungary is bloc
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Republicans Reject Funding for Penn’s Veterinary School</h3>
-<sub>By Jacey Fortin</sub>
-<p>Members of the State House of Representatives said the university needed to take a stronger stand against antisemitism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<h3>Democratic Critics of Israel Draw Challengers Eyeing AIPAC’s Help</h3>
+<sub>By Jonathan Weisman and Kate Kelly</sub>
+<p>Groups aligned with AIPAC are likely to shower next year’s Democratic primaries with campaign cash. One key target: Representative Ilhan Omar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Passes Defense Bill, Clearing It for Biden</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Republicans and Democrats banded together to push through the legislation over the objections of right-wing lawmakers, who had sought abortion, transgender care and diversity restrictions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Tracking Retirements in the House</h3>
+<sub>By Albert Sun and Robert Jimison</sub>
+<p>Given Republicans’ razor-thin majority, a recent wave of exits has the potential to lead to a significant shake-up in the 2024 election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Getting an IUD Hurts. Why Aren’t More Women Offered Relief?</h3>
-<sub>By Alisha Haridasani Gupta</sub>
-<p>One of the most effective birth control options is also known for the excruciatingly painful procedure to insert it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Supreme Court Can Stop Trump’s Delay Game</h3>
-<sub>By Jesse Wegman</sub>
-<p>American voters deserve to know before the election whether Trump is a convicted criminal. The Supreme Court has the power to make that happen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>1,374 Days: My Life With Long Covid</h3>
-<sub>By Giorgia Lupi</sub>
-<p>Chronic illness has a way of picking apart your mind and breaking your heart.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>The Biggest Threat to America’s Universities</h3>
-<sub>By Paul Krugman</sub>
-<p>We pay too much attention to institutions that educate so few Americans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Liz Cheney Is Very Worried</h3>
-<sub>By Carlos Lozada</sub>
-<p>If “Oath and Honor” is both “a memoir and a warning,” it delivers on only half of that promise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>New Mexico Spaceport Leaves Economic Dreams Grounded</h3>
+<sub>By Kurtis Lee and Adria Malcolm</sub>
+<p>Long a priority of local officials, the desert launchpad is sending tourists into space, but taxpayers and merchants are waiting for the payoff.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A British Boy, Missing for 6 Years, Turns Up in France</h3>
-<sub>By Victor Mather</sub>
-<p>Alex Batty, of Oldham, England, now a teenager, was found by a delivery driver walking on a rainy night in Chalabre. His mother and grandfather are wanted in connection with his disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
+<h3>Prince Harry’s Phone Was Hacked by U.K. Tabloid, Judge Rules in Landmark Case</h3>
+<sub>By Megan Specia</sub>
+<p>The civil suit has been part of a long-running effort by the royal to hit back against the British news media over its coverage of him and his family.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Military Returns to the Jungle, Training for Future Threats</h3>
+<sub>By Damien Cave and Mark Abramson</sub>
+<p>Far from the deserts of the Middle East, the Army is instructing troops in Hawaii on the skills needed for a potential clash with China.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
