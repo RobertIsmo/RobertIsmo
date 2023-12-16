@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-The world in 2023 is a pretty chaotic time. In Israel, authorities recently found out that Hamas was using a money machine to fund weapons and plots against them. Meanwhile, the debt problem keeps growing as the US is no longer the pre-eminent superpower. In Florida, a conservative group called Moms for Liberty lost its influence due to scandals and losses. On the Texas border, folk healers are passing down ancient practices. In Ukraine, members of the military are on suicide missions to cross a river. Actor Matthew Perry&#39;s autopsy revealed he died due to acute effects of ketamine. Psychedelics like ketamine and psilocybin are becoming accepted therapy but can be dangerous for some people. Rudolph W. Giuliani was ordered by a jury to pay $148 million in damages for defaming election workers in Georgia after trying to steal votes from Donald J, Trump. Iran&#39;s clerics are not happy with a viral dance and &#39;happiness campaign&#39; started by a 70-year-old fish market stall owner. Finally, if you&#39;re looking for gift ideas for Christmas this year, our experts have curated the best gifts so you can find something for everyone.</p>
+There are a lot of different news stories happening in the world right now. In Israel, there&#39;s a story about how Hamas was using money to fund weapons and to plot an attack. In the US, there is a story about how scandals are threatening the power of a conservative group and another about folk healers on the Texas border. In Ukraine, there&#39;s a story about soldiers who are frustrated by positive reports from Ukrainian officials after completing a difficult mission. On the business side, experts are talking about how the system to fix debt problems is broken. In art, there&#39;s an autopsy report on Matthew Perry which attributed his death to high levels of ketamine and an article explaining what it is. Additionally, there&#39;s a jury verdict ordering Rudolph Giuliani to pay $148 million to election workers he defamed in Washington DC. Finally, there&#39;s a viral dance and happiness campaign in Iran causing controversy with its clerics and here at home in New York there are articles coming out about African&#39;s changing French language and the best dishes in America.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Found the Hamas Money Machine Years Ago. Nobody Turned It Off.</h3>
@@ -69,7 +69,7 @@ The world in 2023 is a pretty chaotic time. In Israel, authorities recently foun
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Debt Problem Is Enormous, and the System for Fixing It Is Broken</h3>
+<h3>The Debt Problem Is Enormous. Experts Say the System for Fixing It Is Broken</h3>
 <sub>By Patricia Cohen</sub>
 <p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
@@ -98,11 +98,11 @@ The world in 2023 is a pretty chaotic time. In Israel, authorities recently foun
 <p>The medical examiner said drowning, coronary artery disease and the effects of an opioid also contributed to the death of the “Friends” actor, who was found in a hot tub in October.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Psychedelics Are a Promising Therapy, but They Can Be Dangerous for Some</h3>
-<sub>By Dana G. Smith</sub>
-<p>While drugs like ketamine and psilocybin are largely considered safe, here’s what to know about who should be cautious.  <a href="https://nyti.ms/3YDMgwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>What to Know About Ketamine</h3>
+<sub>By Andrew Jacobs</sub>
+<p>Matthew Perry’s death was attributed to the effects of high levels of the anesthetic drug, which is increasingly used to treat depression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury Orders Giuliani to Pay $148 Million to Election Workers He Defamed</h3>
