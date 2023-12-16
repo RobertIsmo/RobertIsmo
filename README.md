@@ -60,36 +60,42 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 15, Central Standard Time</p>
 <p>
-A lot has been going on in the world recently. In the US, there are concerns of rising housing prices and homelessness, as well as the debate surrounding the Supreme Court&#39;s overturning of Roe v. Wade. The US government is also investigating the disappearance of material from the Russia investigation after Trump left office. Meanwhile, in terms of global news, there have been reports of former hostages recounting their ordeals in Israel and Ukraine having to deal with harsh military recruitment tactics among other things. Lastly, there was news about the rising stock market prices due to the Fed&#39;s pivoting too soon.</p>
+There are a lot of things going on in the world right now. In the Middle East, the US is trying to get Israel to scale back its war in Gaza, but the options to do so come with a political cost for President Biden. Meanwhile, a former hostage of Hamas recently recounted her 7-week ordeal which included the death of her husband and eldest daughter. Closer to home, Rudolph W. Giuliani was ordered to pay $148 million in damages for defaming two election workers who were wrongfully accused by him of trying to steal votes from Donald J. Trump in Georgia. On a lighter note, the medical examiner released an autopsy report on actor Matthew Perry that concluded he died due to acute effects of ketamine as well as drowning and coronary artery disease. Additionally, health experts have discovered lead levels in children&#39;s applesauce may be traced to cinnamon additives produced outside the US - resulting in advocates urging mandatory testing for lead in food. Finally, there is some behind-the-scenes information around the Supreme Court overturning Roe v. Wade and investigations into material linked to the Russia investigation going missing after Donald Trump left office.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>This Season’s Hottest Shopping Trend: Falling Prices</h3>
-<sub>By Ben Casselman, Jordyn Holman and Jeanna Smialek</sub>
-<p>As inflation slows, prices for some physical goods are falling outright, which could lift consumers’ spirits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>American Dream Deferred: Why Housing Prices May Pose a Problem for Biden</h3>
-<sub>By Jeanna Smialek, Jim Tankersley and Conor Dougherty</sub>
-<p>Buying a home is a less attainable goal for many young people, and rents are expensive. Could that dog Democrats in the 2024 election?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Debate on Wall Street: Did the Fed Pivot Too Soon?</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>The S&amp;P 500 is on the cusp of a new record high following the central bank’s dovish forecast on interest rates. But some market watchers are questioning the durability of the rally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Homelessness Rose to Record Level This Year, Government Says</h3>
-<sub>By Jason DeParle</sub>
-<p>The rise of 12 percent was the biggest one-year jump since the federal government began an annual head count in 2007.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The U.S. Wants Israel to Scale Back the Gaza War. What Leverage Does It Have?</h3>
+<sub>By Katie Rogers</sub>
+<p>There are ways to persuade Israel to shift its strategy in Gaza, but each option carries a political and diplomatic cost for President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Apology, Tears and Terror: A Former Hostage Recounts a 7-Week Ordeal</h3>
 <sub>By Anat Schwartz and Avishag Shaar-Yashuv</sub>
 <p>Chen Goldstein-Almog and three of her children were freed in late November. Her husband and eldest daughter were killed in Hamas’s Oct. 7 attacks in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Jury Orders Giuliani to Pay $148 Million to Election Workers He Defamed</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Ruby Freeman and Shaye Moss, wrongfully accused by Rudolph W. Giuliani of having tried to steal votes from Donald J. Trump in Georgia, were awarded the damages by a federal court in Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Matthew Perry Died of ‘Acute Effects of Ketamine,’ Autopsy Says</h3>
+<sub>By Matt Stevens and Derrick Bryson Taylor</sub>
+<p>The medical examiner said drowning, coronary artery disease and the effects of an opioid also contributed to the death of the “Friends” actor, who was found in a hot tub in October.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Psychedelics Are a Promising Therapy, but They Can Be Dangerous for Some</h3>
+<sub>By Dana G. Smith</sub>
+<p>While drugs like ketamine and psilocybin are largely considered safe, here’s what to know about who should be cautious.  <a href="https://nyti.ms/3YDMgwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senators Hold Up 43 Biden Diplomatic Nominees as Crises Roil World</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>The State Department says the monthslong blockade has damaged U.S. national security. Several Republican senators have objected to advancing the slate of nominees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +122,16 @@ A lot has been going on in the world recently. In the US, there are concerns of 
 <p>Tamar Shamir and Mohamed Abu Jafar tried for years to bring Jews and Palestinians together. Now they wonder if they ever understood each other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky Returns to Ukraine With Little Aid and a Raft of Needs</h3>
-<sub>By Constant Méheut and Andrew E. Kramer</sub>
-<p>The European Union’s willingness to open accession talks will lift morale, but the more immediate prospects for financial support from allies is sobering.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘People Snatchers’: Ukraine’s Recruiters Use Harsh Tactics to Fill Ranks</h3>
-<sub>By Thomas Gibbons-Neff</sub>
-<p>Ukrainian men are reporting incidents of wrongful draft notices, unprofessional medical commissions and coercive mobilization tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Lead Levels in Children’s Applesauce May Be Traced to Cinnamon Additive</h3>
+<sub>By Christina Jewett and Julie Creswell</sub>
+<p>The F.D.A. is investigating the sources of cinnamon and other ingredients produced outside the U.S. as the possible cause of lead poisoning in dozens of children. Advocates are urging mandatory testing of lead in food.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A ‘Historical and Hysterical’ House Flees After a Tumultuous Year</h3>
-<sub>By Carl Hulse</sub>
-<p>An ousted speaker, internal divisions and a race to the exits characterized the first year of the chaos-wracked Republican majority.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>DeSantis Says Trump Will Declare Iowa Caucuses Stolen if He Loses</h3>
+<sub>By Nicholas Nehamas</sub>
+<p>The former president “will try to delegitimize the results,” Mr. DeSantis said while campaigning in New Hampshire on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
