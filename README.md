@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-There is some tension in the Middle East, as the U.S. national security adviser paid a visit to Israel, which had recently killed three of its own hostages accidentally during the Gaza War. In the U.S., disputes have arisen between former president Trump and Rudy Giuliani, with the latter being ordered to pay $148 million to election workers whom he wrongfully accused of trying to steal votes. Matthew Perry, known for his role in &quot;Friends&quot;, died of acute effects of ketamine according to his autopsy. Meanwhile, psychedelics are being researched for potential positive psychiatric effects, but also have dangerous side effects on certain individuals. In politics in the U.S., 43 Biden diplomatic nominees are being blocked by senators while a missing Russia investigation material may have been taken when Trump left office. There also has been a lead-poisoning scare due to a cinnamon additive found in children’s applesauce and Florida governor DeSantis speculates that Trump will declare Iowa caucus stolen if he loses casting doubt about the legitimacy of the result. Finally, readers had strong reactions against our top 10 list of films and TV shows, suggesting alternatives such as &quot;Billions&quot; and &quot;The Holdovers&quot;.</p>
+Recent events around the world include a broken U.S financial system, millions of money flowing into Hamas terror activities, a jury ordering Rudy Giuliani to pay $148 million for defaming election workers, folk healers in Texas bringing modern touches to ancient practices, Ukrainian Marine on &#39;suicide mission&#39; crossing the Dnipro River, autopsy results determining Matthew Perry died of ketamine acute effects, investigations of sudden celebrity deaths in LA, a sex scandal shaking Moms for Liberty group and its influence waning, a viral dance and &#39;happiness campaign&#39; causing frustration among Iran&#39;s clerics, tips on holiday gift shopping and The New York Times Faces quiz.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Israel, U.S. Aide Denies Talk of a Rift Over Gaza War</h3>
-<sub>By Yara Bayoumy and Thomas Fuller</sub>
-<p>“We’re not here to tell anybody, ‘You must do X, you must do Y,’” the national security adviser said. His visit came as the Israeli military said it had accidentally killed three Israeli hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Debt Problem Is Enormous, and the System for Fixing It Is Broken</h3>
+<sub>By Patricia Cohen</sub>
+<p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Apology, Tears and Terror: A Former Hostage Recounts a 7-Week Ordeal</h3>
-<sub>By Anat Schwartz and Avishag Shaar-Yashuv</sub>
-<p>Chen Goldstein-Almog and three of her children were freed in late November. Her husband and eldest daughter were killed in Hamas’s Oct. 7 attacks in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<h3>Israel Found the Hamas Money Machine Years Ago. Nobody Turned It Off.</h3>
+<sub>By Jo Becker and Justin Scheck</sub>
+<p>Agents worried as millions poured in. Hamas bought weapons and plotted an attack. The authorities now say the money helped lay the groundwork for the Oct. 7 assault on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Jury Orders Giuliani to Pay $148 Million to Election Workers He Defamed</h3>
@@ -80,23 +80,35 @@ There is some tension in the Middle East, as the U.S. national security adviser 
 <p>Ruby Freeman and Shaye Moss, wrongfully accused by Rudolph W. Giuliani of having tried to steal votes from Donald J. Trump in Georgia, were awarded the damages by a federal court in Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>On the Texas Border, Folk Healers Bring Modern Touches to Their Ancient Practice</h3>
+<sub>By Edgar Sandoval and Verónica Gabriela Cárdenas</sub>
+<p>Known as curanderas, they carry on a tradition long revered in local Hispanic culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Marines on ‘Suicide Mission’ in Crossing the Dnipro River</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko, Olha Konovalova and Mauricio Lima</sub>
+<p>Soldiers frustrated by positive reports from Ukrainian officials break their silence, describing the effort as brutalizing and, ultimately, futile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Matthew Perry Died of ‘Acute Effects of Ketamine,’ Autopsy Says</h3>
 <sub>By Matt Stevens and Derrick Bryson Taylor</sub>
 <p>The medical examiner said drowning, coronary artery disease and the effects of an opioid also contributed to the death of the “Friends” actor, who was found in a hot tub in October.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Psychedelics Are a Promising Therapy, but They Can Be Dangerous for Some</h3>
-<sub>By Dana G. Smith</sub>
-<p>While drugs like ketamine and psilocybin are largely considered safe, here’s what to know about who should be cautious.  <a href="https://nyti.ms/3YDMgwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
+<sub>By Corina Knoll</sub>
+<p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senators Hold Up 43 Biden Diplomatic Nominees as Crises Roil World</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>The State Department says the monthslong blockade has damaged U.S. national security. Several Republican senators have objected to advancing the slate of nominees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
+<sub>By Lisa Lerer and Patricia Mazzei</sub>
+<p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</h3>
@@ -105,34 +117,22 @@ There is some tension in the Middle East, as the U.S. national security adviser 
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Behind the Scenes at the Dismantling of Roe v. Wade</h3>
-<sub>By Jodi Kantor and Adam Liptak</sub>
-<p>This is the inside story of how the Supreme Court overturned the constitutional right to abortion — shooting down compromise and testing the boundaries of how the law is decided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>2023 Holiday Gift Guide</h3>
+<sub></sub>
+<p>Wondering what to get for all the beloved but quirky, picky, fancy, practical or eccentric people in your life? Our experts have curated the best gifts to help you check everyone off your list.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>How Africans are changing the French language. Also, returning to the “perfect beach” and the 23 best dishes in America this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Material From Russia Investigation Went Missing as Trump Left Office</h3>
-<sub>By Maggie Haberman, Julian E. Barnes, Charlie Savage and Jonathan Swan</sub>
-<p>A binder given to the Trump White House contained details that intelligence agencies believe could reveal secret sources and methods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Lead Levels in Children’s Applesauce May Be Traced to Cinnamon Additive</h3>
-<sub>By Christina Jewett and Julie Creswell</sub>
-<p>The F.D.A. is investigating the sources of cinnamon and other ingredients produced outside the U.S. as the possible cause of lead poisoning in dozens of children. Advocates are urging mandatory testing of lead in food.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Says Trump Will Declare Iowa Caucuses Stolen if He Loses</h3>
-<sub>By Nicholas Nehamas</sub>
-<p>The former president “will try to delegitimize the results,” Mr. DeSantis said while campaigning in New Hampshire on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>‘Barbie’ Didn’t Make Our Top 10. Readers Spoke Up.</h3>
-<sub>By Robin Kawakami</sub>
-<p>When our critics shared their top film, TV, pop music and theater picks, readers suggested “Billions,” “The Holdovers,” “Sabbath’s Theater” and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The 2023 Faces Quiz</h3>
+<sub>Produced by Ashley Wu, Lyna Bentahar, Matthew Cullen, Desiree Ibekwe, Lauren Jackson, Sean Kawasaki-Culligan, David Leonhardt, Brent Lewis, German Lopez, John-Michael Murphy, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
+<p>See how well you know the defining personalities of 2023 with The New York Times Faces Quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
