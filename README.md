@@ -58,20 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 15, Central Standard Time</p>
+<p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of tension between Israel and the Gaza Strip. The US government is trying to persuade Israel to scale back in the conflict, but each option carries potential political and diplomatic consequences. On a more personal level, a hostage recently recounted her experience of being held for 7 weeks. 
+Many things are happening around the world right now. In Israel, a U.S. national security adviser is visiting to discuss the Gaza war, but it&#39;s been reported that the Israeli military accidentally killed three Israeli hostages. Meanwhile, a former hostage in Israel has shared her harrowing story of a seven-week ordeal.
 
-On the domestic side, Rudy Giuliani was recently ordered by a jury to pay $148 million for libelous statements he made regarding two election workers in Georgia. Unfortunately, former &#39;Friends&#39; actor Matthew Perry recently passed away due to Acute Effects of Ketamine. Additionally, there&#39;s tense debate about psychedelics being used as a potential therapy and its risk factors. 
+In the U.S., a federal court ruled that former Mayor Rudy Giuliani must pay $148 million to two election workers he wrongly accused of trying to steal votes. A former &quot;Friends&quot; actor recently passed away from acute effects of ketamine and an opioid overdose. People are also talking about psychedelics as a promising form of therapy, but potential safety risks exist too.
 
-In the political front, several Republican senators have blocked 43 of Biden&#39;s nominees as foreign crises abound. It&#39;s also been revealed that the Supreme Court overturned Roe v. Wade behind closed doors, and the investigation material from Trump&#39;s presidency has since gone missing. 
+At the same time, 43 Biden diplomatic nominees have been held up by some Republican senators, which the State Department says has damaged America&#39;s national security. A viral dance has also sparked controversy in Iran after a 70-year-old market stall owner was seen grooving in public — against Iranian laws.
 
-As for food safety issues, recent reports have suggested that children&#39;s applesauce could possibly have lead due to an unlabelled cinnamon additive -- leading advocacy groups to urge mandatory testing of lead levels in food. Finally, Florida governor DeSantis has said that Trump might claim Iowa caucuses are stolen if he were to lose.</p>
+Finally, there have been recent reports that some materials from the Russia investigation went missing as Trump left office, and Florida Gov. DeSantis commented on Trump possibly claiming the Iowa caucuses were stolen if he loses this year. Then our critics published their top film, TV, pop music and theater picks and readers spoke up!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. Wants Israel to Scale Back the Gaza War. What Leverage Does It Have?</h3>
-<sub>By Katie Rogers</sub>
-<p>There are ways to persuade Israel to shift its strategy in Gaza, but each option carries a political and diplomatic cost for President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Israel, U.S. Aide Denies Talk of a Rift Over Gaza War</h3>
+<sub>By Yara Bayoumy and Thomas Fuller</sub>
+<p>“We’re not here to tell anybody, ‘You must do X, you must do Y,’” the national security adviser said. His visit came as the Israeli military said it had accidentally killed three Israeli hostages.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,6 +104,12 @@ As for food safety issues, recent reports have suggested that children&#39;s app
 <p>The State Department says the monthslong blockade has damaged U.S. national security. Several Republican senators have objected to advancing the slate of nominees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</h3>
+<sub>By Farnaz Fassihi and Leily Nikounazar</sub>
+<p>It all started when a 70-year-old fish market stall owner nicknamed “Booghy” was grooving in public, in violation of Iranian law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Behind the Scenes at the Dismantling of Roe v. Wade</h3>
 <sub>By Jodi Kantor and Adam Liptak</sub>
@@ -111,22 +117,10 @@ As for food safety issues, recent reports have suggested that children&#39;s app
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>5 Takeaways From Inside the Overturning of Roe v. Wade</h3>
-<sub>By Jodi Kantor and Adam Liptak</sub>
-<p>A Times investigation reveals the behind-the-scenes story of how the Supreme Court abolished the constitutional right to abortion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Material From Russia Investigation Went Missing as Trump Left Office</h3>
 <sub>By Maggie Haberman, Julian E. Barnes, Charlie Savage and Jonathan Swan</sub>
 <p>A binder given to the Trump White House contained details that intelligence agencies believe could reveal secret sources and methods.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>They Worked Together as Peace Activists. Oct. 7 Changed Everything.</h3>
-<sub>By Susan Dominus</sub>
-<p>Tamar Shamir and Mohamed Abu Jafar tried for years to bring Jews and Palestinians together. Now they wonder if they ever understood each other.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Lead Levels in Children’s Applesauce May Be Traced to Cinnamon Additive</h3>
@@ -138,6 +132,12 @@ As for food safety issues, recent reports have suggested that children&#39;s app
 <h3>DeSantis Says Trump Will Declare Iowa Caucuses Stolen if He Loses</h3>
 <sub>By Nicholas Nehamas</sub>
 <p>The former president “will try to delegitimize the results,” Mr. DeSantis said while campaigning in New Hampshire on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>‘Barbie’ Didn’t Make Our Top 10. Readers Spoke Up.</h3>
+<sub>By Robin Kawakami</sub>
+<p>When our critics shared their top film, TV, pop music and theater picks, readers suggested “Billions,” “The Holdovers,” “Sabbath’s Theater” and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
