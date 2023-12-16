@@ -60,25 +60,25 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-Recent events around the world include a broken U.S financial system, millions of money flowing into Hamas terror activities, a jury ordering Rudy Giuliani to pay $148 million for defaming election workers, folk healers in Texas bringing modern touches to ancient practices, Ukrainian Marine on &#39;suicide mission&#39; crossing the Dnipro River, autopsy results determining Matthew Perry died of ketamine acute effects, investigations of sudden celebrity deaths in LA, a sex scandal shaking Moms for Liberty group and its influence waning, a viral dance and &#39;happiness campaign&#39; causing frustration among Iran&#39;s clerics, tips on holiday gift shopping and The New York Times Faces quiz.</p>
+The world in 2023 is a pretty chaotic time. In Israel, authorities recently found out that Hamas was using a money machine to fund weapons and plots against them. Meanwhile, the debt problem keeps growing as the US is no longer the pre-eminent superpower. In Florida, a conservative group called Moms for Liberty lost its influence due to scandals and losses. On the Texas border, folk healers are passing down ancient practices. In Ukraine, members of the military are on suicide missions to cross a river. Actor Matthew Perry&#39;s autopsy revealed he died due to acute effects of ketamine. Psychedelics like ketamine and psilocybin are becoming accepted therapy but can be dangerous for some people. Rudolph W. Giuliani was ordered by a jury to pay $148 million in damages for defaming election workers in Georgia after trying to steal votes from Donald J, Trump. Iran&#39;s clerics are not happy with a viral dance and &#39;happiness campaign&#39; started by a 70-year-old fish market stall owner. Finally, if you&#39;re looking for gift ideas for Christmas this year, our experts have curated the best gifts so you can find something for everyone.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Debt Problem Is Enormous, and the System for Fixing It Is Broken</h3>
-<sub>By Patricia Cohen</sub>
-<p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Found the Hamas Money Machine Years Ago. Nobody Turned It Off.</h3>
 <sub>By Jo Becker and Justin Scheck</sub>
 <p>Agents worried as millions poured in. Hamas bought weapons and plotted an attack. The authorities now say the money helped lay the groundwork for the Oct. 7 assault on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Debt Problem Is Enormous, and the System for Fixing It Is Broken</h3>
+<sub>By Patricia Cohen</sub>
+<p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Orders Giuliani to Pay $148 Million to Election Workers He Defamed</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Ruby Freeman and Shaye Moss, wrongfully accused by Rudolph W. Giuliani of having tried to steal votes from Donald J. Trump in Georgia, were awarded the damages by a federal court in Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
+<sub>By Lisa Lerer and Patricia Mazzei</sub>
+<p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>On the Texas Border, Folk Healers Bring Modern Touches to Their Ancient Practice</h3>
@@ -98,17 +98,17 @@ Recent events around the world include a broken U.S financial system, millions o
 <p>The medical examiner said drowning, coronary artery disease and the effects of an opioid also contributed to the death of the “Friends” actor, who was found in a hot tub in October.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>In Los Angeles, the ‘Coroner to the Stars’ Has the Last Word</h3>
-<sub>By Corina Knoll</sub>
-<p>There is no medical examiner’s office in the world like the one in Los Angeles County, where investigations of sudden celebrity deaths come with the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 10, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Psychedelics Are a Promising Therapy, but They Can Be Dangerous for Some</h3>
+<sub>By Dana G. Smith</sub>
+<p>While drugs like ketamine and psilocybin are largely considered safe, here’s what to know about who should be cautious.  <a href="https://nyti.ms/3YDMgwz"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, February 10, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
-<sub>By Lisa Lerer and Patricia Mazzei</sub>
-<p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<h3>Jury Orders Giuliani to Pay $148 Million to Election Workers He Defamed</h3>
+<sub>By Eileen Sullivan</sub>
+<p>Ruby Freeman and Shaye Moss, wrongfully accused by Rudolph W. Giuliani of having tried to steal votes from Donald J. Trump in Georgia, were awarded the damages by a federal court in Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</h3>
