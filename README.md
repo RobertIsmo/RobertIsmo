@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 15, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the Middle East, the US is trying to get Israel to scale back its war in Gaza, but the options to do so come with a political cost for President Biden. Meanwhile, a former hostage of Hamas recently recounted her 7-week ordeal which included the death of her husband and eldest daughter. Closer to home, Rudolph W. Giuliani was ordered to pay $148 million in damages for defaming two election workers who were wrongfully accused by him of trying to steal votes from Donald J. Trump in Georgia. On a lighter note, the medical examiner released an autopsy report on actor Matthew Perry that concluded he died due to acute effects of ketamine as well as drowning and coronary artery disease. Additionally, health experts have discovered lead levels in children&#39;s applesauce may be traced to cinnamon additives produced outside the US - resulting in advocates urging mandatory testing for lead in food. Finally, there is some behind-the-scenes information around the Supreme Court overturning Roe v. Wade and investigations into material linked to the Russia investigation going missing after Donald Trump left office.</p>
+Right now, there&#39;s a lot of tension between Israel and the Gaza Strip. The US government is trying to persuade Israel to scale back in the conflict, but each option carries potential political and diplomatic consequences. On a more personal level, a hostage recently recounted her experience of being held for 7 weeks. 
+
+On the domestic side, Rudy Giuliani was recently ordered by a jury to pay $148 million for libelous statements he made regarding two election workers in Georgia. Unfortunately, former &#39;Friends&#39; actor Matthew Perry recently passed away due to Acute Effects of Ketamine. Additionally, there&#39;s tense debate about psychedelics being used as a potential therapy and its risk factors. 
+
+In the political front, several Republican senators have blocked 43 of Biden&#39;s nominees as foreign crises abound. It&#39;s also been revealed that the Supreme Court overturned Roe v. Wade behind closed doors, and the investigation material from Trump&#39;s presidency has since gone missing. 
+
+As for food safety issues, recent reports have suggested that children&#39;s applesauce could possibly have lead due to an unlabelled cinnamon additive -- leading advocacy groups to urge mandatory testing of lead levels in food. Finally, Florida governor DeSantis has said that Trump might claim Iowa caucuses are stolen if he were to lose.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The U.S. Wants Israel to Scale Back the Gaza War. What Leverage Does It Have?</h3>
