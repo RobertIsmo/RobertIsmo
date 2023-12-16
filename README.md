@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-Many things are happening around the world right now. In Israel, a U.S. national security adviser is visiting to discuss the Gaza war, but it&#39;s been reported that the Israeli military accidentally killed three Israeli hostages. Meanwhile, a former hostage in Israel has shared her harrowing story of a seven-week ordeal.
-
-In the U.S., a federal court ruled that former Mayor Rudy Giuliani must pay $148 million to two election workers he wrongly accused of trying to steal votes. A former &quot;Friends&quot; actor recently passed away from acute effects of ketamine and an opioid overdose. People are also talking about psychedelics as a promising form of therapy, but potential safety risks exist too.
-
-At the same time, 43 Biden diplomatic nominees have been held up by some Republican senators, which the State Department says has damaged America&#39;s national security. A viral dance has also sparked controversy in Iran after a 70-year-old market stall owner was seen grooving in public — against Iranian laws.
-
-Finally, there have been recent reports that some materials from the Russia investigation went missing as Trump left office, and Florida Gov. DeSantis commented on Trump possibly claiming the Iowa caucuses were stolen if he loses this year. Then our critics published their top film, TV, pop music and theater picks and readers spoke up!</p>
+There is some tension in the Middle East, as the U.S. national security adviser paid a visit to Israel, which had recently killed three of its own hostages accidentally during the Gaza War. In the U.S., disputes have arisen between former president Trump and Rudy Giuliani, with the latter being ordered to pay $148 million to election workers whom he wrongfully accused of trying to steal votes. Matthew Perry, known for his role in &quot;Friends&quot;, died of acute effects of ketamine according to his autopsy. Meanwhile, psychedelics are being researched for potential positive psychiatric effects, but also have dangerous side effects on certain individuals. In politics in the U.S., 43 Biden diplomatic nominees are being blocked by senators while a missing Russia investigation material may have been taken when Trump left office. There also has been a lead-poisoning scare due to a cinnamon additive found in children’s applesauce and Florida governor DeSantis speculates that Trump will declare Iowa caucus stolen if he loses casting doubt about the legitimacy of the result. Finally, readers had strong reactions against our top 10 list of films and TV shows, suggesting alternatives such as &quot;Billions&quot; and &quot;The Holdovers&quot;.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Israel, U.S. Aide Denies Talk of a Rift Over Gaza War</h3>
