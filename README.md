@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-There are a lot of different news stories happening in the world right now. In Israel, there&#39;s a story about how Hamas was using money to fund weapons and to plot an attack. In the US, there is a story about how scandals are threatening the power of a conservative group and another about folk healers on the Texas border. In Ukraine, there&#39;s a story about soldiers who are frustrated by positive reports from Ukrainian officials after completing a difficult mission. On the business side, experts are talking about how the system to fix debt problems is broken. In art, there&#39;s an autopsy report on Matthew Perry which attributed his death to high levels of ketamine and an article explaining what it is. Additionally, there&#39;s a jury verdict ordering Rudolph Giuliani to pay $148 million to election workers he defamed in Washington DC. Finally, there&#39;s a viral dance and happiness campaign in Iran causing controversy with its clerics and here at home in New York there are articles coming out about African&#39;s changing French language and the best dishes in America.</p>
+There have been a lot of interesting things happening in the world lately. For example, Israeli authorities recently discovered that Hamas had been using a secret money machine to fund their weapons and launch attacks on Israel. In the business world, economists are pointing out that the system of financial safeguards created by the US is no longer making sense due to climate change and change in pre-eminent superpower status. 
+
+In the US, many Harvard Jews are wondering what their future holds following a trying week at the university. In addition, the conservative group Moms for Liberty is losing influence and power because of recent scandals and losses. On immigration politics, under the Biden administration things seem to be shifting to the right. 
+
+On other news, electric vehicle buyers may no longer qualify for federal tax credits in 2024 due to certain sourcing regulations. Also, an Emirati company wants to test a form of trading emission reductions even without regulations being agreed upon yet. 
+
+In Ukraine, Marines describe crossing the Dnipro River as a “suicide mission” to try and advance their position against Russian occupation. And following Matthew Perry’s death last October, autopsy reports say he died of “acute effects of ketamine” which is an anesthetic drug increasingly used for treating depression. In addition, an elderly Iranian man has sparked a new “happiness campaign” after his viral dance was seen by many in violation of law.  
+
+Finally, if you&#39;re already busy thinking about holiday gifts for next year – our expert curators have your back with their 2023 Holiday Gift Guide!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Found the Hamas Money Machine Years Ago. Nobody Turned It Off.</h3>
@@ -75,15 +83,33 @@ There are a lot of different news stories happening in the world right now. In I
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Feeling Alone and Estranged, Many Jews at Harvard Wonder What’s Next</h3>
+<sub>By Anemona Hartocollis, Jeremy W. Peters and Dana Goldstein</sub>
+<p>After one of the most trying weeks in the university’s recent history, some students question whether they have a place on campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
 <sub>By Lisa Lerer and Patricia Mazzei</sub>
 <p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>On the Texas Border, Folk Healers Bring Modern Touches to Their Ancient Practice</h3>
-<sub>By Edgar Sandoval and Verónica Gabriela Cárdenas</sub>
-<p>Known as curanderas, they carry on a tradition long revered in local Hispanic culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Biden’s Border Negotiations Mark Seismic Shift on Immigration Politics</h3>
+<sub>By Zolan Kanno-Youngs</sub>
+<p>The discussions over the southern border show how drastically the politics of immigration have shifted to the right in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Fewer Electric Vehicles Will Qualify for Federal Tax Credits in 2024</h3>
+<sub>By Jack Ewing</sub>
+<p>Purchases of popular models like the Tesla Model 3 and the Ford Mustang Mach-E may no longer entitle buyers to tax savings because the cars do not meet tougher sourcing requirements.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Carbon Markets Are in Limbo. That’s Not Stopping This Firm.</h3>
+<sub>By Manuela Andreoni and Max Bearak</sub>
+<p>An Emirati company wants to broker a nascent market in which nations trade emission reductions even before regulations are agreed upon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,12 +130,6 @@ There are a lot of different news stories happening in the world right now. In I
 <p>Matthew Perry’s death was attributed to the effects of high levels of the anesthetic drug, which is increasingly used to treat depression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jury Orders Giuliani to Pay $148 Million to Election Workers He Defamed</h3>
-<sub>By Eileen Sullivan</sub>
-<p>Ruby Freeman and Shaye Moss, wrongfully accused by Rudolph W. Giuliani of having tried to steal votes from Donald J. Trump in Georgia, were awarded the damages by a federal court in Washington.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</h3>
 <sub>By Farnaz Fassihi and Leily Nikounazar</sub>
@@ -121,18 +141,6 @@ There are a lot of different news stories happening in the world right now. In I
 <sub></sub>
 <p>Wondering what to get for all the beloved but quirky, picky, fancy, practical or eccentric people in your life? Our experts have curated the best gifts to help you check everyone off your list.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>How Africans are changing the French language. Also, returning to the “perfect beach” and the 23 best dishes in America this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The 2023 Faces Quiz</h3>
-<sub>Produced by Ashley Wu, Lyna Bentahar, Matthew Cullen, Desiree Ibekwe, Lauren Jackson, Sean Kawasaki-Culligan, David Leonhardt, Brent Lewis, German Lopez, John-Michael Murphy, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
-<p>See how well you know the defining personalities of 2023 with The New York Times Faces Quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
