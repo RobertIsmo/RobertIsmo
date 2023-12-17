@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In Israel, there have been reports of friendly-fire killing of hostages, forcing them to reconsider their strategy in Gaza. Closer to home, Jews at Harvard are facing feelings of loneliness and estrangement. Meanwhile, Jeff Roe, the top strategist for a failed Florida Governor&#39;s PAC, resigned after a series of shake-ups. Trump is citing Putin to argue 91 felony charges against him are just politically motivated persecution. Economists are discussing alternatives to financial safeguards created when the US was an economic superpower and climate change wasn&#39;t even on the agenda. India has apps even for ancient practices like instilling Hindu values in fetuses. The debate over immigration politics has shifted right in the US due to Biden&#39;s border negotiations. Teenagers are writing essays about money and work for college applications. New Zealand is reconsidering pro-Maori policies as it shifts rightward. Finally, Disney&#39;s cultural dominance isn&#39;t what it used to be, as they celebrate their 100th anniversary and have no plans to remake one of their rare critical hits from the past.</p>
+There&#39;s a lot of news happening around the world right now. In Israel, there has been an admission of mistakes after troops killed three unarmed hostages who were holding a white flag, suggesting they may need to reconsider their strategy. Across the pond, France and Germany have jointly called for a sustainable cease-fire in an apparent shift. Over in Russia, President Putin has taken advantage of a western boycott to give economic benefits to his allies and government. Meanwhile, African immigrants in France are changing its language, and in the Democratic Republic of Congo six million people have died and more displacement is happening due to ongoing warfare. Closer to home, there is discussion over abortion rights and pro-Israeli speech being suppressed on college campuses, with many Jewish students feeling alienated. Finally, The New York Times is running a quiz to test people&#39;s knowledge of the key personalities of 2023.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
@@ -74,65 +74,65 @@ There&#39;s a lot going on in the world right now! In Israel, there have been re
 <p>The military said the mistaken killing of the three men, who had been shirtless, was a violation of its rules of engagement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In an apparent shift, Britain and Germany call for a ‘sustainable cease-fire.’</h3>
+<sub>By Steven Erlanger</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Putin Turned a Western Boycott Into a Bonanza</h3>
+<sub>By Paul Sonne, Rebecca R. Ruiz and Nico Chilla</sub>
+<p>If companies want to leave Russia, the president is setting the terms — in ways that benefit his government, his elites and his war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>There’s No Christmas Lunch Like a Korean American Church Lunch</h3>
+<sub>By Eric Kim</sub>
+<p>After-service meals have long been key spaces for first-generation immigrants establishing themselves in the United States. But younger Koreans are finding less need for them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where Will Abortion Rights Land?</h3>
+<sub>By Kate Zernike</sub>
+<p>Post-Roe voting might bring America to a new consensus — but only if the voters keep getting their say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Campus Crackdowns Have Chilling Effect on Pro-Palestinian Speech</h3>
+<sub>By Vimal Patel and Anna Betts</sub>
+<p>Universities are under tremendous pressure to stamp out antisemitism, but some say that is causing fear and curbing free expression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feeling Alone and Estranged, Many Jews at Harvard Wonder What’s Next</h3>
 <sub>By Anemona Hartocollis, Jeremy W. Peters and Dana Goldstein</sub>
 <p>After one of the most trying weeks in the university’s recent history, some students question whether they have a place on campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Jeff Roe, Top Strategist for Star-Crossed DeSantis Super PAC, Resigns</h3>
-<sub>By Maggie Haberman, Shane Goldmacher, Nicholas Nehamas and Jonathan Swan</sub>
-<p>Mr. Roe, who helped lead Never Back Down, the super PAC behind the Florida governor’s presidential campaign, resigned Saturday, the latest shake-up in the group.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump, Quoting Putin, Declares Indictments ‘Politically Motivated Persecution’</h3>
-<sub>By Maggie Haberman and Michael Gold</sub>
-<p>The former president cited comments by the Russian leader to argue the 91 felony charges he is facing undermine the United States’ claim to be the world leader on democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Debt Problem Is Enormous. Experts Say the System for Fixing It Is Broken</h3>
-<sub>By Patricia Cohen</sub>
-<p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In India, There’s an App for Everything. Even Dream Babies.</h3>
-<sub>By Mujib Mashal and Hari Kumar</sub>
-<p>Startups big and small are adding a modern touch to the ancient practice of instilling Hindu values starting in the womb.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>The Overlooked Crisis in Congo: ‘We Live in War’</h3>
+<sub>By Declan Walsh and Arlette Bashizi</sub>
+<p>Six million have died, and more than six million are displaced after decades of fighting and the ensuing humanitarian crisis in the eastern region of the Democratic Republic of Congo, drawing in neighbors, mercenaries and militias. An upcoming election is inflaming tempers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Seven Things We Learned Analyzing 515 Million Wordles</h3>
+<sub>By Josh Katz and Aatish Bhatia</sub>
+<p>Maybe it’s time to say goodbye to ADIEU?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>How Africans are changing the French language. Also, returning to the “perfect beach” and the 23 best dishes in America this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden’s Border Negotiations Mark Seismic Shift on Immigration Politics</h3>
-<sub>By Zolan Kanno-Youngs</sub>
-<p>The discussions over the southern border show how drastically the politics of immigration have shifted to the right in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Chaos, Injustice and Joy: This Year’s College Essays About Money</h3>
-<sub>By Ron Lieber</sub>
-<p>Each year, we ask teenagers to send us their application essays about work, money or social class. Here are four, from California to Cambodia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Rightward Shift, New Zealand Reconsiders Pro-Maori Policies</h3>
-<sub>By Natasha Frost</sub>
-<p>The nation has long been lauded for trying to do right by its Indigenous people, but a new government may force a reckoning of Māori affairs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Disney Is a Language. Do We Still Speak It?</h3>
-<sub>By Alissa Wilkinson</sub>
-<p>As the company celebrates its 100th anniversary, its dominance as a generation-spanning cultural force no longer seems certain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>What ‘Pocahontas’ Tells Us About Disney, for Better and Worse</h3>
-<sub>By Brooks Barnes</sub>
-<p>The animated tale was both controversial and an Oscar-winning box office hit. It’s also one of the rare films from that era that the company isn’t eager to remake.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The 2023 Faces Quiz</h3>
+<sub>Produced by Ashley Wu, Lyna Bentahar, Matthew Cullen, Desiree Ibekwe, Lauren Jackson, Sean Kawasaki-Culligan, David Leonhardt, Brent Lewis, German Lopez, John-Michael Murphy, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
+<p>See how well you know the defining personalities of 2023 with The New York Times Faces Quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
