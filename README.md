@@ -60,15 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-There have been a lot of interesting things happening in the world lately. For example, Israeli authorities recently discovered that Hamas had been using a secret money machine to fund their weapons and launch attacks on Israel. In the business world, economists are pointing out that the system of financial safeguards created by the US is no longer making sense due to climate change and change in pre-eminent superpower status. 
-
-In the US, many Harvard Jews are wondering what their future holds following a trying week at the university. In addition, the conservative group Moms for Liberty is losing influence and power because of recent scandals and losses. On immigration politics, under the Biden administration things seem to be shifting to the right. 
-
-On other news, electric vehicle buyers may no longer qualify for federal tax credits in 2024 due to certain sourcing regulations. Also, an Emirati company wants to test a form of trading emission reductions even without regulations being agreed upon yet. 
-
-In Ukraine, Marines describe crossing the Dnipro River as a “suicide mission” to try and advance their position against Russian occupation. And following Matthew Perry’s death last October, autopsy reports say he died of “acute effects of ketamine” which is an anesthetic drug increasingly used for treating depression. In addition, an elderly Iranian man has sparked a new “happiness campaign” after his viral dance was seen by many in violation of law.  
-
-Finally, if you&#39;re already busy thinking about holiday gifts for next year – our expert curators have your back with their 2023 Holiday Gift Guide!</p>
+There have been some interesting developments worldwide recently. In Israel, millions of Euros were found flowing into the hands of Hamas, setting the stage for them to plan an attack. In India, startups are taking an ancient practice and modernizing it with apps to help pregnant women instill Hindu values in their unborn babies. In the United States, President Biden is having talks at the southern border that represent a dramatic shift in immigration politics since Trump&#39;s term. On a lighter note, there&#39;s a great article about teenagers writing college essays about money, and Disney just celebrated its 100th anniversary, though its future dominance as a cultural force may be uncertain.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Found the Hamas Money Machine Years Ago. Nobody Turned It Off.</h3>
@@ -76,11 +68,11 @@ Finally, if you&#39;re already busy thinking about holiday gifts for next year �
 <p>Agents worried as millions poured in. Hamas bought weapons and plotted an attack. The authorities now say the money helped lay the groundwork for the Oct. 7 assault on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Debt Problem Is Enormous. Experts Say the System for Fixing It Is Broken</h3>
-<sub>By Patricia Cohen</sub>
-<p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Israel Weighs How to Honor Oct. 7 Victims, Festival Exhibit Serves as ‘Hallowed Space’</h3>
+<sub>By Isabel Kershner</sub>
+<p>Israelis seeking to memorialize the hundreds killed in the Hamas assault on a trance festival, and help the survivors, retrieved hundreds of objects from the site.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feeling Alone and Estranged, Many Jews at Harvard Wonder What’s Next</h3>
@@ -93,6 +85,24 @@ Finally, if you&#39;re already busy thinking about holiday gifts for next year �
 <sub>By Lisa Lerer and Patricia Mazzei</sub>
 <p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump, Quoting Putin, Declares Indictments ‘Politically Motivated Persecution’</h3>
+<sub>By Maggie Haberman and Michael Gold</sub>
+<p>The former president cited comments by the Russian leader to argue the 91 felony charges he is facing undermine the United States’ claim to be the world leader on democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Debt Problem Is Enormous. Experts Say the System for Fixing It Is Broken</h3>
+<sub>By Patricia Cohen</sub>
+<p>Economists offer alternatives to financial safeguards created when the U.S. was the pre-eminent superpower and climate change wasn’t on the agenda.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In India, There’s an App for Everything. Even Dream Babies.</h3>
+<sub>By Mujib Mashal and Hari Kumar</sub>
+<p>Startups big and small are adding a modern touch to the ancient practice of instilling Hindu values starting in the womb.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden’s Border Negotiations Mark Seismic Shift on Immigration Politics</h3>
@@ -112,35 +122,17 @@ Finally, if you&#39;re already busy thinking about holiday gifts for next year �
 <p>An Emirati company wants to broker a nascent market in which nations trade emission reductions even before regulations are agreed upon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Marines on ‘Suicide Mission’ in Crossing the Dnipro River</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko, Olha Konovalova and Mauricio Lima</sub>
-<p>Soldiers frustrated by positive reports from Ukrainian officials break their silence, describing the effort as brutalizing and, ultimately, futile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Chaos, Injustice and Joy: This Year’s College Essays About Money</h3>
+<sub>By Ron Lieber</sub>
+<p>Each year, we ask teenagers to send us their application essays about work, money or social class. Here are four, from California to Cambodia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Matthew Perry Died of ‘Acute Effects of Ketamine,’ Autopsy Says</h3>
-<sub>By Matt Stevens and Derrick Bryson Taylor</sub>
-<p>The medical examiner said drowning, coronary artery disease and the effects of an opioid also contributed to the death of the “Friends” actor, who was found in a hot tub in October.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What to Know About Ketamine</h3>
-<sub>By Andrew Jacobs</sub>
-<p>Matthew Perry’s death was attributed to the effects of high levels of the anesthetic drug, which is increasingly used to treat depression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Disney Is a Language. Do We Still Speak It?</h3>
+<sub>By Alissa Wilkinson</sub>
+<p>As the company celebrates its 100th anniversary, its dominance as a generation-spanning cultural force no longer seems certain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Viral Dance and ‘Happiness Campaign’ Frustrates Iran’s Clerics</h3>
-<sub>By Farnaz Fassihi and Leily Nikounazar</sub>
-<p>It all started when a 70-year-old fish market stall owner nicknamed “Booghy” was grooving in public, in violation of Iranian law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>2023 Holiday Gift Guide</h3>
-<sub></sub>
-<p>Wondering what to get for all the beloved but quirky, picky, fancy, practical or eccentric people in your life? Our experts have curated the best gifts to help you check everyone off your list.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
