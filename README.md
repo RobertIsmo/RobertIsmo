@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-There&#39;s a lot of news happening around the world right now. In Israel, there has been an admission of mistakes after troops killed three unarmed hostages who were holding a white flag, suggesting they may need to reconsider their strategy. Across the pond, France and Germany have jointly called for a sustainable cease-fire in an apparent shift. Over in Russia, President Putin has taken advantage of a western boycott to give economic benefits to his allies and government. Meanwhile, African immigrants in France are changing its language, and in the Democratic Republic of Congo six million people have died and more displacement is happening due to ongoing warfare. Closer to home, there is discussion over abortion rights and pro-Israeli speech being suppressed on college campuses, with many Jewish students feeling alienated. Finally, The New York Times is running a quiz to test people&#39;s knowledge of the key personalities of 2023.</p>
+There is ongoing conflict in the Middle East between Israel and Hamas, with both sides suffering casualties and mounting civilian casualties. Britain and Germany are pushing for a “sustainable cease-fire” between the two sides. In Russia, President Putin has been using Western boycotts against the country to his financial advantage. In the Democratic Republic of Congo, there’s an overlooked crisis with more than 6 million people dead and displaced due to civil war. There is also tension between African immigrants and locals in upstate New York over an ultraexclusive ski resort.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
@@ -69,10 +69,10 @@ There&#39;s a lot of news happening around the world right now. In Israel, there
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says 3 Hostages Bore White Flag Before Being Killed by Troops</h3>
-<sub>By Aaron Boxerman, Ben Hubbard and Thomas Fuller</sub>
-<p>The military said the mistaken killing of the three men, who had been shirtless, was a violation of its rules of engagement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<h3>More Than 100 Members of This Gaza Clan Have Been Killed in War</h3>
+<sub>By Vivian Yee and Iyad Abuheweila</sub>
+<p>Family trees have been dismembered, and whole branches obliterated, since the war between Israel and Hamas broke out on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In an apparent shift, Britain and Germany call for a ‘sustainable cease-fire.’</h3>
@@ -123,16 +123,16 @@ There&#39;s a lot of news happening around the world right now. In Israel, there
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
+<sub>By Claire Fahy</sub>
+<p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>How Africans are changing the French language. Also, returning to the “perfect beach” and the 23 best dishes in America this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The 2023 Faces Quiz</h3>
-<sub>Produced by Ashley Wu, Lyna Bentahar, Matthew Cullen, Desiree Ibekwe, Lauren Jackson, Sean Kawasaki-Culligan, David Leonhardt, Brent Lewis, German Lopez, John-Michael Murphy, Ian Prasad Philbrick and Tom Wright-Piersanti</sub>
-<p>See how well you know the defining personalities of 2023 with The New York Times Faces Quiz.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 14, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
