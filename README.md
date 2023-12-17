@@ -60,17 +60,17 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-There are a lot of tough issues happening around the world right now. First, in Israel, there have been friendly-fire killings of hostages, so they have to take a new look at their strategy in Gaza. In Russia, President Putin has been setting terms that benefit his government and war efforts, even despite a Western boycott. Hungary has also been undermining efforts in Ukraine to provide humanitarian relief. 
+I wanted to let you know what&#39;s been going on in the world, as it&#39;s been pretty intense lately. In Israel, Benjamin Netanyahu is facing a lot of domestic pressure due to hostage deaths in Gaza, and there are also over 100 members of a single family that have been killed in the war between Israel and Hamas. Meanwhile, Russia&#39;s President Putin is taking advantage of Western boycotts for his own gain, while Hungary&#39;s Prime Minister Orban was able to stop an E.U. package that was intended to aid Ukraine.
 
-In the US, abortion rights and free expression, particularly with regard to pro-Palestinian speech on college campuses, remain unresolved issues. Jewish students at Harvard University are feeling alone and estranged as they continue to ask what&#39;s next for them. 
+Here in the US, there has been some scandal shaking up a conservative group called Moms For Liberty, while Florida Republicans have stripped powers from their party chairman who is currently under investigation. Abortion rights could also be shifting with Post-Roe voting, and universities are coming down on pro-Palestinian speech out of fear of being labeled antisemitic. Finally, many Jews at Harvard are feeling alone and estranged after a trying week on campus. 
 
-And finally, in Congo there&#39;s been a major crisis over the last few decades affecting millions of people due to fighting and displacement. In New York state, there&#39;s been tension about the ultra exclusive ski resort Windham Mountain Club which is seeking memberships from wealthy New Yorkers.</p>
+We&#39;re also seeing an overlooked crisis in Congo that has left 6 million dead and displaced over 6 million more in the eastern region of the country - there is definitely tension leading into its upcoming election.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
-<sub>By Ben Hubbard</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
+<sub>By Steven Erlanger</sub>
+<p>The killing of three hostages in Gaza by Israeli soldiers adds domestic pressure on Benjamin Netanyahu as he resists international calls for a cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>More Than 100 Members of This Gaza Clan Have Been Killed in War</h3>
@@ -103,6 +103,18 @@ And finally, in Congo there&#39;s been a major crisis over the last few decades 
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Republicans Strip Powers of Embattled Party Chairman</h3>
+<sub>By Eric Adelson and Patricia Mazzei</sub>
+<p>The party on Sunday removed almost all the authority of Christian Ziegler, who faces a criminal investigation and has resisted calls to resign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
+<sub>By Lisa Lerer and Patricia Mazzei</sub>
+<p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Will Abortion Rights Land?</h3>
 <sub>By Kate Zernike</sub>
 <p>Post-Roe voting might bring America to a new consensus — but only if the voters keep getting their say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -124,18 +136,6 @@ And finally, in Congo there&#39;s been a major crisis over the last few decades 
 <h3>The Overlooked Crisis in Congo: ‘We Live in War’</h3>
 <sub>By Declan Walsh and Arlette Bashizi</sub>
 <p>Six million have died, and more than six million are displaced after decades of fighting and the ensuing humanitarian crisis in the eastern region of the Democratic Republic of Congo, drawing in neighbors, mercenaries and militias. An upcoming election is inflaming tempers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Seven Things We Learned Analyzing 515 Million Wordles</h3>
-<sub>By Josh Katz and Aatish Bhatia</sub>
-<p>Maybe it’s time to say goodbye to ADIEU?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
-<sub>By Claire Fahy</sub>
-<p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
