@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 16, Central Standard Time</p>
 <p>
-There have been some interesting developments worldwide recently. In Israel, millions of Euros were found flowing into the hands of Hamas, setting the stage for them to plan an attack. In India, startups are taking an ancient practice and modernizing it with apps to help pregnant women instill Hindu values in their unborn babies. In the United States, President Biden is having talks at the southern border that represent a dramatic shift in immigration politics since Trump&#39;s term. On a lighter note, there&#39;s a great article about teenagers writing college essays about money, and Disney just celebrated its 100th anniversary, though its future dominance as a cultural force may be uncertain.</p>
+There&#39;s a lot going on in the world right now. In Israel, there&#39;s been hostilities between Gaza and the military, resulting in hostage killings that might change the strategy of both sides. In India, there are startups using technology to instill Hindu values from birth. The US is dealing with the repercussions of ex-President Trump, as well as a shift to more conservative policies regarding immigration. At Harvard University, some Jewish students are feeling alone and estranged amidst controversial events. Meanwhile, in New Zealand, debates about pro-Maori policies have come up recently. Finally, Disney is celebrating its 100th anniversary but it&#39;s uncertain whether the cultural force it had previously will be maintained.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Found the Hamas Money Machine Years Ago. Nobody Turned It Off.</h3>
-<sub>By Jo Becker and Justin Scheck</sub>
-<p>Agents worried as millions poured in. Hamas bought weapons and plotted an attack. The authorities now say the money helped lay the groundwork for the Oct. 7 assault on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
+<sub>By Ben Hubbard</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Says 3 Hostages Bore White Flag Before Being Killed by Troops</h3>
+<sub>By Aaron Boxerman, Ben Hubbard and Thomas Fuller</sub>
+<p>The military said the mistaken killing of the three men, who had been shirtless, was a violation of its rules of engagement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,22 +116,16 @@ There have been some interesting developments worldwide recently. In Israel, mil
 <p>The discussions over the southern border show how drastically the politics of immigration have shifted to the right in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fewer Electric Vehicles Will Qualify for Federal Tax Credits in 2024</h3>
-<sub>By Jack Ewing</sub>
-<p>Purchases of popular models like the Tesla Model 3 and the Ford Mustang Mach-E may no longer entitle buyers to tax savings because the cars do not meet tougher sourcing requirements.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Carbon Markets Are in Limbo. That’s Not Stopping This Firm.</h3>
-<sub>By Manuela Andreoni and Max Bearak</sub>
-<p>An Emirati company wants to broker a nascent market in which nations trade emission reductions even before regulations are agreed upon.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
 <h3>Chaos, Injustice and Joy: This Year’s College Essays About Money</h3>
 <sub>By Ron Lieber</sub>
 <p>Each year, we ask teenagers to send us their application essays about work, money or social class. Here are four, from California to Cambodia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Rightward Shift, New Zealand Reconsiders Pro-Maori Policies</h3>
+<sub>By Natasha Frost</sub>
+<p>The nation has long been lauded for trying to do right by its Indigenous people, but a new government may force a reckoning of Māori affairs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
