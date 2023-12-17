@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Israel, there are allegations of friendly-fire killings of hostages, and the government is having to reconsider its Gaza strategy. There&#39;s also controversy over Jeff Roe, a top strategist for Florida governor Ron DeSantis&#39; presidential campaign, stepping down. Meanwhile in the U.S., Muslims students at Harvard are facing racism and alienation, and former President Trump is attributing his felony charges to “politically motivated persecution”. Elsewhere, India has apps for literal dream babies and New Zealand is debating a rightward shift with regards to their pro-Maori policies; and we&#39;ve got economists discussing financial safeguards given climate change isn&#39;t on the agenda anymore. On top of all this, Disney is celebrating its 100th anniversary, and people are wondering if it still has the same monopoly on culture that it used to have.</p>
+There&#39;s a lot going on in the world right now! In Israel, there have been reports of friendly-fire killing of hostages, forcing them to reconsider their strategy in Gaza. Closer to home, Jews at Harvard are facing feelings of loneliness and estrangement. Meanwhile, Jeff Roe, the top strategist for a failed Florida Governor&#39;s PAC, resigned after a series of shake-ups. Trump is citing Putin to argue 91 felony charges against him are just politically motivated persecution. Economists are discussing alternatives to financial safeguards created when the US was an economic superpower and climate change wasn&#39;t even on the agenda. India has apps even for ancient practices like instilling Hindu values in fetuses. The debate over immigration politics has shifted right in the US due to Biden&#39;s border negotiations. Teenagers are writing essays about money and work for college applications. New Zealand is reconsidering pro-Maori policies as it shifts rightward. Finally, Disney&#39;s cultural dominance isn&#39;t what it used to be, as they celebrate their 100th anniversary and have no plans to remake one of their rare critical hits from the past.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
@@ -73,12 +73,6 @@ There&#39;s a lot happening in the world right now. In Israel, there are allegat
 <sub>By Aaron Boxerman, Ben Hubbard and Thomas Fuller</sub>
 <p>The military said the mistaken killing of the three men, who had been shirtless, was a violation of its rules of engagement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Israel Weighs How to Honor Oct. 7 Victims, Festival Exhibit Serves as ‘Hallowed Space’</h3>
-<sub>By Isabel Kershner</sub>
-<p>Israelis seeking to memorialize the hundreds killed in the Hamas assault on a trance festival, and help the survivors, retrieved hundreds of objects from the site.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Feeling Alone and Estranged, Many Jews at Harvard Wonder What’s Next</h3>
@@ -132,6 +126,12 @@ There&#39;s a lot happening in the world right now. In Israel, there are allegat
 <h3>Disney Is a Language. Do We Still Speak It?</h3>
 <sub>By Alissa Wilkinson</sub>
 <p>As the company celebrates its 100th anniversary, its dominance as a generation-spanning cultural force no longer seems certain.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>What ‘Pocahontas’ Tells Us About Disney, for Better and Worse</h3>
+<sub>By Brooks Barnes</sub>
+<p>The animated tale was both controversial and an Oscar-winning box office hit. It’s also one of the rare films from that era that the company isn’t eager to remake.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 </ol>
