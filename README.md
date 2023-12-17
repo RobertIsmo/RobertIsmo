@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, December 16, Central Standard Time</p>
+<p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In Israel, there&#39;s been hostilities between Gaza and the military, resulting in hostage killings that might change the strategy of both sides. In India, there are startups using technology to instill Hindu values from birth. The US is dealing with the repercussions of ex-President Trump, as well as a shift to more conservative policies regarding immigration. At Harvard University, some Jewish students are feeling alone and estranged amidst controversial events. Meanwhile, in New Zealand, debates about pro-Maori policies have come up recently. Finally, Disney is celebrating its 100th anniversary but it&#39;s uncertain whether the cultural force it had previously will be maintained.</p>
+There&#39;s a lot happening in the world right now. In Israel, there are allegations of friendly-fire killings of hostages, and the government is having to reconsider its Gaza strategy. There&#39;s also controversy over Jeff Roe, a top strategist for Florida governor Ron DeSantis&#39; presidential campaign, stepping down. Meanwhile in the U.S., Muslims students at Harvard are facing racism and alienation, and former President Trump is attributing his felony charges to “politically motivated persecution”. Elsewhere, India has apps for literal dream babies and New Zealand is debating a rightward shift with regards to their pro-Maori policies; and we&#39;ve got economists discussing financial safeguards given climate change isn&#39;t on the agenda anymore. On top of all this, Disney is celebrating its 100th anniversary, and people are wondering if it still has the same monopoly on culture that it used to have.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
@@ -87,9 +87,9 @@ There&#39;s a lot going on in the world right now. In Israel, there&#39;s been h
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
-<sub>By Lisa Lerer and Patricia Mazzei</sub>
-<p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Jeff Roe, Top Strategist for Star-Crossed DeSantis Super PAC, Resigns</h3>
+<sub>By Maggie Haberman, Shane Goldmacher, Nicholas Nehamas and Jonathan Swan</sub>
+<p>Mr. Roe, who helped lead Never Back Down, the super PAC behind the Florida governor’s presidential campaign, resigned Saturday, the latest shake-up in the group.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
