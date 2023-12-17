@@ -60,7 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-There is ongoing conflict in the Middle East between Israel and Hamas, with both sides suffering casualties and mounting civilian casualties. Britain and Germany are pushing for a “sustainable cease-fire” between the two sides. In Russia, President Putin has been using Western boycotts against the country to his financial advantage. In the Democratic Republic of Congo, there’s an overlooked crisis with more than 6 million people dead and displaced due to civil war. There is also tension between African immigrants and locals in upstate New York over an ultraexclusive ski resort.</p>
+There are a lot of tough issues happening around the world right now. First, in Israel, there have been friendly-fire killings of hostages, so they have to take a new look at their strategy in Gaza. In Russia, President Putin has been setting terms that benefit his government and war efforts, even despite a Western boycott. Hungary has also been undermining efforts in Ukraine to provide humanitarian relief. 
+
+In the US, abortion rights and free expression, particularly with regard to pro-Palestinian speech on college campuses, remain unresolved issues. Jewish students at Harvard University are feeling alone and estranged as they continue to ask what&#39;s next for them. 
+
+And finally, in Congo there&#39;s been a major crisis over the last few decades affecting millions of people due to fighting and displacement. In New York state, there&#39;s been tension about the ultra exclusive ski resort Windham Mountain Club which is seeking memberships from wealthy New Yorkers.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Friendly-fire killings of hostages may force Israel to reconsider Gaza strategy.</h3>
@@ -75,8 +79,8 @@ There is ongoing conflict in the Middle East between Israel and Hamas, with both
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In an apparent shift, Britain and Germany call for a ‘sustainable cease-fire.’</h3>
-<sub>By Steven Erlanger</sub>
+<h3>Israel invites journalists into a car-width tunnel beneath Gaza, not far from its border.</h3>
+<sub>By Ronen Bergman</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
@@ -84,6 +88,12 @@ There is ongoing conflict in the Middle East between Israel and Hamas, with both
 <h3>How Putin Turned a Western Boycott Into a Bonanza</h3>
 <sub>By Paul Sonne, Rebecca R. Ruiz and Nico Chilla</sub>
 <p>If companies want to leave Russia, the president is setting the terms — in ways that benefit his government, his elites and his war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How Hungary Undermined Europe’s Bid to Aid Ukraine</h3>
+<sub>By Andrew Higgins</sub>
+<p>Prime Minister Viktor Orban used E.U. rules on unanimous decisions to sink a $52 billion package strongly backed by larger countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -127,12 +137,6 @@ There is ongoing conflict in the Middle East between Israel and Hamas, with both
 <sub>By Claire Fahy</sub>
 <p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>How Africans are changing the French language. Also, returning to the “perfect beach” and the 23 best dishes in America this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
