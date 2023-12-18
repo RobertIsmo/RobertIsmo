@@ -60,11 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-I wanted to let you know what&#39;s been going on in the world, as it&#39;s been pretty intense lately. In Israel, Benjamin Netanyahu is facing a lot of domestic pressure due to hostage deaths in Gaza, and there are also over 100 members of a single family that have been killed in the war between Israel and Hamas. Meanwhile, Russia&#39;s President Putin is taking advantage of Western boycotts for his own gain, while Hungary&#39;s Prime Minister Orban was able to stop an E.U. package that was intended to aid Ukraine.
-
-Here in the US, there has been some scandal shaking up a conservative group called Moms For Liberty, while Florida Republicans have stripped powers from their party chairman who is currently under investigation. Abortion rights could also be shifting with Post-Roe voting, and universities are coming down on pro-Palestinian speech out of fear of being labeled antisemitic. Finally, many Jews at Harvard are feeling alone and estranged after a trying week on campus. 
-
-We&#39;re also seeing an overlooked crisis in Congo that has left 6 million dead and displaced over 6 million more in the eastern region of the country - there is definitely tension leading into its upcoming election.</p>
+To my friend: 
+In the world right now, there is a lot of tension. In the Middle East, Israeli soldiers have killed three hostages in Gaza, leading to domestic pressure on Prime Minister Benjamin Netanyahu to resist international calls for a cease-fire. This has caused fracture within families whose members have been killed since the war between Israel and Hamas began. On the other side, Israeli military have recently discovered a Hamas tunnel large enough to fit cars. In addition, Russian President Vladimir Putin has been using his power to benefit his government and is allowing companies to leave his country on his terms. Hungrain Prime Minister Viktor Orban has also been creating dissent in Europe after he opposed a $52 billion package strongly backed by other countries. Closer to home, Florida Republicans have stripped powers from their party chairman who is already under investigation and a conservative group has had their influence wane due to scandals and losses they have experienced. On top of it all, universities are under pressure to stamp out antisemitism which may be causing fear in expression of free speech about Palestinian support.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
@@ -79,9 +76,9 @@ We&#39;re also seeing an overlooked crisis in Congo that has left 6 million dead
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel invites journalists into a car-width tunnel beneath Gaza, not far from its border.</h3>
+<h3>In Gaza, Israelis Display Tunnel Wide Enough to Handle Cars</h3>
 <sub>By Ronen Bergman</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Israeli military took reporters on a tour of what it says is the biggest Hamas tunnel it has found since invading the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -96,12 +93,6 @@ We&#39;re also seeing an overlooked crisis in Congo that has left 6 million dead
 <p>Prime Minister Viktor Orban used E.U. rules on unanimous decisions to sink a $52 billion package strongly backed by larger countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>There’s No Christmas Lunch Like a Korean American Church Lunch</h3>
-<sub>By Eric Kim</sub>
-<p>After-service meals have long been key spaces for first-generation immigrants establishing themselves in the United States. But younger Koreans are finding less need for them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Florida Republicans Strip Powers of Embattled Party Chairman</h3>
 <sub>By Eric Adelson and Patricia Mazzei</sub>
@@ -113,6 +104,12 @@ We&#39;re also seeing an overlooked crisis in Congo that has left 6 million dead
 <sub>By Lisa Lerer and Patricia Mazzei</sub>
 <p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>There’s No Christmas Lunch Like a Korean American Church Lunch</h3>
+<sub>By Eric Kim</sub>
+<p>After-service meals have long been key spaces for first-generation immigrants establishing themselves in the United States. But younger Koreans are finding less need for them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Where Will Abortion Rights Land?</h3>
@@ -126,16 +123,16 @@ We&#39;re also seeing an overlooked crisis in Congo that has left 6 million dead
 <p>Universities are under tremendous pressure to stamp out antisemitism, but some say that is causing fear and curbing free expression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Feeling Alone and Estranged, Many Jews at Harvard Wonder What’s Next</h3>
-<sub>By Anemona Hartocollis, Jeremy W. Peters and Dana Goldstein</sub>
-<p>After one of the most trying weeks in the university’s recent history, some students question whether they have a place on campus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Seven Things We Learned Analyzing 515 Million Wordles</h3>
+<sub>By Josh Katz and Aatish Bhatia</sub>
+<p>Maybe it’s time to say goodbye to ADIEU?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Overlooked Crisis in Congo: ‘We Live in War’</h3>
-<sub>By Declan Walsh and Arlette Bashizi</sub>
-<p>Six million have died, and more than six million are displaced after decades of fighting and the ensuing humanitarian crisis in the eastern region of the Democratic Republic of Congo, drawing in neighbors, mercenaries and militias. An upcoming election is inflaming tempers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
+<sub>By Claire Fahy</sub>
+<p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
