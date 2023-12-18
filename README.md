@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, there has been unprecedented domestic pressure on Prime Minister Benjamin Netanyahu due to soldiers killing three hostages in Gaza. The U.S. defense secretary is currently meeting with allies in the Middle East regarding a scaled-back war against Hamas, while more than 100 members of one particular Gaza Clan have been killed in the war since October 7. On top of this, Vladimir Putin is turning sanctions into a bonanza for his government, and Viktor Orban in Hungary has blocked a $52 billion package cobbled together by the EU for aid to Ukraine. Here in the US, Florida Governor Ron DeSantis is facing scrutiny due to problems with his Super PAC and criminal investigation against state party chairman Christian Ziegler, while another conservative group that was heavily influential over Covid-era education battles is now embroiled in a scandal and losing its power. A ski resort is also looking to become ultra-exclusive by issuing memberships for $200,000 each which has put some locals off. Lastly, there&#39;s an overlooked crisis in the Democratic Republic of Congo where six million people have died or been displaced due to decades of fighting.</p>
+There is a lot going on in the world right now. In the Middle East, tensions are high between Israel and Hamas as Israeli soldiers killed three hostages and Benjamin Netanyahu refuses calls for a cease-fire. Meanwhile, Russia&#39;s President Putin has been using controversial tactics to benefit his government and the president of Hungary, Viktor Orban, is using EU rules to sink an aid package that would help Ukraine. 
+
+In the US, Governor DeSantis of Florida has been dealing with troubles in his super PAC Never Back Down and Republican Party Chairman Christian Ziegler is facing criminal investigation for misusing power. Another scandal involving conservative group Moms for Liberty is also threatening its influence. 
+
+Further abroad, Hong Kong pro-democracy tycoon Jimmy Lai is set to face trial on national security charges while six million people in DR Congo are living in war conditions after decades of fighting while their neighbors bring in mercenaries and militias. 
+
+Finally, there is some good news. Koreans are finding less need for traditional church lunches due to their successful integration into the US society while Windham Mountain Club, an ultraexclusive ski resort is bringing hope to some struggling locals in New York City.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
@@ -78,12 +84,6 @@ There is a lot going on in the world right now. In Israel, there has been unprec
 <h3>More Than 100 Members of This Gaza Clan Have Been Killed in War</h3>
 <sub>By Vivian Yee and Iyad Abuheweila</sub>
 <p>Family trees have been dismembered, and whole branches obliterated, since the war between Israel and Hamas broke out on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Gaza, Israelis Display Tunnel Wide Enough to Handle Cars</h3>
-<sub>By Ronen Bergman</sub>
-<p>The Israeli military took reporters on a tour of what it says is the biggest Hamas tunnel it has found since invading the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +132,12 @@ There is a lot going on in the world right now. In Israel, there has been unprec
 <h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
 <sub>By Claire Fahy</sub>
 <p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Arrested in 2020, Hong Kong Pro-Democracy Tycoon Gets His Day in Court</h3>
+<sub>By Tiffany May and Alexandra Stevenson</sub>
+<p>Jimmy Lai, who published an antigovernment newspaper, faces up to life in prison if convicted on national security charges that rights activists have called baseless.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
