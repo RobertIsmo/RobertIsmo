@@ -60,8 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 17, Central Standard Time</p>
 <p>
-To my friend: 
-In the world right now, there is a lot of tension. In the Middle East, Israeli soldiers have killed three hostages in Gaza, leading to domestic pressure on Prime Minister Benjamin Netanyahu to resist international calls for a cease-fire. This has caused fracture within families whose members have been killed since the war between Israel and Hamas began. On the other side, Israeli military have recently discovered a Hamas tunnel large enough to fit cars. In addition, Russian President Vladimir Putin has been using his power to benefit his government and is allowing companies to leave his country on his terms. Hungrain Prime Minister Viktor Orban has also been creating dissent in Europe after he opposed a $52 billion package strongly backed by other countries. Closer to home, Florida Republicans have stripped powers from their party chairman who is already under investigation and a conservative group has had their influence wane due to scandals and losses they have experienced. On top of it all, universities are under pressure to stamp out antisemitism which may be causing fear in expression of free speech about Palestinian support.</p>
+There is a lot going on in the world right now! In Israel and Gaza, a conflict has recently broken out between Israeli soldiers and Hamas leading to the deaths of hostages and many members of a single family. Meanwhile in Russia, President Putin is taking advantage of a Western boycott for financial gain. Hungary has also been making headlines, undermining Europe&#39;s aid package for Ukraine. Here in the US, Florida Governor DeSantis&#39;s super PAC is losing leaders and the Florida Republican Party recently stripped powers from their chairman due to a criminal investigation. Additionally, conservative Moms for Liberty have been under scrutiny amidst sex scandals. The issue of abortion rights has also arisen, calling into question what will happen post-Roe v. Wade. Finally, universities across the country have been cracking down on pro-Palestinian speech due to pressure about alleged anti-semitism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
@@ -91,6 +90,12 @@ In the world right now, there is a lot of tension. In the Middle East, Israeli s
 <h3>How Hungary Undermined Europe’s Bid to Aid Ukraine</h3>
 <sub>By Andrew Higgins</sub>
 <p>Prime Minister Viktor Orban used E.U. rules on unanimous decisions to sink a $52 billion package strongly backed by larger countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With His Super PAC in Disarray, DeSantis Aims to Stay on Offense</h3>
+<sub>By Kellen Browning and Nicholas Nehamas</sub>
+<p>The Florida governor kept his focus trained on his opponents, even as Never Back Down, the group aligned with the governor, lost another key leader.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -127,12 +132,6 @@ In the world right now, there is a lot of tension. In the Middle East, Israeli s
 <h3>Seven Things We Learned Analyzing 515 Million Wordles</h3>
 <sub>By Josh Katz and Aatish Bhatia</sub>
 <p>Maybe it’s time to say goodbye to ADIEU?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
-<sub>By Claire Fahy</sub>
-<p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
