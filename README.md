@@ -60,14 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the Middle East, tensions are high between Israel and Hamas as Israeli soldiers killed three hostages and Benjamin Netanyahu refuses calls for a cease-fire. Meanwhile, Russia&#39;s President Putin has been using controversial tactics to benefit his government and the president of Hungary, Viktor Orban, is using EU rules to sink an aid package that would help Ukraine. 
-
-In the US, Governor DeSantis of Florida has been dealing with troubles in his super PAC Never Back Down and Republican Party Chairman Christian Ziegler is facing criminal investigation for misusing power. Another scandal involving conservative group Moms for Liberty is also threatening its influence. 
-
-Further abroad, Hong Kong pro-democracy tycoon Jimmy Lai is set to face trial on national security charges while six million people in DR Congo are living in war conditions after decades of fighting while their neighbors bring in mercenaries and militias. 
-
-Finally, there is some good news. Koreans are finding less need for traditional church lunches due to their successful integration into the US society while Windham Mountain Club, an ultraexclusive ski resort is bringing hope to some struggling locals in New York City.</p>
+There has been a lot happening in the world lately. In Israel, an aggressive stance has been taken towards the rising Palestinian death toll as U.S. Defense Secretary Austin brings a tougher message to the country. Israeli soldiers killed three hostages in Gaza which is adding to domestic pressure on Benjamin Netanyahu while international calls for a cease-fire increase. On top of that, Putin is benefiting from a Western boycott, and Latvia has targeted residents with Russian passports as part of efforts to combat Moscow’s influence. On a lighter note, Wyckoff’s Christmas Tree Farm in Belvidere, NJ has grown an impressive seven-foot Norway spruce that they are selling for $105! Closer to home, Florida Governor DeSantis&#39; SuperPAC is disarray as he focuses on his opponents and the Republican party removed almost all authority from their Chairman Christian Ziegler who is facing criminal investigation.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Austin Returns to Israel With a Tougher Message and Lessons Learned</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>The U.S. defense secretary has stressed both the Biden administration’s support for Israel and concerns about the rising Palestinian death toll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
 <sub>By Steven Erlanger</sub>
@@ -75,16 +75,34 @@ Finally, there is some good news. Koreans are finding less need for traditional 
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Allies Urge Restraint as Netanyahu Vows ‘Fight to the End’</h3>
-<sub>By Rachel Abrams, Adam Sella and Thomas Fuller</sub>
-<p>The U.S. defense secretary was headed to the Middle East as two top European officials called for a scaled-back war against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>In Gaza, Israelis Display Tunnel Wide Enough to Handle Cars</h3>
+<sub>By Ronen Bergman</sub>
+<p>The Israeli military took reporters on a tour of what it says is the biggest Hamas tunnel it has found since invading the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Pressure Mounts on Israel, and Putin Profits Off Boycott</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Inside the Booming Business of Cutting Babies’ Tongues</h3>
+<sub>By Katie Thomas, Sarah Kliff and Jessica Silver-Greenberg</sub>
+<p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With a Deadline Looming, the United Methodist Church Breaks Up</h3>
+<sub>By Ruth Graham</sub>
+<p>A quarter of the denomination’s churches have left, as the faith divides over L.G.B.T.Q. policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Than 100 Members of This Gaza Clan Have Been Killed in War</h3>
-<sub>By Vivian Yee and Iyad Abuheweila</sub>
-<p>Family trees have been dismembered, and whole branches obliterated, since the war between Israel and Hamas broke out on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<h3>In a Baltic Nation, Fear and Suspicion Stalk Russian Speakers</h3>
+<sub>By Andrew Higgins</sub>
+<p>In response to the war in Ukraine, Latvia has targeted residents with Russian passports as part of efforts to combat Moscow’s influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How Putin Turned a Western Boycott Into a Bonanza</h3>
@@ -92,11 +110,17 @@ Finally, there is some good news. Koreans are finding less need for traditional 
 <p>If companies want to leave Russia, the president is setting the terms — in ways that benefit his government, his elites and his war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Hungary Undermined Europe’s Bid to Aid Ukraine</h3>
-<sub>By Andrew Higgins</sub>
-<p>Prime Minister Viktor Orban used E.U. rules on unanimous decisions to sink a $52 billion package strongly backed by larger countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>It Took 10 Years to Grow This Christmas Tree. The Price? $105</h3>
+<sub>By Stefanos Chen and Bryan Anselm</sub>
+<p>Amid wild cost fluctuations and extreme weather conditions, a small army of workers toiled for years at Wyckoff’s Christmas Tree Farm in Belvidere, N.J. The goal? Producing this year’s crop, including this seven-foot Norway Spruce, which is sold for $105.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>E.V. Start-Up Founders Made Big Claims. Now One Could Go to Prison.</h3>
+<sub>By Jack Ewing</sub>
+<p>Trevor Milton, who founded the truck company Nikola, will be sentenced on Monday in a fraud case that exposed the excesses in the electric vehicle business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With His Super PAC in Disarray, DeSantis Aims to Stay on Offense</h3>
@@ -108,36 +132,6 @@ Finally, there is some good news. Koreans are finding less need for traditional 
 <h3>Florida Republicans Strip Powers of Embattled Party Chairman</h3>
 <sub>By Eric Adelson and Patricia Mazzei</sub>
 <p>The party on Sunday removed almost all the authority of Christian Ziegler, who faces a criminal investigation and has resisted calls to resign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Sex Scandal Shakes Moms for Liberty, as Group’s Influence Wanes</h3>
-<sub>By Lisa Lerer and Patricia Mazzei</sub>
-<p>The conservative group led the charge on the Covid-era education battles. But scandals and losses are threatening its power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 16, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>There’s No Christmas Lunch Like a Korean American Church Lunch</h3>
-<sub>By Eric Kim</sub>
-<p>After-service meals have long been key spaces for first-generation immigrants establishing themselves in the United States. But younger Koreans are finding less need for them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Overlooked Crisis in Congo: ‘We Live in War’</h3>
-<sub>By Declan Walsh and Arlette Bashizi</sub>
-<p>Six million have died, and more than six million are displaced after decades of fighting and the ensuing humanitarian crisis in the eastern region of the Democratic Republic of Congo, drawing in neighbors, mercenaries and militias. An upcoming election is inflaming tempers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
-<sub>By Claire Fahy</sub>
-<p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Arrested in 2020, Hong Kong Pro-Democracy Tycoon Gets His Day in Court</h3>
-<sub>By Tiffany May and Alexandra Stevenson</sub>
-<p>Jimmy Lai, who published an antigovernment newspaper, faces up to life in prison if convicted on national security charges that rights activists have called baseless.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
