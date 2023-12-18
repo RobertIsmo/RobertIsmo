@@ -58,14 +58,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, December 17, Central Standard Time</p>
+<p>It is Monday, December 18, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now! In Israel and Gaza, a conflict has recently broken out between Israeli soldiers and Hamas leading to the deaths of hostages and many members of a single family. Meanwhile in Russia, President Putin is taking advantage of a Western boycott for financial gain. Hungary has also been making headlines, undermining Europe&#39;s aid package for Ukraine. Here in the US, Florida Governor DeSantis&#39;s super PAC is losing leaders and the Florida Republican Party recently stripped powers from their chairman due to a criminal investigation. Additionally, conservative Moms for Liberty have been under scrutiny amidst sex scandals. The issue of abortion rights has also arisen, calling into question what will happen post-Roe v. Wade. Finally, universities across the country have been cracking down on pro-Palestinian speech due to pressure about alleged anti-semitism.</p>
+There is a lot going on in the world right now. In Israel, there has been unprecedented domestic pressure on Prime Minister Benjamin Netanyahu due to soldiers killing three hostages in Gaza. The U.S. defense secretary is currently meeting with allies in the Middle East regarding a scaled-back war against Hamas, while more than 100 members of one particular Gaza Clan have been killed in the war since October 7. On top of this, Vladimir Putin is turning sanctions into a bonanza for his government, and Viktor Orban in Hungary has blocked a $52 billion package cobbled together by the EU for aid to Ukraine. Here in the US, Florida Governor Ron DeSantis is facing scrutiny due to problems with his Super PAC and criminal investigation against state party chairman Christian Ziegler, while another conservative group that was heavily influential over Covid-era education battles is now embroiled in a scandal and losing its power. A ski resort is also looking to become ultra-exclusive by issuing memberships for $200,000 each which has put some locals off. Lastly, there&#39;s an overlooked crisis in the Democratic Republic of Congo where six million people have died or been displaced due to decades of fighting.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
 <sub>By Steven Erlanger</sub>
 <p>The killing of three hostages in Gaza by Israeli soldiers adds domestic pressure on Benjamin Netanyahu as he resists international calls for a cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Allies Urge Restraint as Netanyahu Vows ‘Fight to the End’</h3>
+<sub>By Rachel Abrams, Adam Sella and Thomas Fuller</sub>
+<p>The U.S. defense secretary was headed to the Middle East as two top European officials called for a scaled-back war against Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -116,22 +122,16 @@ There is a lot going on in the world right now! In Israel and Gaza, a conflict h
 <p>After-service meals have long been key spaces for first-generation immigrants establishing themselves in the United States. But younger Koreans are finding less need for them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 15, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Will Abortion Rights Land?</h3>
-<sub>By Kate Zernike</sub>
-<p>Post-Roe voting might bring America to a new consensus — but only if the voters keep getting their say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Overlooked Crisis in Congo: ‘We Live in War’</h3>
+<sub>By Declan Walsh and Arlette Bashizi</sub>
+<p>Six million have died, and more than six million are displaced after decades of fighting and the ensuing humanitarian crisis in the eastern region of the Democratic Republic of Congo, drawing in neighbors, mercenaries and militias. An upcoming election is inflaming tempers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Campus Crackdowns Have Chilling Effect on Pro-Palestinian Speech</h3>
-<sub>By Vimal Patel and Anna Betts</sub>
-<p>Universities are under tremendous pressure to stamp out antisemitism, but some say that is causing fear and curbing free expression.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Seven Things We Learned Analyzing 515 Million Wordles</h3>
-<sub>By Josh Katz and Aatish Bhatia</sub>
-<p>Maybe it’s time to say goodbye to ADIEU?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Ski Resort Rebrands as Ultraexclusive, and Some Locals Feel Left Out</h3>
+<sub>By Claire Fahy</sub>
+<p>The Windham Mountain Club, with $200,000 memberships, is looking to seize on the potential of luring the wealthy from New York City.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
 </ol>
