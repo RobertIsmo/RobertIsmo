@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 18, Central Standard Time</p>
 <p>
-There are a few major news stories happening around the world right now. In Israel, tensions between Palestinian civilians and Israeli soldiers are high after the killing of three hostages in Gaza. There are also new developments in the midst of religious freedoms: Pope Francis has recently allowed priests to bless same-sex relationships, while the United Methodist Church is dividing over L.G.B.T.Q. policies. In Egypt, President Abdel Fattah el-Sisi is getting set for his third term, while tension is also stirring in South Korea with the LG family split over corporate succession. Meanwhile in the US, there have been reports of a booming business involving cutting babies’ tongues as well as a Norway Spruce Christmas tree being sold for $105 at Wyckoff&#39;s Christmas Tree Farm in Belvidere, N.J., due to extreme weather conditions impacting crop yield. Lastly, an upcoming fraud case involving Trevor Milton, founder of the truck company Nikola, has exposed potential excesses in the electric vehicle business.</p>
+It looks like world leaders are discussing diplomatic important issues. CIA Director William J. Burns held talks in Warsaw with the head of the Israeli spy agency Mossad and the Prime Minister of Qatar to discuss hostage and prisoner exchanges between Israel and Hamas. The Israeli military also took reporters on a tour of a Hamas tunnel that&#39;s wide enough to handle cars. There&#39;s tension in the Red Sea, with BP pausing oil shipments due to fears of attacks by drones or missiles. In good news, Pope Francis just allowed priests to bless same-sex relationships though it still doesn&#39;t change traditional doctrine. Closer to home, the United Methodist Church is splitting up due to differing views on LGBTQ policies and quarter of churches in the denomination have left. 
+
+In the arts world, there&#39;s a fascinating story about a magazine made by a German Jew who was hiding from the Nazis in an attic being rediscovered after all these years. There&#39;s also been some controversy related to comedian Hasan Minhaj after he rebutted a New Yorker article with a video - that went over surprisingly well with the audience. 
+
+On the business front, Trevor Milton, founder of the electric vehicle company Nikola, will be sentenced for fraud and this case has exposed some of the bad practices going on in this industry. Meanwhile, there&#39;s drama at South Korea conglomerate LG where a dispute between a former chairman&#39;s widow and his adopted son is testing family succession in this 10 billion dollar multinational company. 
+
+Finally, there have been many notable deaths this year including Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett and more - so if you want to suggest someone for a New York Times obituary then you can do that too!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Austin Returns to Israel With a Tougher Message and Lessons Learned</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>The U.S. defense secretary has stressed both the Biden administration’s support for Israel and concerns about the rising Palestinian death toll.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hostage Deaths Fuel Israelis’ Doubts About Netanyahu</h3>
-<sub>By Steven Erlanger</sub>
-<p>The killing of three hostages in Gaza by Israeli soldiers adds domestic pressure on Benjamin Netanyahu as he resists international calls for a cease-fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<h3>C.I.A. Director Discusses Resuming Hostage and Prisoner Exchanges Between Israel and Hamas</h3>
+<sub>By Julian E. Barnes</sub>
+<p>William J. Burns was in Warsaw on Monday, where he met with the head of Mossad, Israel’s spy agency, and the prime minister of Qatar, which has helped broker talks with Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>In Gaza, Israelis Display Tunnel Wide Enough to Handle Cars</h3>
@@ -80,16 +80,16 @@ There are a few major news stories happening around the world right now. In Isra
 <p>The Israeli military took reporters on a tour of what it says is the biggest Hamas tunnel it has found since invading the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Pressure Mounts on Israel, and Putin Profits Off Boycott</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>BP Pauses Oil Shipments Through Red Sea Amid Fears of Attacks</h3>
+<sub>By Stanley Reed</sub>
+<p>Global energy prices jumped as tensions escalated around the vital shipping route, where drone and missile assaults have prompted some companies to halt sending cargos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Pope Francis Allows Priests to Bless Same-Sex Relationships</h3>
 <sub>By Jason Horowitz</sub>
-<p>A church official said the blessings amounted to “a real development” that nevertheless did not amend “the traditional doctrine of the Church about marriage.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A church official said the blessings amounted to “a real development” that nevertheless did not amend “the traditional doctrine of the church about marriage.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,10 +98,28 @@ There are a few major news stories happening around the world right now. In Isra
 <p>A quarter of the denomination’s churches have left, as the faith divides over L.G.B.T.Q. policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>He Made a Magazine, 95 Issues, While Hiding From the Nazis in an Attic</h3>
+<sub>By Nina Siegal</sub>
+<p>The people who hid Curt Bloch, a German Jew, in the crawl space of a Dutch home gave him both food and the materials he needed to make a highly creative magazine now drawing attention.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Inside the Booming Business of Cutting Babies’ Tongues</h3>
 <sub>By Katie Thomas, Sarah Kliff and Jessica Silver-Greenberg</sub>
 <p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Notable Deaths of 2023</h3>
+<sub></sub>
+<p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Suggest a New York Times Obituary</h3>
+<sub>By William McDonald</sub>
+<p>Do you know of someone who died recently who might be a candidate for a Times obituary? Tell us.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -109,18 +127,6 @@ There are a few major news stories happening around the world right now. In Isra
 <sub>By Jason Zinoman</sub>
 <p>At the Beacon, the comic took a different tack after posting a video rebutting a New Yorker article on fabrications in his work. The crowd went wild.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Shrugging Off Egypt’s Crises, El-Sisi Gets Set for 6 More Years</h3>
-<sub>By Vivian Yee</sub>
-<p>Results of elections this month give a third term to President Abdel Fattah el-Sisi, who has presented himself as a strong leader in an unstable region.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It Took 10 Years to Grow This Christmas Tree. The Price? $105</h3>
-<sub>By Stefanos Chen and Bryan Anselm</sub>
-<p>Amid wild cost fluctuations and extreme weather conditions, a small army of workers toiled for years at Wyckoff’s Christmas Tree Farm in Belvidere, N.J. The goal? Producing this year’s crop, including this seven-foot Norway Spruce, which is sold for $105.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>E.V. Start-Up Founders Made Big Claims. Now One Could Go to Prison.</h3>
