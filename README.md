@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 18, Central Standard Time</p>
 <p>
-There has been a lot happening in the world lately. In Israel, an aggressive stance has been taken towards the rising Palestinian death toll as U.S. Defense Secretary Austin brings a tougher message to the country. Israeli soldiers killed three hostages in Gaza which is adding to domestic pressure on Benjamin Netanyahu while international calls for a cease-fire increase. On top of that, Putin is benefiting from a Western boycott, and Latvia has targeted residents with Russian passports as part of efforts to combat Moscow’s influence. On a lighter note, Wyckoff’s Christmas Tree Farm in Belvidere, NJ has grown an impressive seven-foot Norway spruce that they are selling for $105! Closer to home, Florida Governor DeSantis&#39; SuperPAC is disarray as he focuses on his opponents and the Republican party removed almost all authority from their Chairman Christian Ziegler who is facing criminal investigation.</p>
+There are a few major news stories happening around the world right now. In Israel, tensions between Palestinian civilians and Israeli soldiers are high after the killing of three hostages in Gaza. There are also new developments in the midst of religious freedoms: Pope Francis has recently allowed priests to bless same-sex relationships, while the United Methodist Church is dividing over L.G.B.T.Q. policies. In Egypt, President Abdel Fattah el-Sisi is getting set for his third term, while tension is also stirring in South Korea with the LG family split over corporate succession. Meanwhile in the US, there have been reports of a booming business involving cutting babies’ tongues as well as a Norway Spruce Christmas tree being sold for $105 at Wyckoff&#39;s Christmas Tree Farm in Belvidere, N.J., due to extreme weather conditions impacting crop yield. Lastly, an upcoming fraud case involving Trevor Milton, founder of the truck company Nikola, has exposed potential excesses in the electric vehicle business.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Austin Returns to Israel With a Tougher Message and Lessons Learned</h3>
@@ -86,10 +86,10 @@ There has been a lot happening in the world lately. In Israel, an aggressive sta
 <p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Inside the Booming Business of Cutting Babies’ Tongues</h3>
-<sub>By Katie Thomas, Sarah Kliff and Jessica Silver-Greenberg</sub>
-<p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope Francis Allows Priests to Bless Same-Sex Relationships</h3>
+<sub>By Jason Horowitz</sub>
+<p>A church official said the blessings amounted to “a real development” that nevertheless did not amend “the traditional doctrine of the Church about marriage.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,17 +98,23 @@ There has been a lot happening in the world lately. In Israel, an aggressive sta
 <p>A quarter of the denomination’s churches have left, as the faith divides over L.G.B.T.Q. policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Baltic Nation, Fear and Suspicion Stalk Russian Speakers</h3>
-<sub>By Andrew Higgins</sub>
-<p>In response to the war in Ukraine, Latvia has targeted residents with Russian passports as part of efforts to combat Moscow’s influence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>Inside the Booming Business of Cutting Babies’ Tongues</h3>
+<sub>By Katie Thomas, Sarah Kliff and Jessica Silver-Greenberg</sub>
+<p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How Putin Turned a Western Boycott Into a Bonanza</h3>
-<sub>By Paul Sonne, Rebecca R. Ruiz and Nico Chilla</sub>
-<p>If companies want to leave Russia, the president is setting the terms — in ways that benefit his government, his elites and his war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Was a Scandal the Best Thing to Happen to Hasan Minhaj?</h3>
+<sub>By Jason Zinoman</sub>
+<p>At the Beacon, the comic took a different tack after posting a video rebutting a New Yorker article on fabrications in his work. The crowd went wild.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Shrugging Off Egypt’s Crises, El-Sisi Gets Set for 6 More Years</h3>
+<sub>By Vivian Yee</sub>
+<p>Results of elections this month give a third term to President Abdel Fattah el-Sisi, who has presented himself as a strong leader in an unstable region.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>It Took 10 Years to Grow This Christmas Tree. The Price? $105</h3>
@@ -122,17 +128,11 @@ There has been a lot happening in the world lately. In Israel, an aggressive sta
 <p>Trevor Milton, who founded the truck company Nikola, will be sentenced on Monday in a fraud case that exposed the excesses in the electric vehicle business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With His Super PAC in Disarray, DeSantis Aims to Stay on Offense</h3>
-<sub>By Kellen Browning and Nicholas Nehamas</sub>
-<p>The Florida governor kept his focus trained on his opponents, even as Never Back Down, the group aligned with the governor, lost another key leader.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Florida Republicans Strip Powers of Embattled Party Chairman</h3>
-<sub>By Eric Adelson and Patricia Mazzei</sub>
-<p>The party on Sunday removed almost all the authority of Christian Ziegler, who faces a criminal investigation and has resisted calls to resign.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 17, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Family Split at LG, a South Korean Giant, Tests Corporate Succession</h3>
+<sub>By Daisuke Wakabayashi and Victoria Kim</sub>
+<p>A lawsuit pitted the former chairman’s widow and daughters against the son he adopted, challenging the patriarchal traditions of a $10 billion conglomerate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
