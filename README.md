@@ -60,7 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 18, Central Standard Time</p>
 <p>
-Things have been pretty busy in the news lately! There is a new law in Texas that will effectively allow police to arrest migrants, which could lead to mass arrests and a bigger legal battle between the state and federal government. US has asked Israel to be more mindful of civilians in Gaza while encouraging them to start talks about hostage releases. In Iceland, there was a volcano explosion after weeks of warnings. Around 100 people were killed in an earthquake in northwestern China. Marvel recently parted ways with one of their actors who was convicted of minor assault charges against his girlfriend. There&#39;s also a story of an incredible 95-issue magazine created while one Jewish man was hiding from the Nazis! Pope Francis has blessed same-sex couples, though some conservatives have expressed disappointment and others have hailed it as a landmark moment for the church&#39;s acceptance of LGBTQ faithful. There&#39;s also a booming business of cutting babies&#39; tongues, as dentists and lactation consultants are starting to offer this service to mothers struggling with breastfeeding. Not to mention, current former White House Chief of Staff Mark Meadows has had his request denied by a panel appeals court to move a Georgia case to federal court.</p>
+There are lots of interesting things happening around the world right now. In the US, Texas has signed a law allowing them to arrest migrants, setting up a potential showdown with the federal government. US lawmakers are still working on an aid bill for Ukraine, while the US is pushing Israel to do more to protect civilians in Gaza and is also negotiating with hostage-takers. Meanwhile, Iceland&#39;s volcano erupted unexpectedly. 
+In Hollywood, actor Jonathan Majors recently had a guilty verdict and now Marvel has dropped him from their projects. Additionally, a Jewish man who was hiding from the Nazis during WWII made and distributed 95 issues of a magazine from an attic. 
+On a spiritual note, Pope Francis has allowed priests to bless same-sex couples - though it doesn&#39;t go against traditional doctrine of the church - although there has been some pushback from conservative Catholics. 
+Finally, a deadly 5.9Magnitude Earthquake recently struck northwestern China, killing hundreds and leaving many without homes and in freezing temperatures. And there&#39;s even controversy about babies&#39; tongues being cut by dentists as some say it&#39;s necessary breastfeeding advice while others think it&#39;s too extreme.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abbott Signs Law Allowing Texas to Arrest Migrants, Setting Up Federal Showdown</h3>
@@ -80,28 +83,28 @@ Things have been pretty busy in the news lately! There is a new law in Texas tha
 <p>The American defense secretary reiterated “unshakable” support for Israeli security, but said protecting Palestinians was a “moral duty and a strategic imperative.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a 6-Second Video Turned a Campus Protest Into a National Firestorm</h3>
-<sub>By Sharon Otterman</sub>
-<p>A pro-Palestinian protest at the Cooper Union was one of a string of episodes on colleges across the country that has been amplified by outside forces, with sometimes frightening consequences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nods and Nudges: How U.S. Is Pressing Israel to Rein in Gaza Assault</h3>
+<sub>By Eric Schmitt</sub>
+<p>American officials are quick to say that Israel is in the driver’s seat in the Gaza war, but it is increasingly urging a change in course.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Weeks of Warnings, Iceland Volcano Erupts in Plumes of Fire</h3>
-<sub>By Claire Moses</sub>
-<p>Iceland’s weather service had warned that a volcanic eruption was likely after thousands of earthquakes were recorded this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquake Kills More Than 100 in Northwestern China</h3>
-<sub>By Vivian Wang</sub>
-<p>The 5.9-magnitude quake, which injured hundreds, struck Gansu Province around midnight. Survivors huddled in the freezing cold, setting fires to keep warm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Egill Bjarnason and Claire Moses</sub>
+<p>While Monday’s eruption was not unexpected, it was larger than volcanologists had been predicting and took place not far from an evacuated town and a power plant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Marvel Will Part Ways With Jonathan Majors After Guilty Verdict</h3>
 <sub>By Jonah E. Bromwich, Erin Nolan and Nicole Sperling</sub>
 <p>Mr. Majors was convicted of misdemeanor assault and harassment for attacking his girlfriend in a car. The company dropped the actor shortly after.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>The Fast Rise and Staggering Fall of Jonathan Majors</h3>
+<sub>By Kyle Buchanan</sub>
+<p>After an indie-film breakout just four years ago, he was headed to the A list. But a criminal conviction immediately jeopardized his leading-man status.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -122,16 +125,16 @@ Things have been pretty busy in the news lately! There is a new law in Texas tha
 <p>Some conservatives registered disappointment, but gay Catholics hailed the new rule as a landmark moment for the church’s acceptance of L.G.B.T.Q. faithful.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Earthquake Kills More Than 100 in Northwestern China</h3>
+<sub>By Vivian Wang</sub>
+<p>The 5.9-magnitude quake, which injured hundreds, struck Gansu Province around midnight. Survivors huddled in the freezing cold, setting fires to keep warm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Inside the Booming Business of Cutting Babies’ Tongues</h3>
 <sub>By Katie Thomas, Sarah Kliff and Jessica Silver-Greenberg</sub>
 <p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Panel Rejects Meadows’s Request to Move Georgia Case to Federal Court</h3>
-<sub>By Danny Hakim and Richard Fausset</sub>
-<p>The judges unanimously ruled against Mark Meadows, a former White House chief of staff and a co-defendant of Donald J. Trump in the state election interference case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
