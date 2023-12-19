@@ -60,12 +60,34 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-There is a crisis in the Red Sea, where ships have been attacked and energy and shipping firms have had to begin rerouting tankers, adding delays and costs to journeys which are set to affect oil prices. In Yemen, the Houthi militia has gained clout with these ship attacks. In Gaza, there&#39;s a split between those wanting an end to the war and those who are pushing for a definitive Israeli victory - this divide has been most notable between younger and older generations, who have very different opinions on Biden&#39;s support of Israel. 
-
-Meanwhile in Russia, prominent dissident Aleksei Navalny is missing after not showing up to a court hearing two weeks ago. And in Iceland there was recently a volcanic eruption on the Reykjanes Peninsula which did not appear to affect any air travel. Lastly, New York is considering reparations for descendants of enslaved people - Governor Kathy Hochul signed a bill that will look into what can be done.</p>
+There&#39;s a lot going on in the world right now! For starters, people who are most in need of housing assistance are getting the least help, while rents are rising and homelessness is at an all-time high. College football is creating housing issues all over the country – thanks to wealthy fans and investors turning homes into hotels for a few weeks every year. West Hollywood has raised its minimum wage to nearly $20 an hour, which may be causing some stress for local businesses. There&#39;s also a debate going on in the financial world over U.S. debt limits, and this is having major repercussions for funding government programs. On top of that, there have been attacks in the Red Sea which are causing issues for shipping companies and could lead to higher oil prices. Closer to home, opinion is split between those wanting the war in Gaza to end and those wanting an Israeli victory, and that is especially visible among younger generations. Meanwhile, President Biden&#39;s support for Israel appears to be pushing away some young voters. Lastly, Russia is finding creative ways to get around tech bans to get what it needs for its economy and military operations.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Need Rises, Housing Aid Hits Lowest Level in Nearly 25 Years</h3>
+<sub>By Jason DeParle</sub>
+<p>Rents have surged and homelessness is at record heights, but fewer of the poorest tenants are getting housing assistance — in stark contrast to growth in other safety net programs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>How College Football Is Clobbering Housing Markets Across the Country</h3>
+<sub>By Allison Salerno</sub>
+<p>Short-term rentals are taking over college towns, fueled by wealthy fans and investors who turn homes into hotels for a few weeks out of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Red Sea Attacks Add Another Snarl to Global Shipping</h3>
+<h3>Doing Business in the Place With America’s Highest Minimum Wage</h3>
+<sub>By Kurtis Lee</sub>
+<p>In July, West Hollywood raised its minimum wage to $19.08 an hour, causing angst among those who own businesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street’s ‘Bond Vigilantes’ Are at Battle as U.S. Debt Soars</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>The financial world has been debating if market appetite for U.S. debt is near a limit. Not everyone agrees this is something to panic about, but the ramifications for funding government priorities are immense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Red Sea Attacks Pose Another Threat to Global Economy</h3>
 <sub>By Peter Eavis</sub>
 <p>Already hampered by problems at the Panama Canal, shipping companies are now steering clear of the Suez Canal to avoid being attacked in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
@@ -101,9 +123,9 @@ Meanwhile in Russia, prominent dissident Aleksei Navalny is missing after not sh
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice O’Connor Memorialized in National Cathedral Service</h3>
+<h3>O’Connor, a ‘Daughter of the American West,’ Is Honored in Washington</h3>
 <sub>By Abbie VanSickle</sub>
-<p>President Biden and Chief Justice John G. Roberts Jr. were among those honoring the justice at her funeral.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden remembered the Supreme Court’s first female justice as “gracious and wise, civil and principled” in a ceremony at Washington National Cathedral.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -111,30 +133,6 @@ Meanwhile in Russia, prominent dissident Aleksei Navalny is missing after not sh
 <sub>By Paul Mozur, Aaron Krolik and Adam Satariano</sub>
 <p>Using specialized e-commerce sites, secretive shipping workarounds and a constellation of middlemen, Russia has obtained the tech components it needs to keep its economy and war in Ukraine going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Where Is Navalny?’ A Search Is On for the Missing Russian Dissident.</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>Aleksei A. Navalny, the imprisoned opposition leader, did not appear at a court hearing two weeks ago and has not been heard from since. His allies are trying desperately to find him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>2023 in Photos: A Weary World</h3>
-<sub></sub>
-<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What to Know About Iceland’s Volcanic Eruption</h3>
-<sub>By Egill Bjarnason and Cassandra Vinograd</sub>
-<p>The eruption on the Reykjanes Peninsula sent lava gushing into the night sky. Air travel did not appear to be affected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York to Consider Reparations for Descendants of Enslaved People</h3>
-<sub>By Grace Ashford and Luis Ferré-Sadurní</sub>
-<p>Gov. Kathy Hochul signed a bill that will create the nation’s second statewide task force to examine possible reparations for the lasting impact of slavery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
