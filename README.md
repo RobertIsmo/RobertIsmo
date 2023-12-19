@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! A recent poll found wide disapproval of President Biden&#39;s policy toward Gaza, with many divided between wanting a peaceful end to the conflict and wanting Israel to have the upper hand. Biden&#39;s rating is especially low with young voters. In Israel, security concerns are driving voters away from the left and towards the right. Meanwhile, Russia is flouting international tech bans by obtaining components for their economy and weapons through secretive middlemen. There was also a powerful earthquake in China recently that left residents huddling together in subzero temperatures with no homes to return to. Google has just allowed more options for paying apps in order to reach a legal settlement, and artists continue to tackle the complexities of making movies about the Holocaust. Oh, and there was also an Icelandic volcano that erupted recently.</p>
+Recently, a new poll found that there is wide disapproval of President Biden’s stance on the Gaza conflict, especially among younger voters. This divide between those wanting the war to end and those pressing for a definitive Israeli victory has sparked a lot of discussion. Additionally, President Trump continues to make use of grievance politics in order to resonate with his followers, despite many more traditional bread-and-butter G.O.P. issues remaining popular. 
+
+On top of that, Israelis have been abandoning the political left due to fears around security after a devastating Oct 7th terrorist attack. This shift towards right-wing politics has seemed to be encouraged by the success of the Houthi militia in Yemen as they challenged Israel with more than harsh words. 
+
+There have been reports of Russia flouting global tech bans to obtain the components it needs to keep its economy and war going. Similarly, opposition leader Aleksei A. Navalny has gone missing after he did not appear at a court hearing two weeks ago and no one have heard from him since. He is yet to be found despite his allies desperately searching for him. 
+
+2020 was a tough year for many and it was capped off by Iceland&#39;s volcano eruption on Monday which was larger than originally predicted and took place near evacuated town and a power plant - luckily air travel didn&#39;t appear to be affected. Furthermore, key drugs for cancer patients have been in short supply due to a deep crisis in the generic drug industry.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Poll Finds Wide Disapproval of Biden on Gaza, and Little Room to Shift Gears</h3>
@@ -74,6 +80,12 @@ There&#39;s a lot going on in the world right now! A recent poll found wide disa
 <p>Donald Trump leads him among those 18 to 29, a new poll shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Mixes Grievance Politics With Bread-and-Butter G.O.P. Issues</h3>
+<sub>By Michael Gold</sub>
+<p>Though the former president often draws attention for his more extreme policy proposals and rhetoric, a set of core conservative issues appear to resonate even more with his supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Biden’s Rating Dips on Gaza, and Marvel Drops Actor</h3>
 <sub>By New York Times Audio</sub>
@@ -86,11 +98,23 @@ There&#39;s a lot going on in the world right now! A recent poll found wide disa
 <p>Disenchanted by the prospect for peace after a devastating terrorist attack, Israelis are becoming more conservative in their politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Houthi Militia in Yemen Has Gained Clout With Ship Attacks in the Red Sea</h3>
+<sub>By Vivian Nereim</sub>
+<p>Across the Middle East, people have hailed the Houthis as one of the few regional forces willing to challenge Israel with more than harsh words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Chinese Traders and Moroccan Ports: How Russia Flouts Global Tech Bans</h3>
 <sub>By Paul Mozur, Aaron Krolik and Adam Satariano</sub>
 <p>Using specialized e-commerce sites, secretive shipping workarounds and a constellation of middlemen, Russia has obtained the tech components it needs to keep its economy and war in Ukraine going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Where Is Navalny?’ A Search Is On for the Missing Russian Dissident.</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>Aleksei A. Navalny, the imprisoned opposition leader, did not appear at a court hearing two weeks ago and has not been heard from since. His allies are trying desperately to find him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>2023 in Photos: A Weary World</h3>
@@ -104,35 +128,17 @@ There&#39;s a lot going on in the world right now! A recent poll found wide disa
 <p>While Monday’s eruption was not unexpected, it was larger than volcanologists had been predicting and took place not far from an evacuated town and a power plant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What to Know About Iceland’s Volcanic Eruption</h3>
+<sub>By Egill Bjarnason and Cassandra Vinograd</sub>
+<p>The eruption on the Reykjanes Peninsula sent lava gushing into the night sky. Air travel did not appear to be affected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>Behind the Shortage Keeping Cancer Patients From Chemo</h3>
 <sub>By Christina Jewett</sub>
 <p>Key drugs have been in scarce supply, revealing a deep crisis in the generic drug industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Possible Ways to Ease Drug Shortages</h3>
-<sub>By Christina Jewett</sub>
-<p>Lawmakers, U.S. officials and industry experts have offered measures to try to shore up the generic drug market.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Survivors Face Subzero Temperatures After Quake Kills Over 120 in China</h3>
-<sub>By Vivian Wang and Joy Dong</sub>
-<p>The 5.9-magnitude earthquake struck Gansu Province around midnight. People who had fled their homes huddled in the cold, building fires to keep warm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>How Do You Make a Movie About the Holocaust?</h3>
-<sub>By Giles Harvey</sub>
-<p>With “The Zone of Interest,” Jonathan Glazer is just the latest director to confront the problem.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Google Allows More App Payment Options in Antitrust Deal With States</h3>
-<sub>By Nico Grant and David McCabe</sub>
-<p>The tech giant will pay $700 million and allow app makers to collect payments directly from consumers in a settlement it hopes will help resolve other legal challenges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
