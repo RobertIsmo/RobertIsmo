@@ -60,14 +60,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-Recently, a new poll found that there is wide disapproval of President Biden’s stance on the Gaza conflict, especially among younger voters. This divide between those wanting the war to end and those pressing for a definitive Israeli victory has sparked a lot of discussion. Additionally, President Trump continues to make use of grievance politics in order to resonate with his followers, despite many more traditional bread-and-butter G.O.P. issues remaining popular. 
+There is a crisis in the Red Sea, where ships have been attacked and energy and shipping firms have had to begin rerouting tankers, adding delays and costs to journeys which are set to affect oil prices. In Yemen, the Houthi militia has gained clout with these ship attacks. In Gaza, there&#39;s a split between those wanting an end to the war and those who are pushing for a definitive Israeli victory - this divide has been most notable between younger and older generations, who have very different opinions on Biden&#39;s support of Israel. 
 
-On top of that, Israelis have been abandoning the political left due to fears around security after a devastating Oct 7th terrorist attack. This shift towards right-wing politics has seemed to be encouraged by the success of the Houthi militia in Yemen as they challenged Israel with more than harsh words. 
-
-There have been reports of Russia flouting global tech bans to obtain the components it needs to keep its economy and war going. Similarly, opposition leader Aleksei A. Navalny has gone missing after he did not appear at a court hearing two weeks ago and no one have heard from him since. He is yet to be found despite his allies desperately searching for him. 
-
-2020 was a tough year for many and it was capped off by Iceland&#39;s volcano eruption on Monday which was larger than originally predicted and took place near evacuated town and a power plant - luckily air travel didn&#39;t appear to be affected. Furthermore, key drugs for cancer patients have been in short supply due to a deep crisis in the generic drug industry.</p>
+Meanwhile in Russia, prominent dissident Aleksei Navalny is missing after not showing up to a court hearing two weeks ago. And in Iceland there was recently a volcanic eruption on the Reykjanes Peninsula which did not appear to affect any air travel. Lastly, New York is considering reparations for descendants of enslaved people - Governor Kathy Hochul signed a bill that will look into what can be done.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Red Sea Attacks Add Another Snarl to Global Shipping</h3>
+<sub>By Peter Eavis</sub>
+<p>Already hampered by problems at the Panama Canal, shipping companies are now steering clear of the Suez Canal to avoid being attacked in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Does the Red Sea Crisis Mean for Oil Prices?</h3>
+<sub>By Stanley Reed</sub>
+<p>Many energy and shipping firms have begun rerouting tankers, adding delays and extra costs to journeys that would put upward pressure on oil prices.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Houthi Militia in Yemen Has Gained Clout With Ship Attacks in the Red Sea</h3>
+<sub>By Vivian Nereim</sub>
+<p>Across the Middle East, people have hailed the Houthis as one of the few regional forces willing to challenge Israel with more than harsh words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Poll Finds Wide Disapproval of Biden on Gaza, and Little Room to Shift Gears</h3>
 <sub>By Jonathan Weisman, Ruth Igielnik and Alyce McFadden</sub>
@@ -86,23 +100,11 @@ There have been reports of Russia flouting global tech bans to obtain the compon
 <p>Though the former president often draws attention for his more extreme policy proposals and rhetoric, a set of core conservative issues appear to resonate even more with his supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Biden’s Rating Dips on Gaza, and Marvel Drops Actor</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice O’Connor Memorialized in National Cathedral Service</h3>
+<sub>By Abbie VanSickle</sub>
+<p>President Biden and Chief Justice John G. Roberts Jr. were among those honoring the justice at her funeral.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Abandon Political Left Over Security Concerns After Oct. 7</h3>
-<sub>By Sheera Frenkel</sub>
-<p>Disenchanted by the prospect for peace after a devastating terrorist attack, Israelis are becoming more conservative in their politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Houthi Militia in Yemen Has Gained Clout With Ship Attacks in the Red Sea</h3>
-<sub>By Vivian Nereim</sub>
-<p>Across the Middle East, people have hailed the Houthis as one of the few regional forces willing to challenge Israel with more than harsh words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Chinese Traders and Moroccan Ports: How Russia Flouts Global Tech Bans</h3>
@@ -123,21 +125,15 @@ There have been reports of Russia flouting global tech bans to obtain the compon
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Weeks of Warnings, Iceland Volcano Erupts in Plumes of Fire</h3>
-<sub>By Egill Bjarnason and Claire Moses</sub>
-<p>While Monday’s eruption was not unexpected, it was larger than volcanologists had been predicting and took place not far from an evacuated town and a power plant.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What to Know About Iceland’s Volcanic Eruption</h3>
 <sub>By Egill Bjarnason and Cassandra Vinograd</sub>
 <p>The eruption on the Reykjanes Peninsula sent lava gushing into the night sky. Air travel did not appear to be affected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>Behind the Shortage Keeping Cancer Patients From Chemo</h3>
-<sub>By Christina Jewett</sub>
-<p>Key drugs have been in scarce supply, revealing a deep crisis in the generic drug industry.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York to Consider Reparations for Descendants of Enslaved People</h3>
+<sub>By Grace Ashford and Luis Ferré-Sadurní</sub>
+<p>Gov. Kathy Hochul signed a bill that will create the nation’s second statewide task force to examine possible reparations for the lasting impact of slavery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
