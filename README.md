@@ -60,12 +60,54 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 18, Central Standard Time</p>
 <p>
-Right now, tensions are escalating around the world, with a new law in Texas allowing police to potentially arrest migrants and a break in the United Methodist Church over LGBTQ policies, as well as fears of attacks on ships travelling through the Red Sea. Meanwhile, Pope Francis has allowed priests to bless same-sex couples, while Marvel actor Jonathan Majors has been found guilty of assault and harassment. People around the world are mourning the deaths of some influential figures from this past year, such as Sandra Day O&#39;Connor, Henry Kissinger and Rosalynn Carter.</p>
+Things have been pretty busy in the news lately! There is a new law in Texas that will effectively allow police to arrest migrants, which could lead to mass arrests and a bigger legal battle between the state and federal government. US has asked Israel to be more mindful of civilians in Gaza while encouraging them to start talks about hostage releases. In Iceland, there was a volcano explosion after weeks of warnings. Around 100 people were killed in an earthquake in northwestern China. Marvel recently parted ways with one of their actors who was convicted of minor assault charges against his girlfriend. There&#39;s also a story of an incredible 95-issue magazine created while one Jewish man was hiding from the Nazis! Pope Francis has blessed same-sex couples, though some conservatives have expressed disappointment and others have hailed it as a landmark moment for the church&#39;s acceptance of LGBTQ faithful. There&#39;s also a booming business of cutting babies&#39; tongues, as dentists and lactation consultants are starting to offer this service to mothers struggling with breastfeeding. Not to mention, current former White House Chief of Staff Mark Meadows has had his request denied by a panel appeals court to move a Georgia case to federal court.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Abbott to Sign Law Allowing Texas Police to Arrest Migrants</h3>
+<h3>Abbott Signs Law Allowing Texas to Arrest Migrants, Setting Up Federal Showdown</h3>
 <sub>By J. David Goodman</sub>
-<p>The new law, which would take effect in March, could bring in mass arrests and a court fight between Texas and the federal government over immigration powers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The new law, which takes effect in March, could bring in mass arrests and a court fight between Texas and the federal government over immigration powers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hopes for Quick Passage of Ukraine Aid Bill Dim as Border Talks Drag On</h3>
+<sub>By Karoun Demirjian</sub>
+<p>After a weekend of bipartisan negotiations, lawmakers were still short of a compromise and Republicans said they were reluctant to strike any agreement before the new year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Urges Israel to Do More to Spare Civilians in Gaza and Pushes Hostage Talks</h3>
+<sub>By Eric Schmitt, Julian E. Barnes and Michael Levenson</sub>
+<p>The American defense secretary reiterated “unshakable” support for Israeli security, but said protecting Palestinians was a “moral duty and a strategic imperative.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How a 6-Second Video Turned a Campus Protest Into a National Firestorm</h3>
+<sub>By Sharon Otterman</sub>
+<p>A pro-Palestinian protest at the Cooper Union was one of a string of episodes on colleges across the country that has been amplified by outside forces, with sometimes frightening consequences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Weeks of Warnings, Iceland Volcano Erupts in Plumes of Fire</h3>
+<sub>By Claire Moses</sub>
+<p>Iceland’s weather service had warned that a volcanic eruption was likely after thousands of earthquakes were recorded this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Earthquake Kills More Than 100 in Northwestern China</h3>
+<sub>By Vivian Wang</sub>
+<p>The 5.9-magnitude quake, which injured hundreds, struck Gansu Province around midnight. Survivors huddled in the freezing cold, setting fires to keep warm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Marvel Will Part Ways With Jonathan Majors After Guilty Verdict</h3>
+<sub>By Jonah E. Bromwich, Erin Nolan and Nicole Sperling</sub>
+<p>Mr. Majors was convicted of misdemeanor assault and harassment for attacking his girlfriend in a car. The company dropped the actor shortly after.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>He Made a Magazine, 95 Issues, While Hiding From the Nazis in an Attic</h3>
+<sub>By Nina Siegal</sub>
+<p>The people who hid Curt Bloch, a German Jew, in the crawl space of a Dutch home gave him both food and the materials he needed to make a highly creative magazine now drawing attention.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -75,33 +117,9 @@ Right now, tensions are escalating around the world, with a new law in Texas all
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With a Deadline Looming, the United Methodist Church Breaks Up</h3>
-<sub>By Ruth Graham</sub>
-<p>A quarter of the denomination’s churches have left, as the faith divides over L.G.B.T.Q. policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>BP Pauses Oil Shipments Through Red Sea Amid Fears of Attacks</h3>
-<sub>By Stanley Reed</sub>
-<p>Global energy prices jumped as tensions escalated around the vital shipping route, where drone and missile assaults have prompted some companies to halt sending cargos.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a 6-Second Video Turned a Campus Protest Into a National Firestorm</h3>
-<sub>By Sharon Otterman</sub>
-<p>A pro-Palestinian protest at the Cooper Union was one of a string of episodes on colleges across the country that has been amplified by outside forces, with sometimes frightening consequences.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Actor Jonathan Majors Found Guilty of Assault and Harassment</h3>
-<sub>By Jonah E. Bromwich and Erin Nolan</sub>
-<p>Mr. Majors was convicted of attacking his girlfriend in a car. The case has cast doubt on his role in Marvel’s lucrative superhero movie franchise.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>He Made a Magazine, 95 Issues, While Hiding From the Nazis in an Attic</h3>
-<sub>By Nina Siegal</sub>
-<p>The people who hid Curt Bloch, a German Jew, in the crawl space of a Dutch home gave him both food and the materials he needed to make a highly creative magazine now drawing attention.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>American Catholics Split on Pope’s Blessing for Gay Couples</h3>
+<sub>By Ruth Graham and Amy Harmon</sub>
+<p>Some conservatives registered disappointment, but gay Catholics hailed the new rule as a landmark moment for the church’s acceptance of L.G.B.T.Q. faithful.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
@@ -110,28 +128,10 @@ Right now, tensions are escalating around the world, with a new law in Texas all
 <p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>What Parents Should Know About Tongue-Tie Releases</h3>
-<sub>By Sarah Kliff, Jessica Silver-Greenberg and Katie Thomas</sub>
-<p>Tongue, lip and cheek-tie releases are often recommended to help with breastfeeding or to prevent health problems. Few studies have shown benefits.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice O’Connor, the First Woman on the Supreme Court, Lies in Repose</h3>
-<sub>By Abbie VanSickle</sub>
-<p>The justices, former law clerks and the public gathered to remember Sandra Day O’Connor, who was the most powerful woman in the country during a critical time in American law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Notable Deaths of 2023</h3>
-<sub></sub>
-<p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Suggest a New York Times Obituary</h3>
-<sub>By William McDonald</sub>
-<p>Do you know of someone who died recently who might be a candidate for a Times obituary? Tell us.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Appeals Panel Rejects Meadows’s Request to Move Georgia Case to Federal Court</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The judges unanimously ruled against Mark Meadows, a former White House chief of staff and a co-defendant of Donald J. Trump in the state election interference case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
