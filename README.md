@@ -58,12 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 18, Central Standard Time</p>
+<p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-There are lots of interesting things happening around the world right now. In the US, Texas has signed a law allowing them to arrest migrants, setting up a potential showdown with the federal government. US lawmakers are still working on an aid bill for Ukraine, while the US is pushing Israel to do more to protect civilians in Gaza and is also negotiating with hostage-takers. Meanwhile, Iceland&#39;s volcano erupted unexpectedly. 
-In Hollywood, actor Jonathan Majors recently had a guilty verdict and now Marvel has dropped him from their projects. Additionally, a Jewish man who was hiding from the Nazis during WWII made and distributed 95 issues of a magazine from an attic. 
-On a spiritual note, Pope Francis has allowed priests to bless same-sex couples - though it doesn&#39;t go against traditional doctrine of the church - although there has been some pushback from conservative Catholics. 
-Finally, a deadly 5.9Magnitude Earthquake recently struck northwestern China, killing hundreds and leaving many without homes and in freezing temperatures. And there&#39;s even controversy about babies&#39; tongues being cut by dentists as some say it&#39;s necessary breastfeeding advice while others think it&#39;s too extreme.</p>
+There is a lot going on around the world right now. In Texas, Governor Abbott recently signed a law that could allow authorities to start arresting migrants, which has the potential to set off a federal showdown. In Ukraine, hopes of quickly passing an aid bill are fading as talks between parties get delayed. Meanwhile, in Israel, the US is pushing for greater protections for civilians and hostages amid escalating violence in Gaza. In Iceland, there was finally an eruption of the volcano which had been monitored by volcanologists for weeks prior. Elsewhere, Marvel Studios has cut ties with actor Jonathan Majors after he was found guilty of misdemeanor assault and harassment charges against his girlfriend. We also saw many notable deaths this past year including Sandra Day O&#39;Connor and Henry Kissinger. Pope Francis also made a groundbreaking decision by allowing priests to bless same-sex couples which has been met with both celebration and disappointment by American Catholics. Lastly, in China over 100 people were killed in an earthquake and survivors have endured freezing temperatures as they huddled outside their homes for warmth. Additionally, there has been a booming business of cutting babies’ tongues as dentists and lactation consultants market it as a solution to infant breastfeeding problems.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abbott Signs Law Allowing Texas to Arrest Migrants, Setting Up Federal Showdown</h3>
@@ -107,10 +104,10 @@ Finally, a deadly 5.9Magnitude Earthquake recently struck northwestern China, ki
 <p>After an indie-film breakout just four years ago, he was headed to the A list. But a criminal conviction immediately jeopardized his leading-man status.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>He Made a Magazine, 95 Issues, While Hiding From the Nazis in an Attic</h3>
-<sub>By Nina Siegal</sub>
-<p>The people who hid Curt Bloch, a German Jew, in the crawl space of a Dutch home gave him both food and the materials he needed to make a highly creative magazine now drawing attention.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Notable Deaths of 2023</h3>
+<sub></sub>
+<p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,9 +123,9 @@ Finally, a deadly 5.9Magnitude Earthquake recently struck northwestern China, ki
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Earthquake Kills More Than 100 in Northwestern China</h3>
-<sub>By Vivian Wang</sub>
-<p>The 5.9-magnitude quake, which injured hundreds, struck Gansu Province around midnight. Survivors huddled in the freezing cold, setting fires to keep warm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Survivors Face Subzero Temperatures After Quake Kills Over 100 in China</h3>
+<sub>By Vivian Wang and Joy Dong</sub>
+<p>The 5.9-magnitude earthquake struck Gansu Province around midnight. People who had fled their homes huddled in the cold, setting fires to keep warm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
