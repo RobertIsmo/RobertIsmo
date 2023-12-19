@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-There is a lot going on around the world right now. In Texas, Governor Abbott recently signed a law that could allow authorities to start arresting migrants, which has the potential to set off a federal showdown. In Ukraine, hopes of quickly passing an aid bill are fading as talks between parties get delayed. Meanwhile, in Israel, the US is pushing for greater protections for civilians and hostages amid escalating violence in Gaza. In Iceland, there was finally an eruption of the volcano which had been monitored by volcanologists for weeks prior. Elsewhere, Marvel Studios has cut ties with actor Jonathan Majors after he was found guilty of misdemeanor assault and harassment charges against his girlfriend. We also saw many notable deaths this past year including Sandra Day O&#39;Connor and Henry Kissinger. Pope Francis also made a groundbreaking decision by allowing priests to bless same-sex couples which has been met with both celebration and disappointment by American Catholics. Lastly, in China over 100 people were killed in an earthquake and survivors have endured freezing temperatures as they huddled outside their homes for warmth. Additionally, there has been a booming business of cutting babies’ tongues as dentists and lactation consultants market it as a solution to infant breastfeeding problems.</p>
+There&#39;s a lot going on in the world right now. In the US, Texas has just passed a controversial law allowing state authorities to arrest migrants crossing the border. Meanwhile, Congress is negotiating on an aid bill to Ukraine, but has yet to reach an agreement. Over in Israel, there&#39;s been a shift to the right in politics, and in Iceland a volcano has recently erupted after weeks of warnings. In entertainment news, actor Jonathan Majors has been dropped by Marvel after being convicted of assault against his girlfriend. Meanwhile, tech giant Google is paying out $700 million in a settlement with states over antitrust issues and allowing more payment options for app makers. Over in China, a enormous earthquake struck Gansu province killing over 100 people and leaving survivors facing subzero temperatures. Lastly, there&#39;s been increased attention to dentists and lactation consultants pushing tongue-tie releases to mothers struggling with breastfeeding. Finally, at home federal appeals judges have unanimously rejected Mark Meadows&#39;s request to transfer Georgia&#39;s state election interference case against Donald Trump to federal court.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Abbott Signs Law Allowing Texas to Arrest Migrants, Setting Up Federal Showdown</h3>
@@ -75,15 +75,15 @@ There is a lot going on around the world right now. In Texas, Governor Abbott re
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Urges Israel to Do More to Spare Civilians in Gaza and Pushes Hostage Talks</h3>
-<sub>By Eric Schmitt, Julian E. Barnes and Michael Levenson</sub>
-<p>The American defense secretary reiterated “unshakable” support for Israeli security, but said protecting Palestinians was a “moral duty and a strategic imperative.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israelis Abandon Political Left Over Security Concerns After Oct. 7</h3>
+<sub>By Sheera Frenkel</sub>
+<p>Disenchanted by the prospect for peace after a devastating terrorist attack, Israelis are becoming more conservative in their politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Nods and Nudges: How U.S. Is Pressing Israel to Rein in Gaza Assault</h3>
 <sub>By Eric Schmitt</sub>
-<p>American officials are quick to say that Israel is in the driver’s seat in the Gaza war, but it is increasingly urging a change in course.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>American officials are quick to say that Israel is in the driver’s seat in the Gaza war, but they are increasingly urging a change in course.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -104,22 +104,16 @@ There is a lot going on around the world right now. In Texas, Governor Abbott re
 <p>After an indie-film breakout just four years ago, he was headed to the A list. But a criminal conviction immediately jeopardized his leading-man status.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Google Allows More App Payment Options in Antitrust Deal With States</h3>
+<sub>By Nico Grant and David McCabe</sub>
+<p>The tech giant will pay $700 million and allow app makers to collect payments directly from consumers in a settlement it hopes will help resolve other legal challenges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
 <h3>Notable Deaths of 2023</h3>
 <sub></sub>
 <p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Francis Allows Priests to Bless Same-Sex Couples</h3>
-<sub>By Jason Horowitz</sub>
-<p>A church official said the blessings amounted to “a real development” that nevertheless did not amend “the traditional doctrine of the church about marriage.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>American Catholics Split on Pope’s Blessing for Gay Couples</h3>
-<sub>By Ruth Graham and Amy Harmon</sub>
-<p>Some conservatives registered disappointment, but gay Catholics hailed the new rule as a landmark moment for the church’s acceptance of L.G.B.T.Q. faithful.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +126,12 @@ There is a lot going on around the world right now. In Texas, Governor Abbott re
 <h3>Inside the Booming Business of Cutting Babies’ Tongues</h3>
 <sub>By Katie Thomas, Sarah Kliff and Jessica Silver-Greenberg</sub>
 <p>Dentists and lactation consultants around the country are pushing “tongue-tie releases” on new mothers struggling to breastfeed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Panel Rejects Meadows’s Request to Move Georgia Case to Federal Court</h3>
+<sub>By Danny Hakim and Richard Fausset</sub>
+<p>The judges unanimously ruled against Mark Meadows, a former White House chief of staff and a co-defendant of Donald J. Trump in the state election interference case.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
