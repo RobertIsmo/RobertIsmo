@@ -60,31 +60,61 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-This past year has been a tumultuous one, with politics in the United States and around the world dominating headlines. In the US, the Colorado Supreme Court ruled that former President Donald Trump was disqualified from holding office again because he participated in an insurrection before the Capitol riot in January. At the same time, Congress struggled to get much done as it held hundreds of votes but only passed 27 bills. On the international front, Ukraine saw its counteroffensive falter while the Houthi militia in Yemen gained clout with ship attacks in the Red Sea and potential financial motivations behind Rudy Giuliani’s ousting of the US ambassador to Ukraine were revealed. On top of all of this, issues ranging from housing assistance hitting a 25-year low and college football’s impact on housing markets to same-sex couples receiving blessings from Catholic priests and a look back through photographs at 2020 were also covered over the year.</p>
+Right now, there&#39;s a lot of political turmoil in the United States. In Colorado, a court ruled that former president Donald Trump is ineligible to hold office again due to his involvement in the insurrection. Voters in Colorado and everywhere are feeling uneasy about this ruling and it&#39;s likely to go to the Supreme Court. 
+
+Over in China, they are investing heavily in the modernization of an old military base called Lop Nur for nuclear tests. Meanwhile, in Yemen, the Houthi militia has been attacking ships they believe are connected to Israel and they refuse to back down until the siege in Gaza ends. 
+
+In New York City, antisemitism and protests have spilled onto the streets and Jewish people are trying to find their way through the tension. Former mayor Rudolph W. Giuliani is also facing scrutiny as the FBI investigates his efforts to oust the American ambassador from Ukraine potentially motivated by his own financial issues. 
+
+On a lighter note, some baking companies have noticed that shape-shifting cookie cutters can tell us a lot about what people are thinking and predicting for future economies such as in 2023. Lastly, drones are giving Ukraine some success at sea as they fight Russia with help from the White House.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the Colorado Supreme Court’s Decision Disqualifying Trump From the Ballot</h3>
-<sub></sub>
-<p>Colorado’s top court ruled on Tuesday that former President Donald J. Trump is disqualified from holding office again because he engaged in insurrection leading up to the Jan. 6 storming of the Capitol. Here is the full ruling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Is Disqualified From 2024 Ballot, Colorado Court Says in Explosive Ruling</h3>
+<sub>By Maggie Astor</sub>
+<p>The decision, the first by a court to find that Donald Trump is ineligible to hold office again because he engaged in insurrection, is likely to put a monumental case before the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Dysfunction by the Numbers: 724 Votes, Only 27 Laws Enacted</h3>
-<sub>By Annie Karni</sub>
-<p>The tally reflects the extraordinary chaos and paralysis that gripped the House in 2023, when lawmakers did more voting but less lawmaking than at any time in the past decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Colorado Voters Share Sense of Unease After Court Disqualifies Trump</h3>
+<sub>By Thomas Fuller, Dave Philipps and Charlie Brennan</sub>
+<p>Whether for or against the decision, many voters said they felt unsettled by the prospect of a presidential campaign fought with legal briefs and court arguments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 27 Bills That Became Law in 2023</h3>
-<sub>By Annie Karni</sub>
-<p>Despite holding more than 700 votes this year, the House only managed to pass 27 bills that have made it into law, thanks to tiny majorities, divided government and a right wing bent on constraining government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Colorado Ruling Knocks Trump Off Ballot: What It Means, What Happens Next</h3>
+<sub>By Adam Liptak</sub>
+<p>The challengers who sought to disqualify Donald J. Trump prevailed on every legal issue, but the case is almost certainly headed for the Supreme Court, where they would have to do so again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Confirms Remaining Senior Officers, Ending Tuberville’s Protest</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The Alabama Republican, under pressure from his own party, agreed to drop his objections to the remaining 11 military nominees to four-star positions, allowing their swift confirmation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Why a Colorado Court Just Knocked Trump Off the Ballot</h3>
+<sub>By Michael Barbaro, Rob Szypko, Carlos Prieto, Lisa Chow, Rachel Quester and Chris Wood</sub>
+<p>A ruling disqualifying former President Donald J. Trump from the state’s 2024 primary ballot is likely headed for the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>China Quietly Rebuilds Secretive Base for Nuclear Tests</h3>
+<sub>By William J. Broad, Chris Buckley and Jonathan Corum</sub>
+<p>Beijing is investing heavily in the modernization of Lop Nur, a sprawling military site where it long detonated atom bombs and thermonuclear warheads.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Amid Gaza War and Red Sea Attacks, Yemen’s Houthis Refuse to Back Down</h3>
+<sub>By Vivian Nereim and Shuaib Almosawa</sub>
+<p>The militia, which has targeted ships it says are connected to Israel, has vowed not to stop until the siege in Gaza ends and claims that a new U.S.-led maritime task force cannot deter the attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>See where Israeli armored vehicles are operating across the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City, for Some Jews, Feels Newly Tense</h3>
+<sub>By Katherine Rosman and Jonah Markowitz</sub>
+<p>With antisemitism and protests spilling onto the streets of New York, the city’s Jewish population is trying to navigate the new contours of its hometown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Giuliani’s Money Woes Were a Focus of Ukraine Inquiry, Records Reveal</h3>
@@ -92,47 +122,23 @@ This past year has been a tumultuous one, with politics in the United States and
 <p>F.B.I. agents scrutinizing Rudolph W. Giuliani’s efforts to oust the American ambassador to Ukraine thought financial problems might be motivating his actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Houthi Militia in Yemen Has Gained Clout With Ship Attacks in the Red Sea</h3>
-<sub>By Vivian Nereim</sub>
-<p>Across the Middle East, people have hailed the Houthis as one of the few regional forces willing to challenge Israel with more than harsh words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What’s Your ‘Biological Age’?</h3>
-<sub>By Dana G. Smith</sub>
-<p>New tests promise to tell you if you have the cells of a 30-year-old or a 60-year-old. Here’s what to know about them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>What’s Ahead in 2024? The Cookie Cutters Tell All.</h3>
+<sub>By Priya Krishna</sub>
+<p>The shape-shifting baking tools can reveal a lot about what’s on people’s minds, as one American company has learned, to its profit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Need Rises, Housing Aid Hits Lowest Level in Nearly 25 Years</h3>
-<sub>By Jason DeParle</sub>
-<p>Rents have surged and homelessness is at record heights, but fewer of the poorest tenants are getting housing assistance — in stark contrast to growth in other safety net programs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>How College Football Is Clobbering Housing Markets Across the Country</h3>
-<sub>By Allison Salerno</sub>
-<p>Short-term rentals are taking over college towns, fueled by wealthy fans and investors who turn homes into hotels for a few weeks out of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Making History on a Tuesday Morning, With the Church’s Blessing</h3>
-<sub>By Amy Harmon, Ruth Graham and Sarah Maslin Nir</sub>
-<p>A day after the pope’s announcement that Catholic priests may bless same-sex couples, one New York couple receives theirs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What Social Trends Taught Us About the 2023 Economy</h3>
+<sub>By Jeanna Smialek</sub>
+<p>From girl dinners to ChatGPT, a look back at the trends that broke the internet and taught us about the American economy this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Zelensky, After Tough Year on Battlefield, Insists Ukraine Will Prevail</h3>
+<h3>In a Tough Year on Land, Drones Give Ukraine Some Success at Sea</h3>
 <sub>By Andrew E. Kramer</sub>
-<p>Ukraine’s counteroffensive sputtered, but President Volodymyr Zelensky argued that Russia, too, “failed to achieve any results” on the ground, while Ukraine had successes at sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The use of sea drones highlights a path forward for Ukraine in its fight with Russia that has been promoted by the White House and embraced by the Ukrainian leadership.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>2023 in Photos: A Weary World</h3>
-<sub></sub>
-<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
