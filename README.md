@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-2020 was an emotionally draining year for many people around the world. There was a lot of political turmoil in the US, with the Supreme Court ruling to disqualify former President Donald Trump from office. Congress was also incredibly dysfunctional--they managed to pass only 27 bills into law despite holding more than 700 votes. In Yemen, Houthi militia have increased their influence through ship attacks in the Red Sea. 
-
-Meanwhile, people in Ukraine were struggling to cope with a war against Russia while in the US, people faced astronomically high rents and record levels of homelessness. Pope Francis even changed Church laws to allow priests to bless same-sex couples. Finally, photographers have captured powerful images of war and grief that highlighted 2020&#39;s heavier moments.</p>
+This past year has been a tumultuous one, with politics in the United States and around the world dominating headlines. In the US, the Colorado Supreme Court ruled that former President Donald Trump was disqualified from holding office again because he participated in an insurrection before the Capitol riot in January. At the same time, Congress struggled to get much done as it held hundreds of votes but only passed 27 bills. On the international front, Ukraine saw its counteroffensive falter while the Houthi militia in Yemen gained clout with ship attacks in the Red Sea and potential financial motivations behind Rudy Giuliani’s ousting of the US ambassador to Ukraine were revealed. On top of all of this, issues ranging from housing assistance hitting a 25-year low and college football’s impact on housing markets to same-sex couples receiving blessings from Catholic priests and a look back through photographs at 2020 were also covered over the year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read the Colorado Supreme Court’s Decision Disqualifying Trump From the Ballot</h3>
@@ -88,17 +86,11 @@ Meanwhile, people in Ukraine were struggling to cope with a war against Russia w
 <p>The Alabama Republican, under pressure from his own party, agreed to drop his objections to the remaining 11 military nominees to four-star positions, allowing their swift confirmation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Need Rises, Housing Aid Hits Lowest Level in Nearly 25 Years</h3>
-<sub>By Jason DeParle</sub>
-<p>Rents have surged and homelessness is at record heights, but fewer of the poorest tenants are getting housing assistance — in stark contrast to growth in other safety net programs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Giuliani’s Money Woes Were a Focus of Ukraine Inquiry, Records Reveal</h3>
+<sub>By Ben Protess, William K. Rashbaum, Nicole Hong and Michael Rothfeld</sub>
+<p>F.B.I. agents scrutinizing Rudolph W. Giuliani’s efforts to oust the American ambassador to Ukraine thought financial problems might be motivating his actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>How College Football Is Clobbering Housing Markets Across the Country</h3>
-<sub>By Allison Salerno</sub>
-<p>Short-term rentals are taking over college towns, fueled by wealthy fans and investors who turn homes into hotels for a few weeks out of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Houthi Militia in Yemen Has Gained Clout With Ship Attacks in the Red Sea</h3>
@@ -112,11 +104,17 @@ Meanwhile, people in Ukraine were struggling to cope with a war against Russia w
 <p>New tests promise to tell you if you have the cells of a 30-year-old or a 60-year-old. Here’s what to know about them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Giuliani’s Money Woes Were a Focus of Ukraine Inquiry, Records Reveal</h3>
-<sub>By Ben Protess, William K. Rashbaum, Nicole Hong and Michael Rothfeld</sub>
-<p>F.B.I. agents scrutinizing Rudolph W. Giuliani’s efforts to oust the American ambassador to Ukraine thought financial problems might be motivating his actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Need Rises, Housing Aid Hits Lowest Level in Nearly 25 Years</h3>
+<sub>By Jason DeParle</sub>
+<p>Rents have surged and homelessness is at record heights, but fewer of the poorest tenants are getting housing assistance — in stark contrast to growth in other safety net programs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>How College Football Is Clobbering Housing Markets Across the Country</h3>
+<sub>By Allison Salerno</sub>
+<p>Short-term rentals are taking over college towns, fueled by wealthy fans and investors who turn homes into hotels for a few weeks out of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Making History on a Tuesday Morning, With the Church’s Blessing</h3>
