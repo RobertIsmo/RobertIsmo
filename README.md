@@ -60,16 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-In the US, former President Donald Trump has been barred from running in the 2024 presidential election by a Colorado court following his involvement in an attempted insurrection. People are feeling uneasy about the prospects of a legal battle for the presidency. 
-
-Meanwhile, China has been quietly rebuilding a secretive nuclear testing site, and in Gaza and the Red Sea region, the Houthis militia is carrying out attacks connected to Israel and vowing not to back down until the siege in Gaza ends. 
-
-In response to rising anti-migrant sentiment around Europe, an EU deal on migration has been reached after years of wrangling. However, President Emmanuel Macron&#39;s coalition recently fractured during a vote to overhaul immigration policies. 
-
-Here in New York City, Jews have been feeling increasingly tense with targeted protests and antisemitism spilling onto its streets. In one instance, a woman set out to free her father who had been wrongly convicted of killing her father - which became a decades-long mission. 
-
-Lastly, scientists are exploring whether new diabetes and weight-loss drugs (Ozempic) could be used to treat addiction, kidney disease and more. Also recently revealed was that financial problems were a focus of the FBI&#39;s inquiry into Rudolph W. Giuliani&#39;s efforts to oust the American ambassador to Ukraine.</p>
+Right now, there is a lot of news around the potential role of the US Supreme Court in the 2024 election. President Donald Trump has several legal challenges to his eligibility for ballot eligibility in multiple states, while President Biden recently commented that it was &#39;self-evident&#39; that Trump supported an insurrection earlier this year. In response, Trump asked the Supreme Court to delay hearing cases on his immunity claim. On the international scene, there has been a major deal reached between EU countries over migration and Chinese military sites are being modernized for nuclear tests. Closer to home, a wrongfully convicted man is going through the process of being exonerated thanks to the long-term dedication of Karen Dannett, who hardly knew her father but was determined to clear his name. Finally, there is ongoing research into the potential uses of new diabetes and weight-loss drugs beyond its current usage in helping those with diabetic conditions and with their weight goals.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Cases Crashing Into Supreme Court Could Reshape 2024 Election</h3>
+<sub>By Alan Feuer</sub>
+<p>The ruling that Donald Trump is not eligible for the ballot in Colorado is the latest election-related issue likely to land before the justices. The implications for 2024 could be profound.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Here Are the Other States Where Trump’s Ballot Eligibility Faces a Challenge</h3>
+<sub>By Nick Corasaniti</sub>
+<p>At least 16 states beyond Colorado currently have open legal challenges to the former president’s eligibility for office — but what happens next depends on the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Says It’s ‘Self-Evident’ That Trump Supported an Insurrection</h3>
+<sub>By Eileen Sullivan</sub>
+<p>But President Biden said the courts must decide if former President Donald J. Trump should be on the ballot in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Indicted or Barred From the Ballot: For Trump, Bad News Cements Support</h3>
 <sub>By Maggie Haberman</sub>
@@ -77,16 +87,16 @@ Lastly, scientists are exploring whether new diabetes and weight-loss drugs (Oze
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Is Disqualified From 2024 Ballot, Colorado Court Says in Explosive Ruling</h3>
-<sub>By Maggie Astor</sub>
-<p>The decision, the first by a court to find that Donald Trump is ineligible to hold office again because he engaged in insurrection, is likely to put a monumental case before the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<h3>Trump Asks Supreme Court to Put Off Hearing Case on Immunity Claim</h3>
+<sub>By Adam Liptak</sub>
+<p>The former president urged the justices to move slowly in his federal election interference case, an apparent attempt to delay the trial, set for March.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Voters Share Sense of Unease After Court Disqualifies Trump</h3>
-<sub>By Thomas Fuller, Dave Philipps and Charlie Brennan</sub>
-<p>Whether for or against the decision, many voters said they felt unsettled by the prospect of a presidential campaign fought with legal briefs and court arguments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<h3>Judge Gives Prosecutors Access to G.O.P. Lawmaker’s Messages in Jan. 6 Case</h3>
+<sub>By Luke Broadwater</sub>
+<p>The roughly 1,700 messages are from the cellphone of Representative Scott Perry, who was involved in discussions with Trump administration officials about overturning the election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>China Quietly Rebuilds Secretive Base for Nuclear Tests</h3>
@@ -95,22 +105,10 @@ Lastly, scientists are exploring whether new diabetes and weight-loss drugs (Oze
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Amid Gaza War and Red Sea Attacks, Yemen’s Houthis Refuse to Back Down</h3>
-<sub>By Vivian Nereim and Shuaib Almosawa</sub>
-<p>The militia, which has targeted ships it says are connected to Israel, has vowed not to stop until the siege in Gaza ends and claims that a new U.S.-led maritime task force cannot deter the attacks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
 <sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
 <p>See where Israeli armored vehicles are operating across the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City, for Some Jews, Feels Newly Tense</h3>
-<sub>By Katherine Rosman and Jonah Markowitz</sub>
-<p>With antisemitism and protests spilling onto the streets of New York, the city’s Jewish population is trying to navigate the new contours of its hometown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>After Years of Wrangling, E.U. Countries Reach Major Deal on Migration</h3>
@@ -120,7 +118,7 @@ Lastly, scientists are exploring whether new diabetes and weight-loss drugs (Oze
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Fractious Immigration Vote Exposes Cracks in Macron’s Alliance</h3>
-<sub>By Aurelien Breeden</sub>
+<sub>By Catherine Porter and Aurelien Breeden</sub>
 <p>Nearly a quarter of lower-house lawmakers in President Emmanuel Macron’s coalition abstained or voted against a proposed overhaul. Government leaders denied a revolt was underway.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
@@ -135,12 +133,6 @@ Lastly, scientists are exploring whether new diabetes and weight-loss drugs (Oze
 <sub>By Dani Blum</sub>
 <p>Scientists are exploring whether the new diabetes and weight-loss drugs could also treat addiction, kidney disease and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Giuliani’s Money Woes Were a Focus of Ukraine Inquiry, Records Reveal</h3>
-<sub>By Ben Protess, William K. Rashbaum, Nicole Hong and Michael Rothfeld</sub>
-<p>F.B.I. agents scrutinizing Rudolph W. Giuliani’s efforts to oust the American ambassador to Ukraine thought financial problems might be motivating his actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
