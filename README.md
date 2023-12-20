@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! For starters, people who are most in need of housing assistance are getting the least help, while rents are rising and homelessness is at an all-time high. College football is creating housing issues all over the country – thanks to wealthy fans and investors turning homes into hotels for a few weeks every year. West Hollywood has raised its minimum wage to nearly $20 an hour, which may be causing some stress for local businesses. There&#39;s also a debate going on in the financial world over U.S. debt limits, and this is having major repercussions for funding government programs. On top of that, there have been attacks in the Red Sea which are causing issues for shipping companies and could lead to higher oil prices. Closer to home, opinion is split between those wanting the war in Gaza to end and those wanting an Israeli victory, and that is especially visible among younger generations. Meanwhile, President Biden&#39;s support for Israel appears to be pushing away some young voters. Lastly, Russia is finding creative ways to get around tech bans to get what it needs for its economy and military operations.</p>
+There&#39;s a lot going on in the world right now. In the US, Senate Republicans, notably Minority Leader McConnell, are criticizing Donald Trump&#39;s inflammatory rhetoric about immigrants, and tenants are receiving less government housing assistance as need rises. On Wall Street, investors and traders are debating if market appetite for U.S. debt is near a limit, while in West Hollywood the minimum wage is reported to be the highest in America. Elsewhere, college football fans and investors are taking over college town housing markets with short-term rentals; military aid to Ukraine has been punted to 2024, and escalating tensions in the Red Sea could cause an increase in oil prices. Meanwhile, Catholic priests are now allowed to bless same-sex couples in some countries. Lastly, there are new tests that can estimate your &quot;biological age&quot; based on your cells.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>McConnell and Other Senate Republicans Criticize Trump’s Talk on Immigrants</h3>
+<sub>By Chris Cameron</sub>
+<p>The minority leader took an oblique swipe at Donald Trump’s rhetoric about migrants “poisoning the blood” of the country, but others like Senator Tommy Tuberville defended him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>As Need Rises, Housing Aid Hits Lowest Level in Nearly 25 Years</h3>
 <sub>By Jason DeParle</sub>
@@ -86,10 +92,22 @@ There&#39;s a lot going on in the world right now! For starters, people who are 
 <p>The financial world has been debating if market appetite for U.S. debt is near a limit. Not everyone agrees this is something to panic about, but the ramifications for funding government priorities are immense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Red Sea Attacks Pose Another Threat to Global Economy</h3>
-<sub>By Peter Eavis</sub>
-<p>Already hampered by problems at the Panama Canal, shipping companies are now steering clear of the Suez Canal to avoid being attacked in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Dysfunction by the Numbers: 724 Votes, Only 26 Laws Enacted</h3>
+<sub>By Annie Karni</sub>
+<p>The tally reflects the extraordinary chaos and paralysis that gripped the House in 2023, when lawmakers did more voting but less lawmaking than at any time in the past decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 26 Bills That Became Law in 2023</h3>
+<sub>By Annie Karni</sub>
+<p>Despite holding more than 700 votes this year, the House only managed to pass 26 bills that have made it into law, thanks to tiny majorities, divided government and a right wing bent on constraining government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congress Abandons Ukraine Aid Until Next Year as Border Talks Continue</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Efforts to speed military assistance to Ukraine are being punted to 2024, as negotiators remain short of a deal Republicans have demanded to pair the aid with a border crackdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -104,35 +122,17 @@ There&#39;s a lot going on in the world right now! For starters, people who are 
 <p>Across the Middle East, people have hailed the Houthis as one of the few regional forces willing to challenge Israel with more than harsh words.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 12, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Poll Finds Wide Disapproval of Biden on Gaza, and Little Room to Shift Gears</h3>
-<sub>By Jonathan Weisman, Ruth Igielnik and Alyce McFadden</sub>
-<p>Opinion is split between those wanting the war to end and those pressing for a definitive Israeli victory, and the divide is starkest among older and younger generations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>How Much Is Biden’s Support of Israel Hurting Him With Young Voters?</h3>
-<sub>By Nate Cohn</sub>
-<p>Donald Trump leads him among those 18 to 29, a new poll shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What’s Your ‘Biological Age’?</h3>
+<sub>By Dana G. Smith</sub>
+<p>New tests promise to tell you if you have the cells of a 30-year-old or a 60-year-old. Here’s what to know about them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Mixes Grievance Politics With Bread-and-Butter G.O.P. Issues</h3>
-<sub>By Michael Gold</sub>
-<p>Though the former president often draws attention for his more extreme policy proposals and rhetoric, a set of core conservative issues appear to resonate even more with his supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>O’Connor, a ‘Daughter of the American West,’ Is Honored in Washington</h3>
-<sub>By Abbie VanSickle</sub>
-<p>President Biden remembered the Supreme Court’s first female justice as “gracious and wise, civil and principled” in a ceremony at Washington National Cathedral.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Making History on a Tuesday Morning, With the Church’s Blessing</h3>
+<sub>By Amy Harmon, Ruth Graham and Sarah Maslin Nir</sub>
+<p>A day after the pope’s announcement that Catholic priests may bless same-sex couples, one New York couple receives theirs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Chinese Traders and Moroccan Ports: How Russia Flouts Global Tech Bans</h3>
-<sub>By Paul Mozur, Aaron Krolik and Adam Satariano</sub>
-<p>Using specialized e-commerce sites, secretive shipping workarounds and a constellation of middlemen, Russia has obtained the tech components it needs to keep its economy and war in Ukraine going.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
