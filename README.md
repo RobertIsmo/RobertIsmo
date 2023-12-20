@@ -60,12 +60,38 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 19, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the US, Senate Republicans, notably Minority Leader McConnell, are criticizing Donald Trump&#39;s inflammatory rhetoric about immigrants, and tenants are receiving less government housing assistance as need rises. On Wall Street, investors and traders are debating if market appetite for U.S. debt is near a limit, while in West Hollywood the minimum wage is reported to be the highest in America. Elsewhere, college football fans and investors are taking over college town housing markets with short-term rentals; military aid to Ukraine has been punted to 2024, and escalating tensions in the Red Sea could cause an increase in oil prices. Meanwhile, Catholic priests are now allowed to bless same-sex couples in some countries. Lastly, there are new tests that can estimate your &quot;biological age&quot; based on your cells.</p>
+There has been a lot of political turmoil in the US with the Supreme Court disqualifying former president Donald Trump from holding office again. Senate Republicans have also criticized his talk on immigrants, which has sparked more debate. In the House, there has been a lot of discord and dysfunction with more voting but less lawmaking compared to past years. They only managed to pass 27 bills that became law for the year. As for other matters in the US, Congress delayed providing assistance to Ukraine until next year, housing aid has hit its lowest level in 25 years, and college football is taking over housing markets across the country. 
+
+In world news, there has been a rise of influence from the Houthi militia in Yemen as they&#39;ve increased their ship attacks on the Red Sea. Meanwhile, Ukraine&#39;s counteroffensive against Russia hasn&#39;t had much success, but President Zelensky is insistent that Ukraine will prevail. Finally, there are some interesting things going on with how people read books - there are &#39;reading parties&#39; now where guests can chat about the books they brought and join strangers.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the Colorado Supreme Court’s Decision Disqualifying Trump From the Ballot</h3>
+<sub></sub>
+<p>Colorado’s top court ruled on Tuesday that former President Donald J. Trump is disqualified from holding office again because he engaged in insurrection leading up to the Jan. 6 storming of the Capitol. Here is the full ruling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>McConnell and Other Senate Republicans Criticize Trump’s Talk on Immigrants</h3>
 <sub>By Chris Cameron</sub>
 <p>The minority leader took an oblique swipe at Donald Trump’s rhetoric about migrants “poisoning the blood” of the country, but others like Senator Tommy Tuberville defended him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Dysfunction by the Numbers: 724 Votes, Only 27 Laws Enacted</h3>
+<sub>By Annie Karni</sub>
+<p>The tally reflects the extraordinary chaos and paralysis that gripped the House in 2023, when lawmakers did more voting but less lawmaking than at any time in the past decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The 27 Bills That Became Law in 2023</h3>
+<sub>By Annie Karni</sub>
+<p>Despite holding more than 700 votes this year, the House only managed to pass 27 bills that have made it into law, thanks to tiny majorities, divided government and a right wing bent on constraining government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Congress Abandons Ukraine Aid Until Next Year as Border Talks Continue</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Efforts to speed military assistance to Ukraine are being punted to 2024, as negotiators remain short of a deal for aid Republicans have demanded to pair with a border crackdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -79,42 +105,6 @@ There&#39;s a lot going on in the world right now. In the US, Senate Republicans
 <sub>By Allison Salerno</sub>
 <p>Short-term rentals are taking over college towns, fueled by wealthy fans and investors who turn homes into hotels for a few weeks out of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Doing Business in the Place With America’s Highest Minimum Wage</h3>
-<sub>By Kurtis Lee</sub>
-<p>In July, West Hollywood raised its minimum wage to $19.08 an hour, causing angst among those who own businesses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street’s ‘Bond Vigilantes’ Are at Battle as U.S. Debt Soars</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>The financial world has been debating if market appetite for U.S. debt is near a limit. Not everyone agrees this is something to panic about, but the ramifications for funding government priorities are immense.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Dysfunction by the Numbers: 724 Votes, Only 26 Laws Enacted</h3>
-<sub>By Annie Karni</sub>
-<p>The tally reflects the extraordinary chaos and paralysis that gripped the House in 2023, when lawmakers did more voting but less lawmaking than at any time in the past decade.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The 26 Bills That Became Law in 2023</h3>
-<sub>By Annie Karni</sub>
-<p>Despite holding more than 700 votes this year, the House only managed to pass 26 bills that have made it into law, thanks to tiny majorities, divided government and a right wing bent on constraining government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Abandons Ukraine Aid Until Next Year as Border Talks Continue</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Efforts to speed military assistance to Ukraine are being punted to 2024, as negotiators remain short of a deal Republicans have demanded to pair the aid with a border crackdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Does the Red Sea Crisis Mean for Oil Prices?</h3>
-<sub>By Stanley Reed</sub>
-<p>Many energy and shipping firms have begun rerouting tankers, adding delays and extra costs to journeys that would put upward pressure on oil prices.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Houthi Militia in Yemen Has Gained Clout With Ship Attacks in the Red Sea</h3>
@@ -132,6 +122,18 @@ There&#39;s a lot going on in the world right now. In the US, Senate Republicans
 <h3>Making History on a Tuesday Morning, With the Church’s Blessing</h3>
 <sub>By Amy Harmon, Ruth Graham and Sarah Maslin Nir</sub>
 <p>A day after the pope’s announcement that Catholic priests may bless same-sex couples, one New York couple receives theirs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>It’s My Party and I’ll Read If I Want To</h3>
+<sub>By Molly Young</sub>
+<p>Reading Rhythms bills itself as a series of “reading parties,” where guests read silently for an hour and chat with strangers about the books they brought. (Just don’t call it a book club.)  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Zelensky, After Tough Year on Battlefield, Insists Ukraine Will Prevail</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>Ukraine’s counteroffensive sputtered, but President Volodymyr Zelensky argued that Russia, too, “failed to achieve any results” on the ground, while Ukraine had successes at sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
