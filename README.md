@@ -58,22 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, December 19, Central Standard Time</p>
+<p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-There has been a lot of political turmoil in the US with the Supreme Court disqualifying former president Donald Trump from holding office again. Senate Republicans have also criticized his talk on immigrants, which has sparked more debate. In the House, there has been a lot of discord and dysfunction with more voting but less lawmaking compared to past years. They only managed to pass 27 bills that became law for the year. As for other matters in the US, Congress delayed providing assistance to Ukraine until next year, housing aid has hit its lowest level in 25 years, and college football is taking over housing markets across the country. 
+2020 was an emotionally draining year for many people around the world. There was a lot of political turmoil in the US, with the Supreme Court ruling to disqualify former President Donald Trump from office. Congress was also incredibly dysfunctional--they managed to pass only 27 bills into law despite holding more than 700 votes. In Yemen, Houthi militia have increased their influence through ship attacks in the Red Sea. 
 
-In world news, there has been a rise of influence from the Houthi militia in Yemen as they&#39;ve increased their ship attacks on the Red Sea. Meanwhile, Ukraine&#39;s counteroffensive against Russia hasn&#39;t had much success, but President Zelensky is insistent that Ukraine will prevail. Finally, there are some interesting things going on with how people read books - there are &#39;reading parties&#39; now where guests can chat about the books they brought and join strangers.</p>
+Meanwhile, people in Ukraine were struggling to cope with a war against Russia while in the US, people faced astronomically high rents and record levels of homelessness. Pope Francis even changed Church laws to allow priests to bless same-sex couples. Finally, photographers have captured powerful images of war and grief that highlighted 2020&#39;s heavier moments.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read the Colorado Supreme Court’s Decision Disqualifying Trump From the Ballot</h3>
 <sub></sub>
 <p>Colorado’s top court ruled on Tuesday that former President Donald J. Trump is disqualified from holding office again because he engaged in insurrection leading up to the Jan. 6 storming of the Capitol. Here is the full ruling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>McConnell and Other Senate Republicans Criticize Trump’s Talk on Immigrants</h3>
-<sub>By Chris Cameron</sub>
-<p>The minority leader took an oblique swipe at Donald Trump’s rhetoric about migrants “poisoning the blood” of the country, but others like Senator Tommy Tuberville defended him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -89,9 +83,9 @@ In world news, there has been a rise of influence from the Houthi militia in Yem
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Congress Abandons Ukraine Aid Until Next Year as Border Talks Continue</h3>
+<h3>Senate Confirms Remaining Senior Officers, Ending Tuberville’s Protest</h3>
 <sub>By Karoun Demirjian</sub>
-<p>Efforts to speed military assistance to Ukraine are being punted to 2024, as negotiators remain short of a deal for aid Republicans have demanded to pair with a border crackdown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Alabama Republican, under pressure from his own party, agreed to drop his objections to the remaining 11 military nominees to four-star positions, allowing their swift confirmation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -118,16 +112,16 @@ In world news, there has been a rise of influence from the Houthi militia in Yem
 <p>New tests promise to tell you if you have the cells of a 30-year-old or a 60-year-old. Here’s what to know about them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Giuliani’s Money Woes Were a Focus of Ukraine Inquiry, Records Reveal</h3>
+<sub>By Ben Protess, William K. Rashbaum, Nicole Hong and Michael Rothfeld</sub>
+<p>F.B.I. agents scrutinizing Rudolph W. Giuliani’s efforts to oust the American ambassador to Ukraine thought financial problems might be motivating his actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Making History on a Tuesday Morning, With the Church’s Blessing</h3>
 <sub>By Amy Harmon, Ruth Graham and Sarah Maslin Nir</sub>
 <p>A day after the pope’s announcement that Catholic priests may bless same-sex couples, one New York couple receives theirs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>It’s My Party and I’ll Read If I Want To</h3>
-<sub>By Molly Young</sub>
-<p>Reading Rhythms bills itself as a series of “reading parties,” where guests read silently for an hour and chat with strangers about the books they brought. (Just don’t call it a book club.)  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -135,6 +129,12 @@ In world news, there has been a rise of influence from the Houthi militia in Yem
 <sub>By Andrew E. Kramer</sub>
 <p>Ukraine’s counteroffensive sputtered, but President Volodymyr Zelensky argued that Russia, too, “failed to achieve any results” on the ground, while Ukraine had successes at sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>2023 in Photos: A Weary World</h3>
+<sub></sub>
+<p>Photographers captured historic moments of war, grief and wonder that defined the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
