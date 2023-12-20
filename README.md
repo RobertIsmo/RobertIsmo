@@ -60,14 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of political turmoil in the United States. In Colorado, a court ruled that former president Donald Trump is ineligible to hold office again due to his involvement in the insurrection. Voters in Colorado and everywhere are feeling uneasy about this ruling and it&#39;s likely to go to the Supreme Court. 
+In the US, former President Donald Trump has been barred from running in the 2024 presidential election by a Colorado court following his involvement in an attempted insurrection. People are feeling uneasy about the prospects of a legal battle for the presidency. 
 
-Over in China, they are investing heavily in the modernization of an old military base called Lop Nur for nuclear tests. Meanwhile, in Yemen, the Houthi militia has been attacking ships they believe are connected to Israel and they refuse to back down until the siege in Gaza ends. 
+Meanwhile, China has been quietly rebuilding a secretive nuclear testing site, and in Gaza and the Red Sea region, the Houthis militia is carrying out attacks connected to Israel and vowing not to back down until the siege in Gaza ends. 
 
-In New York City, antisemitism and protests have spilled onto the streets and Jewish people are trying to find their way through the tension. Former mayor Rudolph W. Giuliani is also facing scrutiny as the FBI investigates his efforts to oust the American ambassador from Ukraine potentially motivated by his own financial issues. 
+In response to rising anti-migrant sentiment around Europe, an EU deal on migration has been reached after years of wrangling. However, President Emmanuel Macron&#39;s coalition recently fractured during a vote to overhaul immigration policies. 
 
-On a lighter note, some baking companies have noticed that shape-shifting cookie cutters can tell us a lot about what people are thinking and predicting for future economies such as in 2023. Lastly, drones are giving Ukraine some success at sea as they fight Russia with help from the White House.</p>
+Here in New York City, Jews have been feeling increasingly tense with targeted protests and antisemitism spilling onto its streets. In one instance, a woman set out to free her father who had been wrongly convicted of killing her father - which became a decades-long mission. 
+
+Lastly, scientists are exploring whether new diabetes and weight-loss drugs (Ozempic) could be used to treat addiction, kidney disease and more. Also recently revealed was that financial problems were a focus of the FBI&#39;s inquiry into Rudolph W. Giuliani&#39;s efforts to oust the American ambassador to Ukraine.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Indicted or Barred From the Ballot: For Trump, Bad News Cements Support</h3>
+<sub>By Maggie Haberman</sub>
+<p>The former president has perfected a playbook of victimhood, raising cash off each of his indictments and encouraging Republican officials to defend him, as his rivals did after the Colorado ruling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Is Disqualified From 2024 Ballot, Colorado Court Says in Explosive Ruling</h3>
 <sub>By Maggie Astor</sub>
@@ -79,18 +87,6 @@ On a lighter note, some baking companies have noticed that shape-shifting cookie
 <sub>By Thomas Fuller, Dave Philipps and Charlie Brennan</sub>
 <p>Whether for or against the decision, many voters said they felt unsettled by the prospect of a presidential campaign fought with legal briefs and court arguments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Ruling Knocks Trump Off Ballot: What It Means, What Happens Next</h3>
-<sub>By Adam Liptak</sub>
-<p>The challengers who sought to disqualify Donald J. Trump prevailed on every legal issue, but the case is almost certainly headed for the Supreme Court, where they would have to do so again.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Why a Colorado Court Just Knocked Trump Off the Ballot</h3>
-<sub>By Michael Barbaro, Rob Szypko, Carlos Prieto, Lisa Chow, Rachel Quester and Chris Wood</sub>
-<p>A ruling disqualifying former President Donald J. Trump from the state’s 2024 primary ballot is likely headed for the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
 <h3>China Quietly Rebuilds Secretive Base for Nuclear Tests</h3>
@@ -116,28 +112,34 @@ On a lighter note, some baking companies have noticed that shape-shifting cookie
 <p>With antisemitism and protests spilling onto the streets of New York, the city’s Jewish population is trying to navigate the new contours of its hometown.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>After Years of Wrangling, E.U. Countries Reach Major Deal on Migration</h3>
+<sub>By Matina Stevis-Gridneff</sub>
+<p>The agreement was aimed at allaying pressures from the far right amid rising anti-migrant sentiment in Europe and beyond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Fractious Immigration Vote Exposes Cracks in Macron’s Alliance</h3>
+<sub>By Aurelien Breeden</sub>
+<p>Nearly a quarter of lower-house lawmakers in President Emmanuel Macron’s coalition abstained or voted against a proposed overhaul. Government leaders denied a revolt was underway.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Was Wrongly Convicted of Killing Her Father. She Set Out to Free Him.</h3>
+<sub>By Maria Cramer</sub>
+<p>Karen Dannett hardly knew her father. But freeing the man imprisoned for killing him became a decades-long mission.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What’s Next For Ozempic?</h3>
+<sub>By Dani Blum</sub>
+<p>Scientists are exploring whether the new diabetes and weight-loss drugs could also treat addiction, kidney disease and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Giuliani’s Money Woes Were a Focus of Ukraine Inquiry, Records Reveal</h3>
 <sub>By Ben Protess, William K. Rashbaum, Nicole Hong and Michael Rothfeld</sub>
 <p>F.B.I. agents scrutinizing Rudolph W. Giuliani’s efforts to oust the American ambassador to Ukraine thought financial problems might be motivating his actions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-dining-blue" alt="">
-<h3>What’s Ahead in 2024? The Cookie Cutters Tell All.</h3>
-<sub>By Priya Krishna</sub>
-<p>The shape-shifting baking tools can reveal a lot about what’s on people’s minds, as one American company has learned, to its profit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What Social Trends Taught Us About the 2023 Economy</h3>
-<sub>By Jeanna Smialek</sub>
-<p>From girl dinners to ChatGPT, a look back at the trends that broke the internet and taught us about the American economy this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a Tough Year on Land, Drones Give Ukraine Some Success at Sea</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The use of sea drones highlights a path forward for Ukraine in its fight with Russia that has been promoted by the White House and embraced by the Ukrainian leadership.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
