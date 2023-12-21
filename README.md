@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There are a few interesting things going on in the world right now. In the U.S., President Trump is facing legal issues concerning his ballot eligibility and criminal cases, while Democrats are still hoping his time in office ends soon. Meanwhile, in Europe, policymakers are considering using $300 billion in Russian assets to help fund Ukraine&#39;s war effort as funding starts drying up. In the Czech Republic, 15 people recently died after a shooting at a university, and there is yet another tragedy unfolding in Gaza, where Israeli forces are hunting for Hamas commanders who have escaped their grip. Finally, Harvard has recently found instances of“duplicative language” in their president’s work and she&#39;s facing backlash over it.</p>
+There&#39;s a lot happening around the world right now. In Europe, there is a proposal to use $300 billion in Russian assets to help Ukraine&#39;s war effort, while in the Czech Republic there was a shooting at Prague University that left 15 people dead. In the US, Rudolph Giuliani filed for bankruptcy, President Trump had his worst track record before the Supreme Court since the 1930s, and Ron DeSantis suggested Trump&#39;s legal woes made it harder for his rivals to break through in the Republican primary. Meanwhile, in Gaza, over 20,000 people have died as a result of ongoing wars with Israel. Shari Redstone, ruler of a vast media kingdom, is also weighing a sale due to financial pressures. Finally, here in New York City, there is James Kane who tosses a giant magnet into the water to fish out all kinds of things.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and Europe Eye Russian Assets to Aid Ukraine as Funding Dries Up</h3>
@@ -69,15 +69,21 @@ There are a few interesting things going on in the world right now. In the U.S.,
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>15 Dead in Czech Republic After Shooting at Prague University</h3>
-<sub>By Andrew Higgins and Jenny Gross</sub>
-<p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Least 15 Dead in Czech Republic After Shooting at Prague University</h3>
+<sub>By Andrew Higgins, Jenny Gross and Aric Toler</sub>
+<p>The police said the suspect, who killed himself, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats Keep Hoping It’s Curtains for Trump. He’s Still Center Stage.</h3>
-<sub>By Reid J. Epstein</sub>
-<p>As Donald Trump faces a new threat to his political future, this time over the question of ballot eligibility, Democrats again find themselves looking toward American institutions to stop him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Giuliani Files for Bankruptcy Protection</h3>
+<sub>By Eileen Sullivan and Alan Feuer</sub>
+<p>Rudolph Giuliani filed papers in federal bankruptcy court in New York, listing debts including big legal fees, unpaid taxes and the $148 million a jury ordered him to pay two Georgia election workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Trump Cases Shadowed by Rocky Relationship With Supreme Court</h3>
+<sub>By Adam Liptak</sub>
+<p>Though he appointed three justices, his administration had the worst track record before the justices since at least the 1930s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,28 +93,22 @@ There are a few interesting things going on in the world right now. In the U.S.,
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Pushes Pro-Police Agenda, With a Big Exception: His Criminal Cases</h3>
-<sub>By Michael Gold</sub>
-<p>Long a loud supporter of the police, Donald Trump is floating new protections for them. At the same time, he is raging against law enforcement officials who have brought felony charges against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Says Trump’s Indictments ‘Sucked Out All the Oxygen’ From Primary</h3>
 <sub>By Maya King</sub>
 <p>Ron DeSantis seemed to acknowledge that the former president’s legal woes were making it harder for his rivals to break through in the Republican primary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Key Hamas Plotters of Oct. 7 Elude Israel’s Grip on Gaza</h3>
-<sub>By Ben Hubbard</sub>
-<p>Israel has battered Gaza in its quest to destroy Hamas, without finding the commanders it has named as its most important targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<h3>Gaza Deaths Surpass Any Arab Loss in Wars With Israel in Past 40 Years</h3>
+<sub>By Liam Stack</sub>
+<p>The death toll reported in Gaza has reached roughly 20,000, according to officials in the territory, the heaviest loss on the Arab side in any war with Israel since the 1982 Lebanon invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>In Jordan, a Sprawling Palestinian Diaspora Looks Towards Gaza</h3>
-<sub>Photographs by Moises Saman</sub>
-<p>The story of 2.3 million Palestinian refugees in Jordan has been shaped by generations of war and exile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I Left Him Behind’: Freed Hostage Fears for Father, Still in Gaza</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Sahar Kalderon, 16, spent 52 days as a hostage. She says she cannot enjoy her freedom until her father, Ofer, is free.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.</h3>
@@ -128,11 +128,11 @@ There are a few interesting things going on in the world right now. In the U.S.,
 <p>All day long, James Kane tosses a giant magnet into New York’s murkiest waters. There’s got to be money in there somewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard Finds More Instances of ‘Duplicative Language’ in President’s Work</h3>
-<sub>By Jennifer Schuessler</sub>
-<p>Claudine Gay has faced growing criticism of not only her response to antisemitism on campus but also her scholarship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Is Shari Redstone, Ruler of a Vast Media Kingdom, Weighing a Sale?</h3>
+<sub>By Benjamin Mullin</sub>
+<p>She fought to keep control of her family’s media empire. Now she’s considering an exit as financial pressures mount.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
