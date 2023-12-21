@@ -60,37 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! In Ukraine, China has been cashing in on their trade with Russia this year, which exceeded $200 billion. In the US, Donald Trump&#39;s ballot eligibility is being heavily challenged and the Supreme Court cases could have a profound impact on the 2024 election. In addition, Harvard has found more instances of plagiarism in president Claudine Gay&#39;s work, while in Oklahoma, a man was just recently exonerated after serving a 48-year long wrongful murder sentence. On the world stage, Israel has been battering Gaza in an attempt to destroy Hamas but the ceasefire talks have bogged down over disputes about aid inspections. Moreover, the Polish right is occupying State TV and refusing to accept their loss of power. It&#39;s definitely an interesting time we&#39;re living in!</p>
+Recently, there has been a lot of political news and events happening in the world. In the US, Democrats are hoping for Donald Trump to be removed from office, while Trump is pushing a pro-police agenda but is getting criticized for criminal charges against him. In Jordan, a diaspora of Palestinian refugees is looking to Gaza. War in Ukraine has caused an increased trade with Russia, and top Hamas plotters are eluding Israel’s grip on Gaza. Harvard has found more instances of “duplicative language” in President Claudine Gay’s work and Kendra’s Law in New York was meant to prevent violence but has failed hundreds of times. Lastly, stakes have changed in an old fight over South America as Venezuela’s claim to most of Guyana’s territory is complicating US foreign policy.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>War in Ukraine Has China Cashing In</h3>
-<sub>By Keith Bradsher</sub>
-<p>The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats Keep Hoping It’s Curtains for Trump. He’s Still Center Stage.</h3>
+<sub>By Reid J. Epstein</sub>
+<p>As Donald Trump faces a new threat to his political future, this time over the question of ballot eligibility, Democrats again find themselves looking toward American institutions to stop him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>How Iowa Learned to Love Trump</h3>
+<sub>By Astead W. Herndon, Elisa Gutierrez and Anna Foley</sub>
+<p>Iowa’s Republican voters typically reward faith-driven candidates. That doesn’t look to be how 2024 is shaping up. At the state fair, it was clear why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Colorado Court That Barred Trump: Appointed by Democrats but Narrowly Split</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>The 4-3 decision was harshly criticized by Trump supporters, who called it undemocratic. But some observers say the court is notably nonpartisan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Cases Crashing Into Supreme Court Could Reshape 2024 Election</h3>
-<sub>By Alan Feuer</sub>
-<p>The ruling that Donald Trump is not eligible for the ballot in Colorado is the latest election-related issue likely to land before the justices. The implications for 2024 could be profound.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<h3>Trump Pushes Pro-Police Agenda, With a Big Exception: His Criminal Cases</h3>
+<sub>By Michael Gold</sub>
+<p>Long a loud supporter of the police, Donald Trump is floating new protections for them. At the same time, he is raging against law enforcement officials who have brought felony charges against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Here Are the Other States Where Trump’s Ballot Eligibility Faces a Challenge</h3>
-<sub>By Nick Corasaniti</sub>
-<p>At least 16 states beyond Colorado currently have open legal challenges to the former president’s eligibility for office — but what happens next depends on the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Supreme Court to Put Off Hearing Case on Immunity Claim</h3>
-<sub>By Adam Liptak</sub>
-<p>The former president urged the justices to move slowly in his federal election interference case, an apparent attempt to delay the trial, set for March.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Judge Gives Prosecutors Access to G.O.P. Lawmaker’s Messages in Jan. 6 Case</h3>
-<sub>By Luke Broadwater</sub>
-<p>The roughly 1,700 messages are from the cellphone of Representative Scott Perry, who was involved in discussions with Trump administration officials about overturning the election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Gaza Talks Stall, and a Record Wrongful Sentence</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Key Hamas Plotters of Oct. 7 Elude Israel’s Grip on Gaza</h3>
@@ -98,10 +98,16 @@ There&#39;s a lot going on in the world right now! In Ukraine, China has been ca
 <p>Israel has battered Gaza in its quest to destroy Hamas, without finding the commanders it has named as its most important targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza Truce Talks Bog Down Over Disputes on Aid Inspections</h3>
-<sub>By Farnaz Fassihi, Patrick Kingsley, Aaron Boxerman and Michael Levenson</sub>
-<p>In Cairo and at the U.N., negotiators struggled to come up with plans for pausing the fighting, freeing hostages and speeding up help for Gazans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>In Jordan, a Sprawling Palestinian Diaspora Looks Towards Gaza</h3>
+<sub>Photographs by Moises Saman</sub>
+<p>The story of 2.3 million Palestinian refugees in Jordan has been shaped by generations of war and exile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>War in Ukraine Has China Cashing In</h3>
+<sub>By Keith Bradsher</sub>
+<p>The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +122,16 @@ There&#39;s a lot going on in the world right now! In Ukraine, China has been ca
 <p>Here are five examples of work by President Claudine Gay of Harvard that have been spotlighted by critics who have accused her of plagiarism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Cleared of Murder After More Than 48 Years in Prison</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Glynn Simmons, 70, of Oklahoma, was exonerated after a 1975 conviction for a murder he did not commit, prosecutors said. He served the longest wrongful sentence in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Amid Dismal Polling and Some Voter Anger, Don’t Expect Biden to Shift His Strategy</h3>
-<sub>By Katie Rogers</sub>
-<p>Officials in the president’s orbit say polls won’t change a strategy centered on comparing the Biden agenda with a Republican one, even as some allies feel betrayed by his policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Kendra’s Law Was Meant to Prevent Violence. It Failed Hundreds of Times.</h3>
+<sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
+<p>New York’s premier monitoring program for people with mental illness has broken down repeatedly, including in five cases involving people who committed subway shovings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Refusing to Accept Loss of Power, Polish Right Occupies State TV</h3>
-<sub>By Andrew Higgins</sub>
-<p>The sit-in shut down Poland’s main public news station, a possible harbinger of battles to come as the party voted out of power tries to keep its grip on state institutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Stakes Change, but an Old Fight Over a Chunk of South America Flares Again</h3>
+<sub>By Simon Romero</sub>
+<p>Venezuela’s claim to most of Guyana’s territory has been made against leftists and by leftists. It’s been about colonialism, nationalism, Cold War and oil, and it’s complicating U.S. foreign policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
