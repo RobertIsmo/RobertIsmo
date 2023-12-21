@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-Recently, there has been a lot of political news and events happening in the world. In the US, Democrats are hoping for Donald Trump to be removed from office, while Trump is pushing a pro-police agenda but is getting criticized for criminal charges against him. In Jordan, a diaspora of Palestinian refugees is looking to Gaza. War in Ukraine has caused an increased trade with Russia, and top Hamas plotters are eluding Israel’s grip on Gaza. Harvard has found more instances of “duplicative language” in President Claudine Gay’s work and Kendra’s Law in New York was meant to prevent violence but has failed hundreds of times. Lastly, stakes have changed in an old fight over South America as Venezuela’s claim to most of Guyana’s territory is complicating US foreign policy.</p>
+There is a lot going on in the world right now. In American politics, Democrats are continuing to try to stop Donald Trump from running for office again, while he is pushing pro-police agendas. In the Middle East, talks between Israel and Gaza have stalled and violence continues. Meanwhile, in Jordan, millions of Palestinian refugees are looking towards Gaza for hope. On a more positive note, China has seen a trade boost off of the war in Ukraine. Finally, New York&#39;s monitoring program of people with mental illness has failed hundreds of times.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats Keep Hoping It’s Curtains for Trump. He’s Still Center Stage.</h3>
@@ -104,11 +104,11 @@ Recently, there has been a lot of political news and events happening in the wor
 <p>The story of 2.3 million Palestinian refugees in Jordan has been shaped by generations of war and exile.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>War in Ukraine Has China Cashing In</h3>
-<sub>By Keith Bradsher</sub>
-<p>The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Army’s Blast Safety Limit May Miss Risks From Powerful Weapons</h3>
+<sub>By Dave Philipps</sub>
+<p>Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard Finds More Instances of ‘Duplicative Language’ in President’s Work</h3>
@@ -122,17 +122,17 @@ Recently, there has been a lot of political news and events happening in the wor
 <p>Here are five examples of work by President Claudine Gay of Harvard that have been spotlighted by critics who have accused her of plagiarism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>War in Ukraine Has China Cashing In</h3>
+<sub>By Keith Bradsher</sub>
+<p>The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Kendra’s Law Was Meant to Prevent Violence. It Failed Hundreds of Times.</h3>
 <sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
-<p>New York’s premier monitoring program for people with mental illness has broken down repeatedly, including in five cases involving people who committed subway shovings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>New York’s premier monitoring program for people with mental illness has broken down repeatedly, including in five cases involving subway shovings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Stakes Change, but an Old Fight Over a Chunk of South America Flares Again</h3>
-<sub>By Simon Romero</sub>
-<p>Venezuela’s claim to most of Guyana’s territory has been made against leftists and by leftists. It’s been about colonialism, nationalism, Cold War and oil, and it’s complicating U.S. foreign policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
