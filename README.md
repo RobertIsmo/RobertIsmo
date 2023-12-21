@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In American politics, Democrats are continuing to try to stop Donald Trump from running for office again, while he is pushing pro-police agendas. In the Middle East, talks between Israel and Gaza have stalled and violence continues. Meanwhile, in Jordan, millions of Palestinian refugees are looking towards Gaza for hope. On a more positive note, China has seen a trade boost off of the war in Ukraine. Finally, New York&#39;s monitoring program of people with mental illness has failed hundreds of times.</p>
+There are a few interesting things going on in the world right now. In the U.S., President Trump is facing legal issues concerning his ballot eligibility and criminal cases, while Democrats are still hoping his time in office ends soon. Meanwhile, in Europe, policymakers are considering using $300 billion in Russian assets to help fund Ukraine&#39;s war effort as funding starts drying up. In the Czech Republic, 15 people recently died after a shooting at a university, and there is yet another tragedy unfolding in Gaza, where Israeli forces are hunting for Hamas commanders who have escaped their grip. Finally, Harvard has recently found instances of“duplicative language” in their president’s work and she&#39;s facing backlash over it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. and Europe Eye Russian Assets to Aid Ukraine as Funding Dries Up</h3>
+<sub>By David E. Sanger and Alan Rappeport</sub>
+<p>Despite legal reservations, policymakers are weighing the consequences of using $300 billion in Russian assets to help Kyiv’s war effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>15 Dead in Czech Republic After Shooting at Prague University</h3>
+<sub>By Andrew Higgins and Jenny Gross</sub>
+<p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Democrats Keep Hoping It’s Curtains for Trump. He’s Still Center Stage.</h3>
 <sub>By Reid J. Epstein</sub>
 <p>As Donald Trump faces a new threat to his political future, this time over the question of ballot eligibility, Democrats again find themselves looking toward American institutions to stop him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>How Iowa Learned to Love Trump</h3>
-<sub>By Astead W. Herndon, Elisa Gutierrez and Anna Foley</sub>
-<p>Iowa’s Republican voters typically reward faith-driven candidates. That doesn’t look to be how 2024 is shaping up. At the state fair, it was clear why.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,10 +92,10 @@ There is a lot going on in the world right now. In American politics, Democrats 
 <p>Long a loud supporter of the police, Donald Trump is floating new protections for them. At the same time, he is raging against law enforcement officials who have brought felony charges against him.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Gaza Talks Stall, and a Record Wrongful Sentence</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Says Trump’s Indictments ‘Sucked Out All the Oxygen’ From Primary</h3>
+<sub>By Maya King</sub>
+<p>Ron DeSantis seemed to acknowledge that the former president’s legal woes were making it harder for his rivals to break through in the Republican primary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -105,9 +111,21 @@ There is a lot going on in the world right now. In American politics, Democrats 
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Army’s Blast Safety Limit May Miss Risks From Powerful Weapons</h3>
+<h3>The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.</h3>
 <sub>By Dave Philipps</sub>
 <p>Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Pope’s Shift on Gay Couples Followed Quiet Talks and Loud Resistance</h3>
+<sub>By Jason Horowitz</sub>
+<p>Pope Francis spoke with L.G.B.T.Q. Catholics and their supporters for years before letting priests bless same-sex couples. But the move’s timing also owed something to its conservative opponents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>He Has Fished Out Grenades, Bikes and Guns. Can Fame Be Far Behind?</h3>
+<sub>By Allie Conti</sub>
+<p>All day long, James Kane tosses a giant magnet into New York’s murkiest waters. There’s got to be money in there somewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,24 +133,6 @@ There is a lot going on in the world right now. In American politics, Democrats 
 <sub>By Jennifer Schuessler</sub>
 <p>Claudine Gay has faced growing criticism of not only her response to antisemitism on campus but also her scholarship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Excerpts From Dr. Claudine Gay’s Work</h3>
-<sub>By Anemona Hartocollis and Sheelagh McNeill</sub>
-<p>Here are five examples of work by President Claudine Gay of Harvard that have been spotlighted by critics who have accused her of plagiarism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>War in Ukraine Has China Cashing In</h3>
-<sub>By Keith Bradsher</sub>
-<p>The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Kendra’s Law Was Meant to Prevent Violence. It Failed Hundreds of Times.</h3>
-<sub>By Amy Julia Harris, Jan Ransom and José A. Alvarado Jr.</sub>
-<p>New York’s premier monitoring program for people with mental illness has broken down repeatedly, including in five cases involving subway shovings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
