@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-There are a lot of big news stories happening currently in the US and around the world. In the US, Donald Trump has been declared ineligible to run for president again in Colorado and there are challenges in at least 16 other states. Trump also recently asked the Supreme Court to delay a hearing about whether he has immunity from prosecution for his election interference case. Meanwhile, a judge granted prosecutors access to the messages of a Republican state politician who had discussed overturning the election results with Trump officials. On the political side, despite Senate leaders of both parties making progress on a package tying Ukraine military assistance to tougher border policies, they chose to punt many other difficult issues until 2024. On business news, Warner Bros. Discovery is reportedly in talks with Paramount to merge. Lastly, Glynn Simmons has been cleared of murder after serving 48 years in prison—the longest wrongful sentence in the United States—and scientists are exploring if Ozempic, a new diabetes and weight-loss drug, could also treat addiction, kidney disease and more. In Poland, meanwhile, the right refuses to accept its loss of power and has occupied its main public news station.</p>
+There are a lot of political and legal issues happening right now in the US. There&#39;s a case that has been brought to the Supreme Court where Donald Trump&#39;s eligibility for the ballot in Colorado is being challenged, which could have profound implications for the 2024 election. There are also cases in at least 16 other states challenging Trump&#39;s eligibility for office. Otherwise, President Biden and the Senate have wrapped up the year, punting some of the most difficult issues to 2024 while there have been discussions about a possible merger between Warner Bros. Discovery and Paramount. Also, there&#39;s been an exoneration of an Oklahoma man who had served 48 years for a murder he did not commit.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Cases Crashing Into Supreme Court Could Reshape 2024 Election</h3>
@@ -81,9 +81,9 @@ There are a lot of big news stories happening currently in the US and around the
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ruling in Colorado Will Test Conservative Approach to Law</h3>
+<h3>Will Conservative Supreme Court Stick to Values in Trump Ruling in Colorado?</h3>
 <sub>By Charlie Savage</sub>
-<p>A ruling that Donald Trump is ineligible for the presidency will test a conservative Supreme Court’s methodological values.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A ruling that Donald Trump is ineligible for the presidency will test the court’s methodological values.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,9 +99,21 @@ There are a lot of big news stories happening currently in the US and around the
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza Truce Talks Bog Down Over Disputes on Aid Inspections</h3>
+<sub>By Farnaz Fassihi, Patrick Kingsley, Aaron Boxerman and Michael Levenson</sub>
+<p>In Cairo and at the U.N., negotiators struggled to come up with plans for pausing the fighting, freeing hostages and speeding up help for Gazans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Defense Chief Says Israeli Shift Would Reduce Fears of a Regional War</h3>
 <sub>By Eric Schmitt</sub>
 <p>The Biden administration is urging Israel to phase out high-intensity military missions in Gaza to avoid broader conflict with Iran and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Amid Dismal Polling and Some Voter Anger, Don’t Expect Biden to Shift His Strategy</h3>
+<sub>By Katie Rogers</sub>
+<p>Officials in the president’s orbit say polls won’t change a strategy centered on comparing the Biden agenda with a Republican one, even as some allies feel betrayed by his policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ There are a lot of big news stories happening currently in the US and around the
 <h3>Man Cleared of Murder After More Than 48 Years in Prison</h3>
 <sub>By Jesus Jiménez</sub>
 <p>Glynn Simmons, 70, of Oklahoma, was exonerated after a 1975 conviction for a murder he did not commit, prosecutors said. He served the longest wrongful sentence in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What’s Next For Ozempic?</h3>
-<sub>By Dani Blum</sub>
-<p>Scientists are exploring whether the new diabetes and weight-loss drugs could also treat addiction, kidney disease and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Refusing to Accept Loss of Power, Polish Right Occupies State TV</h3>
-<sub>By Andrew Higgins</sub>
-<p>The sit-in shut down Poland’s main public news station, a possible harbinger of battles to come as the party voted out of power tries to keep its grip on state institutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
