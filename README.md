@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 20, Central Standard Time</p>
 <p>
-Right now, there is a lot of news around the potential role of the US Supreme Court in the 2024 election. President Donald Trump has several legal challenges to his eligibility for ballot eligibility in multiple states, while President Biden recently commented that it was &#39;self-evident&#39; that Trump supported an insurrection earlier this year. In response, Trump asked the Supreme Court to delay hearing cases on his immunity claim. On the international scene, there has been a major deal reached between EU countries over migration and Chinese military sites are being modernized for nuclear tests. Closer to home, a wrongfully convicted man is going through the process of being exonerated thanks to the long-term dedication of Karen Dannett, who hardly knew her father but was determined to clear his name. Finally, there is ongoing research into the potential uses of new diabetes and weight-loss drugs beyond its current usage in helping those with diabetic conditions and with their weight goals.</p>
+There are a lot of big news stories happening currently in the US and around the world. In the US, Donald Trump has been declared ineligible to run for president again in Colorado and there are challenges in at least 16 other states. Trump also recently asked the Supreme Court to delay a hearing about whether he has immunity from prosecution for his election interference case. Meanwhile, a judge granted prosecutors access to the messages of a Republican state politician who had discussed overturning the election results with Trump officials. On the political side, despite Senate leaders of both parties making progress on a package tying Ukraine military assistance to tougher border policies, they chose to punt many other difficult issues until 2024. On business news, Warner Bros. Discovery is reportedly in talks with Paramount to merge. Lastly, Glynn Simmons has been cleared of murder after serving 48 years in prison—the longest wrongful sentence in the United States—and scientists are exploring if Ozempic, a new diabetes and weight-loss drug, could also treat addiction, kidney disease and more. In Poland, meanwhile, the right refuses to accept its loss of power and has occupied its main public news station.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Cases Crashing Into Supreme Court Could Reshape 2024 Election</h3>
 <sub>By Alan Feuer</sub>
 <p>The ruling that Donald Trump is not eligible for the ballot in Colorado is the latest election-related issue likely to land before the justices. The implications for 2024 could be profound.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Trump Declared an ‘Insurrectionist,’ His Rivals Pull Their Punches, Again</h3>
+<sub>By Jonathan Weisman</sub>
+<p>The blockbuster ruling by Colorado’s Supreme Court would seem to give Donald Trump’s challengers an avenue of attack, but far behind in the polls, they are skirting the issue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -75,15 +81,9 @@ Right now, there is a lot of news around the potential role of the US Supreme Co
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Says It’s ‘Self-Evident’ That Trump Supported an Insurrection</h3>
-<sub>By Eileen Sullivan</sub>
-<p>But President Biden said the courts must decide if former President Donald J. Trump should be on the ballot in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Indicted or Barred From the Ballot: For Trump, Bad News Cements Support</h3>
-<sub>By Maggie Haberman</sub>
-<p>The former president has perfected a playbook of victimhood, raising cash off each of his indictments and encouraging Republican officials to defend him, as his rivals did after the Colorado ruling.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Ruling in Colorado Will Test Conservative Approach to Law</h3>
+<sub>By Charlie Savage</sub>
+<p>A ruling that Donald Trump is ineligible for the presidency will test a conservative Supreme Court’s methodological values.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,40 +98,40 @@ Right now, there is a lot of news around the potential role of the US Supreme Co
 <p>The roughly 1,700 messages are from the cellphone of Representative Scott Perry, who was involved in discussions with Trump administration officials about overturning the election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>China Quietly Rebuilds Secretive Base for Nuclear Tests</h3>
-<sub>By William J. Broad, Chris Buckley and Jonathan Corum</sub>
-<p>Beijing is investing heavily in the modernization of Lop Nur, a sprawling military site where it long detonated atom bombs and thermonuclear warheads.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Defense Chief Says Israeli Shift Would Reduce Fears of a Regional War</h3>
+<sub>By Eric Schmitt</sub>
+<p>The Biden administration is urging Israel to phase out high-intensity military missions in Gaza to avoid broader conflict with Iran and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
-<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
-<p>See where Israeli armored vehicles are operating across the Gaza Strip.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>After Years of Wrangling, E.U. Countries Reach Major Deal on Migration</h3>
-<sub>By Matina Stevis-Gridneff</sub>
-<p>The agreement was aimed at allaying pressures from the far right amid rising anti-migrant sentiment in Europe and beyond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Senate Wraps Up Year by Punting the Most Difficult Issues to 2024</h3>
+<sub>By Karoun Demirjian and Carl Hulse</sub>
+<p>But leaders of both parties cited steady progress on a package tying Ukraine military assistance to tougher border policies and hope for a deal early next month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Fractious Immigration Vote Exposes Cracks in Macron’s Alliance</h3>
-<sub>By Catherine Porter and Aurelien Breeden</sub>
-<p>Nearly a quarter of lower-house lawmakers in President Emmanuel Macron’s coalition abstained or voted against a proposed overhaul. Government leaders denied a revolt was underway.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Warner Bros. Discovery in Talks to Merge With Paramount</h3>
+<sub>By Benjamin Mullin</sub>
+<p>The talks, which are said to be in the early stages, add Warner Bros. Discovery to the list of companies pursuing a possible deal with Paramount.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Was Wrongly Convicted of Killing Her Father. She Set Out to Free Him.</h3>
-<sub>By Maria Cramer</sub>
-<p>Karen Dannett hardly knew her father. But freeing the man imprisoned for killing him became a decades-long mission.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Cleared of Murder After More Than 48 Years in Prison</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Glynn Simmons, 70, of Oklahoma, was exonerated after a 1975 conviction for a murder he did not commit, prosecutors said. He served the longest wrongful sentence in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>What’s Next For Ozempic?</h3>
 <sub>By Dani Blum</sub>
 <p>Scientists are exploring whether the new diabetes and weight-loss drugs could also treat addiction, kidney disease and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Refusing to Accept Loss of Power, Polish Right Occupies State TV</h3>
+<sub>By Andrew Higgins</sub>
+<p>The sit-in shut down Poland’s main public news station, a possible harbinger of battles to come as the party voted out of power tries to keep its grip on state institutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
