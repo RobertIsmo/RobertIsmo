@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. War in Ukraine has China prospering from its trade with Russia this year; it&#39;s about to surpass $200 billion in total, and car&#x2F;truck makers have been the biggest winners. Additionally, Donald Trump is facing legal battles challenging his eligibility for the next election, which could reshape the 2024 election if it goes to the Supreme Court. His opponents are wary of attacking him however, as Trump&#39;s ruled ineligible for the ballot in Colorado. Biden&#39;s poll numbers haven&#39;t been looking too good either, so he&#39;s sticking with his strategy of comparing their agenda with one of the Republicans instead of changing course yet. But the Senate has made steady progress on a package as for Ukraine military assistance exchange for tougher border policies; they hope to make a deal soon with that. Lastly, there are rumors going around that Warner Bros. Discovery is potentially merging with Paramount.</p>
+There&#39;s a lot going on in the world right now! In Ukraine, China has been cashing in on their trade with Russia this year, which exceeded $200 billion. In the US, Donald Trump&#39;s ballot eligibility is being heavily challenged and the Supreme Court cases could have a profound impact on the 2024 election. In addition, Harvard has found more instances of plagiarism in president Claudine Gay&#39;s work, while in Oklahoma, a man was just recently exonerated after serving a 48-year long wrongful murder sentence. On the world stage, Israel has been battering Gaza in an attempt to destroy Hamas but the ceasefire talks have bogged down over disputes about aid inspections. Moreover, the Polish right is occupying State TV and refusing to accept their loss of power. It&#39;s definitely an interesting time we&#39;re living in!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>War in Ukraine Has China Cashing In</h3>
@@ -75,21 +75,9 @@ There is a lot happening in the world right now. War in Ukraine has China prospe
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Trump Declared an ‘Insurrectionist,’ His Rivals Pull Their Punches, Again</h3>
-<sub>By Jonathan Weisman</sub>
-<p>The blockbuster ruling by Colorado’s Supreme Court would seem to give Donald Trump’s challengers an avenue of attack, but far behind in the polls, they are skirting the issue.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Here Are the Other States Where Trump’s Ballot Eligibility Faces a Challenge</h3>
 <sub>By Nick Corasaniti</sub>
 <p>At least 16 states beyond Colorado currently have open legal challenges to the former president’s eligibility for office — but what happens next depends on the U.S. Supreme Court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ruling in Colorado Will Test Conservative Approach to Law</h3>
-<sub>By Charlie Savage</sub>
-<p>Two doctrines favored by the conservative supermajority — textualism and originalism — could play a crucial role in any decision by the justices on whether to keep Donald Trump on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,15 +93,33 @@ There is a lot happening in the world right now. War in Ukraine has China prospe
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Key Hamas Plotters of Oct. 7 Elude Israel’s Grip on Gaza</h3>
+<sub>By Ben Hubbard</sub>
+<p>Israel has battered Gaza in its quest to destroy Hamas, without finding the commanders it has named as its most important targets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Gaza Truce Talks Bog Down Over Disputes on Aid Inspections</h3>
 <sub>By Farnaz Fassihi, Patrick Kingsley, Aaron Boxerman and Michael Levenson</sub>
 <p>In Cairo and at the U.N., negotiators struggled to come up with plans for pausing the fighting, freeing hostages and speeding up help for Gazans.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Defense Chief Says Israeli Shift Would Reduce Fears of a Regional War</h3>
-<sub>By Eric Schmitt</sub>
-<p>The Biden administration is urging Israel to phase out high-intensity military missions in Gaza to avoid broader conflict with Iran and others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard Finds More Instances of ‘Duplicative Language’ in President’s Work</h3>
+<sub>By Jennifer Schuessler</sub>
+<p>Claudine Gay has faced growing criticism of not only her response to antisemitism on campus but also her scholarship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Excerpts From Dr. Claudine Gay’s Work</h3>
+<sub>By Anemona Hartocollis and Sheelagh McNeill</sub>
+<p>Here are five examples of work by President Claudine Gay of Harvard that have been spotlighted by critics who have accused her of plagiarism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Cleared of Murder After More Than 48 Years in Prison</h3>
+<sub>By Jesus Jiménez</sub>
+<p>Glynn Simmons, 70, of Oklahoma, was exonerated after a 1975 conviction for a murder he did not commit, prosecutors said. He served the longest wrongful sentence in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,16 +128,10 @@ There is a lot happening in the world right now. War in Ukraine has China prospe
 <p>Officials in the president’s orbit say polls won’t change a strategy centered on comparing the Biden agenda with a Republican one, even as some allies feel betrayed by his policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Senate Wraps Up Year by Punting the Most Difficult Issues to 2024</h3>
-<sub>By Karoun Demirjian and Carl Hulse</sub>
-<p>But leaders of both parties cited steady progress on a package tying Ukraine military assistance to tougher border policies and hope for a deal early next month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Warner Bros. Discovery in Talks to Merge With Paramount</h3>
-<sub>By Benjamin Mullin</sub>
-<p>The talks, which are said to be in the early stages, add Warner Bros. Discovery to the list of companies pursuing a possible deal with Paramount.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Refusing to Accept Loss of Power, Polish Right Occupies State TV</h3>
+<sub>By Andrew Higgins</sub>
+<p>The sit-in shut down Poland’s main public news station, a possible harbinger of battles to come as the party voted out of power tries to keep its grip on state institutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
