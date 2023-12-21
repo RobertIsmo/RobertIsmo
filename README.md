@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 20, Central Standard Time</p>
+<p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There are a lot of political and legal issues happening right now in the US. There&#39;s a case that has been brought to the Supreme Court where Donald Trump&#39;s eligibility for the ballot in Colorado is being challenged, which could have profound implications for the 2024 election. There are also cases in at least 16 other states challenging Trump&#39;s eligibility for office. Otherwise, President Biden and the Senate have wrapped up the year, punting some of the most difficult issues to 2024 while there have been discussions about a possible merger between Warner Bros. Discovery and Paramount. Also, there&#39;s been an exoneration of an Oklahoma man who had served 48 years for a murder he did not commit.</p>
+There is a lot happening in the world right now. War in Ukraine has China prospering from its trade with Russia this year; it&#39;s about to surpass $200 billion in total, and car&#x2F;truck makers have been the biggest winners. Additionally, Donald Trump is facing legal battles challenging his eligibility for the next election, which could reshape the 2024 election if it goes to the Supreme Court. His opponents are wary of attacking him however, as Trump&#39;s ruled ineligible for the ballot in Colorado. Biden&#39;s poll numbers haven&#39;t been looking too good either, so he&#39;s sticking with his strategy of comparing their agenda with one of the Republicans instead of changing course yet. But the Senate has made steady progress on a package as for Ukraine military assistance exchange for tougher border policies; they hope to make a deal soon with that. Lastly, there are rumors going around that Warner Bros. Discovery is potentially merging with Paramount.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>War in Ukraine Has China Cashing In</h3>
+<sub>By Keith Bradsher</sub>
+<p>The country’s trade with Russia this year has exceeded $200 billion, and makers of cars and trucks are the big winners.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Cases Crashing Into Supreme Court Could Reshape 2024 Election</h3>
 <sub>By Alan Feuer</sub>
@@ -81,9 +87,9 @@ There are a lot of political and legal issues happening right now in the US. The
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will Conservative Supreme Court Stick to Values in Trump Ruling in Colorado?</h3>
+<h3>Trump Ruling in Colorado Will Test Conservative Approach to Law</h3>
 <sub>By Charlie Savage</sub>
-<p>A ruling that Donald Trump is ineligible for the presidency will test the court’s methodological values.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Two doctrines favored by the conservative supermajority — textualism and originalism — could play a crucial role in any decision by the justices on whether to keep Donald Trump on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There are a lot of political and legal issues happening right now in the US. The
 <h3>Warner Bros. Discovery in Talks to Merge With Paramount</h3>
 <sub>By Benjamin Mullin</sub>
 <p>The talks, which are said to be in the early stages, add Warner Bros. Discovery to the list of companies pursuing a possible deal with Paramount.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Cleared of Murder After More Than 48 Years in Prison</h3>
-<sub>By Jesus Jiménez</sub>
-<p>Glynn Simmons, 70, of Oklahoma, was exonerated after a 1975 conviction for a murder he did not commit, prosecutors said. He served the longest wrongful sentence in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
