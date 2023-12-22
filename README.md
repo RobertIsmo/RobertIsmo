@@ -58,28 +58,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 21, Central Standard Time</p>
+<p>It is Friday, December 22, Central Standard Time</p>
 <p>
-It looks like things are pretty eventful out there around the world! In Gaza, roughly 20,000 people have died in the current conflict with Israel-- more deaths than in any other conflict since the 1982 Lebanon invasion. A 16-year old girl who had been held hostage for more than 50 days was recently freed, but she doesn&#39;t feel free just yet until her father is released. In Ukraine, U.S. and European leaders are targeting Russian assets as a way to fund the war effort there. 
-
-Closer to home in the U.S., former presidential candidate Rudy Giuliani has filed for bankruptcy protection, though it&#39;s not entirely clear why-- money troubles due to legal fees or unpaid taxes? There&#39;s also a case against the U.S. Army that raises doubts about whether or not troops may be more vulnerable to brain injuries from tank blasts than previously thought. Nikki Haley has also recently been in the news, wanting to bypass gender politics in an effort to make it into the White House as the first female president. Finally, French President Emmanuel Macron has spoken out against a &#39;manhunt&#39; against actor Gérard Depardieu amidst renewed sexual assault accusations.</p>
+There&#39;s a lot happening in the world right now. In Israel, an investigation revealed that military munition use was more prominent in Gaza than previously thought. The US Senate is ready to back a UN resolution for more aid to be delivered to Gaza. On the political front, Trump has had a rocky relationship with the Supreme Court and former New York City Mayor Rudy Giuliani filed for bankruptcy protection. Meanwhile in Europe, there was a fatal shooting at Prague University which left 15 dead. Russian assets are now being eyed to support Ukraine as they face funding issues, and media giant Shari Redstone is weighing the sale of her media empire due to financial pressures. Moreover, France&#39;s President Macron has condemned police pursuit against actor Gerard Depardieu and Nikki Haley, the first female Republican presidential hopeful, wants to avoid identity politics in her campaign trail. Lastly, an individual accused of issuing death threats toward New Jersey governor Chris Christie was recently charged.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
+<sub></sub>
+<p>A Times visual investigation reveals that one of Israel’s largest munitions was regularly being dropped in areas designated safe for i  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Says It’s Ready to Back U.N. Resolution to Allow More Aid Into Gaza</h3>
+<sub>By Farnaz Fassihi and Michael Levenson</sub>
+<p>The timing for a vote on the Security Council resolution was unclear. Diplomats were focused on who would oversee the inspection of aid entering the enclave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Trump Cases Shadowed by Rocky Relationship With Supreme Court</h3>
 <sub>By Adam Liptak</sub>
 <p>Though he appointed three justices, his administration had the worst track record before the justices since at least the 1930s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza Deaths Surpass Any Arab Loss in Wars With Israel in Past 40 Years</h3>
-<sub>By Liam Stack</sub>
-<p>The death toll reported in Gaza has reached roughly 20,000, according to officials in the territory, the heaviest loss on the Arab side in any war with Israel since the 1982 Lebanon invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Left Him Behind’: Freed Hostage Fears for Father, Still in Gaza</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Sahar Kalderon, 16, spent 52 days as a hostage. She says she cannot enjoy her freedom until her father, Ofer, is free.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -106,12 +104,6 @@ Closer to home in the U.S., former presidential candidate Rudy Giuliani has file
 <p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>He Has Fished Out Grenades, Bikes and Guns. Can Fame Be Far Behind?</h3>
-<sub>By Allie Conti</sub>
-<p>All day long, James Kane tosses a giant magnet into New York’s murkiest waters. There’s got to be money in there somewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.</h3>
 <sub>By Dave Philipps</sub>
@@ -134,6 +126,12 @@ Closer to home in the U.S., former presidential candidate Rudy Giuliani has file
 <h3>Nikki Haley Wants to Run on Her Record, Not Her Gender</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>The Republican presidential candidate would be the first woman to enter the White House, but she has so far tried to avoid the identity politics that could repel some voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Accused of Ramaswamy Death Threat Is Charged With Threatening Christie</h3>
+<sub>By Chris Cameron</sub>
+<p>Tyler Anderson of New Hampshire was charged on Wednesday with threatening the lives of Chris Christie and another unnamed presidential candidate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
