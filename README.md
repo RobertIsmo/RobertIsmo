@@ -60,8 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-It&#39;s an eventful time in the world right now. There&#39;s a lot of tension in Israel and its surrounding countries, as the US is trying to negotiate a peace between Israel and Lebanon on their border. In Prague, the Czech Republic has been rocked by its worst mass shooting since World War II, and fourteen people were killed. There have been instances of violence against Israeli citizens, with one elderly man fatally shot when he and his wife were taken hostage recently. In the US, we&#39;re still dealing with impeachment inquiries against President Trump for corruption among other accusations, though most of the suggestions made by the GOP don&#39;t seem to hold up to scrutiny. Meanwhile, November saw a decrease in inflation and price increases cooling off compared to October, which is good news for consumers. There&#39;s also new technology emerging that&#39;s creating competition for big companies like Apple, which some claim could be dangerous for monopolies. Finally, there are grassroots movements in Ukraine aiming to prioritize military funds over social spending programs.</p>
+There are a lot of big news stories going on right now! In the US, the Supreme Court recently declined to hear a case concerning former President Donald Trump&#39;s immunity defense, and will instead allow a federal appeals court to handle the case. There is also an investigation tracking the different criminal cases involving Trump. World-wide, there have been many developments such as secret negotiations between the US and Lebanon in order to help ease tensions and improve relations between Israel and Lebanon. There was also a tragic story of an Israeli-American citizen that has been killed in an attack. 
+
+On top of all this, there are impeachment inquiries into President Biden and his family for claims of corruption. To make matters more complicated, inflation is slowing down, which is good for officials and consumers. It looks like Instagram influencer Landon Bryant is also trying to explain all the facts about life in the south with his posts. Finally, people are raising questions about a gorilla living in captivity whose keepers have to figure out how much medical care it should receive!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Won’t Hear Case on Trump’s Immunity Defense for Now</h3>
+<sub>By Adam Liptak</sub>
+<p>The case will instead first be heard by a federal appeals court, which has put it on a fast track, scheduling arguments for Jan. 9.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Keeping Track of the Trump Investigations</h3>
+<sub>By The New York Times</sub>
+<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
 <sub>By Robin Stein, Haley Willis, Ishaan Jhaveri, Danielle Miller, Aaron Byrd and Natalie Reneau</sub>
@@ -75,15 +89,21 @@ It&#39;s an eventful time in the world right now. There&#39;s a lot of tension i
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Man Listed as a Hostage Is Now Said to Have Been Killed</h3>
+<h3>Israeli-U.S. Citizen Listed as a Hostage Is Now Said to Have Been Killed</h3>
 <sub>By Liam Stack</sub>
 <p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Push to Disqualify Trump Pits Democracy Against the Rule of Law</h3>
+<h3>Principles at Stake in Push to Disqualify Trump: Will of Voters and Rule of Law</h3>
 <sub>By Charlie Savage</sub>
 <p>If the Colorado Supreme Court is right that the former president is constitutionally ineligible to run for president, fundamental values are in severe tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maine’s Secretary of State to Decide Whether Trump Can Stay on Ballot</h3>
+<sub>By Jenna Russell</sub>
+<p>Shenna Bellows, a Democrat, has said she would decide next week whether Maine will join Colorado in disqualifying former President Donald J. Trump from its primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -98,10 +118,10 @@ It&#39;s an eventful time in the world right now. There&#39;s a lot of tension i
 <p>Many messages cited by Republicans as evidence of corruption by President Biden and his family are being presented out of context.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Drones, Fewer Parks. Ukrainians Urge Spending Shift as War Drags On.</h3>
-<sub>By Constant Méheut</sub>
-<p>Protesters are lobbying city councils to freeze urban renewal projects and buy military equipment instead, part of a wider call to put Ukraine on a war footing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Price Increases Cooled in November as Inflation Falls Toward Fed Target</h3>
+<sub>By Jeanna Smialek</sub>
+<p>A key inflation measure has been slowing and overall prices actually declined slightly from October, good news for officials and consumers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -110,28 +130,10 @@ It&#39;s an eventful time in the world right now. There&#39;s a lot of tension i
 <p>Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Price Increases Cooled in November as Inflation Falls Toward Fed Target</h3>
-<sub>By Jeanna Smialek</sub>
-<p>A key inflation measure has been slowing and overall prices actually declined slightly from October, good news for officials and consumers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>This Gorilla’s Caregivers Face Familiar Questions About Aging</h3>
 <sub>By Paula Span</sub>
 <p>Winston, an older silverback, is getting enviable medical treatment. Now his keepers must confront an issue that vexes doctors and older humans, too: How much intervention is too much?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Apple’s Newest Headache: An App That Upended Its Control Over Messaging</h3>
-<sub>By Tripp Mickle and Mike Isaac</sub>
-<p>Beeper Mini, which offers iPhone messaging on Android phones, has grown fast and its duel with the tech giant has gotten the attention of antitrust regulators.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Prague Searches for Motive in Its Worst Mass Shooting Since World War II Era</h3>
-<sub>By Andrew Higgins and Jenny Gross</sub>
-<p>After a gunman killed 14 people and wounded 25 others, the Czech Republic canceled sporting events and declared Saturday a day of national mourning.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
