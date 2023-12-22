@@ -60,18 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There is a lot of news happening in the world right now. The U.S. and Europe are looking at Russian assets to help Ukraine after their funding dries up. In the Czech Republic, there was a shooting at a university with 15 people dead. Rudy Giuliani filed for bankruptcy protection due to his legal fees, taxes, and damages owed by a jury. There is discussion around why people file for bankruptcy in the business world. In terms of politics, President Trump had the worst track record before Supreme Court justices since the 1930s, and Ron DeSantis commented that Trump&#39;s current legal issues were making it harder for his rivals to break through in the Republican primary. Over in Gaza, there have been more deaths than any Arab loss in wars with Israel over the past 40 years, and one freed hostage is searching for her father who currently remains in captivity there. A strange but fascinating story is of James Kane who is throwing giant magnets into New York&#39;s waters and possibly making money off what he finds. As well as this, Shari Redstone is considering selling her media empire due to financial pressures mounting. Lastly, French President Macron condemned the &#39;manhunt&#39; against actor Gerard Depardieu after the documentary he was featured in sparked a sexual assault accusation against him.</p>
+It looks like things are pretty eventful out there around the world! In Gaza, roughly 20,000 people have died in the current conflict with Israel-- more deaths than in any other conflict since the 1982 Lebanon invasion. A 16-year old girl who had been held hostage for more than 50 days was recently freed, but she doesn&#39;t feel free just yet until her father is released. In Ukraine, U.S. and European leaders are targeting Russian assets as a way to fund the war effort there. 
+
+Closer to home in the U.S., former presidential candidate Rudy Giuliani has filed for bankruptcy protection, though it&#39;s not entirely clear why-- money troubles due to legal fees or unpaid taxes? There&#39;s also a case against the U.S. Army that raises doubts about whether or not troops may be more vulnerable to brain injuries from tank blasts than previously thought. Nikki Haley has also recently been in the news, wanting to bypass gender politics in an effort to make it into the White House as the first female president. Finally, French President Emmanuel Macron has spoken out against a &#39;manhunt&#39; against actor Gérard Depardieu amidst renewed sexual assault accusations.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Trump Cases Shadowed by Rocky Relationship With Supreme Court</h3>
+<sub>By Adam Liptak</sub>
+<p>Though he appointed three justices, his administration had the worst track record before the justices since at least the 1930s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gaza Deaths Surpass Any Arab Loss in Wars With Israel in Past 40 Years</h3>
+<sub>By Liam Stack</sub>
+<p>The death toll reported in Gaza has reached roughly 20,000, according to officials in the territory, the heaviest loss on the Arab side in any war with Israel since the 1982 Lebanon invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘I Left Him Behind’: Freed Hostage Fears for Father, Still in Gaza</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Sahar Kalderon, 16, spent 52 days as a hostage. She says she cannot enjoy her freedom until her father, Ofer, is free.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and Europe Eye Russian Assets to Aid Ukraine as Funding Dries Up</h3>
 <sub>By David E. Sanger and Alan Rappeport</sub>
 <p>Despite legal reservations, policymakers are weighing the consequences of using $300 billion in Russian assets to help Kyiv’s war effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 15 Dead in Czech Republic After Shooting at Prague University</h3>
-<sub>By Andrew Higgins, Jenny Gross and Aric Toler</sub>
-<p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,28 +100,10 @@ There is a lot of news happening in the world right now. The U.S. and Europe are
 <p>Rudy Giuliani filed for bankruptcy a day after a judge ordered him to start paying $148 million in damages to two former Georgia election workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Trump Cases Shadowed by Rocky Relationship With Supreme Court</h3>
-<sub>By Adam Liptak</sub>
-<p>Though he appointed three justices, his administration had the worst track record before the justices since at least the 1930s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Says Trump’s Indictments ‘Sucked Out All the Oxygen’ From Primary</h3>
-<sub>By Maya King</sub>
-<p>Ron DeSantis seemed to acknowledge that the former president’s legal woes were making it harder for his rivals to break through in the Republican primary.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gaza Deaths Surpass Any Arab Loss in Wars With Israel in Past 40 Years</h3>
-<sub>By Liam Stack</sub>
-<p>The death toll reported in Gaza has reached roughly 20,000, according to officials in the territory, the heaviest loss on the Arab side in any war with Israel since the 1982 Lebanon invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘I Left Him Behind’: Freed Hostage Fears for Father, Still in Gaza</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Sahar Kalderon, 16, spent 52 days as a hostage. She says she cannot enjoy her freedom until her father, Ofer, is free.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>At Least 15 Dead in Czech Republic After Shooting at Prague University</h3>
+<sub>By Andrew Higgins, Jenny Gross and Aric Toler</sub>
+<p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -132,6 +128,12 @@ There is a lot of news happening in the world right now. The U.S. and Europe are
 <h3>France’s President Condemns ‘Manhunt’ Against Gérard Depardieu</h3>
 <sub>By Aurelien Breeden</sub>
 <p>Emmanuel Macron broke with his culture minister, who had called comments made by Depardieu in a documentary a “disgrace.” The actor is facing renewed scrutiny over sexual assault accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley Wants to Run on Her Record, Not Her Gender</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>The Republican presidential candidate would be the first woman to enter the White House, but she has so far tried to avoid the identity politics that could repel some voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
