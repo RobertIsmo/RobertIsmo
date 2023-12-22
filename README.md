@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 21, Central Standard Time</p>
 <p>
-There&#39;s a lot happening around the world right now. In Europe, there is a proposal to use $300 billion in Russian assets to help Ukraine&#39;s war effort, while in the Czech Republic there was a shooting at Prague University that left 15 people dead. In the US, Rudolph Giuliani filed for bankruptcy, President Trump had his worst track record before the Supreme Court since the 1930s, and Ron DeSantis suggested Trump&#39;s legal woes made it harder for his rivals to break through in the Republican primary. Meanwhile, in Gaza, over 20,000 people have died as a result of ongoing wars with Israel. Shari Redstone, ruler of a vast media kingdom, is also weighing a sale due to financial pressures. Finally, here in New York City, there is James Kane who tosses a giant magnet into the water to fish out all kinds of things.</p>
+There is a lot of news happening in the world right now. The U.S. and Europe are looking at Russian assets to help Ukraine after their funding dries up. In the Czech Republic, there was a shooting at a university with 15 people dead. Rudy Giuliani filed for bankruptcy protection due to his legal fees, taxes, and damages owed by a jury. There is discussion around why people file for bankruptcy in the business world. In terms of politics, President Trump had the worst track record before Supreme Court justices since the 1930s, and Ron DeSantis commented that Trump&#39;s current legal issues were making it harder for his rivals to break through in the Republican primary. Over in Gaza, there have been more deaths than any Arab loss in wars with Israel over the past 40 years, and one freed hostage is searching for her father who currently remains in captivity there. A strange but fascinating story is of James Kane who is throwing giant magnets into New York&#39;s waters and possibly making money off what he finds. As well as this, Shari Redstone is considering selling her media empire due to financial pressures mounting. Lastly, French President Macron condemned the &#39;manhunt&#39; against actor Gerard Depardieu after the documentary he was featured in sparked a sexual assault accusation against him.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. and Europe Eye Russian Assets to Aid Ukraine as Funding Dries Up</h3>
@@ -71,7 +71,7 @@ There&#39;s a lot happening around the world right now. In Europe, there is a pr
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>At Least 15 Dead in Czech Republic After Shooting at Prague University</h3>
 <sub>By Andrew Higgins, Jenny Gross and Aric Toler</sub>
-<p>The police said the suspect, who killed himself, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,17 +80,17 @@ There&#39;s a lot happening around the world right now. In Europe, there is a pr
 <p>Rudolph Giuliani filed papers in federal bankruptcy court in New York, listing debts including big legal fees, unpaid taxes and the $148 million a jury ordered him to pay two Georgia election workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Why Do People File for Bankruptcy?</h3>
+<sub>By Matthew Goldstein</sub>
+<p>Rudy Giuliani filed for bankruptcy a day after a judge ordered him to start paying $148 million in damages to two former Georgia election workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Trump Cases Shadowed by Rocky Relationship With Supreme Court</h3>
 <sub>By Adam Liptak</sub>
 <p>Though he appointed three justices, his administration had the worst track record before the justices since at least the 1930s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Colorado Court That Barred Trump: Appointed by Democrats but Narrowly Split</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>The 4-3 decision was harshly criticized by Trump supporters, who called it undemocratic. But some observers say the court is notably nonpartisan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>DeSantis Says Trump’s Indictments ‘Sucked Out All the Oxygen’ From Primary</h3>
@@ -110,28 +110,28 @@ There&#39;s a lot happening around the world right now. In Europe, there is a pr
 <p>Sahar Kalderon, 16, spent 52 days as a hostage. She says she cannot enjoy her freedom until her father, Ofer, is free.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.</h3>
-<sub>By Dave Philipps</sub>
-<p>Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope’s Shift on Gay Couples Followed Quiet Talks and Loud Resistance</h3>
-<sub>By Jason Horowitz</sub>
-<p>Pope Francis spoke with L.G.B.T.Q. Catholics and their supporters for years before letting priests bless same-sex couples. But the move’s timing also owed something to its conservative opponents.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>He Has Fished Out Grenades, Bikes and Guns. Can Fame Be Far Behind?</h3>
 <sub>By Allie Conti</sub>
 <p>All day long, James Kane tosses a giant magnet into New York’s murkiest waters. There’s got to be money in there somewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.</h3>
+<sub>By Dave Philipps</sub>
+<p>Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Why Is Shari Redstone, Ruler of a Vast Media Kingdom, Weighing a Sale?</h3>
 <sub>By Benjamin Mullin</sub>
 <p>She fought to keep control of her family’s media empire. Now she’s considering an exit as financial pressures mount.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>France’s President Condemns ‘Manhunt’ Against Gérard Depardieu</h3>
+<sub>By Aurelien Breeden</sub>
+<p>Emmanuel Macron broke with his culture minister, who had called comments made by Depardieu in a documentary a “disgrace.” The actor is facing renewed scrutiny over sexual assault accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
