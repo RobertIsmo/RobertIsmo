@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-There is a lot of news in the world right now. In Israel, an investigation revealed that it has been using one of its most destructive bombs in South Gaza. In Ukraine, protesters are pushing for spending shifts due to the ongoing war. In the US, President Biden is clamping down financial firms that help Russia buy military supplies. There are also impeachment inquiries going on, and Hunter Biden&#39;s text message has been misconstrued by some Republicans as evidence of corruption. Additionally, an elderly gorilla is getting medical attention, raising questions about how much intervention is too much. On the tech front, Apple&#39;s control over messaging has been challenged by a new app and a start-up fraud has been uncovered. Governor DeSantis&#39; expensive field operation has also sputtered recently. Finally, there is a senate candidate in New Jersey whose husband is the governor, giving her an edge because of election rules.</p>
+There are a few interesting news stories going on currently. In Israel, an investigation has revealed that one of their most destructive bombs is being used in areas meant to be safe for civilians. A similar situation is happening in Ukraine, where protesters are calling for an end to urban renewal projects and for military equipment to be bought instead. In the US, the Biden administration is clamping down on financial firms helping Russia buy military supplies and we’re also getting reports from insiders looking into unsubstantiated claims of corruption against President Biden and his family. Additionally, Apple is having a bit of a headache with an app that interferes with its control over messaging and we’re learning about a tech start-up fraudulent trend without any kind of oversight, as well as a look at how Governor DeSantis&#39;s costly ground game has been sputtering.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
@@ -83,7 +83,13 @@ There is a lot of news in the world right now. In Israel, an investigation revea
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>U.S. to Clamp Down on Financial Firms That Help Russia Buy Military Supplies</h3>
 <sub>By Alan Rappeport</sub>
-<p>President Biden will sign an executive order granting the Treasury Department broader powers to curb the flow of weapons components.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>President Biden signed an executive order granting the Treasury Department broader powers to curb the flow of weapons components.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Makes Small Battlefield Gains, Increasing Pressure on Ukraine</h3>
+<sub>By Constant Méheut</sub>
+<p>Although there is no clear breakthrough in sight, the progress is prompting Ukraine to consider a possible large-scale recruitment push.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,6 +110,12 @@ There is a lot of news in the world right now. In Israel, an investigation revea
 <p>Winston, an older silverback, is getting enviable medical treatment. Now his keepers must confront an issue that vexes doctors and older humans, too: How much intervention is too much?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Price Increases Cooled in November as Inflation Falls Toward Fed Target</h3>
+<sub>By Jeanna Smialek</sub>
+<p>A key inflation measure has been slowing and overall prices actually declined slightly from October, good news for officials and consumers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Apple’s Newest Headache: An App That Upended Its Control Over Messaging</h3>
 <sub>By Tripp Mickle and Mike Isaac</sub>
@@ -120,18 +132,6 @@ There is a lot of news in the world right now. In Israel, an investigation revea
 <h3>How DeSantis’s Ambitious, Costly Ground Game Has Sputtered</h3>
 <sub>By Rebecca Davis O’Brien, Nicholas Nehamas and Kellen Browning</sub>
 <p>The Florida governor’s field operation, one of the most expensive in modern political history, has met challenges from the outset, interviews with a range of voters and political officials revealed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Rivals Campaign Much More Than He Does, With Little Payoff</h3>
-<sub>By K.K. Rebecca Lai, Alyce McFadden and Neil Vigdor</sub>
-<p>Some of Donald J. Trump’s competitors are lapping him in the number of days on the trail, but he remains solidly the Republican front-runner for 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>A Senate Candidate Accused of Nepotism Has Another Edge: The Ballot</h3>
-<sub>By Nick Corasaniti and Tracey Tully</sub>
-<p>Tammy Murphy is backed by some New Jersey Democratic leaders who have incentives to stay in the good graces of her husband, Gov. Philip D. Murphy. The state’s election rules give them enormous power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
