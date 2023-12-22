@@ -60,18 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In Israel, an investigation revealed that military munition use was more prominent in Gaza than previously thought. The US Senate is ready to back a UN resolution for more aid to be delivered to Gaza. On the political front, Trump has had a rocky relationship with the Supreme Court and former New York City Mayor Rudy Giuliani filed for bankruptcy protection. Meanwhile in Europe, there was a fatal shooting at Prague University which left 15 dead. Russian assets are now being eyed to support Ukraine as they face funding issues, and media giant Shari Redstone is weighing the sale of her media empire due to financial pressures. Moreover, France&#39;s President Macron has condemned police pursuit against actor Gerard Depardieu and Nikki Haley, the first female Republican presidential hopeful, wants to avoid identity politics in her campaign trail. Lastly, an individual accused of issuing death threats toward New Jersey governor Chris Christie was recently charged.</p>
+There is a lot going on in the world right now. In Israel, an investigation in The Times revealed that some of its most destructive bombs were being used in South Gaza. In the US, there are new cases surrounding Trump&#39;s rocky relationship with the Supreme Court. US and European policymakers are looking to Russian assets to help aid Ukraine as funding dries up. Rudy Giuliani has just filed for bankruptcy protection and people are asking why someone would do that. 
+
+In the Czech Republic, there was a shooting at a university that has left at least 15 dead. The US Army is facing questions about whether tank blasts can harm troops despite measuring below the Pentagon’s safety standards. Shari Redstone, the ruler of a vast media kingdom, is weighing a sale due to financial pressures. French President Emmanuel Macron recently condemned &quot;manhunt&quot; against actor Gérard Depardieu who is facing scrutiny over sexual assault accusations. Republican candidate Nikki Haley is running for president and wants to focus on her record and not gender identity politics. Finally, Harvard&#39;s president Claudine Gay is facing calls for resignation due to past instances of plagiarism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
 <sub></sub>
 <p>A Times visual investigation reveals that one of Israel’s largest munitions was regularly being dropped in areas designated safe for i  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Says It’s Ready to Back U.N. Resolution to Allow More Aid Into Gaza</h3>
-<sub>By Farnaz Fassihi and Michael Levenson</sub>
-<p>The timing for a vote on the Security Council resolution was unclear. Diplomats were focused on who would oversee the inspection of aid entering the enclave.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -119,7 +115,7 @@ There&#39;s a lot happening in the world right now. In Israel, an investigation 
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>France’s President Condemns ‘Manhunt’ Against Gérard Depardieu</h3>
 <sub>By Aurelien Breeden</sub>
-<p>Emmanuel Macron broke with his culture minister, who had called comments made by Depardieu in a documentary a “disgrace.” The actor is facing renewed scrutiny over sexual assault accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Emmanuel Macron broke with his culture minister, who had said she was “disgusted” by comments Depardieu made in a documentary. The actor is facing renewed scrutiny over sexual assault accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +128,12 @@ There&#39;s a lot happening in the world right now. In Israel, an investigation 
 <h3>Man Accused of Ramaswamy Death Threat Is Charged With Threatening Christie</h3>
 <sub>By Chris Cameron</sub>
 <p>Tyler Anderson of New Hampshire was charged on Wednesday with threatening the lives of Chris Christie and another unnamed presidential candidate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Why Claudine Gay Should Go</h3>
+<sub>By John McWhorter</sub>
+<p>Recent, growing revelations about past instances of plagiarism by Harvard’s president make it untenable for her to remain in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
 </ol>
