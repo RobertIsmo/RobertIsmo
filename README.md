@@ -60,81 +60,79 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, an investigation in The Times revealed that some of its most destructive bombs were being used in South Gaza. In the US, there are new cases surrounding Trump&#39;s rocky relationship with the Supreme Court. US and European policymakers are looking to Russian assets to help aid Ukraine as funding dries up. Rudy Giuliani has just filed for bankruptcy protection and people are asking why someone would do that. 
-
-In the Czech Republic, there was a shooting at a university that has left at least 15 dead. The US Army is facing questions about whether tank blasts can harm troops despite measuring below the Pentagon’s safety standards. Shari Redstone, the ruler of a vast media kingdom, is weighing a sale due to financial pressures. French President Emmanuel Macron recently condemned &quot;manhunt&quot; against actor Gérard Depardieu who is facing scrutiny over sexual assault accusations. Republican candidate Nikki Haley is running for president and wants to focus on her record and not gender identity politics. Finally, Harvard&#39;s president Claudine Gay is facing calls for resignation due to past instances of plagiarism.</p>
+There is a lot of news in the world right now. In Israel, an investigation revealed that it has been using one of its most destructive bombs in South Gaza. In Ukraine, protesters are pushing for spending shifts due to the ongoing war. In the US, President Biden is clamping down financial firms that help Russia buy military supplies. There are also impeachment inquiries going on, and Hunter Biden&#39;s text message has been misconstrued by some Republicans as evidence of corruption. Additionally, an elderly gorilla is getting medical attention, raising questions about how much intervention is too much. On the tech front, Apple&#39;s control over messaging has been challenged by a new app and a start-up fraud has been uncovered. Governor DeSantis&#39; expensive field operation has also sputtered recently. Finally, there is a senate candidate in New Jersey whose husband is the governor, giving her an edge because of election rules.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
-<sub></sub>
+<sub>By Robin Stein, Haley Willis, Ishaan Jhaveri, Danielle Miller, Aaron Byrd and Natalie Reneau</sub>
 <p>A Times visual investigation reveals that one of Israel’s largest munitions was regularly being dropped in areas designated safe for i  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Trump Cases Shadowed by Rocky Relationship With Supreme Court</h3>
-<sub>By Adam Liptak</sub>
-<p>Though he appointed three justices, his administration had the worst track record before the justices since at least the 1930s.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. and Europe Eye Russian Assets to Aid Ukraine as Funding Dries Up</h3>
-<sub>By David E. Sanger and Alan Rappeport</sub>
-<p>Despite legal reservations, policymakers are weighing the consequences of using $300 billion in Russian assets to help Kyiv’s war effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giuliani Files for Bankruptcy Protection</h3>
-<sub>By Eileen Sullivan and Alan Feuer</sub>
-<p>Rudolph Giuliani filed papers in federal bankruptcy court in New York, listing debts including big legal fees, unpaid taxes and the $148 million a jury ordered him to pay two Georgia election workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Do People File for Bankruptcy?</h3>
-<sub>By Matthew Goldstein</sub>
-<p>Rudy Giuliani filed for bankruptcy a day after a judge ordered him to start paying $148 million in damages to two former Georgia election workers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Israel’s Destructive Bombs, and DeSantis’s Costly Ground Game</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At Least 15 Dead in Czech Republic After Shooting at Prague University</h3>
-<sub>By Andrew Higgins, Jenny Gross and Aric Toler</sub>
-<p>The police said the suspect, who also died, first shot his father in a town outside Prague and then continued his rampage at the university.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Army Said Tank Blasts Don’t Harm Troops. His Case Raises Doubts.</h3>
-<sub>By Dave Philipps</sub>
-<p>Researchers say troops’ brains may be injured by blasts from firing M1 Abrams tank guns and other weapons, even if they measure below the Pentagon’s ceiling for safe exposure.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<h3>More Drones, Fewer Parks. Ukrainians Urge Spending Shift as War Drags On.</h3>
+<sub>By Constant Méheut</sub>
+<p>Protesters are lobbying city councils to freeze urban renewal projects and buy military equipment instead, part of a wider call to put Ukraine on a war footing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Why Is Shari Redstone, Ruler of a Vast Media Kingdom, Weighing a Sale?</h3>
-<sub>By Benjamin Mullin</sub>
-<p>She fought to keep control of her family’s media empire. Now she’s considering an exit as financial pressures mount.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>France’s President Condemns ‘Manhunt’ Against Gérard Depardieu</h3>
-<sub>By Aurelien Breeden</sub>
-<p>Emmanuel Macron broke with his culture minister, who had said she was “disgusted” by comments Depardieu made in a documentary. The actor is facing renewed scrutiny over sexual assault accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<h3>U.S. to Clamp Down on Financial Firms That Help Russia Buy Military Supplies</h3>
+<sub>By Alan Rappeport</sub>
+<p>President Biden will sign an executive order granting the Treasury Department broader powers to curb the flow of weapons components.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley Wants to Run on Her Record, Not Her Gender</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>The Republican presidential candidate would be the first woman to enter the White House, but she has so far tried to avoid the identity politics that could repel some voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<h3>Hunter Biden Text Cited in Impeachment Inquiry Is Not What G.O.P. Suggests</h3>
+<sub>By Adam Entous</sub>
+<p>A 2019 message from the president’s son alluded to giving his father half his salary. The back story offers unflattering insights into the Biden family but does not support assertions of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Man Accused of Ramaswamy Death Threat Is Charged With Threatening Christie</h3>
-<sub>By Chris Cameron</sub>
-<p>Tyler Anderson of New Hampshire was charged on Wednesday with threatening the lives of Chris Christie and another unnamed presidential candidate.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<h3>Assessing 6 Claims by the G.O.P. in the Biden Impeachment Inquiry</h3>
+<sub>By Luke Broadwater</sub>
+<p>Many messages cited by Republicans as evidence of corruption by President Biden and his family are being presented out of context.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Why Claudine Gay Should Go</h3>
-<sub>By John McWhorter</sub>
-<p>Recent, growing revelations about past instances of plagiarism by Harvard’s president make it untenable for her to remain in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>This Gorilla’s Caregivers Face Familiar Questions About Aging</h3>
+<sub>By Paula Span</sub>
+<p>Winston, an older silverback, is getting enviable medical treatment. Now his keepers must confront an issue that vexes doctors and older humans, too: How much intervention is too much?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Apple’s Newest Headache: An App That Upended Its Control Over Messaging</h3>
+<sub>By Tripp Mickle and Mike Isaac</sub>
+<p>Beeper Mini, which offers iPhone messaging on Android phones, has grown fast and its duel with the tech giant has gotten the attention of antitrust regulators.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>No Oversight: Inside a Boom-Time Start-Up Fraud and Its Unraveling</h3>
+<sub>By Erin Griffith</sub>
+<p>False claims and risky trades at the Silicon Valley start-up HeadSpin were part of a pattern of trouble emerging at young companies that lacked controls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How DeSantis’s Ambitious, Costly Ground Game Has Sputtered</h3>
+<sub>By Rebecca Davis O’Brien, Nicholas Nehamas and Kellen Browning</sub>
+<p>The Florida governor’s field operation, one of the most expensive in modern political history, has met challenges from the outset, interviews with a range of voters and political officials revealed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Rivals Campaign Much More Than He Does, With Little Payoff</h3>
+<sub>By K.K. Rebecca Lai, Alyce McFadden and Neil Vigdor</sub>
+<p>Some of Donald J. Trump’s competitors are lapping him in the number of days on the trail, but he remains solidly the Republican front-runner for 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>A Senate Candidate Accused of Nepotism Has Another Edge: The Ballot</h3>
+<sub>By Nick Corasaniti and Tracey Tully</sub>
+<p>Tammy Murphy is backed by some New Jersey Democratic leaders who have incentives to stay in the good graces of her husband, Gov. Philip D. Murphy. The state’s election rules give them enormous power.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
