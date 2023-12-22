@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-There are a few interesting news stories going on currently. In Israel, an investigation has revealed that one of their most destructive bombs is being used in areas meant to be safe for civilians. A similar situation is happening in Ukraine, where protesters are calling for an end to urban renewal projects and for military equipment to be bought instead. In the US, the Biden administration is clamping down on financial firms helping Russia buy military supplies and we’re also getting reports from insiders looking into unsubstantiated claims of corruption against President Biden and his family. Additionally, Apple is having a bit of a headache with an app that interferes with its control over messaging and we’re learning about a tech start-up fraudulent trend without any kind of oversight, as well as a look at how Governor DeSantis&#39;s costly ground game has been sputtering.</p>
+It&#39;s an eventful time in the world right now. There&#39;s a lot of tension in Israel and its surrounding countries, as the US is trying to negotiate a peace between Israel and Lebanon on their border. In Prague, the Czech Republic has been rocked by its worst mass shooting since World War II, and fourteen people were killed. There have been instances of violence against Israeli citizens, with one elderly man fatally shot when he and his wife were taken hostage recently. In the US, we&#39;re still dealing with impeachment inquiries against President Trump for corruption among other accusations, though most of the suggestions made by the GOP don&#39;t seem to hold up to scrutiny. Meanwhile, November saw a decrease in inflation and price increases cooling off compared to October, which is good news for consumers. There&#39;s also new technology emerging that&#39;s creating competition for big companies like Apple, which some claim could be dangerous for monopolies. Finally, there are grassroots movements in Ukraine aiming to prioritize military funds over social spending programs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
@@ -68,28 +68,22 @@ There are a few interesting news stories going on currently. In Israel, an inves
 <p>A Times visual investigation reveals that one of Israel’s largest munitions was regularly being dropped in areas designated safe for i  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel’s Destructive Bombs, and DeSantis’s Costly Ground Game</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S.-Brokered Talks Seek to Ease Tensions on Israel-Lebanon Border</h3>
+<sub>By Adam Entous, Ronen Bergman, Maria Abi-Habib and Euan Ward</sub>
+<p>The first goal of the secret negotiations is to stop skirmishes between Israel and Hezbollah from escalating into an all-out war, but longer-term solutions are also on the table, officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>More Drones, Fewer Parks. Ukrainians Urge Spending Shift as War Drags On.</h3>
-<sub>By Constant Méheut</sub>
-<p>Protesters are lobbying city councils to freeze urban renewal projects and buy military equipment instead, part of a wider call to put Ukraine on a war footing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israeli Man Listed as a Hostage Is Now Said to Have Been Killed</h3>
+<sub>By Liam Stack</sub>
+<p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. to Clamp Down on Financial Firms That Help Russia Buy Military Supplies</h3>
-<sub>By Alan Rappeport</sub>
-<p>President Biden signed an executive order granting the Treasury Department broader powers to curb the flow of weapons components.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Makes Small Battlefield Gains, Increasing Pressure on Ukraine</h3>
-<sub>By Constant Méheut</sub>
-<p>Although there is no clear breakthrough in sight, the progress is prompting Ukraine to consider a possible large-scale recruitment push.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Push to Disqualify Trump Pits Democracy Against the Rule of Law</h3>
+<sub>By Charlie Savage</sub>
+<p>If the Colorado Supreme Court is right that the former president is constitutionally ineligible to run for president, fundamental values are in severe tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +98,16 @@ There are a few interesting news stories going on currently. In Israel, an inves
 <p>Many messages cited by Republicans as evidence of corruption by President Biden and his family are being presented out of context.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>This Gorilla’s Caregivers Face Familiar Questions About Aging</h3>
-<sub>By Paula Span</sub>
-<p>Winston, an older silverback, is getting enviable medical treatment. Now his keepers must confront an issue that vexes doctors and older humans, too: How much intervention is too much?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>More Drones, Fewer Parks. Ukrainians Urge Spending Shift as War Drags On.</h3>
+<sub>By Constant Méheut</sub>
+<p>Protesters are lobbying city councils to freeze urban renewal projects and buy military equipment instead, part of a wider call to put Ukraine on a war footing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Explaining the South on Instagram, One Custom at a Time</h3>
+<sub>By Rick Rojas</sub>
+<p>Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -116,22 +116,22 @@ There are a few interesting news stories going on currently. In Israel, an inves
 <p>A key inflation measure has been slowing and overall prices actually declined slightly from October, good news for officials and consumers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>This Gorilla’s Caregivers Face Familiar Questions About Aging</h3>
+<sub>By Paula Span</sub>
+<p>Winston, an older silverback, is getting enviable medical treatment. Now his keepers must confront an issue that vexes doctors and older humans, too: How much intervention is too much?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Apple’s Newest Headache: An App That Upended Its Control Over Messaging</h3>
 <sub>By Tripp Mickle and Mike Isaac</sub>
 <p>Beeper Mini, which offers iPhone messaging on Android phones, has grown fast and its duel with the tech giant has gotten the attention of antitrust regulators.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>No Oversight: Inside a Boom-Time Start-Up Fraud and Its Unraveling</h3>
-<sub>By Erin Griffith</sub>
-<p>False claims and risky trades at the Silicon Valley start-up HeadSpin were part of a pattern of trouble emerging at young companies that lacked controls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How DeSantis’s Ambitious, Costly Ground Game Has Sputtered</h3>
-<sub>By Rebecca Davis O’Brien, Nicholas Nehamas and Kellen Browning</sub>
-<p>The Florida governor’s field operation, one of the most expensive in modern political history, has met challenges from the outset, interviews with a range of voters and political officials revealed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Prague Searches for Motive in Its Worst Mass Shooting Since World War II Era</h3>
+<sub>By Andrew Higgins and Jenny Gross</sub>
+<p>After a gunman killed 14 people and wounded 25 others, the Czech Republic canceled sporting events and declared Saturday a day of national mourning.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
