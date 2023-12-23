@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 23, Central Standard Time</p>
 <p>
-There have been some concerning developments around the world recently. In Palestine, the war between Hamas and Israel has led to little celebration in Bethlehem this Christmas season. To make matters worse, a senior defense official in Ukraine was accused of embezzling $40 million, and Russia has signaled an openness to a cease-fire in Ukraine. Here in the US, President Trump&#39;s legal issues are still making headlines - to the point that many have questioned his eligibility for office. Meanwhile, the slow rollout of a national charging system could hinder the adoption of electric vehicles that some say is badly needed. Last but not least, two paramedics in Colorado have been found guilty in the death of Elijah McClain from last year. Japan is also struggling with its trucking industry and trying to curb its punishing work hours which could disrupt its logistics system overall.</p>
+There&#39;s a lot going on in the world right now, from tense political situations to a global pandemic. Hamas recently launched a series of attacks on the Israeli town of Be&#39;eri, which has suffered a lot of casualties. Bethlehem, believed to be the birthplace of Jesus, is having a more subdued Christmas celebration because of the war in Gaza. Russian president Vladimir Putin is apparently in favor of negotiating a ceasefire in Ukraine, but there are lots of allegations of corruption in the Ukrainian defense sector. In the US, outgoing President Trump is still facing legal issues and Democrats are worried that President Biden is not doing enough to energize voters ahead of the 2020 election. Meanwhile, there&#39;s concern about the slow rollout of electric vehicle charging stations across America with Japan worrying about how its truck driving crisis could change life in their country. On top of these stories, an archaeological expedition is taking place in Mexico at Mitla where they&#39;re looking for what&#39;s left of centuries-old catacombs.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Day Hamas Came</h3>
@@ -93,10 +93,22 @@ There have been some concerning developments around the world recently. In Pales
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Democrats in Key States Worry Biden Could Be a Drag on Their Races</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>Candidates for the Senate and House have expressed concern that the president has not done enough to build an operation or excite voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Supreme Court Helped Trump’s Delay Strategy. By How Much Remains to Be Seen.</h3>
 <sub>By Alan Feuer</sub>
 <p>The former president’s claim that he is immune from prosecution will now be taken up by a federal appeals court — and could end up back in front of the justices within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In South Carolina, Democrats See a Test of Biden’s Appeal to Black Voters</h3>
+<sub>By Maya King</sub>
+<p>The president’s campaign is putting money and staff into South Carolina ahead of its primary in an effort to energize Black voters, who are critical to his re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Slow Rollout of National Charging System Could Hinder E.V. Adoption</h3>
@@ -110,28 +122,16 @@ There have been some concerning developments around the world recently. In Pales
 <p>Do they all finish happily? We don’t want to ruin the ending for you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats in Key States Worry Biden Could Be a Drag on Their Races</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>Candidates for the Senate and House have expressed concern that the president has not done enough to build an operation or excite voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In South Carolina, Democrats See a Test of Biden’s Appeal to Black Voters</h3>
-<sub>By Maya King</sub>
-<p>The president’s campaign is putting money and staff into South Carolina ahead of its primary in an effort to energize Black voters, who are critical to his re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Paramedics Found Guilty in Last Trial in Elijah McClain Death</h3>
-<sub>By Audra D. S. Burch and Kelley Manley</sub>
-<p>Peter Cichuniec and Jeremy Cooper were convicted of criminally negligent homicide, but the jury split on the assault charges, in an unusual prosecution of medical personnel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How a Crisis in Truck Driving Could Change Life in Japan</h3>
 <sub>By Hisako Ueno, John Yoon and Hiroko Masuike&#x2F;The New York Times</sub>
 <p>The country is moving to curb the industry’s punishing work hours. But that could leave a shortfall that disrupts Japan’s entire logistics system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>What Lies Beneath the Vatican of the Zapotecs?</h3>
+<sub>By Franz Lidz and Meghan Dhaliwal</sub>
+<p>An archaeological expedition in Mexico seeks what’s left of the sprawling, centuries-old catacombs hidden below the ruins of Mitla.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
