@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 23, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now, from tense political situations to a global pandemic. Hamas recently launched a series of attacks on the Israeli town of Be&#39;eri, which has suffered a lot of casualties. Bethlehem, believed to be the birthplace of Jesus, is having a more subdued Christmas celebration because of the war in Gaza. Russian president Vladimir Putin is apparently in favor of negotiating a ceasefire in Ukraine, but there are lots of allegations of corruption in the Ukrainian defense sector. In the US, outgoing President Trump is still facing legal issues and Democrats are worried that President Biden is not doing enough to energize voters ahead of the 2020 election. Meanwhile, there&#39;s concern about the slow rollout of electric vehicle charging stations across America with Japan worrying about how its truck driving crisis could change life in their country. On top of these stories, an archaeological expedition is taking place in Mexico at Mitla where they&#39;re looking for what&#39;s left of centuries-old catacombs.</p>
+Right now, it looks like the world is divided in a few major ways. In the Middle East, Hamas has been launching attacks on Israeli towns, particularly in Be’eri. Meanwhile, the war in Gaza is bothering people and leading to subdued Christmas celebrations in Bethlehem, the traditional birthplace of Jesus. Over in Ukraine, it appears Putin is open to a cease-fire, though it isn&#39;t totally clear what that will entail yet. And Ukrainian defense officials are being accused of embezzling $40 million in a scheme involving artillery shells.
+
+Over here in the US, Trump refuses to back down from his legal troubles, no matter how many people criticize him for it. The Democrats worry Biden won&#39;t do enough to excite voters come election time. South Carolina could decide whether Biden can really get Black voters on his side or not. Meanwhile in more lighthearted news, scholars have been dissecting Hallmark and Lifetime holiday movies and NFL fans can see what teams will make the playoffs this year and get ready for 2023 too! Finally, an expedition in Mexico is digging into what lies beneath the Vatican of the Zapotecs. Exciting stuff!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Day Hamas Came</h3>
@@ -110,22 +112,10 @@ There&#39;s a lot going on in the world right now, from tense political situatio
 <p>The president’s campaign is putting money and staff into South Carolina ahead of its primary in an effort to energize Black voters, who are critical to his re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Slow Rollout of National Charging System Could Hinder E.V. Adoption</h3>
-<sub>By Madeleine Ngo</sub>
-<p>Lawmakers approved $5 billion for states to build a network of fast chargers two years ago. Although some states have made progress in recent weeks, most have not yet awarded contracts or started construction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Just How Formulaic Are Hallmark and Lifetime Holiday Movies? We (Over)analyzed 424 of Them.</h3>
 <sub></sub>
 <p>Do they all finish happily? We don’t want to ruin the ending for you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How a Crisis in Truck Driving Could Change Life in Japan</h3>
-<sub>By Hisako Ueno, John Yoon and Hiroko Masuike&#x2F;The New York Times</sub>
-<p>The country is moving to curb the industry’s punishing work hours. But that could leave a shortfall that disrupts Japan’s entire logistics system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
@@ -133,6 +123,18 @@ There&#39;s a lot going on in the world right now, from tense political situatio
 <sub>By Franz Lidz and Meghan Dhaliwal</sub>
 <p>An archaeological expedition in Mexico seeks what’s left of the sprawling, centuries-old catacombs hidden below the ruins of Mitla.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
+<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
+<p>Detailed tables and scenarios explain every team’s paths to the playoffs..  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>2023 N.F.L. Playoff Picture: Each Team’s Path to the Postseason</h3>
+<sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
+<p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
