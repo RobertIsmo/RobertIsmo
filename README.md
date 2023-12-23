@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-To keep up with what&#39;s going on in the world, it looks like there are a few different stories happening right now. In the US, there&#39;s discussion about possible immunity for former President Donald Trump; the Colorado Supreme Court is deliberating whether Trump can stay on the ballot; and lawmakers in Wisconsin just ordered new legislative maps. Meanwhile, overseas, there was an Israeli-US citizen who was killed during an attack in October; Apple is exploring AI deals with news publishers; and a Tokyo taxi driver has been charged with running down a pigeon. Finally, many truckers across America are facing a chronic problem with finding parking spots for their trucks.</p>
+Right now, there is a lot happening around the world. The U.S. is isolated over Gaza, and the U.N. just passed a resolution to allow for humanitarian aid but without actually calling for a ceasefire. An Israeli-American citizen has been killed in a hostage situation as well. In the US, the Supreme Court is putting off a case about Trump&#39;s immunity defense while other cases involving him are under way, such as determining if he can stay on ballots in certain states and whether his comments about &quot;good genes&quot; are acceptable. Wisconsin just ordered new legislative maps to undo gerrymandering that has favored Republicans. Two paramedics recently found guilty on negligent homicide in Elijah McClain&#39;s death just wrapped up the last trial related to the case. South Korean companies are closing the gap with US counterparts in A.I., and Apple is exploring deals with news publishers to train A.I. systems with their articles. Finally, someone is documenting southern culture and customs on Instagram with videos about everything from grits to prayer lists.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A World Leader on Ukraine, the U.S. Is Now Isolated Over Gaza</h3>
+<sub>By Michael Crowley</sub>
+<p>The United States finds itself in a defensive crouch and at odds with even staunch allies like France, Canada, Australia and Japan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.N. Passes Resolution on Gaza Aid but Does Not Call for ‘Suspension of Hostilities’</h3>
+<sub>By Farnaz Fassihi and Michael Levenson</sub>
+<p>After a week of heated negotiations, the U.N. Security Council approved a measure that called on Israel and Hamas to pause the fighting to allow for the delivery of more humanitarian aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli-U.S. Citizen Listed as a Hostage Is Now Said to Have Been Killed</h3>
+<sub>By Liam Stack</sub>
+<p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Won’t Hear Case on Trump’s Immunity Defense for Now</h3>
 <sub>By Adam Liptak</sub>
@@ -93,22 +111,16 @@ To keep up with what&#39;s going on in the world, it looks like there are a few 
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A World Leader on Ukraine, the U.S. Is Now Isolated Over Gaza</h3>
-<sub>By Michael Crowley</sub>
-<p>The United States finds itself in a defensive crouch and at odds with even staunch allies like France, Canada, Australia and Japan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Paramedics Found Guilty in Last Trial in Elijah McClain Death</h3>
+<sub>By Audra D. S. Burch and Kelley Manley</sub>
+<p>Peter Cichuniec and Jeremy Cooper were convicted of criminally negligent homicide, but the jury split on the lesser assault charges, in an unusual prosecution of medical personnel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli-U.S. Citizen Listed as a Hostage Is Now Said to Have Been Killed</h3>
-<sub>By Liam Stack</sub>
-<p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hunter Biden Text Cited in Impeachment Inquiry Is Not What G.O.P. Suggests</h3>
-<sub>By Adam Entous</sub>
-<p>A 2019 message from the president’s son alluded to giving his father half his salary. The back story offers unflattering insights into the Biden family but does not support assertions of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Seeking a Big Edge in A.I., South Korean Firms Think Smaller</h3>
+<sub>By John Yoon</sub>
+<p>While they lag behind their U.S. counterparts, their focus on non-English languages could help loosen the American grip on artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Apple Explores A.I. Deals With News Publishers</h3>
@@ -120,18 +132,6 @@ To keep up with what&#39;s going on in the world, it looks like there are a few 
 <h3>Explaining the South on Instagram, One Custom at a Time</h3>
 <sub>By Rick Rojas</sub>
 <p>Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Tokyo Taxi Driver Is Charged With Running Down a Pigeon</h3>
-<sub>By Hisako Ueno and Yan Zhuang</sub>
-<p>The arrest of the 50-year-old driver highlighted the strict law in Japan against harming the birds, even if they take over balconies or get in the way of traffic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America’s Truckers Face a Chronic Headache: Finding Parking</h3>
-<sub>By Mark Walker</sub>
-<p>Parking spots for trucks are in short supply around the country, and the problem can lead to unsafe situations for long-haul truck drivers and other motorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
