@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 22, Central Standard Time</p>
+<p>It is Saturday, December 23, Central Standard Time</p>
 <p>
-Right now, there is a lot happening around the world. The U.S. is isolated over Gaza, and the U.N. just passed a resolution to allow for humanitarian aid but without actually calling for a ceasefire. An Israeli-American citizen has been killed in a hostage situation as well. In the US, the Supreme Court is putting off a case about Trump&#39;s immunity defense while other cases involving him are under way, such as determining if he can stay on ballots in certain states and whether his comments about &quot;good genes&quot; are acceptable. Wisconsin just ordered new legislative maps to undo gerrymandering that has favored Republicans. Two paramedics recently found guilty on negligent homicide in Elijah McClain&#39;s death just wrapped up the last trial related to the case. South Korean companies are closing the gap with US counterparts in A.I., and Apple is exploring deals with news publishers to train A.I. systems with their articles. Finally, someone is documenting southern culture and customs on Instagram with videos about everything from grits to prayer lists.</p>
+There’s a lot going on in the world right now! The United States is isolated from its allies regarding the conflict in Gaza because of different positions on how to handle the situation. The UN voted to provide humanitarian aid to Gaza, but did not call for a suspension of hostilities. The Supreme Court has declined to hear a case on President Trump&#39;s immunity defense for now. Court rulings are being made across the country regarding the will of the voters and rule of law when it comes to approving Trump&#39;s candidacy. Meanwhile, Apple is considering deals with news publishers to train its generative AI systems on their articles, and Brexiters are being disappointed by the number of immigrants coming from outside Europe. Lastly, truckers are facing a parking crisis in America due to a shortage of spots nationally which leads to unsafe situations on the roads.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A World Leader on Ukraine, the U.S. Is Now Isolated Over Gaza</h3>
@@ -74,12 +74,6 @@ Right now, there is a lot happening around the world. The U.S. is isolated over 
 <p>After a week of heated negotiations, the U.N. Security Council approved a measure that called on Israel and Hamas to pause the fighting to allow for the delivery of more humanitarian aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli-U.S. Citizen Listed as a Hostage Is Now Said to Have Been Killed</h3>
-<sub>By Liam Stack</sub>
-<p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Won’t Hear Case on Trump’s Immunity Defense for Now</h3>
 <sub>By Adam Liptak</sub>
@@ -90,12 +84,6 @@ Right now, there is a lot happening around the world. The U.S. is isolated over 
 <h3>Principles at Stake in Push to Disqualify Trump: Will of Voters and Rule of Law</h3>
 <sub>By Charlie Savage</sub>
 <p>If the Colorado Supreme Court is right that the former president is constitutionally ineligible to run for president, fundamental values are in severe tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine’s Secretary of State to Decide Whether Trump Can Stay on Ballot</h3>
-<sub>By Jenna Russell</sub>
-<p>Shenna Bellows, a Democrat, has said she would decide next week whether Maine will join Colorado in disqualifying former President Donald J. Trump from its primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -113,7 +101,7 @@ Right now, there is a lot happening around the world. The U.S. is isolated over 
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Paramedics Found Guilty in Last Trial in Elijah McClain Death</h3>
 <sub>By Audra D. S. Burch and Kelley Manley</sub>
-<p>Peter Cichuniec and Jeremy Cooper were convicted of criminally negligent homicide, but the jury split on the lesser assault charges, in an unusual prosecution of medical personnel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Peter Cichuniec and Jeremy Cooper were convicted of criminally negligent homicide, but the jury split on the assault charges, in an unusual prosecution of medical personnel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +116,22 @@ Right now, there is a lot happening around the world. The U.S. is isolated over 
 <p>The company has discussed multiyear deals worth at least $50 million to train its generative A.I. systems on publishers’ news articles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Brexiteers Vowed to ‘Take Back Control’ of U.K. Borders. What Happened?</h3>
+<sub>By Mark Landler</sub>
+<p>Record numbers of legal immigrants came to Britain from outside the E.U. in recent years. Some on the right call that a “Brexit betrayal.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Explaining the South on Instagram, One Custom at a Time</h3>
-<sub>By Rick Rojas</sub>
-<p>Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>America’s Truckers Face a Chronic Headache: Finding Parking</h3>
+<sub>By Mark Walker</sub>
+<p>Parking spots for trucks are in short supply around the country, and the problem can lead to unsafe situations for long-haul truck drivers and other motorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Hochul Plans to Veto Ban on Noncompete Agreements in New York</h3>
+<sub>By Luis Ferré-Sadurní</sub>
+<p>The governor wanted to allow employers to use the agreements with high-paid workers, but was unable to work out a compromise with state lawmakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
