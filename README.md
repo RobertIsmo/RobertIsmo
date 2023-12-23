@@ -60,44 +60,63 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 23, Central Standard Time</p>
 <p>
-It looks like the U.S. is in a difficult spot right now with its foreign policy in both Ukraine and Gaza, and its closest allies are not united with it on these matters. The U.N. has passed a resolution to help out with aid for Gaza, but also did not call for a pause in hostilities. On the domestic front, the Supreme Court won&#39;t hear a case challenging President Trump&#39;s immunity defense, and debates about his views on genetics have resurfaced. In one of the latest judicial decisions, Wisconsin&#39;s Supreme Court ruled that new legislative maps should be drawn up. Additionally, two paramedics were found guilty in the death of Elijah McClain, though jury split on assault charges. 
+There are some pretty interesting stories making news all over the world. In Israel, tragedy recently struck as Hamas launched a series of attacks in the town of Be’eri. Meanwhile, Russia appears to have indicated an interest in seeking a ceasefire to end the conflict in Ukraine. In Yemen, the U.S. is dealing with a special challenge presented by the Houthi militia launching attacks on commercial ships in the Red Sea. 
 
-Overseas, South Korean firms are looking to create their own artificial intelligence edge with emphasis on language and Apple is trying to make deals with news publishers regarding AI training systems. Meanwhile, Brexit happened but E.U. immigrants are still coming into Britain in record numbers, which some Brexiteers are not happy about. Lastly, there&#39;s an ongoing challenge when it comes to trucker parking spots around the country and New York Governor Hochul wanted to veto an agreement from State legislators that would restrict employers from using noncompete agreements with high-paid workers.</p>
+Closer to home, Trump&#39;s legal woes and eligibility for office have been in spotlight recently. Meanwhile, a slow rollout of a national charging system for electric vehicles may hinder adoption, while Hallmark and Lifetime holiday movies have been analyzed to figure out just how formulaic they are. Democrats running for Senate and House seats in key states have expressed concerns that Biden has not done enough to excite voters ahead of this year&#39;s election. Biden&#39;s appeal to Black voters will be tested in South Carolina and paramedics were recently found guilty in regards to the death of Elijah McClain. 
+Last but not least, truck drivers across Japan and America are facing difficulties related to finding parking for their vehicles - a major headache for many long-haul truckers.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A World Leader on Ukraine, the U.S. Is Now Isolated Over Gaza</h3>
-<sub>By Michael Crowley</sub>
-<p>The United States finds itself in a defensive crouch and at odds with even staunch allies like France, Canada, Australia and Japan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Day Hamas Came</h3>
+<sub>By Patrick Kingsley, Aaron Boxerman, Natan Odenheimer, Ronen Bergman and Marco Hernandez</sub>
+<p>No Israeli town suffered more bloodshed than Be’eri in the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Houthi Militia in Yemen Presents a Special Challenge for U.S.</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>In the past month alone, the Iranian-backed group has launched more than 100 attacks against commercial vessels in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.N. Passes Resolution on Gaza Aid but Does Not Call for ‘Suspension of Hostilities’</h3>
-<sub>By Farnaz Fassihi and Michael Levenson</sub>
-<p>After a week of heated negotiations, the U.N. Security Council approved a measure that called on Israel and Hamas to pause the fighting to allow for the delivery of more humanitarian aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<h3>Putin Quietly Signals He Is Open to a Cease-Fire in Ukraine</h3>
+<sub>By Anton Troianovski, Adam Entous and Julian E. Barnes</sub>
+<p>Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Won’t Hear Case on Trump’s Immunity Defense for Now</h3>
-<sub>By Adam Liptak</sub>
-<p>The case will instead first be heard by a federal appeals court, which has put it on a fast track, scheduling arguments for Jan. 9.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<h3>Any Other Politician Would Have Bowed Out. Trump? Not a Chance.</h3>
+<sub>By Michael C. Bender</sub>
+<p>This week’s debate over his very eligibility for office served as a stark reminder that anyone else facing such a wide array of legal problems would have left the political stage long ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Principles at Stake in Push to Disqualify Trump: Will of Voters and Rule of Law</h3>
-<sub>By Charlie Savage</sub>
-<p>If the Colorado Supreme Court is right that the former president is constitutionally ineligible to run for president, fundamental values are in severe tension.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<h3>The Supreme Court Helped Trump’s Delay Strategy. By How Much Remains to Be Seen.</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s claim that he is immune from prosecution will now be taken up by a federal appeals court — and could end up back in front of the justices within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Long Fascination With Genes and Bloodlines Gets New Scrutiny</h3>
-<sub>By Michael Gold</sub>
-<p>The former president’s remark about undocumented immigrants “poisoning the blood” of the country is one of several comments he’s made over the years regarding “good genes.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<h3>Slow Rollout of National Charging System Could Hinder E.V. Adoption</h3>
+<sub>By Madeleine Ngo</sub>
+<p>Lawmakers approved $5 billion for states to build a network of fast chargers two years ago. Although some states have made progress in recent weeks, most have not yet awarded contracts or started construction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Just How Formulaic Are Hallmark and Lifetime Holiday Movies? We (Over)analyzed 424 of Them.</h3>
+<sub></sub>
+<p>Do they all finish happily? We don’t want to ruin the ending for you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justices in Wisconsin Order New Legislative Maps</h3>
-<sub>By Julie Bosman</sub>
-<p>The ruling, coming just months after liberals gained a 4-to-3 majority on the State Supreme Court, could undo gerrymanders that have given Republicans lopsided control of the State Legislature.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Democrats in Key States Worry Biden Could Be a Drag on Their Races</h3>
+<sub>By Reid J. Epstein and Lisa Lerer</sub>
+<p>Candidates for the Senate and House have expressed concern that the president has not done enough to build an operation or excite voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In South Carolina, Democrats See a Test of Biden’s Appeal to Black Voters</h3>
+<sub>By Maya King</sub>
+<p>The president’s campaign is putting money and staff into South Carolina ahead of its primary in an effort to energize Black voters, who are critical to his re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -107,33 +126,15 @@ Overseas, South Korean firms are looking to create their own artificial intellig
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Seeking a Big Edge in A.I., South Korean Firms Think Smaller</h3>
-<sub>By John Yoon</sub>
-<p>While they lag behind their U.S. counterparts, their focus on non-English languages could help loosen the American grip on artificial intelligence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Apple Explores A.I. Deals With News Publishers</h3>
-<sub>By Benjamin Mullin and Tripp Mickle</sub>
-<p>The company has discussed multiyear deals worth at least $50 million to train its generative A.I. systems on publishers’ news articles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Brexiteers Vowed to ‘Take Back Control’ of U.K. Borders. What Happened?</h3>
-<sub>By Mark Landler</sub>
-<p>Record numbers of legal immigrants came to Britain from outside the E.U. in recent years. Some on the right call that a “Brexit betrayal.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<h3>How a Crisis in Truck Driving Could Change Life in Japan</h3>
+<sub>By Hisako Ueno, John Yoon and Hiroko Masuike&#x2F;The New York Times</sub>
+<p>The country is moving to curb the industry’s punishing work hours. But that could leave a shortfall that disrupts Japan’s entire logistics system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>America’s Truckers Face a Chronic Headache: Finding Parking</h3>
 <sub>By Mark Walker</sub>
 <p>Parking spots for trucks are in short supply around the country, and the problem can lead to unsafe situations for long-haul truck drivers and other motorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Hochul Plans to Veto Ban on Noncompete Agreements in New York</h3>
-<sub>By Luis Ferré-Sadurní</sub>
-<p>The governor wanted to allow employers to use the agreements with high-paid workers, but was unable to work out a compromise with state lawmakers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
