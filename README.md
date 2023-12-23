@@ -60,10 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 23, Central Standard Time</p>
 <p>
-There are some pretty interesting stories making news all over the world. In Israel, tragedy recently struck as Hamas launched a series of attacks in the town of Be’eri. Meanwhile, Russia appears to have indicated an interest in seeking a ceasefire to end the conflict in Ukraine. In Yemen, the U.S. is dealing with a special challenge presented by the Houthi militia launching attacks on commercial ships in the Red Sea. 
-
-Closer to home, Trump&#39;s legal woes and eligibility for office have been in spotlight recently. Meanwhile, a slow rollout of a national charging system for electric vehicles may hinder adoption, while Hallmark and Lifetime holiday movies have been analyzed to figure out just how formulaic they are. Democrats running for Senate and House seats in key states have expressed concerns that Biden has not done enough to excite voters ahead of this year&#39;s election. Biden&#39;s appeal to Black voters will be tested in South Carolina and paramedics were recently found guilty in regards to the death of Elijah McClain. 
-Last but not least, truck drivers across Japan and America are facing difficulties related to finding parking for their vehicles - a major headache for many long-haul truckers.</p>
+There have been some concerning developments around the world recently. In Palestine, the war between Hamas and Israel has led to little celebration in Bethlehem this Christmas season. To make matters worse, a senior defense official in Ukraine was accused of embezzling $40 million, and Russia has signaled an openness to a cease-fire in Ukraine. Here in the US, President Trump&#39;s legal issues are still making headlines - to the point that many have questioned his eligibility for office. Meanwhile, the slow rollout of a national charging system could hinder the adoption of electric vehicles that some say is badly needed. Last but not least, two paramedics in Colorado have been found guilty in the death of Elijah McClain from last year. Japan is also struggling with its trucking industry and trying to curb its punishing work hours which could disrupt its logistics system overall.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Day Hamas Came</h3>
@@ -71,16 +68,22 @@ Last but not least, truck drivers across Japan and America are facing difficulti
 <p>No Israeli town suffered more bloodshed than Be’eri in the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Houthi Militia in Yemen Presents a Special Challenge for U.S.</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>In the past month alone, the Iranian-backed group has launched more than 100 attacks against commercial vessels in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘God Is Under the Rubble in Gaza’: Bethlehem’s Subdued Christmas</h3>
+<sub>By Yara Bayoumy and Samar Hazboun</sub>
+<p>The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Putin Quietly Signals He Is Open to a Cease-Fire in Ukraine</h3>
 <sub>By Anton Troianovski, Adam Entous and Julian E. Barnes</sub>
 <p>Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Accuses Senior Defense Official of Embezzling $40 Million</h3>
+<sub>By Constant Méheut</sub>
+<p>The Ukrainian authorities said they had uncovered a scheme for the purchase of artillery shells at inflated prices, amid a wider effort to tackle wartime corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -130,12 +133,6 @@ Last but not least, truck drivers across Japan and America are facing difficulti
 <sub>By Hisako Ueno, John Yoon and Hiroko Masuike&#x2F;The New York Times</sub>
 <p>The country is moving to curb the industry’s punishing work hours. But that could leave a shortfall that disrupts Japan’s entire logistics system.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>America’s Truckers Face a Chronic Headache: Finding Parking</h3>
-<sub>By Mark Walker</sub>
-<p>Parking spots for trucks are in short supply around the country, and the problem can lead to unsafe situations for long-haul truck drivers and other motorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
