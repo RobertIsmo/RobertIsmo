@@ -60,38 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 22, Central Standard Time</p>
 <p>
-There are a lot of big news stories going on right now! In the US, the Supreme Court recently declined to hear a case concerning former President Donald Trump&#39;s immunity defense, and will instead allow a federal appeals court to handle the case. There is also an investigation tracking the different criminal cases involving Trump. World-wide, there have been many developments such as secret negotiations between the US and Lebanon in order to help ease tensions and improve relations between Israel and Lebanon. There was also a tragic story of an Israeli-American citizen that has been killed in an attack. 
-
-On top of all this, there are impeachment inquiries into President Biden and his family for claims of corruption. To make matters more complicated, inflation is slowing down, which is good for officials and consumers. It looks like Instagram influencer Landon Bryant is also trying to explain all the facts about life in the south with his posts. Finally, people are raising questions about a gorilla living in captivity whose keepers have to figure out how much medical care it should receive!</p>
+To keep up with what&#39;s going on in the world, it looks like there are a few different stories happening right now. In the US, there&#39;s discussion about possible immunity for former President Donald Trump; the Colorado Supreme Court is deliberating whether Trump can stay on the ballot; and lawmakers in Wisconsin just ordered new legislative maps. Meanwhile, overseas, there was an Israeli-US citizen who was killed during an attack in October; Apple is exploring AI deals with news publishers; and a Tokyo taxi driver has been charged with running down a pigeon. Finally, many truckers across America are facing a chronic problem with finding parking spots for their trucks.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Supreme Court Won’t Hear Case on Trump’s Immunity Defense for Now</h3>
 <sub>By Adam Liptak</sub>
 <p>The case will instead first be heard by a federal appeals court, which has put it on a fast track, scheduling arguments for Jan. 9.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Keeping Track of the Trump Investigations</h3>
-<sub>By The New York Times</sub>
-<p>See a guide to the major criminal cases involving the former president.  <a href="https://nyti.ms/3Q9udxn"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Times Investigation Tracked Israel’s Use of One of Its Most Destructive Bombs in South Gaza</h3>
-<sub>By Robin Stein, Haley Willis, Ishaan Jhaveri, Danielle Miller, Aaron Byrd and Natalie Reneau</sub>
-<p>A Times visual investigation reveals that one of Israel’s largest munitions was regularly being dropped in areas designated safe for i  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 21, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S.-Brokered Talks Seek to Ease Tensions on Israel-Lebanon Border</h3>
-<sub>By Adam Entous, Ronen Bergman, Maria Abi-Habib and Euan Ward</sub>
-<p>The first goal of the secret negotiations is to stop skirmishes between Israel and Hezbollah from escalating into an all-out war, but longer-term solutions are also on the table, officials say.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli-U.S. Citizen Listed as a Hostage Is Now Said to Have Been Killed</h3>
-<sub>By Liam Stack</sub>
-<p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -107,21 +81,39 @@ On top of all this, there are impeachment inquiries into President Biden and his
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Long Fascination With Genes and Bloodlines Gets New Scrutiny</h3>
+<sub>By Michael Gold</sub>
+<p>The former president’s remark about undocumented immigrants “poisoning the blood” of the country is one of several comments he’s made over the years regarding “good genes.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justices in Wisconsin Order New Legislative Maps</h3>
+<sub>By Julie Bosman</sub>
+<p>The ruling, coming just months after liberals gained a 4-to-3 majority on the State Supreme Court, could undo gerrymanders that have given Republicans lopsided control of the State Legislature.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A World Leader on Ukraine, the U.S. Is Now Isolated Over Gaza</h3>
+<sub>By Michael Crowley</sub>
+<p>The United States finds itself in a defensive crouch and at odds with even staunch allies like France, Canada, Australia and Japan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli-U.S. Citizen Listed as a Hostage Is Now Said to Have Been Killed</h3>
+<sub>By Liam Stack</sub>
+<p>Gadi Haggai, 73, was fatally shot in the Oct. 7 attack, a hostage family group says. His wife was also shot and taken captive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hunter Biden Text Cited in Impeachment Inquiry Is Not What G.O.P. Suggests</h3>
 <sub>By Adam Entous</sub>
 <p>A 2019 message from the president’s son alluded to giving his father half his salary. The back story offers unflattering insights into the Biden family but does not support assertions of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Assessing 6 Claims by the G.O.P. in the Biden Impeachment Inquiry</h3>
-<sub>By Luke Broadwater</sub>
-<p>Many messages cited by Republicans as evidence of corruption by President Biden and his family are being presented out of context.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Price Increases Cooled in November as Inflation Falls Toward Fed Target</h3>
-<sub>By Jeanna Smialek</sub>
-<p>A key inflation measure has been slowing and overall prices actually declined slightly from October, good news for officials and consumers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Apple Explores A.I. Deals With News Publishers</h3>
+<sub>By Benjamin Mullin and Tripp Mickle</sub>
+<p>The company has discussed multiyear deals worth at least $50 million to train its generative A.I. systems on publishers’ news articles.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -130,10 +122,16 @@ On top of all this, there are impeachment inquiries into President Biden and his
 <p>Landon Bryant talks about grits, prayer lists and humidity, addressing a diverse audience bound by its fascination with a colorful, complicated place.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>This Gorilla’s Caregivers Face Familiar Questions About Aging</h3>
-<sub>By Paula Span</sub>
-<p>Winston, an older silverback, is getting enviable medical treatment. Now his keepers must confront an issue that vexes doctors and older humans, too: How much intervention is too much?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Tokyo Taxi Driver Is Charged With Running Down a Pigeon</h3>
+<sub>By Hisako Ueno and Yan Zhuang</sub>
+<p>The arrest of the 50-year-old driver highlighted the strict law in Japan against harming the birds, even if they take over balconies or get in the way of traffic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>America’s Truckers Face a Chronic Headache: Finding Parking</h3>
+<sub>By Mark Walker</sub>
+<p>Parking spots for trucks are in short supply around the country, and the problem can lead to unsafe situations for long-haul truck drivers and other motorists.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
