@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot of turmoil and uncertainty around the world. For example, in Argentina, fuel prices have skyrocketed and basic necessities like diapers have nearly doubled under the country&#39;s new president. Elsewhere, military conflicts such as those in Ukraine are still ongoing, and voting in national elections across the globe could lead to increased volatility due to economic insecurity. Closer to home, former President Donald Trump is currently engaged in a legal battle over his prosecution while in office. Fortunately, amidst it all, we can still celebrate the holiday season with joy - even if white Christmases seem pretty unlikely for most of us this year!</p>
+There have been a lot of protests on college campuses due to the conflict between Israel and Hamas. Harvard’s powerful board is being scrutinized for their lack of transparency. It’s a complicated time as we’re seeing national elections happening around the world with increasing volatility. Argentina&#39;s president has made some controversial economic decisions that have led to a rising cost of living. President Trump is trying to overturn an election indictment while former Justice Clarence Thomas has created an influential network of clerks who support his vision. The Color Purple actress Fantasia Barrino-Taylor is revisiting her powerful Broadway performance. Florida Governor DeSantis has faced internal chaos and negative publicity this year. In Ukraine, a soldier was able to escape an embattled steel complex and make it safely back to Ukrainian territory while Russian President Putin is signaling an open willingness to pursue a ceasefire. Lastly, in light of the holidays, a lot of people have taken up knitting presents for their friends and family but must be mindful not to hurt feelings during the emotional process.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Campus Protests Over Gaza, Echoes of Outcry Over Vietnam</h3>
+<sub>By Michael Wines</sub>
+<p>The war in Vietnam ignited a protest movement that helped define a generation. Is the war between Israel and Hamas doing the same thing?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Claudine Gay Turmoil Forces Harvard’s Secretive ‘Corporation’ Into Spotlight</h3>
+<sub>By Rob Copeland and Maureen Farrell</sub>
+<p>Harvard’s powerful board has backed its president and said little else, yet a member privately said “generational change” may be needed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Who Are the Members of the Harvard Corporation?</h3>
+<sub>By Colbi Edmonds</sub>
+<p>The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Clarence Thomas’s Clerks: An ‘Extended Family’ With Reach and Power</h3>
+<sub>By Abbie VanSickle and Steve Eder</sub>
+<p>The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Two Wars, 50 Elections: The Economy Faces Rising Geopolitical Risks</h3>
 <sub>By Patricia Cohen</sub>
@@ -72,18 +96,6 @@ Right now, there&#39;s a lot of turmoil and uncertainty around the world. For ex
 <h3>Under Argentina’s New President, Fuel Is Up 60%, and Diaper Prices Have Doubled</h3>
 <sub>By Daniel Politi and Lucía Cholakian Herrera</sub>
 <p>Javier Milei warned that things would get worse before they got better. Now Argentines are living it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clarence Thomas’s Clerks: An ‘Extended Family’ With Reach and Power</h3>
-<sub>By Abbie VanSickle and Steve Eder</sub>
-<p>The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘God Is Under the Rubble in Gaza’: Bethlehem’s Subdued Christmas</h3>
-<sub>By Yara Bayoumy and Samar Hazboun</sub>
-<p>The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ Right now, there&#39;s a lot of turmoil and uncertainty around the world. For ex
 <h3>The Emotional Gamble of a Hand-Knitted Gift</h3>
 <sub>By Britta Lokting</sub>
 <p>Knitting scarves, sweaters and other presents can take a lot of time, money and energy. But there can also be a deeper cost: hurt feelings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Will You Have a White Christmas This Year? Probably not.</h3>
-<sub>By William B. Davis, Judson Jones and Zach Levitt</sub>
-<p>Relatively few people will experience a white Christmas this year in the United States. See if you could be one of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
-<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
-<p>Detailed tables and scenarios explain every team’s path to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
