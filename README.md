@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-There is a lot happening in the world today! In the US, former president Donald Trump is trying to get a court case related to his immunity from prosecution dismissed. Meanwhile, in Gaza, despite a UN resolution, aid groups are still saying that there won&#39;t be enough of an improvement without an official cease-fire agreement. In Ukraine, Russia has recently hinted that it might accept a cease-fire with Ukraine too while simultaneously Ukraine has accused one of its own defense officials of stealing $40 million. Additionally, in Yemen, Houthi militia have been attacking commercial ships the Red Sea and in Mexico, archaeologists are uncovering the centuries old secrets of catacombs hidden beneath the ruins of Mitla. Lastly, many high-profile public figures such as former Supreme Court Justice Sandra Day O&#39;Connor and musician Tony Bennett have passed away this year.</p>
+There is a lot going on in the world right now. In terms of business and economics, we are facing rising geopolitical risks due to persistent military conflicts and economic uncertainty affecting national elections in various countries. In Argentina, under their new president, fuel prices have risen 60% and diaper prices have doubled. On the political front in the US, Trump is trying to get an election case dismissed on legal grounds while countries like Ukraine and Hamas-controlled places like Gaza are facing potential international actions or ceasefires while at the same time struggling with issues of corruption and embezzlement. On a more personal note, people who were locked up for long periods of time without specified end dates have been freed but put under government surveillance or subject to curfews. Finally, many famous people passed away this year including Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennet, Jim Brown, Tina Turner and many others.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Two Wars, 50 Elections: The Economy Faces Rising Geopolitical Risks</h3>
+<sub>By Patricia Cohen</sub>
+<p>Next year could see increasing volatility as persistent military conflicts and economic uncertainty influence voting in national elections across the globe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Under Argentina’s New President, Fuel Is Up 60%, and Diaper Prices Have Doubled</h3>
+<sub>By Daniel Politi and Lucía Cholakian Herrera</sub>
+<p>Javier Milei warned that things would get worse before they got better. Now Argentines are living it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Asks Appeals Court to Toss Election Case on Immunity Grounds</h3>
 <sub>By Alan Feuer</sub>
 <p>The court filing was the latest development in a battle between Mr. Trump and the special counsel, Jack Smith, over whether the former president can be prosecuted for his actions while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Without a Truce, U.N. Resolution May Do Little for Gaza, Aid Groups Say</h3>
-<sub>By Ben Hubbard and Roni Caryn Rabin</sub>
-<p>The Security Council resolution, watered down to avoid a U.S. veto, directs urgent action to increase aid, but does not call for a cease-fire that would make it safe to distribute the aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,10 +86,10 @@ There is a lot happening in the world today! In the US, former president Donald 
 <p>No Israeli town suffered more bloodshed than Be’eri in the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Houthi Militia in Yemen Presents a Special Challenge for U.S.</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>In the past month alone, the Iranian-backed group has launched more than 100 attacks against commercial vessels in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Without a Truce, U.N. Resolution May Do Little for Gaza, Aid Groups Say</h3>
+<sub>By Ben Hubbard and Roni Caryn Rabin</sub>
+<p>The Security Council resolution, watered down to avoid a U.S. veto, directs urgent action to increase aid, but does not call for a cease-fire that would make it safe to distribute the aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -121,12 +127,6 @@ There is a lot happening in the world today! In the US, former president Donald 
 <sub></sub>
 <p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Slow Rollout of National Charging System Could Hinder E.V. Adoption</h3>
-<sub>By Madeleine Ngo</sub>
-<p>Lawmakers approved $5 billion for states to build a network of fast chargers two years ago. Although some states have made progress in recent weeks, most have not yet awarded contracts or started construction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>He Was My Role Model. My Mentor. My Supplier.</h3>
