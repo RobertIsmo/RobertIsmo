@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-There is a lot of global instability and unrest at the moment. Argentina has seen prices for everyday goods like diapers skyrocket in the wake of their new president&#39;s policies. Meanwhile, military conflicts and upcoming elections threaten to disrupt economies and could cause further volatility. In Gaza, the conflict has led to a subdued Christmas in Bethlehem, while aid groups worry that a U.N. resolution may not be enough to help the region without a truce. In the U.S., Donald Trump&#39;s legal battle with special counsel Jack Smith continues, while External interference from Russia and China could play a role in the 2024 election.</p>
+Right now, there&#39;s a lot of turmoil and uncertainty around the world. For example, in Argentina, fuel prices have skyrocketed and basic necessities like diapers have nearly doubled under the country&#39;s new president. Elsewhere, military conflicts such as those in Ukraine are still ongoing, and voting in national elections across the globe could lead to increased volatility due to economic insecurity. Closer to home, former President Donald Trump is currently engaged in a legal battle over his prosecution while in office. Fortunately, amidst it all, we can still celebrate the holiday season with joy - even if white Christmases seem pretty unlikely for most of us this year!</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Two Wars, 50 Elections: The Economy Faces Rising Geopolitical Risks</h3>
@@ -86,18 +86,6 @@ There is a lot of global instability and unrest at the moment. Argentina has see
 <p>The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>With Israeli Raids in the West Bank, ‘There’s No Such Thing as Sleeping at Night’</h3>
-<sub>By Christina Goldbaum and Hiba Yazbek</sub>
-<p>The Jenin refugee camp in the Israeli-occupied West Bank is a focal point of what Israeli officials describe as counterterrorism operations across the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Without a Truce, U.N. Resolution May Do Little for Gaza, Aid Groups Say</h3>
-<sub>By Ben Hubbard and Roni Caryn Rabin</sub>
-<p>The Security Council resolution, watered down to avoid a U.S. veto, directs urgent action to increase aid, but does not call for a cease-fire that would make it safe to distribute the aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Asks Appeals Court to Toss Election Case on Immunity Grounds</h3>
 <sub>By Alan Feuer</sub>
@@ -116,23 +104,35 @@ There is a lot of global instability and unrest at the moment. Argentina has see
 <p>The Florida governor entered the year flush with cash and momentum. In the months since, internal chaos and Donald Trump’s indictments have sapped even his most avid supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Russian and Chinese Interference Could Affect the 2024 Election</h3>
-<sub>By Julian E. Barnes</sub>
-<p>The stakes for Russia in the presidential vote are large. Other adversaries also might try to deepen divisions among American voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking Trump’s Recent Immigration Claims</h3>
-<sub>By Angelo Fichera</sub>
-<p>As President Biden grapples with an unwieldy crisis at the southern border, his likely 2024 rival has leveled many criticisms — including some baseless and misleading claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>He Was Ready to Die, but Not to Surrender</h3>
 <sub>By Marc Santora</sub>
 <p>How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Putin Quietly Signals He Is Open to a Cease-Fire in Ukraine</h3>
+<sub>By Anton Troianovski, Adam Entous and Julian E. Barnes</sub>
+<p>Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Emotional Gamble of a Hand-Knitted Gift</h3>
+<sub>By Britta Lokting</sub>
+<p>Knitting scarves, sweaters and other presents can take a lot of time, money and energy. But there can also be a deeper cost: hurt feelings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Will You Have a White Christmas This Year? Probably not.</h3>
+<sub>By William B. Davis, Judson Jones and Zach Levitt</sub>
+<p>Relatively few people will experience a white Christmas this year in the United States. See if you could be one of them.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
+<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
+<p>Detailed tables and scenarios explain every team’s path to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
