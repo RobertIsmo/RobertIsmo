@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 23, Central Standard Time</p>
 <p>
-Right now, it looks like the world is divided in a few major ways. In the Middle East, Hamas has been launching attacks on Israeli towns, particularly in Be’eri. Meanwhile, the war in Gaza is bothering people and leading to subdued Christmas celebrations in Bethlehem, the traditional birthplace of Jesus. Over in Ukraine, it appears Putin is open to a cease-fire, though it isn&#39;t totally clear what that will entail yet. And Ukrainian defense officials are being accused of embezzling $40 million in a scheme involving artillery shells.
-
-Over here in the US, Trump refuses to back down from his legal troubles, no matter how many people criticize him for it. The Democrats worry Biden won&#39;t do enough to excite voters come election time. South Carolina could decide whether Biden can really get Black voters on his side or not. Meanwhile in more lighthearted news, scholars have been dissecting Hallmark and Lifetime holiday movies and NFL fans can see what teams will make the playoffs this year and get ready for 2023 too! Finally, an expedition in Mexico is digging into what lies beneath the Vatican of the Zapotecs. Exciting stuff!</p>
+It looks like there&#39;s been a lot of international news recently! Hamas launched some attacks in Israel&#39;s Be’eri town and the US is trying to sort out the Houthi militia in Yemen. Putin has signaled he may be willing to negotiate a ceasefire in Ukraine, but the country itself has accused a defense official of embezzling $40 million. Closer to home, President Trump is facing a lot of legal challenges, and it may be forcing Democratic candidates for Senate and House seats to worry if he&#39;ll hurt their chances. There have also been some major celebrities who passed away this year, including Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter and more. On a lighter note though, The Upshot did some research on Hallmark and Lifetime holiday movies- it turns out there&#39;s definitely some formula going on there! Lastly there&#39;s sports news- an expedition in Mexico is looking for Zapotec catacombs and the NFL playoffs are coming up soon with each team getting closer to making it to the post season!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Day Hamas Came</h3>
@@ -70,10 +68,10 @@ Over here in the US, Trump refuses to back down from his legal troubles, no matt
 <p>No Israeli town suffered more bloodshed than Be’eri in the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘God Is Under the Rubble in Gaza’: Bethlehem’s Subdued Christmas</h3>
-<sub>By Yara Bayoumy and Samar Hazboun</sub>
-<p>The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Houthi Militia in Yemen Presents a Special Challenge for U.S.</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>In the past month alone, the Iranian-backed group has launched more than 100 attacks against commercial vessels in the Red Sea.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -106,12 +104,6 @@ Over here in the US, Trump refuses to back down from his legal troubles, no matt
 <p>The former president’s claim that he is immune from prosecution will now be taken up by a federal appeals court — and could end up back in front of the justices within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In South Carolina, Democrats See a Test of Biden’s Appeal to Black Voters</h3>
-<sub>By Maya King</sub>
-<p>The president’s campaign is putting money and staff into South Carolina ahead of its primary in an effort to energize Black voters, who are critical to his re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Just How Formulaic Are Hallmark and Lifetime Holiday Movies? We (Over)analyzed 424 of Them.</h3>
 <sub></sub>
@@ -135,6 +127,12 @@ Over here in the US, Trump refuses to back down from his legal troubles, no matt
 <sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
 <p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
+<h3>Notable Deaths of 2023</h3>
+<sub></sub>
+<p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
