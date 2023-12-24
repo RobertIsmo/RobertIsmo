@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In terms of business and economics, we are facing rising geopolitical risks due to persistent military conflicts and economic uncertainty affecting national elections in various countries. In Argentina, under their new president, fuel prices have risen 60% and diaper prices have doubled. On the political front in the US, Trump is trying to get an election case dismissed on legal grounds while countries like Ukraine and Hamas-controlled places like Gaza are facing potential international actions or ceasefires while at the same time struggling with issues of corruption and embezzlement. On a more personal note, people who were locked up for long periods of time without specified end dates have been freed but put under government surveillance or subject to curfews. Finally, many famous people passed away this year including Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennet, Jim Brown, Tina Turner and many others.</p>
+There is a lot of political tension and uncertainty taking place in the world right now. In Argentina, prices for basic goods have skyrocketed since the new president took office, causing many people hardship. Disputes between Israel and Palestinians in the West Bank remain unresolved, making it difficult for aid organisations to distribute aid safely. And in the US, Donald Trump is facing a criminal investigation while his likely 2024 Republican rival is trying to make claims about immigration that may not be true. There&#39;s also risk of interference from countries like China and Russia in the upcoming presidential election as well as an increasing number of military conflicts and economic instability impacting voting around the world. On top of that, tech researchers have found a way to extract contact information from online chat users.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Two Wars, 50 Elections: The Economy Faces Rising Geopolitical Risks</h3>
@@ -75,16 +75,16 @@ There is a lot going on in the world right now. In terms of business and economi
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Appeals Court to Toss Election Case on Immunity Grounds</h3>
-<sub>By Alan Feuer</sub>
-<p>The court filing was the latest development in a battle between Mr. Trump and the special counsel, Jack Smith, over whether the former president can be prosecuted for his actions while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<h3>Clarence Thomas’s Clerks: An ‘Extended Family’ With Reach and Power</h3>
+<sub>By Abbie VanSickle and Steve Eder</sub>
+<p>The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Day Hamas Came</h3>
-<sub>By Patrick Kingsley, Aaron Boxerman, Natan Odenheimer, Ronen Bergman and Marco Hernandez</sub>
-<p>No Israeli town suffered more bloodshed than Be’eri in the Hamas attacks on Oct. 7.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<h3>With Israeli Raids in the West Bank, ‘There’s No Such Thing as Sleeping at Night’</h3>
+<sub>By Christina Goldbaum and Hiba Yazbek</sub>
+<p>The Jenin refugee camp in the Israeli-occupied West Bank is a focal point of what Israeli officials describe as counterterrorism operations across the territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Without a Truce, U.N. Resolution May Do Little for Gaza, Aid Groups Say</h3>
@@ -92,47 +92,47 @@ There is a lot going on in the world right now. In terms of business and economi
 <p>The Security Council resolution, watered down to avoid a U.S. veto, directs urgent action to increase aid, but does not call for a cease-fire that would make it safe to distribute the aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Quietly Signals He Is Open to a Cease-Fire in Ukraine</h3>
-<sub>By Anton Troianovski, Adam Entous and Julian E. Barnes</sub>
-<p>Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Asks Appeals Court to Toss Election Case on Immunity Grounds</h3>
+<sub>By Alan Feuer</sub>
+<p>The court filing was the latest development in a battle between Mr. Trump and the special counsel, Jack Smith, over whether the former president can be prosecuted for his actions while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Accuses Senior Defense Official of Embezzling $40 Million</h3>
-<sub>By Constant Méheut</sub>
-<p>The Ukrainian authorities said they had uncovered a scheme for the purchase of artillery shells at inflated prices, amid a wider effort to tackle wartime corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Just How Formulaic Are Hallmark and Lifetime Holiday Movies? We (Over)analyzed 424 of Them.</h3>
-<sub></sub>
-<p>Do they all finish happily? We don’t want to ruin the ending for you.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>What Lies Beneath the Vatican of the Zapotecs?</h3>
-<sub>By Franz Lidz and Meghan Dhaliwal</sub>
-<p>An archaeological expedition in Mexico seeks what’s left of the sprawling, centuries-old catacombs hidden below the ruins of Mitla.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Fantasia Barrino-Taylor on the Pain (and Joy) of ‘The Color Purple’</h3>
+<sub>By Tiffany Martinbrough</sub>
+<p>Offered the chance to revisit her Broadway performance as the much-abused Celie, the star faced a difficult path.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Freed From Never-Ending Detention, They Ended Up in Another Limbo</h3>
-<sub>By Natasha Frost</sub>
-<p>An Australian high court allowed the release of dozens of detained people who are now subject to curfews and monitored by the government with ankle bracelets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<h3>He Was Ready to Die, but Not to Surrender</h3>
+<sub>By Marc Santora</sub>
+<p>How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-obituaries-blue" alt="">
-<h3>Notable Deaths of 2023</h3>
-<sub></sub>
-<p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Went Wrong for Ron DeSantis in 2023</h3>
+<sub>By Shane Goldmacher, Maggie Haberman and Nicholas Nehamas</sub>
+<p>The Florida governor entered the year flush with cash and momentum. In the months since, internal chaos and Donald Trump’s indictments have sapped even his most avid supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>He Was My Role Model. My Mentor. My Supplier.</h3>
-<sub>By Mitchell S. Jackson</sub>
-<p>Decades after I left hustling to become a writer, why did I seek out the man who drew me into that world?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Russian and Chinese Interference Could Affect the 2024 Election</h3>
+<sub>By Julian E. Barnes</sub>
+<p>The stakes for Russia in the presidential vote are large. Other adversaries also might try to deepen divisions among American voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Fact-Checking Trump’s Recent Immigration Claims</h3>
+<sub>By Angelo Fichera</sub>
+<p>As President Biden grapples with an unwieldy crisis at the southern border, his likely 2024 rival has leveled many criticisms — including some baseless and misleading claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>How Strangers Got My Email Address From ChatGPT</h3>
+<sub>By Jeremy White</sub>
+<p>Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
