@@ -58,10 +58,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, December 23, Central Standard Time</p>
+<p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-It has been a busy few months around the world - in October, there were Hamas attacks on Israeli towns including Be&#39;eri. In Yemen, Houthi militia have been launching attacks against commercial vessels in the Red Sea. Russia is signaling that they would be open to a cease-fire in Ukraine, but Ukraine was just accused of embezzling $40 million for military shells. President Trump is in some legal trouble and some Democrats are worried he might be a drag on their races. The Supreme Court recently ruled in favor of Trump&#39;s delay strategy. Hallmark and Lifetime have been churning out a steady stream of holiday movies and researchers took it upon themselves to analyze them all. Archaeologists are looking for centuries-old catacombs beneath Mexican ruins. NFL playoffs are looming and with week 16, the picture starts to show itself. And notable people such as Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby and Matthew Perry all passed away this year.</p>
+There is a lot happening in the world today! In the US, former president Donald Trump is trying to get a court case related to his immunity from prosecution dismissed. Meanwhile, in Gaza, despite a UN resolution, aid groups are still saying that there won&#39;t be enough of an improvement without an official cease-fire agreement. In Ukraine, Russia has recently hinted that it might accept a cease-fire with Ukraine too while simultaneously Ukraine has accused one of its own defense officials of stealing $40 million. Additionally, in Yemen, Houthi militia have been attacking commercial ships the Red Sea and in Mexico, archaeologists are uncovering the centuries old secrets of catacombs hidden beneath the ruins of Mitla. Lastly, many high-profile public figures such as former Supreme Court Justice Sandra Day O&#39;Connor and musician Tony Bennett have passed away this year.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Asks Appeals Court to Toss Election Case on Immunity Grounds</h3>
+<sub>By Alan Feuer</sub>
+<p>The court filing was the latest development in a battle between Mr. Trump and the special counsel, Jack Smith, over whether the former president can be prosecuted for his actions while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Without a Truce, U.N. Resolution May Do Little for Gaza, Aid Groups Say</h3>
+<sub>By Ben Hubbard and Roni Caryn Rabin</sub>
+<p>The Security Council resolution, watered down to avoid a U.S. veto, directs urgent action to increase aid, but does not call for a cease-fire that would make it safe to distribute the aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Day Hamas Came</h3>
 <sub>By Patrick Kingsley, Aaron Boxerman, Natan Odenheimer, Ronen Bergman and Marco Hernandez</sub>
@@ -86,24 +98,6 @@ It has been a busy few months around the world - in October, there were Hamas at
 <p>The Ukrainian authorities said they had uncovered a scheme for the purchase of artillery shells at inflated prices, amid a wider effort to tackle wartime corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Any Other Politician Would Have Bowed Out. Trump? Not a Chance.</h3>
-<sub>By Michael C. Bender</sub>
-<p>This week’s debate over his very eligibility for office served as a stark reminder that anyone else facing such a wide array of legal problems would have left the political stage long ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Democrats in Key States Worry Biden Could Be a Drag on Their Races</h3>
-<sub>By Reid J. Epstein and Lisa Lerer</sub>
-<p>Candidates for the Senate and House have expressed concern that the president has not done enough to build an operation or excite voters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Supreme Court Helped Trump’s Delay Strategy. By How Much Remains to Be Seen.</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s claim that he is immune from prosecution will now be taken up by a federal appeals court — and could end up back in front of the justices within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Just How Formulaic Are Hallmark and Lifetime Holiday Movies? We (Over)analyzed 424 of Them.</h3>
 <sub></sub>
@@ -116,23 +110,29 @@ It has been a busy few months around the world - in October, there were Hamas at
 <p>An archaeological expedition in Mexico seeks what’s left of the sprawling, centuries-old catacombs hidden below the ruins of Mitla.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
-<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
-<p>Detailed tables and scenarios explain every team’s paths to the playoffs..  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Freed From Never-Ending Detention, They Ended Up in Another Limbo</h3>
+<sub>By Natasha Frost</sub>
+<p>An Australian high court allowed the release of dozens of detained people who are now subject to curfews and monitored by the government with ankle bracelets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>2023 N.F.L. Playoff Picture: Each Team’s Path to the Postseason</h3>
-<sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
-<p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-obituaries-blue" alt="">
 <h3>Notable Deaths of 2023</h3>
 <sub></sub>
 <p>Remembering Sandra Day O&#39;Connor, Henry Kissinger, Rosalynn Carter, Harry Belafonte, Tony Bennett, Jim Brown, Tina Turner, Dianne Feinstein, Pat Robertson, Jimmy Buffett, Silvio Berlusconi, Norman Lear, Cormac McCarthy, David Crosby, Matthew Perry and many others who died in 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Slow Rollout of National Charging System Could Hinder E.V. Adoption</h3>
+<sub>By Madeleine Ngo</sub>
+<p>Lawmakers approved $5 billion for states to build a network of fast chargers two years ago. Although some states have made progress in recent weeks, most have not yet awarded contracts or started construction.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>He Was My Role Model. My Mentor. My Supplier.</h3>
+<sub>By Mitchell S. Jackson</sub>
+<p>Decades after I left hustling to become a writer, why did I seek out the man who drew me into that world?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
