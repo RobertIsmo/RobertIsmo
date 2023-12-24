@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-There is a lot of political tension and uncertainty taking place in the world right now. In Argentina, prices for basic goods have skyrocketed since the new president took office, causing many people hardship. Disputes between Israel and Palestinians in the West Bank remain unresolved, making it difficult for aid organisations to distribute aid safely. And in the US, Donald Trump is facing a criminal investigation while his likely 2024 Republican rival is trying to make claims about immigration that may not be true. There&#39;s also risk of interference from countries like China and Russia in the upcoming presidential election as well as an increasing number of military conflicts and economic instability impacting voting around the world. On top of that, tech researchers have found a way to extract contact information from online chat users.</p>
+There is a lot of global instability and unrest at the moment. Argentina has seen prices for everyday goods like diapers skyrocket in the wake of their new president&#39;s policies. Meanwhile, military conflicts and upcoming elections threaten to disrupt economies and could cause further volatility. In Gaza, the conflict has led to a subdued Christmas in Bethlehem, while aid groups worry that a U.N. resolution may not be enough to help the region without a truce. In the U.S., Donald Trump&#39;s legal battle with special counsel Jack Smith continues, while External interference from Russia and China could play a role in the 2024 election.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Two Wars, 50 Elections: The Economy Faces Rising Geopolitical Risks</h3>
@@ -79,6 +79,12 @@ There is a lot of political tension and uncertainty taking place in the world ri
 <sub>By Abbie VanSickle and Steve Eder</sub>
 <p>The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘God Is Under the Rubble in Gaza’: Bethlehem’s Subdued Christmas</h3>
+<sub>By Yara Bayoumy and Samar Hazboun</sub>
+<p>The war in Gaza has prompted the city, traditionally seen as the birthplace of Jesus, to tone down its Christmas celebrations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>With Israeli Raids in the West Bank, ‘There’s No Such Thing as Sleeping at Night’</h3>
@@ -104,12 +110,6 @@ There is a lot of political tension and uncertainty taking place in the world ri
 <p>Offered the chance to revisit her Broadway performance as the much-abused Celie, the star faced a difficult path.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Was Ready to Die, but Not to Surrender</h3>
-<sub>By Marc Santora</sub>
-<p>How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What Went Wrong for Ron DeSantis in 2023</h3>
 <sub>By Shane Goldmacher, Maggie Haberman and Nicholas Nehamas</sub>
@@ -128,11 +128,11 @@ There is a lot of political tension and uncertainty taking place in the world ri
 <p>As President Biden grapples with an unwieldy crisis at the southern border, his likely 2024 rival has leveled many criticisms — including some baseless and misleading claims.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>How Strangers Got My Email Address From ChatGPT</h3>
-<sub>By Jeremy White</sub>
-<p>Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>He Was Ready to Die, but Not to Surrender</h3>
+<sub>By Marc Santora</sub>
+<p>How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
