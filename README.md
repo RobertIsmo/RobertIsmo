@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, December 24, Central Standard Time</p>
+<p>It is Monday, December 25, Central Standard Time</p>
 <p>
-Currently, the situation between Israel and Hamas is escalating as Prime Minister Benjamin Netanyahu stated that 15 Israeli soldiers have died since Friday. In the United States, there have been protests against this conflict on college campuses with people wondering if it will define a generation like the Vietnam War did. Meanwhile, Harvard&#39;s powerful board of directors, known as the Corporation, has found itself in the spotlight with a member suggesting a need for generational change. In Argentina, citizens are feeling the effects of new leadership as fuel prices have risen 60% and diaper prices have doubled. On the global economy front, geopolitical risks are expected to increase in 2021 due to persistent military conflicts and economic uncertainty impacting elections across the globe. Other news includes Fantasia Barrino-Taylor reflecting on her Broadway performance in The Color Purple, Florida Governor Ron DeSantis facing challenges since the start of 2021, and a Ukrainian soldier escaping from an embattled steel complex towards Ukrainian territory. Finally, Russian President Vladimir Putin is signaling openness to a cease-fire in Ukraine albeit on his terms so that he can still declare victory.</p>
+There is a lot of uncertainty and unrest around the world right now. In Israel, the government is engaged in a campaign against Hamas that has led to the death of 15 Israeli soldiers since Friday. Meanwhile, protests sparked by the war between Israel and Hamas are reminiscent of the Vietnam War era in the U.S. Back home in America, Harvard&#39;s secretive &quot;Corporation&quot; is in the spotlight following controversy involving its president. In Ukraine, Christmas was brought forward to December 25th from January 7th according to the Julian calendar. Over at the U.S Supreme Court, justice Clarence Thomas has a powerful network of former clerks who share common points of view around universities, law firms and government organizations. In Argentina, fuel prices have gone up 60%, while diapers have doubled following its new president&#39;s warnings that things would get worse before they got better. Globally, there are 50 elections and two wars next year that could lead to economic instability. On top of all that, movie fans can head to theaters to watch &#39;Ferrari&#39;, Michael Mann&#39;s portrait of an Italian racecar impresario starring Adam Driver with Penélope Cruz and Shailene Woodley, while NFL fans can check out Week 16&#39;s playoff picture guide for a closer look at teams&#39; paths to the playoffs. Finally, Gaza City&#39;s mayor recently wrote an opinion piece lamenting the destruction of the city and its cultural institutions due to warfare.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Says It Is Intensifying Its Campaign Against Hamas</h3>
@@ -86,6 +86,12 @@ Currently, the situation between Israel and Hamas is escalating as Prime Ministe
 <p>The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Christmas Comes Early in Ukraine, but Not a Moment Too Soon</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The Ukrainian Orthodox Church formally changed the date for celebrating to Dec. 25, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clarence Thomas’s Clerks: An ‘Extended Family’ With Reach and Power</h3>
 <sub>By Abbie VanSickle and Steve Eder</sub>
@@ -104,35 +110,29 @@ Currently, the situation between Israel and Hamas is escalating as Prime Ministe
 <p>Javier Milei warned that things would get worse before they got better. Now Argentines are living it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Fantasia Barrino-Taylor on the Pain (and Joy) of ‘The Color Purple’</h3>
-<sub>By Tiffany Martinbrough</sub>
-<p>Offered the chance to revisit her Broadway performance as the much-abused Celie, the star faced a difficult path.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What Went Wrong for Ron DeSantis in 2023</h3>
 <sub>By Shane Goldmacher, Maggie Haberman and Nicholas Nehamas</sub>
 <p>The Florida governor entered the year flush with cash and momentum. In the months since, internal chaos and Donald Trump’s indictments have sapped even his most avid supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>He Was Ready to Die, but Not to Surrender</h3>
-<sub>By Marc Santora</sub>
-<p>How a Ukrainian soldier escaped from the embattled Azovstal steel complex in Mariupol and sneaked 125 miles to Ukrainian territory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>‘Ferrari’ Review: Michael Mann Puts You in the Driver’s Seat</h3>
+<sub>By Manohla Dargis</sub>
+<p>The director’s portrait of the Italian racecar impresario roars to life on the road, but home is a torment. Adam Driver stars with Penélope Cruz and Shailene Woodley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin Quietly Signals He Is Open to a Cease-Fire in Ukraine</h3>
-<sub>By Anton Troianovski, Adam Entous and Julian E. Barnes</sub>
-<p>Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
 <sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
 <p>Detailed tables and scenarios explain every team’s path to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>I Am Gaza City’s Mayor. Our Lives and Culture Are in Rubble.</h3>
+<sub>By Yahya R. Sarraj</sub>
+<p>Gaza City’s mayor laments the destruction of his city and its cultural institutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
