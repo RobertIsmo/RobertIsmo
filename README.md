@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 24, Central Standard Time</p>
 <p>
-There have been a lot of protests on college campuses due to the conflict between Israel and Hamas. Harvard’s powerful board is being scrutinized for their lack of transparency. It’s a complicated time as we’re seeing national elections happening around the world with increasing volatility. Argentina&#39;s president has made some controversial economic decisions that have led to a rising cost of living. President Trump is trying to overturn an election indictment while former Justice Clarence Thomas has created an influential network of clerks who support his vision. The Color Purple actress Fantasia Barrino-Taylor is revisiting her powerful Broadway performance. Florida Governor DeSantis has faced internal chaos and negative publicity this year. In Ukraine, a soldier was able to escape an embattled steel complex and make it safely back to Ukrainian territory while Russian President Putin is signaling an open willingness to pursue a ceasefire. Lastly, in light of the holidays, a lot of people have taken up knitting presents for their friends and family but must be mindful not to hurt feelings during the emotional process.</p>
+There&#39;s a lot happening in the world right now. In Israel, Prime Minister Benjamin Netanyahu has announced that the Israeli military is intensifying its campaign against Hamas, with 15 Israeli soldiers having been killed since last Friday. Meanwhile, in the US, college students are taking to the streets to protest the war between Israel and Hamas, bringing back memories of the anti-Vietnam war protests of decades past. Over at Harvard University, their President Claudine Gay has come under fire from students and faculty alike, leading the secretive &#39;Corporation&#39; governing the university to consider making changes. Further controversy at the university surrounds Supreme Court Justice Clarence Thomas whose &#39;extended family&#39; of former clerks wield influence at universities, law firms and in government circles. Moving on to economics, while there could be increased volatility next year as military conflicts and economic uncertainties influence national elections around the world. Argentina&#39;s new president Javier Milei has warned the public that things will get worse before they get better, resulting in fuel prices increasing by 60% and diaper prices doubling. In other news, Fantasia Barrino-Taylor is facing renewed attention with her Broadway performance of The Color Purple, and Florida Governor Ron DeSantis had a rollercoaster year that eventually ended with Donald Trump&#39;s indictments halting his momentum. Finally, a Ukrainian soldier recently escaped from a steel complex in Ukraine and found his way 125 miles to Ukrainian territory amidst an ongoing war with Russia; however, there may be hope for a ceasefire as Putin has quietly signaled that he is open to striking a deal.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Says It Is Intensifying Its Campaign Against Hamas</h3>
+<sub>By Isabel Kershner and Hiba Yazbek</sub>
+<p>Prime Minister Benjamin Netanyahu said 15 Israeli soldiers had been killed since Friday, but vowed to keep fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Campus Protests Over Gaza, Echoes of Outcry Over Vietnam</h3>
 <sub>By Michael Wines</sub>
@@ -98,12 +104,6 @@ There have been a lot of protests on college campuses due to the conflict betwee
 <p>Javier Milei warned that things would get worse before they got better. Now Argentines are living it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Appeals Court to Toss Election Case on Immunity Grounds</h3>
-<sub>By Alan Feuer</sub>
-<p>The court filing was the latest development in a battle between Mr. Trump and the special counsel, Jack Smith, over whether the former president can be prosecuted for his actions while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Fantasia Barrino-Taylor on the Pain (and Joy) of ‘The Color Purple’</h3>
 <sub>By Tiffany Martinbrough</sub>
@@ -128,10 +128,10 @@ There have been a lot of protests on college campuses due to the conflict betwee
 <p>Despite its bravado in public, the Kremlin has indicated its interest in striking a deal to halt the war — so long as it could still declare victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Emotional Gamble of a Hand-Knitted Gift</h3>
-<sub>By Britta Lokting</sub>
-<p>Knitting scarves, sweaters and other presents can take a lot of time, money and energy. But there can also be a deeper cost: hurt feelings.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
+<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
+<p>Detailed tables and scenarios explain every team’s path to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
 <hr/>
 </ol>
