@@ -60,18 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 25, Central Standard Time</p>
 <p>
-Currently, a war is occurring between Israel and Hamas. In response to this conflict, protests have risen up on college campuses in the U.S. Harvard&#39;s powerful board is facing scrutiny, too. Meanwhile, in Ukraine, Christmas has started being celebrated earlier than normal. Justice Clarence Thomas also has a network of clerks with powerful reach. On top of that, there are economic risks surfacing due to military conflicts and elections happening around the world. In Argentina, the new President has caused fuel prices to increase and diaper prices to double. Florida&#39;s Governor Ron DeSantis had a great start to the year but quickly lost momentum due to Trump&#39;s indictments and internal chaos. Finally, Michael Mann just released a movie called &#39;Ferrari&#39; featuring Adam Driver and reviews are good so far. Additionally, the N.F.L. playoffs are heading into Week 16 and there is a team-by-team breakdown of what it takes to make it to the postseason. Lastly, Gaza City&#39;s mayor is sharing his sorrow for the destruction occurring in his home and its impact on their lives and culture.</p>
+It a busy world out there! Climate is becoming increasingly important, as America&#39;s diet is having an effect on groundwater crisis. On the world stage, Saudis are trying to avoid further conflict with the Houthis in the Red Sea, while Israel intensifies their campaign against Hamas. Meanwhile, Christmas came early in Ukraine this year and Harvard&#39;s secretive corporation board is facing turmoil. In entertainment news, Taylor Swift and Barbie were big box office attractions, and an NYU student made it big in crypto-currency mining. Closer to home, the LA District Attorney race is becoming more heated as rhetoric shifts from reform to fear.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
+<sub>By Christopher Flavelle, Somini Sengupta and Mira Rojanasakul</sub>
+<p>As dinner tables and snack menus feature far more chicken and cheese, farms are expanding where water is scarce.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hoping for Peace With Houthis, Saudis Keep Low Profile in Red Sea Conflict</h3>
+<sub>By Vivian Nereim</sub>
+<p>Riyadh is seeking to avoid getting dragged back into a bloody clash with the Yemeni militia, which has sowed chaos by attacking shipping and firing missiles at Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Says It Is Intensifying Its Campaign Against Hamas</h3>
 <sub>By Isabel Kershner and Hiba Yazbek</sub>
 <p>Prime Minister Benjamin Netanyahu said 15 Israeli soldiers had been killed since Friday, but vowed to keep fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Campus Protests Over Gaza, Echoes of Outcry Over Vietnam</h3>
-<sub>By Michael Wines</sub>
-<p>The war in Vietnam ignited a protest movement that helped define a generation. Is the war between Israel and Hamas doing the same thing?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Economy Expected to Shrink 2% as War Sidelines Workers</h3>
+<sub>By Rachel Abrams</sub>
+<p>A large segment of the Israeli work force has been called up to fight or become jobless as a result of the conflict with Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Christmas Comes Early in Ukraine, but Not a Moment Too Soon</h3>
+<sub>By Andrew E. Kramer</sub>
+<p>The Ukrainian Orthodox Church formally changed the date for celebrating to Dec. 25, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,53 +104,35 @@ Currently, a war is occurring between Israel and Hamas. In response to this conf
 <p>The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Christmas Comes Early in Ukraine, but Not a Moment Too Soon</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The Ukrainian Orthodox Church formally changed the date for celebrating to Dec. 25, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Lives They Lived</h3>
+<sub>By The New York Times Magazine</sub>
+<p>Remembering Tina Turner, Rosalyn Carter, Jerry Springer, Sinead O’Connor, Harry Belafonte and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clarence Thomas’s Clerks: An ‘Extended Family’ With Reach and Power</h3>
-<sub>By Abbie VanSickle and Steve Eder</sub>
-<p>The Supreme Court justice has built a network of former clerks who share messages, meals and a common vision — wielding influence at universities, law firms and the highest rungs of government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<h3>Newly Flush With Cash, Nikki Haley Makes Her Move in Iowa. Is It Too Late?</h3>
+<sub>By Kellen Browning and Jazmine Ulloa</sub>
+<p>A super PAC backing the former governor of South Carolina plans to knock on 100,000 doors in Iowa before the caucuses, but it’s running out of time to spread her message.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Two Wars, 50 Elections: The Economy Faces Rising Geopolitical Risks</h3>
-<sub>By Patricia Cohen</sub>
-<p>Next year could see increasing volatility as persistent military conflicts and economic uncertainty influence voting in national elections across the globe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<h3>2023 Box Office Lessons: Audiences Sought Comfort, Skipped Spectacle</h3>
+<sub>By Brooks Barnes</sub>
+<p>Movie audiences flocked to Taylor Swift, “Barbie” and “Oppenheimer” but were cooler toward returning superheroes like the Flash, Captain Marvel and Aquaman.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Under Argentina’s New President, Fuel Is Up 60%, and Diaper Prices Have Doubled</h3>
-<sub>By Daniel Politi and Lucía Cholakian Herrera</sub>
-<p>Javier Milei warned that things would get worse before they got better. Now Argentines are living it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>This N.Y.U. Student Owns a $6 Million Crypto Mine. His Secret Is Out.</h3>
+<sub>By Michael Forsythe and Gabriel J.X. Dance</sub>
+<p>A legal dispute in a tiny Texas town unexpectedly reveals how Chinese nationals can move money to the U.S. without drawing the attention of authorities in either country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Went Wrong for Ron DeSantis in 2023</h3>
-<sub>By Shane Goldmacher, Maggie Haberman and Nicholas Nehamas</sub>
-<p>The Florida governor entered the year flush with cash and momentum. In the months since, internal chaos and Donald Trump’s indictments have sapped even his most avid supporters.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>‘Ferrari’ Review: Michael Mann Puts You in the Driver’s Seat</h3>
-<sub>By Manohla Dargis</sub>
-<p>The director’s portrait of the Italian racecar impresario roars to life on the road, but home is a torment. Adam Driver stars with Penélope Cruz and Shailene Woodley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
-<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
-<p>Detailed tables and scenarios explain every team’s path to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 23, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>I Am Gaza City’s Mayor. Our Lives and Culture Are in Rubble.</h3>
-<sub>By Yahya R. Sarraj</sub>
-<p>Gaza City’s mayor laments the destruction of his city and its cultural institutions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<h3>In L.A. District Attorney Race, Rhetoric Shifts From Reform to Fear</h3>
+<sub>By Tim Arango and Ana Facio-Krajcer</sub>
+<p>George Gascón is running for re-election in a very different climate, where concerns about crime have overtaken demands for equity and accountability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
