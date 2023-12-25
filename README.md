@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 25, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In the US, Harvard&#39;s powerful board is in the spotlight over its president and some people think they need generational change. Meanwhile, Nikki Haley is getting very involved in Iowa in the run-up to the caucuses. On a global scale, Gazans are mourning after an attack that killed dozens while Pope Francis has called for an end to conflict in Gaza. In the Red Sea region, Saudi Arabia is hoping for peace with Houthi militias. In Ukraine, Christmas festivities are being moved from Jan 7th to Dec 25th while Israel&#39;s economy is expected to shrink 2% as a result of fighting with Hamas. Lastly, climate change is having an impact on groundwater crises due to America&#39;s diet and its demand for more chicken and cheese.</p>
+There is a lot of turmoil around the world right now. In Gaza, Israeli airstrikes have allegedly killed dozens of Palestinians while both sides search for peace. Saudi Arabia is trying to keep a low profile in its conflict with Yemen&#39;s Houthi militia, and Pope Francis has called out the &#39;appalling&#39; destruction of life in Gaza. The war between Israel and Hamas has led to a shrinking economy in Israel, and Chinese nationals have been quietly transferring money to the US. The Ukrainian Orthodox Church has also made news by officially moving Christmas to December 25th, departing from Russia&#39;s tradition of celebrating on January 7th. In the tech world, a NYU student has made $6 million mining cryptocurrency while awards are being given out for breakthroughs (and breakdowns) in Silicon Valley. Finally closer to home there is controversy around Harvard&#39;s powerful board, appropriately named &#39;the Corporation&#39;, as they try to manage the backlash regarding their president, Claudine Gay.</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
-<sub>By Christopher Flavelle, Somini Sengupta and Mira Rojanasakul</sub>
-<p>As dinner tables and snack menus feature far more chicken and cheese, farms are expanding where water is scarce.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Gazans Mourn After an Attack That Officials Say Killed Dozens</h3>
-<sub>By Vivian Yee and Ameera Harouda</sub>
-<p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths as Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Netanyahu Visits Gaza as Palestinians Mourn an Attack That Officials Say Killed Dozens</h3>
+<sub>By Vivian Yee, Ameera Harouda, Nadav Gavrielov and Abu Bakr Bashir</sub>
+<p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths, and Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,16 +86,40 @@ There is a lot happening in the world right now. In the US, Harvard&#39;s powerf
 <p>A large segment of the Israeli work force has been called up to fight or become jobless as a result of the conflict with Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
+<sub>By Christopher Flavelle, Somini Sengupta and Mira Rojanasakul</sub>
+<p>As dinner tables and snack menus feature far more chicken and cheese, farms are expanding where water is scarce.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Aleksei Navalny Found in Remote Arctic Prison, Easing Fears Over His Safety</h3>
+<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
+<p>Supporters of the Russian opposition leader lost contact with him 20 days ago, fueling concern about his health and whereabouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Christmas Moves to Dec. 25 in Ukraine, Another Rebuff of Russia</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Aleksei Navalny Found in Arctic Prison, Easing Fears Over His Safety</h3>
-<sub>By Anton Troianovski</sub>
-<p>Supporters of the Russian opposition leader lost contact with him 20 days ago, fueling concern about his health and whereabouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>This N.Y.U. Student Owns a $6 Million Crypto Mine. His Secret Is Out.</h3>
+<sub>By Michael Forsythe and Gabriel J.X. Dance</sub>
+<p>A legal dispute in a tiny Texas town unexpectedly reveals how Chinese nationals can move money to the U.S. without drawing the attention of authorities in either country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Lives They Lived</h3>
+<sub>By The New York Times Magazine</sub>
+<p>Remembering Tina Turner, Rosalyn Carter, Jerry Springer, Sinead O’Connor, Harry Belafonte and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>The 2023 Good Tech Awards</h3>
+<sub>By Kevin Roose</sub>
+<p>Toasting a year of breakthroughs (and a few breakdowns) in Silicon Valley and beyond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -115,24 +133,6 @@ There is a lot happening in the world right now. In the US, Harvard&#39;s powerf
 <sub>By Colbi Edmonds</sub>
 <p>The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Lives They Lived</h3>
-<sub>By The New York Times Magazine</sub>
-<p>Remembering Tina Turner, Rosalyn Carter, Jerry Springer, Sinead O’Connor, Harry Belafonte and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newly Flush With Cash, Nikki Haley Makes Her Move in Iowa. Is It Too Late?</h3>
-<sub>By Kellen Browning and Jazmine Ulloa</sub>
-<p>A super PAC backing the former governor of South Carolina plans to knock on 100,000 doors in Iowa before the caucuses, but it’s running out of time to spread her message.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>2023 Box Office Lessons: Audiences Sought Comfort, Skipped Spectacle</h3>
-<sub>By Brooks Barnes</sub>
-<p>Movie audiences flocked to Taylor Swift, “Barbie” and “Oppenheimer” but were cooler toward returning superheroes like the Flash, Captain Marvel and Aquaman.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
