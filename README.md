@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 25, Central Standard Time</p>
 <p>
-It a busy world out there! Climate is becoming increasingly important, as America&#39;s diet is having an effect on groundwater crisis. On the world stage, Saudis are trying to avoid further conflict with the Houthis in the Red Sea, while Israel intensifies their campaign against Hamas. Meanwhile, Christmas came early in Ukraine this year and Harvard&#39;s secretive corporation board is facing turmoil. In entertainment news, Taylor Swift and Barbie were big box office attractions, and an NYU student made it big in crypto-currency mining. Closer to home, the LA District Attorney race is becoming more heated as rhetoric shifts from reform to fear.</p>
+There is a lot happening in the world right now. In the US, Harvard&#39;s powerful board is in the spotlight over its president and some people think they need generational change. Meanwhile, Nikki Haley is getting very involved in Iowa in the run-up to the caucuses. On a global scale, Gazans are mourning after an attack that killed dozens while Pope Francis has called for an end to conflict in Gaza. In the Red Sea region, Saudi Arabia is hoping for peace with Houthi militias. In Ukraine, Christmas festivities are being moved from Jan 7th to Dec 25th while Israel&#39;s economy is expected to shrink 2% as a result of fighting with Hamas. Lastly, climate change is having an impact on groundwater crises due to America&#39;s diet and its demand for more chicken and cheese.</p>
 <ol>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
@@ -69,16 +69,22 @@ It a busy world out there! Climate is becoming increasingly important, as Americ
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Gazans Mourn After an Attack That Officials Say Killed Dozens</h3>
+<sub>By Vivian Yee and Ameera Harouda</sub>
+<p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths as Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hoping for Peace With Houthis, Saudis Keep Low Profile in Red Sea Conflict</h3>
 <sub>By Vivian Nereim</sub>
 <p>Riyadh is seeking to avoid getting dragged back into a bloody clash with the Yemeni militia, which has sowed chaos by attacking shipping and firing missiles at Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says It Is Intensifying Its Campaign Against Hamas</h3>
-<sub>By Isabel Kershner and Hiba Yazbek</sub>
-<p>Prime Minister Benjamin Netanyahu said 15 Israeli soldiers had been killed since Friday, but vowed to keep fighting.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<h3>Pope Laments ‘Appalling’ Loss of Life in War in Gaza</h3>
+<sub>By Jason Horowitz</sub>
+<p>In his annual “Urbi et Orbi” address, Francis called for the release of Israeli hostages while also urging an end to the military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Economy Expected to Shrink 2% as War Sidelines Workers</h3>
@@ -87,10 +93,16 @@ It a busy world out there! Climate is becoming increasingly important, as Americ
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Christmas Comes Early in Ukraine, but Not a Moment Too Soon</h3>
+<h3>Christmas Moves to Dec. 25 in Ukraine, Another Rebuff of Russia</h3>
 <sub>By Andrew E. Kramer</sub>
-<p>The Ukrainian Orthodox Church formally changed the date for celebrating to Dec. 25, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Aleksei Navalny Found in Arctic Prison, Easing Fears Over His Safety</h3>
+<sub>By Anton Troianovski</sub>
+<p>Supporters of the Russian opposition leader lost contact with him 20 days ago, fueling concern about his health and whereabouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Claudine Gay Turmoil Forces Harvard’s Secretive ‘Corporation’ Into Spotlight</h3>
@@ -120,18 +132,6 @@ It a busy world out there! Climate is becoming increasingly important, as Americ
 <h3>2023 Box Office Lessons: Audiences Sought Comfort, Skipped Spectacle</h3>
 <sub>By Brooks Barnes</sub>
 <p>Movie audiences flocked to Taylor Swift, “Barbie” and “Oppenheimer” but were cooler toward returning superheroes like the Flash, Captain Marvel and Aquaman.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>This N.Y.U. Student Owns a $6 Million Crypto Mine. His Secret Is Out.</h3>
-<sub>By Michael Forsythe and Gabriel J.X. Dance</sub>
-<p>A legal dispute in a tiny Texas town unexpectedly reveals how Chinese nationals can move money to the U.S. without drawing the attention of authorities in either country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In L.A. District Attorney Race, Rhetoric Shifts From Reform to Fear</h3>
-<sub>By Tim Arango and Ana Facio-Krajcer</sub>
-<p>George Gascón is running for re-election in a very different climate, where concerns about crime have overtaken demands for equity and accountability.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
