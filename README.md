@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 25, Central Standard Time</p>
 <p>
-There is a lot of turmoil around the world right now. In Gaza, Israeli airstrikes have allegedly killed dozens of Palestinians while both sides search for peace. Saudi Arabia is trying to keep a low profile in its conflict with Yemen&#39;s Houthi militia, and Pope Francis has called out the &#39;appalling&#39; destruction of life in Gaza. The war between Israel and Hamas has led to a shrinking economy in Israel, and Chinese nationals have been quietly transferring money to the US. The Ukrainian Orthodox Church has also made news by officially moving Christmas to December 25th, departing from Russia&#39;s tradition of celebrating on January 7th. In the tech world, a NYU student has made $6 million mining cryptocurrency while awards are being given out for breakthroughs (and breakdowns) in Silicon Valley. Finally closer to home there is controversy around Harvard&#39;s powerful board, appropriately named &#39;the Corporation&#39;, as they try to manage the backlash regarding their president, Claudine Gay.</p>
+There&#39;s a lot going on in the world right now. In the Middle East, Palestinians are mourning an attack in Gaza that reportedly killed dozens, while at the same time Israeli Prime Minister Netanyahu visits the area in a controversial move. In Ukraine, there have been reports that Ukrainian forces successfully downed five Russian planes. In Russia, opposition leader Aleksei Navalny has been found in a remote Arctic prison and tensions are high. On a more positive note, Christmas was moved to December 25th in Ukraine from Russia&#39;s traditional January 7th celebration. In America, climate change and diet are being blamed for worsening groundwater crises which is worrying environmentalists. Additionally, there have been some interesting developments in technology that could lead to breakthroughs in Silicon Valley and beyond. Lastly, there are some cool stories coming out of New York about metalworking and two friends who still find joy in being Rockettes at 86.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Visits Gaza as Palestinians Mourn an Attack That Officials Say Killed Dozens</h3>
 <sub>By Vivian Yee, Ameera Harouda, Nadav Gavrielov and Abu Bakr Bashir</sub>
 <p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths, and Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hoping for Peace With Houthis, Saudis Keep Low Profile in Red Sea Conflict</h3>
-<sub>By Vivian Nereim</sub>
-<p>Riyadh is seeking to avoid getting dragged back into a bloody clash with the Yemeni militia, which has sowed chaos by attacking shipping and firing missiles at Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,16 +75,10 @@ There is a lot of turmoil around the world right now. In Gaza, Israeli airstrike
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Economy Expected to Shrink 2% as War Sidelines Workers</h3>
-<sub>By Rachel Abrams</sub>
-<p>A large segment of the Israeli work force has been called up to fight or become jobless as a result of the conflict with Hamas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukraine Says It Downed 5 Russian Planes, as Moscow Claims It Seized a Town</h3>
+<sub>By Constant Méheut</sub>
+<p>The Ukrainian success, possibly owed to Western-supplied Patriot missiles, was offset by Russia’s statement that it now controlled Marinka.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
-<sub>By Christopher Flavelle, Somini Sengupta and Mira Rojanasakul</sub>
-<p>As dinner tables and snack menus feature far more chicken and cheese, farms are expanding where water is scarce.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Aleksei Navalny Found in Remote Arctic Prison, Easing Fears Over His Safety</h3>
@@ -102,6 +90,12 @@ There is a lot of turmoil around the world right now. In Gaza, Israeli airstrike
 <h3>Christmas Moves to Dec. 25 in Ukraine, Another Rebuff of Russia</h3>
 <sub>By Andrew E. Kramer</sub>
 <p>The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
+<sub>By Christopher Flavelle, Somini Sengupta and Mira Rojanasakul</sub>
+<p>As dinner tables and snack menus feature far more chicken and cheese, farms are expanding where water is scarce.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -122,17 +116,23 @@ There is a lot of turmoil around the world right now. In Gaza, Israeli airstrike
 <p>Toasting a year of breakthroughs (and a few breakdowns) in Silicon Valley and beyond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Claudine Gay Turmoil Forces Harvard’s Secretive ‘Corporation’ Into Spotlight</h3>
-<sub>By Rob Copeland and Maureen Farrell</sub>
-<p>Harvard’s powerful board has backed its president and said little else, yet a member privately said “generational change” may be needed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Metal, Fire, ‘Hitting Stuff Hard’: Everybody Wants to Be a Blacksmith Now</h3>
+<sub>By Amelia Nierenberg</sub>
+<p>Hobby crafts are growing in popularity. Sometimes they include anvils and fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Are the Members of the Harvard Corporation?</h3>
-<sub>By Colbi Edmonds</sub>
-<p>The Harvard Corporation is a powerful board that governs the university. Here’s what we know about the members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.</h3>
+<sub>By Michael Wilson</sub>
+<p>The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Two Friends, Still in Step, Get a Kick Out of the Rockettes</h3>
+<sub>By Michael Wilson</sub>
+<p>At 86, Sheila Sullivan remains the star of her own show, with Tina Dupuy as her enthusiastic sidekick.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
