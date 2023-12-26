@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-It looks like a lot of tensions around the world are escalating right now. In Israel, there is an emotional trauma affecting the country following a Hamas attack and abduction of hostages. On top of that, a Russian warship in Crimea&#39;s occupied waters has been damaged by a Ukrainian missile strike. Meanwhile, in Iraq, US strikes targeted Iran-backed groups after an attack hurt three Americans. There are also disputes between Turkey and other NATO members over Sweden&#39;s request to join NATO. Besides all this, there have been significant developments in businesses, art and culture - such as holiday spending increasing despite fears of a decline, back to photos that defined 2023 in arts and the top business stories of the year. Lastly, Trump seems to be planning for his 2025 trade agenda with higher tariffs on imports from China.</p>
+Right now there is a lot happening in the world. In the US, there are blizzard conditions affecting travel across the Northern and Central Plains. There was also an attack on an Erbil airbase in Iraq injuring three US service members, leading to US strikes against Iran-backed groups. In terms of climate news, Earth was due for another year of record warmth, but this year&#39;s off-the-charts heat is making scientists question whether global warming is accelerating. As for international news, Turkish Parliament has approved Sweden&#39;s NATO bid and Ukraine struck a Russian warship in Occupied Crimea. Russia&#39;s Alexey Navalny has been transferred to an Arctic prison while nearly two million have moved into Gaza&#39;s south as fighting intensifies. New York is also dealing with its own crisis as 150,000 migrants have arrived in less than two years. Finally, a private equity firm buying hospitals appears to have led to more serious medical errors.</p>
 <ol>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
+<sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
+<p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Missile Strike Hits Russian Warship in Occupied Crimea</h3>
+<sub>By Constant Méheut</sub>
+<p>Russia’s Defense Ministry acknowledged that the Novocherkassk had been damaged in what appeared to be one of the most significant attacks on the Black Sea Fleet in months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Letter Heavy With Irony, Navalny Describes Transfer to Arctic Prison</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The comments from the Russian opposition leader were written with a heavy dose of humor, and seemed intended to assuage concerns among allies after his three-week disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turkish Parliamentary Panel Approves Sweden’s NATO Bid</h3>
+<sub>By Ben Hubbard</sub>
+<p>The measure must now be passed by the full Parliament, but the foreign affairs committee said not to expect quick action.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
 <sub>By Patrick Kingsley</sub>
@@ -80,58 +104,34 @@ It looks like a lot of tensions around the world are escalating right now. In Is
 <p>The strikes followed an attack hours earlier by members of Kataib Hezbollah and affiliated groups on Erbil air base in Iraq that injured three U.S. service members, officials said, one critically.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Missile Strike Hits Russian Warship in Occupied Crimea</h3>
-<sub>By Constant Méheut</sub>
-<p>Russia’s Defense Ministry acknowledged that the Novocherkassk had been damaged in what appeared to be one of the most significant attacks on the Black Sea Fleet in months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Serious Medical Errors Rose After Private Equity Firms Bought Hospitals</h3>
+<sub>By Reed Abelson and Margot Sanger-Katz</sub>
+<p>A new study shows an increase in the rate of inpatient complications, including infections and falls, though patients were no more likely to die.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Letter Heavy With Irony, Navalny Describes Transfer to Arctic Prison</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The comments from the Russian opposition leader were written with a heavy dose of humor, and seemed intended to assuage concerns among allies after his three-week disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Earth Was Due for Another Year of Record Warmth. But This Warm?</h3>
+<sub>By Raymond Zhong</sub>
+<p>Scientists are already busy trying to understand whether 2023’s off-the-charts heat is a sign that global warming is accelerating.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkey’s Parliament to Discuss Sweden’s NATO Bid, Still in Limbo</h3>
-<sub>By Ben Hubbard</sub>
-<p>Turkey has been slow walking approval of Sweden’s accession to the alliance as Ankara seeks concessions from other members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Blizzard Conditions Disrupt Travel Across Northern and Central Plains</h3>
+<sub>By Rebecca Carballo and John Yoon</sub>
+<p>Powerful winds and freezing temperatures were expected to cause poor visibility and icy roads through early Wednesday, forecasters said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Holiday Spending Increased, Defying Fears of a Decline</h3>
-<sub>By Jordyn Holman</sub>
-<p>While the pace of growth slowed, spending stayed strong because of robust job growth and strong wage gains.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Downturn or Not? At Year’s End, Wall St. Is Split on What’s Ahead.</h3>
-<sub>By Joe Rennison</sub>
-<p>Analysts bullish on 2023 were largely right and expect more of the same in 2024. Bears caution that the Fed’s impact is yet to be determined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Covenant Parents Aren’t Going to Keep Quiet on Guns</h3>
+<sub>By Emily Cochrane and Jon Cherry</sub>
+<p>A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Chaos, Fury, Mistakes: 600 Days Inside New York’s Migrant Crisis</h3>
 <sub>By Andy Newman and Dana Rubinstein</sub>
 <p>More than 150,000 people have arrived in less than two years, throwing the city into crisis. Missed opportunities made things even harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>2023 in Retrospect: 59 Photographs That Defined the Year in Arts</h3>
-<sub>By Marysa Greenawalt, Laura O’Neill, Jolie Ruben and Amanda Webster</sub>
-<p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>A Look Back at the Top Business Stories of 2023</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Regional bank failures and the conviction of Sam Bankman-Fried were among the big news events this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A New Tax on Imports and a Split From China: Trump’s 2025 Trade Agenda</h3>
-<sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
-<p>Donald J. Trump plans to sharply expand his use of tariffs if he returns to power, risking disruption to the economy in an attempt to transform it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
