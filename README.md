@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, December 25, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now. In the Middle East, Palestinians are mourning an attack in Gaza that reportedly killed dozens, while at the same time Israeli Prime Minister Netanyahu visits the area in a controversial move. In Ukraine, there have been reports that Ukrainian forces successfully downed five Russian planes. In Russia, opposition leader Aleksei Navalny has been found in a remote Arctic prison and tensions are high. On a more positive note, Christmas was moved to December 25th in Ukraine from Russia&#39;s traditional January 7th celebration. In America, climate change and diet are being blamed for worsening groundwater crises which is worrying environmentalists. Additionally, there have been some interesting developments in technology that could lead to breakthroughs in Silicon Valley and beyond. Lastly, there are some cool stories coming out of New York about metalworking and two friends who still find joy in being Rockettes at 86.</p>
+Right now, a lot of conflict is happening across the world. In Gaza, people are mourning after Israeli airstrikes that killed dozens. Iran is accusing Israel of killing one of their top officials in a missile strike in Syria, and Ukraine and Russia continue to fight for control over Ukraine&#39;s territory. Meanwhile, Pope Francis has called for an end to the military campaign in Gaza in light of the &quot;appalling&quot; loss of life. In addition to that, we&#39;re starting to see some unusual trends emerge such as hobby crafts growing more popular with blacksmithing gaining traction and cryptocurrency mining becoming more widespread.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Visits Gaza as Palestinians Mourn an Attack That Officials Say Killed Dozens</h3>
 <sub>By Vivian Yee, Ameera Harouda, Nadav Gavrielov and Abu Bakr Bashir</sub>
 <p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths, and Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Iran Accuses Israel of Killing Top Official in Missile Strike in Syria</h3>
+<sub>By Ronen Bergman and Eric Nagourney</sub>
+<p>The Iranian official, Brig. Gen. Sayyed Razi Mousavi, was said to been involved in arming Hezbollah. Israeli officials said they were preparing for possible retaliation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s a lot going on in the world right now. In the Middle East, Palestini
 <sub>By Michael Wilson</sub>
 <p>The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Two Friends, Still in Step, Get a Kick Out of the Rockettes</h3>
-<sub>By Michael Wilson</sub>
-<p>At 86, Sheila Sullivan remains the star of her own show, with Tina Dupuy as her enthusiastic sidekick.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
