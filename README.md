@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-A lot has been going on around the world in the past few weeks. In Israel, they were recently attacked by Hamas, leaving many deeply traumatized and expecting repercussions for years to come. In Iraq, the US launched airstrikes after a base was attacked and 3 Americans were injured. Ukraine and Russia have had fresh tension over land, with Ukraine claiming to have destroyed a Russian ship as well as downed their planes. In Russia, opposition leader Aleksei Navalny has been in concern with supporters fearing for his safety before being found in a distant prison. Ukraine also made changes to Christmas celebrations this year, moving it from January 7th like Russia does to December 25th - essentially squashing Russia’s tradition for the holiday. Climate change has continued to be an issue worldwide with its effects showing in America’s diet and how much water is consumed on farms. On the tech front a NY student is making waves with his success involving cryptocurrencies and mining them. And finally, a new trend of crafting has been sweeping particularly through New York region- blacksmithing along with other hobbies such as fire and metal working. Lastly, back in the US Nikki Haley has made her move to be president- she&#39;s now kicked off her campaign in Iowa but it may be too late as she already is running out of time before the caucus starts up.</p>
+It looks like a lot is happening in the world right now. There&#39;s an increase in holiday spending, despite predictions of a decline. On Wall Street, analysts are split as to whether or not we&#39;re headed into a downturn. In Israel, citizens are still coming to terms with a brutal attack by Hamas which left them traumatized. Meanwhile, nearly two million people have been displaced in Gaza due to intensifying fighting, and there were U.S. airstrikes targeting Iran-backed groups in Iraq after an attack on an American base injured three service members. On top of that, New York City has grappled with 150,000 migrant arrivals in less than two years creating chaos and confusion--and Ukraine has attacked Russian warships in Crimea while an opposition leader is ironically transferred to an Arctic prison in Russia. Closer to home, Donald Trump is proposing new taxes on imports and a split from China as part of his 2025 trade agenda for if he returns to office. Whatever the outcome, it looks like Trump will be attempting an even more extreme agenda than his first term if he wins. Finally, one Mexico City neighborhood still loves and cherishes the Volkswagen Beetle!</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Holiday Spending Increased, Defying Fears of a Decline</h3>
+<sub>By Jordyn Holman</sub>
+<p>While the pace of growth slowed, spending stayed strong because of robust job growth and strong wage gains.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Downturn or Not? At Year’s End, Wall St. Is Split on What’s Ahead.</h3>
+<sub>By Joe Rennison</sub>
+<p>Analysts bullish on 2023 were largely right and expect more of the same in 2024. Bears caution that the Fed’s impact is yet to be determined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
 <sub>By Patrick Kingsley</sub>
@@ -69,10 +81,10 @@ A lot has been going on around the world in the past few weeks. In Israel, they 
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Visits Gaza as Palestinians Mourn an Attack That Officials Say Killed Dozens</h3>
-<sub>By Vivian Yee, Ameera Harouda, Nadav Gavrielov and Abu Bakr Bashir</sub>
-<p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths, and Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<h3>Nearly Two Million Crowd Into Gaza’s South as Fighting Intensifies</h3>
+<sub>By Zach Levitt, Amy Schoenfeld Walker, Lauren Leatherby and Leanne Abraham</sub>
+<p>As Israel’s ground campaign broadens in southern Gaza, thousands more people are pouring into areas that are struggling to offer shelter or security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>U.S. Strikes Iran-Backed Groups in Iraq After Attack on Base Injures 3 Americans</h3>
@@ -80,59 +92,47 @@ A lot has been going on around the world in the past few weeks. In Israel, they 
 <p>The strikes followed an attack hours earlier by members of Kataib Hezbollah and affiliated groups on Erbil air base in Iraq that injured three U.S. service members, officials said, one critically.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Says It Downed 5 Russian Planes, as Moscow Claims It Seized a Town</h3>
-<sub>By Constant Méheut</sub>
-<p>Russia said it now had full control of the eastern town of Marinka. On Tuesday, Ukraine claimed to have destroyed a Russian ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Aleksei Navalny Found in Remote Arctic Prison, Easing Fears Over His Safety</h3>
-<sub>By Ivan Nechepurenko and Anton Troianovski</sub>
-<p>Supporters of the Russian opposition leader lost contact with him 20 days ago, fueling concern about his health and whereabouts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Christmas Moves to Dec. 25 in Ukraine, Another Rebuff of Russia</h3>
-<sub>By Andrew E. Kramer</sub>
-<p>The Ukrainian Orthodox Church formally changed the main date for the festivities, departing from the Russian tradition of celebrating on Jan. 7, according to the Julian calendar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>How America’s Diet Is Feeding the Groundwater Crisis</h3>
-<sub>By Christopher Flavelle, Somini Sengupta and Mira Rojanasakul</sub>
-<p>As dinner tables and snack menus feature far more chicken and cheese, farms are expanding where water is scarce.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 24, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>This N.Y.U. Student Owns a $6 Million Crypto Mine. His Secret Is Out.</h3>
-<sub>By Michael Forsythe and Gabriel J.X. Dance</sub>
-<p>A legal dispute in a tiny Texas town unexpectedly reveals how Chinese nationals can move money to the U.S. without drawing the attention of authorities in either country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Lives They Lived</h3>
-<sub>By The New York Times Magazine</sub>
-<p>Remembering Tina Turner, Rosalyn Carter, Jerry Springer, Sinead O’Connor, Harry Belafonte and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>The 2023 Good Tech Awards</h3>
-<sub>By Kevin Roose</sub>
-<p>Toasting a year of breakthroughs (and a few breakdowns) in Silicon Valley and beyond.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Metal, Fire, ‘Hitting Stuff Hard’: Everybody Wants to Be a Blacksmith Now</h3>
-<sub>By Amelia Nierenberg</sub>
-<p>Hobby crafts are growing in popularity. Sometimes they include anvils and fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<h3>Chaos, Fury, Mistakes: 600 Days Inside New York’s Migrant Crisis</h3>
+<sub>By Andy Newman and Dana Rubinstein</sub>
+<p>More than 150,000 people have arrived in less than two years, throwing the city into crisis. Missed opportunities made things even harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine Attacks Russian Warship in Occupied Crimea</h3>
+<sub>By Constant Méheut</sub>
+<p>Russia’s Defense Ministry acknowledged that the Novocherkassk had been hit in what appeared to be one of the most significant strikes against the Black Sea Fleet in months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Letter Heavy With Irony, Navalny Describes Transfer to Arctic Prison</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The comments from the Russian opposition leader were written with a heavy dose of humor, and seemed intended to assuage concerns among allies after his three-week disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>2023 in Retrospect: 59 Photographs That Defined the Year in Arts</h3>
+<sub>By Marysa Greenawalt, Laura O’Neill, Jolie Ruben and Amanda Webster</sub>
+<p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Newly Flush With Cash, Nikki Haley Makes Her Move in Iowa. Is It Too Late?</h3>
-<sub>By Kellen Browning and Jazmine Ulloa</sub>
-<p>A super PAC backing the former governor of South Carolina plans to knock on 100,000 doors in Iowa before the caucuses, but it’s running out of time to spread her message.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<h3>A New Tax on Imports and a Split From China: Trump’s 2025 Trade Agenda</h3>
+<sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
+<p>Donald J. Trump plans to sharply expand his use of tariffs if he returns to power, risking disruption to the economy in an attempt to transform it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump Plans to Wield Power in 2025: What We Know</h3>
+<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
+<p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In This Mexican Neighborhood, Locals Say ¡Viva el Beetle!</h3>
+<sub>By Zolan Kanno-Youngs and Marian Carrasquero</sub>
+<p>A northern community in Mexico City cannot give up on the famous 1960s hippie-favorite Volkswagen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
