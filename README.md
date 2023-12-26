@@ -58,32 +58,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, December 25, Central Standard Time</p>
+<p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. Israeli Prime Minister Netanyahu has visited Gaza, which is currently mourning an attack that killed dozens, while Iran has blamed Israel for missile strikes in Syria that killed a top official. Pope Francis has spoken out against the war in Gaza and Ukraine says it has downed five Russian planes, while Moscow claims it has seized a town. In Russia, opposition leader Aleksei Navalny&#39;s whereabouts were unknown until he was found in an Arctic prison recently. Ukraine also moved Christmas to December 25th, departing from the Russian tradition of January 7th. Climate change is a serious issue as well, as America&#39;s diet is depleting groundwater levels at an alarming rate. Technology-wise, people are mining cryptocurrencies to earn money and there have been numerous breakthoughs (and some breakdowns) in Silicon Valley this year. Finally, right here in New York there are more people participating in hobby crafts like blacksmithing and mysterious neighbors with surprising life stories!</p>
+There&#39;s a lot going on around the world right now. In Israel, there was an attack by Hamas that has left the country traumatized and is expected to reshape it for years. Netanyahu just visited Gaza as Palestinians grieve over dozens who died due to air strikes from Israel&#39;s military. Ukraine recently shot down 5 Russian planes and Russia is now claiming full control of the eastern town of Marinka. In Russia itself, opposition leader Aleksei Navalny was found in a remote Arctic prison. There, Christmas also excluded itself from the Russian tradition of celebrating on Jan. 7 and Ukrainians now celebrate it on Dec. 25 instead. Here in America, US strikes targeted Iran-backed groups in Iraq after 3 Americans sustained injuries during an attack on an Erbil air base and taxpayers are already face the effects of a changing diet regarding our country&#39;s groundwater crisis. This may have also revealed how some Chinese nationals can send money over here without authorities getting involved. With hobby crafts now becoming increasingly popular, people have become enamored with blacksmithing, working with metal, fire, and hitting stuff hard (literally). Furthermore, Nikki Haley&#39;s super PAC is flush with cash and will be knocking on 100,000 doors in Iowa before the upcoming caucuses- but time is running out! Finally, we can look back at some of the lives we lost this year with this magazine article about remembering Tina Turner, Rosalyn Carter, Jerry Springer, Sinead O&#39;Connor, Harry Belafonte and more.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Hamas’s brutal raid and taking of hostages has left Israelis deeply traumatized and is expected to reshape the country for years to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Netanyahu Visits Gaza as Palestinians Mourn an Attack That Officials Say Killed Dozens</h3>
 <sub>By Vivian Yee, Ameera Harouda, Nadav Gavrielov and Abu Bakr Bashir</sub>
 <p>The Gazan Health Ministry blamed Israeli airstrikes for the deaths, and Israel’s military said it was reviewing the episode.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran Accuses Israel of Killing Top Official in Missile Strike in Syria</h3>
-<sub>By Ronen Bergman and Eric Nagourney</sub>
-<p>The Iranian official, Brig. Gen. Sayyed Razi Mousavi, was said to been involved in arming Hezbollah. Israeli officials said they were preparing for possible retaliation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Pope Laments ‘Appalling’ Loss of Life in War in Gaza</h3>
-<sub>By Jason Horowitz</sub>
-<p>In his annual “Urbi et Orbi” address, Francis called for the release of Israeli hostages while also urging an end to the military campaign in Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. Strikes Iran-Backed Groups in Iraq After Attack on Base Injures 3 Americans</h3>
+<sub>By Helene Cooper</sub>
+<p>The strikes followed an attack hours earlier by members of Kataib Hezbollah and affiliated groups on Erbil air base in Iraq that injured three U.S. service members, officials said, one critically.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Says It Downed 5 Russian Planes, as Moscow Claims It Seized a Town</h3>
 <sub>By Constant Méheut</sub>
-<p>The Ukrainian success, possibly owed to Western-supplied Patriot missiles, was offset by Russia’s statement that it now controlled Marinka.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russia said it now had full control of the eastern town of Marinka. On Tuesday, Ukraine claimed to have destroyed a Russian ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,11 +128,11 @@ There is a lot going on in the world right now. Israeli Prime Minister Netanyahu
 <p>Hobby crafts are growing in popularity. Sometimes they include anvils and fire.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.</h3>
-<sub>By Michael Wilson</sub>
-<p>The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?  <a href="https://nyti.ms/3JWB8WC"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, July 12, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Newly Flush With Cash, Nikki Haley Makes Her Move in Iowa. Is It Too Late?</h3>
+<sub>By Kellen Browning and Jazmine Ulloa</sub>
+<p>A super PAC backing the former governor of South Carolina plans to knock on 100,000 doors in Iowa before the caucuses, but it’s running out of time to spread her message.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
