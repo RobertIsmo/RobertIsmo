@@ -60,20 +60,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-It looks like a lot is happening in the world right now. There&#39;s an increase in holiday spending, despite predictions of a decline. On Wall Street, analysts are split as to whether or not we&#39;re headed into a downturn. In Israel, citizens are still coming to terms with a brutal attack by Hamas which left them traumatized. Meanwhile, nearly two million people have been displaced in Gaza due to intensifying fighting, and there were U.S. airstrikes targeting Iran-backed groups in Iraq after an attack on an American base injured three service members. On top of that, New York City has grappled with 150,000 migrant arrivals in less than two years creating chaos and confusion--and Ukraine has attacked Russian warships in Crimea while an opposition leader is ironically transferred to an Arctic prison in Russia. Closer to home, Donald Trump is proposing new taxes on imports and a split from China as part of his 2025 trade agenda for if he returns to office. Whatever the outcome, it looks like Trump will be attempting an even more extreme agenda than his first term if he wins. Finally, one Mexico City neighborhood still loves and cherishes the Volkswagen Beetle!</p>
+It looks like a lot of tensions around the world are escalating right now. In Israel, there is an emotional trauma affecting the country following a Hamas attack and abduction of hostages. On top of that, a Russian warship in Crimea&#39;s occupied waters has been damaged by a Ukrainian missile strike. Meanwhile, in Iraq, US strikes targeted Iran-backed groups after an attack hurt three Americans. There are also disputes between Turkey and other NATO members over Sweden&#39;s request to join NATO. Besides all this, there have been significant developments in businesses, art and culture - such as holiday spending increasing despite fears of a decline, back to photos that defined 2023 in arts and the top business stories of the year. Lastly, Trump seems to be planning for his 2025 trade agenda with higher tariffs on imports from China.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Holiday Spending Increased, Defying Fears of a Decline</h3>
-<sub>By Jordyn Holman</sub>
-<p>While the pace of growth slowed, spending stayed strong because of robust job growth and strong wage gains.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Downturn or Not? At Year’s End, Wall St. Is Split on What’s Ahead.</h3>
-<sub>By Joe Rennison</sub>
-<p>Analysts bullish on 2023 were largely right and expect more of the same in 2024. Bears caution that the Fed’s impact is yet to be determined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
 <sub>By Patrick Kingsley</sub>
@@ -92,16 +80,10 @@ It looks like a lot is happening in the world right now. There&#39;s an increase
 <p>The strikes followed an attack hours earlier by members of Kataib Hezbollah and affiliated groups on Erbil air base in Iraq that injured three U.S. service members, officials said, one critically.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Chaos, Fury, Mistakes: 600 Days Inside New York’s Migrant Crisis</h3>
-<sub>By Andy Newman and Dana Rubinstein</sub>
-<p>More than 150,000 people have arrived in less than two years, throwing the city into crisis. Missed opportunities made things even harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Attacks Russian Warship in Occupied Crimea</h3>
+<h3>Ukrainian Missile Strike Hits Russian Warship in Occupied Crimea</h3>
 <sub>By Constant Méheut</sub>
-<p>Russia’s Defense Ministry acknowledged that the Novocherkassk had been hit in what appeared to be one of the most significant strikes against the Black Sea Fleet in months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Russia’s Defense Ministry acknowledged that the Novocherkassk had been damaged in what appeared to be one of the most significant attacks on the Black Sea Fleet in months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -110,28 +92,46 @@ It looks like a lot is happening in the world right now. There&#39;s an increase
 <p>The comments from the Russian opposition leader were written with a heavy dose of humor, and seemed intended to assuage concerns among allies after his three-week disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Turkey’s Parliament to Discuss Sweden’s NATO Bid, Still in Limbo</h3>
+<sub>By Ben Hubbard</sub>
+<p>Turkey has been slow walking approval of Sweden’s accession to the alliance as Ankara seeks concessions from other members.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Holiday Spending Increased, Defying Fears of a Decline</h3>
+<sub>By Jordyn Holman</sub>
+<p>While the pace of growth slowed, spending stayed strong because of robust job growth and strong wage gains.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Downturn or Not? At Year’s End, Wall St. Is Split on What’s Ahead.</h3>
+<sub>By Joe Rennison</sub>
+<p>Analysts bullish on 2023 were largely right and expect more of the same in 2024. Bears caution that the Fed’s impact is yet to be determined.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Chaos, Fury, Mistakes: 600 Days Inside New York’s Migrant Crisis</h3>
+<sub>By Andy Newman and Dana Rubinstein</sub>
+<p>More than 150,000 people have arrived in less than two years, throwing the city into crisis. Missed opportunities made things even harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>2023 in Retrospect: 59 Photographs That Defined the Year in Arts</h3>
 <sub>By Marysa Greenawalt, Laura O’Neill, Jolie Ruben and Amanda Webster</sub>
 <p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>A Look Back at the Top Business Stories of 2023</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Regional bank failures and the conviction of Sam Bankman-Fried were among the big news events this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>A New Tax on Imports and a Split From China: Trump’s 2025 Trade Agenda</h3>
 <sub>By Charlie Savage, Jonathan Swan and Maggie Haberman</sub>
 <p>Donald J. Trump plans to sharply expand his use of tariffs if he returns to power, risking disruption to the economy in an attempt to transform it.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump Plans to Wield Power in 2025: What We Know</h3>
-<sub>By Jonathan Swan, Maggie Haberman and Charlie Savage</sub>
-<p>Donald J. Trump and his allies are already laying the groundwork for a possible second Trump presidency, forging plans for an even more extreme agenda than his first term.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, November 15, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In This Mexican Neighborhood, Locals Say ¡Viva el Beetle!</h3>
-<sub>By Zolan Kanno-Youngs and Marian Carrasquero</sub>
-<p>A northern community in Mexico City cannot give up on the famous 1960s hippie-favorite Volkswagen.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
