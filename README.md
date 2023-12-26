@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-Right now there is a lot happening in the world. In the US, there are blizzard conditions affecting travel across the Northern and Central Plains. There was also an attack on an Erbil airbase in Iraq injuring three US service members, leading to US strikes against Iran-backed groups. In terms of climate news, Earth was due for another year of record warmth, but this year&#39;s off-the-charts heat is making scientists question whether global warming is accelerating. As for international news, Turkish Parliament has approved Sweden&#39;s NATO bid and Ukraine struck a Russian warship in Occupied Crimea. Russia&#39;s Alexey Navalny has been transferred to an Arctic prison while nearly two million have moved into Gaza&#39;s south as fighting intensifies. New York is also dealing with its own crisis as 150,000 migrants have arrived in less than two years. Finally, a private equity firm buying hospitals appears to have led to more serious medical errors.</p>
+Right now, there is a lot of unrest in the world. In Ukraine, their military was successful against Russia but they had to retreat from a major city. In Russia, opposition leader Alexei Navalny was moved to an Arctic prison and his allies are worried about him. In the US, we&#39;ve had a record-breaking winter season with unusually warm temperatures and no snow, which some people think could mean that climate change is accelerating. There was also a huge blizzard that caused disruptions across northern and central parts of the US. Meanwhile, some parents are trying to pressure the GOP for gun control after a school shooting. And there&#39;s a proposed natural gas project on the coast of Louisiana that President Biden is facing critical decisions on. Lastly, in Israel there has been a devastating raid and kidnap by Hamas which is causing deep trauma and could shape the country for years to come. In Gaza too, there&#39;s fighting intensifying with nearly two million people pouring into areas without access to shelter or security. And in regards to the US again, there&#39;s an increase in medical errors at hospitals owned by private equity firms and homeless people are taking over downtown Phoenix despite efforts to help them. It&#39;s been quite a year!</p>
 <ol>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
-<sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
-<p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Missile Strike Hits Russian Warship in Occupied Crimea</h3>
+<h3>Ukraine Hits Major Russian Warship, but Loses Ground in the East</h3>
 <sub>By Constant Méheut</sub>
-<p>Russia’s Defense Ministry acknowledged that the Novocherkassk had been damaged in what appeared to be one of the most significant attacks on the Black Sea Fleet in months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A major military success at sea against Russia’s Black Sea Fleet was tempered by Ukraine’s acknowledgment that it had all but retreated from the city of Marinka.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -80,34 +74,10 @@ Right now there is a lot happening in the world. In the US, there are blizzard c
 <p>The comments from the Russian opposition leader were written with a heavy dose of humor, and seemed intended to assuage concerns among allies after his three-week disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Turkish Parliamentary Panel Approves Sweden’s NATO Bid</h3>
-<sub>By Ben Hubbard</sub>
-<p>The measure must now be passed by the full Parliament, but the foreign affairs committee said not to expect quick action.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Hamas’s brutal raid and taking of hostages has left Israelis deeply traumatized and is expected to reshape the country for years to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nearly Two Million Crowd Into Gaza’s South as Fighting Intensifies</h3>
-<sub>By Zach Levitt, Amy Schoenfeld Walker, Lauren Leatherby and Leanne Abraham</sub>
-<p>As Israel’s ground campaign broadens in southern Gaza, thousands more people are pouring into areas that are struggling to offer shelter or security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. Strikes Iran-Backed Groups in Iraq After Attack on Base Injures 3 Americans</h3>
-<sub>By Helene Cooper</sub>
-<p>The strikes followed an attack hours earlier by members of Kataib Hezbollah and affiliated groups on Erbil air base in Iraq that injured three U.S. service members, officials said, one critically.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Serious Medical Errors Rose After Private Equity Firms Bought Hospitals</h3>
-<sub>By Reed Abelson and Margot Sanger-Katz</sub>
-<p>A new study shows an increase in the rate of inpatient complications, including infections and falls, though patients were no more likely to die.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Record-Breaking Warm, Snowless Winter Confounds Midwesterners</h3>
+<sub>By Ernesto Londoño and Michael Levenson</sub>
+<p>Jogging in a T-shirt in Minnesota in December? A scientist called the rare string of balmy days “a visceral feeling of what climate change looks and feels like.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -128,11 +98,41 @@ Right now there is a lot happening in the world. In the US, there are blizzard c
 <p>A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Chaos, Fury, Mistakes: 600 Days Inside New York’s Migrant Crisis</h3>
-<sub>By Andy Newman and Dana Rubinstein</sub>
-<p>More than 150,000 people have arrived in less than two years, throwing the city into crisis. Missed opportunities made things even harder.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
+<sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
+<p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
+<sub>By Patrick Kingsley</sub>
+<p>Hamas’s brutal raid and taking of hostages has left Israelis deeply traumatized and is expected to reshape the country for years to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Nearly Two Million Crowd Into Gaza’s South as Fighting Intensifies</h3>
+<sub>By Zach Levitt, Amy Schoenfeld Walker, Lauren Leatherby and Leanne Abraham</sub>
+<p>As Israel’s ground campaign broadens in southern Gaza, thousands more people are pouring into areas that are struggling to offer shelter or security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Serious Medical Errors Rose After Private Equity Firms Bought Hospitals</h3>
+<sub>By Reed Abelson and Margot Sanger-Katz</sub>
+<p>A new study shows an increase in the rate of inpatient complications, including infections and falls, though patients were no more likely to die.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>2023 in Retrospect: 59 Photographs That Defined the Year in Arts</h3>
+<sub>By Marysa Greenawalt, Laura O’Neill, Jolie Ruben and Amanda Webster</sub>
+<p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Sandwich Shop, a Tent City and an American Crisis</h3>
+<sub>By Eli Saslow and Todd Heisler</sub>
+<p>As homelessness overwhelms downtown Phoenix, a small business wonders how long it can hang on.  <a href="https://nyti.ms/3JsCjft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
