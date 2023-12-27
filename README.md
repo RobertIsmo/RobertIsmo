@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-Right now, it&#39;s a very tumultuous time across the globe. In Ukraine, there was a major naval altercation between them and Russia, however Ukraine had to retreat from a city they had been occupying. In Russia, an opposition leader, was sent to an Arctic prison after he had gone missing for three weeks. 
-
-In America, things are just as surreal. This winter especially has been incredibly warm with little snowfall, giving people an unsettling taste of climate change to come. A large portion of the Midwest was also recently hit with a blizzard that caused massive disruption in travel. There&#39;s also been some activism from parents whose kids were affected by a mass shooting at a private Christian school over gun control reform.
-
-Internationally, Israel continues to fight Hamas in Gaza despite global pressure to reach a cease fire. Moreover, in the chess world there&#39;s lots of drama with rumors swirling around about players cheating each other out of games. 
-
-Back in America, President Biden is up against a new environmental test - a natural gas project in Louisiana which could benefit the economy but damage the environment if approved. Researchers have also studied how serious medical errors rose after private equity firms bought hospitals, though luckily patients weren&#39;t more likely to have died  due to it. To finish off the year, The New York Times&#39; photo editors have collected 59 iconic images that show what this year in culture has been like.</p>
+The world has been a bit of a roller coaster recently! In Ukraine, they&#39;ve had a major success at sea against Russia&#39;s Black Sea Fleet, but have been forced to retreat from the city of Marinka. Russian opposition leader Alexei Navalny has been sentenced to Arctic imprisonment, and in the US people are experiencing an unusually warm winter with record-breaking temperatures. Blizzards have hit the northern and central plains, and a group of parents are pressuring the GOP for limited gun control in response to a school shooting. In Israel there is still an ongoing war with Hamas, and in the US hospitals owned by private equity firms have seen an increase in medical errors. Finally, photographers commissioned by our photo editors captured some interesting images from around the world that really brought 2023 into perspective.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Hits Major Russian Warship, but Loses Ground in the East</h3>
