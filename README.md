@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 27, Central Standard Time</p>
 <p>
-Updates from around the world - in Ukraine, Russian authorities have separated thousands of young people from their families during wartime, and Ukraine has retaken some military ground against Russia. In Israel, there is ongoing fighting between Hamas and the Israeli government. In the U.S., this year had a record-breakingly warm winter with no snowfall, and a new natural gas project in Louisiana has become the latest climate change test for President Biden. The discussion about guns in the U.S. has been reignited by parents whose children were affected by a mass shooting at a private Christian school. Other news includes elite chess players being accused of cheating, serious medical errors increasing after private equities bought hospitals, and a look back at pictures that helped define 2023 in the arts. Lastly, Senator Laphonza Butler from California was recently appointed to finish out the late Senator Feinstein&#39;s term and has already expressed plans to not stay long in her position.</p>
+There are some major geopolitical tensions going on right now, especially between the US and China. There is a Chinese spy agency that has been using advanced technology to try and go up against the CIA, as both countries try to steal each other&#39;s trade secrets. There is also the ongoing conflict in Israel, with skepticism growing over their ability to dismantle the terrorist group Hamas. In Ukraine, thousands of young people have been taken away from their parents by the Russian authorities as part of the war there. Meanwhile, India is strengthening its diplomatic and defense ties with Russia despite Western pressure. Ukraine also had a major military success against Russia&#39;s Black Sea Fleet recently, although they still appear to have retreated in one area in the East. Back in the US, Nikki Haley is playing it safe and trailing behind Trump significantly in polls, while one of his fake electors who got charged has since agreed to cooperate with authorities for getting his charges dropped. As of this year especially, lots of powerful visuals stories and graphics have been released online to make people more aware of current events. Antony Blinken is visiting Mexico to deal with rising numbers migrants coming towards the US border. In Canada, a law was recently proposed that would allow mentally ill people to apply for assisted death. Birmingham-Southern College in Alabama has been struggling financially as of late but its not clear if they should receive a loan from public taxpayer money.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chinese Spy Agency Rising to Challenge the C.I.A.</h3>
+<sub>By Edward Wong, Julian E. Barnes, Muyi Xiao and Chris Buckley</sub>
+<p>The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s trade secrets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Skepticism Grows Over Israel’s Ability to Dismantle Hamas</h3>
+<sub>By Neil MacFarquhar</sub>
+<p>Israel has vowed time and again to eliminate the group responsible for the brutal Oct. 7 attack, but critics increasingly see that goal as unrealistic or even impossible.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine’s Stolen Children</h3>
 <sub>By Carlotta Gall, Oleksandr Chubko, Cora Engelbrecht and Daniel Berehulak</sub>
@@ -69,70 +81,58 @@ Updates from around the world - in Ukraine, Russian authorities have separated t
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Indian Envoy Hails Relationship With Russia, Bypassing Western Pressure</h3>
+<sub>By Sameer Yasir</sub>
+<p>India’s foreign minister is on a five-day diplomatic trip to Moscow to reinforce economic and defense ties. But some signs of strain are showing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Hits Major Russian Warship, but Loses Ground in the East</h3>
 <sub>By Constant Méheut</sub>
 <p>A major military success at sea against Russia’s Black Sea Fleet was tempered by Ukraine’s acknowledgment that it had all but retreated from the city of Marinka.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley’s Bold Strategy to Beat Trump: Play It Safe</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Ms. Haley still trails far behind the former president in polls. Yet she is not deviating from the cautious approach that has led her this far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Fake Trump Elector in Michigan Told Prosecutors of Regret, Anger</h3>
+<sub>By Danny Hakim</sub>
+<p>The Trump supporter is the only one of the 16 fake Michigan electors who has agreed to cooperate with the authorities and had charges against him dropped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>2023: The Year in Visual Stories and Graphics.</h3>
+<sub>By</sub>
+<p>Selected Times graphics, visualizations and multimedia stories published this year. All free to read for a limited time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Blinken Heads to Mexico as Migrant Caravan Moves Toward U.S. Border</h3>
+<sub>By Hamed Aleaziz and Emiliano Rodríguez Mega</sub>
+<p>Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Shelter Evictions Will Damage Migrant Children, Schools Warn</h3>
+<sub>By Troy Closson and Liset Cruz</sub>
+<p>About 3,500 migrant families in New York City shelters have received eviction notices. Children will have to change schools or face long commutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Will Not Soon End Its War With Hamas, Officials Say</h3>
-<sub>By Isabel Kershner and Thomas Fuller</sub>
-<p>Amid global pressure to reach a cease-fire and fears of a widening regional war, Israel says it will continue to fight in Gaza until Hamas is defeated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<h3>Death by Doctor May Soon Be Available for the Mentally Ill in Canada</h3>
+<sub>By Vjosa Isai</sub>
+<p>The country is divided over a law that would allow patients suffering from mental health illnesses to apply for assisted death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Record-Breaking Warm, Snowless Winter Confounds Midwesterners</h3>
-<sub>By Ernesto Londoño and Michael Levenson</sub>
-<p>Jogging in a T-shirt in Minnesota in December? A scientist called the rare string of balmy days “a visceral feeling of what climate change looks and feels like.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Earth Was Due for Another Year of Record Warmth. But This Warm?</h3>
-<sub>By Raymond Zhong</sub>
-<p>Scientists are already busy trying to understand whether 2023’s off-the-charts heat is a sign that global warming is accelerating.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
-<sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
-<p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-crosswords-blue" alt="">
-<h3>Elite Chess Players Keep Accusing Each Other of Cheating</h3>
-<sub>By Dylan Loeb McClain</sub>
-<p>Seeds of doubt have grown into a disturbance among some in the game’s top ranks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Tesla Strike Is a Culture Clash: Swedish Labor vs. American Management</h3>
-<sub>By Melissa Eddy</sub>
-<p>Workers seeking a collective agreement from the automaker say they are pushing for their rights, but car owners see them as taking the fight too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Covenant Parents Aren’t Going to Keep Quiet on Guns</h3>
-<sub>By Emily Cochrane and Jon Cherry</sub>
-<p>A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Serious Medical Errors Rose After Private Equity Firms Bought Hospitals</h3>
-<sub>By Reed Abelson and Margot Sanger-Katz</sub>
-<p>A new study shows an increase in the rate of inpatient complications, including infections and falls, though patients were no more likely to die.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>2023 in Retrospect: 59 Photographs That Defined the Year in Arts</h3>
-<sub>By Marysa Greenawalt, Laura O’Neill, Jolie Ruben and Amanda Webster</sub>
-<p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Laphonza Butler Just Got to the Senate, but She’s Not Planning to Stay Long</h3>
-<sub>By Robert Jimison</sub>
-<p>The junior senator from California, appointed to serve out the term of the late Senator Dianne Feinstein, discussed adapting to the slow pace of the Senate and her goals before leaving office in a year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<h3>A Private Liberal Arts College Is Drowning in Debt. Should Alabama Rescue It?</h3>
+<sub>By Emily Cochrane</sub>
+<p>Birmingham-Southern College was on the verge of receiving a multimillion-dollar loan, but the state treasurer balked, saying it was not a justifiable use of taxpayer money.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
