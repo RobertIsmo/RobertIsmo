@@ -59,30 +59,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 27, Central Standard Time</p>
-<p>Things in the world are very chaotic right now. In the US, there is a lot of discussion about whether former President Trump should be kept on the ballot and some people have been prosecuted for pretending to be electors for him. There is also a lot of discussion about Nikki Haley&#39;s strategy for running in the upcoming election and the challenge posed by Chinese spies trying to compete with US intelligence. Elsewhere in the world, there is skepticism about Israel&#39;s ability to dismantle Hamas and thousands of young Ukrainians have been separated from their parents due to Russia&#39;s invasion of the country. India is also strengthening its ties with Russia despite Western pressure. Finally, Ukraine experienced a major success at sea against Russia, but loses ground in the East, while The New York Times has sued OpenAI and Microsoft over their use of copyrighted work. Evictions from shelters in New York City could cause major educational issues for thousands of migrant children too.</p>
+<p>
+To my close friend:
+Right now, there is a lot happening in the world. The Chinese spy agency is rising to challenge the CIA, and is using advanced technology as part of their efforts. In Israel, there is skepticism growing about the ability of the government to dismantle Hamas after a particularly brutal attack in October. Ukraine has an issue with thousands of children being separated from their parents due to Russian authorities in the early stages of war. Additionally, India&#39;s foreign minister is in Moscow to reinforce economic and defense ties despite external pressure.
+
+On a lighter note, The New York Times is suing OpenAI and Microsoft for use of its copyrighted work for training chatbots. There are also some interesting stories about people collecting unexpected treasures or making a big life change and moving to an island! 
+Unfortunately, Mexico&#39;s president called for more U.S. support ahead of a meeting which comes as border crossings have reached record numbers and as a migrant caravan heads towards the U.S. Additionally, there were 3,500 migrant families in New York City receiving eviction notices last week which will affect children changing schools or facing long commutes to school.
+
+Finally, we lost beloved actor Lee Sun-kyun from &quot;Parasite,&quot; along with one half of the Smothers Brothers duo Tom Smothers who was a driving force behind their groundbreaking TV show. 
+It&#39;s been quite a week and definitely a lot going on in our world!</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Supreme Court Decides Trump Can Stay on Ballot</h3>
-<sub>By Julie Bosman and Ernesto Londoño</sub>
-<p>After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Fake Trump Elector in Michigan Told Prosecutors of Regret, Anger</h3>
-<sub>By Danny Hakim</sub>
-<p>The Trump supporter is the only one of the 16 fake Michigan electors who has agreed to cooperate with the authorities and had charges against him dropped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley’s Bold Strategy to Beat Trump: Play It Safe</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Ms. Haley still trails far behind the former president in polls. Yet she is not deviating from the cautious approach that has led her this far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese Spy Agency Rising to Challenge the C.I.A.</h3>
 <sub>By Edward Wong, Julian E. Barnes, Muyi Xiao and Chris Buckley</sub>
-<p>The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s technological secrets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s scientific secrets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -100,14 +90,8 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Indian Envoy Hails Relationship With Russia, Bypassing Western Pressure</h3>
 <sub>By Sameer Yasir</sub>
-<p>India’s foreign minister is on a five-day diplomatic trip to Moscow to reinforce economic and defense ties. But some signs of strain are showing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>India’s foreign minister is on a five-day diplomatic trip to Moscow to reinforce economic and defense ties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine Hits Major Russian Warship, but Loses Ground in the East</h3>
-<sub>By Constant Méheut</sub>
-<p>A major military success at sea against Russia’s Black Sea Fleet was tempered by Ukraine’s acknowledgment that it had all but retreated from the city of Marinka.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work</h3>
@@ -115,22 +99,46 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>2023: The Year in Visual Stories and Graphics.</h3>
-<sub>By</sub>
-<p>Selected Times graphics, visualizations and multimedia stories published this year. All free to read for a limited time.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Very Personal Collections That 7 Artists Left Behind</h3>
+<sub>Photographs by Richard Barnes</sub>
+<p>Pee-wee Herman’s toys, Robert Gottlieb’s plastic handbags and other unexpected treasures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blinken Heads to Mexico as Migrant Caravan Moves Toward U.S. Border</h3>
+<h3>Mexico’s President Calls for More U.S. Support Ahead of Meeting With Blinken</h3>
 <sub>By Hamed Aleaziz and Emiliano Rodríguez Mega</sub>
-<p>Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers and as a migrant caravan heads toward the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Shelter Evictions Will Damage Migrant Children, Schools Warn</h3>
 <sub>By Troy Closson and Liset Cruz</sub>
 <p>About 3,500 migrant families in New York City shelters have received eviction notices. Children will have to change schools or face long commutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Lee Sun-kyun, ‘Parasite’ Actor, Found Dead at 48</h3>
+<sub>By John Yoon</sub>
+<p>Mr. Lee, a familiar face on Korean television and movie screens, rose to international fame after starring in the Oscar-winning film.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>A Tiny Cabin, a Little Island and a Big Change: ‘Am I Crazy?’</h3>
+<sub>By Steven Kurutz</sub>
+<p>A New Jersey woman now lives alone part of the year on a remote island in Maine that Stephen King called ‘a novel here, just waiting to be written.’  <a href="https://nyti.ms/43FQsOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>She’s Still in Love With Her Little Island</h3>
+<sub>By Steven Kurutz</sub>
+<p>Readers were impressed with the audacity of Charlotte Gale, a massage therapist from New Jersey, who bought a small island in Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
+<sub>By William Grimes</sub>
+<p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
