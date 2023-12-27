@@ -59,13 +59,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 27, Central Standard Time</p>
-<p>
-There are some major geopolitical tensions going on right now, especially between the US and China. There is a Chinese spy agency that has been using advanced technology to try and go up against the CIA, as both countries try to steal each other&#39;s trade secrets. There is also the ongoing conflict in Israel, with skepticism growing over their ability to dismantle the terrorist group Hamas. In Ukraine, thousands of young people have been taken away from their parents by the Russian authorities as part of the war there. Meanwhile, India is strengthening its diplomatic and defense ties with Russia despite Western pressure. Ukraine also had a major military success against Russia&#39;s Black Sea Fleet recently, although they still appear to have retreated in one area in the East. Back in the US, Nikki Haley is playing it safe and trailing behind Trump significantly in polls, while one of his fake electors who got charged has since agreed to cooperate with authorities for getting his charges dropped. As of this year especially, lots of powerful visuals stories and graphics have been released online to make people more aware of current events. Antony Blinken is visiting Mexico to deal with rising numbers migrants coming towards the US border. In Canada, a law was recently proposed that would allow mentally ill people to apply for assisted death. Birmingham-Southern College in Alabama has been struggling financially as of late but its not clear if they should receive a loan from public taxpayer money.</p>
+<p>Things in the world are very chaotic right now. In the US, there is a lot of discussion about whether former President Trump should be kept on the ballot and some people have been prosecuted for pretending to be electors for him. There is also a lot of discussion about Nikki Haley&#39;s strategy for running in the upcoming election and the challenge posed by Chinese spies trying to compete with US intelligence. Elsewhere in the world, there is skepticism about Israel&#39;s ability to dismantle Hamas and thousands of young Ukrainians have been separated from their parents due to Russia&#39;s invasion of the country. India is also strengthening its ties with Russia despite Western pressure. Finally, Ukraine experienced a major success at sea against Russia, but loses ground in the East, while The New York Times has sued OpenAI and Microsoft over their use of copyrighted work. Evictions from shelters in New York City could cause major educational issues for thousands of migrant children too.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Supreme Court Decides Trump Can Stay on Ballot</h3>
+<sub>By Julie Bosman and Ernesto Londoño</sub>
+<p>After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Fake Trump Elector in Michigan Told Prosecutors of Regret, Anger</h3>
+<sub>By Danny Hakim</sub>
+<p>The Trump supporter is the only one of the 16 fake Michigan electors who has agreed to cooperate with the authorities and had charges against him dropped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley’s Bold Strategy to Beat Trump: Play It Safe</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>Ms. Haley still trails far behind the former president in polls. Yet she is not deviating from the cautious approach that has led her this far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Chinese Spy Agency Rising to Challenge the C.I.A.</h3>
 <sub>By Edward Wong, Julian E. Barnes, Muyi Xiao and Chris Buckley</sub>
-<p>The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s trade secrets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s technological secrets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -92,16 +109,10 @@ There are some major geopolitical tensions going on right now, especially betwee
 <p>A major military success at sea against Russia’s Black Sea Fleet was tempered by Ukraine’s acknowledgment that it had all but retreated from the city of Marinka.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley’s Bold Strategy to Beat Trump: Play It Safe</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>Ms. Haley still trails far behind the former president in polls. Yet she is not deviating from the cautious approach that has led her this far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Fake Trump Elector in Michigan Told Prosecutors of Regret, Anger</h3>
-<sub>By Danny Hakim</sub>
-<p>The Trump supporter is the only one of the 16 fake Michigan electors who has agreed to cooperate with the authorities and had charges against him dropped.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work</h3>
+<sub>By Michael M. Grynbaum and Ryan Mac</sub>
+<p>Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +131,6 @@ There are some major geopolitical tensions going on right now, especially betwee
 <h3>Shelter Evictions Will Damage Migrant Children, Schools Warn</h3>
 <sub>By Troy Closson and Liset Cruz</sub>
 <p>About 3,500 migrant families in New York City shelters have received eviction notices. Children will have to change schools or face long commutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death by Doctor May Soon Be Available for the Mentally Ill in Canada</h3>
-<sub>By Vjosa Isai</sub>
-<p>The country is divided over a law that would allow patients suffering from mental health illnesses to apply for assisted death.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Private Liberal Arts College Is Drowning in Debt. Should Alabama Rescue It?</h3>
-<sub>By Emily Cochrane</sub>
-<p>Birmingham-Southern College was on the verge of receiving a multimillion-dollar loan, but the state treasurer balked, saying it was not a justifiable use of taxpayer money.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
