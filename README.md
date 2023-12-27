@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, December 26, Central Standard Time</p>
 <p>
-Right now, there is a lot of unrest in the world. In Ukraine, their military was successful against Russia but they had to retreat from a major city. In Russia, opposition leader Alexei Navalny was moved to an Arctic prison and his allies are worried about him. In the US, we&#39;ve had a record-breaking winter season with unusually warm temperatures and no snow, which some people think could mean that climate change is accelerating. There was also a huge blizzard that caused disruptions across northern and central parts of the US. Meanwhile, some parents are trying to pressure the GOP for gun control after a school shooting. And there&#39;s a proposed natural gas project on the coast of Louisiana that President Biden is facing critical decisions on. Lastly, in Israel there has been a devastating raid and kidnap by Hamas which is causing deep trauma and could shape the country for years to come. In Gaza too, there&#39;s fighting intensifying with nearly two million people pouring into areas without access to shelter or security. And in regards to the US again, there&#39;s an increase in medical errors at hospitals owned by private equity firms and homeless people are taking over downtown Phoenix despite efforts to help them. It&#39;s been quite a year!</p>
+Right now, it&#39;s a very tumultuous time across the globe. In Ukraine, there was a major naval altercation between them and Russia, however Ukraine had to retreat from a city they had been occupying. In Russia, an opposition leader, was sent to an Arctic prison after he had gone missing for three weeks. 
+
+In America, things are just as surreal. This winter especially has been incredibly warm with little snowfall, giving people an unsettling taste of climate change to come. A large portion of the Midwest was also recently hit with a blizzard that caused massive disruption in travel. There&#39;s also been some activism from parents whose kids were affected by a mass shooting at a private Christian school over gun control reform.
+
+Internationally, Israel continues to fight Hamas in Gaza despite global pressure to reach a cease fire. Moreover, in the chess world there&#39;s lots of drama with rumors swirling around about players cheating each other out of games. 
+
+Back in America, President Biden is up against a new environmental test - a natural gas project in Louisiana which could benefit the economy but damage the environment if approved. Researchers have also studied how serious medical errors rose after private equity firms bought hospitals, though luckily patients weren&#39;t more likely to have died  due to it. To finish off the year, The New York Times&#39; photo editors have collected 59 iconic images that show what this year in culture has been like.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Hits Major Russian Warship, but Loses Ground in the East</h3>
@@ -88,7 +94,7 @@ Right now, there is a lot of unrest in the world. In Ukraine, their military was
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Blizzard Conditions Disrupt Travel Across Northern and Central Plains</h3>
-<sub>By Rebecca Carballo and John Yoon</sub>
+<sub>By Rebecca Carballo, John Yoon and Johnny Diaz</sub>
 <p>Powerful winds and freezing temperatures were expected to cause poor visibility and icy roads through early Wednesday, forecasters said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
@@ -98,22 +104,22 @@ Right now, there is a lot of unrest in the world. In Ukraine, their military was
 <p>A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Will Not Soon End Its War With Hamas, Officials Say</h3>
+<sub>By Isabel Kershner and Thomas Fuller</sub>
+<p>Amid global pressure to reach a cease-fire and fears of a widening regional war, Israel says it will continue to fight in Gaza until Hamas is defeated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-crosswords-blue" alt="">
+<h3>Elite Chess Players Keep Accusing Each Other of Cheating</h3>
+<sub>By Dylan Loeb McClain</sub>
+<p>Seeds of doubt have grown into a disturbance among some in the game’s top ranks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
 <h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
 <sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
 <p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As World’s Gaze Shifts to Gaza, Israel’s Psyche Remains Defined by Oct. 7 Attack</h3>
-<sub>By Patrick Kingsley</sub>
-<p>Hamas’s brutal raid and taking of hostages has left Israelis deeply traumatized and is expected to reshape the country for years to come.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Nearly Two Million Crowd Into Gaza’s South as Fighting Intensifies</h3>
-<sub>By Zach Levitt, Amy Schoenfeld Walker, Lauren Leatherby and Leanne Abraham</sub>
-<p>As Israel’s ground campaign broadens in southern Gaza, thousands more people are pouring into areas that are struggling to offer shelter or security.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -128,11 +134,11 @@ Right now, there is a lot of unrest in the world. In Ukraine, their military was
 <p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Sandwich Shop, a Tent City and an American Crisis</h3>
-<sub>By Eli Saslow and Todd Heisler</sub>
-<p>As homelessness overwhelms downtown Phoenix, a small business wonders how long it can hang on.  <a href="https://nyti.ms/3JsCjft"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, March 19, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>2023 N.F.L. Playoff Picture: Each Team’s Path to the Postseason</h3>
+<sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
+<p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
