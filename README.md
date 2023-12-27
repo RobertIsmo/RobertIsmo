@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, December 26, Central Standard Time</p>
+<p>It is Wednesday, December 27, Central Standard Time</p>
 <p>
-The world has been a bit of a roller coaster recently! In Ukraine, they&#39;ve had a major success at sea against Russia&#39;s Black Sea Fleet, but have been forced to retreat from the city of Marinka. Russian opposition leader Alexei Navalny has been sentenced to Arctic imprisonment, and in the US people are experiencing an unusually warm winter with record-breaking temperatures. Blizzards have hit the northern and central plains, and a group of parents are pressuring the GOP for limited gun control in response to a school shooting. In Israel there is still an ongoing war with Hamas, and in the US hospitals owned by private equity firms have seen an increase in medical errors. Finally, photographers commissioned by our photo editors captured some interesting images from around the world that really brought 2023 into perspective.</p>
+It&#39;s been a tumultuous year around the world. In Ukraine, Russian authorities have separated thousands of children from their parents as the country is at war. Israel has continued to fight with Hamas with no end in sight. In the US, we&#39;ve had a record-breaking warm winter and fears of what climate change looks like have been growing. Private equity firms buying hospitals have led to an increase in medical errors and deadlock over gun control. Additionally, there have been some pretty amazing images created in the arts this year-- worth checking out!</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine’s Stolen Children</h3>
+<sub>By Carlotta Gall, Oleksandr Chubko, Cora Engelbrecht and Daniel Berehulak</sub>
+<p>Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine Hits Major Russian Warship, but Loses Ground in the East</h3>
 <sub>By Constant Méheut</sub>
@@ -69,9 +75,9 @@ The world has been a bit of a roller coaster recently! In Ukraine, they&#39;ve h
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Letter Heavy With Irony, Navalny Describes Transfer to Arctic Prison</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The comments from the Russian opposition leader were written with a heavy dose of humor, and seemed intended to assuage concerns among allies after his three-week disappearance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Will Not Soon End Its War With Hamas, Officials Say</h3>
+<sub>By Isabel Kershner and Thomas Fuller</sub>
+<p>Amid global pressure to reach a cease-fire and fears of a widening regional war, Israel says it will continue to fight in Gaza until Hamas is defeated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,22 +92,10 @@ The world has been a bit of a roller coaster recently! In Ukraine, they&#39;ve h
 <p>Scientists are already busy trying to understand whether 2023’s off-the-charts heat is a sign that global warming is accelerating.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blizzard Conditions Disrupt Travel Across Northern and Central Plains</h3>
-<sub>By Rebecca Carballo, John Yoon and Johnny Diaz</sub>
-<p>Powerful winds and freezing temperatures were expected to cause poor visibility and icy roads through early Wednesday, forecasters said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, December 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Covenant Parents Aren’t Going to Keep Quiet on Guns</h3>
-<sub>By Emily Cochrane and Jon Cherry</sub>
-<p>A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Will Not Soon End Its War With Hamas, Officials Say</h3>
-<sub>By Isabel Kershner and Thomas Fuller</sub>
-<p>Amid global pressure to reach a cease-fire and fears of a widening regional war, Israel says it will continue to fight in Gaza until Hamas is defeated.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
+<sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
+<p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-crosswords-blue" alt="">
@@ -110,10 +104,16 @@ The world has been a bit of a roller coaster recently! In Ukraine, they&#39;ve h
 <p>Seeds of doubt have grown into a disturbance among some in the game’s top ranks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, December 25, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>A Natural Gas Project Is Biden’s Next Big Climate Test</h3>
-<sub>By David Gelles, Clifford Krauss and Coral Davenport</sub>
-<p>A proposed export terminal on the Louisiana coast highlights the tension between economic growth, geopolitics and the environment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Tesla Strike Is a Culture Clash: Swedish Labor vs. American Management</h3>
+<sub>By Melissa Eddy</sub>
+<p>Workers seeking a collective agreement from the automaker say they are pushing for their rights, but car owners see them as taking the fight too far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Covenant Parents Aren’t Going to Keep Quiet on Guns</h3>
+<sub>By Emily Cochrane and Jon Cherry</sub>
+<p>A group of parents reeling from a mass shooting at their children’s private Christian school believed no one was in a better position to persuade the G.O.P. to enact limited gun control.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -128,11 +128,11 @@ The world has been a bit of a roller coaster recently! In Ukraine, they&#39;ve h
 <p>Deadheads, ballerinas and Mick Jagger: As 2023 winds down, revisit a memorable handful of the thousands of images commissioned by our photo editors that capture the year in culture.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>2023 N.F.L. Playoff Picture: Each Team’s Path to the Postseason</h3>
-<sub>By Josh Katz, Kevin Quealy and Rumsey Taylor</sub>
-<p>An interactive calculator that lets you explore every team’s path to the N.F.L. playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, October 13, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Laphonza Butler Just Got to the Senate, but She’s Not Planning to Stay Long</h3>
+<sub>By Robert Jimison</sub>
+<p>The junior senator from California, appointed to serve out the term of the late Senator Dianne Feinstein, discussed adapting to the slow pace of the Senate and her goals before leaving office in a year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
