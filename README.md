@@ -60,8 +60,56 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-Right now, there are some serious issues going on around the world. In the US, people are talking about child labor and migrant children living and working here. Around the world, there&#39;s been a lot of violence, especially in countries like Israel and Gaza. In California, electric trucks are being heavily pushed as a greener alternative. Meanwhile, public figures in the US are coming under fire for their comments about slavery and the Civil War. And of course, there&#39;s also great art and entertainment to be found too!</p>
+There is serious conflict between Israel and Hamas in the Middle East, as well as tensions growing with Hezbollah. Stateside, there have been debates about Nikki Haley’s remarks on the Civil War and the push to find out more about President Trump’s ballot eligibility before Super Tuesday. Political issues are also affecting Iowa Republicans, with young voters increasingly concerned with new ideas. Additionally, cases of child labor in the US are proving difficult to uncover and uncovering locations where unaccompanied migrant children are staying. Lastly, there is the story of Stephanie Courtney, an actor who recently became a household name playing Flo from Progressive commercials. Finally, actress Milana Vayntrub has been receiving leering internet trolls since her campaigns dropped online.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
+<sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
+<p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The strikes hit sites adjacent to ‘Hamas operatives,’ the military said.</h3>
+<sub>By Isabel Kershner</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A war cabinet member warns that Israel could open a new front against Hezbollah.</h3>
+<sub>By Johnatan Reiss, Nadav Gavrielov and Thomas Fuller</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Nikki Haley’s Civil War Uproar Risks Eroding a Moderate Coalition</h3>
+<sub>By Jonathan Weisman and Jazmine Ulloa</sub>
+<p>Ms. Haley’s avoidance of mentioning slavery as a cause of the conflict, which she walked back on Thursday, threatened to dent her crossover appeal to independents and moderate Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Both Sides Urge Supreme Court to Move Fast on Trump’s Ballot Eligibility</h3>
+<sub>By Adam Liptak</sub>
+<p>The Colorado Republican Party asked the justices to decide its appeal by Super Tuesday. The voters who won in the Colorado Supreme Court want to move even faster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Young Iowa Republicans Raise Their Voices. Will Their Party Listen?</h3>
+<sub>By Kellen Browning and Anjali Huynh</sub>
+<p>G.O.P. presidential candidates have not aggressively courted Gen Z, even as young voters increasingly show an openness to new candidates and a concern for new ideas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Federal Judge Approves Georgia’s New Voting Maps</h3>
+<sub>By Maya King and Emily Cochrane</sub>
+<p>The judge found that the Georgia legislature had complied with orders to allow Black voters an equal opportunity to elect representatives of their choice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Columbia’s President Has Avoided Fallout Over Israel-Gaza Protests</h3>
+<sub>By Sharon Otterman</sub>
+<p>Protests over the Israel-Hamas war roiled Columbia’s campus for weeks. Then, the campus and its president receded from attention — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>They’re Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?</h3>
 <sub>By Hannah Dreier</sub>
@@ -74,24 +122,6 @@ Right now, there are some serious issues going on around the world. In the US, p
 <p>Data shows where a record number of unaccompanied children traveling to the U.S. from Central America and other countries have ended up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
-<sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
-<p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Columbia’s President Has Avoided Fallout Over Israel-Gaza Protests</h3>
-<sub>By Sharon Otterman</sub>
-<p>Protests over the Israel-Hamas war roiled Columbia’s campus for weeks. Then, the campus and its president receded from attention — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>California Pushes Electric Trucks as the Future of Freight</h3>
-<sub>By Peter Eavis and Mark Abramson</sub>
-<p>A mainstay of cargo transport will be phased out at ports as California bans new registrations of carbon-fuel trucks in favor of nonpolluting ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Everybody Knows Flo From Progressive. Who Is Stephanie Courtney?</h3>
 <sub>By Caity Weaver</sub>
@@ -102,36 +132,6 @@ Right now, there are some serious issues going on around the world. In the US, p
 <h3>When Being a Spokeswoman Attracts Leering Internet Trolls</h3>
 <sub>By Caity Weaver</sub>
 <p>When you lend your likeness to a nationwide ad campaign, things don’t always go perfectly. Just ask Milana Vayntrub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How China’s Property Crisis Blew Up Bets That Couldn’t Lose</h3>
-<sub>By Claire Fu and Daisuke Wakabayashi</sub>
-<p>Citic said its new fund was as safe as they come because it would invest in real estate. Then the developer defaulted and the projects stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley, in Retreat, Says ‘Of Course the Civil War Was About Slavery’</h3>
-<sub>By Jonathan Weisman and Jazmine Ulloa</sub>
-<p>A day after giving a stumbling answer about the conflict’s origin that did not mention slavery, Ms. Haley told an interviewer: “Yes, I know it was about slavery. I am from the South.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Lauren Boebert, Far-Right Firebrand, Is Switching House Districts in Colorado</h3>
-<sub>By Chris Cameron</sub>
-<p>Facing a strong primary challenger and the fallout from the “Beetlejuice” scandal, Ms. Boebert is turning to a more conservative district in hopes of victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>In a Song of the Summer, Clues for January in Iowa</h3>
-<sub>By Astead W. Herndon and Caitlin O’Keefe</sub>
-<p>Jason Aldean’s single “Try That in a Small Town” stirred up political controversy, and climbed the charts. We talked to Aldean fans about what they heard in the song.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Simpleton? Genius? Who was Tom Smothers?</h3>
-<sub>By Nell Scovell</sub>
-<p>He was close with John Lennon, and had a sophisticated understanding of wine, politics and literature. He only played the bumpkin onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
