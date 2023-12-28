@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-Right now, there is a lot happening around the world. In the U.S., Private auditors have failed to detect migrant children working for U.S. suppliers of Oreos, Gerber baby snacks, McDonald’s milk and many other products. There is a record number of unaccompanied children traveling to the U.S. from Central America and other countries have ended up. Columbia has had protests over the Israel-Hamas War and Nikki Haley was asked tough questions about the cause of the Civil War at a town hall in New Hampshire. In China, their property crisis has blown up bets that were considered safe, and South Korea is cracking down on drugs following the death of an actor there. Lastly, in Ukraine, expatriates have chosen to stay despite the war despite millions fleeing and there is a recent development where Russia has retaken some land won by Ukraine during a counteroffensive.</p>
+Right now, there are some serious issues going on around the world. In the US, people are talking about child labor and migrant children living and working here. Around the world, there&#39;s been a lot of violence, especially in countries like Israel and Gaza. In California, electric trucks are being heavily pushed as a greener alternative. Meanwhile, public figures in the US are coming under fire for their comments about slavery and the Civil War. And of course, there&#39;s also great art and entertainment to be found too!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>They’re Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?</h3>
@@ -74,10 +74,34 @@ Right now, there is a lot happening around the world. In the U.S., Private audit
 <p>Data shows where a record number of unaccompanied children traveling to the U.S. from Central America and other countries have ended up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
+<sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
+<p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How Columbia’s President Has Avoided Fallout Over Israel-Gaza Protests</h3>
 <sub>By Sharon Otterman</sub>
 <p>Protests over the Israel-Hamas war roiled Columbia’s campus for weeks. Then, the campus and its president receded from attention — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>California Pushes Electric Trucks as the Future of Freight</h3>
+<sub>By Peter Eavis and Mark Abramson</sub>
+<p>A mainstay of cargo transport will be phased out at ports as California bans new registrations of carbon-fuel trucks in favor of nonpolluting ones.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>Everybody Knows Flo From Progressive. Who Is Stephanie Courtney?</h3>
+<sub>By Caity Weaver</sub>
+<p>A polo shirt, a white apron and a retro hairdo changed an actor’s life forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Being a Spokeswoman Attracts Leering Internet Trolls</h3>
+<sub>By Caity Weaver</sub>
+<p>When you lend your likeness to a nationwide ad campaign, things don’t always go perfectly. Just ask Milana Vayntrub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -86,40 +110,10 @@ Right now, there is a lot happening around the world. In the U.S., Private audit
 <p>Citic said its new fund was as safe as they come because it would invest in real estate. Then the developer defaulted and the projects stalled.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A.I. Can Make Art That Feels Human. Whose Fault Is That?</h3>
-<sub>By Jason Farago</sub>
-<p>A fake Drake&#x2F;Weeknd mash-up is not a threat to our species’s culture. It’s a warning: We can’t let our imaginations shrink to machine size.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>‘Sing in Me, Chatbot …’</h3>
-<sub>By A.O. Scott</sub>
-<p>What happens to literature when writers embrace A.I. as their muse?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Foreigners Who Made Ukraine Home Stay Put, Despite War</h3>
-<sub>By Megan Specia and Laura Boushnak</sub>
-<p>As millions fled, some expatriates made the unlikely decision to remain in Ukraine, among them students determined to finish their education and others who now consider it home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Retakes Some Land Hard Won by Ukraine During Counteroffensive</h3>
-<sub>By Constant Méheut</sub>
-<p>Russia’s recent progress around the southern village of Robotyne is a sobering development for Ukraine amid dwindling Western military aid.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Investigates the Sheriff? In Mississippi, Often No One.</h3>
-<sub>By Ilyssa Daly, Jerry Mitchell, Rachel Axon and Rory Doyle for The New York Times</sub>
-<p>The state ignored or was unaware of allegations of jailhouse rape, brutal beatings and corrupt acts by sheriffs and their deputies, even when there was ample evidence to examine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death of ‘Parasite’ Star Highlights South Korea’s Crackdown on Drugs</h3>
-<sub>By John Yoon</sub>
-<p>The actor, Lee Sun-kyun, had been questioned on suspicion of drug use in a country that has long drawn a hard line against anything other than total abstinence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Nikki Haley, in Retreat, Says ‘Of Course the Civil War Was About Slavery’</h3>
+<sub>By Jonathan Weisman and Jazmine Ulloa</sub>
+<p>A day after giving a stumbling answer about the conflict’s origin that did not mention slavery, Ms. Haley told an interviewer: “Yes, I know it was about slavery. I am from the South.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,11 +122,17 @@ Right now, there is a lot happening around the world. In the U.S., Private audit
 <p>Facing a strong primary challenger and the fallout from the “Beetlejuice” scandal, Ms. Boebert is turning to a more conservative district in hopes of victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Haley, Asked About the Cause of the Civil War, Avoids Mentioning Slavery</h3>
-<sub>By Jazmine Ulloa</sub>
-<p>A pointed question, at a town hall in New Hampshire, raises a complicated topic for Nikki Haley, who as governor of South Carolina wrestled with issues stemming from the Confederacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>In a Song of the Summer, Clues for January in Iowa</h3>
+<sub>By Astead W. Herndon and Caitlin O’Keefe</sub>
+<p>Jason Aldean’s single “Try That in a Small Town” stirred up political controversy, and climbed the charts. We talked to Aldean fans about what they heard in the song.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Simpleton? Genius? Who was Tom Smothers?</h3>
+<sub>By Nell Scovell</sub>
+<p>He was close with John Lennon, and had a sophisticated understanding of wine, politics and literature. He only played the bumpkin onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
