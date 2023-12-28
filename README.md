@@ -60,37 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 27, Central Standard Time</p>
 <p>
-To my close friend:
-Right now, there is a lot happening in the world. The Chinese spy agency is rising to challenge the CIA, and is using advanced technology as part of their efforts. In Israel, there is skepticism growing about the ability of the government to dismantle Hamas after a particularly brutal attack in October. Ukraine has an issue with thousands of children being separated from their parents due to Russian authorities in the early stages of war. Additionally, India&#39;s foreign minister is in Moscow to reinforce economic and defense ties despite external pressure.
-
-On a lighter note, The New York Times is suing OpenAI and Microsoft for use of its copyrighted work for training chatbots. There are also some interesting stories about people collecting unexpected treasures or making a big life change and moving to an island! 
-Unfortunately, Mexico&#39;s president called for more U.S. support ahead of a meeting which comes as border crossings have reached record numbers and as a migrant caravan heads towards the U.S. Additionally, there were 3,500 migrant families in New York City receiving eviction notices last week which will affect children changing schools or facing long commutes to school.
-
-Finally, we lost beloved actor Lee Sun-kyun from &quot;Parasite,&quot; along with one half of the Smothers Brothers duo Tom Smothers who was a driving force behind their groundbreaking TV show. 
-It&#39;s been quite a week and definitely a lot going on in our world!</p>
+It looks like there&#39;s a lot of news happening right now. It seems like migration to the US has reached record numbers, and people from all over the world are trekking to the border, which is overwhelming officials. Secretary of State Anthony J. Blinken just met with Mexico&#39;s president regarding this issue, and at the same time, protests in support of Palestine have been blocking traffic at airports. In addition, The New York Times is suing OpenAI and Microsoft over A.I. use of copyrighted work, while the National Association of Realtors is facing antitrust lawsuits and sexual harassment allegations. Plus, former Wisconsin Senator and Milwaukee Bucks owner Herbert Kohl just passed away at 88.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘We Are Not Equipped to Deal With This.’ Migrant Surge Overwhelms U.S. Border</h3>
+<sub>By Natalie Kitroeff</sub>
+<p>Officials are struggling to contend with the chaos at the U.S.-Mexico border as thousands of migrants arrive every day, trekking from the farthest reaches of the globe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Chinese Spy Agency Rising to Challenge the C.I.A.</h3>
-<sub>By Edward Wong, Julian E. Barnes, Muyi Xiao and Chris Buckley</sub>
-<p>The ambitious Ministry of State Security is deploying A.I. and other advanced technology to go toe-to-toe with the United States, even as the two nations try to pilfer each other’s scientific secrets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Blinken Meets With Mexico’s President About Surge in Migration at the Border</h3>
+<sub>By Hamed Aleaziz and Emiliano Rodríguez Mega</sub>
+<p>Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers and as a migrant caravan heads toward the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Skepticism Grows Over Israel’s Ability to Dismantle Hamas</h3>
-<sub>By Neil MacFarquhar</sub>
-<p>Israel has vowed time and again to eliminate the group responsible for the brutal Oct. 7 attack, but critics increasingly see that goal as unrealistic or even impossible.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>In Bid to Slow Migrant Surge, Adams Restricts Bus Arrivals Into New York</h3>
+<sub>By Jeffery C. Mays and Dana Rubinstein</sub>
+<p>In an executive order, Mayor Eric Adams required bus companies to provide advance notice of trips or face criminal charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine’s Stolen Children</h3>
-<sub>By Carlotta Gall, Oleksandr Chubko, Cora Engelbrecht and Daniel Berehulak</sub>
-<p>Thousands of young Ukrainians were separated from their parents by the Russian authorities in the early stages of the war. They are among the most forlorn victims of the invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 26, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>Images of Watermelons Signal Support for Palestinians</h3>
+<sub>By Callie Holtermann</sub>
+<p>The fruit has taken on new prominence since the beginning of the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Indian Envoy Hails Relationship With Russia, Bypassing Western Pressure</h3>
-<sub>By Sameer Yasir</sub>
-<p>India’s foreign minister is on a five-day diplomatic trip to Moscow to reinforce economic and defense ties.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Pro-Palestinian Protests Block Traffic at New York and L.A. Airports</h3>
+<sub>By Erin Nolan and Jill Cowan</sub>
+<p>Dozens of demonstrators were arrested after blocking roadways outside Kennedy and Los Angeles International Airports on a busy holiday travel day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -99,28 +98,10 @@ It&#39;s been quite a week and definitely a lot going on in our world!</p>
 <p>Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Very Personal Collections That 7 Artists Left Behind</h3>
-<sub>Photographs by Richard Barnes</sub>
-<p>Pee-wee Herman’s toys, Robert Gottlieb’s plastic handbags and other unexpected treasures.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 22, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Mexico’s President Calls for More U.S. Support Ahead of Meeting With Blinken</h3>
-<sub>By Hamed Aleaziz and Emiliano Rodríguez Mega</sub>
-<p>Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers and as a migrant caravan heads toward the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Shelter Evictions Will Damage Migrant Children, Schools Warn</h3>
-<sub>By Troy Closson and Liset Cruz</sub>
-<p>About 3,500 migrant families in New York City shelters have received eviction notices. Children will have to change schools or face long commutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Lee Sun-kyun, ‘Parasite’ Actor, Found Dead at 48</h3>
-<sub>By John Yoon</sub>
-<p>Mr. Lee, a familiar face on Korean television and movie screens, rose to international fame after starring in the Oscar-winning film.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
+<sub>By William Grimes</sub>
+<p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-realestate-blue" alt="">
@@ -135,10 +116,22 @@ It&#39;s been quite a week and definitely a lot going on in our world!</p>
 <p>Readers were impressed with the audacity of Charlotte Gale, a massage therapist from New Jersey, who bought a small island in Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
-<sub>By William Grimes</sub>
-<p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>JN.1 Now Accounts for Nearly Half of U.S. Covid Cases</h3>
+<sub>By Knvul Sheikh</sub>
+<p>Here’s what to know about the coronavirus variant, which was first detected in the United States in September.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-realestate-blue" alt="">
+<h3>Powerful Realtors Group Loses Its Grip on the Industry</h3>
+<sub>By Debra Kamin</sub>
+<p>The National Association of Realtors is facing antitrust lawsuits and sexual harassment allegations, and real estate agents are now looking for alternatives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Herbert Kohl, Former Wisconsin Senator and Milwaukee Bucks Owner, Dies at 88</h3>
+<sub>By Robert D. McFadden</sub>
+<p>A member of the family that founded Kohl’s department stores, he guarded federal budgets as a U.S. senator while spending lavishly to revive the N.B.A. team he owned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
