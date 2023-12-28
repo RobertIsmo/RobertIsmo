@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-There&#39;s a surge of migrants arriving at the US-Mexico border every day. The US Secretary of State, Tony Blinken, recently met with Mexico&#39;s President to discuss this. In New York, there&#39;s been an effort to slow this mass influx by introducing restrictions on bus arrivals. Meanwhile, Israel has warned that time is running out for diplomacy with Lebanon after a spate of rockets fired from Iranian-backed forces. There have also been demonstrations in New York and LA airports in solidarity with Palestinians over the increased conflict in Israel and Gaza. On the domestic front, Republicans are fighting hard to keep Donald Trump on the ballot in Colorado and Michigan, while further west, far-right firebrand Lauren Boebert is looking to switch districts in an attempt to secure victory. In tech news, The New York Times are suing OpenAI and Microsoft over AI using copyrighted work. Finally, a worrying new development is the emergence of JN.1 - a Covid Variants - which now accounts for nearly half of all U.S cases.</p>
+There is chaos at the border of the U.S. and Mexico because of a surge of migrants who are arriving daily from around the world, and Secretary of State Blinken met with the president of Mexico to discuss this issue. In response to slowing the migrant surge, New York City Mayor Eric Adams implemented an executive order requiring bus companies to provide advanced notice of trip arrivals or face criminal charges. There&#39;s ongoing support for Palestinians represented by watermelons, and pro-Palestinian protests have blocked traffic at airports in New York and Los Angeles. The Republican Party in Colorado has asked the Supreme Court to keep Donald Trump on the ballot, and the Michigan Supreme Court has decided that Trump can stay on the ballot. Also in Colorado, far-right Representative Lauren Boebert is switching districts in order to win re-election. Additionally, Nikki Haley was asked about the cause of the Civil War but avoided mentioning slavery in her response. The New York Times is suing two major tech companies--OpenAI and Microsoft--for using its articles without permission to train chatbots that compete with it. The latest major coronavirus variant--called JN.1--now accounts for nearly half of all Covid cases in the U.S., and lastly comedian Tom Smothers from the Smothers Brothers duo passed away at 86 years old.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Are Not Equipped to Deal With This’: Migrant Surge Overwhelms U.S. Border</h3>
@@ -78,12 +78,6 @@ There&#39;s a surge of migrants arriving at the US-Mexico border every day. The 
 <h3>In Bid to Slow Migrant Surge, Adams Restricts Bus Arrivals Into New York</h3>
 <sub>By Jeffery C. Mays and Dana Rubinstein</sub>
 <p>In an executive order, Mayor Eric Adams required bus companies to provide advance notice of trips or face criminal charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Warns That Time for Diplomacy With Lebanon Is ‘Running Out’</h3>
-<sub>By Nadav Gavrielov and Thomas Fuller</sub>
-<p>As rockets from Iranian-backed Hezbollah forces streamed in from Lebanon, Israeli officials said they were prepared to take the war to a second front.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
@@ -132,6 +126,12 @@ There&#39;s a surge of migrants arriving at the US-Mexico border every day. The 
 <h3>JN.1 Now Accounts for Nearly Half of U.S. Covid Cases</h3>
 <sub>By Knvul Sheikh</sub>
 <p>Here’s what to know about the coronavirus variant, which was first detected in the United States in September.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
+<sub>By William Grimes</sub>
+<p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
