@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, December 27, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of news happening right now. It seems like migration to the US has reached record numbers, and people from all over the world are trekking to the border, which is overwhelming officials. Secretary of State Anthony J. Blinken just met with Mexico&#39;s president regarding this issue, and at the same time, protests in support of Palestine have been blocking traffic at airports. In addition, The New York Times is suing OpenAI and Microsoft over A.I. use of copyrighted work, while the National Association of Realtors is facing antitrust lawsuits and sexual harassment allegations. Plus, former Wisconsin Senator and Milwaukee Bucks owner Herbert Kohl just passed away at 88.</p>
+There is a lot of chaotic news happening around the world right now. Secretary of State Antony J. Blinken held a meeting with President Andrés Manuel López Obrador to discuss a surge in migration at the U.S.-Mexico border, with thousands of migrants arriving every day. In Israel, officials have warned that diplomacy with Lebanon is running out as rockets from Iranian-backed Hezbollah forces keep streaming in. Additionally, images of watermelons are being used to signal support for Palestinians due to fighting between Israel and Hamas, and there have been pro-Palestinian protests blocking traffic outside of airports in New York and LA. Other political news includes the Michigan Supreme Court&#39;s decision to let Trump stay on the ballot, and the Colorado Republican Party asking for him to stay on the ballot, too. Trump has been increasingly using social media to make scathing attacks, while companies like MSNBC, NPR, Vox Media, and The Atlanta Journal-Constitution have started true crime podcasts about him. Lastly, The New York Times has sued OpenAI and Microsoft for using its articles to train chatbots that compete with it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Are Not Equipped to Deal With This.’ Migrant Surge Overwhelms U.S. Border</h3>
@@ -80,6 +80,12 @@ It looks like there&#39;s a lot of news happening right now. It seems like migra
 <p>In an executive order, Mayor Eric Adams required bus companies to provide advance notice of trips or face criminal charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Warns That Time for Diplomacy With Lebanon Is ‘Running Out’</h3>
+<sub>By Nadav Gavrielov and Thomas Fuller</sub>
+<p>As rockets from Iranian-backed Hezbollah forces streamed in from Lebanon, Israeli officials said they were prepared to take the war to a second front.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>Images of Watermelons Signal Support for Palestinians</h3>
 <sub>By Callie Holtermann</sub>
@@ -92,6 +98,30 @@ It looks like there&#39;s a lot of news happening right now. It seems like migra
 <p>Dozens of demonstrators were arrested after blocking roadways outside Kennedy and Los Angeles International Airports on a busy holiday travel day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Supreme Court Decides Trump Can Stay on Ballot</h3>
+<sub>By Julie Bosman, Ernesto Londoño and Nicholas Bogel-Burroughs</sub>
+<p>After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Colorado Republican Party Says It Asked Supreme Court to Keep Trump on Ballot</h3>
+<sub>By Adam Liptak</sub>
+<p>The party’s petition urged the justices to review a ruling from the Colorado Supreme Court, which said the former president had engaged in insurrection and is ineligible to hold office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Assails Congresswoman in His Latest Escalation on Social Media</h3>
+<sub>By Neil Vigdor</sub>
+<p>The former president, who has stepped up his incendiary language on Truth Social, attacked Representative Debbie Dingell, the widow of John D. Dingell Jr.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>True-Crime Podcasts About Trump Are Everywhere</h3>
+<sub>By Benjamin Mullin</sub>
+<p>MSNBC, NPR, Vox Media and The Atlanta Journal-Constitution are all aiming to capitalize on interest in the criminal cases against President Donald J. Trump with the shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work</h3>
 <sub>By Michael M. Grynbaum and Ryan Mac</sub>
@@ -102,36 +132,6 @@ It looks like there&#39;s a lot of news happening right now. It seems like migra
 <h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
 <sub>By William Grimes</sub>
 <p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>A Tiny Cabin, a Little Island and a Big Change: ‘Am I Crazy?’</h3>
-<sub>By Steven Kurutz</sub>
-<p>A New Jersey woman now lives alone part of the year on a remote island in Maine that Stephen King called ‘a novel here, just waiting to be written.’  <a href="https://nyti.ms/43FQsOF"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, July 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>She’s Still in Love With Her Little Island</h3>
-<sub>By Steven Kurutz</sub>
-<p>Readers were impressed with the audacity of Charlotte Gale, a massage therapist from New Jersey, who bought a small island in Maine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>JN.1 Now Accounts for Nearly Half of U.S. Covid Cases</h3>
-<sub>By Knvul Sheikh</sub>
-<p>Here’s what to know about the coronavirus variant, which was first detected in the United States in September.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-realestate-blue" alt="">
-<h3>Powerful Realtors Group Loses Its Grip on the Industry</h3>
-<sub>By Debra Kamin</sub>
-<p>The National Association of Realtors is facing antitrust lawsuits and sexual harassment allegations, and real estate agents are now looking for alternatives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Herbert Kohl, Former Wisconsin Senator and Milwaukee Bucks Owner, Dies at 88</h3>
-<sub>By Robert D. McFadden</sub>
-<p>A member of the family that founded Kohl’s department stores, he guarded federal budgets as a U.S. senator while spending lavishly to revive the N.B.A. team he owned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
