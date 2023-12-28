@@ -58,12 +58,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, December 27, Central Standard Time</p>
+<p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-There is a lot of chaotic news happening around the world right now. Secretary of State Antony J. Blinken held a meeting with President Andrés Manuel López Obrador to discuss a surge in migration at the U.S.-Mexico border, with thousands of migrants arriving every day. In Israel, officials have warned that diplomacy with Lebanon is running out as rockets from Iranian-backed Hezbollah forces keep streaming in. Additionally, images of watermelons are being used to signal support for Palestinians due to fighting between Israel and Hamas, and there have been pro-Palestinian protests blocking traffic outside of airports in New York and LA. Other political news includes the Michigan Supreme Court&#39;s decision to let Trump stay on the ballot, and the Colorado Republican Party asking for him to stay on the ballot, too. Trump has been increasingly using social media to make scathing attacks, while companies like MSNBC, NPR, Vox Media, and The Atlanta Journal-Constitution have started true crime podcasts about him. Lastly, The New York Times has sued OpenAI and Microsoft for using its articles to train chatbots that compete with it.</p>
+There&#39;s a surge of migrants arriving at the US-Mexico border every day. The US Secretary of State, Tony Blinken, recently met with Mexico&#39;s President to discuss this. In New York, there&#39;s been an effort to slow this mass influx by introducing restrictions on bus arrivals. Meanwhile, Israel has warned that time is running out for diplomacy with Lebanon after a spate of rockets fired from Iranian-backed forces. There have also been demonstrations in New York and LA airports in solidarity with Palestinians over the increased conflict in Israel and Gaza. On the domestic front, Republicans are fighting hard to keep Donald Trump on the ballot in Colorado and Michigan, while further west, far-right firebrand Lauren Boebert is looking to switch districts in an attempt to secure victory. In tech news, The New York Times are suing OpenAI and Microsoft over AI using copyrighted work. Finally, a worrying new development is the emergence of JN.1 - a Covid Variants - which now accounts for nearly half of all U.S cases.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘We Are Not Equipped to Deal With This.’ Migrant Surge Overwhelms U.S. Border</h3>
+<h3>‘We Are Not Equipped to Deal With This’: Migrant Surge Overwhelms U.S. Border</h3>
 <sub>By Natalie Kitroeff</sub>
 <p>Officials are struggling to contend with the chaos at the U.S.-Mexico border as thousands of migrants arrive every day, trekking from the farthest reaches of the globe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
@@ -99,27 +99,27 @@ There is a lot of chaotic news happening around the world right now. Secretary o
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Supreme Court Decides Trump Can Stay on Ballot</h3>
-<sub>By Julie Bosman, Ernesto Londoño and Nicholas Bogel-Burroughs</sub>
-<p>After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Colorado Republican Party Says It Asked Supreme Court to Keep Trump on Ballot</h3>
 <sub>By Adam Liptak</sub>
 <p>The party’s petition urged the justices to review a ruling from the Colorado Supreme Court, which said the former president had engaged in insurrection and is ineligible to hold office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Assails Congresswoman in His Latest Escalation on Social Media</h3>
-<sub>By Neil Vigdor</sub>
-<p>The former president, who has stepped up his incendiary language on Truth Social, attacked Representative Debbie Dingell, the widow of John D. Dingell Jr.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Michigan Supreme Court Decides Trump Can Stay on Ballot</h3>
+<sub>By Julie Bosman, Ernesto Londoño and Nicholas Bogel-Burroughs</sub>
+<p>After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>True-Crime Podcasts About Trump Are Everywhere</h3>
-<sub>By Benjamin Mullin</sub>
-<p>MSNBC, NPR, Vox Media and The Atlanta Journal-Constitution are all aiming to capitalize on interest in the criminal cases against President Donald J. Trump with the shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Lauren Boebert, Far-Right Firebrand, Is Switching House Districts in Colorado</h3>
+<sub>By Chris Cameron</sub>
+<p>Facing a strong primary challenger and the fallout from the “Beetlejuice” scandal, Ms. Boebert is turning to a more conservative district in hopes of victory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Haley, Asked About the Cause of the Civil War, Avoids Mentioning Slavery</h3>
+<sub>By Jazmine Ulloa</sub>
+<p>A pointed question, at a town hall in New Hampshire, raises a complicated topic for Nikki Haley, who as governor of South Carolina wrestled with issues stemming from the Confederacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,10 +128,10 @@ There is a lot of chaotic news happening around the world right now. Secretary o
 <p>Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
-<sub>By William Grimes</sub>
-<p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>JN.1 Now Accounts for Nearly Half of U.S. Covid Cases</h3>
+<sub>By Knvul Sheikh</sub>
+<p>Here’s what to know about the coronavirus variant, which was first detected in the United States in September.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
