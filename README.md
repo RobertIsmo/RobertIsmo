@@ -60,18 +60,30 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-There is chaos at the border of the U.S. and Mexico because of a surge of migrants who are arriving daily from around the world, and Secretary of State Blinken met with the president of Mexico to discuss this issue. In response to slowing the migrant surge, New York City Mayor Eric Adams implemented an executive order requiring bus companies to provide advanced notice of trip arrivals or face criminal charges. There&#39;s ongoing support for Palestinians represented by watermelons, and pro-Palestinian protests have blocked traffic at airports in New York and Los Angeles. The Republican Party in Colorado has asked the Supreme Court to keep Donald Trump on the ballot, and the Michigan Supreme Court has decided that Trump can stay on the ballot. Also in Colorado, far-right Representative Lauren Boebert is switching districts in order to win re-election. Additionally, Nikki Haley was asked about the cause of the Civil War but avoided mentioning slavery in her response. The New York Times is suing two major tech companies--OpenAI and Microsoft--for using its articles without permission to train chatbots that compete with it. The latest major coronavirus variant--called JN.1--now accounts for nearly half of all Covid cases in the U.S., and lastly comedian Tom Smothers from the Smothers Brothers duo passed away at 86 years old.</p>
+There is a lot going on around the world. There&#39;s a conflict raging in Israel and Gaza, with Maps tracking the advances of the Israeli military. Meanwhile, in the US, there is an $80 Billion industry that is struggling to prevent Child Workers from being employed. There is also a huge surge of migrants along the US-Mexico border. In New York, Mayor Eric Adams is attempting to slow the migrant surge by requiring bus companies to give advance notice before trips. On a different note, Columbia University&#39;s President has avoided some of the fallout over Israel-Hamas protests. AI now has the ability to create art, but it raises ethical questions about where the power lies in creativity. In Ukraine, millions are fleeing due to war while some expatriates are determined to stay. In Mississippi there are allegations of jailhouse rape and Sheriff corruption and no one to investigate them. Lastly, US Representative Lauren Boebert just switched House Districts in Colorado and Nikki Haley was recently asked about the cause of Civil War, but she failed to mention slavery.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Maps: Tracking the Attacks in Israel and Gaza</h3>
+<sub>By Lauren Leatherby, Karen Yourish, Elena Shao, Eli Murray, Scott Reinhard, Josh Holder, Agnes Chang, Eleanor Lutz, Weiyi Cai, Pablo Robles, Leanne Abraham, Zach Levitt, Tim Wallace, Yousur Al-Hlou, Aric Toler, Ishaan Jhaveri, Robin Stein, Ashley Wu, Riley Mellen, John Ismay, Hiba Yazbek, Christoph Koettl, Molly Cook Escobar, Charlie Smart, Patrick Kingsley, Ronen Bergman, Amy Schoenfeld Walker, Bora Erden and Jon Huang</sub>
+<p>See where the Israeli military advanced along a new front into central Gaza.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, October 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>An $80 Billion Industry Looks for Child Workers. It Keeps Missing Them.</h3>
+<sub>By Hannah Dreier</sub>
+<p>Private audits have failed to detect migrant children working for U.S. suppliers of Oreos, Gerber baby snacks, McDonald’s milk and an array of other products.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Where Migrant Children Are Living, and Often Working, in the U.S.</h3>
+<sub>By Eli Murray, Hannah Dreier and K.K. Rebecca Lai</sub>
+<p>Data shows where a record number of unaccompanied children traveling to the U.S. from Central America and other countries have ended up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘We Are Not Equipped to Deal With This’: Migrant Surge Overwhelms U.S. Border</h3>
 <sub>By Natalie Kitroeff</sub>
 <p>Officials are struggling to contend with the chaos at the U.S.-Mexico border as thousands of migrants arrive every day, trekking from the farthest reaches of the globe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blinken Meets With Mexico’s President About Surge in Migration at the Border</h3>
-<sub>By Hamed Aleaziz and Emiliano Rodríguez Mega</sub>
-<p>Secretary of State Antony J. Blinken’s meeting with President Andrés Manuel López Obrador comes as border crossings have reached record numbers and as a migrant caravan heads toward the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -80,29 +92,35 @@ There is chaos at the border of the U.S. and Mexico because of a surge of migran
 <p>In an executive order, Mayor Eric Adams required bus companies to provide advance notice of trips or face criminal charges.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>Images of Watermelons Signal Support for Palestinians</h3>
-<sub>By Callie Holtermann</sub>
-<p>The fruit has taken on new prominence since the beginning of the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Pro-Palestinian Protests Block Traffic at New York and L.A. Airports</h3>
-<sub>By Erin Nolan and Jill Cowan</sub>
-<p>Dozens of demonstrators were arrested after blocking roadways outside Kennedy and Los Angeles International Airports on a busy holiday travel day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Columbia’s President Has Avoided Fallout Over Israel-Hamas Protests</h3>
+<sub>By Sharon Otterman</sub>
+<p>Protests over the Israel-Hamas war roiled Columbia’s campus for weeks. Then, the campus and its president receded from attention — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A.I. Can Make Art That Feels Human. Whose Fault Is That?</h3>
+<sub>By Jason Farago</sub>
+<p>A fake Drake&#x2F;Weeknd mash-up is not a threat to our species’s culture. It’s a warning: We can’t let our imaginations shrink to machine size.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>‘Sing in Me, Chatbot …’</h3>
+<sub>By A.O. Scott</sub>
+<p>What happens to literature when writers embrace A.I. as their muse?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Colorado Republican Party Says It Asked Supreme Court to Keep Trump on Ballot</h3>
-<sub>By Adam Liptak</sub>
-<p>The party’s petition urged the justices to review a ruling from the Colorado Supreme Court, which said the former president had engaged in insurrection and is ineligible to hold office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Foreigners Who Made Ukraine Home Stay Put, Despite War</h3>
+<sub>By Megan Specia and Laura Boushnak</sub>
+<p>As millions fled, some expatriates made the unlikely decision to remain in Ukraine, among them students determined to finish their education and others who now consider it home.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Supreme Court Decides Trump Can Stay on Ballot</h3>
-<sub>By Julie Bosman, Ernesto Londoño and Nicholas Bogel-Burroughs</sub>
-<p>After Colorado’s top court ruled that the former president was disqualified for engaging in insurrection, justices in Michigan considered a similar challenge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
+<h3>Who Investigates the Sheriff? In Mississippi, Often No One.</h3>
+<sub>By Ilyssa Daly, Jerry Mitchell, Rachel Axon and Rory Doyle for The New York Times</sub>
+<p>The state ignored or was unaware of allegations of jailhouse rape, brutal beatings and corrupt acts by sheriffs and their deputies, even when there was ample evidence to examine.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Lauren Boebert, Far-Right Firebrand, Is Switching House Districts in Colorado</h3>
@@ -114,24 +132,6 @@ There is chaos at the border of the U.S. and Mexico because of a surge of migran
 <h3>Haley, Asked About the Cause of the Civil War, Avoids Mentioning Slavery</h3>
 <sub>By Jazmine Ulloa</sub>
 <p>A pointed question, at a town hall in New Hampshire, raises a complicated topic for Nikki Haley, who as governor of South Carolina wrestled with issues stemming from the Confederacy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work</h3>
-<sub>By Michael M. Grynbaum and Ryan Mac</sub>
-<p>Millions of articles from The New York Times were used to train chatbots that now compete with it, the lawsuit said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>JN.1 Now Accounts for Nearly Half of U.S. Covid Cases</h3>
-<sub>By Knvul Sheikh</sub>
-<p>Here’s what to know about the coronavirus variant, which was first detected in the United States in September.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tom Smothers, Comic Half of the Smothers Brothers, Dies at 86</h3>
-<sub>By William Grimes</sub>
-<p>Though he played a naïve buffoon onstage, he was the driving force behind the folk-singing duo’s groundbreaking TV show.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 </ol>
