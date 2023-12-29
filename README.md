@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-There is serious conflict between Israel and Hamas in the Middle East, as well as tensions growing with Hezbollah. Stateside, there have been debates about Nikki Haley’s remarks on the Civil War and the push to find out more about President Trump’s ballot eligibility before Super Tuesday. Political issues are also affecting Iowa Republicans, with young voters increasingly concerned with new ideas. Additionally, cases of child labor in the US are proving difficult to uncover and uncovering locations where unaccompanied migrant children are staying. Lastly, there is the story of Stephanie Courtney, an actor who recently became a household name playing Flo from Progressive commercials. Finally, actress Milana Vayntrub has been receiving leering internet trolls since her campaigns dropped online.</p>
+There&#39;s a lot happening in the world right now. In the US, the Maine secretary of state just found President Donald Trump ineligible to appear on the ballot for the primary election. The Supreme Court has been urged to make a fast ruling regarding Trump&#39;s ballot eligibility, and a federal judge in Georgia approved new voting maps. Meanwhile, the Justice Dept. is threatening Texas with a lawsuit over their migrant arrest law, while private auditors are failing to detect child labor in US companies. On an international level, there was a Times investigation that uncovered a pattern of sexual violence against women during Hamas&#39; attack on Israel last October. Finally, an American-Israeli family is reporting that one of its members was killed in those attacks.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
+<sub>By Jenna Russell and Ernesto Londoño</sub>
+<p>In a written decision, Maine’s secretary of state said that Donald J. Trump did not qualify for the ballot because of his role in the Jan. 6 attack on the U.S. Capitol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What Is the 14th Amendment, and What Does It Say?</h3>
+<sub>By Maggie Astor</sub>
+<p>The amendment’s Section 3 says that acts of insurrection can disqualify someone from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court Urged to Move Fast on Trump’s Ballot Eligibility</h3>
+<sub>By Adam Liptak</sub>
+<p>The Colorado Republican Party asked the justices to decide its appeal by Super Tuesday. The voters who won in the Colorado Supreme Court want to move even faster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
 <sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
@@ -69,27 +87,21 @@ There is serious conflict between Israel and Hamas in the Middle East, as well a
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The strikes hit sites adjacent to ‘Hamas operatives,’ the military said.</h3>
-<sub>By Isabel Kershner</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israeli-American Thought to Be a Hostage Was Killed on Oct. 7, Her Family Says</h3>
+<sub>By Anushka Patil</sub>
+<p>The bodies of Judih Weinstein Haggai and her husband, Gadi Haggai, are still held by Hamas, their family said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A war cabinet member warns that Israel could open a new front against Hezbollah.</h3>
-<sub>By Johnatan Reiss, Nadav Gavrielov and Thomas Fuller</sub>
+<h3>A report of a leaked judicial draft threatens Israel’s wartime unity.</h3>
+<sub>By Aaron Boxerman</sub>
 <p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Nikki Haley’s Civil War Uproar Risks Eroding a Moderate Coalition</h3>
-<sub>By Jonathan Weisman and Jazmine Ulloa</sub>
-<p>Ms. Haley’s avoidance of mentioning slavery as a cause of the conflict, which she walked back on Thursday, threatened to dent her crossover appeal to independents and moderate Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Both Sides Urge Supreme Court to Move Fast on Trump’s Ballot Eligibility</h3>
-<sub>By Adam Liptak</sub>
-<p>The Colorado Republican Party asked the justices to decide its appeal by Super Tuesday. The voters who won in the Colorado Supreme Court want to move even faster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>When Haley Dodged the Slavery Question, She Put Her Coalition at Risk</h3>
+<sub>By Jonathan Weisman and Jazmine Ulloa</sub>
+<p>Nikki Haley’s avoidance of mentioning slavery as a cause of the conflict, which she walked back on Thursday, threatened to dent her crossover appeal to independents and moderate Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,10 +116,10 @@ There is serious conflict between Israel and Hamas in the Middle East, as well a
 <p>The judge found that the Georgia legislature had complied with orders to allow Black voters an equal opportunity to elect representatives of their choice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Columbia’s President Has Avoided Fallout Over Israel-Gaza Protests</h3>
-<sub>By Sharon Otterman</sub>
-<p>Protests over the Israel-Hamas war roiled Columbia’s campus for weeks. Then, the campus and its president receded from attention — for now.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Justice Dept. Threatens to Sue Texas Over Migrant Arrest Law</h3>
+<sub>By Edgar Sandoval and Hamed Aleaziz</sub>
+<p>In a letter addressed to Texas’ governor and attorney general, a D.O.J. official wrote that the federal government had sole authority over immigration enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,23 +128,11 @@ There is serious conflict between Israel and Hamas in the Middle East, as well a
 <p>Private auditors have failed to detect migrant children working for U.S. suppliers of Oreos, Gerber baby snacks, McDonald’s milk and many other products.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Where Migrant Children Are Living, and Often Working, in the U.S.</h3>
-<sub>By Eli Murray, Hannah Dreier and K.K. Rebecca Lai</sub>
-<p>Data shows where a record number of unaccompanied children traveling to the U.S. from Central America and other countries have ended up.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Everybody Knows Flo From Progressive. Who Is Stephanie Courtney?</h3>
 <sub>By Caity Weaver</sub>
 <p>A polo shirt, a white apron and a retro hairdo changed an actor’s life forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Being a Spokeswoman Attracts Leering Internet Trolls</h3>
-<sub>By Caity Weaver</sub>
-<p>When you lend your likeness to a nationwide ad campaign, things don’t always go perfectly. Just ask Milana Vayntrub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
