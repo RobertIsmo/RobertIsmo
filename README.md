@@ -60,12 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, December 28, Central Standard Time</p>
 <p>
-There&#39;s a lot happening in the world right now. In the US, the Maine secretary of state just found President Donald Trump ineligible to appear on the ballot for the primary election. The Supreme Court has been urged to make a fast ruling regarding Trump&#39;s ballot eligibility, and a federal judge in Georgia approved new voting maps. Meanwhile, the Justice Dept. is threatening Texas with a lawsuit over their migrant arrest law, while private auditors are failing to detect child labor in US companies. On an international level, there was a Times investigation that uncovered a pattern of sexual violence against women during Hamas&#39; attack on Israel last October. Finally, an American-Israeli family is reporting that one of its members was killed in those attacks.</p>
+There currently seems to be a lot of news about politics in the US. Maine has joined Colorado in determining that Donald Trump is ineligible to appear on the primary ballot. The US Supreme Court has been asked to make a decision on Trump&#39;s eligibility by Super Tuesday. Over in Israel, an investigation has revealed acts of sexual violence committed by Hamas, and Israel has expressed regret for civilian casualties due a recent airstrike. Additionally, a young Israeli-American woman is thought to have been killed on October 7th by Hamas, although her body has not yet been recovered. 
+In the US, Nikki Haley&#39;s avoidance of mentioning slavery as a cause of the conflict has put tension on the coalition she was building between independents and moderate Democrats. Furthermore, young Iowa Republicans are raising their voices in an effort to get their party to really listen. Meanwhile, a federal judge has approved Georgia&#39;s new voting maps and the Justice Department is threatening to sue Texas over a law that will allow for more migrant arrests.
+
+Lastly, there&#39;s an article about Stephanie Courtney who is better known as &quot;Flo&quot; from Progressive insurance ads. There’s also an article about how Milana Vayntrub, one of Progressive’s spokeswomen, began receiving leering internet trolls after gaining fame from her ad campaigns.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
 <sub>By Jenna Russell and Ernesto Londoño</sub>
-<p>In a written decision, Maine’s secretary of state said that Donald J. Trump did not qualify for the ballot because of his role in the Jan. 6 attack on the U.S. Capitol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In a written decision, Maine’s secretary of state said that Donald J. Trump did not qualify for the ballot because of his role in the Jan. 6, 2021, attack on the U.S. Capitol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -87,15 +90,15 @@ There&#39;s a lot happening in the world right now. In the US, the Maine secreta
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli-American Thought to Be a Hostage Was Killed on Oct. 7, Her Family Says</h3>
-<sub>By Anushka Patil</sub>
-<p>The bodies of Judih Weinstein Haggai and her husband, Gadi Haggai, are still held by Hamas, their family said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Expresses Regret for ‘Unintended Harm’ to Civilians in Gaza Airstrike</h3>
+<sub>By Aaron Boxerman, Isabel Kershner and Thomas Fuller</sub>
+<p>The Israeli military said it was “working to draw lessons” from an attack in central Gaza that was reported to have killed dozens of people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A report of a leaked judicial draft threatens Israel’s wartime unity.</h3>
-<sub>By Aaron Boxerman</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israeli-American Thought to Be a Hostage Was Killed on Oct. 7, Her Family Says</h3>
+<sub>By Anushka Patil</sub>
+<p>The bodies of Judih Weinstein Haggai and her husband, Gadi Haggai, are still held by Hamas, their family said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -122,17 +125,17 @@ There&#39;s a lot happening in the world right now. In the US, the Maine secreta
 <p>In a letter addressed to Texas’ governor and attorney general, a D.O.J. official wrote that the federal government had sole authority over immigration enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>They’re Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?</h3>
-<sub>By Hannah Dreier</sub>
-<p>Private auditors have failed to detect migrant children working for U.S. suppliers of Oreos, Gerber baby snacks, McDonald’s milk and many other products.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
 <h3>Everybody Knows Flo From Progressive. Who Is Stephanie Courtney?</h3>
 <sub>By Caity Weaver</sub>
 <p>A polo shirt, a white apron and a retro hairdo changed an actor’s life forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>When Being a Spokeswoman Attracts Leering Internet Trolls</h3>
+<sub>By Caity Weaver</sub>
+<p>When you lend your likeness to a nationwide ad campaign, things don’t always go perfectly. Just ask Milana Vayntrub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
