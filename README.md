@@ -60,16 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-In the US, a huge debate is sparked by a decision made by Maine&#39;s secretary of state to make Donald Trump ineligible for the presidential primary ballot due to his role in the Jan. 6 attack on the US Capitol. As a result, there are now lawsuits pending in more than a dozen states seeking to have Trump disqualified from appearing on primary ballots. In response to this decision, some politicians - like Ron DeSantis and Vivek Ramaswamy- reacted negatively while others showed support. The 14th amendment is also under the spotlight as people discuss whether it can disqualify someone from office for acts of insurrection. 
-
-Meanwhile, in other parts of the world shocking details have been coming out about how Hamas weaponized sexual violence against women in its attack on Israel. The Israeli military however has expressed regret for unintended harm caused to civilians as a result of one airstrike in Gaza which is reported to have killed dozens of people. 
-
-Lastly, travel is looking uncertain with a number of cruise ships cancelling trips due to not having enough trip-worthy ships. Closer to home, weather phenomena like giant waves have been seen along California&#39;s coast while other places face snow shortages putting ski areas at risk of remaining closed.</p>
+There have been a lot of news developments lately. In the US, there is a battle to keep President Trump off primary ballots in upcoming elections, and his rivals are taking sides in the disagreement. In Russia, there has been an effort to silence dissent around the war, with thousands possibly facing punishment for speaking out. Meanwhile, in Gaza there was one of Israel’s deadliest attacks in recent years after Hamas targeted a senior leader, and they have also been accused of weaponizing sexual violence. On the lighter side, one British town is finding success with an integrated care center bringing doctors, physiotherapists, social workers and pharmacists together to better care for the elderly. Lastly, a couple sold everything to go on a three-year cruise but were disappointed when their dream never materialized due to lack of a ship.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
 <sub>By Jenna Russell, Ernesto Londoño and Shawn Hubler</sub>
-<p>In a written decision, Maine’s secretary of state said that Donald J. Trump did not qualify for the ballot because of his role in the Jan. 6, 2021, attack on the U.S. Capitol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Maine found Donald Trump ineligible to hold office because of his actions after the 2020 election. California said his name would remain on the ballot there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -85,10 +81,40 @@ Lastly, travel is looking uncertain with a number of cruise ships cancelling tri
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What Is the 14th Amendment, and What Does It Say?</h3>
-<sub>By Maggie Astor</sub>
-<p>The amendment’s Section 3 says that acts of insurrection can disqualify someone from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
+<h3>Trump Ruling in Colorado Will Test Conservative Approach to Law</h3>
+<sub>By Charlie Savage</sub>
+<p>Two doctrines favored by the conservative supermajority — textualism and originalism — could play a crucial role in any decision by the justices on whether to keep Donald Trump on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How the Russian Government Silences Wartime Dissent</h3>
+<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
+<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pounds Ukrainian Cities in One of the Largest Assaults in Months</h3>
+<sub>By Constant Méheut</sub>
+<p>The missile attacks killed at least 12 people and damaged infrastructure as part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How Rikers Island Became New York’s Largest Mental Institution</h3>
+<sub>By Jan Ransom, Amy Julia Harris and José A. Alvarado Jr.</sub>
+<p>A seemingly endless rotation between state forensic hospitals and city jails has meant that some mentally ill detainees stay in the system for years without ever standing trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Man Charged in Grand Central Stabbings Slashed Inmate, Officials Say</h3>
+<sub>By Claire Fahy and Chelsia Rose Marcius</sub>
+<p>Steven Hutcherson, who was charged in the stabbings of two teenage sisters on Christmas Day, slashed a detainee on Rikers Island three days later, the authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>What Happened in One of Israel’s Deadliest Attacks in Gaza</h3>
+<sub>By Anjali Singhvi, Bora Erden, Abu Bakr Bashir, Mika Gröndahl, Helmuth Rosales, Rumsey Taylor and Josh Williams</sub>
+<p>In this airstrike, Israel was targeting a senior Hamas leader. Dozens of people in a residential neighborhood were killed in the attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
@@ -96,22 +122,10 @@ Lastly, travel is looking uncertain with a number of cruise ships cancelling tri
 <p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Expresses Regret for ‘Unintended Harm’ to Civilians in Gaza Airstrike</h3>
-<sub>By Aaron Boxerman, Isabel Kershner and Thomas Fuller</sub>
-<p>The Israeli military said it was “working to draw lessons” from an attack in central Gaza that was reported to have killed dozens of people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Haley Dodged the Slavery Question, She Put Her Coalition at Risk</h3>
-<sub>By Jonathan Weisman and Jazmine Ulloa</sub>
-<p>Nikki Haley’s avoidance of mentioning slavery as a cause of the conflict, which she walked back on Thursday, threatened to dent her crossover appeal to independents and moderate Democrats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Young Iowa Republicans Raise Their Voices. Will Their Party Listen?</h3>
-<sub>By Kellen Browning and Anjali Huynh</sub>
-<p>G.O.P. presidential candidates have not aggressively courted Gen Z, even as young voters increasingly show an openness to new candidates and a concern for new ideas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
+<sub>By Ceylan Yeginsu</sub>
+<p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -119,24 +133,6 @@ Lastly, travel is looking uncertain with a number of cruise ships cancelling tri
 <sub>By Megan Specia</sub>
 <p>An “integrated care center” brings doctors, physiotherapists, social workers and pharmacists under one roof. It won’t solve Britain’s underlying social care crisis — but it could help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
-<sub>By Ceylan Yeginsu</sub>
-<p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Giant Waves Close Out California’s Remarkable Year of Weather Phenomena</h3>
-<sub>By Heather Knight and Sergio Olmos</sub>
-<p>Along the coast, residents on Thursday saw waves that topped 30 feet and flooded beachfront neighborhoods in some areas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Snow Shortages Are Plaguing the West’s Mountains</h3>
-<sub>By Mike Baker and Alisha Jucevic</sub>
-<p>Some ski areas remain closed. But an even greater concern amid a changing climate is whether enough snow will fall to meet water needs for the summer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
