@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-There have been a lot of news developments lately. In the US, there is a battle to keep President Trump off primary ballots in upcoming elections, and his rivals are taking sides in the disagreement. In Russia, there has been an effort to silence dissent around the war, with thousands possibly facing punishment for speaking out. Meanwhile, in Gaza there was one of Israel’s deadliest attacks in recent years after Hamas targeted a senior leader, and they have also been accused of weaponizing sexual violence. On the lighter side, one British town is finding success with an integrated care center bringing doctors, physiotherapists, social workers and pharmacists together to better care for the elderly. Lastly, a couple sold everything to go on a three-year cruise but were disappointed when their dream never materialized due to lack of a ship.</p>
+Recently, the US has been at the forefront of news, with Maine finding Donald Trump ineligible to run for office in the next election. California has said his name will remain on the ballot there, and lawsuits are pending in more than a dozen states aiming to disqualify him from appearing on primary ballots. Meanwhile, Russia has been cracking down on political dissent by making it illegal to discredit their army, and they recently sent an associate of Aleksei A. Navalny to prison for &#39;extremism.&#39; There have also been missile and drone attacks in Ukraine that have caused many casualties, as well as concern from other world leaders. On a lighter note, California is experimenting with taxing groundwater in an effort to save aquifers from dangerous decline. Overall it&#39;s been a tumultuous few weeks in world news!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
@@ -93,26 +93,26 @@ There have been a lot of news developments lately. In the US, there is a battle 
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pounds Ukrainian Cities in One of the Largest Assaults in Months</h3>
-<sub>By Constant Méheut</sub>
-<p>The missile attacks killed at least 12 people and damaged infrastructure as part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Russia Sends Navalny Associate to Prison for ‘Extremism’</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The nine-year sentence reflects how the Kremlin continues to crack down on Aleksei A. Navalny’s political movement years after his organization was banned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How Rikers Island Became New York’s Largest Mental Institution</h3>
-<sub>By Jan Ransom, Amy Julia Harris and José A. Alvarado Jr.</sub>
-<p>A seemingly endless rotation between state forensic hospitals and city jails has meant that some mentally ill detainees stay in the system for years without ever standing trial.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pounds Ukrainian Cities in One of Largest Air Attacks of the War</h3>
+<sub>By Constant Méheut and Daria Mitiuk</sub>
+<p>The missile and drone attacks killed at least 26 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Man Charged in Grand Central Stabbings Slashed Inmate, Officials Say</h3>
-<sub>By Claire Fahy and Chelsia Rose Marcius</sub>
-<p>Steven Hutcherson, who was charged in the stabbings of two teenage sisters on Christmas Day, slashed a detainee on Rikers Island three days later, the authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Strawberry Case Study: What If Farmers Had to Pay for Water?</h3>
+<sub>By Coral Davenport</sub>
+<p>With aquifers nationwide in dangerous decline, one part of California has tried essentially taxing groundwater. New research shows it’s working.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>What Happened in One of Israel’s Deadliest Attacks in Gaza</h3>
-<sub>By Anjali Singhvi, Bora Erden, Abu Bakr Bashir, Mika Gröndahl, Helmuth Rosales, Rumsey Taylor and Josh Williams</sub>
+<sub>By Anjali Singhvi, Bora Erden, Helmuth Rosales, Mika Gröndahl, Rumsey Taylor, Josh Williams and Abu Bakr Bashir</sub>
 <p>In this airstrike, Israel was targeting a senior Hamas leader. Dozens of people in a residential neighborhood were killed in the attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
@@ -122,17 +122,17 @@ There have been a lot of news developments lately. In the US, there is a battle 
 <p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Rise in Murders During the Pandemic, a Sharp Decline in 2023</h3>
+<sub>By Tim Arango and Campbell Robertson</sub>
+<p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
 <sub>By Ceylan Yeginsu</sub>
 <p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In a British Town, a New Way of Caring for Older People Is Bringing Hope</h3>
-<sub>By Megan Specia</sub>
-<p>An “integrated care center” brings doctors, physiotherapists, social workers and pharmacists under one roof. It won’t solve Britain’s underlying social care crisis — but it could help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
