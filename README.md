@@ -60,8 +60,26 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-Recently, the US has been at the forefront of news, with Maine finding Donald Trump ineligible to run for office in the next election. California has said his name will remain on the ballot there, and lawsuits are pending in more than a dozen states aiming to disqualify him from appearing on primary ballots. Meanwhile, Russia has been cracking down on political dissent by making it illegal to discredit their army, and they recently sent an associate of Aleksei A. Navalny to prison for &#39;extremism.&#39; There have also been missile and drone attacks in Ukraine that have caused many casualties, as well as concern from other world leaders. On a lighter note, California is experimenting with taxing groundwater in an effort to save aquifers from dangerous decline. Overall it&#39;s been a tumultuous few weeks in world news!</p>
+It&#39;s been a busy news week all over the world. In Russia, there have been air attacks on Ukrainian cities resulting in the death of at least 26 people and damage to industrial and military infrastructure. People are also being prosecuted for speaking out against the war in Russia. On top of that, an associate of prominent political activist Aleksei A. Navalny has been given a nine-year prison sentence for “extremism”. On the other side of the world, Donald Trump is facing lawsuits from multiple states looking to have him disqualified from future primary ballots, and his rivals are already coming to his defense. In Maine, he was found ineligible to hold office due to his actions after the 2020 election, while California is keeping him on their primary ballot. Over in Ohio, Governor Mike DeWine vetoed a bill banning transition care for minors which also prohibited transgender girls and women from sports teams corresponding with their gender identity - a rare move for a Republican governor. Meanwhile, strawberry farmers in California are being asked to pay for water as part of an effort to conserve aquifers. Finally, back in the Middle East there has been what is being described as one of Israel&#39;s deadliest attacks on Gaza yet, as well as reports of weaponized sexual violence by Hamas against women in Israel.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Pounds Ukrainian Cities in One of the Largest Air Attacks of the War</h3>
+<sub>By Constant Méheut and Daria Mitiuk</sub>
+<p>The missile and drone attacks killed at least 26 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How the Russian Government Silences Wartime Dissent</h3>
+<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
+<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Sends Navalny Associate to Prison for ‘Extremism’</h3>
+<sub>By Ivan Nechepurenko</sub>
+<p>The nine-year sentence reflects how the Kremlin continues to crack down on Aleksei A. Navalny’s political movement years after his organization was banned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
 <sub>By Jenna Russell, Ernesto Londoño and Shawn Hubler</sub>
@@ -86,22 +104,16 @@ Recently, the US has been at the forefront of news, with Maine finding Donald Tr
 <p>Two doctrines favored by the conservative supermajority — textualism and originalism — could play a crucial role in any decision by the justices on whether to keep Donald Trump on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the Russian Government Silences Wartime Dissent</h3>
-<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
-<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>After Rise in Murders During the Pandemic, a Sharp Decline in 2023</h3>
+<sub>By Tim Arango and Campbell Robertson</sub>
+<p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Sends Navalny Associate to Prison for ‘Extremism’</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The nine-year sentence reflects how the Kremlin continues to crack down on Aleksei A. Navalny’s political movement years after his organization was banned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pounds Ukrainian Cities in One of Largest Air Attacks of the War</h3>
-<sub>By Constant Méheut and Daria Mitiuk</sub>
-<p>The missile and drone attacks killed at least 26 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ohio Governor Blocks Bill Banning Transition Care for Minors</h3>
+<sub>By Amy Harmon</sub>
+<p>Gov. Mike DeWine’s veto of the bill, which also prohibited transgender girls and women from sports teams that correspond with their gender identity, is a rare move by a Republican governor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
@@ -120,18 +132,6 @@ Recently, the US has been at the forefront of news, with Maine finding Donald Tr
 <h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
 <sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
 <p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Rise in Murders During the Pandemic, a Sharp Decline in 2023</h3>
-<sub>By Tim Arango and Campbell Robertson</sub>
-<p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
-<sub>By Ceylan Yeginsu</sub>
-<p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
