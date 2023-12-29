@@ -60,12 +60,37 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week all over the world. In Russia, there have been air attacks on Ukrainian cities resulting in the death of at least 26 people and damage to industrial and military infrastructure. People are also being prosecuted for speaking out against the war in Russia. On top of that, an associate of prominent political activist Aleksei A. Navalny has been given a nine-year prison sentence for “extremism”. On the other side of the world, Donald Trump is facing lawsuits from multiple states looking to have him disqualified from future primary ballots, and his rivals are already coming to his defense. In Maine, he was found ineligible to hold office due to his actions after the 2020 election, while California is keeping him on their primary ballot. Over in Ohio, Governor Mike DeWine vetoed a bill banning transition care for minors which also prohibited transgender girls and women from sports teams corresponding with their gender identity - a rare move for a Republican governor. Meanwhile, strawberry farmers in California are being asked to pay for water as part of an effort to conserve aquifers. Finally, back in the Middle East there has been what is being described as one of Israel&#39;s deadliest attacks on Gaza yet, as well as reports of weaponized sexual violence by Hamas against women in Israel.</p>
+It looks like things are heating up all over the world. In the US, there are legal battles over whether or not Trump can run for President again in 2024 and there are efforts to keep him off the ballot in some states. In Maine, voters disagree on the state&#39;s decision to disqualify former President Donald J. Trump from the ballot. In addition, crime is decreasing and the Governor of Ohio vetoed a bill that would have banned transition care for minors and prevented transgender women from joining corresponding sports teams.
+
+The situation is even more dynamic internationally. Russia has been pounding Ukrainian cities with missiles and drones and silencing wartime dissent by making it illegal to discredit Russia&#39;s military operations overseas. In another act of aggression, they recently sent an associate of Aleksei Navalny, an activist opposing Putin&#39;s government, to prison for 9 years. In Israel, there was a deadly airstrike targeting a senior Hamas leader that killed dozens of civilians in a residential neighborhood.
+
+Finally, California is using innovative solutions to combat water shortages by taxing farmers for their groundwater use - a policy that seems to be improving things. On top of that, there&#39;s an interesting story about some people who sold everything they had to go on a 3-year cruise but were unable to get a suitable ship due to logistical issues. 
+
+
+Overall, it looks like things are in flux all around the globe!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How the Supreme Court May Rule on Trump’s Presidential Run</h3>
+<sub>By Adam Liptak</sub>
+<p>The legal issues are novel and tangled, experts said, and the justices may be wary of knocking a leading presidential candidate off the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Maine, Questions Over Decision to Push Trump Off the Ballot</h3>
+<sub>By Jenna Russell, Alicia Anstead and Sydney Cromwell</sub>
+<p>Some voters were alarmed at the state’s decision to disqualify former President Donald J. Trump. But others applauded it. “I like that Maine took a stand,” said one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About the Efforts to Remove Trump From the 2024 Ballot</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>There are lawsuits pending in more than a dozen states seeking to have Donald J. Trump disqualified from appearing on primary ballots.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Pounds Ukrainian Cities in One of the Largest Air Attacks of the War</h3>
 <sub>By Constant Méheut and Daria Mitiuk</sub>
-<p>The missile and drone attacks killed at least 26 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,30 +106,6 @@ It&#39;s been a busy news week all over the world. In Russia, there have been ai
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
-<sub>By Jenna Russell, Ernesto Londoño and Shawn Hubler</sub>
-<p>Maine found Donald Trump ineligible to hold office because of his actions after the 2020 election. California said his name would remain on the ballot there.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About the Efforts to Remove Trump From the 2024 Ballot</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>There are lawsuits pending in more than a dozen states seeking to have Donald J. Trump disqualified from appearing on primary ballots.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Rivals Criticize Maine Decision in His Defense</h3>
-<sub>By Chris Cameron</sub>
-<p>Ron DeSantis and Vivek Ramaswamy were quick to take swipes at the secretary of state’s ballot decision, while the state’s congressional delegation appeared split on the matter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ruling in Colorado Will Test Conservative Approach to Law</h3>
-<sub>By Charlie Savage</sub>
-<p>Two doctrines favored by the conservative supermajority — textualism and originalism — could play a crucial role in any decision by the justices on whether to keep Donald Trump on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 20, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>After Rise in Murders During the Pandemic, a Sharp Decline in 2023</h3>
 <sub>By Tim Arango and Campbell Robertson</sub>
 <p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -117,7 +118,7 @@ It&#39;s been a busy news week all over the world. In Russia, there have been ai
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Strawberry Case Study: What If Farmers Had to Pay for Water?</h3>
+<h3>Strawberry Case Study: What if Farmers Had to Pay for Water?</h3>
 <sub>By Coral Davenport</sub>
 <p>With aquifers nationwide in dangerous decline, one part of California has tried essentially taxing groundwater. New research shows it’s working.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
@@ -128,10 +129,16 @@ It&#39;s been a busy news week all over the world. In Russia, there have been ai
 <p>In this airstrike, Israel was targeting a senior Hamas leader. Dozens of people in a residential neighborhood were killed in the attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
-<sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
-<p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon’s New Plans to Reduce Civilian Deaths Leave Questions Over Israel</h3>
+<sub>By Azmat Khan and Eric Schmitt</sub>
+<p>The document codifies procedures for U.S. combat but does not address operations the United States supports through military aid alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
+<sub>By Ceylan Yeginsu</sub>
+<p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
