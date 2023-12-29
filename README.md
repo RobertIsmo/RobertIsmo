@@ -60,13 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-Right now in the US, there is a debate over whether or not Donald Trump should be allowed to remain on primary ballots for the 2024 election. Several states are in the process of suing to block him. Meanwhile, at the same time, there&#39;s an understanding that his role in the Jan. 6, 2021 attack on the US Capitol may make him ineligible. 
+In the US, a huge debate is sparked by a decision made by Maine&#39;s secretary of state to make Donald Trump ineligible for the presidential primary ballot due to his role in the Jan. 6 attack on the US Capitol. As a result, there are now lawsuits pending in more than a dozen states seeking to have Trump disqualified from appearing on primary ballots. In response to this decision, some politicians - like Ron DeSantis and Vivek Ramaswamy- reacted negatively while others showed support. The 14th amendment is also under the spotlight as people discuss whether it can disqualify someone from office for acts of insurrection. 
 
-Meanwhile in Israel and Palestine there has recently been tremendous violence. A Times investigation uncovered reports of rape, mutilation and extreme brutality against women during attacks by Hamas on Oct. 7, while Israel expressed regret for &quot;unintended harm&quot; it caused during an airstrike in central Gaza that reportedly killed dozens. The bodies of an Israeli-American couple thought to be hostages were also reported to have been killed on Oct. 7 by Hamas. 
+Meanwhile, in other parts of the world shocking details have been coming out about how Hamas weaponized sexual violence against women in its attack on Israel. The Israeli military however has expressed regret for unintended harm caused to civilians as a result of one airstrike in Gaza which is reported to have killed dozens of people. 
 
-In California, giant waves topped 30 feet and flooded beachfront neighborhoods this week, closing out a remarkable year for weather phenomena in the region. 
-
-Finally, young Iowa Republicans are speaking up and challenging their party&#39;s stance with moderate ideas, while the Justice Department is threatening to sue Texas over a migrant arrest law it believes only it has authority over.</p>
+Lastly, travel is looking uncertain with a number of cruise ships cancelling trips due to not having enough trip-worthy ships. Closer to home, weather phenomena like giant waves have been seen along California&#39;s coast while other places face snow shortages putting ski areas at risk of remaining closed.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
@@ -75,15 +73,15 @@ Finally, young Iowa Republicans are speaking up and challenging their party&#39;
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Rivals Criticize Maine Decision in His Defense</h3>
-<sub>By Chris Cameron</sub>
-<p>Ron DeSantis and Vivek Ramaswamy were quick to take swipes at the secretary of state’s ballot decision, while the state’s congressional delegation appeared split on the matter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>What to Know About the Efforts to Remove Trump From the 2024 Ballot</h3>
 <sub>By Nicholas Bogel-Burroughs</sub>
 <p>There are lawsuits pending in more than a dozen states seeking to have Donald J. Trump disqualified from appearing on primary ballots.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Rivals Criticize Maine Decision in His Defense</h3>
+<sub>By Chris Cameron</sub>
+<p>Ron DeSantis and Vivek Ramaswamy were quick to take swipes at the secretary of state’s ballot decision, while the state’s congressional delegation appeared split on the matter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -104,12 +102,6 @@ Finally, young Iowa Republicans are speaking up and challenging their party&#39;
 <p>The Israeli military said it was “working to draw lessons” from an attack in central Gaza that was reported to have killed dozens of people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli-American Thought to Be a Hostage Was Killed on Oct. 7, Her Family Says</h3>
-<sub>By Anushka Patil</sub>
-<p>The bodies of Judih Weinstein Haggai and her husband, Gadi Haggai, are still held by Hamas, their family said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>When Haley Dodged the Slavery Question, She Put Her Coalition at Risk</h3>
 <sub>By Jonathan Weisman and Jazmine Ulloa</sub>
@@ -122,11 +114,11 @@ Finally, young Iowa Republicans are speaking up and challenging their party&#39;
 <p>G.O.P. presidential candidates have not aggressively courted Gen Z, even as young voters increasingly show an openness to new candidates and a concern for new ideas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Justice Dept. Threatens to Sue Texas Over Migrant Arrest Law</h3>
-<sub>By Edgar Sandoval and Hamed Aleaziz</sub>
-<p>In a letter addressed to Texas’ governor and attorney general, a D.O.J. official wrote that the federal government had sole authority over immigration enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In a British Town, a New Way of Caring for Older People Is Bringing Hope</h3>
+<sub>By Megan Specia</sub>
+<p>An “integrated care center” brings doctors, physiotherapists, social workers and pharmacists under one roof. It won’t solve Britain’s underlying social care crisis — but it could help.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
@@ -138,6 +130,12 @@ Finally, young Iowa Republicans are speaking up and challenging their party&#39;
 <h3>Giant Waves Close Out California’s Remarkable Year of Weather Phenomena</h3>
 <sub>By Heather Knight and Sergio Olmos</sub>
 <p>Along the coast, residents on Thursday saw waves that topped 30 feet and flooded beachfront neighborhoods in some areas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Snow Shortages Are Plaguing the West’s Mountains</h3>
+<sub>By Mike Baker and Alisha Jucevic</sub>
+<p>Some ski areas remain closed. But an even greater concern amid a changing climate is whether enough snow will fall to meet water needs for the summer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
