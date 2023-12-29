@@ -58,17 +58,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, December 28, Central Standard Time</p>
+<p>It is Friday, December 29, Central Standard Time</p>
 <p>
-There currently seems to be a lot of news about politics in the US. Maine has joined Colorado in determining that Donald Trump is ineligible to appear on the primary ballot. The US Supreme Court has been asked to make a decision on Trump&#39;s eligibility by Super Tuesday. Over in Israel, an investigation has revealed acts of sexual violence committed by Hamas, and Israel has expressed regret for civilian casualties due a recent airstrike. Additionally, a young Israeli-American woman is thought to have been killed on October 7th by Hamas, although her body has not yet been recovered. 
-In the US, Nikki Haley&#39;s avoidance of mentioning slavery as a cause of the conflict has put tension on the coalition she was building between independents and moderate Democrats. Furthermore, young Iowa Republicans are raising their voices in an effort to get their party to really listen. Meanwhile, a federal judge has approved Georgia&#39;s new voting maps and the Justice Department is threatening to sue Texas over a law that will allow for more migrant arrests.
+Right now in the US, there is a debate over whether or not Donald Trump should be allowed to remain on primary ballots for the 2024 election. Several states are in the process of suing to block him. Meanwhile, at the same time, there&#39;s an understanding that his role in the Jan. 6, 2021 attack on the US Capitol may make him ineligible. 
 
-Lastly, there&#39;s an article about Stephanie Courtney who is better known as &quot;Flo&quot; from Progressive insurance ads. There’s also an article about how Milana Vayntrub, one of Progressive’s spokeswomen, began receiving leering internet trolls after gaining fame from her ad campaigns.</p>
+Meanwhile in Israel and Palestine there has recently been tremendous violence. A Times investigation uncovered reports of rape, mutilation and extreme brutality against women during attacks by Hamas on Oct. 7, while Israel expressed regret for &quot;unintended harm&quot; it caused during an airstrike in central Gaza that reportedly killed dozens. The bodies of an Israeli-American couple thought to be hostages were also reported to have been killed on Oct. 7 by Hamas. 
+
+In California, giant waves topped 30 feet and flooded beachfront neighborhoods this week, closing out a remarkable year for weather phenomena in the region. 
+
+Finally, young Iowa Republicans are speaking up and challenging their party&#39;s stance with moderate ideas, while the Justice Department is threatening to sue Texas over a migrant arrest law it believes only it has authority over.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Joins Colorado in Finding Trump Ineligible for Primary Ballot</h3>
-<sub>By Jenna Russell and Ernesto Londoño</sub>
+<sub>By Jenna Russell, Ernesto Londoño and Shawn Hubler</sub>
 <p>In a written decision, Maine’s secretary of state said that Donald J. Trump did not qualify for the ballot because of his role in the Jan. 6, 2021, attack on the U.S. Capitol.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Rivals Criticize Maine Decision in His Defense</h3>
+<sub>By Chris Cameron</sub>
+<p>Ron DeSantis and Vivek Ramaswamy were quick to take swipes at the secretary of state’s ballot decision, while the state’s congressional delegation appeared split on the matter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>What to Know About the Efforts to Remove Trump From the 2024 Ballot</h3>
+<sub>By Nicholas Bogel-Burroughs</sub>
+<p>There are lawsuits pending in more than a dozen states seeking to have Donald J. Trump disqualified from appearing on primary ballots.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -76,12 +91,6 @@ Lastly, there&#39;s an article about Stephanie Courtney who is better known as &
 <sub>By Maggie Astor</sub>
 <p>The amendment’s Section 3 says that acts of insurrection can disqualify someone from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, December 19, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court Urged to Move Fast on Trump’s Ballot Eligibility</h3>
-<sub>By Adam Liptak</sub>
-<p>The Colorado Republican Party asked the justices to decide its appeal by Super Tuesday. The voters who won in the Colorado Supreme Court want to move even faster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
@@ -114,27 +123,21 @@ Lastly, there&#39;s an article about Stephanie Courtney who is better known as &
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Federal Judge Approves Georgia’s New Voting Maps</h3>
-<sub>By Maya King and Emily Cochrane</sub>
-<p>The judge found that the Georgia legislature had complied with orders to allow Black voters an equal opportunity to elect representatives of their choice.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Justice Dept. Threatens to Sue Texas Over Migrant Arrest Law</h3>
 <sub>By Edgar Sandoval and Hamed Aleaziz</sub>
 <p>In a letter addressed to Texas’ governor and attorney general, a D.O.J. official wrote that the federal government had sole authority over immigration enforcement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>Everybody Knows Flo From Progressive. Who Is Stephanie Courtney?</h3>
-<sub>By Caity Weaver</sub>
-<p>A polo shirt, a white apron and a retro hairdo changed an actor’s life forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, November 25, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
+<sub>By Ceylan Yeginsu</sub>
+<p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>When Being a Spokeswoman Attracts Leering Internet Trolls</h3>
-<sub>By Caity Weaver</sub>
-<p>When you lend your likeness to a nationwide ad campaign, things don’t always go perfectly. Just ask Milana Vayntrub.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Giant Waves Close Out California’s Remarkable Year of Weather Phenomena</h3>
+<sub>By Heather Knight and Sergio Olmos</sub>
+<p>Along the coast, residents on Thursday saw waves that topped 30 feet and flooded beachfront neighborhoods in some areas.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 </ol>
