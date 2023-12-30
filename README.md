@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-There is a lot of upheaval happening around the world right now. In Israel, the military was disorganized and out of position when it tried to respond to a massive invasion by Hamas. There were reports of sexual violence being used as a weapon by Hamas. 
-
-In the US, there are debates over whether former President Trump should be allowed on election ballots and whether those decisions are eroding faith in American democracy. 
-
-The conflict in Ukraine has turned Europe into a place where arms production is surging and copyright law is being tested due to the use of content for artificial intelligence systems. Meanwhile, AI art is exploring human levels of creativity, but raising the question of whether our imaginations can keep up with machine learning. 
-
-In the Philippines, poverty continues to be an issue tied to colonial history and centuries-old farming methods that still plague many people living in rural areas today. Development projects have also been squeezing Chinatowns across North America, with a proposed 76ers arena drawing criticism in Philadelphia.</p>
+It looks like there&#39;s a lot of political and military tension going on around the world. In Israel, the military&#39;s failure to protect civilians from an invasion by Hamas resulted in untold destruction. In Ukraine, there&#39;s a war going on, and Danish resorts have been converted into ammunition manufacturing plants as a result. In Russia, there have been massive bombardments of missiles that managed to slip through Ukraine&#39;s air defence claiming dozens of lives. Meanwhile in China, activists are fighting against the development of new arenas that threaten to displace people living in Chinatowns. To add to all this, Artificial Intelligence has become more advanced and is prompting changes to copyright law around the world.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Where Was the Israeli Military?</h3>
@@ -86,22 +80,22 @@ In the Philippines, poverty continues to be an issue tied to colonial history an
 <p>Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Maine Law ‘Required That I Act’ to Disqualify Trump, Secretary of State Says</h3>
-<sub>By Ernesto Londoño</sub>
-<p>Barring former President Donald J. Trump from the primary ballot was a hard but necessary call, Shenna Bellows said in an interview.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Team Prepares to File Challenges on Ballot Decisions Soon</h3>
-<sub>By Maggie Haberman and Jonathan Swan</sub>
-<p>The cases in Colorado, Maine and other states are requiring former President Donald J. Trump to devote resources already spread thin across four criminal indictments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>As War Rages in Ukraine, Denmark Turns an Office Park Back Into an Arsenal</h3>
 <sub>By Lara Jakes</sub>
 <p>The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How a Russian Barrage Evaded Ukraine’s Defenses to Wreak Deadly Chaos</h3>
+<sub>By Constant Méheut</sub>
+<p>In one of the war’s largest bombardments, 35 missiles slipped through Ukraine’s air cover on Friday, killing dozens. Ukraine responded with shelling on the Russian region of Belgorod, killing at least 14.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukrainian Missile Attack on a Russian City Kills at Least 14</h3>
+<sub>By Constant Méheut and Ivan Nechepurenko</sub>
+<p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest on Russian soil since the beginning of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
@@ -116,11 +110,11 @@ In the Philippines, poverty continues to be an issue tied to colonial history an
 <p>The use of content from news and information providers to train artificial intelligence systems may force a reassessment of where to draw legal lines.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>A.I. Can Make Art That Feels Human. Whose Fault Is That?</h3>
-<sub>By Jason Farago</sub>
-<p>A fake Drake&#x2F;Weeknd mash-up is not a threat to our species’s culture. It’s a warning: We can’t let our imaginations shrink to machine size.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>Literature Under the Spell of A.I.</h3>
+<sub>By A.O. Scott</sub>
+<p>What happens when writers embrace artificial intelligence as their muse?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘There’s No Other Job’: The Colonial Roots of Philippine Poverty</h3>
