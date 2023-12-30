@@ -58,10 +58,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Friday, December 29, Central Standard Time</p>
+<p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-There are a lot of developments happening in the world right now. In the US, the Supreme Court is dealing with legal issues related to President Trump&#39;s possible presidential run. Maine&#39;s secretary of state had to make a difficult decision to disqualify him from the ballot. Meanwhile, in Russia, there&#39;s a law banning anyone from discrediting their army, leading to thousands of people being punished for even minor acts or statements. And in Ukraine, there have been large-scale air attacks that killed 30 people and damaged important infrastructure. Closer to home, NYC officials are assuring revelers ahead of New Year&#39;s festivities and there has been a decline in homicides despite the pandemic. Other places are facing challenges too: Palestinians in Gaza feel unsafe following an airstrike and we&#39;ve recently heard of Israeli military forces killing three hostages. Lastly, here in NYC itself, a large grand hotel was destroyed due to economic reasons and we can still see a piece of its history through a shop window. Lastly, Ohio&#39;s governor vetoed a bill that would have banned transition care for minors and prohibited transgender girls&#x2F;women from certain sports teams. There are also questions about how the new Pentagon plans on reducing civilian deaths will affect US aid to Israel.</p>
+There&#39;s a lot of unrest happening around the world right now. In the Middle East, Israeli military forces are facing criticism for their failure to plan ahead for a Hamas invasion. Many Gazans in the south are feeling unsafe after an airstrike close by, and three hostages were recently killed by Israeli soldiers. Russia has been using laws to silence people who are critical of the war. In the US, the Supreme Court is gearing up to rule on Trump&#39;s presidential run. Additionally, in Maine the Secretary of State has taken action to disqualify Trump from the primary ballot. And cities in the US have seen a rise in murders during the pandemic, although there&#39;s an overall decline in crime currently. Closer to home here in NYC, Mayor Eric Adams is trying to put brakes on migrant buses coming into the city, but it&#39;s running into some quick obstacles.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Where Was the Israeli Military?</h3>
+<sub>By Adam Goldman, Ronen Bergman, Mark Mazzetti, Natan Odenheimer, Alexander Cardia, Ainara Tiefenthäler and Sheera Frenkel</sub>
+<p>A Times investigation found that troops were disorganized, out of position and relied on social media to choose targets. Behind the failure: Israel had no battle plan for a massive Hamas invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Displaced Gazans in the South Facing Dangers They Had Sought to Escape</h3>
+<sub>By Anushka Patil and Thomas Fuller</sub>
+<p>Many residents feel that no place is safe after an airstrike in an area of southern Gaza where Israel had ordered people to seek shelter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israeli Military Releases New Details on Killing of 3 Hostages</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>In the latest disclosure on the shooting by Israeli soldiers of three hostages, the military said 15 minutes elapsed between the killing of the first two and the third.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Supreme Court May Rule on Trump’s Presidential Run</h3>
 <sub>By Adam Liptak</sub>
@@ -81,9 +99,21 @@ There are a lot of developments happening in the world right now. In the US, the
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pounds Ukrainian Cities in One of the Largest Air Attacks of the War</h3>
-<sub>By Constant Méheut and Daria Mitiuk</sub>
-<p>The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How a Super Affordable Bakery Chain Became a British Culinary Icon</h3>
+<sub>By Rory Smith</sub>
+<p>A festive pop-up restaurant is the latest crowd-pleasing stunt from Greggs, a mass-market bakery that is riding out Britain’s cost-of-living crisis with gusto.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>‘There’s No Other Job’: The Colonial Roots of Philippine Poverty</h3>
+<sub>By Peter S. Goodman and Jes Aznar</sub>
+<p>Decades after independence, the Philippines lacks the kind of factory economy that has lifted up other Asian nations, tying millions to farm work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Workers on a Philippines Coconut Farm: Born Poor, Staying Poor</h3>
+<sub>By Peter S. Goodman</sub>
+<p>In the groves of the Philippine island of Mindanao, people living in rural areas struggle to feed themselves in the same way as their ancestors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -98,40 +128,10 @@ There are a lot of developments happening in the world right now. In the US, the
 <p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Displaced Gazans in the South Facing Dangers They Had Sought to Escape</h3>
-<sub>By Anushka Patil and Thomas Fuller</sub>
-<p>Many residents feel that no place is safe after an airstrike in an area of southern Gaza where Israel had ordered people to seek shelter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Military Releases New Details on Killing of 3 Hostages</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>In the latest disclosure on the shooting by Israeli soldiers of three hostages, the military said 15 minutes elapsed between the killing of the first two and the third.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes</h3>
-<sub>By Dan Barry</sub>
-<p>The Hotel Pennsylvania in Manhattan was a virtual city within a city. But in the end, nothing could save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Where You Can Still Glimpse the Glory of a Vanished Grand Hotel</h3>
-<sub>By Dan Barry</sub>
-<p>A mile north of where the Hotel Pennsylvania once stood, a shimmering piece of its history can still be seen through a shop window.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Governor Blocks Bill Banning Transition Care for Minors</h3>
-<sub>By Amy Harmon</sub>
-<p>Gov. Mike DeWine’s veto of the bill, which also prohibited transgender girls and women from sports teams that correspond with their gender identity, is a rare move by a Republican governor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon’s New Plans to Reduce Civilian Deaths Leave Questions Over Israel</h3>
-<sub>By Azmat Khan and Eric Schmitt</sub>
-<p>The document codifies procedures for U.S. combat but does not address operations the United States supports through military aid alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Adams’s Effort to Control Migrant Buses Faces Instant Obstacles</h3>
+<sub>By Jeffery C. Mays and Olivia Bensimon</sub>
+<p>A move by Mayor Eric Adams meant to slow the surge of new arrivals being sent to New York from Texas encounters logistical hurdles within 24 hours.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
