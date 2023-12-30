@@ -60,9 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-There are a lot of political currents going on around the world right now. In Israel, a Times investigation found that their military forces were disorganized and relied on social media when it came to choosing targets during a massive Hamas invasion. In Gaza, airstrikes have caused many people to feel unsafe because Israel instructed them to seek shelter in the area. In Russia, a law makes it illegal to discredit the army with statements against the war. 
-
-On the home front, the Supreme Court is considering whether or not to allow Donald Trump to run for president in the upcoming election. In response, Maine&#39;s secretary of state had to disqualify him from their primary ballot. Meanwhile in New York City, officials are reassuring revelers ahead of New Year&#39;s festivities after daily protests and throughout the country, homicides seem to be decreasing sharply from what they were last year when crime was up during the pandemic. However, Mayor Eric Adams is facing some obstacles as he tries to control the busloads of new migrants arriving from Texas.</p>
+Recently, there have been a lot of international conflicts and controversy. For instance, a Times investigation found that the Israeli military was disorganized and relied on social media during Hamas&#39; invasion. Additionally, it uncovered details about sexual violence used against women in the same attacks. Closer to home in the US, former President Donald Trump has been barred from appearing on two state ballots for the upcoming elections, and his team is filing challenges against those decisions. On top of this, there’s been an increase in arms production and Artificial Intelligence (AI) across Europe and beyond – raising questions about copyright laws. Moreover, the economic disparities between citizens in established nations and developing economies are being highlighted, as exemplified by people in both rural and city areas in places like Mindanao, Philippines having to rely on historically low-paying farming work since independence. Overall, this has sparked conversations about racism and inequality for those bearing the brunt of long-standing experiences of colonization.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Where Was the Israeli Military?</h3>
@@ -71,22 +69,16 @@ On the home front, the Supreme Court is considering whether or not to allow Dona
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Displaced Gazans in the South Facing Dangers They Had Sought to Escape</h3>
-<sub>By Anushka Patil and Thomas Fuller</sub>
-<p>Many residents feel that no place is safe after an airstrike in an area of southern Gaza where Israel had ordered people to seek shelter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israeli Military Releases New Details on Killing of 3 Hostages</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>In the latest disclosure on the shooting by Israeli soldiers of three hostages, the military said 15 minutes elapsed between the killing of the first two and the third.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
+<sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
+<p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How the Supreme Court May Rule on Trump’s Presidential Run</h3>
-<sub>By Adam Liptak</sub>
-<p>The legal issues are novel and tangled, experts said, and the justices may be wary of knocking a leading presidential candidate off the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<h3>Two States Ruled Trump Off the Ballot. Will It Help or Hurt Him?</h3>
+<sub>By Jack Healy, Anna Betts, Mike Baker and Jill Cowan</sub>
+<p>Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Maine Law ‘Required That I Act’ to Disqualify Trump, Secretary of State Says</h3>
@@ -94,17 +86,35 @@ On the home front, the Supreme Court is considering whether or not to allow Dona
 <p>Barring former President Donald J. Trump from the primary ballot was a hard but necessary call, Shenna Bellows said in an interview.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the Russian Government Silences Wartime Dissent</h3>
-<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
-<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Team Prepares to File Challenges on Ballot Decisions Soon</h3>
+<sub>By Maggie Haberman and Jonathan Swan</sub>
+<p>The cases in Colorado, Maine and other states are requiring former President Donald J. Trump to devote resources already spread thin across four criminal indictments.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Super Affordable Bakery Chain Became a British Culinary Icon</h3>
-<sub>By Rory Smith</sub>
-<p>A festive pop-up restaurant is the latest crowd-pleasing stunt from Greggs, a mass-market bakery that is riding out Britain’s cost-of-living crisis with gusto.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<h3>As War Rages in Ukraine, Denmark Turns an Office Park Back Into an Arsenal</h3>
+<sub>By Lara Jakes</sub>
+<p>The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>An Artist in Residence on A.I.’s Territory</h3>
+<sub>By Leslie Katz</sub>
+<p>Alexander Reben is taking his tech-savvy perspective to OpenAI, a company that some in the art world believe is a threat to their future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Boom in A.I. Prompts a Test of Copyright Law</h3>
+<sub>By J. Edward Moreno</sub>
+<p>The use of content from news and information providers to train artificial intelligence systems may force a reassessment of where to draw legal lines.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>A.I. Can Make Art That Feels Human. Whose Fault Is That?</h3>
+<sub>By Jason Farago</sub>
+<p>A fake Drake&#x2F;Weeknd mash-up is not a threat to our species’s culture. It’s a warning: We can’t let our imaginations shrink to machine size.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>‘There’s No Other Job’: The Colonial Roots of Philippine Poverty</h3>
@@ -118,23 +128,11 @@ On the home front, the Supreme Court is considering whether or not to allow Dona
 <p>In the groves of the Philippine island of Mindanao, people living in rural areas struggle to feed themselves in the same way as their ancestors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>N.Y.C. Officials Reassure Revelers Ahead of New Year’s Eve Festivities</h3>
-<sub>By Hurubie Meko</sub>
-<p>Amid near-daily protests in the city, officials said there were “no specific credible threats” related to the annual ball drop in Times Square.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>After Rise in Murders During the Pandemic, a Sharp Decline in 2023</h3>
-<sub>By Tim Arango and Campbell Robertson</sub>
-<p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Adams’s Effort to Control Migrant Buses Faces Instant Obstacles</h3>
-<sub>By Jeffery C. Mays and Olivia Bensimon</sub>
-<p>A move by Mayor Eric Adams meant to slow the surge of new arrivals being sent to New York from Texas encounters logistical hurdles within 24 hours.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<h3>In a City Defined by History, Chinatown’s Champions Fear New Arena for 76ers</h3>
+<sub>By David W. Chen and Hannah Beier</sub>
+<p>Chinatowns in the United States and Canada have long been squeezed by development projects. Will a proposed arena in Philadelphia’s struggling downtown be the next?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
