@@ -60,14 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-It looks like things are heating up all over the world. In the US, there are legal battles over whether or not Trump can run for President again in 2024 and there are efforts to keep him off the ballot in some states. In Maine, voters disagree on the state&#39;s decision to disqualify former President Donald J. Trump from the ballot. In addition, crime is decreasing and the Governor of Ohio vetoed a bill that would have banned transition care for minors and prevented transgender women from joining corresponding sports teams.
+Right now, there are a couple of unique and concerning legal issues going on in the US with former President Donald J. Trump&#39;s presidential run; Maine&#39;s Secretary of State had to make a difficult but necessary decision to disqualify him from the primary ballot. In addition, there have been a series of missiles and drone attacks in the Ukraine that have killed over 30 people. As for Russia, there’s a law that makes it illegal to discredit their army and many people have been imprisoned for minor acts against the war. 
 
-The situation is even more dynamic internationally. Russia has been pounding Ukrainian cities with missiles and drones and silencing wartime dissent by making it illegal to discredit Russia&#39;s military operations overseas. In another act of aggression, they recently sent an associate of Aleksei Navalny, an activist opposing Putin&#39;s government, to prison for 9 years. In Israel, there was a deadly airstrike targeting a senior Hamas leader that killed dozens of civilians in a residential neighborhood.
+Also here in New York, officials are reassuring people that there are no credible threats ahead of New Year’s Eve festivities despite continuous protests that have been happening throughout the year. On a more positive note, reports show that homicides and other types of crimes are decreasing due to preventive measures taken by F.B.I. And in Ohio, Governor Mike DeWine vetoed a bill banning transition care for minors and preventing transgender girls and women from sports teams which is a rare move made by a Republican governor. 
 
-Finally, California is using innovative solutions to combat water shortages by taxing farmers for their groundwater use - a policy that seems to be improving things. On top of that, there&#39;s an interesting story about some people who sold everything they had to go on a 3-year cruise but were unable to get a suitable ship due to logistical issues. 
-
-
-Overall, it looks like things are in flux all around the globe!</p>
+Lastly, we can still glimpse the glory of one of Manhattan’s vanished grand hotels thanks to pieces still standing miles away from its original location.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Supreme Court May Rule on Trump’s Presidential Run</h3>
@@ -76,16 +73,16 @@ Overall, it looks like things are in flux all around the globe!</p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Maine Law ‘Required That I Act’ to Disqualify Trump, Secretary of State Says</h3>
+<sub>By Ernesto Londoño</sub>
+<p>Barring former President Donald J. Trump from the primary ballot was a hard but necessary call, Shenna Bellows said in an interview.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In Maine, Questions Over Decision to Push Trump Off the Ballot</h3>
 <sub>By Jenna Russell, Alicia Anstead and Sydney Cromwell</sub>
 <p>Some voters were alarmed at the state’s decision to disqualify former President Donald J. Trump. But others applauded it. “I like that Maine took a stand,” said one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>What to Know About the Efforts to Remove Trump From the 2024 Ballot</h3>
-<sub>By Nicholas Bogel-Burroughs</sub>
-<p>There are lawsuits pending in more than a dozen states seeking to have Donald J. Trump disqualified from appearing on primary ballots.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Pounds Ukrainian Cities in One of the Largest Air Attacks of the War</h3>
@@ -99,10 +96,10 @@ Overall, it looks like things are in flux all around the globe!</p>
 <p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Sends Navalny Associate to Prison for ‘Extremism’</h3>
-<sub>By Ivan Nechepurenko</sub>
-<p>The nine-year sentence reflects how the Kremlin continues to crack down on Aleksei A. Navalny’s political movement years after his organization was banned.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>N.Y.C. Officials Reassure Revelers Ahead of New Year’s Eve Festivities</h3>
+<sub>By Hurubie Meko</sub>
+<p>Amid near-daily protests in the city, officials said there were “no specific credible threats” related to the annual ball drop in Times Square.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -124,22 +121,22 @@ Overall, it looks like things are in flux all around the globe!</p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>What Happened in One of Israel’s Deadliest Attacks in Gaza</h3>
-<sub>By Anjali Singhvi, Bora Erden, Helmuth Rosales, Mika Gröndahl, Rumsey Taylor, Josh Williams and Abu Bakr Bashir</sub>
-<p>In this airstrike, Israel was targeting a senior Hamas leader. Dozens of people in a residential neighborhood were killed in the attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Pentagon’s New Plans to Reduce Civilian Deaths Leave Questions Over Israel</h3>
-<sub>By Azmat Khan and Eric Schmitt</sub>
-<p>The document codifies procedures for U.S. combat but does not address operations the United States supports through military aid alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israeli Military Releases New Details on Killing of 3 Hostages</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>In the latest disclosure on the shooting by Israeli soldiers of three hostages, the military said 15 minutes elapsed between the killing of the first two and the third.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>They Sold Everything to Go on a 3-Year Cruise. How It All Unraveled.</h3>
-<sub>By Ceylan Yeginsu</sub>
-<p>The Life at Sea cruise was supposed to be the ultimate bucket-list experience: 382 port calls worldwide over 1,095 days. The only thing missing was a trip-worthy ship.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes</h3>
+<sub>By Dan Barry</sub>
+<p>The Hotel Pennsylvania in Manhattan was a virtual city within a city. But in the end, nothing could save it.  <a href="https://nyti.ms/3Y7ZcKw"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, March 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Where You Can Still Glimpse the Glory of a Vanished Grand Hotel</h3>
+<sub>By Dan Barry</sub>
+<p>A mile north of where the Hotel Pennsylvania once stood, a shimmering piece of its history can still be seen through a shop window.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
