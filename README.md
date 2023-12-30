@@ -60,30 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-It looks like there&#39;s a lot of political and military tension going on around the world. In Israel, the military&#39;s failure to protect civilians from an invasion by Hamas resulted in untold destruction. In Ukraine, there&#39;s a war going on, and Danish resorts have been converted into ammunition manufacturing plants as a result. In Russia, there have been massive bombardments of missiles that managed to slip through Ukraine&#39;s air defence claiming dozens of lives. Meanwhile in China, activists are fighting against the development of new arenas that threaten to displace people living in Chinatowns. To add to all this, Artificial Intelligence has become more advanced and is prompting changes to copyright law around the world.</p>
+In the world, there has been intense fighting in Ukraine between Ukrainian forces and Russian-backed separatists. This has resulted in a missile attack by Ukrainian forces into Russian territory that killed at least 18 people. Furthermore, both sides are attempting to create chaos through large bombardments of missiles and shelling on each other&#39;s territories. 
+
+Elsewhere, Europe is experiencing a surge in arms production due to the rising tensions between Russia and Ukraine. Meanwhile, Israel has recently made news due to an investigation that finds that its military was disorganized and out of position during a conflict with Hamas militants. 
+
+In America, former President Trump is facing legal challenges as prosecutors are attempting to reject his claims of immunity in a court case. There is also discussion on how banning him from the ballot might affect American democracy. Additionally, retired Pentagon officers and departing defense officials have been flocking to venture capitalists who are pushing the government for more money towards defense technology startups. 
+
+Finally, actor Tom Wilkinson passed away at 75 years old after decades of work in television, films, and theater. There is also fear over a new basketball arena for the 76ers which could spell trouble for Chinatowns in America and Canada. Finally, the Upshot staff published a selection of their favorite charts from the past year that made them think twice about what happened in the world this year.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Where Was the Israeli Military?</h3>
-<sub>By Adam Goldman, Ronen Bergman, Mark Mazzetti, Natan Odenheimer, Alexander Cardia, Ainara Tiefenthäler and Sheera Frenkel</sub>
-<p>A Times investigation found that troops were disorganized, out of position and relied on social media to choose targets. Behind the failure: Israel had no battle plan for a massive Hamas invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Screams Without Words’: How Hamas Weaponized Sexual Violence on Oct. 7</h3>
-<sub>By Jeffrey Gettleman, Anat Schwartz, Adam Sella and Avishag Shaar-Yashuv</sub>
-<p>A Times investigation uncovered new details showing a pattern of rape, mutilation and extreme brutality against women in the attacks on Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Would Keeping Trump Off the Ballot Hurt or Help Democracy?</h3>
-<sub>By Jack Healy, Anna Betts, Mike Baker and Jill Cowan</sub>
-<p>Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Rages in Ukraine, Denmark Turns an Office Park Back Into an Arsenal</h3>
-<sub>By Lara Jakes</sub>
-<p>The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Ukrainian Missile Attack on a Russian City Kills at Least 18, Officials Say</h3>
+<sub>By Constant Méheut and Ivan Nechepurenko</sub>
+<p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest on Russian soil since the start of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,46 +81,64 @@ It looks like there&#39;s a lot of political and military tension going on aroun
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Missile Attack on a Russian City Kills at Least 14</h3>
-<sub>By Constant Méheut and Ivan Nechepurenko</sub>
-<p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest on Russian soil since the beginning of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>As War Rages in Ukraine, Denmark Turns an Office Park Back Into an Arsenal</h3>
+<sub>By Lara Jakes</sub>
+<p>The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>An Artist in Residence on A.I.’s Territory</h3>
-<sub>By Leslie Katz</sub>
-<p>Alexander Reben is taking his tech-savvy perspective to OpenAI, a company that some in the art world believe is a threat to their future.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Boom in A.I. Prompts a Test of Copyright Law</h3>
-<sub>By J. Edward Moreno</sub>
-<p>The use of content from news and information providers to train artificial intelligence systems may force a reassessment of where to draw legal lines.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>Literature Under the Spell of A.I.</h3>
-<sub>By A.O. Scott</sub>
-<p>What happens when writers embrace artificial intelligence as their muse?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, December 27, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘There’s No Other Job’: The Colonial Roots of Philippine Poverty</h3>
-<sub>By Peter S. Goodman and Jes Aznar</sub>
-<p>Decades after independence, the Philippines lacks the kind of factory economy that has lifted up other Asian nations, tying millions to farm work.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Where Was the Israeli Military?</h3>
+<sub>By Adam Goldman, Ronen Bergman, Mark Mazzetti, Natan Odenheimer, Alexander Cardia, Ainara Tiefenthäler and Sheera Frenkel</sub>
+<p>A Times investigation found that troops were disorganized, out of position and relied on social media to choose targets. Behind the failure: Israel had no battle plan for a massive Hamas invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Workers on a Philippines Coconut Farm: Born Poor, Staying Poor</h3>
-<sub>By Peter S. Goodman</sub>
-<p>In the groves of the Philippine island of Mindanao, people living in rural areas struggle to feed themselves in the same way as their ancestors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>An Israeli hostage describes her time in captivity in harrowing detail.</h3>
+<sub>By Nadav Gavrielov</sub>
+<p>An account of being held for 55 days in Gaza has touched a particular nerve in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Prosecutors Ask Appeals Court to Reject Trump’s Immunity Claims in Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The filing by the special counsel, Jack Smith, was the latest move in an ongoing battle over whether former presidents can be criminally liable for things they did while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Would Keeping Trump Off the Ballot Hurt or Help Democracy?</h3>
+<sub>By Jack Healy, Anna Betts, Mike Baker and Jill Cowan</sub>
+<p>Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists</h3>
+<sub>By Eric Lipton</sub>
+<p>Retired officers and departing defense officials are flocking to investment firms that are pushing the government to provide more money to defense-technology startups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Pentagon Road to Venture Capital</h3>
+<sub>By Eric Lipton</sub>
+<p>Here is a list of people who have jumped from the Pentagon and other government posts into jobs with venture capitalists that are backing defense technology startups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tom Wilkinson, Actor in ‘The Full Monty,’ Dies at 75</h3>
+<sub>By Alan Yuhas</sub>
+<p>Wilkinson, a versatile actor who also starred in “Shakespeare in Love” and “Batman Begins,” won acclaim through decades of work in television and film and onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>In a City Defined by History, Chinatown’s Champions Fear New Arena for 76ers</h3>
 <sub>By David W. Chen and Hannah Beier</sub>
 <p>Chinatowns in the United States and Canada have long been squeezed by development projects. Will a proposed arena in Philadelphia’s struggling downtown be the next?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>10 Data Points and Documents That Made Us 🤔 in 2023</h3>
+<sub>By The Upshot Staff</sub>
+<p>The Upshot staff shares a selection of their favorite charts, documents, queries and calculations from the past year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
