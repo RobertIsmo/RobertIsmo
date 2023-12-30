@@ -60,11 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, December 29, Central Standard Time</p>
 <p>
-Right now, there are a couple of unique and concerning legal issues going on in the US with former President Donald J. Trump&#39;s presidential run; Maine&#39;s Secretary of State had to make a difficult but necessary decision to disqualify him from the primary ballot. In addition, there have been a series of missiles and drone attacks in the Ukraine that have killed over 30 people. As for Russia, there’s a law that makes it illegal to discredit their army and many people have been imprisoned for minor acts against the war. 
-
-Also here in New York, officials are reassuring people that there are no credible threats ahead of New Year’s Eve festivities despite continuous protests that have been happening throughout the year. On a more positive note, reports show that homicides and other types of crimes are decreasing due to preventive measures taken by F.B.I. And in Ohio, Governor Mike DeWine vetoed a bill banning transition care for minors and preventing transgender girls and women from sports teams which is a rare move made by a Republican governor. 
-
-Lastly, we can still glimpse the glory of one of Manhattan’s vanished grand hotels thanks to pieces still standing miles away from its original location.</p>
+There are a lot of developments happening in the world right now. In the US, the Supreme Court is dealing with legal issues related to President Trump&#39;s possible presidential run. Maine&#39;s secretary of state had to make a difficult decision to disqualify him from the ballot. Meanwhile, in Russia, there&#39;s a law banning anyone from discrediting their army, leading to thousands of people being punished for even minor acts or statements. And in Ukraine, there have been large-scale air attacks that killed 30 people and damaged important infrastructure. Closer to home, NYC officials are assuring revelers ahead of New Year&#39;s festivities and there has been a decline in homicides despite the pandemic. Other places are facing challenges too: Palestinians in Gaza feel unsafe following an airstrike and we&#39;ve recently heard of Israeli military forces killing three hostages. Lastly, here in NYC itself, a large grand hotel was destroyed due to economic reasons and we can still see a piece of its history through a shop window. Lastly, Ohio&#39;s governor vetoed a bill that would have banned transition care for minors and prohibited transgender girls&#x2F;women from certain sports teams. There are also questions about how the new Pentagon plans on reducing civilian deaths will affect US aid to Israel.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How the Supreme Court May Rule on Trump’s Presidential Run</h3>
@@ -78,22 +74,16 @@ Lastly, we can still glimpse the glory of one of Manhattan’s vanished grand ho
 <p>Barring former President Donald J. Trump from the primary ballot was a hard but necessary call, Shenna Bellows said in an interview.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Maine, Questions Over Decision to Push Trump Off the Ballot</h3>
-<sub>By Jenna Russell, Alicia Anstead and Sydney Cromwell</sub>
-<p>Some voters were alarmed at the state’s decision to disqualify former President Donald J. Trump. But others applauded it. “I like that Maine took a stand,” said one.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How the Russian Government Silences Wartime Dissent</h3>
+<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
+<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Pounds Ukrainian Cities in One of the Largest Air Attacks of the War</h3>
 <sub>By Constant Méheut and Daria Mitiuk</sub>
 <p>The missile and drone attacks killed at least 30 people and damaged critical industrial and military infrastructure, part of a wintertime campaign that Ukraine had been dreading.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the Russian Government Silences Wartime Dissent</h3>
-<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
-<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -108,16 +98,10 @@ Lastly, we can still glimpse the glory of one of Manhattan’s vanished grand ho
 <p>The country is on track for a record drop in homicides, and many other categories of crime are also in decline, according to the F.B.I.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ohio Governor Blocks Bill Banning Transition Care for Minors</h3>
-<sub>By Amy Harmon</sub>
-<p>Gov. Mike DeWine’s veto of the bill, which also prohibited transgender girls and women from sports teams that correspond with their gender identity, is a rare move by a Republican governor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Strawberry Case Study: What if Farmers Had to Pay for Water?</h3>
-<sub>By Coral Davenport</sub>
-<p>With aquifers nationwide in dangerous decline, one part of California has tried essentially taxing groundwater. New research shows it’s working.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Displaced Gazans in the South Facing Dangers They Had Sought to Escape</h3>
+<sub>By Anushka Patil and Thomas Fuller</sub>
+<p>Many residents feel that no place is safe after an airstrike in an area of southern Gaza where Israel had ordered people to seek shelter.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -136,6 +120,18 @@ Lastly, we can still glimpse the glory of one of Manhattan’s vanished grand ho
 <h3>Where You Can Still Glimpse the Glory of a Vanished Grand Hotel</h3>
 <sub>By Dan Barry</sub>
 <p>A mile north of where the Hotel Pennsylvania once stood, a shimmering piece of its history can still be seen through a shop window.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ohio Governor Blocks Bill Banning Transition Care for Minors</h3>
+<sub>By Amy Harmon</sub>
+<p>Gov. Mike DeWine’s veto of the bill, which also prohibited transgender girls and women from sports teams that correspond with their gender identity, is a rare move by a Republican governor.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Pentagon’s New Plans to Reduce Civilian Deaths Leave Questions Over Israel</h3>
+<sub>By Azmat Khan and Eric Schmitt</sub>
+<p>The document codifies procedures for U.S. combat but does not address operations the United States supports through military aid alone.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
