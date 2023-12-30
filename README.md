@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-Recently, there have been a lot of international conflicts and controversy. For instance, a Times investigation found that the Israeli military was disorganized and relied on social media during Hamas&#39; invasion. Additionally, it uncovered details about sexual violence used against women in the same attacks. Closer to home in the US, former President Donald Trump has been barred from appearing on two state ballots for the upcoming elections, and his team is filing challenges against those decisions. On top of this, there’s been an increase in arms production and Artificial Intelligence (AI) across Europe and beyond – raising questions about copyright laws. Moreover, the economic disparities between citizens in established nations and developing economies are being highlighted, as exemplified by people in both rural and city areas in places like Mindanao, Philippines having to rely on historically low-paying farming work since independence. Overall, this has sparked conversations about racism and inequality for those bearing the brunt of long-standing experiences of colonization.</p>
+There is a lot of upheaval happening around the world right now. In Israel, the military was disorganized and out of position when it tried to respond to a massive invasion by Hamas. There were reports of sexual violence being used as a weapon by Hamas. 
+
+In the US, there are debates over whether former President Trump should be allowed on election ballots and whether those decisions are eroding faith in American democracy. 
+
+The conflict in Ukraine has turned Europe into a place where arms production is surging and copyright law is being tested due to the use of content for artificial intelligence systems. Meanwhile, AI art is exploring human levels of creativity, but raising the question of whether our imaginations can keep up with machine learning. 
+
+In the Philippines, poverty continues to be an issue tied to colonial history and centuries-old farming methods that still plague many people living in rural areas today. Development projects have also been squeezing Chinatowns across North America, with a proposed 76ers arena drawing criticism in Philadelphia.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Where Was the Israeli Military?</h3>
@@ -75,7 +81,7 @@ Recently, there have been a lot of international conflicts and controversy. For 
 <sub><sub>Thursday, December 28, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Two States Ruled Trump Off the Ballot. Will It Help or Hurt Him?</h3>
+<h3>Would Keeping Trump Off the Ballot Hurt or Help Democracy?</h3>
 <sub>By Jack Healy, Anna Betts, Mike Baker and Jill Cowan</sub>
 <p>Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
