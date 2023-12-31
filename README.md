@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-There have been some pretty significant developments around the world recently. In Ukraine, at least 20 people have been killed in a missile attack on a Russian city. Israel is launching massive air assaults against Hamas militants and the Israeli military has been accused of being disorganized and out of position in its efforts to fight back. Meanwhile, in the US, former President Trump is trying to claim immunity from criminal liability for things he did while in office. Separately, some retired Pentagon officials are moving into venture capital to fund defense technology startups. Lastly, there was a sad passing of Tom Wilkinson, best known for his role in The Full Monty and Shakespeare in Love, who died at the age of 75.</p>
+There&#39;s a lot of unrest going on in the world right now. In Ukraine, there has been a missile attack on a Russian city that has killed at least 20 people. In Israel and Gaza, there is an ongoing conflict with Hamas that is resulting in massive casualties. In the US, prosecutors are asking appeals courts to reject Trump&#39;s immunity claims and retired officers are flocking to venture capitalists that are backing defense technology startups. Additionally, Tom Wilkinson, an actor known for his roles in &#39;The Full Monty&#39; and &#39;Shakespeare in Love&#39; just passed away and 10 data points made us think deeply about the past year. Lastly, a man was also just found in Indiana who had been trapped inside the wreckage of his pickup truck for 6 days after crashing it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Missile Attack on a Russian City Kills at Least 20, Officials Say</h3>
@@ -105,12 +105,6 @@ There have been some pretty significant developments around the world recently. 
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Would Keeping Trump Off the Ballot Hurt or Help Democracy?</h3>
-<sub>By Jack Healy, Anna Betts, Mike Baker and Jill Cowan</sub>
-<p>Some critics say the battles over the former president’s ballot status are turning him into a martyr and eroding faith in American elections.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists</h3>
 <sub>By Eric Lipton</sub>
 <p>Retired officers and departing defense officials are flocking to investment firms that are pushing the government to provide more money to defense-technology startups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -133,6 +127,12 @@ There have been some pretty significant developments around the world recently. 
 <sub>By The Upshot Staff</sub>
 <p>The Upshot staff shares a selection of their favorite charts, documents, queries and calculations from the past year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Man Survives Six Days Trapped in Pickup Truck Wreckage</h3>
+<sub>By Amanda Holpuch and Orlando Mayorquin</sub>
+<p>Fishermen discovered the man after he crashed his pickup, which landed under a bridge in Indiana, hiding him from drivers above, the authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
