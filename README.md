@@ -60,49 +60,55 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 31, Central Standard Time</p>
 <p>
-It looks like global tensions are on the rise. A Ukrainian missile attack on a Russian city killed at least 22 people over the weekend, prompting a response from Moscow. In addition, heavy fighting has broken out between Israel and Hamas in recent days with both sides launching airstrikes and shelling against each other. In the US, former President Trump is facing legal challenges with prosecutors asking an appeals court to reject his immunity claims in a related election case. Meanwhile, Tom Wilkinson, famed actor from The Full Monty, just passed away at 75. Here in New York, despite the tumultuous year we&#39;ve had, there are still activists making positive changes to make our city a better place.</p>
+Currently, there is a war going on between Ukraine and Russia in which both sides are turning to guerrilla tactics. Earlier this week, a Ukrainian missile attack on a Russian city killed at least 22 people, and US helicopters reportedly sank 3 Houthi boats in the Red Sea. In Israel, Arab and Jewish students are using dialogue to attempt to bridge divides in their society. Additionally, car tracking apps have been weaponized by abusive partners in the US, and inmates in Chile&#39;s oldest and least crowded prison have fallen in love with hundreds of stray cats. Finally, the NFL is almost at the end of its season, so many teams are vying for playoff spots.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Ukraine, Stalled on the Front, Steps Up Sabotage, Targeting Trains</h3>
+<sub>By Marc Santora</sub>
+<p>As conventional forces struggle to break through defensive lines, both sides are increasingly turning to guerrilla tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukrainian Missile Attack on a Russian City Kills at Least 22, Officials Say</h3>
 <sub>By Constant Méheut and Ivan Nechepurenko</sub>
 <p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest single attack on Russian soil since the start of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How a Russian Barrage Evaded Ukraine’s Defenses to Wreak Deadly Chaos</h3>
-<sub>By Constant Méheut</sub>
-<p>In one of the war’s largest bombardments, 35 missiles slipped through Ukraine’s air cover on Friday, killing dozens. Ukraine responded with shelling on the Russian region of Belgorod, killing at least 22.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Killed His Molester as a Teenager. Should He Be Spared Deportation?</h3>
+<sub>By Maria Cramer and Jenna Russell</sub>
+<p>After 13 years in prison in Massachusetts, Marco Flores is fighting being deported to El Salvador, which he left when he was 6.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Where Was the Israeli Military?</h3>
-<sub>By Adam Goldman, Ronen Bergman, Mark Mazzetti, Natan Odenheimer, Alexander Cardia, Ainara Tiefenthäler and Sheera Frenkel</sub>
-<p>A Times investigation found that troops were disorganized, out of position and relied on social media to choose targets. Behind the failure: Israel had no battle plan for a massive Hamas invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
+<sub>By Vivek Shankar</sub>
+<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, U.S. Central Command said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Defying U.S. Pressure, Israel Deepens Gaza Assault</h3>
-<sub>By Raja Abdulrahim, Roni Caryn Rabin and Thomas Fuller</sub>
-<p>Under the withering attacks, 165 people were killed in the past 24 hours, Gazan officials said, while Israel said it had destroyed the apartment of a Hamas leader.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<h3>At These Schools, Arab and Jewish Students Share Their Feelings, With Each Other</h3>
+<sub>By Talya Minsberg</sub>
+<p>At a time when support for peace is at a low, conversations at Israel’s Hand in Hand schools about the Oct. 7 attack and the war in Gaza sound different than they do elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Conflict in Israel and Gaza, in Photos</h3>
-<sub>By The New York Times</sub>
-<p>A surprise attack by Hamas put Israel and the group that controlled Gaza at war. Here are images from the assault and what has followed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>An Israeli hostage describes her time in captivity in harrowing detail.</h3>
-<sub>By Nadav Gavrielov</sub>
-<p>An account of being held for 55 days in Gaza has touched a particular nerve in Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>Your Car Is Tracking You. Abusive Partners May Be, Too.</h3>
+<sub>By Kashmir Hill</sub>
+<p>Apps that remotely track and control cars are being weaponized by abusive partners. Car manufacturers have been slow to respond, according to victims and experts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Prosecutors Ask Appeals Court to Reject Trump’s Immunity Claims in Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The filing by the special counsel, Jack Smith, was the latest move in an ongoing battle over whether former presidents can be criminally liable for things they did while in office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<h3>Can He Condemn the Killings Without Causing More Pain?</h3>
+<sub>By Eli Saslow and Todd Heisler</sub>
+<p>Chris George has lived in Israel and Gaza, where he was once held hostage. As his employees ask him to speak out on the latest war, he is torn.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Cats Filled the Prison. Then the Inmates Fell in Love.</h3>
+<sub>By Jack Nicas</sub>
+<p>In Chile’s oldest and most overcrowded prison, the inmates have found solace in the hundreds of stray cats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The World in Stories: 13 Favorite Dispatches From 2023</h3>
@@ -110,28 +116,22 @@ It looks like global tensions are on the rise. A Ukrainian missile attack on a R
 <p>Our correspondents ventured to some of the world’s most remote, and dangerous, locales to report stories that reveal a country’s culture and the human condition. Here are our favorites from the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New Spin on a Revolving Door: Pentagon Officials Turned Venture Capitalists</h3>
-<sub>By Eric Lipton</sub>
-<p>Retired officers and departing defense officials are flocking to investment firms that are pushing the government to provide more money to defense-technology startups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 17 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
+<sub>By Josh Katz and Kevin Quealy</sub>
+<p>Detailed tables and scenarios explain every team’s paths to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Pentagon Road to Venture Capital</h3>
-<sub>By Eric Lipton</sub>
-<p>Here is a list of people who have jumped from the Pentagon and other government posts into jobs with venture capitalists that are backing defense technology startups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>The Chinese spy agency that’s rising to challenge the C.I.A. Also: a look at Donald Trump’s 2025 trade agenda and some thoughts on how to approach Dry January if you’re taking part.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tom Wilkinson, Actor in ‘The Full Monty,’ Dies at 75</h3>
-<sub>By Alan Yuhas</sub>
-<p>A versatile actor who also starred in “Shakespeare in Love” and “Batman Begins,” he won acclaim through decades of work in television and film and onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Six New Yorkers Who Made the City a Better, Cooler, Fairer Place in 2023</h3>
-<sub>By Ginia Bellafante</sub>
-<p>In a year that made many of us want to give up, these unsung activists found a way to help others.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Dec. 29, 2023</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
