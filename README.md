@@ -60,10 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 31, Central Standard Time</p>
 <p>
-There has been a lot of conflict in the news this year. Ukrainian forces launched a missile attack on a Russian city that killed at least 20 people. In response, Russia shelled the Ukrainian region of Belgorod, killing at least 14 people. In Israel, Hamas launched an invasion, leading to 165 deaths in one day and causing Israel to respond with airstrikes. In the US, prosecutors are asking appeals court to reject former president Trump’s immunity claims in an election case. There have also been some positive stories, like six New Yorkers who have made the city a better, cooler, and fairer place this year. Finally, the death of Tom Wilkinson from &#39;The Full Monty&#39; was announced at 75 years old.</p>
+It looks like global tensions are on the rise. A Ukrainian missile attack on a Russian city killed at least 22 people over the weekend, prompting a response from Moscow. In addition, heavy fighting has broken out between Israel and Hamas in recent days with both sides launching airstrikes and shelling against each other. In the US, former President Trump is facing legal challenges with prosecutors asking an appeals court to reject his immunity claims in a related election case. Meanwhile, Tom Wilkinson, famed actor from The Full Monty, just passed away at 75. Here in New York, despite the tumultuous year we&#39;ve had, there are still activists making positive changes to make our city a better place.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Missile Attack on a Russian City Kills at Least 20, Officials Say</h3>
+<h3>Ukrainian Missile Attack on a Russian City Kills at Least 22, Officials Say</h3>
 <sub>By Constant Méheut and Ivan Nechepurenko</sub>
 <p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest single attack on Russian soil since the start of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
@@ -71,7 +71,7 @@ There has been a lot of conflict in the news this year. Ukrainian forces launche
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>How a Russian Barrage Evaded Ukraine’s Defenses to Wreak Deadly Chaos</h3>
 <sub>By Constant Méheut</sub>
-<p>In one of the war’s largest bombardments, 35 missiles slipped through Ukraine’s air cover on Friday, killing dozens. Ukraine responded with shelling on the Russian region of Belgorod, killing at least 14.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>In one of the war’s largest bombardments, 35 missiles slipped through Ukraine’s air cover on Friday, killing dozens. Ukraine responded with shelling on the Russian region of Belgorod, killing at least 22.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
