@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 31, Central Standard Time</p>
 <p>
-Currently, there is a war going on between Ukraine and Russia in which both sides are turning to guerrilla tactics. Earlier this week, a Ukrainian missile attack on a Russian city killed at least 22 people, and US helicopters reportedly sank 3 Houthi boats in the Red Sea. In Israel, Arab and Jewish students are using dialogue to attempt to bridge divides in their society. Additionally, car tracking apps have been weaponized by abusive partners in the US, and inmates in Chile&#39;s oldest and least crowded prison have fallen in love with hundreds of stray cats. Finally, the NFL is almost at the end of its season, so many teams are vying for playoff spots.</p>
+There&#39;s been a lot of conflict in the world recently. Ukraine is trying to break through enemy lines and Russia is attacking a Ukrainian city. A law has been passed in Russia making it illegal to discredit their army. In the Red Sea, US helicopters sank 3 boats belonging to Houthi gunmen from Yemen. There are some schools in Israel where Arab and Jewish students meet and talk about their feelings towards current events. Unfortunately, some apps that track cars are being used by abusive partners against their victims. An inmate in Chile found solace by forming relationships with the many stray cats who lived in the prison. On the lighter side, I checked out the Weekender for The New York Times and there was a news quiz I can take as well!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine, Stalled on the Front, Steps Up Sabotage, Targeting Trains</h3>
@@ -69,10 +69,16 @@ Currently, there is a war going on between Ukraine and Russia in which both side
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Missile Attack on a Russian City Kills at Least 22, Officials Say</h3>
-<sub>By Constant Méheut and Ivan Nechepurenko</sub>
-<p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest single attack on Russian soil since the start of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<h3>Russia Pounds Ukrainian City Ahead of New Year, as Putin Tries to Project Normalcy</h3>
+<sub>By Constant Méheut and Anton Troianovski</sub>
+<p>Moscow said it had struck Kharkiv with missiles in retaliation for what it said was a deadly Ukrainian air assault on the Russian city of Belgorod. Vladimir Putin did not discuss the violence in his New Year’s address.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>How the Russian Government Silences Wartime Dissent</h3>
+<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
+<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>He Killed His Molester as a Teenager. Should He Be Spared Deportation?</h3>
@@ -83,7 +89,7 @@ Currently, there is a war going on between Ukraine and Russia in which both side
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
 <sub>By Vivek Shankar</sub>
-<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, U.S. Central Command said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, U.S. Central Command reported.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -109,12 +115,6 @@ Currently, there is a war going on between Ukraine and Russia in which both side
 <sub>By Jack Nicas</sub>
 <p>In Chile’s oldest and most overcrowded prison, the inmates have found solace in the hundreds of stray cats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The World in Stories: 13 Favorite Dispatches From 2023</h3>
-<sub>By Bryant Rousseau</sub>
-<p>Our correspondents ventured to some of the world’s most remote, and dangerous, locales to report stories that reveal a country’s culture and the human condition. Here are our favorites from the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
 <h3>Week 17 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
