@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, December 30, Central Standard Time</p>
 <p>
-In the world, there has been intense fighting in Ukraine between Ukrainian forces and Russian-backed separatists. This has resulted in a missile attack by Ukrainian forces into Russian territory that killed at least 18 people. Furthermore, both sides are attempting to create chaos through large bombardments of missiles and shelling on each other&#39;s territories. 
-
-Elsewhere, Europe is experiencing a surge in arms production due to the rising tensions between Russia and Ukraine. Meanwhile, Israel has recently made news due to an investigation that finds that its military was disorganized and out of position during a conflict with Hamas militants. 
-
-In America, former President Trump is facing legal challenges as prosecutors are attempting to reject his claims of immunity in a court case. There is also discussion on how banning him from the ballot might affect American democracy. Additionally, retired Pentagon officers and departing defense officials have been flocking to venture capitalists who are pushing the government for more money towards defense technology startups. 
-
-Finally, actor Tom Wilkinson passed away at 75 years old after decades of work in television, films, and theater. There is also fear over a new basketball arena for the 76ers which could spell trouble for Chinatowns in America and Canada. Finally, the Upshot staff published a selection of their favorite charts from the past year that made them think twice about what happened in the world this year.</p>
+There have been some pretty significant developments around the world recently. In Ukraine, at least 20 people have been killed in a missile attack on a Russian city. Israel is launching massive air assaults against Hamas militants and the Israeli military has been accused of being disorganized and out of position in its efforts to fight back. Meanwhile, in the US, former President Trump is trying to claim immunity from criminal liability for things he did while in office. Separately, some retired Pentagon officials are moving into venture capital to fund defense technology startups. Lastly, there was a sad passing of Tom Wilkinson, best known for his role in The Full Monty and Shakespeare in Love, who died at the age of 75.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukrainian Missile Attack on a Russian City Kills at Least 18, Officials Say</h3>
+<h3>Ukrainian Missile Attack on a Russian City Kills at Least 20, Officials Say</h3>
 <sub>By Constant Méheut and Ivan Nechepurenko</sub>
-<p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest on Russian soil since the start of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The bombardment of Belgorod on Saturday, apparently in response to an enormous air assault by Moscow a day earlier, appeared to be the deadliest single attack on Russian soil since the start of the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,16 +75,22 @@ Finally, actor Tom Wilkinson passed away at 75 years old after decades of work i
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As War Rages in Ukraine, Denmark Turns an Office Park Back Into an Arsenal</h3>
-<sub>By Lara Jakes</sub>
-<p>The conflict and surging arms production in Russia have spurred demand for ammunition manufacturing across Europe.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Where Was the Israeli Military?</h3>
 <sub>By Adam Goldman, Ronen Bergman, Mark Mazzetti, Natan Odenheimer, Alexander Cardia, Ainara Tiefenthäler and Sheera Frenkel</sub>
 <p>A Times investigation found that troops were disorganized, out of position and relied on social media to choose targets. Behind the failure: Israel had no battle plan for a massive Hamas invasion.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Defying U.S. Pressure, Israel Deepens Gaza Assault</h3>
+<sub>By Raja Abdulrahim, Roni Caryn Rabin and Thomas Fuller</sub>
+<p>Under the withering attacks, 165 people were killed in the past 24 hours, Gazan officials said, while Israel said it had destroyed the apartment of a Hamas leader.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Conflict in Israel and Gaza, in Photos</h3>
+<sub>By The New York Times</sub>
+<p>A surprise attack by Hamas put Israel and the group that controlled Gaza at war. Here are images from the assault and what has followed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>An Israeli hostage describes her time in captivity in harrowing detail.</h3>
@@ -125,13 +125,7 @@ Finally, actor Tom Wilkinson passed away at 75 years old after decades of work i
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>Tom Wilkinson, Actor in ‘The Full Monty,’ Dies at 75</h3>
 <sub>By Alan Yuhas</sub>
-<p>Wilkinson, a versatile actor who also starred in “Shakespeare in Love” and “Batman Begins,” won acclaim through decades of work in television and film and onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In a City Defined by History, Chinatown’s Champions Fear New Arena for 76ers</h3>
-<sub>By David W. Chen and Hannah Beier</sub>
-<p>Chinatowns in the United States and Canada have long been squeezed by development projects. Will a proposed arena in Philadelphia’s struggling downtown be the next?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A versatile actor who also starred in “Shakespeare in Love” and “Batman Begins,” he won acclaim through decades of work in television and film and onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
