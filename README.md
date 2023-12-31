@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 31, Central Standard Time</p>
 <p>
-Currently, in the world there has been a lot of conflict in Ukraine, where both sides have been resorting to guerrilla tactics. In response to an air assault against a Russian city by Ukraine, Russia retaliated by pounding another Ukrainian city with missiles. There have also been reports of US helicopters sinking 3 boats belonging to Houthi gunmen from Yemen. In Israel, Arab and Jewish students are communicating more openly, which is an atypical in a time when support for peace is low. On a lighter note, inmates in Chile’s oldest and most overcrowded prison have found solace in hundreds of stray cats living with them. In the US a deportee who killed his childhood molester as a teenager is currently fighting deportation. On top of all this there&#39;s the highly competitive NFL playoffs coming up and the new Chinese spy agency that&#39;s rising up to challenge the CIA!</p>
+The world has been incredibly tumultuous lately. In the Middle East, tensions between the United States and Israel have escalated into an intense war. Meanwhile, conflict in Ukraine continues to escalate between Russian forces and Ukrainian rebels--now, both sides are using guerrilla tactics to gain control. Closer to home, domestic abuse victims in the US are facing new challenges as GPS technology is being used to track and control their cars. And even in places of confinement, like Chile&#39;s oldest prison, inmates are finding solace in the hundreds of cats that fill the halls.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
+<sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
+<p>No other episode in the past half-century has tested the relationship between the United States and Israel in such an intense and consequential way as the Israel-Hamas war of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
+<sub>By Vivek Shankar</sub>
+<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, U.S. Central Command reported.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>At These Schools, Arab and Jewish Students Share Their Feelings, With Each Other</h3>
+<sub>By Talya Minsberg</sub>
+<p>At a time when support for peace is at a low, conversations at Israel’s Hand in Hand schools about the Oct. 7 attack and the war in Gaza sound different than they do elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>He Killed His Molester as a Teenager. Should He Be Spared Deportation?</h3>
+<sub>By Maria Cramer and Jenna Russell</sub>
+<p>After 13 years in prison in Massachusetts, Marco Flores is fighting being deported to El Salvador, which he left when he was 6.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Ukraine, Stalled on the Front, Steps Up Sabotage, Targeting Trains</h3>
 <sub>By Marc Santora</sub>
@@ -80,24 +104,6 @@ Currently, in the world there has been a lot of conflict in Ukraine, where both 
 <p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Killed His Molester as a Teenager. Should He Be Spared Deportation?</h3>
-<sub>By Maria Cramer and Jenna Russell</sub>
-<p>After 13 years in prison in Massachusetts, Marco Flores is fighting being deported to El Salvador, which he left when he was 6.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
-<sub>By Vivek Shankar</sub>
-<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, U.S. Central Command reported.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At These Schools, Arab and Jewish Students Share Their Feelings, With Each Other</h3>
-<sub>By Talya Minsberg</sub>
-<p>At a time when support for peace is at a low, conversations at Israel’s Hand in Hand schools about the Oct. 7 attack and the war in Gaza sound different than they do elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-technology-blue" alt="">
 <h3>Your Car Is Tracking You. Abusive Partners May Be, Too.</h3>
 <sub>By Kashmir Hill</sub>
@@ -110,29 +116,23 @@ Currently, in the world there has been a lot of conflict in Ukraine, where both 
 <p>Chris George has lived in Israel and Gaza, where he was once held hostage. As his employees ask him to speak out on the latest war, he is torn.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>With Tom Wilkinson, Would You Get a Time Bomb or a Warm Hug?</h3>
+<sub>By Alissa Wilkinson</sub>
+<p>In his performances in “Michael Clayton” and other films, he brought an element of danger and uncertainty that kept us on edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>Tom Wilkinson, Actor in ‘The Full Monty,’ Dies at 75</h3>
+<sub>By Alan Yuhas and Alex Traub</sub>
+<p>A versatile performer who also starred in “Shakespeare in Love” and “Batman Begins,” he won acclaim for his work in television, film and onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Cats Filled the Prison. Then the Inmates Fell in Love.</h3>
 <sub>By Jack Nicas</sub>
 <p>In Chile’s oldest and most overcrowded prison, the inmates have found solace in the hundreds of stray cats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 17 N.F.L. Playoff Picture: A Team-by-Team Guide</h3>
-<sub>By Josh Katz and Kevin Quealy</sub>
-<p>Detailed tables and scenarios explain every team’s paths to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>The Chinese spy agency that’s rising to challenge the C.I.A. Also: a look at Donald Trump’s 2025 trade agenda and some thoughts on how to approach Dry January if you’re taking part.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Dec. 29, 2023</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
