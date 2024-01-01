@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 31, Central Standard Time</p>
 <p>
-There are a lot of things going on in the world right now. In the U.S., there are multiple political, security, and economic strains among the country and Israel after a heated war. Individuals with ties to Asia are facing unfair discrimination from counterintelligence officers for potential spying. There are controversial court decisions on gun rights and college sports teams using money to build their rosters. Internationally, Ukraine is using guerilla tactics against conventional forces in a time of struggle, while in Chile, inmates are finding solace in the hundreds of stray cats in prisons. With all these issues in play, we need to ensure that our outlook remains optimistic while looking for small moments of joy among the darkness.</p>
+There&#39;s a lot of tension globally right now. The U.S. and Israel have had strained relations after a war between Israel and Hamas in 2023, while the U.S. has been taking military action in the Red Sea area against Iranian-backed Houthi forces in Yemen. In Ukraine, a conflict between the Ukrainian government and Russian-backed separatists has grown increasingly violent, with both sides using guerrilla tactics and even Missiles being fired. Even closer to home, there are issues within the U.S., from the deportation of immigrants who were convicted of crimes as minors to tensions over racial discrimination in national security jobs to a controversial ban on guns in public places in California that just took effect today.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
 <sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
 <p>No other episode in the past half-century has tested the relationship between the United States and Israel in such an intense and consequential way as the Israel-Hamas war of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
+<sub>By David E. Sanger, Eric Schmitt and Vivek Shankar</sub>
+<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, American officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -126,12 +132,6 @@ There are a lot of things going on in the world right now. In the U.S., there ar
 <h3>When the World Feels Dark, Seek Out Delight</h3>
 <sub>By Catherine Price</sub>
 <p>Taking time to notice life’s small joys can improve your health and your outlook.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Don’t Flee the American Southwest Just Yet</h3>
-<sub>By Tom Zoellner</sub>
-<p>The era of shrinking water resources and rising temperatures will undoubtedly test Southwestern states, but it’s a question of how we adapt, not whether we survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
