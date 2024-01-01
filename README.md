@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 1, Central Standard Time</p>
 <p>
-There are a lot of concerning things happening in the world right now. Half of Gazans, a region of Palestine, are reportedly at risk of starvation, according to the United Nations. Additionally, tensions are rising between the US and Israel after a war in 2023. In the Red Sea after an attack on a commercial ship, US helicopters have sunk 3 boats owned by Houthi forces backed by Iran. Ukraine is engaging in guerrilla tactics due to difficulty breaking through defensive lines. As well, Asian American security employees are being needlessly targeted as potential spies and losing jobs as a result. Lastly, California has recently passed a law banning firearms in certain public areas such as playgrounds and libraries that is now in effect. There are also some smaller occurrences; for example, Afro-Brazilian religions followers have been displaced by revelers while college sports teams use cash payments to build their rosters. Through all of this, opinion pieces stress the importance of seeking out joy amidst darkness and adapting to Southwestern states&#39; changing climates instead of fleeing them.</p>
+There is a lot going on in the world right now. In the US, new state laws are coming into effect on hot-button issues like gun safety and diversity programs. New York is also introducing legislation that affects wages, healthcare and education. On the international front, Japan is still recovering from an 8.9-magnitude earthquake and tsunami 13 years ago, while the UN estimates that half of Palestinians in Gaza are facing starving. There has also been tension between the US and Israel recently over a war involving Hamas, and US helicopters have sunk 3 Houthi boats in the Red Sea in response to an attack on a commercial ship. Meanwhile, some classic characters like Mickey Mouse are losing their copyright protection and Donald Trump&#39;s team is making sure his supporters turn out for the New Hampshire primary. Most controversially, Trump is trying to claim &#39;absolute immunity&#39; from prosecution after his acquittal from the second impeachment trial for inciting insurrection.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>New State Laws on Hot-Button Issues Take Effect Today</h3>
+<sub>By Adeel Hassan</sub>
+<p>Many state laws take effect on the first day of 2024, including new rules on gun safety, a ban on diversity programs and a curb on telemarketing calls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>It’s 2024. Here Are the New Laws That New Yorkers Should Know About.</h3>
+<sub>By Erin Nolan</sub>
+<p>Legislation touching on nearly every aspect of life in the state, including wages, health care and education, is going into effect in the coming months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Court Allows California Ban on Guns in Most Public Places to Take Effect</h3>
+<sub>By Colbi Edmonds</sub>
+<p>A federal appeals court halted a lower court’s block on the law, which prohibits firearms in certain places such as playgrounds and libraries, allowing it to take effect on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>In Quake-Scarred Japan, 2011 Fukushima Disaster Still Looms Large</h3>
+<sub>By Emma Bubola</sub>
+<p>As another major quake struck Japan, the country was still reckoning with the nuclear crisis triggered by the 8.9-magnitude earthquake and a tsunami of 13 years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Half of Gazans Are at Risk of Starving, U.N. Warns</h3>
 <sub>By Liam Stack, Gaya Gupta and Abu Bakr Bashir</sub>
@@ -80,59 +104,35 @@ There are a lot of concerning things happening in the world right now. Half of G
 <p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, American officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Ukraine, Stalled on the Front, Steps Up Sabotage, Targeting Trains</h3>
-<sub>By Marc Santora</sub>
-<p>As conventional forces struggle to break through defensive lines, both sides are increasingly turning to guerrilla tactics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Missiles Fall and New Year Dawns, Putin and Zelensky Address Citizens</h3>
-<sub>By Constant Méheut and Anton Troianovski</sub>
-<p>The message of resilience offered by Ukraine’s leader, Volodymyr Zelensky’s message, contrasted sharply with that of President Vladimir V. Putin, who glossed over the war in an effort to project a sense of normality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>These Classic Characters Are Losing Copyright Protection. They May Never Be the Same.</h3>
+<sub>By Sopan Deb</sub>
+<p>What could happen to the original version of Mickey Mouse and others when they enter the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Asian American Officials Cite Unfair Scrutiny and Lost Jobs in China Spy Tensions</h3>
-<sub>By Edward Wong and Amy Qin</sub>
-<p>National security employees with ties to Asia say U.S. counterintelligence officers wrongly regard them as potential spies and ban them from jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<h3>Trump Team, Burned in 2016, Looks to Close Out Iowa</h3>
+<sub>By Michael Gold and Kellen Browning</sub>
+<p>The former president is leading by impressive margins in the state, but his campaign wants to make sure his supporters turn out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Allows California Ban on Guns in Most Public Places to Take Effect</h3>
-<sub>By Colbi Edmonds</sub>
-<p>A federal appeals court halted a lower court’s block on the law, which prohibits firearms in certain places such as playgrounds and libraries, allowing it to take effect on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Sununu Says Christie Should Drop Out Ahead of New Hampshire Primary</h3>
+<sub>By Anjali Huynh</sub>
+<p>Mr. Sununu, the state’s governor, expressed concern that Mr. Christie would pull support from his preferred candidate, Nikki Haley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How to Start the New Year? Keep the Sea Goddess Happy.</h3>
-<sub>By Jack Nicas and Dado Galdieri</sub>
-<p>Followers of Afro-Brazilian religions have been displaced by New Year’s revelers. But they still find ways to make their offerings to the ocean.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<h3>Young Love Meets Russian Repression. They Said ‘I Do’ in a Moscow Prison</h3>
+<sub>By Valerie Hopkins</sub>
+<p>She’s 18. He’s 23. He sent her a one-sentence letter through his prison’s electronic mail system: “Will you marry me?” They wed in a small room in a Moscow jail.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Best Teams That Money Could Buy</h3>
-<sub>By David A. Fahrenthold and Billy Witz</sub>
-<p>The four teams in the College Football Playoff used cash payments from fan “collectives” in unique ways to build their rosters, showing how much an influx of money has changed college sports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>When the World Feels Dark, Seek Out Delight</h3>
-<sub>By Catherine Price</sub>
-<p>Taking time to notice life’s small joys can improve your health and your outlook.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Don’t Flee the American Southwest Just Yet</h3>
-<sub>By Tom Zoellner</sub>
-<p>The era of shrinking water resources and rising temperatures will undoubtedly test Southwestern states, but it’s a question of how we adapt, not whether we survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>I Was Transformed by the Best Cult Ever: Michigan Football</h3>
-<sub>By Jaime Lowe</sub>
-<p>Maybe this is what being in a megachurch or a Trump rally feels like to true believers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<h3>Trump’s Most Ambitious Argument in His Bid for ‘Absolute Immunity’</h3>
+<sub>By Adam Liptak</sub>
+<p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
