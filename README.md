@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 1, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, new state laws are coming into effect on hot-button issues like gun safety and diversity programs. New York is also introducing legislation that affects wages, healthcare and education. On the international front, Japan is still recovering from an 8.9-magnitude earthquake and tsunami 13 years ago, while the UN estimates that half of Palestinians in Gaza are facing starving. There has also been tension between the US and Israel recently over a war involving Hamas, and US helicopters have sunk 3 Houthi boats in the Red Sea in response to an attack on a commercial ship. Meanwhile, some classic characters like Mickey Mouse are losing their copyright protection and Donald Trump&#39;s team is making sure his supporters turn out for the New Hampshire primary. Most controversially, Trump is trying to claim &#39;absolute immunity&#39; from prosecution after his acquittal from the second impeachment trial for inciting insurrection.</p>
+There is a lot happening in the world right now. In Israel, some troops are being withdrawn from Gaza. In Gaza, the UN is warning that half of the population is at risk of starving, and in Japan, there has been an earthquake. Here in the US, we have a lot of new state laws taking effect on hot-button issues as well as a court ruling allowing a gun ban in most public places to take effect. Additionally, Donald Trump is making an ambitious attempt to gain &#39;absolute immunity&#39; from future prosecution. Lastly, there was an amazing demonstration of love in Moscow when two young people were married in a prison.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel Plans to Withdraw Some Troops From Gaza</h3>
+<sub>By Aaron Boxerman</sub>
+<p>Reservists from at least two brigades will be sent home this week, and another three brigades will return to Israel for training, the military said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Half of Gazans Are at Risk of Starving, U.N. Warns</h3>
+<sub>By Liam Stack, Gaya Gupta and Abu Bakr Bashir</sub>
+<p>More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
+<sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
+<p>No other episode in the past half-century has tested the relationship between the United States and Israel in such an intense and consequential way as the Israel-Hamas war of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Map: Earthquake Strikes Japan</h3>
+<sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
+<p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>New State Laws on Hot-Button Issues Take Effect Today</h3>
 <sub>By Adeel Hassan</sub>
@@ -78,30 +102,6 @@ There is a lot going on in the world right now. In the US, new state laws are co
 <h3>Appeals Court Allows California Ban on Guns in Most Public Places to Take Effect</h3>
 <sub>By Colbi Edmonds</sub>
 <p>A federal appeals court halted a lower court’s block on the law, which prohibits firearms in certain places such as playgrounds and libraries, allowing it to take effect on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>In Quake-Scarred Japan, 2011 Fukushima Disaster Still Looms Large</h3>
-<sub>By Emma Bubola</sub>
-<p>As another major quake struck Japan, the country was still reckoning with the nuclear crisis triggered by the 8.9-magnitude earthquake and a tsunami of 13 years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Half of Gazans Are at Risk of Starving, U.N. Warns</h3>
-<sub>By Liam Stack, Gaya Gupta and Abu Bakr Bashir</sub>
-<p>More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
-<sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
-<p>No other episode in the past half-century has tested the relationship between the United States and Israel in such an intense and consequential way as the Israel-Hamas war of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
-<sub>By David E. Sanger, Eric Schmitt and Vivek Shankar</sub>
-<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, American officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
