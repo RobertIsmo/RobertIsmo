@@ -60,19 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 1, Central Standard Time</p>
 <p>
-In the world, there are a few major things that have been happening lately. Israel is planning to withdraw some of their troops from Gaza. In Gaza, more than 90 percent of Palestinians have been going without food for at least one day according to the United Nations. Japan was rocked by an earthquake, seen on a map that showcased its epicenter and shaken area. In the US, there are a lot of new laws and regulations taking effect today on hot button issues. New York especially has a lot of new laws related to wages, health care, education, etc. that are going into effect in the coming months. On the cultural side, classic characters like Mickey Mouse have lost copyright protection and may never be the same. Meanwhile, there&#39;s a story of young love in Russia meeting repression- a couple married in a jail in Moscow! In politics, former president Trump has argued for absolute immunity after his acquittal from his second impeachment trial for inciting an insurrection. In lifestyle topics, energy levels can be improved in 2024 with a few steps taken to optimize our well-being. Finally, New Haven&#39;s pizza joints have been gaining attention as they try to stand out on the national stage among the many pizza places out there.</p>
+There&#39;s some interesting news around the world right now. Israel just announced that they are going to begin withdrawing several brigades from the Gaza Strip. Many are saying this could signal an overall shift to a more limited and targeted war in the region. On top of that, there was a powerful earthquake that recently hit Japan and several buildings have collapsed with people trapped underneath. In the United States, there has been a lot of controversy surrounding Trump&#39;s attempts to get immunity following his second impeachment trial. Things are heating up in New Haven as well, with local pizza joints looking to cash in on the city&#39;s reputation as a pizza town. Finally, if you are looking for ways to save money in 2021, it might be a good time to lock in high interest rates on your savings since rates are currently at their highest level in years.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Plans to Withdraw Some Troops From Gaza</h3>
-<sub>By Aaron Boxerman</sub>
-<p>Reservists from at least two brigades will be sent home this week, and another three brigades will return to Israel for training, the military said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Israel Says It Will Pull Several Brigades From Gaza Strip</h3>
+<sub>By Aaron Boxerman, Isabel Kershner and Eric Schmitt</sub>
+<p>Analysts say the announcement could signal a shift to the more limited and targeted war against Hamas that the United States has been urging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Half of Gazans Are at Risk of Starving, U.N. Warns</h3>
-<sub>By Liam Stack, Gaya Gupta and Abu Bakr Bashir</sub>
-<p>More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<h3>Powerful Earthquake Hits Japan, and Officials Warn of Aftershocks</h3>
+<sub>By Motoko Rich</sub>
+<p>There were reports of collapsed buildings and people being trapped underneath them. The quake disrupted electricity and phone service, and initially raised fears of a tsunami.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Map: Earthquake Strikes Japan</h3>
@@ -81,15 +81,9 @@ In the world, there are a few major things that have been happening lately. Isra
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>New State Laws on Hot-Button Issues Take Effect Today</h3>
-<sub>By Adeel Hassan</sub>
-<p>Many state laws take effect on the first day of 2024, including new rules on gun safety, a ban on diversity programs and a curb on telemarketing calls.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>It’s 2024. Here Are the New Laws That New Yorkers Should Know About.</h3>
-<sub>By Erin Nolan</sub>
-<p>Legislation touching on nearly every aspect of life in the state, including wages, health care and education, is going into effect in the coming months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump’s Most Ambitious Argument in His Bid for ‘Absolute Immunity’</h3>
+<sub>By Adam Liptak</sub>
+<p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -104,23 +98,23 @@ In the world, there are a few major things that have been happening lately. Isra
 <p>What could happen to the original version of Mickey Mouse and others after they entered the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Young Love Meets Russian Repression. They Said ‘I Do’ in a Moscow Prison</h3>
-<sub>By Valerie Hopkins</sub>
-<p>She’s 18. He’s 23. He sent her a one-sentence letter through his prison’s electronic mail system: “Will you marry me?” They wed in a small room in a Moscow jail.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-magazine-blue" alt="">
+<h3>The Instagram Account That Shattered a California High School</h3>
+<sub>By Dashka Slater</sub>
+<p>It had barely a dozen followers, but the discovery of its racist posts turned a Bay Area community against itself — and changed students’ lives forever.  <a href="https://nyti.ms/3sfrlFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Most Ambitious Argument in His Bid for ‘Absolute Immunity’</h3>
-<sub>By Adam Liptak</sub>
-<p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How Do You Respond to a Young Person Upset by Racist Jokes at School?</h3>
+<sub>By Dashka Slater</sub>
+<p>When you talk to students about social media radicalization, racism and bullying, you learn how desperate they are for some guidance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>What’s Sapping Your Energy?</h3>
-<sub>By Jancee Dunn</sub>
-<p>Your results will help you figure out how to have a more energetic 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>To Avoid New York Rules, Hundreds of Migrants Dropped Off in New Jersey</h3>
+<sub>By Stefanos Chen and Jeffery C. Mays</sub>
+<p>Hundreds of migrants, sent mostly from Texas, arrived at train stops outside New York City over the weekend to sidestep a new order limiting their arrival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Can New Haven’s Legendary Pizza Joints Play on the National Stage?</h3>
@@ -128,11 +122,17 @@ In the world, there are a few major things that have been happening lately. Isra
 <p>The city has long been known as a pizza town. Now other places seem to be trying to cash in on the hype.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Best Teams That Money Could Buy</h3>
-<sub>By David A. Fahrenthold and Billy Witz</sub>
-<p>The four teams in the College Football Playoff used cash payments from fan “collectives” in unique ways to build their rosters, showing how much an influx of money has changed college sports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>I Spent New Year’s Eve Trying to Do the FAFSA. It Didn’t Go Well.</h3>
+<sub>By Ron Lieber</sub>
+<p>The new, simplified version of the college student aid form was supposed to become available in December. It was, kind of, for some people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Now May Be the Time to Lock In High Interest Rates on Your Savings</h3>
+<sub>By Ann Carrns</sub>
+<p>Rates on C.D.s are the highest they’ve been in years. But the Fed is signaling that it may cut its borrowing costs next year, and C.D. rates could follow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
