@@ -58,10 +58,16 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, December 31, Central Standard Time</p>
+<p>It is Monday, January 1, Central Standard Time</p>
 <p>
-There&#39;s a lot of tension globally right now. The U.S. and Israel have had strained relations after a war between Israel and Hamas in 2023, while the U.S. has been taking military action in the Red Sea area against Iranian-backed Houthi forces in Yemen. In Ukraine, a conflict between the Ukrainian government and Russian-backed separatists has grown increasingly violent, with both sides using guerrilla tactics and even Missiles being fired. Even closer to home, there are issues within the U.S., from the deportation of immigrants who were convicted of crimes as minors to tensions over racial discrimination in national security jobs to a controversial ban on guns in public places in California that just took effect today.</p>
+There are a lot of things happening in the world right now. In Gaza, the UN is warning that half of the population is at risk of starving due to a lack of food and resources. The US and Israel recently had a tense conflict over the Israel-Hamas war of 2023. Meanwhile Ukraine and other countries in the region have switched to guerrilla tactics as missiles fall. Meanwhile in the US, there are tensions between Asian American employees in counterintelligence jobs and their American peers. There&#39;s also been some changes to gun laws in California. Meanwhile college sports has changed due to increased cash payments from fan &quot;collectives&quot;. Lastly, there are some opinion pieces about finding joy despite the darkness in the world, and managing water resources and rising temperatures in the American Southwest.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Half of Gazans Are at Risk of Starving, U.N. Warns</h3>
+<sub>By Liam Stack, Gaya Gupta and Abu Bakr Bashir</sub>
+<p>More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
 <sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
@@ -72,12 +78,6 @@ There&#39;s a lot of tension globally right now. The U.S. and Israel have had st
 <h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
 <sub>By David E. Sanger, Eric Schmitt and Vivek Shankar</sub>
 <p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, American officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Killed His Molester as a Teenager. Should He Be Spared Deportation?</h3>
-<sub>By Maria Cramer and Jenna Russell</sub>
-<p>After 13 years in prison in Massachusetts, Marco Flores is fighting being deported to El Salvador, which he left when he was 6.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,12 +93,6 @@ There&#39;s a lot of tension globally right now. The U.S. and Israel have had st
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Can He Condemn the Killings Without Causing More Pain?</h3>
-<sub>By Eli Saslow and Todd Heisler</sub>
-<p>Chris George has lived in Israel and Gaza, where he was once held hostage. As his employees ask him to speak out on the latest war, he is torn.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Asian American Officials Cite Unfair Scrutiny and Lost Jobs in China Spy Tensions</h3>
 <sub>By Edward Wong and Amy Qin</sub>
 <p>National security employees with ties to Asia say U.S. counterintelligence officers wrongly regard them as potential spies and ban them from jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
@@ -111,9 +105,9 @@ There&#39;s a lot of tension globally right now. The U.S. and Israel have had st
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Cats Filled the Prison. Then the Inmates Fell in Love.</h3>
-<sub>By Jack Nicas</sub>
-<p>In Chile’s oldest and most overcrowded prison, the inmates have found solace in the hundreds of stray cats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>How to Start the New Year? Keep the Sea Goddess Happy.</h3>
+<sub>By Jack Nicas and Dado Galdieri</sub>
+<p>Followers of Afro-Brazilian religions have been displaced by New Year’s revelers. But they still find ways to make their offerings to the ocean.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -132,6 +126,12 @@ There&#39;s a lot of tension globally right now. The U.S. and Israel have had st
 <h3>When the World Feels Dark, Seek Out Delight</h3>
 <sub>By Catherine Price</sub>
 <p>Taking time to notice life’s small joys can improve your health and your outlook.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Don’t Flee the American Southwest Just Yet</h3>
+<sub>By Tom Zoellner</sub>
+<p>The era of shrinking water resources and rising temperatures will undoubtedly test Southwestern states, but it’s a question of how we adapt, not whether we survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
