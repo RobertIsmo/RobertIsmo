@@ -60,24 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, December 31, Central Standard Time</p>
 <p>
-The world has been incredibly tumultuous lately. In the Middle East, tensions between the United States and Israel have escalated into an intense war. Meanwhile, conflict in Ukraine continues to escalate between Russian forces and Ukrainian rebels--now, both sides are using guerrilla tactics to gain control. Closer to home, domestic abuse victims in the US are facing new challenges as GPS technology is being used to track and control their cars. And even in places of confinement, like Chile&#39;s oldest prison, inmates are finding solace in the hundreds of cats that fill the halls.</p>
+There are a lot of things going on in the world right now. In the U.S., there are multiple political, security, and economic strains among the country and Israel after a heated war. Individuals with ties to Asia are facing unfair discrimination from counterintelligence officers for potential spying. There are controversial court decisions on gun rights and college sports teams using money to build their rosters. Internationally, Ukraine is using guerilla tactics against conventional forces in a time of struggle, while in Chile, inmates are finding solace in the hundreds of stray cats in prisons. With all these issues in play, we need to ensure that our outlook remains optimistic while looking for small moments of joy among the darkness.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
 <sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
 <p>No other episode in the past half-century has tested the relationship between the United States and Israel in such an intense and consequential way as the Israel-Hamas war of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>U.S. Helicopters Sink 3 Houthi Boats in Red Sea, Pentagon Says</h3>
-<sub>By Vivek Shankar</sub>
-<p>Iranian-backed Houthi gunmen from Yemen had fired on American helicopters responding to an attack on a commercial ship, U.S. Central Command reported.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>At These Schools, Arab and Jewish Students Share Their Feelings, With Each Other</h3>
-<sub>By Talya Minsberg</sub>
-<p>At a time when support for peace is at a low, conversations at Israel’s Hand in Hand schools about the Oct. 7 attack and the war in Gaza sound different than they do elsewhere.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -93,21 +81,9 @@ The world has been incredibly tumultuous lately. In the Middle East, tensions be
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Pounds Ukrainian City Ahead of New Year, as Putin Tries to Project Normalcy</h3>
+<h3>As Missiles Fall and New Year Dawns, Putin and Zelensky Address Citizens</h3>
 <sub>By Constant Méheut and Anton Troianovski</sub>
-<p>Moscow said it had struck Kharkiv with missiles in retaliation for what it said was a deadly Ukrainian air assault on the Russian city of Belgorod. Vladimir Putin did not discuss the violence in his New Year’s address.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>How the Russian Government Silences Wartime Dissent</h3>
-<sub>By Anton Troianovski, Yuliya Parshina-Kottas, Oleg Matsnev, Alina Lobzina, Valerie Hopkins and Aaron Krolik</sub>
-<p>A law making it illegal to discredit Russia’s army has ensnared thousands of Russians for even mild acts or statements against the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>Your Car Is Tracking You. Abusive Partners May Be, Too.</h3>
-<sub>By Kashmir Hill</sub>
-<p>Apps that remotely track and control cars are being weaponized by abusive partners. Car manufacturers have been slow to respond, according to victims and experts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The message of resilience offered by Ukraine’s leader, Volodymyr Zelensky’s message, contrasted sharply with that of President Vladimir V. Putin, who glossed over the war in an effort to project a sense of normality.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +92,46 @@ The world has been incredibly tumultuous lately. In the Middle East, tensions be
 <p>Chris George has lived in Israel and Gaza, where he was once held hostage. As his employees ask him to speak out on the latest war, he is torn.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>With Tom Wilkinson, Would You Get a Time Bomb or a Warm Hug?</h3>
-<sub>By Alissa Wilkinson</sub>
-<p>In his performances in “Michael Clayton” and other films, he brought an element of danger and uncertainty that kept us on edge.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Asian American Officials Cite Unfair Scrutiny and Lost Jobs in China Spy Tensions</h3>
+<sub>By Edward Wong and Amy Qin</sub>
+<p>National security employees with ties to Asia say U.S. counterintelligence officers wrongly regard them as potential spies and ban them from jobs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>Tom Wilkinson, Actor in ‘The Full Monty,’ Dies at 75</h3>
-<sub>By Alan Yuhas and Alex Traub</sub>
-<p>A versatile performer who also starred in “Shakespeare in Love” and “Batman Begins,” he won acclaim for his work in television, film and onstage.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, December 30, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Chief Justice Roberts Sees Promise and Danger of A.I. in the Courts</h3>
+<sub>By Adam Liptak</sub>
+<p>In his year-end report, Chief Justice John G. Roberts Jr. focused on the new technology while steering clear of Supreme Court ethics and Donald J. Trump’s criminal cases.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Cats Filled the Prison. Then the Inmates Fell in Love.</h3>
 <sub>By Jack Nicas</sub>
 <p>In Chile’s oldest and most overcrowded prison, the inmates have found solace in the hundreds of stray cats.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Appeals Court Allows California Ban on Guns in Most Public Places to Take Effect</h3>
+<sub>By Colbi Edmonds</sub>
+<p>A federal appeals court halted a lower court’s block on the law, which prohibits firearms in certain places such as playgrounds and libraries, allowing it to take effect on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Best Teams That Money Could Buy</h3>
+<sub>By David A. Fahrenthold and Billy Witz</sub>
+<p>The four teams in the College Football Playoff used cash payments from fan “collectives” in unique ways to build their rosters, showing how much an influx of money has changed college sports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>When the World Feels Dark, Seek Out Delight</h3>
+<sub>By Catherine Price</sub>
+<p>Taking time to notice life’s small joys can improve your health and your outlook.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Don’t Flee the American Southwest Just Yet</h3>
+<sub>By Tom Zoellner</sub>
+<p>The era of shrinking water resources and rising temperatures will undoubtedly test Southwestern states, but it’s a question of how we adapt, not whether we survive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
