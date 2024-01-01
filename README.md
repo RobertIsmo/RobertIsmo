@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 1, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Israel, some troops are being withdrawn from Gaza. In Gaza, the UN is warning that half of the population is at risk of starving, and in Japan, there has been an earthquake. Here in the US, we have a lot of new state laws taking effect on hot-button issues as well as a court ruling allowing a gun ban in most public places to take effect. Additionally, Donald Trump is making an ambitious attempt to gain &#39;absolute immunity&#39; from future prosecution. Lastly, there was an amazing demonstration of love in Moscow when two young people were married in a prison.</p>
+In the world, there are a few major things that have been happening lately. Israel is planning to withdraw some of their troops from Gaza. In Gaza, more than 90 percent of Palestinians have been going without food for at least one day according to the United Nations. Japan was rocked by an earthquake, seen on a map that showcased its epicenter and shaken area. In the US, there are a lot of new laws and regulations taking effect today on hot button issues. New York especially has a lot of new laws related to wages, health care, education, etc. that are going into effect in the coming months. On the cultural side, classic characters like Mickey Mouse have lost copyright protection and may never be the same. Meanwhile, there&#39;s a story of young love in Russia meeting repression- a couple married in a jail in Moscow! In politics, former president Trump has argued for absolute immunity after his acquittal from his second impeachment trial for inciting an insurrection. In lifestyle topics, energy levels can be improved in 2024 with a few steps taken to optimize our well-being. Finally, New Haven&#39;s pizza joints have been gaining attention as they try to stand out on the national stage among the many pizza places out there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Plans to Withdraw Some Troops From Gaza</h3>
@@ -72,12 +72,6 @@ There is a lot happening in the world right now. In Israel, some troops are bein
 <h3>Half of Gazans Are at Risk of Starving, U.N. Warns</h3>
 <sub>By Liam Stack, Gaya Gupta and Abu Bakr Bashir</sub>
 <p>More than 90 percent of Palestinians in the territory say they have regularly gone without food for a whole day, according to the United Nations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The U.S. and Israel: An Embrace Shows Signs of Strain After Oct. 7</h3>
-<sub>By Peter Baker, Edward Wong, Julian E. Barnes and Isabel Kershner</sub>
-<p>No other episode in the past half-century has tested the relationship between the United States and Israel in such an intense and consequential way as the Israel-Hamas war of 2023.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -98,29 +92,17 @@ There is a lot happening in the world right now. In Israel, some troops are bein
 <p>Legislation touching on nearly every aspect of life in the state, including wages, health care and education, is going into effect in the coming months.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Appeals Court Allows California Ban on Guns in Most Public Places to Take Effect</h3>
-<sub>By Colbi Edmonds</sub>
-<p>A federal appeals court halted a lower court’s block on the law, which prohibits firearms in certain places such as playgrounds and libraries, allowing it to take effect on Monday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-dining-blue" alt="">
+<h3>Making a Cooking Resolution? These 9 Recipes Will Get You Started.</h3>
+<sub>By Tanya Sichynsky</sub>
+<p>Whether you want to eat less meat, bake more crowd-pleasing desserts or (finally) learn how to cook, here are some first steps for the new year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>These Classic Characters Are Losing Copyright Protection. They May Never Be the Same.</h3>
 <sub>By Sopan Deb</sub>
-<p>What could happen to the original version of Mickey Mouse and others when they enter the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>What could happen to the original version of Mickey Mouse and others after they entered the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Team, Burned in 2016, Looks to Close Out Iowa</h3>
-<sub>By Michael Gold and Kellen Browning</sub>
-<p>The former president is leading by impressive margins in the state, but his campaign wants to make sure his supporters turn out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sununu Says Christie Should Drop Out Ahead of New Hampshire Primary</h3>
-<sub>By Anjali Huynh</sub>
-<p>Mr. Sununu, the state’s governor, expressed concern that Mr. Christie would pull support from his preferred candidate, Nikki Haley.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Young Love Meets Russian Repression. They Said ‘I Do’ in a Moscow Prison</h3>
@@ -133,6 +115,24 @@ There is a lot happening in the world right now. In Israel, some troops are bein
 <sub>By Adam Liptak</sub>
 <p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>What’s Sapping Your Energy?</h3>
+<sub>By Jancee Dunn</sub>
+<p>Your results will help you figure out how to have a more energetic 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Can New Haven’s Legendary Pizza Joints Play on the National Stage?</h3>
+<sub>By Amelia Nierenberg and Joe Buglewicz</sub>
+<p>The city has long been known as a pizza town. Now other places seem to be trying to cash in on the hype.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Best Teams That Money Could Buy</h3>
+<sub>By David A. Fahrenthold and Billy Witz</sub>
+<p>The four teams in the College Football Playoff used cash payments from fan “collectives” in unique ways to build their rosters, showing how much an influx of money has changed college sports.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, December 31, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
