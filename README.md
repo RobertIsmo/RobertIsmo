@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-There has been a lot going on in the world recently. In Israel, there&#39;s been a battle over what identity the country will take, and Monday&#39;s court ruling is adding to the crisis. There was also a powerful earthquake in Japan that caused death and destruction, as well as an airplane crash in Tokyo that evacuated all of the passengers. India is chasing China&#39;s economy, but it&#39;s hitting roadblocks like power grids and planning authorities. In South Korea, the opposition leader was stabbed by a 66-year-old man and is now recovering from surgery. Russia is launching missiles on Kyiv, Ukraine, and Indiana is considering piping groundwater for microchip-making which could potentially dry out residential wells. Lastly, there&#39;s a lawsuit brought by New York&#39;s attorney general against Wayne LaPierre and other N.R.A. insiders accusing them of corruption.</p>
+There is a growing crisis in Israel over what kind of state it should be as there have recently been court rulings and fighting in Gaza. In Japan, a plane at an airport exploded into flames earlier this week and unfortunately five crew members on a Coast Guard plane that collided with it were killed. Moreover, the death toll is rising after a powerful earthquake in the same region. On a different note, India has been trying to boost its economy and foreign investment with infrastructure spending, while Britain&#39;s is being held back by issues such as their power grid and local planning authorities. Additionally, there&#39;s a heated debate in paleontology going on regarding the naming of one of the dinosaur fossils that is up for sale in London. Furthermore, the leader of the NRA, Wayne LaPierre, is currently facing trial for decades of corruption and Harvard&#39;s president is facing new plagiarism accusations. Lastly, President Trump&#39;s 2024 election has started to become a definitive test for America.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Twin Fronts in the Battle Over Israel’s Identity</h3>
 <sub>By Steven Erlanger</sub>
 <p>Monday’s court ruling joined the war in Gaza in a widening crisis over what kind of state Israel will be.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Israel’s Landmark Ruling, and a Mickey Mouse Copyright Expires</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,16 +75,10 @@ There has been a lot going on in the world recently. In Israel, there&#39;s been
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll Rises to at Least 48 After Powerful Earthquake in Japan</h3>
+<h3>Death Toll Rises to at Least 55 After Powerful Earthquake in Japan</h3>
 <sub>By Motoko Rich and Hisako Ueno</sub>
 <p>The authorities continued to look for people buried in the rubble of collapsed and burned buildings in the coastal epicenter of the disaster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Map: Earthquake Strikes Japan</h3>
-<sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
-<p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>India Is Chasing China’s Economy. But Something Is Holding It Back.</h3>
@@ -111,27 +99,39 @@ There has been a lot going on in the world recently. In Israel, there&#39;s been
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Korean Opposition Leader Is Stabbed</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>Lee Jae-myung, the Democratic Party head, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee is now recovering from surgery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Russia Hammers Kyiv With Missiles in Large-Scale Attack</h3>
-<sub>By Constant Méheut</sub>
-<p>Ukraine’s Air Force said the barrage involved some of Russia’s most powerful weapons and also targeted other Ukrainian cities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Constant Méheut and Anatoly Kurmanaev</sub>
+<p>Russia said that Ukraine retaliated hours later with missile attacks on Russian territory, part of an escalating cycle of air assaults between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-climate-blue" alt="">
-<h3>Indiana’s Plan to Pipe In Groundwater for Microchip-Making Draws Fire</h3>
-<sub>By Dionne Searcey</sub>
-<p>The state is courting high-tech investments, but a new industrial park may lack enough water. Opponents say piping it from miles away might dry out residential wells.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>What’s in a Name? The Battle of Baby T. Rex and Nanotyrannus.</h3>
+<sub>By Julia Jacobs and Zachary Small</sub>
+<p>A dinosaur fossil for sale in London embodies one of the most heated debates in paleontology.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>LaPierre, Longtime N.R.A. Leader, Faces Trial That Could End His Reign</h3>
 <sub>By Danny Hakim</sub>
-<p>A lawsuit brought by New York’s attorney general against Wayne LaPierre and three other N.R.A. insiders accuses the gun-rights group of decades of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A lawsuit brought by New York’s attorney general against Wayne LaPierre and three other N.R.A. insiders accuses the gun rights group of decades of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>As Mikaela Shiffrin Considers How to Top Herself, She Studies Taylor Swift</h3>
+<sub>By Bill Pennington</sub>
+<p>Shiffrin, the champion American ski racer, is an unabashed Swiftie, and has long seen the pop culture force as a textbook guide for navigating fame, adversity and unprecedented success.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard’s President Faces New Plagiarism Accusations</h3>
+<sub>By Anemona Hartocollis</sub>
+<p>An unsigned complaint published online in The Washington Free Beacon, a conservative journal, added to previous allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>Trump’s Final Battle Has Begun</h3>
+<sub>By Frank Bruni</sub>
+<p>The 2024 presidential election represents a definitive test for America.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
