@@ -60,24 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-It looks like a lot is going on in the world right now. Israel&#39;s Supreme Court has just struck down a move to curb its powers, and South Korean opposition leader Lee Jae-myung was recently stabbed. Hundreds of migrants have been dropped off in New Jersey to avoid New York rules, and Japan was hit by a powerful earthquake. Trump is making an ambitious argument for &quot;absolute immunity&quot; after his acquittal in his second impeachment trial, and Peter Magubane, who fought apartheid with his camera, passed away. On a less serious note, people are making cooking resolutions and locking in high interest rates for their savings accounts.</p>
+There are a few major stories happening in the world right now. In Israel, their Supreme Court recently issued a landmark ruling that broke with previous precedent. In South Korea, an opposition leader was attacked and has since been arrested on corruption charges. Russia is under fire for bombing Ukraine following a deadly attack in one of its cities. Further, there was an earthquake in Japan that caused buildings to collapse trapping some people underneath. Finally, the U.S. is debating whether former President Trump should be granted &quot;absolute immunity&quot; following his second impeachment trial.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel’s Top Court Strikes Down Move to Curb Its Powers</h3>
-<sub>By Isabel Kershner, Aaron Boxerman and Thomas Fuller</sub>
-<p>The Supreme Court, by the narrowest of margins, rejected a law pushed by Netanyahu allies that limited its authority to review government decisions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Here is what Israel’s Supreme Court justices said in their landmark ruling.</h3>
+<h3>What Israel’s Supreme Court Justices Wrote in Their Landmark Ruling</h3>
 <sub>By Aaron Boxerman</sub>
-<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The full decision, which exceeded 250,000 words, marked the first time that Israel’s highest court had struck down a quasi-constitutional Basic Law.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>South Korean Opposition Leader Is Stabbed</h3>
 <sub>By Choe Sang-Hun</sub>
-<p>Lee Jae-myung, the leader of the Democratic Party, was stabbed in the neck in the city of Busan. No information about his condition was immediately available.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Lee Jae-myung, who leads the Democratic Party, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee was flown to Seoul for treatment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -93,15 +87,15 @@ It looks like a lot is going on in the world right now. Israel&#39;s Supreme Cou
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Powerful Earthquake Hits Japan, and Officials Warn of Aftershocks</h3>
-<sub>By Motoko Rich</sub>
-<p>There were reports of collapsed buildings and people being trapped underneath them. The quake disrupted electricity and phone service, and initially raised fears of a tsunami.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<h3>Russia Hammers Kyiv With Missiles in Large-Scale Attack</h3>
+<sub>By Constant Méheut</sub>
+<p>Ukraine’s Air Force said the barrage involved some of Russia’s most powerful weapons and also targeted other Ukrainian cities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Map: Earthquake Strikes Japan</h3>
-<sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
-<p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Putin Vows to Keep Up Bombardment After a Russian City Is Hit</h3>
+<sub>By Anatoly Kurmanaev and Constant Méheut</sub>
+<p>President Vladimir V. Putin of Russia says his country will continue targeting Ukrainian cities in retaliation for a deadly attack on the city of Belgorod on Saturday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -117,9 +111,15 @@ It looks like a lot is going on in the world right now. Israel&#39;s Supreme Cou
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Peter Magubane, 91, Who Fought Apartheid With His Camera, Is Dead</h3>
-<sub>By Alan Cowell</sub>
-<p>He documented the cruelties of white South African rule, and he was made to pay for it, enduring beatings and 586 consecutive days in solitary confinement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Powerful Earthquake Hits Japan, and Officials Warn of Aftershocks</h3>
+<sub>By Motoko Rich</sub>
+<p>There were reports of collapsed buildings and people being trapped underneath them. The quake disrupted electricity and phone service, and initially raised fears of a tsunami.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Map: Earthquake Strikes Japan</h3>
+<sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
+<p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
