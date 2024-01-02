@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-There has been a lot of news happening around the world recently. In South Korea, the opposition leader was stabbed by a 66-year-old man, and he is now recovering from surgery. In India, despite the government investing in infrastructure, businesses and foreign investors are not increasing investment, hindering the economy from making the same progress as China&#39;s. In Britain, power grid shortages and slow planning authorities have been holding back economic growth. In Japan, a plane exploded while landing at the airport and a powerful earthquake killed 48 people. Russia has also launched several missiles towards Ukraine recently. Closer to home, there is ongoing legal action against the National Rifle Association and its leader. Finally, a total eclipse will be visible across North America this April, which will be an important moment in space exploration history.</p>
+There has been a lot going on in the world recently. In Israel, there&#39;s been a battle over what identity the country will take, and Monday&#39;s court ruling is adding to the crisis. There was also a powerful earthquake in Japan that caused death and destruction, as well as an airplane crash in Tokyo that evacuated all of the passengers. India is chasing China&#39;s economy, but it&#39;s hitting roadblocks like power grids and planning authorities. In South Korea, the opposition leader was stabbed by a 66-year-old man and is now recovering from surgery. Russia is launching missiles on Kyiv, Ukraine, and Indiana is considering piping groundwater for microchip-making which could potentially dry out residential wells. Lastly, there&#39;s a lawsuit brought by New York&#39;s attorney general against Wayne LaPierre and other N.R.A. insiders accusing them of corruption.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>The Twin Fronts in the Battle Over Israel’s Identity</h3>
+<sub>By Steven Erlanger</sub>
+<p>Monday’s court ruling joined the war in Gaza in a widening crisis over what kind of state Israel will be.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Israel’s Landmark Ruling, and a Mickey Mouse Copyright Expires</h3>
 <sub>By New York Times Audio</sub>
@@ -69,51 +75,9 @@ There has been a lot of news happening around the world recently. In South Korea
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>South Korean Opposition Leader Is Stabbed</h3>
-<sub>By Choe Sang-Hun</sub>
-<p>Lee Jae-myung, the Democratic Party head, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee is now recovering from surgery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>India Is Chasing China’s Economy. But Something Is Holding It Back.</h3>
-<sub>By Alex Travelli</sub>
-<p>Long-term investment in India by businesses is stagnant, and foreign money is falling, even as the government is driving growth with infrastructure spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Britain’s Economy Is ‘Not Working.’ Here Are 2 Key Reasons.</h3>
-<sub>By Eshe Nelson</sub>
-<p>The power grid can’t keep up with demand for connections, and local planning authorities can block new construction for years. Overcoming these roadblocks has gained essential support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>A Stunning Eclipse, a Moon Race and Other Space Events in 2024</h3>
-<sub>By Michael Roston</sub>
-<p>In April, people across North America will be able to gaze at a stunning total eclipse. And astronauts may get closer to that promised moon landing.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Plane Explodes in Flames While Landing at Airport in Tokyo</h3>
 <sub>By Motoko Rich and Hisako Ueno</sub>
 <p>Japan Airlines said all 367 passengers and 12 crew members had evacuated the jet. Five crew members on a Coast Guard plane that collided with it were killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Hammers Kyiv With Missiles in Large-Scale Attack</h3>
-<sub>By Constant Méheut</sub>
-<p>Ukraine’s Air Force said the barrage involved some of Russia’s most powerful weapons and also targeted other Ukrainian cities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In 2024, Expect New Debates on A.I., Gender and Guns</h3>
-<sub>By Rick Rojas</sub>
-<p>Some of the most contentious issues in the country will dominate the agendas of state legislatures returning to work in the coming days and weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>LaPierre, Longtime N.R.A. Leader, Faces Trial That Could End His Reign</h3>
-<sub>By Danny Hakim</sub>
-<p>A lawsuit brought by New York’s attorney general against Wayne LaPierre and three other N.R.A. insiders accuses the gun-rights group of decades of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -128,10 +92,46 @@ There has been a lot of news happening around the world recently. In South Korea
 <p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>India Is Chasing China’s Economy. But Something Is Holding It Back.</h3>
+<sub>By Alex Travelli</sub>
+<p>Long-term investment in India by businesses is stagnant, and foreign money is falling, even as the government is driving growth with infrastructure spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Britain’s Economy Is ‘Not Working.’ Here Are 2 Key Reasons.</h3>
+<sub>By Eshe Nelson</sub>
+<p>The power grid can’t keep up with demand for connections, and local planning authorities can block new construction for years. Overcoming these roadblocks has gained essential support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The People Who Brought You Travis Kelce</h3>
 <sub>By Zach Schonbrun</sub>
 <p>A plan was hatched to make the football player “as famous as The Rock.” It began long before you might guess.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South Korean Opposition Leader Is Stabbed</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Lee Jae-myung, the Democratic Party head, was attacked by a 66-year-old man in the city of Busan, the police said. Mr. Lee is now recovering from surgery.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Russia Hammers Kyiv With Missiles in Large-Scale Attack</h3>
+<sub>By Constant Méheut</sub>
+<p>Ukraine’s Air Force said the barrage involved some of Russia’s most powerful weapons and also targeted other Ukrainian cities.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-climate-blue" alt="">
+<h3>Indiana’s Plan to Pipe In Groundwater for Microchip-Making Draws Fire</h3>
+<sub>By Dionne Searcey</sub>
+<p>The state is courting high-tech investments, but a new industrial park may lack enough water. Opponents say piping it from miles away might dry out residential wells.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>LaPierre, Longtime N.R.A. Leader, Faces Trial That Could End His Reign</h3>
+<sub>By Danny Hakim</sub>
+<p>A lawsuit brought by New York’s attorney general against Wayne LaPierre and three other N.R.A. insiders accuses the gun-rights group of decades of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
