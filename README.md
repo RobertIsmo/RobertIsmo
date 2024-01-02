@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 1, Central Standard Time</p>
 <p>
-There&#39;s some interesting news around the world right now. Israel just announced that they are going to begin withdrawing several brigades from the Gaza Strip. Many are saying this could signal an overall shift to a more limited and targeted war in the region. On top of that, there was a powerful earthquake that recently hit Japan and several buildings have collapsed with people trapped underneath. In the United States, there has been a lot of controversy surrounding Trump&#39;s attempts to get immunity following his second impeachment trial. Things are heating up in New Haven as well, with local pizza joints looking to cash in on the city&#39;s reputation as a pizza town. Finally, if you are looking for ways to save money in 2021, it might be a good time to lock in high interest rates on your savings since rates are currently at their highest level in years.</p>
+There is a lot happening in the world right now. In Israel, its top court has struck down a move to curb its powers, and Prime Minister Benjamin Netanyahu has pulled several brigades from the Gaza Strip. In Japan, there has been a powerful earthquake and officials are warning of more aftershocks. Also, hundreds of migrants have been dropped off in New Jersey to avoid the new rules in New York. Lastly, former US President Donald Trump is making an argument for ‘absolute immunity’ following his second impeachment trial.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israel’s Top Court Strikes Down Move to Curb Its Powers</h3>
+<sub>By Isabel Kershner, Aaron Boxerman and Thomas Fuller</sub>
+<p>The Supreme Court, by the narrowest of margins, rejected a law pushed by Netanyahu allies that limited its authority to review government decisions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Here is what Israel’s Supreme Court justices said in their landmark ruling.</h3>
+<sub>By Aaron Boxerman</sub>
+<p>  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel Says It Will Pull Several Brigades From Gaza Strip</h3>
 <sub>By Aaron Boxerman, Isabel Kershner and Eric Schmitt</sub>
@@ -80,10 +92,10 @@ There&#39;s some interesting news around the world right now. Israel just announ
 <p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s Most Ambitious Argument in His Bid for ‘Absolute Immunity’</h3>
-<sub>By Adam Liptak</sub>
-<p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>To Avoid New York Rules, Hundreds of Migrants Dropped Off in New Jersey</h3>
+<sub>By Stefanos Chen and Jeffery C. Mays</sub>
+<p>Migrants, sent mostly from Texas, arrived at train stops outside New York City over the weekend to sidestep a new order limiting how they arrive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -92,10 +104,10 @@ There&#39;s some interesting news around the world right now. Israel just announ
 <p>Whether you want to eat less meat, bake more crowd-pleasing desserts or (finally) learn how to cook, here are some first steps for the new year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>These Classic Characters Are Losing Copyright Protection. They May Never Be the Same.</h3>
-<sub>By Sopan Deb</sub>
-<p>What could happen to the original version of Mickey Mouse and others after they entered the public domain on Jan. 1? Hint: think Winnie the Pooh wielding a sledgehammer.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s Most Ambitious Argument in His Bid for ‘Absolute Immunity’</h3>
+<sub>By Adam Liptak</sub>
+<p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-magazine-blue" alt="">
@@ -110,16 +122,10 @@ There&#39;s some interesting news around the world right now. Israel just announ
 <p>When you talk to students about social media radicalization, racism and bullying, you learn how desperate they are for some guidance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>To Avoid New York Rules, Hundreds of Migrants Dropped Off in New Jersey</h3>
-<sub>By Stefanos Chen and Jeffery C. Mays</sub>
-<p>Hundreds of migrants, sent mostly from Texas, arrived at train stops outside New York City over the weekend to sidestep a new order limiting their arrival.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Can New Haven’s Legendary Pizza Joints Play on the National Stage?</h3>
-<sub>By Amelia Nierenberg and Joe Buglewicz</sub>
-<p>The city has long been known as a pizza town. Now other places seem to be trying to cash in on the hype.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Peter Magubane, 91, Who Fought Apartheid With His Camera, Is Dead</h3>
+<sub>By Alan Cowell</sub>
+<p>He documented the cruelties of white South African rule, and he was made to pay for it, enduring beatings and 586 consecutive days in solitary confinement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-your-money-blue" alt="">
@@ -127,12 +133,6 @@ There&#39;s some interesting news around the world right now. Israel just announ
 <sub>By Ron Lieber</sub>
 <p>The new, simplified version of the college student aid form was supposed to become available in December. It was, kind of, for some people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>Now May Be the Time to Lock In High Interest Rates on Your Savings</h3>
-<sub>By Ann Carrns</sub>
-<p>Rates on C.D.s are the highest they’ve been in years. But the Fed is signaling that it may cut its borrowing costs next year, and C.D. rates could follow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
