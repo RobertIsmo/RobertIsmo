@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 1, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. In Israel, its top court has struck down a move to curb its powers, and Prime Minister Benjamin Netanyahu has pulled several brigades from the Gaza Strip. In Japan, there has been a powerful earthquake and officials are warning of more aftershocks. Also, hundreds of migrants have been dropped off in New Jersey to avoid the new rules in New York. Lastly, former US President Donald Trump is making an argument for ‘absolute immunity’ following his second impeachment trial.</p>
+There is a lot going on in the world right now. In Israel, the Supreme Court has just struck down a law that would limit its authority to review government decisions. South Korea is facing serious unrest, as opposition leader Lee Jae-myung was stabbed and prosecutors now want to arrest him for hunger striking. In Japan, a powerful earthquake struck, with reports of collapsed buildings and people trapped underneath them. In New York, hundreds of migrants have been dropped off in New Jersey to avoid new rules. And in South Africa, iconic photographer Peter Magubane died at 91, leaving behind an incredible legacy of fighting apartheid with his camera.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Top Court Strikes Down Move to Curb Its Powers</h3>
@@ -75,9 +75,21 @@ There is a lot happening in the world right now. In Israel, its top court has st
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israel Says It Will Pull Several Brigades From Gaza Strip</h3>
-<sub>By Aaron Boxerman, Isabel Kershner and Eric Schmitt</sub>
-<p>Analysts say the announcement could signal a shift to the more limited and targeted war against Hamas that the United States has been urging.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>South Korean Opposition Leader Is Stabbed</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Lee Jae-myung, the leader of the Democratic Party, was stabbed in the neck in the city of Busan. No information about his condition was immediately available.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>South Korean Prosecutors Want to Arrest Hunger-Striking Opposition Leader</h3>
+<sub>By Choe Sang-Hun</sub>
+<p>Lee Jae-myung has been the subject of a series of investigations since losing the 2022 presidential election. He says his rival now runs “a dictatorship by prosecutors.​”  <a href="https://nyti.ms/44QNc3z"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, September 18, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>To Avoid New York Rules, Hundreds of Migrants Dropped Off in New Jersey</h3>
+<sub>By Stefanos Chen and Jeffery C. Mays</sub>
+<p>Migrants, sent mostly from Texas, arrived at train stops outside New York City over the weekend to sidestep a new order limiting how they arrive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -90,12 +102,6 @@ There is a lot happening in the world right now. In Israel, its top court has st
 <h3>Map: Earthquake Strikes Japan</h3>
 <sub>By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky</sub>
 <p>View the location of the quake’s epicenter and shake area.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>To Avoid New York Rules, Hundreds of Migrants Dropped Off in New Jersey</h3>
-<sub>By Stefanos Chen and Jeffery C. Mays</sub>
-<p>Migrants, sent mostly from Texas, arrived at train stops outside New York City over the weekend to sidestep a new order limiting how they arrive.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-dining-blue" alt="">
@@ -126,12 +132,6 @@ There is a lot happening in the world right now. In Israel, its top court has st
 <h3>Peter Magubane, 91, Who Fought Apartheid With His Camera, Is Dead</h3>
 <sub>By Alan Cowell</sub>
 <p>He documented the cruelties of white South African rule, and he was made to pay for it, enduring beatings and 586 consecutive days in solitary confinement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-your-money-blue" alt="">
-<h3>I Spent New Year’s Eve Trying to Do the FAFSA. It Didn’t Go Well.</h3>
-<sub>By Ron Lieber</sub>
-<p>The new, simplified version of the college student aid form was supposed to become available in December. It was, kind of, for some people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 </ol>
