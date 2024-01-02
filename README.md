@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Monday, January 1, Central Standard Time</p>
+<p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In Israel, the Supreme Court has just struck down a law that would limit its authority to review government decisions. South Korea is facing serious unrest, as opposition leader Lee Jae-myung was stabbed and prosecutors now want to arrest him for hunger striking. In Japan, a powerful earthquake struck, with reports of collapsed buildings and people trapped underneath them. In New York, hundreds of migrants have been dropped off in New Jersey to avoid new rules. And in South Africa, iconic photographer Peter Magubane died at 91, leaving behind an incredible legacy of fighting apartheid with his camera.</p>
+It looks like a lot is going on in the world right now. Israel&#39;s Supreme Court has just struck down a move to curb its powers, and South Korean opposition leader Lee Jae-myung was recently stabbed. Hundreds of migrants have been dropped off in New Jersey to avoid New York rules, and Japan was hit by a powerful earthquake. Trump is making an ambitious argument for &quot;absolute immunity&quot; after his acquittal in his second impeachment trial, and Peter Magubane, who fought apartheid with his camera, passed away. On a less serious note, people are making cooking resolutions and locking in high interest rates for their savings accounts.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Israel’s Top Court Strikes Down Move to Curb Its Powers</h3>
@@ -116,23 +116,23 @@ There is a lot going on in the world right now. In Israel, the Supreme Court has
 <p>The former president says his acquittal by the Senate in his second impeachment trial, for inciting insurrection, bars any prosecution on similar grounds.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-magazine-blue" alt="">
-<h3>The Instagram Account That Shattered a California High School</h3>
-<sub>By Dashka Slater</sub>
-<p>It had barely a dozen followers, but the discovery of its racist posts turned a Bay Area community against itself — and changed students’ lives forever.  <a href="https://nyti.ms/3sfrlFc"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, August 17, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Do You Respond to a Young Person Upset by Racist Jokes at School?</h3>
-<sub>By Dashka Slater</sub>
-<p>When you talk to students about social media radicalization, racism and bullying, you learn how desperate they are for some guidance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Peter Magubane, 91, Who Fought Apartheid With His Camera, Is Dead</h3>
 <sub>By Alan Cowell</sub>
 <p>He documented the cruelties of white South African rule, and he was made to pay for it, enduring beatings and 586 consecutive days in solitary confinement.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>I Spent New Year’s Eve Trying to Do the FAFSA. It Didn’t Go Well.</h3>
+<sub>By Ron Lieber</sub>
+<p>The new, simplified version of the college student aid form was supposed to become available in December. It was, kind of, for some people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-your-money-blue" alt="">
+<h3>Now May Be the Time to Lock In High Interest Rates on Your Savings</h3>
+<sub>By Ann Carrns</sub>
+<p>Rates on C.D.s are the highest they’ve been in years. But the Fed is signaling that it may cut its borrowing costs next year, and C.D. rates could follow.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, December 29, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
