@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-There is a growing crisis in Israel over what kind of state it should be as there have recently been court rulings and fighting in Gaza. In Japan, a plane at an airport exploded into flames earlier this week and unfortunately five crew members on a Coast Guard plane that collided with it were killed. Moreover, the death toll is rising after a powerful earthquake in the same region. On a different note, India has been trying to boost its economy and foreign investment with infrastructure spending, while Britain&#39;s is being held back by issues such as their power grid and local planning authorities. Additionally, there&#39;s a heated debate in paleontology going on regarding the naming of one of the dinosaur fossils that is up for sale in London. Furthermore, the leader of the NRA, Wayne LaPierre, is currently facing trial for decades of corruption and Harvard&#39;s president is facing new plagiarism accusations. Lastly, President Trump&#39;s 2024 election has started to become a definitive test for America.</p>
+There has been quite a bit happening in the world lately. In the US, Harvard’s president recently resigned after plagiarism accusations while House Republican Rep. Stefanik is claiming credit for it. Over in Japan, a plane exploded while landing at an airport and tragically, five people on a Coast Guard plane that collided with it were killed. Additionally, Japan was hit by a powerful earthquake which has resulted in 55 deaths so far. On the economic front, India is trying to catch up to China&#39;s economy but is struggling due to lack of investment and planning issues, while Britain is having difficulty as their power grid can’t keep up with demand. And in the cultural sphere, Travis Kelce’s fame is being attributed to a plan hatched long before you might expect, and paleontologists are debating over a dinosaur fossil that is worth $20 million. Finally, Russian and Ukraine have been engaged in an escalating cycle of air assaults while Wayne LaPierre, longtime N.R.A leader, is facing trial which could end his reign. Ski racer Mikaela Shiffrin has also been in the news as she looks for ways to top her success while also taking tips from pop culture force Taylor Swift on how to manage fame and adversity.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read Claudine Gay’s resignation letter.</h3>
+<sub>By The New York Times</sub>
+<p>Gay resigned as Harvard’s president on Tuesday after a new round of plagiarism accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Stefanik, whose aggressive questioning of Gay went viral, claimed credit for her exit.</h3>
+<sub>By Annie Karni</sub>
+<p>Ms. Stefanik, the No. 4 Republican in the House, has counted the resignations as a political win.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>The Twin Fronts in the Battle Over Israel’s Identity</h3>
 <sub>By Steven Erlanger</sub>
@@ -70,8 +82,8 @@ There is a growing crisis in Israel over what kind of state it should be as ther
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Plane Explodes in Flames While Landing at Airport in Tokyo</h3>
-<sub>By Motoko Rich and Hisako Ueno</sub>
-<p>Japan Airlines said all 367 passengers and 12 crew members had evacuated the jet. Five crew members on a Coast Guard plane that collided with it were killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Motoko Rich, Hisako Ueno and Kaly Soto</sub>
+<p>Japan Airlines said all 367 passengers and 12 crew members had evacuated the jet. Five crew members on a Japanese Coast Guard plane that collided with it were killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -107,7 +119,7 @@ There is a growing crisis in Israel over what kind of state it should be as ther
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
 <h3>What’s in a Name? The Battle of Baby T. Rex and Nanotyrannus.</h3>
 <sub>By Julia Jacobs and Zachary Small</sub>
-<p>A dinosaur fossil for sale in London embodies one of the most heated debates in paleontology.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A dinosaur fossil listed for sale in London for $20 million embodies one of the most heated debates in paleontology.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -120,18 +132,6 @@ There is a growing crisis in Israel over what kind of state it should be as ther
 <h3>As Mikaela Shiffrin Considers How to Top Herself, She Studies Taylor Swift</h3>
 <sub>By Bill Pennington</sub>
 <p>Shiffrin, the champion American ski racer, is an unabashed Swiftie, and has long seen the pop culture force as a textbook guide for navigating fame, adversity and unprecedented success.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard’s President Faces New Plagiarism Accusations</h3>
-<sub>By Anemona Hartocollis</sub>
-<p>An unsigned complaint published online in The Washington Free Beacon, a conservative journal, added to previous allegations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>Trump’s Final Battle Has Begun</h3>
-<sub>By Frank Bruni</sub>
-<p>The 2024 presidential election represents a definitive test for America.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
