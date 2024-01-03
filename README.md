@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-There has been a lot of news about world events recently. In Iran, 73 people were killed in explosions near the tomb of a former military general. Inflation has surprisingly quickly declined in America this year and economists are speculating if it will last into next year. There was a controversy at Harvard involving campus politics which ultimately resulted in the president&#39;s resignation. The US government has accused Hamas of using a Gaza hospital as a command center. Japan Airlines faced an emergency situation but still managed to evacuate all 367 passengers safely through well-trained crews and advanced technology. Joe Biden and Nancy Pelosi have both laid out specific plans for potentially cracking down on immigration policies, with Biden speaking at churches in South Carolina and Valley Forge about the January 6th insurrection and Pelosi leading a GOP trip to the Mexican border. Lastly, there is set to be the reopening of a crucial crossing between Mexico and Arizona this week that thousands of workers, families, and local businesses rely on daily for commerce.</p>
+I wanted to tell you what&#39;s been going on in the world recently. 103 people were killed in Iran in very tragic blasts near a general&#39;s tomb. The explosions occurred at a commemoration honoring his death - he was a powerful commander heading Iran’s Quds Force, and was considered a hero by some people in the country.
+
+In economics news, America has had good news on inflation, while in the auto industry we saw a 14% jump in US car sales last year. But this also brought with it rising interest rates which are now posing a threat to sales.
+
+On the political front, Harvard has had a shake-up after their president unexpectedly resigned due to an ongoing crisis in American academia, and their new interim president is Alan Garber, an economist and physician who criticized the university&#39;s initial response to the Israel-Hamas war. Meanwhile, the killing of Saleh al-Arouri—a key Hamas strategist—in Lebanon has set the organization back at a vulnerable time.
+
+As for entertainment news, Oscar buzz is all over the place due to the prevalence of excellent films this year. And finally, we have a unique story out of Japan about how—despite huge flames engulfing an airplane—the crew was able to maintain order on board and evacuate 367 passengers without injury.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>73 Reported Killed in Iran in Blasts Near General’s Tomb</h3>
-<sub>By Vivian Yee, Farnaz Fassihi and Leily Nikounazar</sub>
-<p>The explosions, according to Iranian officials, took place at a ceremony commemorating Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>103 Reported Killed in Iran in Blasts Near General’s Tomb</h3>
+<sub>By Vivian Yee and Farnaz Fassihi</sub>
+<p>The explosions took place at a commemoration for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Who Was the Iranian General Qassim Suleimani?</h3>
+<sub>By Emma Bubola</sub>
+<p>General Suleimani, the powerful commander heading Iran’s Quds Force, was considered a hero by some in the country. The anniversary of his death has attracted horrific violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -74,11 +86,17 @@ There has been a lot of news about world events recently. In Iran, 73 people wer
 <p>One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How a Proxy Fight Over Campus Politics Brought Down Harvard’s President</h3>
-<sub>By Nicholas Confessore</sub>
-<p>Amid plagiarism allegations and a backlash to campus antisemitism, Claudine Gay became an avatar for broader criticisms of academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>General Motors Reports a 14% Jump in U.S. Auto Sales in 2023</h3>
+<sub>By Neal E. Boudette</sub>
+<p>The nation’s largest automaker sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from rising interest rates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-books-blue" alt="">
+<h3>The Word That Undid Claudine Gay</h3>
+<sub>By A.O. Scott</sub>
+<p>The fate of Harvard’s president is the latest evidence of a deep crisis in American academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Who Is Alan Garber, Harvard’s Interim President?</h3>
@@ -92,11 +110,11 @@ There has been a lot of news about world events recently. In Iran, 73 people wer
 <p>The resignation of Harvard’s president shows how the Hamas attacks have scrambled campus politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Hamas Used Gaza Hospital as a Command Center, U.S. Intelligence Says</h3>
-<sub>By Julian E. Barnes</sub>
-<p>Israeli forces stormed the site in November, drawing intense international scrutiny and criticism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Leader’s Killing Is a Blow, but Not a Knockout, for Hamas</h3>
+<sub>By Ben Hubbard</sub>
+<p>The killing of Saleh al-Arouri, a key Hamas strategist, in Lebanon sets the organization back at a vulnerable time. The group has rebuilt after the assassination of other leaders, though.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>They Can’t All Be Nominated for Best Picture, Can They?</h3>
@@ -120,18 +138,6 @@ There has been a lot of news about world events recently. In Iran, 73 people wer
 <h3>Biden Plans 2 Campaign Speeches to Underscore Contrasts With Trump</h3>
 <sub>By Lisa Lerer</sub>
 <p>The president will speak at Valley Forge on the anniversary of the Jan. 6 Capitol riot, and later at a South Carolina church where a white supremacist killed nine people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Johnson Heads to Border, Turning Up Heat on Biden for an Immigration Deal</h3>
-<sub>By Karoun Demirjian</sub>
-<p>The visit by the speaker and scores of House Republicans comes as the G.O.P. seeks to increase pressure on President Biden and Democrats to agree to severe new border policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Vital Crossing Between Mexico and Arizona Set to Reopen This Week</h3>
-<sub>By Jack Healy</sub>
-<p>The border crossing in a remote Arizona community was a passage for thousands of workers, families and businesses in the region who relied on it every day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
