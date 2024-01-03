@@ -60,16 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-I wanted to tell you what&#39;s been going on in the world recently. 103 people were killed in Iran in very tragic blasts near a general&#39;s tomb. The explosions occurred at a commemoration honoring his death - he was a powerful commander heading Iran’s Quds Force, and was considered a hero by some people in the country.
-
-In economics news, America has had good news on inflation, while in the auto industry we saw a 14% jump in US car sales last year. But this also brought with it rising interest rates which are now posing a threat to sales.
-
-On the political front, Harvard has had a shake-up after their president unexpectedly resigned due to an ongoing crisis in American academia, and their new interim president is Alan Garber, an economist and physician who criticized the university&#39;s initial response to the Israel-Hamas war. Meanwhile, the killing of Saleh al-Arouri—a key Hamas strategist—in Lebanon has set the organization back at a vulnerable time.
-
-As for entertainment news, Oscar buzz is all over the place due to the prevalence of excellent films this year. And finally, we have a unique story out of Japan about how—despite huge flames engulfing an airplane—the crew was able to maintain order on board and evacuate 367 passengers without injury.</p>
+There has been a lot of news this week about the tragic celebrations in Iran for the death anniversary of Qassim Suleimani, a top commander killed by an American drone strike four years ago. 95 people reportedly lost their lives and President Biden was among those condemning the violence. On the economic front, economists are wondering if the good news on inflation will last into 2024. The Federal Reserve recently released minutes that indicate interest rates may be reaching or near peak while auto sales are expected to slow after a strong 2023. In other news, Harvard&#39;s president just resigned due to a deep crisis in American academia as an illustration of how the Hamas attacks have scrambled campus politics. Finally, in more positive news, Japan Airlines Flight 516 had a successful emergency landing even with 373 panicked passengers inside and 17-year-old Anton Deibe recounted his story of survival. Meanwhile, Iowa&#39;s Ramaswamy&#39;s long-distance candidacy is nearing its finish line with less than two weeks left until the caucuses kick off.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>103 Reported Killed in Iran in Blasts Near General’s Tomb</h3>
+<h3>95 Reported Killed in Iran in Blasts Near General’s Tomb</h3>
 <sub>By Vivian Yee and Farnaz Fassihi</sub>
 <p>The explosions took place at a commemoration for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
@@ -87,9 +81,15 @@ As for entertainment news, Oscar buzz is all over the place due to the prevalenc
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>General Motors Reports a 14% Jump in U.S. Auto Sales in 2023</h3>
+<h3>Fed Minutes Showed Officials Feeling Better About Inflation</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Central bankers wanted to signal that interest rates were likely at or near their peak while keeping their options open, December minutes showed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Auto Sales Are Expected to Slow After a Strong 2023</h3>
 <sub>By Neal E. Boudette</sub>
-<p>The nation’s largest automaker sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from rising interest rates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Automakers sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from higher interest rates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -97,12 +97,6 @@ As for entertainment news, Oscar buzz is all over the place due to the prevalenc
 <sub>By A.O. Scott</sub>
 <p>The fate of Harvard’s president is the latest evidence of a deep crisis in American academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Who Is Alan Garber, Harvard’s Interim President?</h3>
-<sub>By Jacey Fortin</sub>
-<p>Dr. Garber is an economist and physician who told The Harvard Crimson that he regretted the university’s initial statement in response to the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The New Campus Politics</h3>
@@ -128,16 +122,16 @@ As for entertainment news, Oscar buzz is all over the place due to the prevalenc
 <p>In addition to a well-trained crew and an advanced plane, the safe evacuation of 367 passengers came down to a relative absence of panic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Swedish Teenager Was on Japan Airlines Flight 516. Here’s His Story.</h3>
+<sub>By Christina Anderson</sub>
+<p>Anton Deibe, 17, and his family were flying into Tokyo when their plane collided with a Coast Guard aircraft.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Ramaswamy Is Still Sprinting Across Iowa, While His Polling Barely Moves</h3>
 <sub>By Kellen Browning and Molly Longman</sub>
 <p>The 38-year-old entrepreneur has maintained a grueling schedule, but questions about the goals of his candidacy are mounting with less than two weeks before the caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plans 2 Campaign Speeches to Underscore Contrasts With Trump</h3>
-<sub>By Lisa Lerer</sub>
-<p>The president will speak at Valley Forge on the anniversary of the Jan. 6 Capitol riot, and later at a South Carolina church where a white supremacist killed nine people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
