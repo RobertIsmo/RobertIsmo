@@ -60,20 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-Recently there has been a lot of turmoil in the US when it comes to politics and social issues. Harvard&#39;s President, Claudine Gay, recently resigned due to plagiarism allegations and a backlash against antisemitism on campus. This sparked increased scrutiny of her academic record. Alan Garber is Harvard&#39;s Interim President. There have also been the recent Hamas attacks which have caused tension on campus and stirred up politics. 
-
-Meanwhile, there has been some good news with inflation fading much faster than expected and border crossings between Mexico and Arizona set to reopen. Unfortunately, Joe Biden and House GOP members are currently in a heated debate about immigration policies. Finally, Joe Biden is giving two speeches to emphasize the contrasts of his policies compared to Trump&#39;s.</p>
+There has been a lot of news about world events recently. In Iran, 73 people were killed in explosions near the tomb of a former military general. Inflation has surprisingly quickly declined in America this year and economists are speculating if it will last into next year. There was a controversy at Harvard involving campus politics which ultimately resulted in the president&#39;s resignation. The US government has accused Hamas of using a Gaza hospital as a command center. Japan Airlines faced an emergency situation but still managed to evacuate all 367 passengers safely through well-trained crews and advanced technology. Joe Biden and Nancy Pelosi have both laid out specific plans for potentially cracking down on immigration policies, with Biden speaking at churches in South Carolina and Valley Forge about the January 6th insurrection and Pelosi leading a GOP trip to the Mexican border. Lastly, there is set to be the reopening of a crucial crossing between Mexico and Arizona this week that thousands of workers, families, and local businesses rely on daily for commerce.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>73 Reported Killed in Iran in Blasts Near General’s Tomb</h3>
+<sub>By Vivian Yee, Farnaz Fassihi and Leily Nikounazar</sub>
+<p>The explosions, according to Iranian officials, took place at a ceremony commemorating Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Will America’s Good News on Inflation Last?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Proxy Fight Over Campus Politics Brought Down Harvard’s President</h3>
 <sub>By Nicholas Confessore</sub>
 <p>Amid plagiarism allegations and a backlash to campus antisemitism, Claudine Gay became an avatar for broader criticisms of academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
-<sub>By Jennifer Schuessler, Anemona Hartocollis, Michael Levenson and Alan Blinder</sub>
-<p>Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -88,18 +92,6 @@ Meanwhile, there has been some good news with inflation fading much faster than 
 <p>The resignation of Harvard’s president shows how the Hamas attacks have scrambled campus politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Top Hamas Official Is Killed, and Harvard President Resigns</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Will America’s Good News on Inflation Last?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hamas Used Gaza Hospital as a Command Center, U.S. Intelligence Says</h3>
 <sub>By Julian E. Barnes</sub>
@@ -110,6 +102,12 @@ Meanwhile, there has been some good news with inflation fading much faster than 
 <h3>They Can’t All Be Nominated for Best Picture, Can They?</h3>
 <sub>By Kyle Buchanan</sub>
 <p>It’s a very competitive year for the top Oscar. With precursor awards like the Golden Globes coming soon, here’s what may make the cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Flames Surged, Order Prevailed Inside a Japan Airlines Jet</h3>
+<sub>By Motoko Rich and Hisako Ueno</sub>
+<p>In addition to a well-trained crew and an advanced plane, the safe evacuation of 367 passengers came down to a relative absence of panic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
