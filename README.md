@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-There has been a lot happening in the world lately. In the US, Harvard&#39;s President Claudine Gay resigned after being accused of plagiarism and widespread antisemitism on campus. In New York, Senator Robert Menendez has been charged with taking bribes from Qatar&#39;s government. In the Middle East, an Israeli strike killed a top Hamas official amid increasing fears of a wider war. In Japan, miraculously all passengers survived when a plane erupted into flames after an emergency landing. And in politics, President Trump has been barred from the primary ballot in Maine and is appealing the decision.</p>
+It seems that politics are dominating the news right now. Harvard&#39;s President recently resigned over mounting plagiarism allegations as well as a lack of appropriate response to antisemitism on campus. Another political figure, Senator Robert Menendez of New Jersey faces a new accusation related to aiding the Qatari government, for which he has been indicted. Closer to home, former president Donald Trump has appealed a decision that would prevent him from being on the Maine primary ballot. Meanwhile in Israel, Prime Minister Netanyahu&#39;s allies are signaling a pause in efforts to reign in judicial power due to the conflict there. Miraculously, all passengers and crew members were saved after a plane erupted into flames while landing in Tokyo. Lastly, The People Who Brought You Travis Kelce is an interesting story about how they turned him into an internationally known celebrity.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
@@ -98,12 +98,6 @@ There has been a lot happening in the world lately. In the US, Harvard&#39;s Pre
 <p>Federal prosecutors on Tuesday indicted Senator Robert Menendez of New Jersey again, this time accusing him of using his authority to assist the government of Qatar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Top Hamas Official Is Killed in Lebanon as Fears Grow of a Wider War</h3>
-<sub>By Ben Hubbard, Ronen Bergman, Aaron Boxerman, Euan Ward and Eric Schmitt</sub>
-<p>The Israeli government would not comment on the death of Saleh al-Arouri. But a U.S. official said to expect Israel to assassinate Hamas officials “for years.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hamas Used Gaza Hospital as a Command Center, U.S. Intelligence Says</h3>
 <sub>By Julian E. Barnes</sub>
@@ -132,6 +126,12 @@ There has been a lot happening in the world lately. In the US, Harvard&#39;s Pre
 <h3>Trump Appeals Decision Barring Him From Maine Primary Ballot</h3>
 <sub>By Jenna Russell</sub>
 <p>The move attempts to overturn the decision which made Maine the second state to rule the former president ineligible for the primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Efforts to Remove Trump From the 2024 Ballot</h3>
+<sub>By Lazaro Gamio and Mitch Smith</sub>
+<p>See which states have active lawsuits to bar Donald J. Trump from the presidential primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
