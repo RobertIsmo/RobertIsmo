@@ -60,14 +60,10 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-It seems that politics are dominating the news right now. Harvard&#39;s President recently resigned over mounting plagiarism allegations as well as a lack of appropriate response to antisemitism on campus. Another political figure, Senator Robert Menendez of New Jersey faces a new accusation related to aiding the Qatari government, for which he has been indicted. Closer to home, former president Donald Trump has appealed a decision that would prevent him from being on the Maine primary ballot. Meanwhile in Israel, Prime Minister Netanyahu&#39;s allies are signaling a pause in efforts to reign in judicial power due to the conflict there. Miraculously, all passengers and crew members were saved after a plane erupted into flames while landing in Tokyo. Lastly, The People Who Brought You Travis Kelce is an interesting story about how they turned him into an internationally known celebrity.</p>
+Recently there has been a lot of turmoil in the US when it comes to politics and social issues. Harvard&#39;s President, Claudine Gay, recently resigned due to plagiarism allegations and a backlash against antisemitism on campus. This sparked increased scrutiny of her academic record. Alan Garber is Harvard&#39;s Interim President. There have also been the recent Hamas attacks which have caused tension on campus and stirred up politics. 
+
+Meanwhile, there has been some good news with inflation fading much faster than expected and border crossings between Mexico and Arizona set to reopen. Unfortunately, Joe Biden and House GOP members are currently in a heated debate about immigration policies. Finally, Joe Biden is giving two speeches to emphasize the contrasts of his policies compared to Trump&#39;s.</p>
 <ol>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
-<sub>By Jennifer Schuessler, Anemona Hartocollis, Michael Levenson and Alan Blinder</sub>
-<p>Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How a Proxy Fight Over Campus Politics Brought Down Harvard’s President</h3>
 <sub>By Nicholas Confessore</sub>
@@ -75,28 +71,34 @@ It seems that politics are dominating the news right now. Harvard&#39;s Presiden
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read Claudine Gay’s resignation letter.</h3>
-<sub>By The New York Times</sub>
-<p>Gay resigned as Harvard’s president on Tuesday after a new round of plagiarism accusations.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
+<sub>By Jennifer Schuessler, Anemona Hartocollis, Michael Levenson and Alan Blinder</sub>
+<p>Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Stefanik, whose aggressive questioning of Gay went viral, claimed credit for her exit.</h3>
-<sub>By Annie Karni</sub>
-<p>Ms. Stefanik, the No. 4 Republican in the House, has counted the resignations as a political win.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Who Is Alan Garber, Harvard’s Interim President?</h3>
+<sub>By Jacey Fortin</sub>
+<p>Dr. Garber is an economist and physician who told The Harvard Crimson that he regretted the university’s initial statement in response to the Israel-Hamas war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Menendez Faces a New Accusation: Aiding the Qatari Government</h3>
-<sub>By Tracey Tully, Benjamin Weiser and Nicholas Fandos</sub>
-<p>Federal prosecutors said Senator Robert Menendez, a New Jersey Democrat, accepted tens of thousands of dollars in bribes to help Qatar’s government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New Campus Politics</h3>
+<sub>By David Leonhardt</sub>
+<p>The resignation of Harvard’s president shows how the Hamas attacks have scrambled campus politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Read the Newest Menendez Indictment</h3>
-<sub></sub>
-<p>Federal prosecutors on Tuesday indicted Senator Robert Menendez of New Jersey again, this time accusing him of using his authority to assist the government of Qatar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Top Hamas Official Is Killed, and Harvard President Resigns</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Will America’s Good News on Inflation Last?</h3>
+<sub>By Jeanna Smialek</sub>
+<p>One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Hamas Used Gaza Hospital as a Command Center, U.S. Intelligence Says</h3>
@@ -104,35 +106,35 @@ It seems that politics are dominating the news right now. Harvard&#39;s Presiden
 <p>Israeli forces stormed the site in November, drawing intense international scrutiny and criticism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Netanyahu Allies Signal Pause in Campaign to Rein In Judges</h3>
-<sub>By Isabel Kershner and Roni Rabin</sub>
-<p>With Israel fighting in Gaza, people on both sides of the judiciary debate appear unwilling to return to the domestic upheaval that preceded the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A ‘Miracle’: Plane Erupts in Flames Landing in Tokyo, but All Aboard Survive</h3>
-<sub>By Motoko Rich, Hisako Ueno, Kaly Soto and Emma Bubola</sub>
-<p>Japan Airlines said all 367 passengers and 12 crew members had safely, evacuated the jet. But five crew members on a Japanese Coast Guard plane that collided with it were killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>The People Who Brought You Travis Kelce</h3>
-<sub>By Zach Schonbrun</sub>
-<p>A plan was hatched to make the football player “as famous as the Rock.” It began long before you might guess.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>They Can’t All Be Nominated for Best Picture, Can They?</h3>
+<sub>By Kyle Buchanan</sub>
+<p>It’s a very competitive year for the top Oscar. With precursor awards like the Golden Globes coming soon, here’s what may make the cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Appeals Decision Barring Him From Maine Primary Ballot</h3>
-<sub>By Jenna Russell</sub>
-<p>The move attempts to overturn the decision which made Maine the second state to rule the former president ineligible for the primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<h3>Ramaswamy Is Still Sprinting Across Iowa, While His Polling Barely Moves</h3>
+<sub>By Kellen Browning and Molly Longman</sub>
+<p>The 38-year-old entrepreneur has maintained a grueling schedule, but questions about the goals of his candidacy are mounting with less than two weeks before the caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Efforts to Remove Trump From the 2024 Ballot</h3>
-<sub>By Lazaro Gamio and Mitch Smith</sub>
-<p>See which states have active lawsuits to bar Donald J. Trump from the presidential primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<h3>Biden Plans 2 Campaign Speeches to Underscore Contrasts With Trump</h3>
+<sub>By Lisa Lerer</sub>
+<p>The president will speak at Valley Forge on the anniversary of the Jan. 6 Capitol riot, and later at a South Carolina church where a white supremacist killed nine people.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Johnson Heads to Border, Turning Up Heat on Biden for an Immigration Deal</h3>
+<sub>By Karoun Demirjian</sub>
+<p>The visit by the speaker and scores of House Republicans comes as the G.O.P. seeks to increase pressure on President Biden and Democrats to agree to severe new border policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Vital Crossing Between Mexico and Arizona Set to Reopen This Week</h3>
+<sub>By Jack Healy</sub>
+<p>The border crossing in a remote Arizona community was a passage for thousands of workers, families and businesses in the region who relied on it every day.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
