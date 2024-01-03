@@ -60,8 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-There has been quite a bit happening in the world lately. In the US, Harvard’s president recently resigned after plagiarism accusations while House Republican Rep. Stefanik is claiming credit for it. Over in Japan, a plane exploded while landing at an airport and tragically, five people on a Coast Guard plane that collided with it were killed. Additionally, Japan was hit by a powerful earthquake which has resulted in 55 deaths so far. On the economic front, India is trying to catch up to China&#39;s economy but is struggling due to lack of investment and planning issues, while Britain is having difficulty as their power grid can’t keep up with demand. And in the cultural sphere, Travis Kelce’s fame is being attributed to a plan hatched long before you might expect, and paleontologists are debating over a dinosaur fossil that is worth $20 million. Finally, Russian and Ukraine have been engaged in an escalating cycle of air assaults while Wayne LaPierre, longtime N.R.A leader, is facing trial which could end his reign. Ski racer Mikaela Shiffrin has also been in the news as she looks for ways to top her success while also taking tips from pop culture force Taylor Swift on how to manage fame and adversity.</p>
+There is a lot of news to catch up on from the US and around the world. In the US, Harvard University&#39;s President resigned following accusations of plagiarism and Senator Robert Menendez of New Jersey was indicted again for taking bribes from the Qatari government. In Israel, allies to Prime Minister Netanyahu suggested pausing the conflict over judges while in Japan, a plane erupted into flames but all passengers and crew members were surprisingly able to survive. Meanwhile in Denmark, a modern and climate-friendly prince will soon become king. In the US again, Donald Trump has appealed a decision barring him from Maine&#39;s primary ballot and there are efforts tracking states that have active lawsuits to bar him from entering the 2024 presidential ballot.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
+<sub>By Jennifer Schuessler, Anemona Hartocollis, Michael Levenson and Alan Blinder</sub>
+<p>Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Read Claudine Gay’s resignation letter.</h3>
 <sub>By The New York Times</sub>
@@ -74,64 +80,58 @@ There has been quite a bit happening in the world lately. In the US, Harvard’s
 <p>Ms. Stefanik, the No. 4 Republican in the House, has counted the resignations as a political win.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>The Twin Fronts in the Battle Over Israel’s Identity</h3>
-<sub>By Steven Erlanger</sub>
-<p>Monday’s court ruling joined the war in Gaza in a widening crisis over what kind of state Israel will be.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Menendez Faces a New Accusation: Aiding the Qatari Government</h3>
+<sub>By Tracey Tully, Benjamin Weiser and Nicholas Fandos</sub>
+<p>Federal prosecutors said Senator Robert Menendez, a New Jersey Democrat, accepted tens of thousands of dollars in bribes to help Qatar’s government.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Read the Newest Menendez Indictment</h3>
+<sub></sub>
+<p>Federal prosecutors on Tuesday indicted Senator Robert Menendez of New Jersey again, this time accusing him of using his authority to assist the government of Qatar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Hamas Used Gaza Hospital as a Command Center, U.S. Intelligence Says</h3>
+<sub>By Julian E. Barnes</sub>
+<p>Israeli forces stormed the site in November, drawing intense international scrutiny and criticism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Plane Explodes in Flames While Landing at Airport in Tokyo</h3>
-<sub>By Motoko Rich, Hisako Ueno and Kaly Soto</sub>
-<p>Japan Airlines said all 367 passengers and 12 crew members had evacuated the jet. Five crew members on a Japanese Coast Guard plane that collided with it were killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Netanyahu Allies Signal Pause in Campaign to Rein In Judges</h3>
+<sub>By Isabel Kershner and Roni Rabin</sub>
+<p>With Israel fighting in Gaza, people on both sides of the judiciary debate appear unwilling to return to the domestic upheaval that preceded the war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Death Toll Rises to at Least 55 After Powerful Earthquake in Japan</h3>
-<sub>By Motoko Rich and Hisako Ueno</sub>
-<p>The authorities continued to look for people buried in the rubble of collapsed and burned buildings in the coastal epicenter of the disaster.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A ‘Miracle’: Plane Erupts in Flames Landing in Tokyo, but All Aboard Survive</h3>
+<sub>By Motoko Rich, Hisako Ueno, Kaly Soto and Emma Bubola</sub>
+<p>Japan Airlines said all 367 passengers and 12 crew members had safely, evacuated the jet. But five crew members on a Japanese Coast Guard plane that collided with it were killed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>India Is Chasing China’s Economy. But Something Is Holding It Back.</h3>
-<sub>By Alex Travelli</sub>
-<p>Long-term investment in India by businesses is stagnant, and foreign money is falling, even as the government is driving growth with infrastructure spending.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Britain’s Economy Is ‘Not Working.’ Here Are 2 Key Reasons.</h3>
-<sub>By Eshe Nelson</sub>
-<p>The power grid can’t keep up with demand for connections, and local planning authorities can block new construction for years. Overcoming these roadblocks has gained essential support.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 1, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>The People Who Brought You Travis Kelce</h3>
 <sub>By Zach Schonbrun</sub>
-<p>A plan was hatched to make the football player “as famous as The Rock.” It began long before you might guess.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Russia Hammers Kyiv With Missiles in Large-Scale Attack</h3>
-<sub>By Constant Méheut and Anatoly Kurmanaev</sub>
-<p>Russia said that Ukraine retaliated hours later with missile attacks on Russian territory, part of an escalating cycle of air assaults between the two countries.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>What’s in a Name? The Battle of Baby T. Rex and Nanotyrannus.</h3>
-<sub>By Julia Jacobs and Zachary Small</sub>
-<p>A dinosaur fossil listed for sale in London for $20 million embodies one of the most heated debates in paleontology.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>LaPierre, Longtime N.R.A. Leader, Faces Trial That Could End His Reign</h3>
-<sub>By Danny Hakim</sub>
-<p>A lawsuit brought by New York’s attorney general against Wayne LaPierre and three other N.R.A. insiders accuses the gun rights group of decades of corruption.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>A plan was hatched to make the football player “as famous as the Rock.” It began long before you might guess.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>As Mikaela Shiffrin Considers How to Top Herself, She Studies Taylor Swift</h3>
-<sub>By Bill Pennington</sub>
-<p>Shiffrin, the champion American ski racer, is an unabashed Swiftie, and has long seen the pop culture force as a textbook guide for navigating fame, adversity and unprecedented success.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Appeals Decision Barring Him From Maine Primary Ballot</h3>
+<sub>By Jenna Russell</sub>
+<p>The move attempts to overturn the decision which made Maine the second state to rule the former president ineligible for the primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Efforts to Remove Trump From the 2024 Ballot</h3>
+<sub>By Lazaro Gamio and Mitch Smith</sub>
+<p>See which states have active lawsuits to bar Donald J. Trump from the presidential primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Denmark’s King-to-Be: A Modern, Climate-Friendly Monarch</h3>
+<sub>By Maya Tekeli and Emma Bubola</sub>
+<p>Like King Charles III of Britain, Prince Frederik, who will soon ascend to his country’s throne, is part of a younger generation of royals who have embraced environmental issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
