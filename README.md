@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Tuesday, January 2, Central Standard Time</p>
+<p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-There is a lot going on in the world. In the US, Harvard&#39;s President Claudine Gay just resigned following mounting plagiarism accusations and backlash to her response to antisemitism on campus. Also, Senator Robert Menendez of New Jersey has been facing new bribery accusations. On the international front, there have been recent developments in the Middle East with a top Hamas official killed in Lebanon and Israel engaging in conflict in Gaza. In other news, a &quot;miracle&quot; plane flight ended safely despite erupting in flames while landing in Tokyo and former US president Donald Trump has appealed to be put back on the Maine primary ballot after being initially blocked from it.</p>
+There has been a lot happening in the world lately. In the US, Harvard&#39;s President Claudine Gay resigned after being accused of plagiarism and widespread antisemitism on campus. In New York, Senator Robert Menendez has been charged with taking bribes from Qatar&#39;s government. In the Middle East, an Israeli strike killed a top Hamas official amid increasing fears of a wider war. In Japan, miraculously all passengers survived when a plane erupted into flames after an emergency landing. And in politics, President Trump has been barred from the primary ballot in Maine and is appealing the decision.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
