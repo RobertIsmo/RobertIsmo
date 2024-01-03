@@ -60,12 +60,18 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Tuesday, January 2, Central Standard Time</p>
 <p>
-There is a lot of news to catch up on from the US and around the world. In the US, Harvard University&#39;s President resigned following accusations of plagiarism and Senator Robert Menendez of New Jersey was indicted again for taking bribes from the Qatari government. In Israel, allies to Prime Minister Netanyahu suggested pausing the conflict over judges while in Japan, a plane erupted into flames but all passengers and crew members were surprisingly able to survive. Meanwhile in Denmark, a modern and climate-friendly prince will soon become king. In the US again, Donald Trump has appealed a decision barring him from Maine&#39;s primary ballot and there are efforts tracking states that have active lawsuits to bar him from entering the 2024 presidential ballot.</p>
+There is a lot going on in the world. In the US, Harvard&#39;s President Claudine Gay just resigned following mounting plagiarism accusations and backlash to her response to antisemitism on campus. Also, Senator Robert Menendez of New Jersey has been facing new bribery accusations. On the international front, there have been recent developments in the Middle East with a top Hamas official killed in Lebanon and Israel engaging in conflict in Gaza. In other news, a &quot;miracle&quot; plane flight ended safely despite erupting in flames while landing in Tokyo and former US president Donald Trump has appealed to be put back on the Maine primary ballot after being initially blocked from it.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Harvard President Resigns After Mounting Plagiarism Accusations</h3>
 <sub>By Jennifer Schuessler, Anemona Hartocollis, Michael Levenson and Alan Blinder</sub>
 <p>Claudine Gay faced backlash over the university’s response to antisemitism on campus, which led to increased scrutiny of her academic record.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How a Proxy Fight Over Campus Politics Brought Down Harvard’s President</h3>
+<sub>By Nicholas Confessore</sub>
+<p>Amid plagiarism allegations and a backlash to campus antisemitism, Claudine Gay became an avatar for broader criticisms of academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -90,6 +96,12 @@ There is a lot of news to catch up on from the US and around the world. In the U
 <h3>Read the Newest Menendez Indictment</h3>
 <sub></sub>
 <p>Federal prosecutors on Tuesday indicted Senator Robert Menendez of New Jersey again, this time accusing him of using his authority to assist the government of Qatar.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Top Hamas Official Is Killed in Lebanon as Fears Grow of a Wider War</h3>
+<sub>By Ben Hubbard, Ronen Bergman, Aaron Boxerman, Euan Ward and Eric Schmitt</sub>
+<p>The Israeli government would not comment on the death of Saleh al-Arouri. But a U.S. official said to expect Israel to assassinate Hamas officials “for years.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -120,18 +132,6 @@ There is a lot of news to catch up on from the US and around the world. In the U
 <h3>Trump Appeals Decision Barring Him From Maine Primary Ballot</h3>
 <sub>By Jenna Russell</sub>
 <p>The move attempts to overturn the decision which made Maine the second state to rule the former president ineligible for the primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Efforts to Remove Trump From the 2024 Ballot</h3>
-<sub>By Lazaro Gamio and Mitch Smith</sub>
-<p>See which states have active lawsuits to bar Donald J. Trump from the presidential primary ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Denmark’s King-to-Be: A Modern, Climate-Friendly Monarch</h3>
-<sub>By Maya Tekeli and Emma Bubola</sub>
-<p>Like King Charles III of Britain, Prince Frederik, who will soon ascend to his country’s throne, is part of a younger generation of royals who have embraced environmental issues.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Tuesday, January 2, Central Standard Time</sub></sub>
 <hr/>
 </ol>
