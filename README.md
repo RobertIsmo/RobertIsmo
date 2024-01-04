@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-Recently, there have been a number of concerning events happening around the world. In the US, former president Donald Trump is putting pressure on Republicans to endorse him and has potentially been involved with receiving millions of dollars from foreign entities. On top of this, there was the deadly attack on the US Capitol by far-right extremists, leading to hundreds of arrests and long prison sentences. Sadly, in other parts of the world people are facing similar struggles. Pro-Iran militia groups and ISIS are responsible for terror attacks in Iraq and Iran that have killed over 84 people. It&#39;s a tense and uncertain time, but thankfully there are ways for us to take good care and live long and healthy lives no matter what is happening in the world!</p>
+There is a lot going on in the world right now. In the U.S., former President Trump has been using fear and favor to win Republican endorsements, and in an election year there has been an atmosphere of intimidation for public officials. Meanwhile, overseas, there have been deadly bombings in Iran claimed by Islamic State, and Iraq has condemned the U.S. after a drone strike in Baghdad. Also in the U.S., Harvard&#39;s first Black president recently resigned, and an investigation into the January 6th riot at the Capitol is ongoing with hundreds of people sentenced to prison sentences. There is also evidence that Trump received millions from foreign governments while in office, and he is trying to get prosecutors held in contempt for taking new steps in a court case after it was put on hold. In the art world, there&#39;s a trial coming up where an oligarch is accusing Sotheby&#39;s of helping an art dealer trick him into overspending for works, and here in New York City, we are suing bus companies who were part of a plan to send tens of thousands of migrants from Texas here. Finally, a controversial Drag Queen event forced a library to close without ever even happening!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Trump Has Used Fear and Favor to Win Republican Endorsements</h3>
@@ -82,32 +82,20 @@ Recently, there have been a number of concerning events happening around the wor
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Islamic State Takes Responsibility for Deadly Bombings in Iran</h3>
-<sub>By Vivian Yee, Hwaida Saad, Julian E. Barnes and Ronen Bergman</sub>
-<p>The Islamic State announcement dovetailed with American intelligence assessment indicating that the attack, which killed 84 people, was most likely the work of the group.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Vivian Yee, Hwaida Saad and Eric Schmitt</sub>
+<p>The group, which has struck before in Iran, has a long history of division with the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Attacks Heighten Fears of a Wider War for the Middle East and U.S.</h3>
-<sub>By Eric Schmitt, Julian E. Barnes, Helene Cooper and David E. Sanger</sub>
-<p>The killing of a top Hamas leader in Lebanon and mysterious twin explosions in Iran heighten fears of a regional war that could draw in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Iraq Condemns U.S. After Drone Strike in Baghdad</h3>
 <sub>By Alissa J. Rubin</sub>
-<p>The attack killed three militant leaders of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The attack, acknowledged by the Pentagon, killed the militant leader of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Harvard’s First Black President, Race Became the Unavoidable Issue</h3>
 <sub>By Kurt Streeter</sub>
 <p>Claudine Gay celebrated her history making appointment. But after she resigned, she spoke very differently about her experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>The Fight Over D.E.I. in the C-suite</h3>
-<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
-<p>Claudine Gay’s resignation as Harvard president is adding to the wider debate in boardrooms over diversity, equity and inclusion policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -128,10 +116,22 @@ Recently, there have been a number of concerning events happening around the wor
 <p>The former president’s lawyers sought to have Jack Smith and two deputies explain why they should not be held in contempt of court for taking new steps in the case after it was put on hold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>The 7 Keys to Longevity</h3>
-<sub>By Dana G. Smith</sub>
-<p>Ignore the hyperbaric chambers and infrared light: These are the evidence-backed secrets to aging well.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>As the Art World Watches, an Oligarch Takes an Auction House to Court</h3>
+<sub>By Graham Bowley and William K. Rashbaum</sub>
+<p>At trial next week, Dmitry Rybolovlev is set to accuse Sotheby’s of helping an art dealer trick him into wildly overspending for works, a claim the company disputes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>How a Drag Queen Event That Never Happened Forced a Library to Shut Down</h3>
+<sub>By John Leland</sub>
+<p>In April, Drag Queen Story Hour was announced. Protests erupted, and by September, the library was forced to close. It still hasn’t reopened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Sues Bus Companies That Brought 30,000 Migrants From Texas</h3>
+<sub>By Dana Rubinstein</sub>
+<p>The lawsuit accuses 17 companies of carrying out a plan by the governor of Texas to send tens of thousands of migrants to New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
