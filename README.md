@@ -60,7 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. In the Middle East, attacks have heightened fears of a wider war that could draw in the United States. In Israel, human rights activists are questioning the Army’s rules of engagement after hostages were slain. Israelis also worry that a blow against Hamas may bring blowback and spark a broader war. Meanwhile, Qatar has been trading its riches for political influence, which has been thrown into focus by the ongoing Menendez bribery case. On top of all this, there have been bombings in Iran and twin explosions that killed over 100 people and sowed confusion and speculation. Closer to home, former US president Donald Trump has asked the Supreme Court to keep him on the Colorado ballot and his lawyers are appealing Colorado&#39;s ruling that deems him ineligible for office.</p>
+Right now there is a lot of tension and uncertainty in the Middle East, specifically between Israel and Hamas. There have been multiple mysterious bombings in Iran as well as the killing of a top Hamas leader in Lebanon. This heightened fear of a possible wider war has caused many to question Israel&#39;s army&#39;s Rules of Engagement after hostages were slain.
+
+In relation to this US Senator Robert Menendez from New Jersey has been charged with accepting bribes and breaking the law. 
+
+Another huge incident occurred in Japan when an airplane collided with a Coast Guard aircraft. Everyone made it out alive due to the advanced plane and well-trained crew. 
+
+Finally, former President Trump is making news again this month. He has asked the Supreme Court to keep him on the Colorado ballot and faces two trials this month. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Attacks Heighten Fears of a Wider War for the Middle East and U.S.</h3>
@@ -72,12 +78,6 @@ There is a lot happening around the world right now. In the Middle East, attacks
 <h3>Israelis Question Army’s Rules of Engagement After Hostages Slain</h3>
 <sub>By Roni Caryn Rabin</sub>
 <p>Israel’s military said that soldiers who shot hostages, while they waved a white flag, violated its rules of engagement. Human rights activists say the rules are good, but enforcement is lax.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Worry a Blow Against Hamas May Bring Blowback</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Israelis welcomed news that a top Palestinian militant had been killed, but feared that it might impede the release of hostages and kindle a broader war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -132,6 +132,12 @@ There is a lot happening around the world right now. In the Middle East, attacks
 <h3>Former Guard Official Says Army Retaliated for His Account of Jan. 6 Delay</h3>
 <sub>By Luke Broadwater and Maggie Haberman</sub>
 <p>Col. Earl Matthews, the top lawyer for the D.C. National Guard during the assault on the Capitol, said in a whistle-blower complaint that he was punished for contradicting the testimony of two top generals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s January: Court Dates and Election Nights</h3>
+<sub>By Maggie Haberman</sub>
+<p>While Iowa’s caucuses and New Hampshire’s primary could start to propel the former president to the G.O.P. nomination, he is facing two trials this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
