@@ -60,13 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-Right now there is a lot of tension and uncertainty in the Middle East, specifically between Israel and Hamas. There have been multiple mysterious bombings in Iran as well as the killing of a top Hamas leader in Lebanon. This heightened fear of a possible wider war has caused many to question Israel&#39;s army&#39;s Rules of Engagement after hostages were slain.
-
-In relation to this US Senator Robert Menendez from New Jersey has been charged with accepting bribes and breaking the law. 
-
-Another huge incident occurred in Japan when an airplane collided with a Coast Guard aircraft. Everyone made it out alive due to the advanced plane and well-trained crew. 
-
-Finally, former President Trump is making news again this month. He has asked the Supreme Court to keep him on the Colorado ballot and faces two trials this month. </p>
+The news right now is quite intense. In the Middle East, attacks have heightened fears of a wider war and the U.S. is being drawn in. In Israel, questions are being asked about the military&#39;s rules of engagement after hostages were slain, and Iran recently held a day of mourning for those killed at a memorial. In the US, Harvard just appointed its first black president, but already there have been bomb hoaxes and intimidation attempts against public officials before the 2024 Presidential election. There is also discussion over whether Donald Trump will be on the ballot in Colorado as he&#39;s asked the Supreme Court to keep him on. Lastly, in Lithuania, a retired judge is being targeted by Russia who wants to rewrite history after she ruled against Soviet officers for a 1991 crackdown on protesters.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Attacks Heighten Fears of a Wider War for the Middle East and U.S.</h3>
@@ -81,22 +75,52 @@ Finally, former President Trump is making news again this month. He has asked th
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Menendez Case Focuses on How Qatar Trades Its Riches for Clout</h3>
-<sub>By Vivian Nereim and Tariq Panja</sub>
-<p>The tiny Gulf state has cultivated relationships with powerful people and institutions to raise its global profile, and to protect its interests.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Iran Holds Day of Mourning for Those Killed at Suleimani Memorial</h3>
+<sub>By Vivian Yee</sub>
+<p>Officials lowered the death toll from the two blasts from 103 to 84, but said the count could still rise with so many people having been badly injured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Crisis in the Red Sea, and Epstein Files Unsealed</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>For Harvard’s First Black President, Race Became the Unavoidable Issue</h3>
+<sub>By Kurt Streeter</sub>
+<p>Claudine Gay celebrated her history making appointment. But after she resigned, she spoke very differently about her experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Jan. 6 Riot Inquiry So Far: Three Years, Hundreds of Prison Sentences</h3>
+<sub>By Alan Feuer and Molly Cook Escobar</sub>
+<p>More than 1,200 people have now been arrested in connection with the attack on the Capitol, and more than 450 sentenced to periods of incarceration. The investigation is far from over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>What We Know About the Menendez Bribery Case</h3>
-<sub>By Tracey Tully</sub>
-<p>Senator Robert Menendez, a New Jersey Democrat, was charged with accepting bribes, including cash, gold bars and a Mercedes-Benz, in exchange for political favors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>The 7 Keys to Longevity</h3>
+<sub>By Dana G. Smith</sub>
+<p>Ignore the hyperbaric chambers and infrared light: These are the evidence-backed secrets to aging well.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Bombing in Iran Kills Over 100, Sowing Confusion and Speculation</h3>
-<sub>By Vivian Yee and Farnaz Fassihi</sub>
-<p>No one claimed responsibility for the bombing at a memorial for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Bomb Hoaxes and ‘Swatting’ Attempts Target Public Officials as 2024 Begins</h3>
+<sub>By Neil Vigdor</sub>
+<p>Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the intimidation and harassment of officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Want to Understand 2024? Look at 1948.</h3>
+<sub>By Nate Cohn</sub>
+<p>Americans were angry with Truman because of high prices in the aftermath of World War II, even as other economic signals looked promising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Is the 2024 Election Already Heading to the Supreme Court?</h3>
+<sub>By Astead W. Herndon and Caitlin O’Keefe</sub>
+<p>Before GOP primary voters head to the polls, a thorny legal question has emerged over whether Donald Trump is eligible to be on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Asks Supreme Court to Keep Him on Colorado Ballot</h3>
@@ -104,41 +128,11 @@ Finally, former President Trump is making news again this month. He has asked th
 <p>The petition came in response to a Colorado Supreme Court ruling that the former president had engaged in insurrection and was ineligible to hold office under the 14th Amendment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read Trump’s Appeal to the Supreme Court Over Colorado’s Ballot Ruling</h3>
-<sub></sub>
-<p>Lawyers for former President Donald J. Trump said rulings in Colorado and Maine deeming him ineligible for the ballot required the U.S. Supreme Court to act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-books-blue" alt="">
-<h3>The Word That Undid Claudine Gay</h3>
-<sub>By A.O. Scott</sub>
-<p>The fate of Harvard’s president is the latest evidence of a deep crisis in American academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Flames Surged, Order Prevailed Inside a Japan Airlines Jet</h3>
-<sub>By Motoko Rich and Hisako Ueno</sub>
-<p>In addition to a well-trained crew and an advanced plane, the safe evacuation of 367 passengers came down to a relative absence of panic.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Swedish Teenager Was on Japan Airlines Flight 516. Here’s His Story.</h3>
-<sub>By Christina Anderson</sub>
-<p>Anton Deibe, 17, and his family were flying into Tokyo when their plane collided with a Coast Guard aircraft.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Former Guard Official Says Army Retaliated for His Account of Jan. 6 Delay</h3>
-<sub>By Luke Broadwater and Maggie Haberman</sub>
-<p>Col. Earl Matthews, the top lawyer for the D.C. National Guard during the assault on the Capitol, said in a whistle-blower complaint that he was punished for contradicting the testimony of two top generals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s January: Court Dates and Election Nights</h3>
-<sub>By Maggie Haberman</sub>
-<p>While Iowa’s caucuses and New Hampshire’s primary could start to propel the former president to the G.O.P. nomination, he is facing two trials this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<h3>Putin’s Drive to Rewrite History Snares a Retired Lithuanian Judge</h3>
+<sub>By Andrew Higgins</sub>
+<p>A few years ago, Kornelija Maceviciene ruled against Soviet officers for a brutal crackdown on pro-independence protesters in her country in 1991. That has made her a target for a Russian court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
