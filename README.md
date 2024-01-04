@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-Right now, there&#39;s a lot going on around the world. Senator Robert Menendez of New Jersey is facing bribery charges for accepting cash, gold bars and a Mercedes-Benz from Qatar in exchange for political favors. There was also a bombing in Iran that killed over 100 people, and no one has claimed responsibility. On top of that, Donald Trump is trying to get on the ballot in Colorado, and he&#39;s appealing his case to the Supreme Court. In addition, Harvard&#39;s president recently resigned after using inappropriate language. Lastly, Hamas&#39; chief strategist was killed in Lebanon recently too. So yeah, a lot is happening!</p>
+There are a lot of things happening in the world right now. One big story is about Senator Robert Menendez in New Jersey and how he has been charged with accepting bribes in exchange for political favors. Another major news event is the bombing in Iran that killed over 100 people, which still hasn&#39;t been solved. In addition, former President Donald Trump has gone to the Supreme Court to keep himself on the ballot in Colorado, and there is a crisis in American academia focusing on Harvard&#39;s president. Also, a top Palestinian militant named Saleh al-Arouri was recently killed, and there was an incident with Japan Airlines where 367 passengers were safely evacuated after their plane collided with a Coast Guard aircraft. Finally, a former National Guard official said in a whistle-blower complaint that he was punished for contradicting the testimonies of two top generals after the Capitol attack on January 6th.</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Menendez Case Focuses on How Qatar Trades Its Riches for Clout</h3>
@@ -93,7 +93,7 @@ Right now, there&#39;s a lot going on around the world. Senator Robert Menendez 
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Read the document</h3>
+<h3>Read Trump’s Appeal to the Supreme Court Over Colorado’s Ballot Ruling</h3>
 <sub></sub>
 <p>Lawyers for former President Donald J. Trump said rulings in Colorado and Maine deeming him ineligible for the ballot required the U.S. Supreme Court to act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
@@ -108,6 +108,12 @@ Right now, there&#39;s a lot going on around the world. Senator Robert Menendez 
 <h3>Leader’s Killing Is a Blow, but Not a Knockout, for Hamas</h3>
 <sub>By Ben Hubbard</sub>
 <p>The killing of Saleh al-Arouri, a key Hamas strategist, in Lebanon sets the organization back at a vulnerable time. The group has rebuilt after the assassination of other leaders, though.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israelis Worry a Blow Against Hamas May Bring Blowback</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Israelis welcomed news that a top Palestinian militant had been killed, but feared that it might impede the release of hostages and kindle a broader war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -126,12 +132,6 @@ Right now, there&#39;s a lot going on around the world. Senator Robert Menendez 
 <h3>Former Guard Official Says Army Retaliated for His Account of Jan. 6 Delay</h3>
 <sub>By Luke Broadwater and Maggie Haberman</sub>
 <p>Col. Earl Matthews, the top lawyer for the D.C. National Guard during the assault on the Capitol, said in a whistle-blower complaint that he was punished for contradicting the testimony of two top generals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump’s January: Court Dates and Election Nights</h3>
-<sub>By Maggie Haberman</sub>
-<p>While Iowa’s caucuses and New Hampshire’s primary could start to propel the former president to the G.O.P. nomination, he is facing two trials this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
