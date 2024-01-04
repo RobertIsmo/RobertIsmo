@@ -60,8 +60,32 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-There&#39;s a lot of tension in the Middle East and Americans are worried about the possibility of a wider war that could even draw in the United States. This fear has been heightened by the killing of a top Hamas leader in Lebanon and mysterious simultaneous explosions in Iran. Iraq has condemned the US after a drone strike killed three militant leaders with ties to Iran-allied groups, and Iran is mourning 84 people who were killed at a memorial. Here in the US, Harvard&#39;s first Black president confronted race issues during her tenure, and since former President Trump left office there have been reports about him receiving millions from foreign governments while he was in office. Politicians in Colorado and Maine have faced intimidation as the election year heats up, and legal questions over Donald Trump&#39;s eligibility for the 2024 ballot are arising. In terms of aging well, health experts have pointed to 7 key longevity factors. Stay tuned for more news!</p>
+Recently, there have been a number of concerning events happening around the world. In the US, former president Donald Trump is putting pressure on Republicans to endorse him and has potentially been involved with receiving millions of dollars from foreign entities. On top of this, there was the deadly attack on the US Capitol by far-right extremists, leading to hundreds of arrests and long prison sentences. Sadly, in other parts of the world people are facing similar struggles. Pro-Iran militia groups and ISIS are responsible for terror attacks in Iraq and Iran that have killed over 84 people. It&#39;s a tense and uncertain time, but thankfully there are ways for us to take good care and live long and healthy lives no matter what is happening in the world!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>How Trump Has Used Fear and Favor to Win Republican Endorsements</h3>
+<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
+<p>The former president keeps careful watch over his endorsements from elected Republicans, aided by a disciplined and methodical behind-the-scenes operation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Tense Election Year, Public Officials Face Climate of Intimidation</h3>
+<sub>By Neil Vigdor</sub>
+<p>Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the harassment of officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Want to Understand 2024? Look at 1948.</h3>
+<sub>By Nate Cohn</sub>
+<p>Americans were angry with Truman because of high prices in the aftermath of World War II, even as other economic signals looked promising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Islamic State Takes Responsibility for Deadly Bombings in Iran</h3>
+<sub>By Vivian Yee, Hwaida Saad, Julian E. Barnes and Ronen Bergman</sub>
+<p>The Islamic State announcement dovetailed with American intelligence assessment indicating that the attack, which killed 84 people, was most likely the work of the group.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Attacks Heighten Fears of a Wider War for the Middle East and U.S.</h3>
 <sub>By Eric Schmitt, Julian E. Barnes, Helene Cooper and David E. Sanger</sub>
@@ -72,18 +96,6 @@ There&#39;s a lot of tension in the Middle East and Americans are worried about 
 <h3>Iraq Condemns U.S. After Drone Strike in Baghdad</h3>
 <sub>By Alissa J. Rubin</sub>
 <p>The attack killed three militant leaders of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iran Holds Day of Mourning for Those Killed at Suleimani Memorial</h3>
-<sub>By Vivian Yee</sub>
-<p>Officials lowered the death toll from the two blasts from 103 to 84, but said the count could still rise with so many people having been badly injured.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Crisis in the Red Sea, and Epstein Files Unsealed</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -99,39 +111,27 @@ There&#39;s a lot of tension in the Middle East and Americans are worried about 
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Democrats released evidence that he took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Jan. 6 Riot Inquiry So Far: Three Years, Hundreds of Prison Sentences</h3>
 <sub>By Alan Feuer and Molly Cook Escobar</sub>
 <p>More than 1,200 people have now been arrested in connection with the attack on the Capitol, and more than 450 sentenced to periods of incarceration. The investigation is far from over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Wants Prosecutors Held in Contempt in Federal Election Case</h3>
+<sub>By Alan Feuer</sub>
+<p>The former president’s lawyers sought to have Jack Smith and two deputies explain why they should not be held in contempt of court for taking new steps in the case after it was put on hold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>The 7 Keys to Longevity</h3>
 <sub>By Dana G. Smith</sub>
 <p>Ignore the hyperbaric chambers and infrared light: These are the evidence-backed secrets to aging well.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
-<sub>By Luke Broadwater</sub>
-<p>House Democrats released evidence that the former president took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Tense Election Year, Public Officials Face Climate of Intimidation</h3>
-<sub>By Neil Vigdor</sub>
-<p>Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the harassment  of officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Want to Understand 2024? Look at 1948.</h3>
-<sub>By Nate Cohn</sub>
-<p>Americans were angry with Truman because of high prices in the aftermath of World War II, even as other economic signals looked promising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>Is the 2024 Election Already Heading to the Supreme Court?</h3>
-<sub>By Astead W. Herndon and Caitlin O’Keefe</sub>
-<p>Before GOP primary voters head to the polls, a thorny legal question has emerged over whether Donald Trump is eligible to be on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
