@@ -58,10 +58,28 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Wednesday, January 3, Central Standard Time</p>
+<p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-There are a lot of things happening in the world right now. One big story is about Senator Robert Menendez in New Jersey and how he has been charged with accepting bribes in exchange for political favors. Another major news event is the bombing in Iran that killed over 100 people, which still hasn&#39;t been solved. In addition, former President Donald Trump has gone to the Supreme Court to keep himself on the ballot in Colorado, and there is a crisis in American academia focusing on Harvard&#39;s president. Also, a top Palestinian militant named Saleh al-Arouri was recently killed, and there was an incident with Japan Airlines where 367 passengers were safely evacuated after their plane collided with a Coast Guard aircraft. Finally, a former National Guard official said in a whistle-blower complaint that he was punished for contradicting the testimonies of two top generals after the Capitol attack on January 6th.</p>
+There is a lot happening around the world right now. In the Middle East, attacks have heightened fears of a wider war that could draw in the United States. In Israel, human rights activists are questioning the Army’s rules of engagement after hostages were slain. Israelis also worry that a blow against Hamas may bring blowback and spark a broader war. Meanwhile, Qatar has been trading its riches for political influence, which has been thrown into focus by the ongoing Menendez bribery case. On top of all this, there have been bombings in Iran and twin explosions that killed over 100 people and sowed confusion and speculation. Closer to home, former US president Donald Trump has asked the Supreme Court to keep him on the Colorado ballot and his lawyers are appealing Colorado&#39;s ruling that deems him ineligible for office.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Attacks Heighten Fears of a Wider War for the Middle East and U.S.</h3>
+<sub>By Eric Schmitt, Julian E. Barnes, Helene Cooper and David E. Sanger</sub>
+<p>The killing of a top Hamas leader in Lebanon and mysterious twin explosions in Iran heighten fears of a regional war that could draw in the United States.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israelis Question Army’s Rules of Engagement After Hostages Slain</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Israel’s military said that soldiers who shot hostages, while they waved a white flag, violated its rules of engagement. Human rights activists say the rules are good, but enforcement is lax.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Israelis Worry a Blow Against Hamas May Bring Blowback</h3>
+<sub>By Roni Caryn Rabin</sub>
+<p>Israelis welcomed news that a top Palestinian militant had been killed, but feared that it might impede the release of hostages and kindle a broader war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Menendez Case Focuses on How Qatar Trades Its Riches for Clout</h3>
 <sub>By Vivian Nereim and Tariq Panja</sub>
@@ -80,12 +98,6 @@ There are a lot of things happening in the world right now. One big story is abo
 <p>No one claimed responsibility for the bombing at a memorial for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Who Was the Iranian General Qassim Suleimani?</h3>
-<sub>By Emma Bubola</sub>
-<p>General Suleimani, the powerful commander heading Iran’s Quds Force, was considered a hero by some in the country. The anniversary of his death has attracted horrific violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Asks Supreme Court to Keep Him on Colorado Ballot</h3>
 <sub>By Adam Liptak</sub>
@@ -102,18 +114,6 @@ There are a lot of things happening in the world right now. One big story is abo
 <h3>The Word That Undid Claudine Gay</h3>
 <sub>By A.O. Scott</sub>
 <p>The fate of Harvard’s president is the latest evidence of a deep crisis in American academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Leader’s Killing Is a Blow, but Not a Knockout, for Hamas</h3>
-<sub>By Ben Hubbard</sub>
-<p>The killing of Saleh al-Arouri, a key Hamas strategist, in Lebanon sets the organization back at a vulnerable time. The group has rebuilt after the assassination of other leaders, though.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Worry a Blow Against Hamas May Bring Blowback</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Israelis welcomed news that a top Palestinian militant had been killed, but feared that it might impede the release of hostages and kindle a broader war.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
