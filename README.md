@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-The news right now is quite intense. In the Middle East, attacks have heightened fears of a wider war and the U.S. is being drawn in. In Israel, questions are being asked about the military&#39;s rules of engagement after hostages were slain, and Iran recently held a day of mourning for those killed at a memorial. In the US, Harvard just appointed its first black president, but already there have been bomb hoaxes and intimidation attempts against public officials before the 2024 Presidential election. There is also discussion over whether Donald Trump will be on the ballot in Colorado as he&#39;s asked the Supreme Court to keep him on. Lastly, in Lithuania, a retired judge is being targeted by Russia who wants to rewrite history after she ruled against Soviet officers for a 1991 crackdown on protesters.</p>
+There&#39;s a lot of tension in the Middle East and Americans are worried about the possibility of a wider war that could even draw in the United States. This fear has been heightened by the killing of a top Hamas leader in Lebanon and mysterious simultaneous explosions in Iran. Iraq has condemned the US after a drone strike killed three militant leaders with ties to Iran-allied groups, and Iran is mourning 84 people who were killed at a memorial. Here in the US, Harvard&#39;s first Black president confronted race issues during her tenure, and since former President Trump left office there have been reports about him receiving millions from foreign governments while he was in office. Politicians in Colorado and Maine have faced intimidation as the election year heats up, and legal questions over Donald Trump&#39;s eligibility for the 2024 ballot are arising. In terms of aging well, health experts have pointed to 7 key longevity factors. Stay tuned for more news!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Attacks Heighten Fears of a Wider War for the Middle East and U.S.</h3>
@@ -69,10 +69,10 @@ The news right now is quite intense. In the Middle East, attacks have heightened
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Israelis Question Army’s Rules of Engagement After Hostages Slain</h3>
-<sub>By Roni Caryn Rabin</sub>
-<p>Israel’s military said that soldiers who shot hostages, while they waved a white flag, violated its rules of engagement. Human rights activists say the rules are good, but enforcement is lax.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<h3>Iraq Condemns U.S. After Drone Strike in Baghdad</h3>
+<sub>By Alissa J. Rubin</sub>
+<p>The attack killed three militant leaders of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Iran Holds Day of Mourning for Those Killed at Suleimani Memorial</h3>
@@ -92,6 +92,12 @@ The news right now is quite intense. In the Middle East, attacks have heightened
 <p>Claudine Gay celebrated her history making appointment. But after she resigned, she spoke very differently about her experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>The Fight Over D.E.I. in the C-suite</h3>
+<sub>By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni</sub>
+<p>Claudine Gay’s resignation as Harvard president is adding to the wider debate in boardrooms over diversity, equity and inclusion policies.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>The Jan. 6 Riot Inquiry So Far: Three Years, Hundreds of Prison Sentences</h3>
 <sub>By Alan Feuer and Molly Cook Escobar</sub>
@@ -105,9 +111,15 @@ The news right now is quite intense. In the Middle East, attacks have heightened
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Bomb Hoaxes and ‘Swatting’ Attempts Target Public Officials as 2024 Begins</h3>
+<h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Democrats released evidence that the former president took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>In Tense Election Year, Public Officials Face Climate of Intimidation</h3>
 <sub>By Neil Vigdor</sub>
-<p>Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the intimidation and harassment of officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the harassment  of officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -120,18 +132,6 @@ The news right now is quite intense. In the Middle East, attacks have heightened
 <h3>Is the 2024 Election Already Heading to the Supreme Court?</h3>
 <sub>By Astead W. Herndon and Caitlin O’Keefe</sub>
 <p>Before GOP primary voters head to the polls, a thorny legal question has emerged over whether Donald Trump is eligible to be on the ballot.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Asks Supreme Court to Keep Him on Colorado Ballot</h3>
-<sub>By Adam Liptak</sub>
-<p>The petition came in response to a Colorado Supreme Court ruling that the former president had engaged in insurrection and was ineligible to hold office under the 14th Amendment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Putin’s Drive to Rewrite History Snares a Retired Lithuanian Judge</h3>
-<sub>By Andrew Higgins</sub>
-<p>A few years ago, Kornelija Maceviciene ruled against Soviet officers for a brutal crackdown on pro-independence protesters in her country in 1991. That has made her a target for a Russian court.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
