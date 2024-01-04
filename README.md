@@ -60,12 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Wednesday, January 3, Central Standard Time</p>
 <p>
-There has been a lot of news this week about the tragic celebrations in Iran for the death anniversary of Qassim Suleimani, a top commander killed by an American drone strike four years ago. 95 people reportedly lost their lives and President Biden was among those condemning the violence. On the economic front, economists are wondering if the good news on inflation will last into 2024. The Federal Reserve recently released minutes that indicate interest rates may be reaching or near peak while auto sales are expected to slow after a strong 2023. In other news, Harvard&#39;s president just resigned due to a deep crisis in American academia as an illustration of how the Hamas attacks have scrambled campus politics. Finally, in more positive news, Japan Airlines Flight 516 had a successful emergency landing even with 373 panicked passengers inside and 17-year-old Anton Deibe recounted his story of survival. Meanwhile, Iowa&#39;s Ramaswamy&#39;s long-distance candidacy is nearing its finish line with less than two weeks left until the caucuses kick off.</p>
+Right now, there&#39;s a lot going on around the world. Senator Robert Menendez of New Jersey is facing bribery charges for accepting cash, gold bars and a Mercedes-Benz from Qatar in exchange for political favors. There was also a bombing in Iran that killed over 100 people, and no one has claimed responsibility. On top of that, Donald Trump is trying to get on the ballot in Colorado, and he&#39;s appealing his case to the Supreme Court. In addition, Harvard&#39;s president recently resigned after using inappropriate language. Lastly, Hamas&#39; chief strategist was killed in Lebanon recently too. So yeah, a lot is happening!</p>
 <ol>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>95 Reported Killed in Iran in Blasts Near General’s Tomb</h3>
+<h3>Menendez Case Focuses on How Qatar Trades Its Riches for Clout</h3>
+<sub>By Vivian Nereim and Tariq Panja</sub>
+<p>The tiny Gulf state has cultivated relationships with powerful people and institutions to raise its global profile, and to protect its interests.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>What We Know About the Menendez Bribery Case</h3>
+<sub>By Tracey Tully</sub>
+<p>Senator Robert Menendez, a New Jersey Democrat, was charged with accepting bribes, including cash, gold bars and a Mercedes-Benz, in exchange for political favors.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Bombing in Iran Kills Over 100, Sowing Confusion and Speculation</h3>
 <sub>By Vivian Yee and Farnaz Fassihi</sub>
-<p>The explosions took place at a commemoration for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>No one claimed responsibility for the bombing at a memorial for Qassim Suleimani, the top commander killed by a U.S. drone strike four years ago.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -74,22 +86,16 @@ There has been a lot of news this week about the tragic celebrations in Iran for
 <p>General Suleimani, the powerful commander heading Iran’s Quds Force, was considered a hero by some in the country. The anniversary of his death has attracted horrific violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Will America’s Good News on Inflation Last?</h3>
-<sub>By Jeanna Smialek</sub>
-<p>One of the biggest economic surprises of 2023 was how quickly inflation faded. A dig into the details offers hints at whether it will last into 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump Asks Supreme Court to Keep Him on Colorado Ballot</h3>
+<sub>By Adam Liptak</sub>
+<p>The petition came in response to a Colorado Supreme Court ruling that the former president had engaged in insurrection and was ineligible to hold office under the 14th Amendment.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Fed Minutes Showed Officials Feeling Better About Inflation</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Central bankers wanted to signal that interest rates were likely at or near their peak while keeping their options open, December minutes showed.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Auto Sales Are Expected to Slow After a Strong 2023</h3>
-<sub>By Neal E. Boudette</sub>
-<p>Automakers sold more cars in 2023 than a year ago as supply chain chaos ended, but sales are now under pressure from higher interest rates.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Read the document</h3>
+<sub></sub>
+<p>Lawyers for former President Donald J. Trump said rulings in Colorado and Maine deeming him ineligible for the ballot required the U.S. Supreme Court to act.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-books-blue" alt="">
@@ -98,22 +104,10 @@ There has been a lot of news this week about the tragic celebrations in Iran for
 <p>The fate of Harvard’s president is the latest evidence of a deep crisis in American academia.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New Campus Politics</h3>
-<sub>By David Leonhardt</sub>
-<p>The resignation of Harvard’s president shows how the Hamas attacks have scrambled campus politics.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Leader’s Killing Is a Blow, but Not a Knockout, for Hamas</h3>
 <sub>By Ben Hubbard</sub>
 <p>The killing of Saleh al-Arouri, a key Hamas strategist, in Lebanon sets the organization back at a vulnerable time. The group has rebuilt after the assassination of other leaders, though.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>They Can’t All Be Nominated for Best Picture, Can They?</h3>
-<sub>By Kyle Buchanan</sub>
-<p>It’s a very competitive year for the top Oscar. With precursor awards like the Golden Globes coming soon, here’s what may make the cut.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -129,9 +123,15 @@ There has been a lot of news this week about the tragic celebrations in Iran for
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ramaswamy Is Still Sprinting Across Iowa, While His Polling Barely Moves</h3>
-<sub>By Kellen Browning and Molly Longman</sub>
-<p>The 38-year-old entrepreneur has maintained a grueling schedule, but questions about the goals of his candidacy are mounting with less than two weeks before the caucuses.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Former Guard Official Says Army Retaliated for His Account of Jan. 6 Delay</h3>
+<sub>By Luke Broadwater and Maggie Haberman</sub>
+<p>Col. Earl Matthews, the top lawyer for the D.C. National Guard during the assault on the Capitol, said in a whistle-blower complaint that he was punished for contradicting the testimony of two top generals.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Trump’s January: Court Dates and Election Nights</h3>
+<sub>By Maggie Haberman</sub>
+<p>While Iowa’s caucuses and New Hampshire’s primary could start to propel the former president to the G.O.P. nomination, he is facing two trials this month.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 </ol>
