@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Thursday, January 4, Central Standard Time</p>
+<p>It is Friday, January 5, Central Standard Time</p>
 <p>
-There is a lot of tension surrounding immigration right now. U.S. President Biden is facing pressure from members of his own party to solve the overcrowding in migrant encampments and shelters. Ambulance workers in Texas, near the border, are feeling the strain of the crisis, as are New York City officials who are being confronted with tens of thousands of migrants being sent their way. On top of this, the Trump administration accepted millions of dollars from foreign entities while in office, and Republicans are trying to hold Biden to a similar standard. Meanwhile, there have been a series of bombings in Iran that Islamic State has claimed responsibility for. Iraq is also condemning the U.S. after an airstrike in Baghdad killed a militant leader with ties to their government. Closer to home, there was a school shooting in Iowa where a sixth grader was killed and five others injured, and here in New York, two subway trains collided causing several injuries but no deaths. Finally, an oligarch is suing Sotheby’s auction house for tricking him into overspending on artworks.</p>
+There is a lot happening around the world right now. President Biden is facing pressure on immigration issues from members of his own party. Local officials in Texas, where there is a surge of migrants, are struggling to keep up with the influx. New York City is suing bus companies that brought 30,000 migrants from Texas. Meanwhile, Republicans like Tony Gonzales have shifted stances on immigration and Trump has been using his endorsements to maintain control over the GOP. The Islamic State is claiming responsibility for terror attacks in Iran and Iraq has also condemned the US for a drone strike against a militant leader with ties to its security apparatus. In other news, there was a train derailment in Manhattan due to two trains colliding; 24 people were injured but none seriously. An oligarch is taking an auction house to court over alleged fraud. A sixth grader was killed and five others injured in an Iowa school shooting and attacks in the Red Sea are causing tension but oil tankers are still navigating the Suez Canal. Finally, Harvard&#39;s first Black President resigned after recognizing how race affected her appointment and experience there.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
@@ -118,20 +118,20 @@ There is a lot of tension surrounding immigration right now. U.S. President Bide
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Sixth Grader Killed and 5 Others Injured in Iowa School Shooting</h3>
-<sub>By Remy Tumin and Victor Mather</sub>
+<sub>By Remy Tumin, Victor Mather and Leah McBride Mensching</sub>
 <p>Four other students and an administrator were injured in the shooting at an Iowa school. The gunman, identified as a 17-year-old student, died from a self-inflicted gunshot, the authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Red Sea Attacks Menace Energy Tankers but Don’t Stop Them</h3>
+<sub>By Stanley Reed</sub>
+<p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>For Harvard’s First Black President, Race Became the Unavoidable Issue</h3>
 <sub>By Kurt Streeter</sub>
 <p>Claudine Gay celebrated her history making appointment. But after she resigned, she spoke very differently about her experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
-<sub>By Luke Broadwater</sub>
-<p>House Democrats released evidence that he took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
