@@ -60,18 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the U.S., former President Trump has been using fear and favor to win Republican endorsements, and in an election year there has been an atmosphere of intimidation for public officials. Meanwhile, overseas, there have been deadly bombings in Iran claimed by Islamic State, and Iraq has condemned the U.S. after a drone strike in Baghdad. Also in the U.S., Harvard&#39;s first Black president recently resigned, and an investigation into the January 6th riot at the Capitol is ongoing with hundreds of people sentenced to prison sentences. There is also evidence that Trump received millions from foreign governments while in office, and he is trying to get prosecutors held in contempt for taking new steps in a court case after it was put on hold. In the art world, there&#39;s a trial coming up where an oligarch is accusing Sotheby&#39;s of helping an art dealer trick him into overspending for works, and here in New York City, we are suing bus companies who were part of a plan to send tens of thousands of migrants from Texas here. Finally, a controversial Drag Queen event forced a library to close without ever even happening!</p>
+It looks like there&#39;s been a range of news lately. President Trump is still keeping tabs on his endorsements from other elected Republicans through a behind the scenes operation. There have been deadly bombings caused by the Islamic State in Iran, and Iraq condemned the US after a drone strike in Baghdad. It&#39;s not much better domestically: someone has been injured and another killed in an Iowa school shooting, there have been reports of Trump receiving millions from foreign governments while in office, and voting ballots have been challenged in over 30 states so far. To top it off, Glynis Johns, the Tony Award-winning actress for &quot;A Little Night Music,&quot; recently passed away at 100 years old and tensions surrounding a drag queen event that never happened forced a library to shut down.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Trump Has Used Fear and Favor to Win Republican Endorsements</h3>
 <sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
 <p>The former president keeps careful watch over his endorsements from elected Republicans, aided by a disciplined and methodical behind-the-scenes operation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>In Tense Election Year, Public Officials Face Climate of Intimidation</h3>
-<sub>By Neil Vigdor</sub>
-<p>Colorado and Maine, which blocked former President Donald J. Trump from the ballot, have grappled with the harassment of officials.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-upshot-blue" alt="">
@@ -88,8 +82,26 @@ There is a lot going on in the world right now. In the U.S., former President Tr
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Iraq Condemns U.S. After Drone Strike in Baghdad</h3>
-<sub>By Alissa J. Rubin</sub>
-<p>The attack, acknowledged by the Pentagon, killed the militant leader of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Alissa J. Rubin and Eric Schmitt</sub>
+<p>The attack, acknowledged by the Pentagon, killed a senior militant leader of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Subway Trains Collide in Manhattan, Causing Derailment, M.T.A. Says</h3>
+<sub>By Chelsia Rose Marcius, Robin Shulman Agüeros and Erin Nolan</sub>
+<p>The Metropolitan Transportation Authority confirmed that a train had derailed near 96th Street. Twenty-four people were hurt, but their injuries were not serious, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-arts-blue" alt="">
+<h3>As the Art World Watches, an Oligarch Takes an Auction House to Court</h3>
+<sub>By Graham Bowley and William K. Rashbaum</sub>
+<p>At trial next week, Dmitry Rybolovlev is set to accuse Sotheby’s of helping an art dealer trick him into wildly overspending for works, a claim the company disputes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Sixth Grader Killed and 5 Others Injured in Iowa School Shooting</h3>
+<sub>By Remy Tumin and Victor Mather</sub>
+<p>Four other students and an administrator were injured in the shooting at an Iowa school. The gunman, identified as a 17-year-old student, died from a self-inflicted gunshot, the authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,33 +117,21 @@ There is a lot going on in the world right now. In the U.S., former President Tr
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Jan. 6 Riot Inquiry So Far: Three Years, Hundreds of Prison Sentences</h3>
-<sub>By Alan Feuer and Molly Cook Escobar</sub>
-<p>More than 1,200 people have now been arrested in connection with the attack on the Capitol, and more than 450 sentenced to periods of incarceration. The investigation is far from over.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Wants Prosecutors Held in Contempt in Federal Election Case</h3>
-<sub>By Alan Feuer</sub>
-<p>The former president’s lawyers sought to have Jack Smith and two deputies explain why they should not be held in contempt of court for taking new steps in the case after it was put on hold.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Ballot Challenges Advance, Varying Widely in Strategy and Sophistication</h3>
+<sub>By Jenna Russell, Nicholas Bogel-Burroughs and Mitch Smith</sub>
+<p>Donald J. Trump’s eligibility for the presidential ballot has been challenged in more than 30 states, but only a handful of those cases have gained traction so far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>As the Art World Watches, an Oligarch Takes an Auction House to Court</h3>
-<sub>By Graham Bowley and William K. Rashbaum</sub>
-<p>At trial next week, Dmitry Rybolovlev is set to accuse Sotheby’s of helping an art dealer trick him into wildly overspending for works, a claim the company disputes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-theater-blue" alt="">
+<h3>Glynis Johns, Tony Winner for ‘A Little Night Music,’ Dies at 100</h3>
+<sub>By Anita Gates</sub>
+<p>In a trans-Atlantic career that endured for more than 60 years, she was also known for her role in the hit 1965 Disney movie “Mary Poppins.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>How a Drag Queen Event That Never Happened Forced a Library to Shut Down</h3>
 <sub>By John Leland</sub>
 <p>In April, Drag Queen Story Hour was announced. Protests erupted, and by September, the library was forced to close. It still hasn’t reopened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Sues Bus Companies That Brought 30,000 Migrants From Texas</h3>
-<sub>By Dana Rubinstein</sub>
-<p>The lawsuit accuses 17 companies of carrying out a plan by the governor of Texas to send tens of thousands of migrants to New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
