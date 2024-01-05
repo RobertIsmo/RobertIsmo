@@ -60,42 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-Currently, there is a lot going on in the world. The U.S. Secretary of State, Blinken, has been traveling to the Middle East as tensions there between Israel and Palestine are growing. In East Jerusalem, a Palestinian man recently vanished and his family is trying to find out what happened. Wall Street had its longest winning streak in nearly 20 years end recently because of various financial issues. President Biden is delivering a speech about the fight for democracy while considering young voters who are not supporting either him or Trump in another bid for re-election. Ron DeSantis has been launching some of the strongest attacks against Trump yet just days before the Iowa Caucuses. In New York Region, subway service is snarled due to an accident on Thursday which injured 26 people. African migration to the U.S. is rapidly increasing, with a large number of people flying from African nations directly to Central America and then continuing over land to the southern border in Mexico and on into the U.S. Meanwhile a lot of people have been flocking to Sin City for the holidays now that it&#39;s safer with all the safety precautions in place due to the pandemic, and many are having loads of fun despite it all! The FDA has also approved States importing drugs at better prices from Canada, though pharmaceutical companies oppose this plan as it may mean losses for them. And M.I.T.&#39;s President Sally Kornbluth has managed to avoid a major effort attempting to take down her presidency despite calls from politicians for her resignation.</p>
+It seems like a lot is going on in the world right now. In the US, young voters are expressing discontent with the current presidential front-runners and tensions are growing with Israel. On the international stage, terrorism in Iran is raising questions about security, and Apple could be facing a major antitrust case in the near future. Meanwhile, former President Trump may have to pay close to $370 million after a civil fraud trial and the US added 216,000 jobs last month – outpacing expectations of economic growth. Lastly, people were able to safely travel to places like Las Vegas for the holidays and we just found out what happened to a disabled veteran who had gone missing over 10 years ago.</p>
 <ol>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Issues First Approval for Mass Drug Imports to States From Canada</h3>
-<sub>By Christina Jewett and Sheryl Gay Stolberg</sub>
-<p>The agency authorized Florida to purchase medicines directly from wholesalers in Canada, where prices are far cheaper. Pharmaceutical companies oppose the plan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blinken Returns to Middle East as Tensions Grow With Israel</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>Details of a clash between the U.S. secretary of state and Israel’s prime minister point to the challenges ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Palestinian Man Vanished Oct. 7. His Family Wants to Know Who Killed Him.</h3>
-<sub>By Natan Odenheimer</sub>
-<p>Soheib Abu Amar, who lived in East Jerusalem, was captured by Hamas during its attack on Israel. His brothers spent weeks investigating what happened next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street Sobers Up After December’s Rally</h3>
-<sub>By Joe Rennison and J. Edward Moreno</sub>
-<p>The S&amp;P 500 is on track for its first weekly decline since October, ending Wall Street’s longest winning streak in nearly 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>And the 2023 Oscar Nominees Should Be …</h3>
-<sub>By Manohla Dargis and Alissa Wilkinson</sub>
-<p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Plans Speech Casting Election as a Fight for Democracy</h3>
-<sub>By Katie Glueck and Shane Goldmacher</sub>
-<p>The president’s speech on Friday in the battleground state of Pennsylvania represents a bet that many Americans remain shaken by the Jan. 6 attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Wayne LaPierre Resigns From N.R.A. With Trial Set to Open</h3>
+<sub>By Danny Hakim</sub>
+<p>The resignation of Mr. LaPierre, the National Rifle Association’s longtime leader, came as he faced a corruption trial in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -105,21 +75,51 @@ Currently, there is a lot going on in the world. The U.S. Secretary of State, Bl
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>DeSantis Lobs Most Forceful Attacks Yet Against Trump, Days Before Iowa Caucuses</h3>
-<sub>By Nicholas Nehamas, Jazmine Ulloa and Chris Cameron</sub>
-<p>In dueling town halls hosted by CNN, Nikki Haley struggled to find her footing at times, while Ron DeSantis delivered a confident performance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Blinken Returns to Middle East as Tensions Grow With Israel</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>Details of a clash between the U.S. secretary of state and Israel’s prime minister point to the challenges ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Terrorism in Iran Exposes a Vulnerability It Doesn’t Want to Admit</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Even after the Islamic State took responsibility for deadly bombings, Iran’s government, facing public anger, blamed Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple</h3>
+<sub>By David McCabe and Tripp Mickle</sub>
+<p>Justice Department officials are in the late stages of investigating the iPhone maker, focusing on how Apple has used its other products and services to defend against threats to its core business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>And the 2023 Oscar Nominees Should Be …</h3>
+<sub>By Manohla Dargis and Alissa Wilkinson</sub>
+<p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Subway Service Still Snarled as M.T.A. Works to Remove Derailed Trains</h3>
-<sub>By Ana Ley and Hurubie Meko</sub>
-<p>Twenty-six people were injured when two trains collided on Thursday afternoon. Officials said they hoped to restore service on the 1, 2 and 3 lines later on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>New York A.G. Seeks $370 Million From Trump After Civil Fraud Trial</h3>
+<sub>By Jonah E. Bromwich</sub>
+<p>The penalty was well over the $250 million that the attorney general, Letitia James, had estimated in the fall of 2022, when she sued the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>African Migration to the U.S. Soars as Europe Cracks Down</h3>
-<sub>By Miriam Jordan</sub>
-<p>Thousands of people from African nations are flying to Central America and then traveling over land to Mexico and on to the southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Issues First Approval for Mass Drug Imports to States From Canada</h3>
+<sub>By Christina Jewett and Sheryl Gay Stolberg</sub>
+<p>The agency authorized Florida to purchase medicines directly from wholesalers in Canada, where prices are far cheaper. Pharmaceutical companies oppose the plan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>U.S. Added 216,000 Jobs in December, Outpacing Forecasts</h3>
+<sub>By Talmon Joseph Smith</sub>
+<p>Hiring has throttled back from 2021 and 2022, but last year’s growth was still impressive by longer-term standards.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Wall Street Sobers Up After December’s Rally</h3>
+<sub>By Joe Rennison and J. Edward Moreno</sub>
+<p>The S&amp;P 500 is on track for its first weekly decline since October, ending Wall Street’s longest winning streak in nearly 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -129,9 +129,9 @@ Currently, there is a lot going on in the world. The U.S. Secretary of State, Bl
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>M.I.T.’s President Has Weathered the Storm, for Now</h3>
-<sub>By Jeremy W. Peters</sub>
-<p>Despite calls from politicians for her resignation, Sally Kornbluth has avoided a concerted effort to bring down her presidency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>He Went Out for Cigarettes. A Decade Later, His Car Was Found in a Pond.</h3>
+<sub>By Livia Albeck-Ripka</sub>
+<p>Donald Erwin, a 59-year-old disabled veteran, disappeared in 2013 after leaving his home in the Ozarks. Last month, a YouTube diver found his car submerged at a nearby property.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
