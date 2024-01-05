@@ -60,22 +60,40 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Thursday, January 4, Central Standard Time</p>
 <p>
-It looks like there&#39;s been a range of news lately. President Trump is still keeping tabs on his endorsements from other elected Republicans through a behind the scenes operation. There have been deadly bombings caused by the Islamic State in Iran, and Iraq condemned the US after a drone strike in Baghdad. It&#39;s not much better domestically: someone has been injured and another killed in an Iowa school shooting, there have been reports of Trump receiving millions from foreign governments while in office, and voting ballots have been challenged in over 30 states so far. To top it off, Glynis Johns, the Tony Award-winning actress for &quot;A Little Night Music,&quot; recently passed away at 100 years old and tensions surrounding a drag queen event that never happened forced a library to shut down.</p>
+There is a lot of tension surrounding immigration right now. U.S. President Biden is facing pressure from members of his own party to solve the overcrowding in migrant encampments and shelters. Ambulance workers in Texas, near the border, are feeling the strain of the crisis, as are New York City officials who are being confronted with tens of thousands of migrants being sent their way. On top of this, the Trump administration accepted millions of dollars from foreign entities while in office, and Republicans are trying to hold Biden to a similar standard. Meanwhile, there have been a series of bombings in Iran that Islamic State has claimed responsibility for. Iraq is also condemning the U.S. after an airstrike in Baghdad killed a militant leader with ties to their government. Closer to home, there was a school shooting in Iowa where a sixth grader was killed and five others injured, and here in New York, two subway trains collided causing several injuries but no deaths. Finally, an oligarch is suing Sotheby’s auction house for tricking him into overspending on artworks.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
+<sub>By Michael D. Shear and Miriam Jordan</sub>
+<p>Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Ambulance Workers in Texas Are Reeling Under the Border Surge</h3>
+<sub>By Edgar Sandoval</sub>
+<p>Washington politicians are traveling to Eagle Pass, Texas, to highlight the politics of the border crisis. For local officials, the real cost is measured in lives and money.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>New York City Sues Bus Companies That Brought 30,000 Migrants From Texas</h3>
+<sub>By Dana Rubinstein</sub>
+<p>The lawsuit accuses 17 companies of carrying out a plan by the governor of Texas to send tens of thousands of migrants to New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>A Skeptic of the G.O.P.’s Hard Immigration Line Becomes Its Champion</h3>
+<sub>By Karoun Demirjian</sub>
+<p>Representative Tony Gonzales, who represents a Texas border district, drew a censure and primary opponents for defying his fellow Republicans on immigration. Now he has swung into line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>How Trump Has Used Fear and Favor to Win Republican Endorsements</h3>
 <sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
 <p>The former president keeps careful watch over his endorsements from elected Republicans, aided by a disciplined and methodical behind-the-scenes operation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Want to Understand 2024? Look at 1948.</h3>
-<sub>By Nate Cohn</sub>
-<p>Americans were angry with Truman because of high prices in the aftermath of World War II, even as other economic signals looked promising.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Islamic State Takes Responsibility for Deadly Bombings in Iran</h3>
+<h3>Islamic State Claims Responsibility for Deadly Bombings in Iran</h3>
 <sub>By Vivian Yee, Hwaida Saad and Eric Schmitt</sub>
 <p>The group, which has struck before in Iran, has a long history of division with the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
@@ -88,8 +106,8 @@ It looks like there&#39;s been a range of news lately. President Trump is still 
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Subway Trains Collide in Manhattan, Causing Derailment, M.T.A. Says</h3>
-<sub>By Chelsia Rose Marcius, Robin Shulman Agüeros and Erin Nolan</sub>
-<p>The Metropolitan Transportation Authority confirmed that a train had derailed near 96th Street. Twenty-four people were hurt, but their injuries were not serious, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub>By Chelsia Rose Marcius, Robin Shulman Agüeros and Ana Ley</sub>
+<p>The Metropolitan Transportation Authority said that 24 people were injured in the collision near 96th Street. Their injuries were not serious, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-arts-blue" alt="">
@@ -114,24 +132,6 @@ It looks like there&#39;s been a range of news lately. President Trump is still 
 <h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
 <sub>By Luke Broadwater</sub>
 <p>House Democrats released evidence that he took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Ballot Challenges Advance, Varying Widely in Strategy and Sophistication</h3>
-<sub>By Jenna Russell, Nicholas Bogel-Burroughs and Mitch Smith</sub>
-<p>Donald J. Trump’s eligibility for the presidential ballot has been challenged in more than 30 states, but only a handful of those cases have gained traction so far.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-theater-blue" alt="">
-<h3>Glynis Johns, Tony Winner for ‘A Little Night Music,’ Dies at 100</h3>
-<sub>By Anita Gates</sub>
-<p>In a trans-Atlantic career that endured for more than 60 years, she was also known for her role in the hit 1965 Disney movie “Mary Poppins.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>How a Drag Queen Event That Never Happened Forced a Library to Shut Down</h3>
-<sub>By John Leland</sub>
-<p>In April, Drag Queen Story Hour was announced. Protests erupted, and by September, the library was forced to close. It still hasn’t reopened.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
