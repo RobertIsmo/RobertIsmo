@@ -60,56 +60,66 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-Right now there is a lot happening in the US and around the world. In the US, President Biden is facing increasing pressure from his own party to address the ongoing immigration crisis, with cities and states struggling to support migrants needing shelter and support. On the other side of the nation, Texas has been overwhelmed by a surge of migrants arriving by bus, leading to New York City filing a lawsuit against the bus companies. Meanwhile, Representative Tony Gonzales has gone from being a skeptic of the G.O.P.&#39;s rigorous immigration line to its champion. On top of that, Trump has been using fear and favor tactics to win Republican endorsements. 
-
-Around the world, Islamic State has recently claimed responsibility for deadly bombings in Iran, and Olympic athlete Oscar Pistorius, who was convicted of murder, was recently released from prison in South Africa. Red Sea attacks are menacing energy tankers but don&#39;t seem to be interfering as much as expected with trade. Lastly, an interesting court case is set to start in which Russian oligarch Dmitry Rybolovlev is accusing Sotheby&#39;s of helping an art dealer scam him out of millions.</p>
+There are a lot of things going on around the world right now. Inflation in countries that use the euro is growing, and African migrants are heading to the US in large numbers as Europe cracks down. Meanwhile, Starbucks is being pressured over a union campaign, and some energy tanker traffic continues through the Suez Canal even after attacks there. Locally in the US, President Biden is facing pressure from both sides on immigration, and a sixth grader was killed and five others injured in an Iowa school shooting.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Eurozone Price Pressures Edged Higher to End the Year</h3>
+<sub>By Melissa Eddy</sub>
+<p>Inflation in the countries that use the euro rose to 2.9 percent in December, but the underlying rate continued a downward trend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>The Jan. 6 Inquiry Three Years On, and a PepsiCo Boycott in France</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Palestinian Man Vanished Oct. 7. His Family Wants to Know Who Killed Him.</h3>
+<sub>By Natan Odenheimer</sub>
+<p>Soheib Abu Amar, who lived in East Jerusalem, was captured by Hamas during its attack on Israel. His brothers spent weeks investigating what happened next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>African Migration to the U.S. Soars as Europe Cracks Down</h3>
+<sub>By Miriam Jordan</sub>
+<p>Thousands of people from African nations are flying to Central America and then traveling over land to Mexico and on to the southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
 <sub>By Michael D. Shear and Miriam Jordan</sub>
 <p>Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Ambulance Workers in Texas Are Reeling Under the Border Surge</h3>
-<sub>By Edgar Sandoval</sub>
-<p>Washington politicians are traveling to Eagle Pass, Texas, to highlight the politics of the border crisis. For local officials, the real cost is measured in lives and money.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>And the 2023 Oscar Nominees Should Be …</h3>
+<sub>By Manohla Dargis and Alissa Wilkinson</sub>
+<p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York City Sues Bus Companies That Brought 30,000 Migrants From Texas</h3>
-<sub>By Dana Rubinstein</sub>
-<p>The lawsuit accuses 17 companies of carrying out a plan by the governor of Texas to send tens of thousands of migrants to New York.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Red Sea Attacks Menace Energy Tankers but Don’t Stop Them</h3>
+<sub>By Stanley Reed</sub>
+<p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>A Skeptic of the G.O.P.’s Hard Immigration Line Becomes Its Champion</h3>
-<sub>By Karoun Demirjian</sub>
-<p>Representative Tony Gonzales, who represents a Texas border district, drew a censure and primary opponents for defying his fellow Republicans on immigration. Now he has swung into line.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Wednesday, January 3, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>How Trump Has Used Fear and Favor to Win Republican Endorsements</h3>
-<sub>By Jonathan Swan, Shane Goldmacher and Maggie Haberman</sub>
-<p>The former president keeps careful watch over his endorsements from elected Republicans, aided by a disciplined and methodical behind-the-scenes operation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<h3>Biden Will Set 2024’s Soaring Stakes in His Beloved, Divided Pennsylvania</h3>
+<sub>By Katie Glueck and Shane Goldmacher</sub>
+<p>The president is returning to the battleground state for a speech near Valley Forge aiming to define this year’s election as a fight for democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Islamic State Claims Responsibility for Deadly Bombings in Iran</h3>
-<sub>By Vivian Yee, Hwaida Saad and Eric Schmitt</sub>
-<p>The group, which has struck before in Iran, has a long history of division with the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>DeSantis Lobs Most Forceful Attacks Yet Against Trump, Days Before Iowa Caucuses</h3>
+<sub>By Nicholas Nehamas, Jazmine Ulloa and Chris Cameron</sub>
+<p>In dueling town halls hosted by CNN, Nikki Haley struggled to find her footing at times, while Ron DeSantis delivered a confident performance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Subway Trains Collide in Manhattan, Causing Derailment, M.T.A. Says</h3>
 <sub>By Chelsia Rose Marcius, Robin Shulman Agüeros and Ana Ley</sub>
 <p>The Metropolitan Transportation Authority said that 24 people were injured in the collision near 96th Street. Their injuries were not serious, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-arts-blue" alt="">
-<h3>As the Art World Watches, an Oligarch Takes an Auction House to Court</h3>
-<sub>By Graham Bowley and William K. Rashbaum</sub>
-<p>At trial next week, Dmitry Rybolovlev is set to accuse Sotheby’s of helping an art dealer trick him into wildly overspending for works, a claim the company disputes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -119,22 +129,10 @@ Around the world, Islamic State has recently claimed responsibility for deadly b
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Red Sea Attacks Menace Energy Tankers but Don’t Stop Them</h3>
-<sub>By Stanley Reed</sub>
-<p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Oscar Pistorius, Olympic Athlete Convicted of Murder, Is Released</h3>
-<sub>By Lynsey Chutel</sub>
-<p>The South African sprinter, whose trial for the 2013 killing of his girlfriend drew intense global interest, served more than seven years in prison.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
-<sub>By Luke Broadwater</sub>
-<p>House Democrats released evidence that he took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<h3>Starbucks Faces New Pressure Over Union Campaign</h3>
+<sub>By Noam Scheiber</sub>
+<p>Amid a dissident bid for board seats and boycotts by activists, the company has sent mixed signals about its willingness to engage with labor groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
