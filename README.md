@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-There have been some interesting developments in the world lately. The FDA just approved states to buy drugs from Canada at lower prices, which could help people save money. There have also been several protests throughout Europe, like a boycott of PepsiCo in France. Meanwhile, a Palestinian man who had been captured by Hamas during the attack on Israel has gone missing, and his family is trying to track down what happened to him. Economically, wages are continually increasing and inflation is on the rise in Europe. In addition, some of the anticipated contenders for this year&#39;s Oscars have been discussed and President Biden is set to speak near Valley Forge, Pennsylvania, in an effort to define the election as revival of democracy. Further, the MTA are working on restoring service after a derailment earlier this week and African immigrants are flocking to the southern border of the US due to restrictions in Europe. Lastly, despite some recent terrorist attacks on energy tankers in the Red Sea, global reserves are plentiful enough to keep crude prices steady for now.</p>
+Currently, there is a lot going on in the world. The U.S. Secretary of State, Blinken, has been traveling to the Middle East as tensions there between Israel and Palestine are growing. In East Jerusalem, a Palestinian man recently vanished and his family is trying to find out what happened. Wall Street had its longest winning streak in nearly 20 years end recently because of various financial issues. President Biden is delivering a speech about the fight for democracy while considering young voters who are not supporting either him or Trump in another bid for re-election. Ron DeSantis has been launching some of the strongest attacks against Trump yet just days before the Iowa Caucuses. In New York Region, subway service is snarled due to an accident on Thursday which injured 26 people. African migration to the U.S. is rapidly increasing, with a large number of people flying from African nations directly to Central America and then continuing over land to the southern border in Mexico and on into the U.S. Meanwhile a lot of people have been flocking to Sin City for the holidays now that it&#39;s safer with all the safety precautions in place due to the pandemic, and many are having loads of fun despite it all! The FDA has also approved States importing drugs at better prices from Canada, though pharmaceutical companies oppose this plan as it may mean losses for them. And M.I.T.&#39;s President Sally Kornbluth has managed to avoid a major effort attempting to take down her presidency despite calls from politicians for her resignation.</p>
 <ol>
 <img src="https://img.shields.io/badge/-health-blue" alt="">
 <h3>F.D.A. Issues First Approval for Mass Drug Imports to States From Canada</h3>
@@ -68,10 +68,10 @@ There have been some interesting developments in the world lately. The FDA just 
 <p>The agency authorized Florida to purchase medicines directly from wholesalers in Canada, where prices are far cheaper. Pharmaceutical companies oppose the plan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
-<h3>The Jan. 6 Inquiry Three Years On, and a PepsiCo Boycott in France</h3>
-<sub>By New York Times Audio</sub>
-<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Blinken Returns to Middle East as Tensions Grow With Israel</h3>
+<sub>By Edward Wong and Michael Crowley</sub>
+<p>Details of a clash between the U.S. secretary of state and Israel’s prime minister point to the challenges ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -81,15 +81,9 @@ There have been some interesting developments in the world lately. The FDA just 
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Brisk Wage Gains in December Could Keep the Fed Watchful</h3>
-<sub>By Jeanna Smialek</sub>
-<p>Average hourly earnings climbed 0.4 percent from the previous month, and 4.1 percent compared to a year earlier. That was faster than economists expected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Eurozone Price Pressures Edged Higher to End the Year</h3>
-<sub>By Melissa Eddy</sub>
-<p>Inflation in the countries that use the euro rose to 2.9 percent in December, but the underlying rate continued a downward trend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Wall Street Sobers Up After December’s Rally</h3>
+<sub>By Joe Rennison and J. Edward Moreno</sub>
+<p>The S&amp;P 500 is on track for its first weekly decline since October, ending Wall Street’s longest winning streak in nearly 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -99,9 +93,15 @@ There have been some interesting developments in the world lately. The FDA just 
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Will Set 2024’s Soaring Stakes in His Beloved, Divided Pennsylvania</h3>
+<h3>Biden Plans Speech Casting Election as a Fight for Democracy</h3>
 <sub>By Katie Glueck and Shane Goldmacher</sub>
-<p>The president is returning to the battleground state for a speech near Valley Forge aiming to define this year’s election as a fight for democracy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The president’s speech on Friday in the battleground state of Pennsylvania represents a bet that many Americans remain shaken by the Jan. 6 attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Young Voters Are Voicing Discontent: ‘I Don’t Want a Biden-Trump Rematch’</h3>
+<sub>By Anjali Huynh</sub>
+<p>The dissatisfaction with the presidential front-runners among a key coalition of voters — who may vote third party or not at all — poses a serious threat to the president’s re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -111,7 +111,7 @@ There have been some interesting developments in the world lately. The FDA just 
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Subway Service Still Snarled as M.T.A. Works to Remove Derailed Train</h3>
+<h3>Subway Service Still Snarled as M.T.A. Works to Remove Derailed Trains</h3>
 <sub>By Ana Ley and Hurubie Meko</sub>
 <p>Twenty-six people were injured when two trains collided on Thursday afternoon. Officials said they hoped to restore service on the 1, 2 and 3 lines later on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
@@ -122,17 +122,17 @@ There have been some interesting developments in the world lately. The FDA just 
 <p>Thousands of people from African nations are flying to Central America and then traveling over land to Mexico and on to the southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
-<sub>By Michael D. Shear and Miriam Jordan</sub>
-<p>Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>There’s No Place Like Sin City for the Holidays</h3>
+<sub>By Matt Flegenheimer</sub>
+<p>After a pandemic hiatus, my family was finally back in Las Vegas for Christmas, and we were up $1.25. The world was ours.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Red Sea Attacks Menace Energy Tankers but Don’t Stop Them</h3>
-<sub>By Stanley Reed</sub>
-<p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>M.I.T.’s President Has Weathered the Storm, for Now</h3>
+<sub>By Jeremy W. Peters</sub>
+<p>Despite calls from politicians for her resignation, Sally Kornbluth has avoided a concerted effort to bring down her presidency.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
