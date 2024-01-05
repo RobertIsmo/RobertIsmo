@@ -60,12 +60,12 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-There are a lot of things going on around the world right now. Inflation in countries that use the euro is growing, and African migrants are heading to the US in large numbers as Europe cracks down. Meanwhile, Starbucks is being pressured over a union campaign, and some energy tanker traffic continues through the Suez Canal even after attacks there. Locally in the US, President Biden is facing pressure from both sides on immigration, and a sixth grader was killed and five others injured in an Iowa school shooting.</p>
+There have been some interesting developments in the world lately. The FDA just approved states to buy drugs from Canada at lower prices, which could help people save money. There have also been several protests throughout Europe, like a boycott of PepsiCo in France. Meanwhile, a Palestinian man who had been captured by Hamas during the attack on Israel has gone missing, and his family is trying to track down what happened to him. Economically, wages are continually increasing and inflation is on the rise in Europe. In addition, some of the anticipated contenders for this year&#39;s Oscars have been discussed and President Biden is set to speak near Valley Forge, Pennsylvania, in an effort to define the election as revival of democracy. Further, the MTA are working on restoring service after a derailment earlier this week and African immigrants are flocking to the southern border of the US due to restrictions in Europe. Lastly, despite some recent terrorist attacks on energy tankers in the Red Sea, global reserves are plentiful enough to keep crude prices steady for now.</p>
 <ol>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Eurozone Price Pressures Edged Higher to End the Year</h3>
-<sub>By Melissa Eddy</sub>
-<p>Inflation in the countries that use the euro rose to 2.9 percent in December, but the underlying rate continued a downward trend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-health-blue" alt="">
+<h3>F.D.A. Issues First Approval for Mass Drug Imports to States From Canada</h3>
+<sub>By Christina Jewett and Sheryl Gay Stolberg</sub>
+<p>The agency authorized Florida to purchase medicines directly from wholesalers in Canada, where prices are far cheaper. Pharmaceutical companies oppose the plan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
@@ -80,28 +80,22 @@ There are a lot of things going on around the world right now. Inflation in coun
 <p>Soheib Abu Amar, who lived in East Jerusalem, was captured by Hamas during its attack on Israel. His brothers spent weeks investigating what happened next.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>African Migration to the U.S. Soars as Europe Cracks Down</h3>
-<sub>By Miriam Jordan</sub>
-<p>Thousands of people from African nations are flying to Central America and then traveling over land to Mexico and on to the southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Brisk Wage Gains in December Could Keep the Fed Watchful</h3>
+<sub>By Jeanna Smialek</sub>
+<p>Average hourly earnings climbed 0.4 percent from the previous month, and 4.1 percent compared to a year earlier. That was faster than economists expected.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
-<sub>By Michael D. Shear and Miriam Jordan</sub>
-<p>Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Eurozone Price Pressures Edged Higher to End the Year</h3>
+<sub>By Melissa Eddy</sub>
+<p>Inflation in the countries that use the euro rose to 2.9 percent in December, but the underlying rate continued a downward trend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>And the 2023 Oscar Nominees Should Be …</h3>
 <sub>By Manohla Dargis and Alissa Wilkinson</sub>
 <p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Red Sea Attacks Menace Energy Tankers but Don’t Stop Them</h3>
-<sub>By Stanley Reed</sub>
-<p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -117,22 +111,28 @@ There are a lot of things going on around the world right now. Inflation in coun
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Subway Trains Collide in Manhattan, Causing Derailment, M.T.A. Says</h3>
-<sub>By Chelsia Rose Marcius, Robin Shulman Agüeros and Ana Ley</sub>
-<p>The Metropolitan Transportation Authority said that 24 people were injured in the collision near 96th Street. Their injuries were not serious, officials said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<h3>Subway Service Still Snarled as M.T.A. Works to Remove Derailed Train</h3>
+<sub>By Ana Ley and Hurubie Meko</sub>
+<p>Twenty-six people were injured when two trains collided on Thursday afternoon. Officials said they hoped to restore service on the 1, 2 and 3 lines later on Friday.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Sixth Grader Killed and 5 Others Injured in Iowa School Shooting</h3>
-<sub>By Remy Tumin, Victor Mather and Leah McBride Mensching</sub>
-<p>Four other students and an administrator were injured in the shooting at an Iowa school. The gunman, identified as a 17-year-old student, died from a self-inflicted gunshot, the authorities said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>African Migration to the U.S. Soars as Europe Cracks Down</h3>
+<sub>By Miriam Jordan</sub>
+<p>Thousands of people from African nations are flying to Central America and then traveling over land to Mexico and on to the southern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
+<sub>By Michael D. Shear and Miriam Jordan</sub>
+<p>Mayors and governors from President Biden’s own party are looking for help with overflowing migrant encampments, packed shelters and busted budgets.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Starbucks Faces New Pressure Over Union Campaign</h3>
-<sub>By Noam Scheiber</sub>
-<p>Amid a dissident bid for board seats and boycotts by activists, the company has sent mixed signals about its willingness to engage with labor groups.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<h3>Red Sea Attacks Menace Energy Tankers but Don’t Stop Them</h3>
+<sub>By Stanley Reed</sub>
+<p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
