@@ -60,7 +60,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-There is a lot happening around the world right now. President Biden is facing pressure on immigration issues from members of his own party. Local officials in Texas, where there is a surge of migrants, are struggling to keep up with the influx. New York City is suing bus companies that brought 30,000 migrants from Texas. Meanwhile, Republicans like Tony Gonzales have shifted stances on immigration and Trump has been using his endorsements to maintain control over the GOP. The Islamic State is claiming responsibility for terror attacks in Iran and Iraq has also condemned the US for a drone strike against a militant leader with ties to its security apparatus. In other news, there was a train derailment in Manhattan due to two trains colliding; 24 people were injured but none seriously. An oligarch is taking an auction house to court over alleged fraud. A sixth grader was killed and five others injured in an Iowa school shooting and attacks in the Red Sea are causing tension but oil tankers are still navigating the Suez Canal. Finally, Harvard&#39;s first Black President resigned after recognizing how race affected her appointment and experience there.</p>
+Right now there is a lot happening in the US and around the world. In the US, President Biden is facing increasing pressure from his own party to address the ongoing immigration crisis, with cities and states struggling to support migrants needing shelter and support. On the other side of the nation, Texas has been overwhelmed by a surge of migrants arriving by bus, leading to New York City filing a lawsuit against the bus companies. Meanwhile, Representative Tony Gonzales has gone from being a skeptic of the G.O.P.&#39;s rigorous immigration line to its champion. On top of that, Trump has been using fear and favor tactics to win Republican endorsements. 
+
+Around the world, Islamic State has recently claimed responsibility for deadly bombings in Iran, and Olympic athlete Oscar Pistorius, who was convicted of murder, was recently released from prison in South Africa. Red Sea attacks are menacing energy tankers but don&#39;t seem to be interfering as much as expected with trade. Lastly, an interesting court case is set to start in which Russian oligarch Dmitry Rybolovlev is accusing Sotheby&#39;s of helping an art dealer scam him out of millions.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Faces Pressure on Immigration, and Not Just From Republicans</h3>
@@ -98,12 +100,6 @@ There is a lot happening around the world right now. President Biden is facing p
 <p>The group, which has struck before in Iran, has a long history of division with the country.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Iraq Condemns U.S. After Drone Strike in Baghdad</h3>
-<sub>By Alissa J. Rubin and Eric Schmitt</sub>
-<p>The attack, acknowledged by the Pentagon, killed a senior militant leader of an Iran-allied group with ties to the Iraqi government’s security apparatus.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Subway Trains Collide in Manhattan, Causing Derailment, M.T.A. Says</h3>
 <sub>By Chelsia Rose Marcius, Robin Shulman Agüeros and Ana Ley</sub>
@@ -128,10 +124,16 @@ There is a lot happening around the world right now. President Biden is facing p
 <p>Some oil tanker traffic continues to go through the Suez Canal, while plentiful global reserves keep crude prices steady.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Oscar Pistorius, Olympic Athlete Convicted of Murder, Is Released</h3>
+<sub>By Lynsey Chutel</sub>
+<p>The South African sprinter, whose trial for the 2013 killing of his girlfriend drew intense global interest, served more than seven years in prison.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>For Harvard’s First Black President, Race Became the Unavoidable Issue</h3>
-<sub>By Kurt Streeter</sub>
-<p>Claudine Gay celebrated her history making appointment. But after she resigned, she spoke very differently about her experience.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Received Millions From Foreign Governments as President, Report Finds</h3>
+<sub>By Luke Broadwater</sub>
+<p>House Democrats released evidence that he took in at least $7.8 million from foreign entities while in office, engaging in the kind of conduct the G.O.P. is grasping to pin on President Biden.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
