@@ -60,37 +60,47 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 6, Central Standard Time</p>
 <p>
-Overall, it looks like there is a lot of political tension happening both in the US and around the world. In the US, President Biden recently gave a speech condemning Trump as a dire threat to democracy and there&#39;s a challenge to Idaho&#39;s strict abortion laws that reached all the way to the Supreme Court. Meanwhile, Wayne LaPierre resigned from the NRA and a corruption trial is set to open. On an international level, there have been terror bombings in Iran which they are blaming Israel for, escalating tensions in Gaza that US Secretary of State Antony Blinken is trying to ease, and Bangladesh had an unfair election where Prime Minister Sheikh Hasina is expected to get her fourth consecutive term. There&#39;s also a strange incident with an Alaska Airlines flight making an emergency landing after part of its fuselage opened midair, and further exploration of the early universe by the Webb telescope may help us understand how screwy physics could have been at the dawn of time. On an opinion side of things, there&#39;s discussion about what the Supreme Court should not do in Trump&#39;s disqualification case and whether or not Donald Trump meets criteria for being considered an insurrectionist according to the 14th Amendment.</p>
+In the United States, there is a political battle between President Biden and former President Donald Trump brewing to shape the future of democracy leading up to the 2024 presidential election. To make matters more interesting, several legal issues are also cropping up with Trump&#39;s attempts to avoid criminal charges for his role in the January 6th insurrection at the US Capitol. Meanwhile, Supreme Court justices are deciding whether or not he should be eligible for ballot access in state Republican primaries. Candidates on both sides also spar over their positions on Social Security and Medicare in an effort to protect current senior citizens.
+
+On the international stage, violence has erupted in Israel and Gaza due to Hezbollah launching rockets at Israel in retaliation for an assassination that took place in Lebanon. In Iran, terrorism has led to more public outrage and finger-pointing towards Israel although ISIS has taken responsibility for it.
+
+Harvard University also made headlines when its Board of Directors broke ties with Claudine Gay after immense pressure, pushing her out as president within weeks even though they had stood behind her prior. This has emboldened House Republicans to broaden their inquiry into academic institutions focused on controversial topics like anti-Semitism.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Biden Condemns Trump as Dire Threat to Democracy in a Blistering Speech</h3>
-<sub>By Reid J. Epstein</sub>
-<p>The president framed the election as a choice between a candidate devoted to upholding American ideals and a chaos agent willing to discard them for his personal benefit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Clashing Over Jan. 6, Trump and Biden Show Reality Is at Stake in 2024</h3>
+<sub>By Michael C. Bender, Lisa Lerer and Michael Gold</sub>
+<p>In dueling sets of speeches, Donald Trump and President Biden are framing the election as a battle for the future of democracy — with Mr. Trump brazenly casting Mr. Biden as the true menace.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Three Years After Jan. 6, Trump’s Immunity Claims to Take Center Stage</h3>
+<sub>By Alan Feuer and Charlie Savage</sub>
+<p>An appeals court will hear arguments on Tuesday over the former president’s attempt to shut down the federal election case. Much is riding on how — and how quickly — the issue is decided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court to Hear Challenge to Idaho’s Strict Abortion Ban</h3>
+<h3>Supreme Court to Decide Whether Trump Is Eligible for Colorado Ballot</h3>
 <sub>By Adam Liptak</sub>
-<p>The court also temporarily reinstated the state law, which the Biden administration said conflicts with a federal statute on emergency-room care.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>The Colorado Supreme Court ruled last month that the former president could not appear on the state’s Republican primary ballot because he had engaged in insurrection.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Tracking Abortion Bans Across the Country</h3>
-<sub>By The New York Times</sub>
-<p>The New York Times is tracking the status of abortion laws in each state following the Supreme Court’s decision to overturn Roe v. Wade.  <a href="https://nyti.ms/3sYKAjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Tuesday, May 24, Central Standard Time</sub></sub>
+<h3>Fact-Checking Candidates’ Sparring Over Social Security and Medicare</h3>
+<sub>By Angelo Fichera</sub>
+<p>The top presidential candidates are vowing to protect the entitlement programs for current seniors, though some have floated changes for younger generations. But they’ve muddied each other’s current positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Wayne LaPierre Resigns From N.R.A. With Trial Set to Open</h3>
-<sub>By Danny Hakim</sub>
-<p>The resignation of Mr. LaPierre, the National Rifle Association’s longtime leader, came as he faced a corruption trial in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Gaza Losses Mount Under Strikes, Dignified Burials Are Another Casualty</h3>
+<sub>By Raja Abdulrahim, Samar Abu Elouf and Yousef Masoud</sub>
+<p>“The lucky are those who have someone to bury them when they die,” Dr. Mohammad Abu Moussa, a radiologist at one Gaza hospital, said of those killed by Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Joseph Lelyveld, Former Top Editor of The New York Times, Dies at 86</h3>
-<sub>By Robert D. McFadden</sub>
-<p>As executive editor from 1994 to 2001, he oversaw a period of growth, expanding national and international readerships, creating new sections and ushering in the digital age with a Times website.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hezbollah Fires Rockets at Israel in Response to Assassination in Beirut</h3>
+<sub>By Patrick Kingsley and Rawan Sheikh Ahmad</sub>
+<p>Israel said it had fired back at militants involved in the rocket launches, but the exchange stopped short of a major escalation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Terrorism in Iran Exposes a Vulnerability It Doesn’t Want to Admit</h3>
@@ -98,40 +108,34 @@ Overall, it looks like there is a lot of political tension happening both in the
 <p>Even after the Islamic State took responsibility for deadly bombings, Iran’s government, facing public anger, blamed Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Pressure Mounts, Israeli Minister Proposes Plan for Postwar Gaza</h3>
-<sub>By Roni Rabin, Euan Ward and Hwaida Saad</sub>
-<p>The plan exposed divisions in Israel’s war cabinet as Secretary of State Antony J. Blinken returned to the Middle East on Friday in an effort to ease escalating tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Alaska Airlines Grounds Fleet of Boeing 737 Max 9 Jets After Midair ‘Incident’</h3>
+<sub>By John Yoon, Victoria Kim and Orlando Mayorquin</sub>
+<p>The plane made an emergency landing at the Portland, Ore., international airport after losing a chunk of its fuselage, according to passengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Day 6: How to Stay Energized all Year Long</h3>
+<sub>By Jancee Dunn</sub>
+<p>Today, we’ll share a few final tips to keep you motivated in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-well-blue" alt="">
+<h3>Questlove Made You an Energy Playlist</h3>
+<sub>By Jancee Dunn and Ahmir Questlove Thompson</sub>
+<p>These 17 tracks will get you moving.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Plane Made Emergency Landing After a Hole Opened Up, Passengers Say</h3>
-<sub>By John Yoon, Victoria Kim and Orlando Mayorquin</sub>
-<p>An Alaska Airlines flight that returned to an Oregon airport after takeoff lost chunk of its fuselage midair, according to passengers. “It was honestly horrifying,” one said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<h3>How Harvard’s Board Broke Up With Claudine Gay</h3>
+<sub>By Maureen Farrell and Rob Copeland</sub>
+<p>Facing intense pressure, it went from standing behind her as the university’s president to pushing her out within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>The Early Universe Was Bananas</h3>
-<sub>By Dennis Overbye</sub>
-<p>Images from the Webb telescope suggest that newborn galaxies look weirder than expected. Exactly how screwy was physics at the dawn of time?  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A One-Sided Affair as Bangladesh’s Ailing Democracy Goes to the Polls</h3>
-<sub>By Mujib Mashal and Saif Hasnat</sub>
-<p>Prime Minister Sheikh Hasina is expected to roll to a fourth consecutive term as the gutted opposition boycotts what it calls an unfair election.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What the Supreme Court Should Not Do in Trump’s Disqualification Case</h3>
-<sub>By Gerard N. Magliocca</sub>
-<p>If anyone is going to do so, elected representatives must be the ones to forgive Donald Trump.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>If Trump Is Not an Insurrectionist, What Is He?</h3>
-<sub>By Jamelle Bouie</sub>
-<p>The former president is just the man the 14th Amendment envisioned barring from office.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans to Broaden Higher Education Inquiry Beyond Antisemitism</h3>
+<sub>By Annie Karni</sub>
+<p>Emboldened by the resignations of two prominent university presidents, House Republicans are planning an aggressive inquiry into academia, long one of their favorite targets of attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
