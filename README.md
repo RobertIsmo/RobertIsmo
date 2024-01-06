@@ -60,36 +60,36 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-It seems like a lot is going on in the world right now. In the US, young voters are expressing discontent with the current presidential front-runners and tensions are growing with Israel. On the international stage, terrorism in Iran is raising questions about security, and Apple could be facing a major antitrust case in the near future. Meanwhile, former President Trump may have to pay close to $370 million after a civil fraud trial and the US added 216,000 jobs last month – outpacing expectations of economic growth. Lastly, people were able to safely travel to places like Las Vegas for the holidays and we just found out what happened to a disabled veteran who had gone missing over 10 years ago.</p>
+There&#39;s a lot going on in the world right now! President Biden recently gave a scathing speech about former President Trump, condemning him as a threat to democracy. The Supreme Court is hearing a challenge to an Idaho abortion ban that the Biden administration said conflicts with federal law. The New York Times has been tracking changes in abortion laws in every state, and Wayne LaPierre resigned from the National Rifle Association with a trial in Manhattan pending. In other news, former New York Times editor Joseph Lelyveld sadly passed away last week. On the positive side, there&#39;s speculation about which movies and actors should be nominated for Oscars this year. In Iran, terrorism exposed government vulnerability and Israel released a plan to aid postwar Gaza. And finally, Las Vegas is back open and a nor&#39;easter is bringing snow across the northeast - how much depends on where you live!</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden Condemns Trump as Dire Threat to Democracy in a Blistering Speech</h3>
+<sub>By Reid J. Epstein</sub>
+<p>The president framed the election as a choice between a candidate devoted to upholding American ideals and a chaos agent willing to discard them for his personal benefit.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Supreme Court to Hear Challenge to Idaho’s Strict Abortion Ban</h3>
+<sub>By Adam Liptak</sub>
+<p>The court also temporarily reinstated the state law, which the Biden administration said conflicts with a federal statute on emergency-room care.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Tracking Abortion Bans Across the Country</h3>
+<sub>By The New York Times</sub>
+<p>The New York Times is tracking the status of abortion laws in each state following the Supreme Court’s decision to overturn Roe v. Wade.  <a href="https://nyti.ms/3sYKAjR"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Tuesday, May 24, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>Wayne LaPierre Resigns From N.R.A. With Trial Set to Open</h3>
 <sub>By Danny Hakim</sub>
 <p>The resignation of Mr. LaPierre, the National Rifle Association’s longtime leader, came as he faced a corruption trial in Manhattan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Young Voters Are Voicing Discontent: ‘I Don’t Want a Biden-Trump Rematch’</h3>
-<sub>By Anjali Huynh</sub>
-<p>The dissatisfaction with the presidential front-runners among a key coalition of voters — who may vote third party or not at all — poses a serious threat to the president’s re-election effort.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Blinken Returns to Middle East as Tensions Grow With Israel</h3>
-<sub>By Edward Wong and Michael Crowley</sub>
-<p>Details of a clash between the U.S. secretary of state and Israel’s prime minister point to the challenges ahead.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Terrorism in Iran Exposes a Vulnerability It Doesn’t Want to Admit</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Even after the Islamic State took responsibility for deadly bombings, Iran’s government, facing public anger, blamed Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple</h3>
-<sub>By David McCabe and Tripp Mickle</sub>
-<p>Justice Department officials are in the late stages of investigating the iPhone maker, focusing on how Apple has used its other products and services to defend against threats to its core business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Joseph Lelyveld, Former Top Editor of The New York Times, Dies at 86</h3>
+<sub>By Robert D. McFadden</sub>
+<p>As executive editor from 1994 to 2001, he oversaw a period of growth, expanding national and international readerships, creating new sections and ushering in the digital age with a Times website.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -98,28 +98,16 @@ It seems like a lot is going on in the world right now. In the US, young voters 
 <p>Academy voters will do what they want, but if our chief critics had their way, these are the films and performers that would be up for Oscars this year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>New York A.G. Seeks $370 Million From Trump After Civil Fraud Trial</h3>
-<sub>By Jonah E. Bromwich</sub>
-<p>The penalty was well over the $250 million that the attorney general, Letitia James, had estimated in the fall of 2022, when she sued the former president.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Terrorism in Iran Exposes a Vulnerability It Doesn’t Want to Admit</h3>
+<sub>By Farnaz Fassihi</sub>
+<p>Even after the Islamic State took responsibility for deadly bombings, Iran’s government, facing public anger, blamed Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-health-blue" alt="">
-<h3>F.D.A. Issues First Approval for Mass Drug Imports to States From Canada</h3>
-<sub>By Christina Jewett and Sheryl Gay Stolberg</sub>
-<p>The agency authorized Florida to purchase medicines directly from wholesalers in Canada, where prices are far cheaper. Pharmaceutical companies oppose the plan.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>U.S. Added 216,000 Jobs in December, Outpacing Forecasts</h3>
-<sub>By Talmon Joseph Smith</sub>
-<p>Hiring has throttled back from 2021 and 2022, but last year’s growth was still impressive by longer-term standards.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Wall Street Sobers Up After December’s Rally</h3>
-<sub>By Joe Rennison and J. Edward Moreno</sub>
-<p>The S&amp;P 500 is on track for its first weekly decline since October, ending Wall Street’s longest winning streak in nearly 20 years.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As Pressure Mounts, Israeli Minister Proposes Plan for Postwar Gaza</h3>
+<sub>By Roni Rabin, Euan Ward and Hwaida Saad</sub>
+<p>The plan exposed divisions in Israel’s war cabinet as Secretary of State Antony J. Blinken returned to the Middle East on Friday in an effort to ease escalating tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
@@ -129,9 +117,21 @@ It seems like a lot is going on in the world right now. In the US, young voters 
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>He Went Out for Cigarettes. A Decade Later, His Car Was Found in a Pond.</h3>
-<sub>By Livia Albeck-Ripka</sub>
-<p>Donald Erwin, a 59-year-old disabled veteran, disappeared in 2013 after leaving his home in the Ozarks. Last month, a YouTube diver found his car submerged at a nearby property.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>A Nor’easter Will Bring Significant Snow, and New York City Could Still Miss Out</h3>
+<sub>By Judson Jones</sub>
+<p>A robust winter storm will bring up to a foot of snow or more to portions of the Northeast, but the snow amounts along the coast are still questionable.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>How Much Snow Will Fall Where You Live?</h3>
+<sub>By Aatish Bhatia, Josh Katz, Margot Sanger-Katz and Samuel Jacoby</sub>
+<p>Type in your community to see the full range of possibilities in the next few days.  <a href="https://nyti.ms/3hdEfL2"><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>Human Error Likely Caused Subway Crash and Derailments, Officials Say</h3>
+<sub>By Ana Ley and Hurubie Meko</sub>
+<p>The collision of two trains, which injured 26 people, appears to have been caused by confusion over which vehicle had the right of way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
