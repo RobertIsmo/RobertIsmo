@@ -60,11 +60,11 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 6, Central Standard Time</p>
 <p>
-In the United States, there is a political battle between President Biden and former President Donald Trump brewing to shape the future of democracy leading up to the 2024 presidential election. To make matters more interesting, several legal issues are also cropping up with Trump&#39;s attempts to avoid criminal charges for his role in the January 6th insurrection at the US Capitol. Meanwhile, Supreme Court justices are deciding whether or not he should be eligible for ballot access in state Republican primaries. Candidates on both sides also spar over their positions on Social Security and Medicare in an effort to protect current senior citizens.
+There is a lot going on in the world right now. In the US, Donald Trump and Joe Biden are clashing over the Jan. 6 attack on the US Capitol, with both sides framing it as a battle for the future of democracy. There&#39;s also an appeals court hearing that will decide whether Donald Trump can be immune from criminal charges related to the attack. Meanwhile, presidential candidates are sparring over Social Security and Medicare plans. 
 
-On the international stage, violence has erupted in Israel and Gaza due to Hezbollah launching rockets at Israel in retaliation for an assassination that took place in Lebanon. In Iran, terrorism has led to more public outrage and finger-pointing towards Israel although ISIS has taken responsibility for it.
+Internationally, Hezbollah and Israel are in conflict after a killing in Beirut, and violence in Iran has exposed a vulnerability that the government doesn&#39;t want to admit to. In Gaza, Israeli airstrikes have caused mounting losses, including for those killed in combat and for whom there are no dignified burials.
 
-Harvard University also made headlines when its Board of Directors broke ties with Claudine Gay after immense pressure, pushing her out as president within weeks even though they had stood behind her prior. This has emboldened House Republicans to broaden their inquiry into academic institutions focused on controversial topics like anti-Semitism.</p>
+On the business side, Boeing&#39;s 737 Max 9 jets have been grounded by Alaska Airlines after an emergency landing due to part of its fuselage coming off midair. This has led to questions regarding Boeing&#39;s safety protocols. Additionally, Harvard&#39;s board recently broke up with Claudine Gay, its President-elect, amidst intense pressure from within weeks of standing behind her.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clashing Over Jan. 6, Trump and Biden Show Reality Is at Stake in 2024</h3>
@@ -97,8 +97,8 @@ Harvard University also made headlines when its Board of Directors broke ties wi
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hezbollah Fires Rockets at Israel in Response to Assassination in Beirut</h3>
-<sub>By Patrick Kingsley and Rawan Sheikh Ahmad</sub>
+<h3>Hezbollah Fires Rockets at Israel in Response to Killing in Beirut</h3>
+<sub>By Patrick Kingsley, Rawan Sheikh Ahmad and Raja Abdulrahim</sub>
 <p>Israel said it had fired back at militants involved in the rocket launches, but the exchange stopped short of a major escalation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
@@ -113,6 +113,12 @@ Harvard University also made headlines when its Board of Directors broke ties wi
 <sub>By John Yoon, Victoria Kim and Orlando Mayorquin</sub>
 <p>The plane made an emergency landing at the Portland, Ore., international airport after losing a chunk of its fuselage, according to passengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About Boeing’s 737 Max 9 and the Alaska Airlines Grounding</h3>
+<sub>By Christopher F. Schuetze, Keith Bradsher and Melissa Eddy</sub>
+<p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-well-blue" alt="">
 <h3>Day 6: How to Stay Energized all Year Long</h3>
@@ -131,12 +137,6 @@ Harvard University also made headlines when its Board of Directors broke ties wi
 <sub>By Maureen Farrell and Rob Copeland</sub>
 <p>Facing intense pressure, it went from standing behind her as the university’s president to pushing her out within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans to Broaden Higher Education Inquiry Beyond Antisemitism</h3>
-<sub>By Annie Karni</sub>
-<p>Emboldened by the resignations of two prominent university presidents, House Republicans are planning an aggressive inquiry into academia, long one of their favorite targets of attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
