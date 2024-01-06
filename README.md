@@ -60,11 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Donald Trump and Joe Biden are clashing over the Jan. 6 attack on the US Capitol, with both sides framing it as a battle for the future of democracy. There&#39;s also an appeals court hearing that will decide whether Donald Trump can be immune from criminal charges related to the attack. Meanwhile, presidential candidates are sparring over Social Security and Medicare plans. 
+It seems like the world is in a bit of a state at the moment. In the US, Donald Trump and President Biden are clashing over the Jan 6th events, with Trump trying to frame Biden as the one responsible. Meanwhile, former president Trump is fighting to shut down a federal election case about him, and the two top presidential candidates are sparring about social security and medicare. 
 
-Internationally, Hezbollah and Israel are in conflict after a killing in Beirut, and violence in Iran has exposed a vulnerability that the government doesn&#39;t want to admit to. In Gaza, Israeli airstrikes have caused mounting losses, including for those killed in combat and for whom there are no dignified burials.
+Outside of the US, tension is mounting between Israel and Gaza as Israeli airstrikes have been killing off many Gazans. In response, Hezbollah has fired rockets at Israel. In Iran too, terrorism has been on the rise recently after bombings took place, with Iran&#39;s government currently blaming Israel for it all. 
 
-On the business side, Boeing&#39;s 737 Max 9 jets have been grounded by Alaska Airlines after an emergency landing due to part of its fuselage coming off midair. This has led to questions regarding Boeing&#39;s safety protocols. Additionally, Harvard&#39;s board recently broke up with Claudine Gay, its President-elect, amidst intense pressure from within weeks of standing behind her.</p>
+In business news, an Alaska Airlines jet that was a Boeing 737 Max 9 made an emergency landing after it unexpectedly lost part of its fuselage in midair. As a result, Alaska Airlines has had to ground its entire fleet of Boeing 737 Max 9 jets. 
+
+Finally, Harvard&#39;s board of directors recently faced a lot of pressure which caused them to push out Claudine Gay from her role as president within a few weeks. House Republicans are also planning an inquiry into academia due to recent events. </p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Clashing Over Jan. 6, Trump and Biden Show Reality Is at Stake in 2024</h3>
@@ -76,12 +78,6 @@ On the business side, Boeing&#39;s 737 Max 9 jets have been grounded by Alaska A
 <h3>Three Years After Jan. 6, Trump’s Immunity Claims to Take Center Stage</h3>
 <sub>By Alan Feuer and Charlie Savage</sub>
 <p>An appeals court will hear arguments on Tuesday over the former president’s attempt to shut down the federal election case. Much is riding on how — and how quickly — the issue is decided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Supreme Court to Decide Whether Trump Is Eligible for Colorado Ballot</h3>
-<sub>By Adam Liptak</sub>
-<p>The Colorado Supreme Court ruled last month that the former president could not appear on the state’s Republican primary ballot because he had engaged in insurrection.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -137,6 +133,12 @@ On the business side, Boeing&#39;s 737 Max 9 jets have been grounded by Alaska A
 <sub>By Maureen Farrell and Rob Copeland</sub>
 <p>Facing intense pressure, it went from standing behind her as the university’s president to pushing her out within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>House Republicans to Broaden Higher Education Inquiry Beyond Antisemitism</h3>
+<sub>By Annie Karni</sub>
+<p>Emboldened by the resignations of two prominent university presidents, House Republicans are planning an aggressive inquiry into academia, long one of their favorite targets of attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
