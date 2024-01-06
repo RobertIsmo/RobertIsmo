@@ -60,16 +60,22 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 6, Central Standard Time</p>
 <p>
-It seems like the world is in a bit of a state at the moment. In the US, Donald Trump and President Biden are clashing over the Jan 6th events, with Trump trying to frame Biden as the one responsible. Meanwhile, former president Trump is fighting to shut down a federal election case about him, and the two top presidential candidates are sparring about social security and medicare. 
-
-Outside of the US, tension is mounting between Israel and Gaza as Israeli airstrikes have been killing off many Gazans. In response, Hezbollah has fired rockets at Israel. In Iran too, terrorism has been on the rise recently after bombings took place, with Iran&#39;s government currently blaming Israel for it all. 
-
-In business news, an Alaska Airlines jet that was a Boeing 737 Max 9 made an emergency landing after it unexpectedly lost part of its fuselage in midair. As a result, Alaska Airlines has had to ground its entire fleet of Boeing 737 Max 9 jets. 
-
-Finally, Harvard&#39;s board of directors recently faced a lot of pressure which caused them to push out Claudine Gay from her role as president within a few weeks. House Republicans are also planning an inquiry into academia due to recent events. </p>
+There is a lot going on in the world right now. A Boeing 737 Max 9 plane was recently involved in an &#39;incident&#39; midair and the FAA has grounded some of them. In political news, Trump and Biden are engaged in a battle for the control over democracy while a court hears arguments on whether or not to shut down the federal election case. There have also been escalating tensions between Israel and Hamas which has divided Hollywood. Finally, we are still dealing with the fallout from coronavirus and the Golden Globes is attempting to remain relevant.</p>
 <ol>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>F.A.A. Orders Airlines to Ground Some Boeing 737 Max 9 Jets After Midair ‘Incident’</h3>
+<sub>By John Yoon, Victoria Kim, Orlando Mayorquin, Niraj Chokshi and Mark Walker</sub>
+<p>An Alaska Airlines plane made an emergency landing at the Portland, Ore., international airport on Friday after losing a chunk of its body, terrifying passengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About Boeing’s 737 Max 9 and the F.A.A. Grounding</h3>
+<sub>By Christopher F. Schuetze, Keith Bradsher and Melissa Eddy</sub>
+<p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Clashing Over Jan. 6, Trump and Biden Show Reality Is at Stake in 2024</h3>
+<h3>Trump Signals an Election Year Full of Falsehoods on Jan. 6 and Democracy</h3>
 <sub>By Michael C. Bender, Lisa Lerer and Michael Gold</sub>
 <p>In dueling sets of speeches, Donald Trump and President Biden are framing the election as a battle for the future of democracy — with Mr. Trump brazenly casting Mr. Biden as the true menace.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
@@ -92,41 +98,23 @@ Finally, Harvard&#39;s board of directors recently faced a lot of pressure which
 <p>“The lucky are those who have someone to bury them when they die,” Dr. Mohammad Abu Moussa, a radiologist at one Gaza hospital, said of those killed by Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Red Sea Attacks Leave Shipping Companies With Difficult Choices</h3>
+<sub>By Peter Eavis and Keith Bradsher</sub>
+<p>Attacks on two dozen ships since November are forcing shipping lines to figure out whether and when to skip the Suez Canal and send vessels on longer voyages around Africa.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
 <h3>Hezbollah Fires Rockets at Israel in Response to Killing in Beirut</h3>
 <sub>By Patrick Kingsley, Rawan Sheikh Ahmad and Raja Abdulrahim</sub>
 <p>Israel said it had fired back at militants involved in the rocket launches, but the exchange stopped short of a major escalation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Terrorism in Iran Exposes a Vulnerability It Doesn’t Want to Admit</h3>
-<sub>By Farnaz Fassihi</sub>
-<p>Even after the Islamic State took responsibility for deadly bombings, Iran’s government, facing public anger, blamed Israel.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Alaska Airlines Grounds Fleet of Boeing 737 Max 9 Jets After Midair ‘Incident’</h3>
-<sub>By John Yoon, Victoria Kim and Orlando Mayorquin</sub>
-<p>The plane made an emergency landing at the Portland, Ore., international airport after losing a chunk of its fuselage, according to passengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About Boeing’s 737 Max 9 and the Alaska Airlines Grounding</h3>
-<sub>By Christopher F. Schuetze, Keith Bradsher and Melissa Eddy</sub>
-<p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-technology-blue" alt="">
+<h3>I Was Addicted to My Smartphone, So I Switched to a Flip Phone for a Month</h3>
+<sub>By Kashmir Hill</sub>
+<p>Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Day 6: How to Stay Energized all Year Long</h3>
-<sub>By Jancee Dunn</sub>
-<p>Today, we’ll share a few final tips to keep you motivated in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-well-blue" alt="">
-<h3>Questlove Made You an Energy Playlist</h3>
-<sub>By Jancee Dunn and Ahmir Questlove Thompson</sub>
-<p>These 17 tracks will get you moving.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Harvard’s Board Broke Up With Claudine Gay</h3>
@@ -134,10 +122,16 @@ Finally, Harvard&#39;s board of directors recently faced a lot of pressure which
 <p>Facing intense pressure, it went from standing behind her as the university’s president to pushing her out within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>House Republicans to Broaden Higher Education Inquiry Beyond Antisemitism</h3>
-<sub>By Annie Karni</sub>
-<p>Emboldened by the resignations of two prominent university presidents, House Republicans are planning an aggressive inquiry into academia, long one of their favorite targets of attack.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>In Frothy Awards Season, What Role Will Israel-Hamas War Play?</h3>
+<sub>By Brooks Barnes</sub>
+<p>Stars are increasingly vocal about political issues, but the Mideast conflict has divided Hollywood, magnifying the choice of whether to discuss the topic or remain silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>How to Watch the Golden Globes 2024: Date, Time and Streaming</h3>
+<sub>By Sarah Bahr</sub>
+<p>Hollywood usually looks to the annual awards as a party, but this year they also have an unlikely mission: A bid for relevance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
