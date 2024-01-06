@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Friday, January 5, Central Standard Time</p>
 <p>
-There&#39;s a lot going on in the world right now! President Biden recently gave a scathing speech about former President Trump, condemning him as a threat to democracy. The Supreme Court is hearing a challenge to an Idaho abortion ban that the Biden administration said conflicts with federal law. The New York Times has been tracking changes in abortion laws in every state, and Wayne LaPierre resigned from the National Rifle Association with a trial in Manhattan pending. In other news, former New York Times editor Joseph Lelyveld sadly passed away last week. On the positive side, there&#39;s speculation about which movies and actors should be nominated for Oscars this year. In Iran, terrorism exposed government vulnerability and Israel released a plan to aid postwar Gaza. And finally, Las Vegas is back open and a nor&#39;easter is bringing snow across the northeast - how much depends on where you live!</p>
+Currently, there is a lot going on in the world. The US presidential election is approaching and Joe Biden has already delivered a blistering speech criticizing current president Donald Trump. Elsewhere, the Supreme Court is hearing a challenge to Idaho&#39;s strict abortion ban and has temporarily reinstated the law despite objections from the Biden administration. Over in New York, the long-time leader of the National Rifle Association has resigned ahead of an upcoming corruption trial. In addition, we&#39;re about to enter a new year - 2023 - and movie critics are making their predictions for what films will be recognized by The Academy Awards. Regarding global news, Iran is trying to avoid public blame for terrorist bombings, as well as Israeli wars in Gaza as peace talks continue worldwide. Finally, there is also expected to be significant snowfall to much of the northeast in upcoming days.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Condemns Trump as Dire Threat to Democracy in a Blistering Speech</h3>
@@ -129,7 +129,7 @@ There&#39;s a lot going on in the world right now! President Biden recently gave
 <sub><sub>Wednesday, February 23, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>Human Error Likely Caused Subway Crash and Derailments, Officials Say</h3>
+<h3>Human Error Likely Caused Subway Crash and Derailings, Officials Say</h3>
 <sub>By Ana Ley and Hurubie Meko</sub>
 <p>The collision of two trains, which injured 26 people, appears to have been caused by confusion over which vehicle had the right of way.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
