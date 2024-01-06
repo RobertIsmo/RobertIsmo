@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. US President Biden recently gave a blistering speech condemning former President Trump as a dire threat to democracy. The Supreme Court is hearing a challenge to Idaho&#39;s strict abortion ban, and legislatures across the country are introducing a number of abortion laws since the overturning of Roe v. Wade. Wayne LaPierre, the longtime leader of the National Rifle Association, resigned before facing trial in Manhattan. Former top editor of The New York Times Joseph Lelyvehl passed away at age 86. In Iran, terrorism has exposed a vulnerability the government doesn&#39;t want to admit. In Israel, there is pressure mounting as an Israeli minister proposed a plan for post-war Gaza and Secretary of State Antony J. Blinken returned to the Middle East to ease escalating tensions. There is also an election taking place in Bangladesh, where Prime Minister Sheikh Hasina is expected to secure her fourth consecutive term after the opposition boycotted what they have deemed an unfair election. Lastly, the Supreme Court is deciding whether or not to disqualify Trump from his office due to his role in the insurrection at Capitol Hill.</p>
+Overall, it looks like there is a lot of political tension happening both in the US and around the world. In the US, President Biden recently gave a speech condemning Trump as a dire threat to democracy and there&#39;s a challenge to Idaho&#39;s strict abortion laws that reached all the way to the Supreme Court. Meanwhile, Wayne LaPierre resigned from the NRA and a corruption trial is set to open. On an international level, there have been terror bombings in Iran which they are blaming Israel for, escalating tensions in Gaza that US Secretary of State Antony Blinken is trying to ease, and Bangladesh had an unfair election where Prime Minister Sheikh Hasina is expected to get her fourth consecutive term. There&#39;s also a strange incident with an Alaska Airlines flight making an emergency landing after part of its fuselage opened midair, and further exploration of the early universe by the Webb telescope may help us understand how screwy physics could have been at the dawn of time. On an opinion side of things, there&#39;s discussion about what the Supreme Court should not do in Trump&#39;s disqualification case and whether or not Donald Trump meets criteria for being considered an insurrectionist according to the 14th Amendment.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Biden Condemns Trump as Dire Threat to Democracy in a Blistering Speech</h3>
@@ -104,10 +104,10 @@ There is a lot going on in the world right now. US President Biden recently gave
 <p>The plan exposed divisions in Israel’s war cabinet as Secretary of State Antony J. Blinken returned to the Middle East on Friday in an effort to ease escalating tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A President’s Son Is in Indonesia’s Election Picture. Is It Democracy or Dynasty?</h3>
-<sub>By Richard C. Paddock and Muktita Suhartono</sub>
-<p>Critics say that hard-won progress toward democracy in Indonesia has been backsliding under Joko Widodo, a two-term president who was once a political outsider.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Plane Made Emergency Landing After a Hole Opened Up, Passengers Say</h3>
+<sub>By John Yoon, Victoria Kim and Orlando Mayorquin</sub>
+<p>An Alaska Airlines flight that returned to an Oregon airport after takeoff lost chunk of its fuselage midair, according to passengers. “It was honestly horrifying,” one said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-science-blue" alt="">
