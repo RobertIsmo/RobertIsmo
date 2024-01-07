@@ -58,9 +58,9 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Saturday, January 6, Central Standard Time</p>
+<p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-There have been a number of news stories in the world recently about business, travel, US politics, and world affairs. On the business front, the Federal Aviation Administration has ordered some Boeing 737 Max 9 jets to be grounded following an emergency landing in Portland, Oregon. In the travel space, passengers have been learning more about the aircraft involved in this incident and how airlines are responding. In US politics, Donald Trump and President Biden are presenting the election as a battle for democracy with contrasting views. With regard to corporate PACs, there has been an analysis showing how companies have rethought their political donations in light of the Capitol attack. Meanwhile, Michigan Republicans are embroiled in a dispute over their party leader&#39;s removal. On the world stage, shipping companies are facing difficult choices after attacks on ships in the Red Sea and Hezbollah launched rockets at Israel in response to violence in Beirut. In terms of technology, one person has chosen to switch from a smartphone to a flip-phone for one month to curb her addiction. Finally, Harvard is dealing with the fallout from its controversial president&#39;s departure and Hollywood is divided over how to handle discussion around the Israel-Hamas conflict during awards season.</p>
+There is a lot happening in the world right now. Recently, the Federal Aviation Administration (FAA) ordered airlines to ground some Boeing 737 Max 9 jets after an emergency landing of an Alaska Airlines plane that had lost a chunk of its body in midair, scaring the passengers. On top of that, there has been some political unrest in the US from the Capitol attack and related issues with corporate giving. In France, a small-town stabbing has taken on a larger significance for migration issues. We’re also seeing a war between Israel and Hezbollah that has caused shipping companies to have to make difficult choices when it comes to their voyages. To top all that off, we&#39;re seeing an intense awards season in Hollywood with celebrities being vocal about political topics such as this.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>F.A.A. Orders Airlines to Ground Some Boeing 737 Max 9 Jets After Midair Emergency</h3>
@@ -116,6 +116,12 @@ There have been a number of news stories in the world recently about business, t
 <p>Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>A Small-Town Stabbing Takes On a Larger Significance for France</h3>
+<sub>By Catherine Porter</sub>
+<p>The death might have been just a local tragedy. But some of the suspects were from an immigrant community, turning the case into a cause célèbre for the far right.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>How Harvard’s Board Broke Up With Claudine Gay</h3>
 <sub>By Maureen Farrell and Rob Copeland</sub>
@@ -126,12 +132,6 @@ There have been a number of news stories in the world recently about business, t
 <h3>In Frothy Awards Season, What Role Will Israel-Hamas War Play?</h3>
 <sub>By Brooks Barnes</sub>
 <p>Stars are increasingly vocal about political issues, but the Mideast conflict has divided Hollywood, magnifying the choice of whether to discuss the topic or remain silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>U.S. News Makes Money From Some of Its Biggest Critics: Colleges</h3>
-<sub>By Alan Blinder</sub>
-<p>U.S. News sells “badges” to colleges, so they can promote their rankings — whether they are 1st, 10th or much, much lower.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
