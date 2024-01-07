@@ -60,16 +60,14 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-Right now, it looks like Donald Trump is in a good position to win the upcoming GOP caucuses in Iowa. On the other hand, there&#39;s been a lot of turmoil and infighting in the Michigan Republican Party which has sparked a legal battle over removing the state&#39;s chairperson. 
-
-In other news, Boeing has been facing a lot of scrutiny after some safety issues with their new 737 Max 9 plane recently. An Alaska Airlines flight had to make an emergency landing after part of the fuselage started ripping off while flying. 
-
-Unions have traditionally backed Israel, but recently some have come out in protest against it. Meanwhile, tensions in the Middle East are high and spilled over into the University of Haifa where academics had to make space for assault rifles due to an on-going war. Two journalists were tragically killed in Gaza in an Israeli airstrike this week as well. 
-
-Back home, Defense Secretary Lloyd Austin III was hospitalized without telling the White House about it and faced criticism afterward. The SAT has also been under fire lately for its supposed role in limiting college diversity, while more and more Catholics across Africa have spoken out against proclaimed blessing of same-sex couples. 
-
-Finally, Texan marijuana buyers heading to New Mexico to enjoy relaxed cannabis laws have become such a common sight that Sunland Park along the Rio Grande almost feels like a little Amsterdam now - though how long this will last is another matter entirely.</p>
+There is a looming government shutdown in the US as House and Senate leaders have been unable to agree on spending levels by a Jan. 19 deadline. Former President Donald J. Trump is prominently campaigning in Iowa as the primary there enters its final phase. In Michigan, Republicans are holding a disputed vote to remove their state&#39;s controversial party leader, though her allies are challenging it. In terms of travel safety, Boeing is again coming under scrutiny after their 737 Max aircraft experienced a problem midflight, leaving passengers unsure of what to do. American unions are also making news as some have shifted their views on Israel to ones that are more critical of the country and its politics. In the NFL, playoffs are heating up and scenarios are being mapped out for each team with 18 weeks complete in the regular season. Lastly, people from Texas seeking marijuana are driving fans of cannabis to Sunland Park, New Mexico as it has become something of a &#39;Little Amsterdam&#39;. On Feb 28th, the Golden Globes will be taking place with streaming and other options available for people who might not be able to attend.</p>
 <ol>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>With Shutdown Looming, House and Senate Leaders Agree on Spending Levels</h3>
+<sub>By Carl Hulse</sub>
+<p>Despite the deal, time is short to assemble and pass legislation putting the agreement in force before a Jan. 19 deadline.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Takes Aim at Haley as Primary Enters Final Phase in Iowa</h3>
 <sub>By Shane Goldmacher</sub>
@@ -106,24 +104,6 @@ Finally, Texan marijuana buyers heading to New Mexico to enjoy relaxed cannabis 
 <p>The shift reflects a broader generational change, and has exposed philosophical rifts in the labor movement about what the purpose of a union ought to be.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>War Brings Tensions, and Assault Rifles, Into an Israeli College</h3>
-<sub>By Adam Sella</sub>
-<p>At the University of Haifa, more than 40 percent of students are Arab, some with family in Gaza, and many others have now been called up as soldiers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two More Journalists Killed in Gaza, Including Son of Al Jazeera Reporter</h3>
-<sub>By Vivian Yee and Ameera Harouda</sub>
-<p>Hamza al-Dahdouh, the son of Al Jazeera’s Gaza bureau chief, and a second reporter were killed in what officials in the territory said was an Israeli airstrike. Two others were wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Defense Secretary Kept White House in the Dark About His Hospitalization</h3>
-<sub>By Helene Cooper and Eric Schmitt</sub>
-<p>Lloyd J. Austin III issued a statement Saturday night saying, “I take full responsibility for my decision about disclosure.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
 <h3>The Misguided War on the SAT</h3>
 <sub>By David Leonhardt</sub>
@@ -131,16 +111,28 @@ Finally, Texan marijuana buyers heading to New Mexico to enjoy relaxed cannabis 
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blessing of Same-Sex Couples Rankles Africa’s Catholics</h3>
-<sub>By John Eligon</sub>
-<p>It is out of step with the continent’s values, many bishops say, and threatens to derail expansion in the church’s fastest growing region in the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Two Men Down’: For Ukrainian Medics, It Was Time to Move</h3>
+<sub>By Tyler Hicks and Marc Santora</sub>
+<p>They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 18 N.F.L. Playoff Picture: Mapping the Paths That Remain for Each Team</h3>
+<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
+<p>Detailed tables and scenarios explain the remaining paths to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Marijuana Buyers From Texas Fuel a ‘Little Amsterdam’ in New Mexico</h3>
 <sub>By J. David Goodman and Erin Schaff</sub>
 <p>Sunland Park, along the Rio Grande, has joined the ranks of U.S. cities transformed by state cannabis laws. But the good times may not last forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>How to Watch the Golden Globes 2024: Date, Time and Streaming</h3>
+<sub>By Sarah Bahr</sub>
+<p>Hollywood usually looks to the annual awards as a party, but this year they also have an unlikely mission: A bid for relevance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
