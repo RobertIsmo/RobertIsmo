@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-It&#39;s been a busy news week! In the US, former President Donald Trump has been campaigning in Iowa ahead of the state&#39;s caucuses. In Michigan, Republicans have been locked in a controversial battle to remove their party leader from office. Meanwhile, Boeing is facing more scrutiny after a hole appeared on an Alaska Airlines plane midflight. And in France, a small-town stabbing is being seen as symbolizing a larger conflict between immigrants and the far right. New York Times readers can also test their knowledge of the week&#39;s news with this week&#39;s quiz.</p>
+It looks like things in the world are heating up this week! In the US, former President Donald Trump is gearing up as the front-runner in Iowa&#39;s primary election, while Republicans and Democrats continue to clash over a controversial leader in Michigan. Meanwhile, Boeing has come under scrutiny once again after a new problem with their 737 Max 9 airplanes caused an emergency landing. Union leaders across America are also beginning to express more vocal criticism of Israel than ever before. On the global front, news from Gaza has been somber after two journalists were killed and two more injured in an Israeli airstrike. Lastly, marijuana buyers from Texas have been flocking to cities over the border in New Mexico, which has been transformed into a mini &quot;Amsterdam&quot;. Of course, there were some lighter moments too like Chile&#39;s prison cats!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Takes Aim at Haley as Primary Enters Final Phase in Iowa</h3>
@@ -99,15 +99,9 @@ It&#39;s been a busy news week! In the US, former President Donald Trump has bee
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blessing of Same-Sex Couples Rankles Africa’s Catholics</h3>
-<sub>By John Eligon</sub>
-<p>It is out of step with the continent’s values, many bishops say, and threatens to derail expansion in the church’s fastest growing region in the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Misguided War on the SAT</h3>
-<sub>By David Leonhardt</sub>
-<p>Colleges have fled standardized tests, on the theory that they hurt diversity. That’s not what the research shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Two More Journalists Die in Gaza, Including Son of Al Jazeera Reporter</h3>
+<sub>By Vivian Yee and Ameera Harouda</sub>
+<p>Hamza al-Dahdouh, the son of Al Jazeera’s Gaza bureau chief, and a second reporter were killed in what officials in the territory said was an Israeli airstrike. Two others were wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -116,22 +110,28 @@ It&#39;s been a busy news week! In the US, former President Donald Trump has bee
 <p>Lloyd J. Austin III issued a statement Saturday night saying, “I take full responsibility for my decision about disclosure.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Misguided War on the SAT</h3>
+<sub>By David Leonhardt</sub>
+<p>Colleges have fled standardized tests, on the theory that they hurt diversity. That’s not what the research shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>A Small-Town Stabbing Takes On a Larger Significance for France</h3>
-<sub>By Catherine Porter</sub>
-<p>The death might have been just a local tragedy. But some of the suspects were from an immigrant community, turning the case into a cause célèbre for the far right.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<h3>Blessing of Same-Sex Couples Rankles Africa’s Catholics</h3>
+<sub>By John Eligon</sub>
+<p>It is out of step with the continent’s values, many bishops say, and threatens to derail expansion in the church’s fastest growing region in the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Marijuana Buyers From Texas Fuel a ‘Little Amsterdam’ in New Mexico</h3>
+<sub>By J. David Goodman and Erin Schaff</sub>
+<p>Sunland Park, along the Rio Grande, has joined the ranks of U.S. cities transformed by state cannabis laws. But the good times may not last forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
 <h3>The Weekender</h3>
 <sub>By The New York Times</sub>
 <p>The cats of Chile’s largest prison. Also: The plan to make Travis Kelce a star and predictions for life in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The New York Times News Quiz, Jan. 5, 2024</h3>
-<sub></sub>
-<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
