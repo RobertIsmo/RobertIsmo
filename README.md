@@ -60,37 +60,13 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-There is a lot happening in the world right now. Recently, the FAA ordered airlines to ground some of their Boeing 737 Max 9 jets due to an emergency midair situation with an Alaska Airlines plane. President Trump and President Biden are having a battle for the future of democracy in the US right now. Companies are starting to reevaluate their political spending. In Michigan, Republicans are having an internal conflict that may be headed to the courts soon. The Red Sea has seen attacks on ships over the past few months and Hezbollah recently fired rockets at Israel. Technology addiction has become a real issue - people are trying to switch out their smartphones for flip phones to cut back on their usage. There&#39;s also a significant case in France where suspects from an immigrant community have been charged with murder - this has made it a cause célèbre for far-right groups. Lastly, Harvard just underwent a complicated leadership shift where Claudine Gay was removed from her post as president after facing intense pressure. On top of all this, Hollywood is debating over how to handle this awards season with people being vocal about political issues but some divisions among Hollywood personalities about the Israel-Hamas war.</p>
+It&#39;s been a busy news week! In the US, former President Donald Trump has been campaigning in Iowa ahead of the state&#39;s caucuses. In Michigan, Republicans have been locked in a controversial battle to remove their party leader from office. Meanwhile, Boeing is facing more scrutiny after a hole appeared on an Alaska Airlines plane midflight. And in France, a small-town stabbing is being seen as symbolizing a larger conflict between immigrants and the far right. New York Times readers can also test their knowledge of the week&#39;s news with this week&#39;s quiz.</p>
 <ol>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>F.A.A. Orders Airlines to Ground Some Boeing 737 Max 9 Jets After Midair Emergency</h3>
-<sub>By Mark Walker and Niraj Chokshi</sub>
-<p>An Alaska Airlines plane made an emergency landing at the Portland, Ore., airport on Friday after a hole opened up in the plane while it was in flight.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>What Passengers Need to Know After the Boeing 737 Max 9 Incident</h3>
-<sub>By Christine Chung</sub>
-<p>An Alaska Airlines plane made an emergency landing when a section of its aircraft ripped off in flight. Here’s what passengers should know about the aircraft, how airlines are responding and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About Boeing’s 737 Max 9 and the F.A.A. Grounding</h3>
-<sub>By Christopher F. Schuetze, Keith Bradsher and Melissa Eddy</sub>
-<p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Signals an Election Year Full of Falsehoods on Jan. 6 and Democracy</h3>
-<sub>By Michael C. Bender, Lisa Lerer and Michael Gold</sub>
-<p>In dueling sets of speeches, Donald Trump and President Biden are framing the election as a battle for the future of democracy — with Mr. Trump brazenly casting Mr. Biden as the true menace.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>After the Capitol Attack, Companies Pledged to Rethink Political Giving. Did They?</h3>
-<sub>By Ephrat Livni and Sarah Kessler</sub>
-<p>A new analysis of corporate PAC donations shines light on an opaque political giving landscape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<h3>Trump Takes Aim at Haley as Primary Enters Final Phase in Iowa</h3>
+<sub>By Shane Goldmacher</sub>
+<p>Nearly a week before the state’s caucuses, a frenzy of campaigning belies a seemingly static G.O.P. race, with former President Donald J. Trump the prohibitive front-runner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Michigan Republicans Hold Disputed Vote to Remove Party Leader</h3>
@@ -99,21 +75,45 @@ There is a lot happening in the world right now. Recently, the FAA ordered airli
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Red Sea Attacks Leave Shipping Companies With Difficult Choices</h3>
-<sub>By Peter Eavis and Keith Bradsher</sub>
-<p>Attacks on two dozen ships since November are forcing shipping lines to figure out whether and when to skip the Suez Canal and send vessels on longer voyages around Africa.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Boeing Again Under Scrutiny After Latest 737 Max Problem</h3>
+<sub>By Niraj Chokshi</sub>
+<p>A sudden hole appearing in the side of an Alaska Airlines plane midflight follows years of problems with the manufacturer’s aircraft.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>What Passengers Need to Know After the Boeing 737 Max 9 Incident</h3>
+<sub>By Christine Chung</sub>
+<p>An Alaska Airlines plane made an emergency landing when a section of its aircraft ripped off in flight. Here’s what passengers should know about the aircraft, how airlines are responding and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>American Unions Long Backed Israel. Now, Some Are Protesting It.</h3>
+<sub>By Emma Goldberg and Santul Nerkar</sub>
+<p>The shift reflects a broader generational change, and has exposed philosophical rifts in the labor movement about what the purpose of a union ought to be.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Hezbollah Fires Rockets at Israel in Response to Killing in Beirut</h3>
-<sub>By Patrick Kingsley, Rawan Sheikh Ahmad and Raja Abdulrahim</sub>
-<p>Israel said it had fired back at militants involved in the rocket launches, but the exchange stopped short of a major escalation.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<h3>War Brings Tensions, and Assault Rifles, Into an Israeli College</h3>
+<sub>By Adam Sella</sub>
+<p>At the University of Haifa, more than 40 percent of students are Arab, some with family in Gaza, and many others have now been called up as soldiers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-technology-blue" alt="">
-<h3>I Was Addicted to My Smartphone, So I Switched to a Flip Phone for a Month</h3>
-<sub>By Kashmir Hill</sub>
-<p>Was it inconvenient? Yes. Did T9 texting drive me crazy? Definitely. Was it worth doing? Absolutely.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blessing of Same-Sex Couples Rankles Africa’s Catholics</h3>
+<sub>By John Eligon</sub>
+<p>It is out of step with the continent’s values, many bishops say, and threatens to derail expansion in the church’s fastest growing region in the world.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The Misguided War on the SAT</h3>
+<sub>By David Leonhardt</sub>
+<p>Colleges have fled standardized tests, on the theory that they hurt diversity. That’s not what the research shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Defense Secretary Kept White House in the Dark About His Hospitalization</h3>
+<sub>By Helene Cooper and Eric Schmitt</sub>
+<p>Lloyd J. Austin III issued a statement Saturday night saying, “I take full responsibility for my decision about disclosure.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
@@ -122,17 +122,17 @@ There is a lot happening in the world right now. Recently, the FAA ordered airli
 <p>The death might have been just a local tragedy. But some of the suspects were from an immigrant community, turning the case into a cause célèbre for the far right.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>How Harvard’s Board Broke Up With Claudine Gay</h3>
-<sub>By Maureen Farrell and Rob Copeland</sub>
-<p>Facing intense pressure, it went from standing behind her as the university’s president to pushing her out within weeks.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Weekender</h3>
+<sub>By The New York Times</sub>
+<p>The cats of Chile’s largest prison. Also: The plan to make Travis Kelce a star and predictions for life in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>In Frothy Awards Season, What Role Will Israel-Hamas War Play?</h3>
-<sub>By Brooks Barnes</sub>
-<p>Stars are increasingly vocal about political issues, but the Mideast conflict has divided Hollywood, magnifying the choice of whether to discuss the topic or remain silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-briefing-blue" alt="">
+<h3>The New York Times News Quiz, Jan. 5, 2024</h3>
+<sub></sub>
+<p>Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
