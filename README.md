@@ -60,7 +60,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-It looks like things in the world are heating up this week! In the US, former President Donald Trump is gearing up as the front-runner in Iowa&#39;s primary election, while Republicans and Democrats continue to clash over a controversial leader in Michigan. Meanwhile, Boeing has come under scrutiny once again after a new problem with their 737 Max 9 airplanes caused an emergency landing. Union leaders across America are also beginning to express more vocal criticism of Israel than ever before. On the global front, news from Gaza has been somber after two journalists were killed and two more injured in an Israeli airstrike. Lastly, marijuana buyers from Texas have been flocking to cities over the border in New Mexico, which has been transformed into a mini &quot;Amsterdam&quot;. Of course, there were some lighter moments too like Chile&#39;s prison cats!</p>
+Right now, it looks like Donald Trump is in a good position to win the upcoming GOP caucuses in Iowa. On the other hand, there&#39;s been a lot of turmoil and infighting in the Michigan Republican Party which has sparked a legal battle over removing the state&#39;s chairperson. 
+
+In other news, Boeing has been facing a lot of scrutiny after some safety issues with their new 737 Max 9 plane recently. An Alaska Airlines flight had to make an emergency landing after part of the fuselage started ripping off while flying. 
+
+Unions have traditionally backed Israel, but recently some have come out in protest against it. Meanwhile, tensions in the Middle East are high and spilled over into the University of Haifa where academics had to make space for assault rifles due to an on-going war. Two journalists were tragically killed in Gaza in an Israeli airstrike this week as well. 
+
+Back home, Defense Secretary Lloyd Austin III was hospitalized without telling the White House about it and faced criticism afterward. The SAT has also been under fire lately for its supposed role in limiting college diversity, while more and more Catholics across Africa have spoken out against proclaimed blessing of same-sex couples. 
+
+Finally, Texan marijuana buyers heading to New Mexico to enjoy relaxed cannabis laws have become such a common sight that Sunland Park along the Rio Grande almost feels like a little Amsterdam now - though how long this will last is another matter entirely.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Takes Aim at Haley as Primary Enters Final Phase in Iowa</h3>
@@ -79,6 +87,12 @@ It looks like things in the world are heating up this week! In the US, former Pr
 <sub>By Niraj Chokshi</sub>
 <p>A sudden hole appearing in the side of an Alaska Airlines plane midflight follows years of problems with the manufacturer’s aircraft.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>What to Know About Boeing’s 737 Max 9 and the Alaska Airlines Grounding</h3>
+<sub>By Christopher F. Schuetze, Keith Bradsher and Melissa Eddy</sub>
+<p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-travel-blue" alt="">
 <h3>What Passengers Need to Know After the Boeing 737 Max 9 Incident</h3>
@@ -99,7 +113,7 @@ It looks like things in the world are heating up this week! In the US, former Pr
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Two More Journalists Die in Gaza, Including Son of Al Jazeera Reporter</h3>
+<h3>Two More Journalists Killed in Gaza, Including Son of Al Jazeera Reporter</h3>
 <sub>By Vivian Yee and Ameera Harouda</sub>
 <p>Hamza al-Dahdouh, the son of Al Jazeera’s Gaza bureau chief, and a second reporter were killed in what officials in the territory said was an Israeli airstrike. Two others were wounded.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
@@ -127,12 +141,6 @@ It looks like things in the world are heating up this week! In the US, former Pr
 <sub>By J. David Goodman and Erin Schaff</sub>
 <p>Sunland Park, along the Rio Grande, has joined the ranks of U.S. cities transformed by state cannabis laws. But the good times may not last forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Weekender</h3>
-<sub>By The New York Times</sub>
-<p>The cats of Chile’s largest prison. Also: The plan to make Travis Kelce a star and predictions for life in 2024.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
