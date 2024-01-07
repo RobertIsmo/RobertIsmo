@@ -60,13 +60,19 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Saturday, January 6, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. A Boeing 737 Max 9 plane was recently involved in an &#39;incident&#39; midair and the FAA has grounded some of them. In political news, Trump and Biden are engaged in a battle for the control over democracy while a court hears arguments on whether or not to shut down the federal election case. There have also been escalating tensions between Israel and Hamas which has divided Hollywood. Finally, we are still dealing with the fallout from coronavirus and the Golden Globes is attempting to remain relevant.</p>
+Right now, there is a lot happening in the world that is causing concern and some confusion. Boeing has been ordered to ground some of its 737 Max 9 jets after an emergency landing in Portland, Oregon. This incident has caused people to question the safety of these aircraft and what passengers should know about them. Additionally, Donald Trump and President Biden are both talking about the upcoming election in terms of the future of democracy. In Michigan, there is a battle going on to remove the state’s controversial G.O.P leader as well. The Middle East has also been facing violence with Hezbollah firing rockets into Israel in response to a foreign killing in Beirut. On top of all this, Harvard’s Board recently ousted its president and Hollywood is divided over discussing the conflict between Israel and Hamas. Finally, U.S News has been selling ratings “badges” to colleges so they can promote their rankings even if it&#39;s not the highest number.</p>
 <ol>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>F.A.A. Orders Airlines to Ground Some Boeing 737 Max 9 Jets After Midair ‘Incident’</h3>
-<sub>By John Yoon, Victoria Kim, Orlando Mayorquin, Niraj Chokshi and Mark Walker</sub>
-<p>An Alaska Airlines plane made an emergency landing at the Portland, Ore., international airport on Friday after losing a chunk of its body, terrifying passengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<h3>F.A.A. Orders Airlines to Ground Some Boeing 737 Max 9 Jets After Midair Emergency</h3>
+<sub>By Mark Walker and Niraj Chokshi</sub>
+<p>An Alaska Airlines plane made an emergency landing at the Portland, Ore., airport on Friday after losing a chunk of its body, terrifying passengers.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-travel-blue" alt="">
+<h3>What Passengers Need to Know After the Boeing 737 Max 9 Incident</h3>
+<sub>By Christine Chung</sub>
+<p>An Alaska Airlines plane made an emergency landing when a section of its aircraft ripped off in flight. Here’s what passengers should know about the aircraft, how airlines are responding and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>What to Know About Boeing’s 737 Max 9 and the F.A.A. Grounding</h3>
@@ -80,22 +86,16 @@ There is a lot going on in the world right now. A Boeing 737 Max 9 plane was rec
 <p>In dueling sets of speeches, Donald Trump and President Biden are framing the election as a battle for the future of democracy — with Mr. Trump brazenly casting Mr. Biden as the true menace.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Three Years After Jan. 6, Trump’s Immunity Claims to Take Center Stage</h3>
-<sub>By Alan Feuer and Charlie Savage</sub>
-<p>An appeals court will hear arguments on Tuesday over the former president’s attempt to shut down the federal election case. Much is riding on how — and how quickly — the issue is decided.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Fact-Checking Candidates’ Sparring Over Social Security and Medicare</h3>
-<sub>By Angelo Fichera</sub>
-<p>The top presidential candidates are vowing to protect the entitlement programs for current seniors, though some have floated changes for younger generations. But they’ve muddied each other’s current positions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>After the Capitol Attack, Companies Pledged to Rethink Political Giving. Did They?</h3>
+<sub>By Ephrat Livni and Sarah Kessler</sub>
+<p>A new analysis of corporate PAC donations shines light on an opaque political giving landscape.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As Gaza Losses Mount Under Strikes, Dignified Burials Are Another Casualty</h3>
-<sub>By Raja Abdulrahim, Samar Abu Elouf and Yousef Masoud</sub>
-<p>“The lucky are those who have someone to bury them when they die,” Dr. Mohammad Abu Moussa, a radiologist at one Gaza hospital, said of those killed by Israeli airstrikes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Michigan Republicans Hold Disputed Vote to Remove Party Leader</h3>
+<sub>By Nick Corasaniti and Neil Vigdor</sub>
+<p>The effort to oust the state’s controversial G.O.P. chair after infighting and financial troubles faces challenges from her allies and is likely headed to the courts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -128,11 +128,11 @@ There is a lot going on in the world right now. A Boeing 737 Max 9 plane was rec
 <p>Stars are increasingly vocal about political issues, but the Mideast conflict has divided Hollywood, magnifying the choice of whether to discuss the topic or remain silent.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>How to Watch the Golden Globes 2024: Date, Time and Streaming</h3>
-<sub>By Sarah Bahr</sub>
-<p>Hollywood usually looks to the annual awards as a party, but this year they also have an unlikely mission: A bid for relevance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>U.S. News Makes Money From Some of Its Biggest Critics: Colleges</h3>
+<sub>By Alan Blinder</sub>
+<p>U.S. News sells “badges” to colleges, so they can promote their rankings — whether they are 1st, 10th or much, much lower.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
