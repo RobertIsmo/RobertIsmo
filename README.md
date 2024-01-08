@@ -60,8 +60,20 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 8, Central Standard Time</p>
 <p>
-It looks like some interesting things are happening in the world right now. In the US, Trump is connecting with a different type of evangelical voter and this year, Governor Ron DeSantis won’t be as involved in the legislative session. Biden is also making a campaign trip to Charleston to address racism and extremism. On the other side of the world, there is heightened tension between the US and Iran along with conflict in Gaza. Boeing has had some safety issues that they are working to address and some of the biggest news of the night came from the Golden Globes, where Lily Gladstone made history and Jo Koy also made an appearance on stage.</p>
+Many of the news articles that I&#39;ve seen focus on ongoing tensions between Iran and the West, as well as the US presidential election. In Lebanon, a commander in Hezbollah&#39;s Radwan unit was killed in a strike in Southern Lebanon. In America, President Biden is connecting with a different type of evangelical voter than before, and he&#39;s travelling to Charleston for a campaign trip. Meanwhile, Florida&#39;s governor Ron DeSantis will have less influence over this legislative session due to his focus on the presidential primaries. In addition, there was a scary incident on an Alaska Airlines flight that caused part of the plane’s fuselage to blow out mid flight. Finally, this week was also the Golden Globes ceremony; we’ve seen some photos and heard about Lily Gladstone making history and some of the best and worst moments from it.</p>
 <ol>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Hezbollah Says a Commander Was Killed in a Strike in Southern Lebanon</h3>
+<sub>By Euan Ward, Isabel Kershner and Andrés R. Martínez</sub>
+<p>A Lebanese security official said the commander was part of the group’s Radwan unit, which Israel says aims to infiltrate its northern border.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
+<sub>By David E. Sanger and Steven Erlanger</sub>
+<p>With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>Trump Is Connecting With a Different Type of Evangelical Voter</h3>
 <sub>By Ruth Graham and Charles Homans</sub>
@@ -69,9 +81,9 @@ It looks like some interesting things are happening in the world right now. In t
 <sub><sub>Monday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>​This Year, DeSantis Won’t Loom as Large Over Florida Legislative Session</h3>
-<sub>By Patricia Mazzei</sub>
-<p>With Gov. Ron DeSantis focused on the presidential primaries, the session that starts next week could be unusually low key.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Many Have Preached Politics From This Pulpit, but Biden Is the First President</h3>
+<sub>By Kevin Sack</sub>
+<p>Mr. Biden visited Emanuel A.M.E. Church after a racist massacre in 2015 to mourn with a shaken congregation. He is returning to warn of the political threats of hate-filled violence.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -80,28 +92,16 @@ It looks like some interesting things are happening in the world right now. In t
 <p>The president will visit Emanuel African Methodist Episcopal Church, the site of one of the most horrific hate crimes of recent years, to decry racism and extremism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 8, Central Standard Time</sub></sub>
 <hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>​This Year, DeSantis Won’t Loom as Large Over Florida Legislative Session</h3>
+<sub>By Patricia Mazzei</sub>
+<p>With Gov. Ron DeSantis focused on the presidential primaries, the session that starts next week could be unusually low key.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
 <img src="https://img.shields.io/badge/-podcasts-blue" alt="">
 <h3>Final Campaign Week in Iowa, and a Rare Moon Mission</h3>
 <sub>By New York Times Audio</sub>
 <p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Japanese Company’s Bid for U.S. Steel Tests Biden’s Industrial Policy</h3>
-<sub>By Jim Tankersley</sub>
-<p>The president is under pressure from Democrats and Republicans to block the sale to Japan’s Nippon Steel, which could upset a key foreign ally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
-<sub>By David E. Sanger and Steven Erlanger</sub>
-<p>With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>Blinken Discusses Gaza Aid With Emirati Ruler</h3>
-<sub>By Edward Wong</sub>
-<p>The U.S. secretary of state visited the United Arab Emirates on a Middle East tour aimed at keeping the Israel-Hamas war from further inflaming regional tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -117,16 +117,16 @@ It looks like some interesting things are happening in the world right now. In t
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>What Winning a Golden Globe Looks Like</h3>
+<sub>By Erik Carter for The New York Times</sub>
+<p>Lily Gladstone, Paul Giamatti, Billie Eilish and stars from “Succession,” “Beef” and “The Bear” are captured in their moments of glory.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Best and Worst Moments From the 2024 Golden Globes</h3>
 <sub>By Stephanie Goodman</sub>
 <p>Lily Gladstone made history, Jo Koy did not. And dressing on a theme proved a hit. These were just some of the highs and lows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Monday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Golden Globes Winners 2024: The Complete List</h3>
-<sub>By Shivani Gonzalez</sub>
-<p>The winning films, TV shows, actors and production teams at the 2024 Golden Globe Awards.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
 <h3>19 Looks That Did the Most at the Golden Globes</h3>
