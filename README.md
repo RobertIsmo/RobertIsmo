@@ -60,13 +60,49 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 8, Central Standard Time</p>
 <p>
-Right now, it looks like the US government is on the brink of a shutdown, and lawmakers have to rush through something to avoid it. On top of that, a Boeing Max 9 plane was barred from flying because of a warning light issue when one ended up losing part of its fuselage in an Alaska Airlines flight. Donald Trump is stirring up trouble with his former UN ambassador Nikki Haley in the leadup to the Iowa primary. While all that&#39;s going on, there&#39;s tension between Iran, Russia, and China on one side and the West on the other, with Lebanon caught in the middle. And although far away, the 2024 Golden Globes happened with some spectacular fashion looks, as well as some interesting wins. Here at home, we found out who voices those beloved NYC subway announcements, while Ukrainian medics had to save lives on two different warfronts. There was also an American lunar lander launched by a new Vulcan rocket that could challenge SpaceX&#39;s market dominance in space technology. Finally, people around the world are worried about what will happen to Palestinians living in Gaza as some officials suggest they may need to leave soon.</p>
+It looks like some interesting things are happening in the world right now. In the US, Trump is connecting with a different type of evangelical voter and this year, Governor Ron DeSantis won’t be as involved in the legislative session. Biden is also making a campaign trip to Charleston to address racism and extremism. On the other side of the world, there is heightened tension between the US and Iran along with conflict in Gaza. Boeing has had some safety issues that they are working to address and some of the biggest news of the night came from the Golden Globes, where Lily Gladstone made history and Jo Koy also made an appearance on stage.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Shutdown Looming, House and Senate Leaders Agree on Spending Levels</h3>
-<sub>By Carl Hulse</sub>
-<p>Despite the deal, time is short to assemble and pass legislation putting the agreement in force before a Jan. 19 deadline.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Trump Is Connecting With a Different Type of Evangelical Voter</h3>
+<sub>By Ruth Graham and Charles Homans</sub>
+<p>They are not just the churchgoing, conservative activists who once dominated the G.O.P.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>​This Year, DeSantis Won’t Loom as Large Over Florida Legislative Session</h3>
+<sub>By Patricia Mazzei</sub>
+<p>With Gov. Ron DeSantis focused on the presidential primaries, the session that starts next week could be unusually low key.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Biden to Appeal to Black Voters in Campaign Trip to Charleston, S.C.</h3>
+<sub>By Peter Baker</sub>
+<p>The president will visit Emanuel African Methodist Episcopal Church, the site of one of the most horrific hate crimes of recent years, to decry racism and extremism.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-podcasts-blue" alt="">
+<h3>Final Campaign Week in Iowa, and a Rare Moon Mission</h3>
+<sub>By New York Times Audio</sub>
+<p>Hear the news in five minutes.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>Japanese Company’s Bid for U.S. Steel Tests Biden’s Industrial Policy</h3>
+<sub>By Jim Tankersley</sub>
+<p>The president is under pressure from Democrats and Republicans to block the sale to Japan’s Nippon Steel, which could upset a key foreign ally.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
+<sub>By David E. Sanger and Steven Erlanger</sub>
+<p>With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>Blinken Discusses Gaza Aid With Emirati Ruler</h3>
+<sub>By Edward Wong</sub>
+<p>The U.S. secretary of state visited the United Arab Emirates on a Middle East tour aimed at keeping the Israel-Hamas war from further inflaming regional tensions.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
 <h3>Boeing Max 9 Plane Had Been Barred From Long Flights Over Water</h3>
@@ -80,23 +116,11 @@ Right now, it looks like the US government is on the brink of a shutdown, and la
 <p>After a section of the Alaska Airlines flight blew out of the plane, passengers described a mix of horror, confusion and eerie calm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Trump Takes Aim at Haley as Primary Enters Final Phase in Iowa</h3>
-<sub>By Shane Goldmacher</sub>
-<p>Nearly a week before the state’s caucuses, a frenzy of campaigning belies a seemingly static G.O.P. race, with former President Donald J. Trump the prohibitive front-runner.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>With Time Running Short, Liz Cheney Implores Republicans to Reject Trump</h3>
-<sub>By Maggie Astor</sub>
-<p>She endorsed efforts to remove him from the ballot and said, “Tell the world who we are with your vote. Tell them that we are a good and a great nation.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
-<sub>By David E. Sanger and Steven Erlanger</sub>
-<p>With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Best and Worst Moments From the 2024 Golden Globes</h3>
+<sub>By Stephanie Goodman</sub>
+<p>Lily Gladstone made history, Jo Koy did not. And dressing on a theme proved a hit. These were just some of the highs and lows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
 <h3>Golden Globes Winners 2024: The Complete List</h3>
@@ -108,30 +132,6 @@ Right now, it looks like the US government is on the brink of a shutdown, and la
 <h3>19 Looks That Did the Most at the Golden Globes</h3>
 <sub>By The Styles Desk</sub>
 <p>On a night full of fashion, these outfits stood out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
-<h3>The Voice of the Subway Speaks for Herself, at Last</h3>
-<sub>By Ana Ley</sub>
-<p>The bearer of one of New York City’s most ubiquitous voices revealed a secret: She was a woman.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Two Men Down’: For Ukrainian Medics, It Was Time to Move</h3>
-<sub>By Tyler Hicks and Marc Santora</sub>
-<p>They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-science-blue" alt="">
-<h3>First Flight of the Vulcan Rocket Sends an American Lander Toward the Moon</h3>
-<sub>By Kenneth Chang</sub>
-<p>The United Launch Alliance rocket will be the first in a series of new launchers that could chip away at SpaceX’s hold over the space business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-opinion-blue" alt="">
-<h3>What Will Happen to Gaza’s People?</h3>
-<sub>By Peter Beinart</sub>
-<p>Officials are increasingly suggesting that Palestinians should leave the region. The government denies that’s its policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
