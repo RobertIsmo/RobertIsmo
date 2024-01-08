@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-There is a lot going on in the world right now. In the US, Congress is rushing to pass spending legislation before a Jan 19 deadline while former President Donald Trump takes aim at Haley ahead of Iowa&#39;s primary elections. In the Middle East, tensions are rising between Israel and Iran as violence increases in the West Bank. In business, Boeing Max 9 jets remain grounded and &quot;The Color Purple&quot; suffered a big drop in ticket sales in its second weekend. While Ukrainian medics race to save lives on the battlefield, back at home an iconic New York subway voice has been revealed to be that of a woman after years of mystery.</p>
+It looks like things are really heating up right now in the US and around the world. In Washington, time is running out for lawmakers to pass a new spending deal before a January 19 deadline. Meanwhile, former President Donald Trump continues to be the front-runner in the Republican primary for the Iowa caucus. On top of that, tensions between Iran and the West are growing, with renewed nuclear activity and proxy attacks. In terms of lighter news, the 2024 Golden Globe Awards have wrapped up and it looks like Boeing&#39;s Max 9 Jets remain grounded as airlines await inspection instructions. Finally, in New York City, we now know who has been responsible for one of the city&#39;s most ubiquitous voices - a woman!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Shutdown Looming, House and Senate Leaders Agree on Spending Levels</h3>
@@ -86,11 +86,11 @@ There is a lot going on in the world right now. In the US, Congress is rushing t
 <p>Two days after a chunk of the fuselage blew out of one of the planes, the F.A.A. and the aircraft maker are still negotiating what to tell the airlines to do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>What to Know About Boeing’s 737 Max 9 and the Alaska Airlines Grounding</h3>
-<sub>By Christopher F. Schuetze, Keith Bradsher and Melissa Eddy</sub>
-<p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Frightful Minutes Aboard Flight 1282</h3>
+<sub>By Colbi Edmonds and Rebecca Carballo</sub>
+<p>After a section of the Alaska Airlines flight blew out of the plane, passengers described a mix of horror, confusion and eerie calm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
@@ -105,15 +105,15 @@ There is a lot going on in the world right now. In the US, Congress is rushing t
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>Paul Giamatti Has Done the Reading</h3>
-<sub>By Reggie Ugwu</sub>
-<p>For his role in “The Holdovers,” set at a prep school not unlike the one he attended, the hyper-literate actor mined his own dormant memories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>Golden Globes Winners 2024: The Complete List</h3>
+<sub>By Shivani Gonzalez</sub>
+<p>The winning films, TV shows, actors and production teams at the 2024 Golden Globe Awards.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>‘Color Purple’ Struggles at Box Office After Big Christmas Opening</h3>
-<sub>By Brooks Barnes</sub>
-<p>The musical adaptation of the Pulitzer Prize-winning novel seemed an instant hit, but it sold less than $5 million in tickets in its second weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<img src="https://img.shields.io/badge/-style-blue" alt="">
+<h3>2024 Golden Globes: Photos From the Red Carpet</h3>
+<sub>By The Styles Desk</sub>
+<p>All the best looks from the first major award show of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
