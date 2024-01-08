@@ -60,18 +60,24 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Monday, January 8, Central Standard Time</p>
 <p>
-There has been a lot of political controversy in the US recently with both Congress and former President Donald Trump making headlines. One issue is the looming government shutdown over spending levels, for which lawmakers have just negotiated a deal. Trump is also stirring up drama as primary voting in Iowa approaches, while Liz Cheney, daughter of former VP Dick Cheney, has publicly called for Republicans to reject him.
-
-Meanwhile, the US airline industry is facing some troubles of their own as Boeing Max 9 planes remain grounded pending inspection instructions. Alaska Airlines also experienced a scare recently when sections of the fuselage blew out during a flight.
-
-The international scene is also dicey, as conflict between Iran and Israel is intensifying in the Middle East. At the same time, diplomats are visiting the region in an effort to prevent war from spreading any further.
-
-Finally, it was a big night for celebrities at this year&#39;s Golden Globes Awards, where films and shows like &#39;Two Men Down&#39; earned numerous accolades. It was also a fashion show, with many stars turning heads with their stylish ensembles. Closer to home, New Yorkers are going wild over the news that the voice of their subway system actually belongs to a woman!</p>
+Right now, it looks like the US government is on the brink of a shutdown, and lawmakers have to rush through something to avoid it. On top of that, a Boeing Max 9 plane was barred from flying because of a warning light issue when one ended up losing part of its fuselage in an Alaska Airlines flight. Donald Trump is stirring up trouble with his former UN ambassador Nikki Haley in the leadup to the Iowa primary. While all that&#39;s going on, there&#39;s tension between Iran, Russia, and China on one side and the West on the other, with Lebanon caught in the middle. And although far away, the 2024 Golden Globes happened with some spectacular fashion looks, as well as some interesting wins. Here at home, we found out who voices those beloved NYC subway announcements, while Ukrainian medics had to save lives on two different warfronts. There was also an American lunar lander launched by a new Vulcan rocket that could challenge SpaceX&#39;s market dominance in space technology. Finally, people around the world are worried about what will happen to Palestinians living in Gaza as some officials suggest they may need to leave soon.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Shutdown Looming, House and Senate Leaders Agree on Spending Levels</h3>
 <sub>By Carl Hulse</sub>
 <p>Despite the deal, time is short to assemble and pass legislation putting the agreement in force before a Jan. 19 deadline.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-business-blue" alt="">
+<h3>Boeing Max 9 Plane Had Been Barred From Long Flights Over Water</h3>
+<sub>By Mark Walker</sub>
+<p>Alaska Airlines restricted the use of the plane, which lost part of its fuselage on Friday, because of a warning light that went off on previous flights, an official said.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>The Frightful Minutes Aboard Flight 1282</h3>
+<sub>By Colbi Edmonds and Rebecca Carballo</sub>
+<p>After a section of the Alaska Airlines flight blew out of the plane, passengers described a mix of horror, confusion and eerie calm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
@@ -86,28 +92,10 @@ Finally, it was a big night for celebrities at this year&#39;s Golden Globes Awa
 <p>She endorsed efforts to remove him from the ballot and said, “Tell the world who we are with your vote. Tell them that we are a good and a great nation.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Boeing Max 9 Jets Remain Grounded as Airlines Await Inspection Instructions</h3>
-<sub>By Niraj Chokshi</sub>
-<p>Two days after a chunk of the fuselage blew out of one of the planes, the F.A.A. and the aircraft maker are still negotiating what to tell the airlines to do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>The Frightful Minutes Aboard Flight 1282</h3>
-<sub>By Colbi Edmonds and Rebecca Carballo</sub>
-<p>After a section of the Alaska Airlines flight blew out of the plane, passengers described a mix of horror, confusion and eerie calm.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
 <sub>By David E. Sanger and Steven Erlanger</sub>
 <p>With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>As West Bank Violence Rises, Israel Vows to Pursue Military Goals in Gaza</h3>
-<sub>By Isabel Kershner, Edward Wong and Thomas Fuller</sub>
-<p>Diplomats toured the Mideast Sunday on a mission to stop the war from widening, but tensions in the Gaza Strip spread across the region.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-movies-blue" alt="">
@@ -134,11 +122,17 @@ Finally, it was a big night for celebrities at this year&#39;s Golden Globes Awa
 <p>They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 18 N.F.L. Playoff Picture: Mapping the Paths That Remain for Each Team</h3>
-<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
-<p>Detailed tables and scenarios explain the remaining paths to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-science-blue" alt="">
+<h3>First Flight of the Vulcan Rocket Sends an American Lander Toward the Moon</h3>
+<sub>By Kenneth Chang</sub>
+<p>The United Launch Alliance rocket will be the first in a series of new launchers that could chip away at SpaceX’s hold over the space business.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Monday, January 8, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-opinion-blue" alt="">
+<h3>What Will Happen to Gaza’s People?</h3>
+<sub>By Peter Beinart</sub>
+<p>Officials are increasingly suggesting that Palestinians should leave the region. The government denies that’s its policy.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
