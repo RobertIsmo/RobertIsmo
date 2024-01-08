@@ -60,7 +60,7 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <h2>What is happening in the world?</h2>
 <p>It is Sunday, January 7, Central Standard Time</p>
 <p>
-There is a looming government shutdown in the US as House and Senate leaders have been unable to agree on spending levels by a Jan. 19 deadline. Former President Donald J. Trump is prominently campaigning in Iowa as the primary there enters its final phase. In Michigan, Republicans are holding a disputed vote to remove their state&#39;s controversial party leader, though her allies are challenging it. In terms of travel safety, Boeing is again coming under scrutiny after their 737 Max aircraft experienced a problem midflight, leaving passengers unsure of what to do. American unions are also making news as some have shifted their views on Israel to ones that are more critical of the country and its politics. In the NFL, playoffs are heating up and scenarios are being mapped out for each team with 18 weeks complete in the regular season. Lastly, people from Texas seeking marijuana are driving fans of cannabis to Sunland Park, New Mexico as it has become something of a &#39;Little Amsterdam&#39;. On Feb 28th, the Golden Globes will be taking place with streaming and other options available for people who might not be able to attend.</p>
+There is a lot going on in the world right now. In the US, Congress is rushing to pass spending legislation before a Jan 19 deadline while former President Donald Trump takes aim at Haley ahead of Iowa&#39;s primary elections. In the Middle East, tensions are rising between Israel and Iran as violence increases in the West Bank. In business, Boeing Max 9 jets remain grounded and &quot;The Color Purple&quot; suffered a big drop in ticket sales in its second weekend. While Ukrainian medics race to save lives on the battlefield, back at home an iconic New York subway voice has been revealed to be that of a woman after years of mystery.</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Shutdown Looming, House and Senate Leaders Agree on Spending Levels</h3>
@@ -75,15 +75,15 @@ There is a looming government shutdown in the US as House and Senate leaders hav
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Michigan Republicans Hold Disputed Vote to Remove Party Leader</h3>
-<sub>By Nick Corasaniti and Neil Vigdor</sub>
-<p>The effort to oust the state’s controversial G.O.P. chair after infighting and financial troubles faces challenges from her allies and is likely headed to the courts.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<h3>With Time Running Short, Liz Cheney Implores Republicans to Reject Trump</h3>
+<sub>By Maggie Astor</sub>
+<p>She endorsed efforts to remove him from the ballot and said, “Tell the world who we are with your vote. Tell them that we are a good and a great nation.”  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>Boeing Again Under Scrutiny After Latest 737 Max Problem</h3>
+<h3>Boeing Max 9 Jets Remain Grounded as Airlines Await Inspection Instructions</h3>
 <sub>By Niraj Chokshi</sub>
-<p>A sudden hole appearing in the side of an Alaska Airlines plane midflight follows years of problems with the manufacturer’s aircraft.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>Two days after a chunk of the fuselage blew out of one of the planes, the F.A.A. and the aircraft maker are still negotiating what to tell the airlines to do.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
@@ -92,16 +92,28 @@ There is a looming government shutdown in the US as House and Senate leaders hav
 <p>Boeing faced new safety questions after an Alaska Airlines jet made an emergency landing when a hole opened in its fuselage in midair.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-travel-blue" alt="">
-<h3>What Passengers Need to Know After the Boeing 737 Max 9 Incident</h3>
-<sub>By Christine Chung</sub>
-<p>An Alaska Airlines plane made an emergency landing when a section of its aircraft ripped off in flight. Here’s what passengers should know about the aircraft, how airlines are responding and more.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-us-blue" alt="">
+<h3>From Lebanon to the Red Sea, a Broader Conflict With Iran Looms</h3>
+<sub>By David E. Sanger and Steven Erlanger</sub>
+<p>With its proxies attacking from many vantage points and its nuclear program suddenly revived, Iran is posing a new challenge to the West — this time with Russia and China on its side.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>As West Bank Violence Rises, Israel Vows to Pursue Military Goals in Gaza</h3>
+<sub>By Isabel Kershner, Edward Wong and Thomas Fuller</sub>
+<p>Diplomats toured the Mideast Sunday on a mission to stop the war from widening, but tensions in the Gaza Strip spread across the region.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-movies-blue" alt="">
+<h3>Paul Giamatti Has Done the Reading</h3>
+<sub>By Reggie Ugwu</sub>
+<p>For his role in “The Holdovers,” set at a prep school not unlike the one he attended, the hyper-literate actor mined his own dormant memories.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-business-blue" alt="">
-<h3>American Unions Long Backed Israel. Now, Some Are Protesting It.</h3>
-<sub>By Emma Goldberg and Santul Nerkar</sub>
-<p>The shift reflects a broader generational change, and has exposed philosophical rifts in the labor movement about what the purpose of a union ought to be.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<h3>‘Color Purple’ Struggles at Box Office After Big Christmas Opening</h3>
+<sub>By Brooks Barnes</sub>
+<p>The musical adaptation of the Pulitzer Prize-winning novel seemed an instant hit, but it sold less than $5 million in tickets in its second weekend.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-briefing-blue" alt="">
@@ -116,23 +128,11 @@ There is a looming government shutdown in the US as House and Senate leaders hav
 <p>They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
-<img src="https://img.shields.io/badge/-upshot-blue" alt="">
-<h3>Week 18 N.F.L. Playoff Picture: Mapping the Paths That Remain for Each Team</h3>
-<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
-<p>Detailed tables and scenarios explain the remaining paths to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-us-blue" alt="">
-<h3>Marijuana Buyers From Texas Fuel a ‘Little Amsterdam’ in New Mexico</h3>
-<sub>By J. David Goodman and Erin Schaff</sub>
-<p>Sunland Park, along the Rio Grande, has joined the ranks of U.S. cities transformed by state cannabis laws. But the good times may not last forever.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-movies-blue" alt="">
-<h3>How to Watch the Golden Globes 2024: Date, Time and Streaming</h3>
-<sub>By Sarah Bahr</sub>
-<p>Hollywood usually looks to the annual awards as a party, but this year they also have an unlikely mission: A bid for relevance.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Friday, January 5, Central Standard Time</sub></sub>
+<img src="https://img.shields.io/badge/-nyregion-blue" alt="">
+<h3>The Voice of the Subway Speaks for Herself, at Last</h3>
+<sub>By Ana Ley</sub>
+<p>The bearer of one of New York City’s most ubiquitous voices revealed a secret: She was a woman.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
