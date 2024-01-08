@@ -58,9 +58,15 @@ I am Robert Ismo, I am a backend developer from <img src="https://emojis.slackmo
 <p>storytelling is more than just narrative and emotion. To convey a good story you must know your audience. It's about understanding interests, values, and beliefs and using them to create a story that resonates. It's about presenting information in a way that is both informative and entertaining. It's about creating an emotional connection with the those experiencing it...</p>
 <p>That's it! it is about experience. So what are we experiencing now?</p>
 <h2>What is happening in the world?</h2>
-<p>It is Sunday, January 7, Central Standard Time</p>
+<p>It is Monday, January 8, Central Standard Time</p>
 <p>
-It looks like things are really heating up right now in the US and around the world. In Washington, time is running out for lawmakers to pass a new spending deal before a January 19 deadline. Meanwhile, former President Donald Trump continues to be the front-runner in the Republican primary for the Iowa caucus. On top of that, tensions between Iran and the West are growing, with renewed nuclear activity and proxy attacks. In terms of lighter news, the 2024 Golden Globe Awards have wrapped up and it looks like Boeing&#39;s Max 9 Jets remain grounded as airlines await inspection instructions. Finally, in New York City, we now know who has been responsible for one of the city&#39;s most ubiquitous voices - a woman!</p>
+There has been a lot of political controversy in the US recently with both Congress and former President Donald Trump making headlines. One issue is the looming government shutdown over spending levels, for which lawmakers have just negotiated a deal. Trump is also stirring up drama as primary voting in Iowa approaches, while Liz Cheney, daughter of former VP Dick Cheney, has publicly called for Republicans to reject him.
+
+Meanwhile, the US airline industry is facing some troubles of their own as Boeing Max 9 planes remain grounded pending inspection instructions. Alaska Airlines also experienced a scare recently when sections of the fuselage blew out during a flight.
+
+The international scene is also dicey, as conflict between Iran and Israel is intensifying in the Middle East. At the same time, diplomats are visiting the region in an effort to prevent war from spreading any further.
+
+Finally, it was a big night for celebrities at this year&#39;s Golden Globes Awards, where films and shows like &#39;Two Men Down&#39; earned numerous accolades. It was also a fashion show, with many stars turning heads with their stylish ensembles. Closer to home, New Yorkers are going wild over the news that the voice of their subway system actually belongs to a woman!</p>
 <ol>
 <img src="https://img.shields.io/badge/-us-blue" alt="">
 <h3>With Shutdown Looming, House and Senate Leaders Agree on Spending Levels</h3>
@@ -111,21 +117,9 @@ It looks like things are really heating up right now in the US and around the wo
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-style-blue" alt="">
-<h3>2024 Golden Globes: Photos From the Red Carpet</h3>
+<h3>19 Looks That Did the Most at the Golden Globes</h3>
 <sub>By The Styles Desk</sub>
-<p>All the best looks from the first major award show of the year.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-briefing-blue" alt="">
-<h3>The Misguided War on the SAT</h3>
-<sub>By David Leonhardt</sub>
-<p>Colleges have fled standardized tests, on the theory that they hurt diversity. That’s not what the research shows.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
-<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
-<hr/>
-<img src="https://img.shields.io/badge/-world-blue" alt="">
-<h3>‘Two Men Down’: For Ukrainian Medics, It Was Time to Move</h3>
-<sub>By Tyler Hicks and Marc Santora</sub>
-<p>They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<p>On a night full of fashion, these outfits stood out.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
 <hr/>
 <img src="https://img.shields.io/badge/-nyregion-blue" alt="">
@@ -133,6 +127,18 @@ It looks like things are really heating up right now in the US and around the wo
 <sub>By Ana Ley</sub>
 <p>The bearer of one of New York City’s most ubiquitous voices revealed a secret: She was a woman.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
 <sub><sub>Saturday, January 6, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-world-blue" alt="">
+<h3>‘Two Men Down’: For Ukrainian Medics, It Was Time to Move</h3>
+<sub>By Tyler Hicks and Marc Santora</sub>
+<p>They are the first line of treatment for soldiers wounded on the battlefield, racing against time to try to save lives.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Sunday, January 7, Central Standard Time</sub></sub>
+<hr/>
+<img src="https://img.shields.io/badge/-upshot-blue" alt="">
+<h3>Week 18 N.F.L. Playoff Picture: Mapping the Paths That Remain for Each Team</h3>
+<sub>By Josh Katz, Kevin Quealy and Ben Blatt</sub>
+<p>Detailed tables and scenarios explain the remaining paths to the playoffs.  <a href=""><img src="https://developer.nytimes.com/files/poweredby_nytimes_30b.png?v=1583354208352" height="20"></a></p>
+<sub><sub>Thursday, January 4, Central Standard Time</sub></sub>
 <hr/>
 </ol>
 <a href="https://developer.nytimes.com"><sub><sub>Data provided by The New York Times</sub></sub></a>
